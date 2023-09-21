@@ -1,14 +1,14 @@
-"","RegionName","Funding_2021"
-"1","South of Sahara",590.41
-"2","Europe",327.48
-"3","South & Central Asia",173.91
-"4","Far East Asia",111.27
-"5","Regional and Unspecified",60.22
-"6","Oceania",47.27
-"7","Caribbean & Central America",46.69
-"8","South America",31.02
-"9","Middle East",29.44
-"10","North of Sahara",25.07
-"11","Africa",20.53
-"12","Asia",5.09
-"13","America",0
+"","RegionName","Funding_2021","perc_region_total"
+"1","South of Sahara",590.41,0.402077090710978
+"2","Europe",327.48,0.223018251157723
+"3","South & Central Asia",173.91,0.118435031326614
+"4","Far East Asia",111.27,0.0757763552165622
+"5","Regional and Unspecified",60.22,0.0410106238082266
+"6","Oceania",47.27,0.0321915009534187
+"7","Caribbean & Central America",46.69,0.0317965132116589
+"8","South America",31.02,0.0211250340506674
+"9","Middle East",29.44,0.020049032961046
+"10","North of Sahara",25.07,0.0170730046308908
+"11","Africa",20.53,0.013981204031599
+"12","Asia",5.09,0.00346635794061564
+"13","America",0,0
