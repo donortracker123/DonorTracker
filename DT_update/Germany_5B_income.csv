@@ -1,31 +1,36 @@
-"Year","Income Group","ODA","Share","Donor"
-"2018","Lower-middle income countries",4962.707716,"21%","Germany"
-"2019","Lower-middle income countries",5242.365517,"22%","Germany"
-"2020","Lower-middle income countries",5695.22744,"21%","Germany"
-"2021","Lower-middle income countries",5766.64784,"21%","Germany"
-"2022","Lower-middle income countries",7046.382999,"20%","Germany"
-"2018","Upper-middle income countries",5882.164846,"24%","Germany"
-"2019","Upper-middle income countries",4697.639316,"20%","Germany"
-"2020","Upper-middle income countries",5850.324713,"21%","Germany"
-"2021","Upper-middle income countries",4320.441895,"16%","Germany"
-"2022","Upper-middle income countries",5603.973095,"16%","Germany"
-"2018","Unallocated by income",2605.229729,"11%","Germany"
-"2019","Unallocated by income",2913.307571,"12%","Germany"
-"2020","Unallocated by income",3518.537985,"13%","Germany"
-"2021","Unallocated by income",3783.332972,"14%","Germany"
-"2022","Unallocated by income",3905.964618,"11%","Germany"
-"2018","Low income countries",3147.814674,"13%","Germany"
-"2019","Low income countries",3251.466384,"14%","Germany"
-"2020","Low income countries",3920.085301,"14%","Germany"
-"2021","Low income countries",3605.260941,"13%","Germany"
-"2022","Low income countries",3384.779317,"10%","Germany"
-"2018","Countries not classified",9.511672,"0%","Germany"
-"2019","Countries not classified",12.26879,"0%","Germany"
-"2020","Countries not classified",11.328007,"0%","Germany"
-"2021","Countries not classified",24.102353,"0%","Germany"
-"2022","Countries not classified",10.9147,"0%","Germany"
-"2018","High income countries",1.002738,"0%","Germany"
-"2019","High income countries",1.385524,"0%","Germany"
-"2020","High income countries",1.61914,"0%","Germany"
-"2021","High income countries",1.718556,"0%","Germany"
-"2022","High income countries",2.266687,"0%","Germany"
+Year,Income Group,ODA,Share,Donor
+2018,Countries unspecified,7467.451157,31.02%,Germany
+2019,Countries unspecified,7471.540381,31.67%,Germany
+2020,Countries unspecified,8678.65943,31.36%,Germany
+2021,Countries unspecified,10161.11326,36.73%,Germany
+2022,Countries unspecified,14996.39502,42.91%,Germany
+2018,Lower-middle income countries,4962.707716,20.61%,Germany
+2019,Lower-middle income countries,5242.365517,22.22%,Germany
+2020,Lower-middle income countries,5695.22744,20.58%,Germany
+2021,Lower-middle income countries,5766.64784,20.85%,Germany
+2022,Lower-middle income countries,7046.382999,20.16%,Germany
+2018,Upper-middle income countries,5882.164846,24.43%,Germany
+2019,Upper-middle income countries,4697.639316,19.91%,Germany
+2020,Upper-middle income countries,5850.324713,21.14%,Germany
+2021,Upper-middle income countries,4320.441895,15.62%,Germany
+2022,Upper-middle income countries,5603.973095,16.03%,Germany
+2018,Unallocated by income,2605.229729,10.82%,Germany
+2019,Unallocated by income,2913.307571,12.35%,Germany
+2020,Unallocated by income,3518.537985,12.71%,Germany
+2021,Unallocated by income,3783.332972,13.68%,Germany
+2022,Unallocated by income,3905.964618,11.18%,Germany
+2018,Low income countries,3147.814674,13.07%,Germany
+2019,Low income countries,3251.466384,13.78%,Germany
+2020,Low income countries,3920.085301,14.16%,Germany
+2021,Low income countries,3605.260941,13.03%,Germany
+2022,Low income countries,3384.779317,9.68%,Germany
+2018,Countries not classified,9.511672,0.04%,Germany
+2019,Countries not classified,12.26879,0.05%,Germany
+2020,Countries not classified,11.328007,0.04%,Germany
+2021,Countries not classified,24.102353,0.09%,Germany
+2022,Countries not classified,10.9147,0.03%,Germany
+2018,High income countries,1.002738,0%,Germany
+2019,High income countries,1.385524,0.01%,Germany
+2020,High income countries,1.61914,0.01%,Germany
+2021,High income countries,1.718556,0.01%,Germany
+2022,High income countries,2.266687,0.01%,Germany

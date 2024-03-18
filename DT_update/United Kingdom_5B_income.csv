@@ -1,31 +1,36 @@
-"Year","Income Group","ODA","Share","Donor"
-"2018","Low income countries",3085.493659,"22%","United Kingdom"
-"2019","Low income countries",3377.538396,"22%","United Kingdom"
-"2020","Low income countries",2680.759668,"20%","United Kingdom"
-"2021","Low income countries",1719.357752,"17%","United Kingdom"
-"2022","Low income countries",1434.655028,"11%","United Kingdom"
-"2018","Lower-middle income countries",2885.786729,"21%","United Kingdom"
-"2019","Lower-middle income countries",3035.265171,"20%","United Kingdom"
-"2020","Lower-middle income countries",2298.735818,"17%","United Kingdom"
-"2021","Lower-middle income countries",1568.017768,"15%","United Kingdom"
-"2022","Lower-middle income countries",1327.641171,"10%","United Kingdom"
-"2018","Unallocated by income",1740.397468,"12%","United Kingdom"
-"2019","Unallocated by income",1364.704906,"9%","United Kingdom"
-"2020","Unallocated by income",1123.824365,"8%","United Kingdom"
-"2021","Unallocated by income",857.897329,"8%","United Kingdom"
-"2022","Unallocated by income",742.662443,"6%","United Kingdom"
-"2018","Upper-middle income countries",707.974154,"5%","United Kingdom"
-"2019","Upper-middle income countries",877.357588,"6%","United Kingdom"
-"2020","Upper-middle income countries",764.675405,"6%","United Kingdom"
-"2021","Upper-middle income countries",757.89256,"7%","United Kingdom"
-"2022","Upper-middle income countries",352.319764,"3%","United Kingdom"
-"2018","Countries not classified",102.928069,"1%","United Kingdom"
-"2019","Countries not classified",110.74448,"1%","United Kingdom"
-"2020","Countries not classified",138.661217,"1%","United Kingdom"
-"2021","Countries not classified",94.015263,"1%","United Kingdom"
-"2022","Countries not classified",96.400178,"1%","United Kingdom"
-"2018","High income countries",3.143044,"0%","United Kingdom"
-"2019","High income countries",5.827259,"0%","United Kingdom"
-"2020","High income countries",4.51859,"0%","United Kingdom"
-"2021","High income countries",3.311001,"0%","United Kingdom"
-"2022","High income countries",1.151262,"0%","United Kingdom"
+Year,Income Group,ODA,Share,Donor
+2018,Countries unspecified,5446.322086,38.98%,United Kingdom
+2019,Countries unspecified,6698.187613,43.30%,United Kingdom
+2020,Countries unspecified,6316.357875,47.39%,United Kingdom
+2021,Countries unspecified,5210.040404,51.03%,United Kingdom
+2022,Countries unspecified,8847.451996,69.11%,United Kingdom
+2018,Low income countries,3085.493659,22.08%,United Kingdom
+2019,Low income countries,3377.538396,21.83%,United Kingdom
+2020,Low income countries,2680.759668,20.11%,United Kingdom
+2021,Low income countries,1719.357752,16.84%,United Kingdom
+2022,Low income countries,1434.655028,11.21%,United Kingdom
+2018,Lower-middle income countries,2885.786729,20.65%,United Kingdom
+2019,Lower-middle income countries,3035.265171,19.62%,United Kingdom
+2020,Lower-middle income countries,2298.735818,17.25%,United Kingdom
+2021,Lower-middle income countries,1568.017768,15.36%,United Kingdom
+2022,Lower-middle income countries,1327.641171,10.37%,United Kingdom
+2018,Unallocated by income,1740.397468,12.46%,United Kingdom
+2019,Unallocated by income,1364.704906,8.82%,United Kingdom
+2020,Unallocated by income,1123.824365,8.43%,United Kingdom
+2021,Unallocated by income,857.897329,8.40%,United Kingdom
+2022,Unallocated by income,742.662443,5.80%,United Kingdom
+2018,Upper-middle income countries,707.974154,5.07%,United Kingdom
+2019,Upper-middle income countries,877.357588,5.67%,United Kingdom
+2020,Upper-middle income countries,764.675405,5.74%,United Kingdom
+2021,Upper-middle income countries,757.89256,7.42%,United Kingdom
+2022,Upper-middle income countries,352.319764,2.75%,United Kingdom
+2018,Countries not classified,102.928069,0.74%,United Kingdom
+2019,Countries not classified,110.74448,0.72%,United Kingdom
+2020,Countries not classified,138.661217,1.04%,United Kingdom
+2021,Countries not classified,94.015263,0.92%,United Kingdom
+2022,Countries not classified,96.400178,0.75%,United Kingdom
+2018,High income countries,3.143044,0.02%,United Kingdom
+2019,High income countries,5.827259,0.04%,United Kingdom
+2020,High income countries,4.51859,0.03%,United Kingdom
+2021,High income countries,3.311001,0.03%,United Kingdom
+2022,High income countries,1.151262,0.01%,United Kingdom

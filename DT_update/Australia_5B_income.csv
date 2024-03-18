@@ -1,31 +1,36 @@
-"Year","Income Group","ODA","Share","Donor"
-"2018","Lower-middle income countries",1235.734055,"44%","Australia"
-"2019","Lower-middle income countries",1233.030633,"48%","Australia"
-"2020","Lower-middle income countries",1137.39897,"43%","Australia"
-"2021","Lower-middle income countries",1553.608179,"50%","Australia"
-"2022","Lower-middle income countries",1408.839775,"53%","Australia"
-"2018","Upper-middle income countries",454.704207,"16%","Australia"
-"2019","Upper-middle income countries",378.394709,"15%","Australia"
-"2020","Upper-middle income countries",390.234056,"15%","Australia"
-"2021","Upper-middle income countries",621.095681,"20%","Australia"
-"2022","Upper-middle income countries",408.291671,"15%","Australia"
-"2018","Unallocated by income",189.115772,"7%","Australia"
-"2019","Unallocated by income",195.901965,"8%","Australia"
-"2020","Unallocated by income",373.665968,"14%","Australia"
-"2021","Unallocated by income",311.729319,"10%","Australia"
-"2022","Unallocated by income",292.021011,"11%","Australia"
-"2018","Low income countries",151.894493,"5%","Australia"
-"2019","Low income countries",157.271841,"6%","Australia"
-"2020","Low income countries",88.823726,"3%","Australia"
-"2021","Low income countries",85.748804,"3%","Australia"
-"2022","Low income countries",108.354343,"4%","Australia"
-"2018","High income countries",25.894622,"1%","Australia"
-"2019","High income countries",20.604655,"1%","Australia"
-"2020","High income countries",15.531144,"1%","Australia"
-"2021","High income countries",20.555148,"1%","Australia"
-"2022","High income countries",20.667163,"1%","Australia"
-"2018","Countries not classified",3.138524,"0%","Australia"
-"2019","Countries not classified",6.849522,"0%","Australia"
-"2020","Countries not classified",2.671866,"0%","Australia"
-"2021","Countries not classified",3.157632,"0%","Australia"
-"2022","Countries not classified",2.906238,"0%","Australia"
+Year,Income Group,ODA,Share,Donor
+2018,Lower-middle income countries,1235.734055,43.83%,Australia
+2019,Lower-middle income countries,1233.030633,47.95%,Australia
+2020,Lower-middle income countries,1137.39897,42.63%,Australia
+2021,Lower-middle income countries,1553.608179,50.42%,Australia
+2022,Lower-middle income countries,1408.839775,52.88%,Australia
+2018,Countries unspecified,758.851306,26.92%,Australia
+2019,Countries unspecified,579.482569,22.53%,Australia
+2020,Countries unspecified,659.851223,24.73%,Australia
+2021,Countries unspecified,485.693412,15.76%,Australia
+2022,Countries unspecified,423.061106,15.88%,Australia
+2018,Upper-middle income countries,454.704207,16.13%,Australia
+2019,Upper-middle income countries,378.394709,14.71%,Australia
+2020,Upper-middle income countries,390.234056,14.63%,Australia
+2021,Upper-middle income countries,621.095681,20.16%,Australia
+2022,Upper-middle income countries,408.291671,15.33%,Australia
+2018,Unallocated by income,189.115772,6.71%,Australia
+2019,Unallocated by income,195.901965,7.62%,Australia
+2020,Unallocated by income,373.665968,14%,Australia
+2021,Unallocated by income,311.729319,10.12%,Australia
+2022,Unallocated by income,292.021011,10.96%,Australia
+2018,Low income countries,151.894493,5.39%,Australia
+2019,Low income countries,157.271841,6.12%,Australia
+2020,Low income countries,88.823726,3.33%,Australia
+2021,Low income countries,85.748804,2.78%,Australia
+2022,Low income countries,108.354343,4.07%,Australia
+2018,High income countries,25.894622,0.92%,Australia
+2019,High income countries,20.604655,0.80%,Australia
+2020,High income countries,15.531144,0.58%,Australia
+2021,High income countries,20.555148,0.67%,Australia
+2022,High income countries,20.667163,0.78%,Australia
+2018,Countries not classified,3.138524,0.11%,Australia
+2019,Countries not classified,6.849522,0.27%,Australia
+2020,Countries not classified,2.671866,0.10%,Australia
+2021,Countries not classified,3.157632,0.10%,Australia
+2022,Countries not classified,2.906238,0.11%,Australia

@@ -1,31 +1,36 @@
-"Year","Income Group","ODA","Share","Donor"
-"2018","Lower-middle income countries",265.675623,"23%","Spain"
-"2019","Lower-middle income countries",261.770691,"22%","Spain"
-"2020","Lower-middle income countries",220.161844,"20%","Spain"
-"2021","Lower-middle income countries",312.963233,"20%","Spain"
-"2022","Lower-middle income countries",400.067099,"16%","Spain"
-"2018","Upper-middle income countries",316.347679,"27%","Spain"
-"2019","Upper-middle income countries",318.468844,"27%","Spain"
-"2020","Upper-middle income countries",335.521205,"31%","Spain"
-"2021","Upper-middle income countries",358.655965,"23%","Spain"
-"2022","Upper-middle income countries",362.694559,"15%","Spain"
-"2018","Low income countries",132.936752,"12%","Spain"
-"2019","Low income countries",127.308276,"11%","Spain"
-"2020","Low income countries",103.630638,"9%","Spain"
-"2021","Low income countries",156.663456,"10%","Spain"
-"2022","Low income countries",141.661453,"6%","Spain"
-"2018","Unallocated by income",86.773079,"8%","Spain"
-"2019","Unallocated by income",55.242304,"5%","Spain"
-"2020","Unallocated by income",57.816162,"5%","Spain"
-"2021","Unallocated by income",53.389469,"3%","Spain"
-"2022","Unallocated by income",87.729678,"4%","Spain"
-"2018","Countries not classified",67.037236,"6%","Spain"
-"2019","Countries not classified",75.591909,"6%","Spain"
-"2020","Countries not classified",53.73559,"5%","Spain"
-"2021","Countries not classified",7.392313,"0%","Spain"
-"2022","Countries not classified",11.119708,"0%","Spain"
-"2018","High income countries",1.268089,"0%","Spain"
-"2019","High income countries",1.164463,"0%","Spain"
-"2020","High income countries",0.692507,"0%","Spain"
-"2021","High income countries",1.445866,"0%","Spain"
-"2022","High income countries",2.322565,"0%","Spain"
+Year,Income Group,ODA,Share,Donor
+2018,Countries unspecified,282.931528,24.54%,Spain
+2019,Countries unspecified,342.470872,28.97%,Spain
+2020,Countries unspecified,328.442038,29.86%,Spain
+2021,Countries unspecified,640.336949,41.83%,Spain
+2022,Countries unspecified,1444.042135,58.95%,Spain
+2018,Lower-middle income countries,265.675623,23.04%,Spain
+2019,Lower-middle income countries,261.770691,22.15%,Spain
+2020,Lower-middle income countries,220.161844,20.01%,Spain
+2021,Lower-middle income countries,312.963233,20.44%,Spain
+2022,Lower-middle income countries,400.067099,16.33%,Spain
+2018,Upper-middle income countries,316.347679,27.44%,Spain
+2019,Upper-middle income countries,318.468844,26.94%,Spain
+2020,Upper-middle income countries,335.521205,30.50%,Spain
+2021,Upper-middle income countries,358.655965,23.43%,Spain
+2022,Upper-middle income countries,362.694559,14.81%,Spain
+2018,Low income countries,132.936752,11.53%,Spain
+2019,Low income countries,127.308276,10.77%,Spain
+2020,Low income countries,103.630638,9.42%,Spain
+2021,Low income countries,156.663456,10.23%,Spain
+2022,Low income countries,141.661453,5.78%,Spain
+2018,Unallocated by income,86.773079,7.53%,Spain
+2019,Unallocated by income,55.242304,4.67%,Spain
+2020,Unallocated by income,57.816162,5.26%,Spain
+2021,Unallocated by income,53.389469,3.49%,Spain
+2022,Unallocated by income,87.729678,3.58%,Spain
+2018,Countries not classified,67.037236,5.81%,Spain
+2019,Countries not classified,75.591909,6.40%,Spain
+2020,Countries not classified,53.73559,4.89%,Spain
+2021,Countries not classified,7.392313,0.48%,Spain
+2022,Countries not classified,11.119708,0.45%,Spain
+2018,High income countries,1.268089,0.11%,Spain
+2019,High income countries,1.164463,0.10%,Spain
+2020,High income countries,0.692507,0.06%,Spain
+2021,High income countries,1.445866,0.09%,Spain
+2022,High income countries,2.322565,0.09%,Spain

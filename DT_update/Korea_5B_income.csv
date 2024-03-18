@@ -1,31 +1,36 @@
-"Year","Income Group","ODA","Share","Donor"
-"2018","Lower-middle income countries",1031.454323,"54%","Korea"
-"2019","Lower-middle income countries",1329.12044,"61%","Korea"
-"2020","Lower-middle income countries",1180.274076,"58%","Korea"
-"2021","Lower-middle income countries",1359.04472,"55%","Korea"
-"2022","Lower-middle income countries",1446.391092,"53%","Korea"
-"2018","Upper-middle income countries",258.678495,"14%","Korea"
-"2019","Upper-middle income countries",243.035632,"11%","Korea"
-"2020","Upper-middle income countries",264.962366,"13%","Korea"
-"2021","Upper-middle income countries",401.780845,"16%","Korea"
-"2022","Upper-middle income countries",420.050694,"15%","Korea"
-"2018","Low income countries",288.226339,"15%","Korea"
-"2019","Low income countries",310.139744,"14%","Korea"
-"2020","Low income countries",271.281857,"13%","Korea"
-"2021","Low income countries",285.838063,"12%","Korea"
-"2022","Low income countries",389.169027,"14%","Korea"
-"2018","Unallocated by income",58.989851,"3%","Korea"
-"2019","Unallocated by income",77.660833,"4%","Korea"
-"2020","Unallocated by income",77.144131,"4%","Korea"
-"2021","Unallocated by income",80.605796,"3%","Korea"
-"2022","Unallocated by income",84.296162,"3%","Korea"
-"2018","High income countries",0.393846,"0%","Korea"
-"2019","High income countries",0.462714,"0%","Korea"
-"2020","High income countries",2.152011,"0%","Korea"
-"2021","High income countries",0.982868,"0%","Korea"
-"2022","High income countries",1.031146,"0%","Korea"
-"2018","Countries not classified",0.224838,"0%","Korea"
-"2019","Countries not classified",1.391646,"0%","Korea"
-"2020","Countries not classified",1.761051,"0%","Korea"
-"2021","Countries not classified",1.125457,"0%","Korea"
-"2022","Countries not classified",0.090672,"0%","Korea"
+Year,Income Group,ODA,Share,Donor
+2018,Lower-middle income countries,1031.454323,54.42%,Korea
+2019,Lower-middle income countries,1329.12044,61.29%,Korea
+2020,Lower-middle income countries,1180.274076,58%,Korea
+2021,Lower-middle income countries,1359.04472,55.42%,Korea
+2022,Lower-middle income countries,1446.391092,52.95%,Korea
+2018,Upper-middle income countries,258.678495,13.65%,Korea
+2019,Upper-middle income countries,243.035632,11.21%,Korea
+2020,Upper-middle income countries,264.962366,13.02%,Korea
+2021,Upper-middle income countries,401.780845,16.39%,Korea
+2022,Upper-middle income countries,420.050694,15.38%,Korea
+2018,Countries unspecified,257.397597,13.58%,Korea
+2019,Countries unspecified,206.747578,9.53%,Korea
+2020,Countries unspecified,237.249538,11.66%,Korea
+2021,Countries unspecified,322.737115,13.16%,Korea
+2022,Countries unspecified,390.501702,14.30%,Korea
+2018,Low income countries,288.226339,15.21%,Korea
+2019,Low income countries,310.139744,14.30%,Korea
+2020,Low income countries,271.281857,13.33%,Korea
+2021,Low income countries,285.838063,11.66%,Korea
+2022,Low income countries,389.169027,14.25%,Korea
+2018,Unallocated by income,58.989851,3.11%,Korea
+2019,Unallocated by income,77.660833,3.58%,Korea
+2020,Unallocated by income,77.144131,3.79%,Korea
+2021,Unallocated by income,80.605796,3.29%,Korea
+2022,Unallocated by income,84.296162,3.09%,Korea
+2018,High income countries,0.393846,0.02%,Korea
+2019,High income countries,0.462714,0.02%,Korea
+2020,High income countries,2.152011,0.11%,Korea
+2021,High income countries,0.982868,0.04%,Korea
+2022,High income countries,1.031146,0.04%,Korea
+2018,Countries not classified,0.224838,0.01%,Korea
+2019,Countries not classified,1.391646,0.06%,Korea
+2020,Countries not classified,1.761051,0.09%,Korea
+2021,Countries not classified,1.125457,0.05%,Korea
+2022,Countries not classified,0.090672,0%,Korea

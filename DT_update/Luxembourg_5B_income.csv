@@ -1,31 +1,36 @@
-"Year","Income Group","ODA","Share","Donor"
-"2018","Low income countries",130.450292,"33%","Luxembourg"
-"2019","Low income countries",133.279407,"31%","Luxembourg"
-"2020","Low income countries",124.353823,"36%","Luxembourg"
-"2021","Low income countries",132.041591,"36%","Luxembourg"
-"2022","Low income countries",134.871184,"34%","Luxembourg"
-"2018","Lower-middle income countries",122.61289,"31%","Luxembourg"
-"2019","Lower-middle income countries",120.486774,"28%","Luxembourg"
-"2020","Lower-middle income countries",92.603695,"27%","Luxembourg"
-"2021","Lower-middle income countries",100.447295,"28%","Luxembourg"
-"2022","Lower-middle income countries",115.942308,"29%","Luxembourg"
-"2018","Unallocated by income",18.970995,"5%","Luxembourg"
-"2019","Unallocated by income",25.586691,"6%","Luxembourg"
-"2020","Unallocated by income",21.900459,"6%","Luxembourg"
-"2021","Unallocated by income",22.517796,"6%","Luxembourg"
-"2022","Unallocated by income",29.842301,"8%","Luxembourg"
-"2018","Upper-middle income countries",36.703537,"9%","Luxembourg"
-"2019","Upper-middle income countries",29.590714,"7%","Luxembourg"
-"2020","Upper-middle income countries",19.213953,"6%","Luxembourg"
-"2021","Upper-middle income countries",22.206343,"6%","Luxembourg"
-"2022","Upper-middle income countries",22.453564,"6%","Luxembourg"
-"2018","Countries not classified",0,"0%","Luxembourg"
-"2019","Countries not classified",0.255668,"0%","Luxembourg"
-"2020","Countries not classified",0.125495,"0%","Luxembourg"
-"2021","Countries not classified",0,"0%","Luxembourg"
-"2022","Countries not classified",0.30033,"0%","Luxembourg"
-"2018","High income countries",0,"0%","Luxembourg"
-"2019","High income countries",0,"0%","Luxembourg"
-"2020","High income countries",0,"0%","Luxembourg"
-"2021","High income countries",0,"0%","Luxembourg"
-"2022","High income countries",0,"0%","Luxembourg"
+Year,Income Group,ODA,Share,Donor
+2018,Low income countries,130.450292,32.90%,Luxembourg
+2019,Low income countries,133.279407,30.97%,Luxembourg
+2020,Low income countries,124.353823,35.87%,Luxembourg
+2021,Low income countries,132.041591,36.15%,Luxembourg
+2022,Low income countries,134.871184,33.96%,Luxembourg
+2018,Lower-middle income countries,122.61289,30.92%,Luxembourg
+2019,Lower-middle income countries,120.486774,28%,Luxembourg
+2020,Lower-middle income countries,92.603695,26.71%,Luxembourg
+2021,Lower-middle income countries,100.447295,27.50%,Luxembourg
+2022,Lower-middle income countries,115.942308,29.20%,Luxembourg
+2018,Countries unspecified,87.799484,22.14%,Luxembourg
+2019,Countries unspecified,121.139439,28.15%,Luxembourg
+2020,Countries unspecified,88.473514,25.52%,Luxembourg
+2021,Countries unspecified,88.006984,24.10%,Luxembourg
+2022,Countries unspecified,93.708653,23.60%,Luxembourg
+2018,Unallocated by income,18.970995,4.78%,Luxembourg
+2019,Unallocated by income,25.586691,5.95%,Luxembourg
+2020,Unallocated by income,21.900459,6.32%,Luxembourg
+2021,Unallocated by income,22.517796,6.17%,Luxembourg
+2022,Unallocated by income,29.842301,7.51%,Luxembourg
+2018,Upper-middle income countries,36.703537,9.26%,Luxembourg
+2019,Upper-middle income countries,29.590714,6.88%,Luxembourg
+2020,Upper-middle income countries,19.213953,5.54%,Luxembourg
+2021,Upper-middle income countries,22.206343,6.08%,Luxembourg
+2022,Upper-middle income countries,22.453564,5.65%,Luxembourg
+2018,Countries not classified,0,0%,Luxembourg
+2019,Countries not classified,0.255668,0.06%,Luxembourg
+2020,Countries not classified,0.125495,0.04%,Luxembourg
+2021,Countries not classified,0,0%,Luxembourg
+2022,Countries not classified,0.30033,0.08%,Luxembourg
+2018,High income countries,0,0%,Luxembourg
+2019,High income countries,0,0%,Luxembourg
+2020,High income countries,0,0%,Luxembourg
+2021,High income countries,0,0%,Luxembourg
+2022,High income countries,0,0%,Luxembourg

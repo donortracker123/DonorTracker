@@ -1,31 +1,36 @@
-"Year","Income Group","ODA","Share","Donor"
-"2018","Lower-middle income countries",8994.886307,"27%","United States"
-"2019","Lower-middle income countries",7942.962139,"25%","United States"
-"2020","Lower-middle income countries",8738.076584,"28%","United States"
-"2021","Lower-middle income countries",9094.34574,"23%","United States"
-"2022","Lower-middle income countries",15340.005982,"31%","United States"
-"2018","Low income countries",8208.589163,"25%","United States"
-"2019","Low income countries",8361.003666,"27%","United States"
-"2020","Low income countries",8831.875742,"28%","United States"
-"2021","Low income countries",10481.62864,"27%","United States"
-"2022","Low income countries",9370.083245,"19%","United States"
-"2018","Upper-middle income countries",3958.190792,"12%","United States"
-"2019","Upper-middle income countries",3401.563775,"11%","United States"
-"2020","Upper-middle income countries",3862.878968,"12%","United States"
-"2021","Upper-middle income countries",3944.92649,"10%","United States"
-"2022","Upper-middle income countries",3253.321369,"7%","United States"
-"2018","Unallocated by income",1297.234985,"4%","United States"
-"2019","Unallocated by income",1095.027498,"4%","United States"
-"2020","Unallocated by income",885.751541,"3%","United States"
-"2021","Unallocated by income",2792.61352,"7%","United States"
-"2022","Unallocated by income",2688.384572,"5%","United States"
-"2018","Countries not classified",16.311919,"0%","United States"
-"2019","Countries not classified",45.909453,"0%","United States"
-"2020","Countries not classified",95.043104,"0%","United States"
-"2021","Countries not classified",104.93862,"0%","United States"
-"2022","Countries not classified",116.290083,"0%","United States"
-"2018","High income countries",16.427354,"0%","United States"
-"2019","High income countries",14.855433,"0%","United States"
-"2020","High income countries",10.429469,"0%","United States"
-"2021","High income countries",42.83634,"0%","United States"
-"2022","High income countries",39.088628,"0%","United States"
+Year,Income Group,ODA,Share,Donor
+2018,Countries unspecified,10554.09122,31.94%,United States
+2019,Countries unspecified,10412.62873,33.29%,United States
+2020,Countries unspecified,9249.942473,29.20%,United States
+2021,Countries unspecified,12491.78218,32.07%,United States
+2022,Countries unspecified,18573.91354,37.61%,United States
+2018,Lower-middle income countries,8994.886307,27.22%,United States
+2019,Lower-middle income countries,7942.962139,25.40%,United States
+2020,Lower-middle income countries,8738.076584,27.59%,United States
+2021,Lower-middle income countries,9094.34574,23.35%,United States
+2022,Lower-middle income countries,15340.00598,31.06%,United States
+2018,Low income countries,8208.589163,24.84%,United States
+2019,Low income countries,8361.003666,26.73%,United States
+2020,Low income countries,8831.875742,27.88%,United States
+2021,Low income countries,10481.62864,26.91%,United States
+2022,Low income countries,9370.083245,18.98%,United States
+2018,Upper-middle income countries,3958.190792,11.98%,United States
+2019,Upper-middle income countries,3401.563775,10.88%,United States
+2020,Upper-middle income countries,3862.878968,12.20%,United States
+2021,Upper-middle income countries,3944.92649,10.13%,United States
+2022,Upper-middle income countries,3253.321369,6.59%,United States
+2018,Unallocated by income,1297.234985,3.93%,United States
+2019,Unallocated by income,1095.027498,3.50%,United States
+2020,Unallocated by income,885.751541,2.80%,United States
+2021,Unallocated by income,2792.61352,7.17%,United States
+2022,Unallocated by income,2688.384572,5.44%,United States
+2018,Countries not classified,16.311919,0.05%,United States
+2019,Countries not classified,45.909453,0.15%,United States
+2020,Countries not classified,95.043104,0.30%,United States
+2021,Countries not classified,104.93862,0.27%,United States
+2022,Countries not classified,116.290083,0.24%,United States
+2018,High income countries,16.427354,0.05%,United States
+2019,High income countries,14.855433,0.05%,United States
+2020,High income countries,10.429469,0.03%,United States
+2021,High income countries,42.83634,0.11%,United States
+2022,High income countries,39.088628,0.08%,United States

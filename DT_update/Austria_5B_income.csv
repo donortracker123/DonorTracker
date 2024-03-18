@@ -1,31 +1,36 @@
-"Year","Income Group","ODA","Share","Donor"
-"2018","Upper-middle income countries",176.36972,"34%","Austria"
-"2019","Upper-middle income countries",156.440842,"31%","Austria"
-"2020","Upper-middle income countries",175.125578,"29%","Austria"
-"2021","Upper-middle income countries",189.732467,"26%","Austria"
-"2022","Upper-middle income countries",222.462176,"19%","Austria"
-"2018","Lower-middle income countries",105.866003,"20%","Austria"
-"2019","Lower-middle income countries",89.314207,"18%","Austria"
-"2020","Lower-middle income countries",84.202494,"14%","Austria"
-"2021","Lower-middle income countries",117.003276,"16%","Austria"
-"2022","Lower-middle income countries",198.264065,"17%","Austria"
-"2018","Unallocated by income",57.52592,"11%","Austria"
-"2019","Unallocated by income",47.16284,"9%","Austria"
-"2020","Unallocated by income",78.495416,"13%","Austria"
-"2021","Unallocated by income",145.247727,"20%","Austria"
-"2022","Unallocated by income",165.569778,"14%","Austria"
-"2018","Low income countries",56.324183,"11%","Austria"
-"2019","Low income countries",71.99208,"14%","Austria"
-"2020","Low income countries",70.771036,"12%","Austria"
-"2021","Low income countries",96.107929,"13%","Austria"
-"2022","Low income countries",75.96564,"6%","Austria"
-"2018","Countries not classified",0.446663,"0%","Austria"
-"2019","Countries not classified",1.47333,"0%","Austria"
-"2020","Countries not classified",1.594108,"0%","Austria"
-"2021","Countries not classified",1.604306,"0%","Austria"
-"2022","Countries not classified",0.36827,"0%","Austria"
-"2018","High income countries",0.030253,"0%","Austria"
-"2019","High income countries",0.019979,"0%","Austria"
-"2020","High income countries",0.066938,"0%","Austria"
-"2021","High income countries",0.033185,"0%","Austria"
-"2022","High income countries",0.04328,"0%","Austria"
+Year,Income Group,ODA,Share,Donor
+2018,Countries unspecified,126.488792,24.18%,Austria
+2019,Countries unspecified,134.374884,26.83%,Austria
+2020,Countries unspecified,190.846379,31.75%,Austria
+2021,Countries unspecified,171.089506,23.74%,Austria
+2022,Countries unspecified,517.09841,43.83%,Austria
+2018,Upper-middle income countries,176.36972,33.72%,Austria
+2019,Upper-middle income countries,156.440842,31.24%,Austria
+2020,Upper-middle income countries,175.125578,29.13%,Austria
+2021,Upper-middle income countries,189.732467,26.32%,Austria
+2022,Upper-middle income countries,222.462176,18.86%,Austria
+2018,Lower-middle income countries,105.866003,20.24%,Austria
+2019,Lower-middle income countries,89.314207,17.84%,Austria
+2020,Lower-middle income countries,84.202494,14.01%,Austria
+2021,Lower-middle income countries,117.003276,16.23%,Austria
+2022,Lower-middle income countries,198.264065,16.81%,Austria
+2018,Unallocated by income,57.52592,11%,Austria
+2019,Unallocated by income,47.16284,9.42%,Austria
+2020,Unallocated by income,78.495416,13.06%,Austria
+2021,Unallocated by income,145.247727,20.15%,Austria
+2022,Unallocated by income,165.569778,14.03%,Austria
+2018,Low income countries,56.324183,10.77%,Austria
+2019,Low income countries,71.99208,14.38%,Austria
+2020,Low income countries,70.771036,11.77%,Austria
+2021,Low income countries,96.107929,13.33%,Austria
+2022,Low income countries,75.96564,6.44%,Austria
+2018,Countries not classified,0.446663,0.09%,Austria
+2019,Countries not classified,1.47333,0.29%,Austria
+2020,Countries not classified,1.594108,0.27%,Austria
+2021,Countries not classified,1.604306,0.22%,Austria
+2022,Countries not classified,0.36827,0.03%,Austria
+2018,High income countries,0.030253,0.01%,Austria
+2019,High income countries,0.019979,0%,Austria
+2020,High income countries,0.066938,0.01%,Austria
+2021,High income countries,0.033185,0%,Austria
+2022,High income countries,0.04328,0%,Austria
