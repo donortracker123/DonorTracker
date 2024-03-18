@@ -1,36 +1,36 @@
-"Year","Income Group","ODA","Share","Donor"
-"2018","Low income countriesM",997.490235,"24.65%","Canada"
-"2019","Low income countriesM",879.265744,"23.5%","Canada"
-"2020","Low income countriesM",890.109761,"19.65%","Canada"
-"2021","Low income countriesM",848.888043,"17.05%","Canada"
-"2022","Low income countriesM",3028.962547,"44.3%","Canada"
-"2018","Unallocated by income",1070.22802,"26.45%","Canada"
-"2019","Unallocated by income",1016.655238,"27.17%","Canada"
-"2020","Unallocated by income",1552.641741,"34.28%","Canada"
-"2021","Unallocated by income",2350.574917,"47.2%","Canada"
-"2022","Unallocated by income",1569.801995,"22.96%","Canada"
-"2018","Countries unspecified",780.497828,"19.29%","Canada"
-"2019","Countries unspecified",739.563062,"19.76%","Canada"
-"2020","Countries unspecified",976.510574,"21.56%","Canada"
-"2021","Countries unspecified",528.006447,"10.6%","Canada"
-"2022","Countries unspecified",1004.101822,"14.69%","Canada"
-"2018","Low income countries",909.291807,"22.47%","Canada"
-"2019","Low income countries",821.04993,"21.94%","Canada"
-"2020","Low income countries",812.312725,"17.93%","Canada"
-"2021","Low income countries",966.170216,"19.4%","Canada"
-"2022","Low income countries",938.849075,"13.73%","Canada"
-"2018","Upper-middle income countries",285.470314,"7.05%","Canada"
-"2019","Upper-middle income countries",280.30003,"7.49%","Canada"
-"2020","Upper-middle income countries",286.730392,"6.33%","Canada"
-"2021","Upper-middle income countries",267.320336,"5.37%","Canada"
-"2022","Upper-middle income countries",271.962092,"3.98%","Canada"
-"2018","Countries not classified",0.835695,"0.02%","Canada"
-"2019","Countries not classified",2.784829,"0.07%","Canada"
-"2020","Countries not classified",7.180274,"0.16%","Canada"
-"2021","Countries not classified",13.422402,"0.27%","Canada"
-"2022","Countries not classified",18.169201,"0.27%","Canada"
-"2018","High income countries",2.942308,"0.07%","Canada"
-"2019","High income countries",2.416332,"0.06%","Canada"
-"2020","High income countries",3.957106,"0.09%","Canada"
-"2021","High income countries",5.512374,"0.11%","Canada"
-"2022","High income countries",5.625517,"0.08%","Canada"
+Year,Income Group,ODA,Share,Donor
+2018,Lower-middle income countries,997.490235,24.65%,Canada
+2019,Lower-middle income countries,879.265744,23.50%,Canada
+2020,Lower-middle income countries,890.109761,19.65%,Canada
+2021,Lower-middle income countries,848.888043,17.05%,Canada
+2022,Lower-middle income countries,3028.962547,44.30%,Canada
+2018,Unallocated by income,1070.22802,26.45%,Canada
+2019,Unallocated by income,1016.655238,27.17%,Canada
+2020,Unallocated by income,1552.641741,34.28%,Canada
+2021,Unallocated by income,2350.574917,47.20%,Canada
+2022,Unallocated by income,1569.801995,22.96%,Canada
+2018,Countries unspecified,780.497828,19.29%,Canada
+2019,Countries unspecified,739.563062,19.76%,Canada
+2020,Countries unspecified,976.510574,21.56%,Canada
+2021,Countries unspecified,528.006447,10.60%,Canada
+2022,Countries unspecified,1004.101822,14.69%,Canada
+2018,Low income countries,909.291807,22.47%,Canada
+2019,Low income countries,821.04993,21.94%,Canada
+2020,Low income countries,812.312725,17.93%,Canada
+2021,Low income countries,966.170216,19.40%,Canada
+2022,Low income countries,938.849075,13.73%,Canada
+2018,Upper-middle income countries,285.470314,7.05%,Canada
+2019,Upper-middle income countries,280.30003,7.49%,Canada
+2020,Upper-middle income countries,286.730392,6.33%,Canada
+2021,Upper-middle income countries,267.320336,5.37%,Canada
+2022,Upper-middle income countries,271.962092,3.98%,Canada
+2018,Countries not classified,0.835695,0.02%,Canada
+2019,Countries not classified,2.784829,0.07%,Canada
+2020,Countries not classified,7.180274,0.16%,Canada
+2021,Countries not classified,13.422402,0.27%,Canada
+2022,Countries not classified,18.169201,0.27%,Canada
+2018,High income countries,2.942308,0.07%,Canada
+2019,High income countries,2.416332,0.06%,Canada
+2020,High income countries,3.957106,0.09%,Canada
+2021,High income countries,5.512374,0.11%,Canada
+2022,High income countries,5.625517,0.08%,Canada
