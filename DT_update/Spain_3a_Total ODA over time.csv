@@ -1,10 +1,8 @@
-Year,ODA as % GNI,ODA as % of GNI (estimate),ODA as % of GNI (downside),ODA as % of GNI (upside),Total ODA,Total ODA (estimate),Upside ODA projection,Downside ODA projection
-2018,0.20%,,,,3042.467042,,,
-2019,0.21%,,,,3220.077936,,,
-2020,0.23%,,,,3171.049031,,,
-2021,0.26%,,,,3641.9,,,
-2022,0.30%,,0.30%,0.30%,4663.396172,,,
-2023(estimate),,,,0.34%,,,"5,371",
-2023(estimate),,,0.26%,,,,,"4,059"
-2024(estimate),,,,0.33%,,,"5,371",
-2024(estimate),,,0.25%,,,,,"4,059"
+Year,ODA as % GNI,ODA as % of GNI (estimate),ODA as % of GNI (downside),ODA as % of GNI (upside),Total ODA,Total ODA (estimate)
+2018,0.20%,,,,3042.467042,
+2019,0.21%,,,,3220.077936,
+2020,0.23%,,,,3171.049031,
+2021,0.26%,,,,3641.9,
+2022,0.30%,,0.30%,0.30%,4663.396172,
+2023(estimate),,,0.26%,,,"4,059"
+2024(estimate),,,0.25%,,,"4,059"
