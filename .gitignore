@@ -39,3 +39,6 @@ build/
 *.tmp
 
 # Coverage
+
+# Data
+python/data/
