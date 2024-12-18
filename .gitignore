@@ -1,0 +1,44 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# macOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# IDE settings (e.g., VS Code, PyCharm)
+.vscode/
+.idea/
+*.swp
+
+# Dependency directories
+node_modules/
+dist/
+build/
+
+# Environment configuration
+.env
+*.secret
+
+# Compiled files
+*.o
+*.so
+*.out
+*.a
+
+# Backup files
+*.bak
+*.tmp
+
+# Coverage
+
+# Data
+python/data/

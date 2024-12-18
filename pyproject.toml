@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "DonorTracker"
+version = "0.1.0"
+description = ""
+authors = ["rwest-ncsu <robertwest.data@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+oda-data = "^1.3.3"
+pandas = "^2.2.3"
+pathlib = "^1.0.1"
+duckdb = "^1.1.3"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
