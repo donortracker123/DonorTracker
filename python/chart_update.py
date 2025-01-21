@@ -18,7 +18,7 @@ def main(query_name, dac1_file, crs_file, imputed_multilateral_file, group_by_co
     sql_file = SQL_DIR / f"{query_name}.sql"
     if not sql_file.exists():
         click.echo(f"Error: Query '{query_name}' not found.")
-        click.echo("Available queries:")
+        click.echo("Available charts:")
         for file in SQL_DIR.glob("*.sql"):
             click.echo(f"  - {file.stem}")
         return
