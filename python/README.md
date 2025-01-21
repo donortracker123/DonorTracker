@@ -70,6 +70,11 @@ pip install -r requirements.txt
 
 If everything is installed, you should be able to run the following: 
 
+Change to the python directory: 
+```
+cd python
+```
+
 * macOS/Linux
 ```
 python3 chart_update.py --help
