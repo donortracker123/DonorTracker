@@ -48,16 +48,18 @@ def main(query_name, dac1_file, crs_file, imputed_multilateral_file, latest_year
     # Save output
     if group_by_country: 
         for donor in DAC_COUNTRIES:
-            if donor in ['Austria', 'Belgium', 'Denmark', 'Finland', 'Ireland', 'Luxembourg', 'Switzerland']:
-                save_path = SAVE_PATH / "OP" / f"{donor}{query_name}.csv"
-            else: 
-                save_path = SAVE_PATH / "DT_update" / f"{donor}_{output}.csv"
 
-            click.echo(f"Saving result to: {save_path}")
+            csv_path = (
+                SAVE_PATH / "OP" / f"{donor}_{output}.csv" 
+                if donor in ['Austria', 'Belgium', 'Denmark', 'Finland', 'Ireland', 'Luxembourg', 'Switzerland']
+                else 
+                SAVE_PATH / "DT_update" / f"{donor}_{output}.csv"
+            )
+
+            click.echo(f"Saving result to: {csv_path}")
 
             data = result[result["donor"] == donor]
-            data.drop("donor", axis=1)
-            data.to_csv(output, index=False)
+            data.to_csv(csv_path, index=False, columns=[col for col in data.columns if col != "donor"])
 
 if __name__ == '__main__':
     main()
