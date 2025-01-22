@@ -238,24 +238,12 @@ def get_bilateral_disbursements_by_sector(
 
 if __name__ == "__main__":
 
-    # Get the spending values for imputed multilateral disbursements by sector
-    imputed_spending_broad = get_imputed_multilateral_disbursements_by_sector(
-        start_year=2015,
-        end_year=2022,
-        prices="constant",
-        base_year=2021,
-        group_by="broad_sector",
-    )
-
     imputed_spending_purpose = get_imputed_multilateral_disbursements_by_sector(
         start_year=2015,
-        end_year=2022,
+        end_year=2023,
         prices="constant",
         base_year=2021,
         group_by="purpose",
     )
-
-
-    imputed_spending_broad.to_csv(r'~/Documents/dev/DonorTracker/python/data/imputed_spending_broad.csv', index=False)
 
     imputed_spending_purpose.to_csv(r'~/Documents/dev/DonorTracker/python/data/imputed_spending_purpose.csv', index=False)

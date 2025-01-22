@@ -1,0 +1,225 @@
+donor,year,ODA_GNI_realistic,ODA_realistic
+Australia,2023,0.19,3278.24
+Australia,2024,0.2,3467.38
+Australia,2025,0.19,3367.16
+Australia,2026,0.19,3361.25
+Australia,2027,0.18,3355.36
+Australia,2028,0.18,3353.07
+Australia,2029,0.18,3353.07
+Austria,2023,0.38,1770.86
+Austria,2024,0.26,1212.04
+Austria,2025,0.26,1231.23
+Austria,2026,0.26,1247.97
+Austria,2027,0.26,1260.48
+Austria,2028,0.26,1271.61
+Austria,2029,0.26,1283.26
+Belgium,2023,0.44,2642.8
+Belgium,2024,0.41,2498.3
+Belgium,2025,0.41,2528.13
+Belgium,2026,0.41,2559.48
+Belgium,2027,0.41,2590.83
+Belgium,2028,0.41,2625.6
+Belgium,2029,0.41,2658.5
+Canada,2023,0.38,8266.29
+Canada,2024,0.27,5895.65
+Canada,2025,0.27,6031.72
+Canada,2026,0.27,6143.85
+Canada,2027,0.27,6247.25
+Canada,2028,0.27,6351.89
+Canada,2029,0.27,6457.33
+Czechia,2023,0.24,690.39
+Czechia,2024,0.13,372.78
+Czechia,2025,0.13,380.28
+Czechia,2026,0.13,388.27
+Czechia,2027,0.13,396.81
+Czechia,2028,0.13,405.74
+Czechia,2029,0.13,415.08
+Denmark,2023,0.74,3047.65
+Denmark,2024,0.67,2810.77
+Denmark,2025,0.67,2852.48
+Denmark,2026,0.67,2894.13
+Denmark,2027,0.67,2934.64
+Denmark,2028,0.67,2975.73
+Denmark,2029,0.67,3017.39
+Estonia,2023,0.28,97.71
+Estonia,2024,0.16,56.42
+Estonia,2025,0.16,57.65
+Estonia,2026,0.16,58.81
+Estonia,2027,0.16,59.94
+Estonia,2028,0.16,61.15
+Estonia,2029,0.16,62.4
+EU Institutions,2023,0,24787.95
+EU Institutions,2024,0,25587.98
+EU Institutions,2025,0,26600.62
+EU Institutions,2026,0,26600.62
+EU Institutions,2027,0,26600.62
+EU Institutions,2028,0,26600.62
+EU Institutions,2029,0,26600.62
+Finland,2023,0,1461.36
+Finland,2024,0.36,1008.09
+Finland,2025,0.36,1026.78
+Finland,2026,0.36,1046.69
+Finland,2027,0.36,1064.36
+Finland,2028,0.36,1081.24
+Finland,2029,0.36,1097.61
+France,2023,0.5,14251.25
+France,2024,0.52,15109.59
+France,2025,0.45,13175.84
+France,2026,0.45,13382.44
+France,2027,0.45,13578.35
+France,2028,0.45,13774.7
+France,2029,0.45,13959.69
+Germany,2023,0.79,33558.74
+Germany,2024,0.64,27176.9
+Germany,2025,0.61,26246.46
+Germany,2026,0.61,26627.3
+Germany,2027,0.61,26924.19
+Germany,2028,0.61,27147.66
+Germany,2029,0.61,27325.75
+Greece,2023,0.14,299.6
+Greece,2024,0.13,292.53
+Greece,2025,0.13,298.18
+Greece,2026,0.13,303.27
+Greece,2027,0.13,307.29
+Greece,2028,0.13,311.33
+Greece,2029,0.13,315.24
+Hungary,2023,0.15,255.01
+Hungary,2024,0.15,263.29
+Hungary,2025,0.15,272.1
+Hungary,2026,0.15,279.72
+Hungary,2027,0.15,288.11
+Hungary,2028,0.15,297.33
+Hungary,2029,0.15,306.84
+Iceland,2023,0.36,110.53
+Iceland,2024,0.25,77.18
+Iceland,2025,0.25,78.73
+Iceland,2026,0.25,80.44
+Iceland,2027,0.25,82.31
+Iceland,2028,0.25,84.4
+Iceland,2029,0.25,86.5
+Ireland,2023,0.67,2643.42
+Ireland,2024,0.3,1203.63
+Ireland,2025,0.3,1233.16
+Ireland,2026,0.3,1264.07
+Ireland,2027,0.3,1295.84
+Ireland,2028,0.3,1328.45
+Ireland,2029,0.3,1361.96
+Italy,2023,0.27,5612.4
+Italy,2024,0.29,6171.86
+Italy,2025,0.29,6215.92
+Italy,2026,0.29,6226.49
+Italy,2027,0.29,6246.41
+Italy,2028,0.29,6293.39
+Italy,2029,0.29,6345.87
+Japan,2023,0.44,20244.46
+Japan,2024,0.39,18030.15
+Japan,2025,0.39,18088.21
+Japan,2026,0.39,18293.87
+Japan,2027,0.39,18447.72
+Japan,2028,0.39,18567.08
+Japan,2029,0.39,18686.65
+Korea,2023,0.18,3106.33
+Korea,2024,0.27,4761.18
+Korea,2025,0.27,4872.45
+Korea,2026,0.27,4980.22
+Korea,2027,0.27,5086.35
+Korea,2028,0.27,5192.35
+Korea,2029,0.27,5297.5
+Lithuania,2023,0.28,171.15
+Lithuania,2024,0.12,74.5
+Lithuania,2025,0.12,76.33
+Lithuania,2026,0.12,78.06
+Lithuania,2027,0.12,79.79
+Lithuania,2028,0.12,81.57
+Lithuania,2029,0.12,83.38
+Luxembourg,2023,0.99,520.49
+Luxembourg,2024,0.98,523.97
+Luxembourg,2025,0.98,539.19
+Luxembourg,2026,0.98,552.78
+Luxembourg,2027,0.98,565.72
+Luxembourg,2028,0.98,578.81
+Luxembourg,2029,0.98,592.12
+Netherlands,2023,0.66,6670.06
+Netherlands,2024,0.65,6599.31
+Netherlands,2025,0.64,6534.22
+Netherlands,2026,0.63,6502.45
+Netherlands,2027,0.46,4832.61
+Netherlands,2028,0.45,4839.43
+Netherlands,2029,0.47,5058.63
+New Zealand,2023,0.3,728.06
+New Zealand,2024,0.22,531.61
+New Zealand,2025,0.22,542.07
+New Zealand,2026,0.22,555.15
+New Zealand,2027,0.22,568.35
+New Zealand,2028,0.22,582.11
+New Zealand,2029,0.22,595.92
+Norway,2023,1.09,6756.3
+Norway,2024,0.96,6030.59
+Norway,2025,0.92,5890.17
+Norway,2026,0.87,5632.18
+Norway,2027,0.81,5357.5
+Norway,2028,0.76,5063.43
+Norway,2029,0.7,4761.38
+Poland,2023,0.34,2216.42
+Poland,2024,0.14,950.44
+Poland,2025,0.14,983.47
+Poland,2026,0.14,1015.89
+Poland,2027,0.14,1046.32
+Poland,2028,0.14,1077.39
+Poland,2029,0.14,1109.83
+Portugal,2023,0.19,478.3
+Portugal,2024,0.17,443.35
+Portugal,2025,0.17,452.51
+Portugal,2026,0.17,461.56
+Portugal,2027,0.17,470.46
+Portugal,2028,0.17,479.4
+Portugal,2029,0.17,488.51
+Slovak Republic,2023,0.14,156.44
+Slovak Republic,2024,0.11,130.06
+Slovak Republic,2025,0.11,133.44
+Slovak Republic,2026,0.11,137.18
+Slovak Republic,2027,0.11,140.88
+Slovak Republic,2028,0.11,144.68
+Slovak Republic,2029,0.11,148.59
+Slovenia,2023,0.24,145.3
+Slovenia,2024,0.16,98.16
+Slovenia,2025,0.16,100.62
+Slovenia,2026,0.16,103.33
+Slovenia,2027,0.16,106.12
+Slovenia,2028,0.16,108.99
+Slovenia,2029,0.16,111.93
+Spain,2023,0.24,3533.43
+Spain,2024,0.24,3533.43
+Spain,2025,0.25,3796.91
+Spain,2026,0.26,4059.31
+Spain,2027,0.28,4331.67
+Spain,2028,0.29,4622.66
+Spain,2029,0.31,4932.28
+Sweden,2023,0.91,5571.76
+Sweden,2024,0.93,5735.04
+Sweden,2025,0.89,5622.59
+Sweden,2026,0.86,5512.34
+Sweden,2027,0.82,5404.25
+Sweden,2028,0.79,5298.29
+Sweden,2029,0.7,4790.12
+Switzerland,2023,0.6,4808.42
+Switzerland,2024,0.44,3599.92
+Switzerland,2025,0.44,3649.99
+Switzerland,2026,0.44,3715.69
+Switzerland,2027,0.44,3760.28
+Switzerland,2028,0.44,3827.97
+Switzerland,2029,0.44,3873.9
+United Kingdom,2023,0.58,17666.95
+United Kingdom,2024,0.5,15309.14
+United Kingdom,2025,0.5,15544.9
+United Kingdom,2026,0.5,15813.2
+United Kingdom,2027,0.5,16088.35
+United Kingdom,2028,0.5,16345.28
+United Kingdom,2029,0.5,16577.22
+United States,2023,0.24,63644.8
+United States,2024,0.15,40623.94
+United States,2025,0.15,41388.08
+United States,2026,0.15,42227.43
+United States,2027,0.15,43122.65
+United States,2028,0.15,44037.71
+United States,2029,0.15,44972.19
