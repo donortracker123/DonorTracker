@@ -11,8 +11,8 @@ SAVE_PATH = Path(__file__).parent.parent
 @click.option("--dac1-file", "-dac1", type=click.Path(exists=True), required=False, help="Path to the DAC1 file (Downloaded manually).")
 @click.option("--crs-file", "-crs", type=click.Path(exists=True), required=False, help="Path to the CRS file (Downloaded manually).")
 @click.option("--imputed-multilateral-file", "-im", type=click.Path(exists=True), required=False, help="Path to the Imputed Multilateral data from the ONE Campaign (Retrieved manually).")
-@click.option("--latest-year", "-ly", required=False, help="Latest year to use in the analysis")
-@click.option("--group-by-country", "-country", help="Group by country? (Each country gets a separate chart output)")
+@click.option("--latest-year", "-ly", type=int, required=True, help="Latest year to use in the analysis")
+@click.option("--group-by-country", "-country", is_flag=True, help="Group by country? (Each country gets a separate chart output)")
 @click.option("--output", "-o", default="output.csv", help="Output CSV file if not grouped by country.")
 def main(query_name, dac1_file, crs_file, imputed_multilateral_file, latest_year, group_by_country, output):
     """Run a query using the provided files and save the result."""

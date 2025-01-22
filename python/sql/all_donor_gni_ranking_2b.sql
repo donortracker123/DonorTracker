@@ -6,7 +6,7 @@ WITH base AS (
             "VALUE" AS value
         FROM "{{dac1_file}}"
         WHERE 1=1
-        AND year BETWEEN 2022 AND 2023
+        AND year BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
         AND "Amount type" = 'Current Prices (USD millions)'
         AND "Fund flows" = 'Grant equivalents'
         AND "Donor_1" IN {{dac_countries}}

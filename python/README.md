@@ -97,9 +97,18 @@ Options:
   -im, --imputed-multilateral-file PATH
                                   Path to the Imputed Multilateral data from
                                   the ONE Campaign (Retrieved manually).
+  -ly, --latest-year TEXT         Latest year to use in the analysis
   -country, --group-by-country TEXT
                                   Group by country? (Each country gets a
                                   separate chart output)
   -o, --output TEXT               Output CSV file if not grouped by country.
   --help                          Show this message and exit.
 ```
+
+# Package Usage
+
+## Files Required:
+To successfully use this package, you will need: 
+* DAC1 dataset (link here)
+* CRS dataset (link here)
+* ONE Campaign imputed multilateral data (Can be generated in python/analysis.py)
