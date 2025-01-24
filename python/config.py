@@ -10,6 +10,7 @@ static_dir = Path(__file__).parent / "static"
 projection_file = static_dir / "DT_ODA_Projections_2025.csv"
 deflator_file_wide = static_dir / "deflators.csv"
 deflator_file_long = static_dir / "deflator_file_long.csv"
+dac_crs_codes = static_dir / "DAC_CRS_CODES.csv"
 
 
 DAC_COUNTRIES = tuple([
