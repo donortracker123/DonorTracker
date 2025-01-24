@@ -24,15 +24,28 @@ WITH base AS (
             SUM(CASE 
                 WHEN aid_type = 'I.A. Bilateral Official Development Assistance by types of aid (1+2+3+4+5+6+7+8+9+10)' THEN "value" 
                 ELSE 0
-            END)  AS "Bilateral funding",
+                END
+            )  
+            -
+            SUM(CASE 
+                WHEN aid_type = 'I.A. Memo: ODA channelled through multilateral organisations' THEN "value" 
+                ELSE 0
+                END)AS "Bilateral funding",
+            SUM(CASE 
+                WHEN aid_type = 'I.A. Memo: ODA channelled through multilateral organisations' THEN "value" 
+                ELSE 0
+                END
+            ) AS "Bilateral as earmarked funding through multilaterals",
             SUM(CASE 
                 WHEN aid_type = 'I.B. Multilateral Official Development Assistance (capital subscriptions are included with grants)' THEN "value" 
                 ELSE 0
-                END) AS "Multilateral as core contributions to organizations",
+                END
+            ) AS "Multilateral as core contributions to organizations",
             SUM(CASE 
                 WHEN aid_type = 'I. Official Development Assistance (ODA) (I.A + I.B)' THEN "value" 
                 ELSE 0
-                END) AS "Total ODA"
+                END
+            ) AS "Total ODA"
         FROM base
         GROUP BY 1,2
     )
@@ -42,6 +55,8 @@ WITH base AS (
         "Total ODA",
         coalesce("Bilateral funding", 0) AS "Bilateral funding",
         coalesce("Multilateral as core contributions to organizations", 0) AS "Multilateral as core contributions to organizations", 
+        coalesce("Bilateral as earmarked funding through multilaterals", 0) AS "Bilateral as earmarked funding through multilaterals",
+        round( 100 * coalesce("Bilateral as earmarked funding through multilaterals", 0) / "Total ODA")::INT || '%' AS "Earmarked",
         round( 100 * coalesce("Bilateral funding", 0) / "Total ODA")::INT || '%'  AS "Bilateral",
         round( 100 * coalesce("Multilateral as core contributions to organizations", 0) / "Total ODA")::INT || '%' AS "Multilateral"
     FROM filtered
