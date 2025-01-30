@@ -1,17 +1,18 @@
 from pathlib import Path
 import pandas as pd
 
-# Define the path to the Parquet file
-crs_file = Path("~/Downloads") / "CRS.parquet"
-dac1_file = Path("~/Downloads") / "Table1_Data.csv"
-
-static_dir = Path(__file__).parent / "static" 
+static_dir = Path(__file__).parent / "static"
+data_dir = Path(__file__).parent /  "data"
 
 projection_file = static_dir / "DT_ODA_Projections_2025.csv"
-deflator_file_wide = static_dir / "deflators.csv"
-deflator_file_long = static_dir / "deflator_file_long.csv"
-dac_crs_codes = static_dir / "DAC_CRS_CODES.csv"
+deflator_file = static_dir / "deflator_file.csv"
+dt_sector_file = static_dir / "DT_sector_map.csv"
+dt_regions_file = static_dir / "DT_region.csv"
+dt_channels_file = static_dir / "DT_channel_map.csv"
 
+# Define the path to the Parquet file
+CRS_FILE = data_dir / "CRS.parquet"
+DAC1_FILE = data_dir / "Table1_Data.csv"
 
 DAC_COUNTRIES = tuple([
   "Australia", "Austria", "Belgium", "Canada", "Czechia", "Denmark", "Finland", "France", "Germany", "Greece", "Hungary",
@@ -19,12 +20,8 @@ DAC_COUNTRIES = tuple([
   "Portugal", "Slovak Republic", "Slovenia", "Spain", "Sweden", "Switzerland", "United Kingdom", "United States", "Estonia", "Lithuania"
 ])
 
-if __name__ == "__main__":
-  deflator_table = pd.read_csv(deflator_file_wide, na_values='- ')
-
-  deflator_file_long = pd.melt(deflator_table,
-                              id_vars=['country'],
-                              var_name='year',
-                              value_name='deflator'
-                              ).reset_index(drop=True)
-  deflator_file_long.to_csv(static_dir / 'deflator_file_long.csv', index=False)
+SECTOR_MAPPING = {
+  "ag": "Agriculture (incl. forestry, fishing, rural development)",
+  "ed": "Education",
+  "gh": "Health & populations"
+}
