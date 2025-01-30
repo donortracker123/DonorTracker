@@ -19,9 +19,9 @@ mapped_sectors AS (
         year,
         b.sector_name,
         b.usd_disbursement_defl,
-        dcc.sector_renamed
+        dsf.sector_renamed
     FROM base b 
-    INNER JOIN "{{dac_crs_codes}}" dcc ON dcc.sector_code = b.sector_code
+    INNER JOIN "{{dt_sector_file}}" dsf ON dsf.sector_code = b.sector_code
 ), 
 
 deflated AS (
@@ -32,7 +32,7 @@ deflated AS (
         ms.usd_disbursement_defl,
         dfl.deflator
     FROM mapped_sectors ms
-    INNER JOIN "{{deflator_file_long}}" dfl ON dfl.year = ms.year AND dfl.donor = ms.donor_name
+    INNER JOIN "{{deflator_file}}" dfl ON dfl.year = ms.year AND dfl.donor = ms.donor_name
 
 )
 
