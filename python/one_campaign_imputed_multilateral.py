@@ -1,6 +1,7 @@
 """Replicate ONE's multilateral sectors analysis using the oda-data package"""
 
 import pandas as pd
+import numpy as np
 from oda_data import set_data_path, ODAData, add_sectors, add_broad_sectors
 from oda_data.clean_data.channels import add_channel_names
 
@@ -242,8 +243,12 @@ if __name__ == "__main__":
         start_year=2015,
         end_year=2023,
         prices="constant",
-        base_year=2021,
+        base_year=2022,
         group_by="purpose",
     )
 
-    imputed_spending_purpose.to_csv(r'~/Documents/dev/DonorTracker/python/data/imputed_spending_purpose.csv', index=False)
+    imputed_spending_purpose.replace(["nan", "NaN", np.nan, pd.NA], None, inplace=True)  # Convert string "nan" to None (NULL)
+
+    imputed_spending_purpose = imputed_spending_purpose.where(pd.notna(imputed_spending_purpose), None)
+
+    imputed_spending_purpose.to_csv(r'~/Documents/dev/DonorTracker/python/data/imputed_spending_purpose.csv', index=False, na_rep="")

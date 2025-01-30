@@ -6,7 +6,7 @@ WITH base AS (
             "VALUE" AS value
         FROM "{{dac1_file}}"
         WHERE 1=1
-        AND year BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
+        AND year = {{latest_year}}
         AND "Amount type" = 'Constant Prices (2022 USD millions)'
         AND "Fund flows" = 'Grant equivalents'
         AND "Aid type" IN (
@@ -15,7 +15,7 @@ WITH base AS (
             'I.A. Memo: ODA channelled through multilateral organisations',
             'I.A. Bilateral Official Development Assistance by types of aid (1+2+3+4+5+6+7+8+9+10)'
         )
-    ), 
+    ),
 
     filtered AS (  
         SELECT
@@ -52,12 +52,20 @@ WITH base AS (
     SELECT
         donor,
         "Year",
-        "Total ODA",
-        coalesce("Bilateral funding", 0) AS "Bilateral funding",
-        coalesce("Multilateral as core contributions to organizations", 0) AS "Multilateral as core contributions to organizations", 
-        coalesce("Bilateral as earmarked funding through multilaterals", 0) AS "Bilateral as earmarked funding through multilaterals",
         round( 100 * coalesce("Bilateral as earmarked funding through multilaterals", 0) / "Total ODA")::INT || '%' AS "Earmarked",
         round( 100 * coalesce("Bilateral funding", 0) / "Total ODA")::INT || '%'  AS "Bilateral",
         round( 100 * coalesce("Multilateral as core contributions to organizations", 0) / "Total ODA")::INT || '%' AS "Multilateral"
     FROM filtered
+
+    UNION ALL 
+
+    SELECT
+        'DAC Average',
+        "Year",
+        avg(round( 100 * coalesce("Bilateral as earmarked funding through multilaterals", 0) / "Total ODA")::INT) || '%' AS "Earmarked",
+        avg(round( 100 * coalesce("Bilateral funding", 0) / "Total ODA")::INT) || '%'  AS "Bilateral",
+        avg(round( 100 * coalesce("Multilateral as core contributions to organizations", 0) / "Total ODA")::INT) || '%' AS "Multilateral"
+    FROM filtered
+    WHERE donor IN {{dac_countries}}
+    GROUP BY 1,2
     ORDER BY "Year"

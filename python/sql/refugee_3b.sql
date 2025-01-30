@@ -4,9 +4,9 @@ WITH base AS (
             "Year" AS year,
             "Aid type" AS aid_type,
             "VALUE" AS value
-        FROM "{{dac1_file}}""
+        FROM "{{dac1_file}}"
         WHERE 1=1
-        AND year BETWEEN 2019 AND 2023
+        AND year BETWEEN ({{latest_year}} - 4) AND ({{latest_year}})
         AND "Amount type" = 'Constant Prices (2022 USD millions)'
         AND "Fund flows" = 'Net Disbursements'
         AND "Aid type" IN (

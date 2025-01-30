@@ -53,7 +53,7 @@ deflators AS (
     SELECT 
         donor, 
         deflator
-    FROM "{{deflator_file_long}}"
+    FROM "{{deflator_file}}"
     WHERE year = {{latest_year}}
 ), 
 
