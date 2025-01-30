@@ -67,5 +67,7 @@ deflated AS (
     INNER JOIN deflators d USING (donor)
 )
 
-SELECT * FROM deflated
+SELECT * 
+FROM deflated
 WHERE year <= ({{latest_year}} +2)
+ORDER BY year
