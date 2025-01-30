@@ -17,25 +17,22 @@ crs_totals AS (
     SELECT 
         b.donor_name,
         year,
-        dsf.sector_renamed,
-        b.purpose_code,
         sum(coalesce(usd_disbursement_defl, 0)) AS bilateral_oda
     FROM base b 
-    INNER JOIN "{{dt_sector_file}}" dsf ON dsf.sector_code = b.purpose_code
+    LEFT JOIN "{{dt_sector_file}}" dsf ON dsf.sector_code = b.purpose_code
     WHERE dsf.sector_renamed = '{{sector}}'
-    GROUP BY 1,2,3,4
+    GROUP BY 1,2
 ), 
 
 one_campaign_totals AS (
     SELECT 
-        imf.year, 
         imf.donor_name,
-        imf.purpose_code,
+        imf.year, 
         sum(coalesce(nullif(value, 'nan'), 0)) AS multilateral_oda, --ONE CAMPAIGN SAVED VALUES AS 'nan'
     FROM "{{imputed_multilateral_file}}" imf
     INNER JOIN "{{dt_sector_file}}" dsf ON dsf.sector_code = imf.purpose_code
     WHERE dsf.sector_renamed = '{{sector}}'    
-    GROUP BY 1,2,3
+    GROUP BY 1,2
 ), 
 
 deflated AS (
@@ -47,7 +44,7 @@ deflated AS (
         oct.multilateral_oda * 100 / dfl.deflator AS "Multilateral ODA",
         (ct.bilateral_oda + oct.multilateral_oda) * 100 / dfl.deflator AS "Total ODA"
     FROM crs_totals ct 
-    LEFT JOIN one_campaign_totals oct USING(donor_name, year, purpose_code)
+    INNER JOIN one_campaign_totals oct USING(donor_name, year)
     INNER JOIN "{{deflator_file}}" dfl ON dfl.donor = ct.donor_name AND dfl.year = ct.year
 ), 
 
