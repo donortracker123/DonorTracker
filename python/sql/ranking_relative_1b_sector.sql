@@ -35,14 +35,13 @@ one_campaign_totals AS (
         imf.year,
         sum(
             CASE 
-                WHEN coalesce(sector_renamed, 'None') = '{{sector}}' THEN value
+                WHEN coalesce(sector_renamed, 'None') = '{{sector}}' THEN coalesce(nullif(value, 'nan'), 0)
                 ELSE 0
             END
         ) AS sector_multilateral_oda,
         sum(coalesce(nullif(value, 'nan'), 0)) AS total_multilateral_oda, --ONE CAMPAIGN SAVED VALUES AS 'nan'
     FROM "{{imputed_multilateral_file}}" imf
     LEFT JOIN "{{dt_sector_file}}" dsf ON dsf.sector_code = imf.purpose_code
-    WHERE dsf.sector_renamed = '{{sector}}'    
     GROUP BY 1,2
 ), 
 
@@ -63,19 +62,20 @@ ranked AS (
         year,
         "Sector ODA",
         "Total ODA",
-        row_number() OVER (ORDER BY sum("Sector Percentage") DESC) AS rn
-    FROM ranked
-    GROUP BY 1,2
+        "Sector Percentage",
+        row_number() OVER (ORDER BY "Sector Percentage" DESC) AS rn
+    FROM joined
 )
 
--- SELECT 
---     donor, 
---     Year, 
---     "Total ODA",
---     CASE 
---         WHEN rn::TEXT LIKE '%1' AND rn != 11 THEN rn || 'st'
---         WHEN rn::TEXT LIKE '%2' AND rn != 12 THEN rn || 'nd'
---         WHEN rn::TEXT LIKE '%3' AND rn != 13 THEN rn || 'rd'
---         ELSE rn || 'th'
---     END AS "Rank"
--- FROM ranked
+SELECT 
+    donor, 
+    Year, 
+    "Total ODA",
+    "Sector Percentage",
+    CASE 
+        WHEN rn::TEXT LIKE '%1' AND rn != 11 THEN rn || 'st'
+        WHEN rn::TEXT LIKE '%2' AND rn != 12 THEN rn || 'nd'
+        WHEN rn::TEXT LIKE '%3' AND rn != 13 THEN rn || 'rd'
+        ELSE rn || 'th'
+    END AS "Rank"
+FROM ranked
