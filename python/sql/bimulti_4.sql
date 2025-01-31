@@ -6,7 +6,7 @@ WITH base AS (
             "VALUE" AS value
         FROM "{{dac1_file}}"
         WHERE 1=1
-        AND year BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
+        AND year BETWEEN ({{latest_year}} - 4) AND ({{latest_year}})
         AND "Amount type" = 'Constant Prices (2022 USD millions)'
         AND "Fund flows" = 'Grant equivalents'
         AND "Aid type" IN (

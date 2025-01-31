@@ -62,7 +62,7 @@ def main(query_name, dac1_file, crs_file, imputed_multilateral_file, latest_year
 
     if dry_run:
         click.echo(f"First few rows...")
-        click.echo(result.head(100))
+        click.echo(result.head(10))
         return
 
     # Save output
@@ -79,8 +79,14 @@ def main(query_name, dac1_file, crs_file, imputed_multilateral_file, latest_year
             click.echo(f"Saving result to: {csv_path}")
 
             data = result[(result["donor"] == donor) | (result["donor"] == 'DAC Average')]
-            click.echo(data)
-            # data.to_csv(csv_path, index=False, columns=[col for col in data.columns if col != "donor"])
+
+            data.to_csv(csv_path, index=False, columns=[col for col in data.columns if col != "donor"])
+        return #Stop execution
+    
+    if output:
+        result.to_csv(SAVE_PATH / "DT_update" / f"{output}.csv", index=False)
+
+
 
 if __name__ == '__main__':
     main()
