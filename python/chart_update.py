@@ -80,7 +80,7 @@ def main(query_name, dac1_file, crs_file, imputed_multilateral_file, latest_year
 
             data = result[(result["donor"] == donor) | (result["donor"] == 'DAC Average')]
             click.echo(data)
-            # data.to_csv(csv_path, index=False, columns=[col for col in data.columns if col != "donor"])
+            data.to_csv(csv_path, index=False, columns=[col for col in data.columns if col != "donor"])
 
 if __name__ == '__main__':
     main()
