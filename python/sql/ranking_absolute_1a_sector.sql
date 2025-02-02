@@ -40,32 +40,32 @@ deflated AS (
         ct.donor_name AS donor,
         ct.year,
         dfl.deflator,
-        ct.bilateral_oda * 100 / dfl.deflator AS "Bilateral ODA",
-        oct.multilateral_oda * 100 / dfl.deflator AS "Multilateral ODA",
-        (ct.bilateral_oda + oct.multilateral_oda) * 100 / dfl.deflator AS "Total ODA"
+        ct.bilateral_oda * 100 / dfl.deflator AS bilateral_oda,
+        oct.multilateral_oda * 100 / dfl.deflator AS multilateral_oda,
+        (ct.bilateral_oda + oct.multilateral_oda) * 100 / dfl.deflator AS total_oda
     FROM crs_totals ct 
     INNER JOIN one_campaign_totals oct USING(donor_name, year)
-    INNER JOIN "{{deflator_file}}" dfl ON dfl.donor = ct.donor_name AND dfl.year = ct.year
+    INNER JOIN "{{deflator_file}}" dfl ON dfl.donor = ct.donor_name AND dfl.year = {{latest_year}}
 ), 
 
 ranked AS (
     SELECT 
         donor,
         year,
-        sum("Total ODA") AS "Total ODA",
-        row_number() OVER (ORDER BY sum("Total ODA") DESC) AS rn
+        sum(total_oda) AS total_oda,
+        row_number() OVER (ORDER BY sum(total_oda) DESC) AS rn
     FROM deflated
     GROUP BY 1,2
 )
 
 SELECT 
-    donor, 
+    donor "Donor", 
     Year, 
-    "Total ODA",
+    total_oda "ODA towards {{sector}}",
     CASE 
         WHEN rn::TEXT LIKE '%1' AND rn != 11 THEN rn || 'st'
         WHEN rn::TEXT LIKE '%2' AND rn != 12 THEN rn || 'nd'
         WHEN rn::TEXT LIKE '%3' AND rn != 13 THEN rn || 'rd'
         ELSE rn || 'th'
-    END AS "Rank"
+    END AS "Ranking"
 FROM ranked

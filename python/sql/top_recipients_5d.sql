@@ -43,6 +43,6 @@ SELECT
     (t.grants / 100) * dfl.deflator AS "ODA Grants",
     (t.loans / 100) * dfl.deflator AS "ODA Loans",
 FROM transformed t
-LEFT JOIN "{{deflator_file}}" dfl ON dfl.year = t.year AND dfl.donor = t.donor_name
+LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = t.donor_name AND dfl.year = {{latest_year}}
 QUALIFY row_number() OVER (PARTITION BY t.donor_name, t.year ORDER BY share DESC) <= 20
 ORDER BY 1, 2 DESC, 5 DESC
