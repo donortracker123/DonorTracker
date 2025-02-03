@@ -9,7 +9,7 @@ WITH base AS (
         AND year BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
         AND "Amount type" = 'Current Prices (USD millions)'
         AND "Fund flows" = 'Grant equivalents'
-        AND "Donor_1" IN {{DAC_COUNTRIES}}
+        AND "Donor_1" IN {{dac_countries}}
         AND "Aid type" = 'Official Development Assistance, grant equivalent measure'
     ), 
 
