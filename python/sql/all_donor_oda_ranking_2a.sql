@@ -11,6 +11,7 @@ WITH base AS (
         AND "Fund flows" = 'Grant equivalents'
         AND "Donor_1" IN {{dac_countries}}
         AND "Aid type" = 'Official Development Assistance, grant equivalent measure'
+        AND "Donor_1" != 'EU Institutions'
     ), 
 
     ranked AS (  
