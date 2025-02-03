@@ -36,10 +36,10 @@ deflated AS (
 )
 
 SELECT
-    donor_name,
-    year,
-    sector_renamed AS sector,
-    sum(total_oda) AS "total_oda", 
+    donor_name AS donor,
+    year AS "Year",
+    sector_renamed AS "Sector",
+    sum(total_oda) AS "Bilateral ODA for", 
     sum(total_oda) * 100 / sum(sum(total_oda)) OVER (PARTITION BY donor_name, year) AS share
 FROM deflated
 GROUP BY 1,2,3
