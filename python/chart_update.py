@@ -12,14 +12,36 @@ SAVE_PATH = Path(__file__).parent.parent
 
 @click.command()
 @click.argument("query-name")
-@click.option("--dac1-file", "-dac1", type=click.Path(exists=True), required=False, help="Path to the DAC1 file (Downloaded manually). If not set, defaults to the 'data' directory.")
-@click.option("--crs-file", "-crs", type=click.Path(exists=True), required=False, help="Path to the CRS file (Downloaded manually). If not set, defaults to the 'data' directory.")
-@click.option("--imputed-multilateral-file", "-im", type=click.Path(exists=True), required=False, help="Path to the Imputed Multilateral data from the ONE Campaign (Retrieved manually). If not set, defaults to the 'data' directory.")
-@click.option("--latest-year", "-ly", type=int, required=True, help="Latest year to use in the analysis")
-@click.option("--group-by-country", "-country", is_flag=True, help="Group by country? (Each country gets a separate chart output)")
-@click.option("--sector", "-s", help="Sector for which to perform the analysis")
-@click.option("--output", "-o", default="output.csv", help="Name to use for the output CSV file(s).")
-@click.option("--dry-run", "-dr", is_flag=True, help="Only show the results of the query for testing purposes.")
+@click.option("--dac1-file", "-dac1", 
+              type=click.Path(exists=True), 
+              required=False, 
+              help="""Path to the DAC1 file (Downloaded from the OECD). This can be a path to a SharePoint file.
+              If not set, defaults to the 'data' directory.""")
+@click.option("--crs-file", "-crs", 
+              type=click.Path(exists=True), 
+              required=False, 
+              help="""Path to the CRS file (Downloaded from the OECD). This can be a path to a SharePoint file.
+              If not set, defaults to the 'data' directory.""")
+@click.option("--imputed-multilateral-file", "-im", 
+              type=click.Path(exists=True), 
+              required=False, 
+              help="""Path to the Imputed Multilateral data from the ONE Campaign (Retrieved manually). This can be a path to a SharePoint file.
+              If not set, defaults to the 'data' directory.""")
+@click.option("--latest-year", "-ly", 
+              type=int, 
+              required=True, 
+              help="Latest year to use in the analysis")
+@click.option("--group-by-country", "-country", 
+              is_flag=True, 
+              help="Group by country? (Each country gets a separate chart output)")
+@click.option("--sector", "-s", 
+              help="Sector for which to perform the analysis")
+@click.option("--output", "-o", 
+              default="output.csv", 
+              help="Name to use for the output CSV file(s).")
+@click.option("--dry-run", "-dr", 
+              is_flag=True, 
+              help="Only show the results of the query for testing purposes.")
 def main(query_name, dac1_file, crs_file, imputed_multilateral_file, latest_year, group_by_country, sector, output, dry_run):
     """Run a query using the provided files and save the result."""
     # Validate query
