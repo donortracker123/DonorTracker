@@ -34,6 +34,5 @@ SELECT
     sum(bilateral_oda) AS "Bilateral ODA for",
     sum(bilateral_oda) * 100 / sum(sum(bilateral_oda)) OVER (PARTITION BY donor_name, year) AS share
 FROM transformed
-WHERE donor_name = 'Germany' AND year = 2022
 GROUP BY 1,2,3
 ORDER BY 2 DESC, 4 DESC
