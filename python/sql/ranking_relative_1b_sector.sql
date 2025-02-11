@@ -64,7 +64,7 @@ joined AS (
         oct.sector_multilateral_oda AS multilateral,
         (ct.sector_bilateral_oda + oct.sector_multilateral_oda) AS sector_oda,
         d1t.total_oda AS total_oda_dac1,
-        (ct.sector_bilateral_oda + oct.sector_multilateral_oda) / d1t.total_oda AS sector_percentage
+        (ct.sector_bilateral_oda + oct.sector_multilateral_oda) * 100 / d1t.total_oda AS sector_percentage
     FROM crs_totals ct 
     LEFT JOIN one_campaign_totals oct USING(donor_name, year)
     LEFT JOIN dac1_totals d1t USING(donor_name, year)
@@ -76,7 +76,7 @@ ranked AS (
         year,
         sector_oda,
         total_oda_dac1,
-        sector_percentage,
+        round(sector_percentage,1) AS sector_percentage,
         row_number() OVER (ORDER BY sector_percentage DESC) AS rn
     FROM joined
 )
@@ -85,7 +85,7 @@ SELECT
     donor, 
     year "Year", 
     total_oda_dac1 "Total ODA (DAC1)",
-    sector_percentage "ODA to {{sector}}",
+    sector_percentage || '%' "ODA to {{sector}} as % of Total ODA",
     CASE 
         WHEN rn::TEXT LIKE '%1' AND rn != 11 THEN rn || 'st'
         WHEN rn::TEXT LIKE '%2' AND rn != 12 THEN rn || 'nd'
