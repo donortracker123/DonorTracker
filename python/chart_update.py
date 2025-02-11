@@ -36,13 +36,16 @@ SAVE_PATH = Path(__file__).parent.parent
               help="Group by country? (Each country gets a separate chart output)")
 @click.option("--sector", "-s", 
               help="Sector for which to perform the analysis")
-@click.option("--output", "-o", 
+@click.option("--folder", "-f", 
+              default="DT_update", 
+              help="Folder to use inside the project. Defaults to 'DT_update'")
+@click.option("--output-file", "-o", 
               default="output.csv", 
               help="Name to use for the output CSV file(s).")
 @click.option("--dry-run", "-dr", 
               is_flag=True, 
               help="Only show the results of the query for testing purposes.")
-def main(query_name, dac1_file, crs_file, imputed_multilateral_file, latest_year, group_by_country, sector, output, dry_run):
+def main(query_name, dac1_file, crs_file, imputed_multilateral_file, latest_year, group_by_country, sector, folder, output_file, dry_run):
     """Run a query using the provided files and save the result."""
     # Validate query
     sql_file = SQL_DIR / f"{query_name}.sql"
@@ -92,21 +95,20 @@ def main(query_name, dac1_file, crs_file, imputed_multilateral_file, latest_year
         for donor in DAC_COUNTRIES:
 
             csv_path = (
-                SAVE_PATH / "OP" / f"{donor}_{output}.csv" 
-                if donor in ['Austria', 'Belgium', 'Denmark', 'Finland', 'Ireland', 'Luxembourg', 'Switzerland']
-                else 
-                SAVE_PATH / "DT_update" / f"{donor}_{output}.csv"
+                SAVE_PATH / 
+                folder / 
+                f"{donor}_{output_file}.csv"
             )
 
             click.echo(f"Saving result to: {csv_path}")
 
             data = result[(result["donor"] == donor) | (result["donor"] == 'DAC Average')]
 
-            data.to_csv(csv_path, index=False, columns=[col for col in data.columns if col != "donor"])
+            data.to_csv(csv_path, index=False)
         return #Stop execution
     
-    if output:
-        result.to_csv(SAVE_PATH / "DT_update" / f"{output}.csv", index=False)
+    if output_file:
+        result.to_csv(SAVE_PATH / folder / f"{output_file}.csv", index=False)
 
 
 
