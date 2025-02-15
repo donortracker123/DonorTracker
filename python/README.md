@@ -108,22 +108,27 @@ Usage: chart_update.py [OPTIONS] QUERY_NAME
   Run a query using the provided files and save the result.
 
 Options:
-  -dac1, --dac1-file PATH         Path to the DAC1 file (Downloaded from the OECD).
-                                  If not set, defaults to the 'data'
+  -dac1, --dac1-file PATH         Path to the DAC1 file (Downloaded from the
+                                  OECD). This can be a path to a SharePoint
+                                  file. If not set, defaults to the 'data'
                                   directory.
-  -crs, --crs-file PATH           Path to the CRS file (Downloaded from the OECD).
-                                  If not set, defaults to the 'data'
+  -crs, --crs-file PATH           Path to the CRS file (Downloaded from the
+                                  OECD). This can be a path to a SharePoint
+                                  file. If not set, defaults to the 'data'
                                   directory.
   -im, --imputed-multilateral-file PATH
                                   Path to the Imputed Multilateral data from
-                                  the ONE Campaign (Retrieved manually). If
-                                  not set, defaults to the 'data' directory.
+                                  the ONE Campaign (Retrieved manually). This
+                                  can be a path to a SharePoint file. If not
+                                  set, defaults to the 'data' directory.
   -ly, --latest-year INTEGER      Latest year to use in the analysis
                                   [required]
   -country, --group-by-country    Group by country? (Each country gets a
                                   separate chart output)
   -s, --sector TEXT               Sector for which to perform the analysis
-  -o, --output TEXT               Name to use for the output CSV file(s).
+  -f, --folder TEXT               Folder to use inside the project. Defaults
+                                  to 'DT_update'
+  -o, --output-file TEXT          Name to use for the output CSV file(s).
   -dr, --dry-run                  Only show the results of the query for
                                   testing purposes.
   --help                          Show this message and exit.
