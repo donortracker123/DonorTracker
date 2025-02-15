@@ -36,3 +36,5 @@ export LY=2023
 # python chart_update.py time_trend_channels_2_sector -ly $LY -dac1 $DAC1 -crs $CRS -im $IM -s gh -country  -f "Global_Health" -o "GH2_trend";
 # python chart_update.py top_multilateral_recipients_4a_sector -ly $LY -dac1 $DAC1 -crs $CRS -im $IM -s gh -country  -f "Global_Health" -o "GHa_multi";
 
+# python chart_update.py gender_ranking_absolute_1a -ly $LY -dac1 $DAC1 -crs $CRS -f "Gender" -o "alldonor_GE1a_genderODAranking";
+# python chart_update.py gender_ranking_relative_1b -ly $LY -dac1 $DAC1 -crs $CRS -f "Gender" -o "alldonor_GE1b_genderODArelative";
