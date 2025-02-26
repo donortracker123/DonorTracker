@@ -2,12 +2,12 @@ WITH base AS (
     SELECT
         donor_name,
         year,
-        purpose_name,
-        purpose_code,
+        climate_adaptation, 
+        climate_mitigation,
         greatest(climate_mitigation, climate_adaptation) climate_total, 
         usd_commitment_defl
     FROM "{{crs_file}}"
-    WHERE year BETWEEN ({{latest_year}} - 4) AND ({{latest_year}})
+    WHERE year = ({{latest_year}})
     AND donor_name IN {{dac_countries}}
     AND flow_name IN (
         'ODA Loans','Equity Investment','ODA Grants'
@@ -15,37 +15,77 @@ WITH base AS (
     AND donor_name != 'EU Institutions'
 ), 
 
-transformed AS (
+adaptation AS (
     SELECT 
         b.donor_name,
-        b.year,
-        dsf.sector_renamed,
-        b.usd_commitment_defl / 100 * dfl.deflator AS bilateral_oda
+        'Adaptation' AS "Rio Marker",
+        sum(
+            CASE
+                WHEN climate_adaptation IN (1,2) AND climate_mitigation NOT IN (1,2) THEN b.usd_commitment_defl / 100 * dfl.deflator
+                ELSE 0
+            END
+        ) AS "Bilateral ODA",
+        sum(
+            CASE 
+                WHEN climate_adaptation IN (1,2) AND climate_mitigation IN (1,2) THEN b.usd_commitment_defl / 100 * dfl.deflator
+                ELSE 0
+            END 
+        ) AS "Cross-cutting",
+        sum(
+            CASE
+                WHEN climate_total IN (1,2) THEN b.usd_commitment_defl / 100 * dfl.deflator
+                ELSE 0
+            END
+        ) AS "Total Climate ODA"
     FROM base b 
-    LEFT JOIN "{{dt_sector_file}}" dsf ON dsf.sector_code = b.purpose_code
     LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor_name AND dfl.year = {{latest_year}}
-    WHERE b.climate_total IN (1,2)
-),
-
-allocable_totals AS (
-    SELECT 
-        "Donor_1" AS donor_name,
-        "TIME_PERIOD" AS year,
-        sum("OBS_VALUE") AS total_oda
-    FROM "{{riomarkers_file}}"
-    WHERE 1=1
-    AND year = ({{latest_year}})
-    --TODO: Change fund flow here for total
-    AND "Donor_1" IN {{dac_countries}}
-    AND "Donor_1" != 'EU Institutions'
     GROUP BY 1,2
-),
--- SELECT 
---     donor_name AS donor,
---     year,
---     purpose_name AS Sector,
---     sum(bilateral_oda) AS "Bilateral ODA for",
---     sum(bilateral_oda) * 100 / sum(sum(bilateral_oda)) OVER (PARTITION BY donor_name, year) AS share
--- FROM transformed
--- GROUP BY 1,2,3
--- ORDER BY 2 DESC, 4 DESC
+), 
+
+mitigation AS (
+    SELECT 
+        b.donor_name,
+        'Mitigation' AS "Rio Marker",
+        sum(
+            CASE
+                WHEN climate_mitigation IN (1,2) AND climate_adaptation NOT IN (1,2) THEN b.usd_commitment_defl / 100 * dfl.deflator
+                ELSE 0
+            END
+        ) AS "Bilateral ODA",
+        sum(
+            CASE 
+                WHEN climate_adaptation IN (1,2) AND climate_mitigation IN (1,2) THEN b.usd_commitment_defl / 100 * dfl.deflator
+                ELSE 0
+            END 
+        ) AS "Cross-cutting",
+        sum(
+            CASE
+                WHEN climate_total IN (1,2) THEN b.usd_commitment_defl / 100 * dfl.deflator
+                ELSE 0
+            END
+        ) AS "Total Climate ODA"
+    FROM base b 
+    LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor_name AND dfl.year = {{latest_year}}
+    GROUP BY 1,2
+), 
+
+combined AS (
+    SELECT 
+        *, 
+        round(100 * ("Bilateral ODA" + "Cross-cutting") / nullif("Total Climate ODA", 0), 2) AS "Share"
+    FROM adaptation
+    UNION ALL 
+    SELECT
+        *,
+        round(100 * ("Bilateral ODA" + "Cross-cutting") / nullif("Total Climate ODA", 0), 2) AS "Share"
+    FROM mitigation
+)
+
+SELECT
+    donor_name AS donor,
+    "Rio Marker",
+    "Cross-cutting",
+    "Bilateral ODA", 
+    "Share"
+FROM combined
+ORDER BY donor_name, "Rio Marker"
