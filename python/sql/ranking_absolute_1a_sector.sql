@@ -41,8 +41,8 @@ deflated AS (
         ct.year,
         dfl.deflator,
         ct.bilateral_oda * 100 / dfl.deflator AS bilateral_oda,
-        oct.multilateral_oda * 100 / dfl.deflator AS multilateral_oda,
-        (ct.bilateral_oda + oct.multilateral_oda) * 100 / dfl.deflator AS total_oda
+        oct.multilateral_oda AS multilateral_oda, --ONE Campaign came pre-deflated
+        (ct.bilateral_oda * 100 / dfl.deflator) + oct.multilateral_oda AS total_oda --pre-deflated
     FROM crs_totals ct 
     INNER JOIN one_campaign_totals oct USING(donor_name, year)
     INNER JOIN "{{deflator_file}}" dfl ON dfl.donor = ct.donor_name AND dfl.year = {{latest_year}}

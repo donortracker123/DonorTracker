@@ -73,7 +73,7 @@ SELECT
     t.year,
     (t.earmarked * 100) / dfl.deflator AS "Bilateral as earmarked funding through multilaterals",
     (t.bilateral * 100) / dfl.deflator AS "Bilateral funding",
-    (oct.sector_multilateral_oda * 100) / dfl.deflator AS "Multilateral as core contributions to organizations",
+    oct.sector_multilateral_oda AS "Multilateral as core contributions to organizations",
     t.earmarked * 100 / (t.earmarked + t.bilateral + oct.sector_multilateral_oda) AS "Earmarked",
     t.bilateral * 100 / (t.earmarked + t.bilateral + oct.sector_multilateral_oda) AS "Bilateral",
     oct.sector_multilateral_oda * 100 / (t.earmarked + t.bilateral + oct.sector_multilateral_oda) AS "Multilateral",
