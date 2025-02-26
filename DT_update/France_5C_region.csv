@@ -1,46 +1,70 @@
-"Year","Region","Bilateral ODA","Share","Donor"
-"2018","sub-Saharan Africa",2849.753836,"28%","France"
-"2019","sub-Saharan Africa",3127.902804,"29%","France"
-"2020","sub-Saharan Africa",4129.027932,"30%","France"
-"2021","sub-Saharan Africa",3281.625263,"26%","France"
-"2022","sub-Saharan Africa",4353.283598,"30%","France"
-"2018","Developing countries, unspecified",2019.750374,"20%","France"
-"2019","Developing countries, unspecified",2698.566177,"25%","France"
-"2020","Developing countries, unspecified",2936.231489,"21%","France"
-"2021","Developing countries, unspecified",3229.509005,"25%","France"
-"2022","Developing countries, unspecified",3575.065121,"25%","France"
-"2018","MENA region",1508.393387,"15%","France"
-"2019","MENA region",1456.336595,"14%","France"
-"2020","MENA region",1748.118778,"13%","France"
-"2021","MENA region",1773.239875,"14%","France"
-"2022","MENA region",2082.370117,"14%","France"
-"2018","Asia",1773.824475,"18%","France"
-"2019","Asia",1741.889344,"16%","France"
-"2020","Asia",2401.683835,"17%","France"
-"2021","Asia",1690.278423,"13%","France"
-"2022","Asia",1528.137013,"11%","France"
-"2018","Latin America and the Caribbeans",1374.250778,"14%","France"
-"2019","Latin America and the Caribbeans",1053.589673,"10%","France"
-"2020","Latin America and the Caribbeans",1952.490855,"14%","France"
-"2021","Latin America and the Caribbeans",2226.084781,"17%","France"
-"2022","Latin America and the Caribbeans",1525.050768,"11%","France"
-"2018","Europe",388.484793,"4%","France"
-"2019","Europe",257.778475,"2%","France"
-"2020","Europe",366.2422,"3%","France"
-"2021","Europe",351.75351,"3%","France"
-"2022","Europe",1143.210311,"8%","France"
-"2018","Oceania",79.544215,"1%","France"
-"2019","Oceania",144.446064,"1%","France"
-"2020","Oceania",135.201719,"1%","France"
-"2021","Oceania",130.901713,"1%","France"
-"2022","Oceania",140.053262,"1%","France"
-"2018","Africa, regional",89.523259,"1%","France"
-"2019","Africa, regional",141.827269,"1%","France"
-"2020","Africa, regional",89.569302,"1%","France"
-"2021","Africa, regional",119.93452,"1%","France"
-"2022","Africa, regional",117.047274,"1%","France"
-"2018","Asia, regional",3.244249,"0%","France"
-"2019","Asia, regional",7.49225,"0%","France"
-"2020","Asia, regional",4.294064,"0%","France"
-"2021","Asia, regional",2.171703,"0%","France"
-"2022","Asia, regional",2.181932,"0%","France"
+donor,year,Region,share,Bilateral ODA
+France,2023,South of Sahara,29.9%,330922.69590874977
+France,2023,Regional and Unspecified,24.7%,273702.36693900026
+France,2023,North of Sahara,10.8%,120119.8694855
+France,2023,South & Central Asia,6.1%,67576.70551849995
+France,2023,South America,5.8%,64165.530219499975
+France,2023,Far East Asia,5.8%,63859.44684949997
+France,2023,Caribbean & Central America,5.3%,58205.66095525004
+France,2023,Europe,4.9%,54763.58959075
+France,2023,Middle East,4.4%,49056.95030924993
+France,2023,Oceania,1.5%,16929.037372000003
+France,2023,Africa,0.7%,8128.304361500003
+France,2023,Asia,0.0%,52.872980500000004
+France,2023,America,0.0%,0.43256700000000003
+France,2022,South of Sahara,30.1%,428882.4721257508
+France,2022,Regional and Unspecified,24.7%,352212.91891500057
+France,2022,North of Sahara,10.1%,143715.66280250056
+France,2022,Europe,7.9%,112628.2810155
+France,2022,South & Central Asia,7.5%,106748.95159150031
+France,2022,South America,6.1%,86907.25127925006
+France,2022,Caribbean & Central America,4.4%,63319.52670074999
+France,2022,Middle East,4.3%,61437.98766100027
+France,2022,Far East Asia,3.1%,43802.037520000165
+France,2022,Oceania,1.0%,13797.948339499992
+France,2022,Africa,0.8%,11531.414927250002
+France,2022,Asia,0.0%,214.9622005
+France,2022,America,0.0%,20.1555005
+France,2022,,0.0%,0.0
+France,2021,South of Sahara,25.6%,325216.0937570016
+France,2021,Regional and Unspecified,25.2%,320051.26650949987
+France,2021,South America,10.6%,134201.821659
+France,2021,North of Sahara,10.2%,129974.25094825008
+France,2021,Far East Asia,7.4%,93806.49672350055
+France,2021,Caribbean & Central America,6.8%,86101.69353274991
+France,2021,South & Central Asia,5.8%,73703.71906125009
+France,2021,Middle East,3.6%,45757.62150825002
+France,2021,Europe,2.7%,34859.526453499995
+France,2021,Oceania,1.0%,12972.6386485
+France,2021,Africa,0.9%,11885.768162999999
+France,2021,America,0.0%,306.26122474999994
+France,2021,Asia,0.0%,215.22037675
+France,2021,,0.0%,0.0
+France,2020,South of Sahara,30.0%,409585.91881349543
+France,2020,Regional and Unspecified,21.3%,291264.4656825
+France,2020,North of Sahara,9.4%,128596.39298825023
+France,2020,South & Central Asia,8.8%,119516.86361824998
+France,2020,Far East Asia,8.7%,118722.2464827502
+France,2020,South America,7.7%,104487.50993450003
+France,2020,Caribbean & Central America,6.5%,89147.30620025002
+France,2020,Middle East,3.3%,44811.21167624991
+France,2020,Europe,2.7%,36330.01545400002
+France,2020,Oceania,1.0%,13411.562954500014
+France,2020,Africa,0.7%,8884.978789500003
+France,2020,Asia,0.0%,425.9569302500001
+France,2020,America,0.0%,45.8259055
+France,2020,,0.0%,0.0
+France,2019,South of Sahara,29.4%,310467.0054935012
+France,2019,Regional and Unspecified,25.4%,267852.24109175004
+France,2019,North of Sahara,10.5%,111104.99112899984
+France,2019,South & Central Asia,9.7%,102263.00133725005
+France,2019,Far East Asia,6.7%,70632.13288874982
+France,2019,South America,6.7%,70414.27002125005
+France,2019,Caribbean & Central America,3.2%,34071.34294024996
+France,2019,Middle East,3.2%,33446.960837249964
+France,2019,Europe,2.4%,25586.379726249987
+France,2019,Oceania,1.4%,14337.320310249952
+France,2019,Africa,1.3%,14077.383698749994
+France,2019,Asia,0.1%,743.6599635
+France,2019,America,0.0%,90.78808425
+France,2019,,0.0%,0.0

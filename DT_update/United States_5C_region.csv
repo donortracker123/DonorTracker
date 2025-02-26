@@ -1,41 +1,61 @@
-"Year","Region","Bilateral ODA","Share","Donor"
-"2018","Developing countries, unspecified",10554.09122,"32%","United States"
-"2019","Developing countries, unspecified",10412.628731,"33%","United States"
-"2020","Developing countries, unspecified",9249.942473,"29%","United States"
-"2021","Developing countries, unspecified",12491.78218,"32%","United States"
-"2022","Developing countries, unspecified",18573.913539,"38%","United States"
-"2018","sub-Saharan Africa",11521.318838,"35%","United States"
-"2019","sub-Saharan Africa",10049.324268,"32%","United States"
-"2020","sub-Saharan Africa",11872.2448,"37%","United States"
-"2021","sub-Saharan Africa",13584.56778,"35%","United States"
-"2022","sub-Saharan Africa",11926.878072,"24%","United States"
-"2018","Europe",609.796651,"2%","United States"
-"2019","Europe",544.944796,"2%","United States"
-"2020","Europe",562.257795,"2%","United States"
-"2021","Europe",822.69333,"2%","United States"
-"2022","Europe",9333.982638,"19%","United States"
-"2018","Asia",3679.107964,"11%","United States"
-"2019","Asia",3923.764513,"13%","United States"
-"2020","Asia",3340.841875,"11%","United States"
-"2021","Asia",4296.21594,"11%","United States"
-"2022","Asia",3631.98669,"7%","United States"
-"2018","MENA region",4164.279234,"13%","United States"
-"2019","MENA region",3945.653469,"13%","United States"
-"2020","MENA region",4024.209502,"13%","United States"
-"2021","MENA region",4572.77766,"12%","United States"
-"2022","MENA region",3026.496488,"6%","United States"
-"2018","Latin America and the Caribbeans",2273.559179,"7%","United States"
-"2019","Latin America and the Caribbeans",2212.330455,"7%","United States"
-"2020","Latin America and the Caribbeans",2306.911459,"7%","United States"
-"2021","Latin America and the Caribbeans",2868.68939,"7%","United States"
-"2022","Latin America and the Caribbeans",2629.853028,"5%","United States"
-"2018","Oceania",200.795822,"1%","United States"
-"2019","Oceania",148.275053,"0%","United States"
-"2020","Oceania",269.900831,"1%","United States"
-"2021","Oceania",287.41462,"1%","United States"
-"2022","Oceania",232.825697,"0%","United States"
-"2018","Asia, regional",42.782832,"0%","United States"
-"2019","Asia, regional",37.02941,"0%","United States"
-"2020","Asia, regional",47.689146,"0%","United States"
-"2021","Asia, regional",28.93063,"0%","United States"
-"2022","Asia, regional",25.151266,"0%","United States"
+donor,year,Region,share,Bilateral ODA
+United States,2023,Regional and Unspecified,30.5%,1810332.7403360002
+United States,2023,South of Sahara,25.5%,1515890.944160249
+United States,2023,Europe,22.0%,1305170.4347946453
+United States,2023,Middle East,6.5%,386879.9434655205
+United States,2023,South & Central Asia,6.4%,377965.17292583967
+United States,2023,Caribbean & Central America,2.7%,162332.2155681601
+United States,2023,South America,2.1%,125377.76389408001
+United States,2023,Far East Asia,2.0%,116254.80545128015
+United States,2023,North of Sahara,1.0%,58982.85292760004
+United States,2023,America,0.9%,52935.3242832
+United States,2023,Oceania,0.4%,26160.030654479986
+United States,2023,Asia,0.1%,4218.357923279999
+United States,2022,Regional and Unspecified,37.6%,2060367.200559119
+United States,2022,South of Sahara,24.2%,1323024.8067833637
+United States,2022,Europe,18.9%,1035400.0846304034
+United States,2022,South & Central Asia,5.6%,309470.6931970401
+United States,2022,Middle East,5.2%,287330.2758640803
+United States,2022,Caribbean & Central America,2.4%,133591.0924501599
+United States,2022,South America,2.0%,109739.22250256003
+United States,2022,Far East Asia,1.7%,93418.35151191981
+United States,2022,America,0.9%,48394.03784728002
+United States,2022,North of Sahara,0.9%,48392.94380184003
+United States,2022,Oceania,0.5%,25826.88811120001
+United States,2022,Asia,0.1%,2789.979501520001
+United States,2021,South of Sahara,34.9%,1508780.5621994934
+United States,2021,Regional and Unspecified,32.1%,1387409.4841685572
+United States,2021,Middle East,10.1%,435564.7812677604
+United States,2021,South & Central Asia,8.4%,365567.42239959864
+United States,2021,Caribbean & Central America,3.3%,144041.99990695936
+United States,2021,South America,2.9%,125826.60288399996
+United States,2021,Far East Asia,2.6%,111595.1389200794
+United States,2021,Europe,2.1%,91373.07122671908
+United States,2021,North of Sahara,1.7%,72314.31323504
+United States,2021,America,1.1%,48744.61912624004
+United States,2021,Oceania,0.7%,31921.92731823999
+United States,2021,Asia,0.1%,3213.2029489600027
+United States,2020,South of Sahara,37.5%,1319774.6128755978
+United States,2020,Regional and Unspecified,29.2%,1028267.13725616
+United States,2020,Middle East,11.3%,397511.83471736
+United States,2020,South & Central Asia,7.8%,275583.14660727995
+United States,2020,Caribbean & Central America,3.7%,129787.44674903994
+United States,2020,South America,3.1%,110815.41593079998
+United States,2020,Far East Asia,2.7%,95800.55992023986
+United States,2020,Europe,1.8%,62503.224386559865
+United States,2020,North of Sahara,1.4%,49838.235414879964
+United States,2020,Oceania,0.9%,30003.446007200007
+United States,2020,America,0.4%,15844.273087919995
+United States,2020,Asia,0.2%,5301.350640559999
+United States,2019,Regional and Unspecified,33.3%,1157694.3762884801
+United States,2019,South of Sahara,32.1%,1117301.5493916764
+United States,2019,Middle East,11.0%,382213.48148440046
+United States,2019,South & Central Asia,10.1%,349475.0941187987
+United States,2019,Caribbean & Central America,4.2%,145437.78108712038
+United States,2019,Far East Asia,2.5%,86775.94779943998
+United States,2019,South America,2.4%,82129.05236031995
+United States,2019,Europe,1.7%,60587.920518000006
+United States,2019,North of Sahara,1.6%,56471.21149376004
+United States,2019,America,0.5%,18403.960070960005
+United States,2019,Oceania,0.5%,16485.480938880002
+United States,2019,Asia,0.1%,4116.995401840001

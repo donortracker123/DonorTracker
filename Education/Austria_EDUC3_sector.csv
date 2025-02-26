@@ -1,67 +1,67 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Education policy and administrative management",0.357435,"0%","Austria"
-2019,"Education policy and administrative management",0.915194,"1%","Austria"
-2020,"Education policy and administrative management",0.472477,"0%","Austria"
-2021,"Education policy and administrative management",1.188929,"1%","Austria"
-2022,"Education policy and administrative management",1.34607,"1%","Austria"
-2018,"Education facilities and training",1.25056,"1%","Austria"
-2019,"Education facilities and training",3.069481,"2%","Austria"
-2020,"Education facilities and training",1.006844,"1%","Austria"
-2021,"Education facilities and training",0.566713,"0%","Austria"
-2022,"Education facilities and training",1.775651,"1%","Austria"
-2018,"Teacher training",0.813607,"0%","Austria"
-2019,"Teacher training",0.932899,"1%","Austria"
-2020,"Teacher training",0.645539,"0%","Austria"
-2021,"Teacher training",0.694721,"0%","Austria"
-2022,"Teacher training",0.692589,"0%","Austria"
-2018,"Educational research",0.085472,"0%","Austria"
-2019,"Educational research",0.005563,"0%","Austria"
-2021,"Educational research",0.086057,"0%","Austria"
-2022,"Educational research",0.02831,"0%","Austria"
-2018,"Primary education",1.801183,"1%","Austria"
-2019,"Primary education",1.958279,"1%","Austria"
-2020,"Primary education",2.323686,"1%","Austria"
-2021,"Primary education",0.088729,"0%","Austria"
-2022,"Primary education",0.269813,"0%","Austria"
-2018,"Basic life skills for adults",0.708569,"0%","Austria"
-2019,"Basic life skills for adults",1.006095,"1%","Austria"
-2020,"Basic life skills for adults",0.072576,"0%","Austria"
-2021,"Basic life skills for adults",0.237715,"0%","Austria"
-2022,"Basic life skills for adults",0.259278,"0%","Austria"
-2020,"Basic life skills for youth",0.089379,"0%","Austria"
-2021,"Basic life skills for youth",0.874999,"0%","Austria"
-2022,"Basic life skills for youth",0.684784,"0%","Austria"
-2021,"Primary education equivalent for adults",2.679948,"1%","Austria"
-2022,"Primary education equivalent for adults",2.963232,"2%","Austria"
-2018,"Early childhood education",0.003138,"0%","Austria"
-2019,"Early childhood education",0.111627,"0%","Austria"
-2020,"Early childhood education",0.033756,"0%","Austria"
-2021,"Early childhood education",0.072729,"0%","Austria"
-2022,"Early childhood education",0.020404,"0%","Austria"
-2018,"Upper Secondary Education (modified and includes data from 11322)",11.299375,"7%","Austria"
-2019,"Upper Secondary Education (modified and includes data from 11322)",11.641105,"7%","Austria"
-2020,"Upper Secondary Education (modified and includes data from 11322)",18.370349,"11%","Austria"
-2021,"Upper Secondary Education (modified and includes data from 11322)",10.376754,"6%","Austria"
-2022,"Upper Secondary Education (modified and includes data from 11322)",9.897784,"5%","Austria"
-2018,"Vocational training",7.862754,"5%","Austria"
-2019,"Vocational training",8.375288,"5%","Austria"
-2020,"Vocational training",7.370861,"4%","Austria"
-2021,"Vocational training",9.829737,"5%","Austria"
-2022,"Vocational training",6.275813,"3%","Austria"
-2018,"Higher education",145.321564,"85%","Austria"
-2019,"Higher education",148.167489,"84%","Austria"
-2020,"Higher education",142.696945,"82%","Austria"
-2021,"Higher education",160.639297,"86%","Austria"
-2022,"Higher education",171.267288,"88%","Austria"
-2018,"Advanced technical and managerial training",0.713059,"0%","Austria"
-2019,"Advanced technical and managerial training",0.166181,"0%","Austria"
-2020,"Advanced technical and managerial training",0.320379,"0%","Austria"
-2021,"Advanced technical and managerial training",0.144509,"0%","Austria"
-2022,"Advanced technical and managerial training",0.096933,"0%","Austria"
-2018,"School feeding",0.002482,"0%","Austria"
-2019,"School feeding",0.003554,"0%","Austria"
-2020,"School feeding",0.001802,"0%","Austria"
-2021,"School feeding",0.001271,"0%","Austria"
-2022,"School feeding",0.061438,"0%","Austria"
-2021,"Lower secondary education",0.15492,"0%","Austria"
-2022,"Lower secondary education",0.002267,"0%","Austria"
+donor,year,Sector,Bilateral ODA for,share
+Austria,2023,Higher education,205.2565412886001,87.44485581522162
+Austria,2023,Upper Secondary Education (modified and includes data from 11322),9.717467256,4.139904715120774
+Austria,2023,Vocational training,8.865758313,3.7770535959817693
+Austria,2023,Education policy and administrative management,3.6617277924000002,1.5599953932322816
+Austria,2023,Primary education equivalent for adults,3.513804885,1.4969762210872437
+Austria,2023,Basic life skills for youth,1.7185708781999998,0.7321578241013861
+Austria,2023,Education facilities and training,0.9081125441999999,0.3868805836492649
+Austria,2023,Teacher training,0.5779333350000001,0.24621528177670804
+Austria,2023,Primary education,0.18105690600000005,0.07713515457350967
+Austria,2023,Advanced technical and managerial training,0.131613552,0.05607094422285471
+Austria,2023,Basic life skills for adults,0.0815004342,0.034721396320696825
+Austria,2023,School feeding,0.0533184948,0.022715125475660507
+Austria,2023,Educational research,0.04061284379999999,0.0173021734071983
+Austria,2023,Early childhood education,0.018815176800000003,0.008015775829041907
+Austria,2022,Higher education,175.3214548679999,87.54233096396297
+Austria,2022,Upper Secondary Education (modified and includes data from 11322),10.13208084,5.059198116492489
+Austria,2022,Vocational training,6.424374369600001,3.2078487354748484
+Austria,2022,Primary education equivalent for adults,3.0333768012,1.5146399285186765
+Austria,2022,Education facilities and training,1.8176870934000005,0.9076160429945789
+Austria,2022,Education policy and administrative management,1.377931437,0.6880351865339231
+Austria,2022,Teacher training,0.7089830496,0.3540127408973003
+Austria,2022,Basic life skills for youth,0.7009955370000001,0.3500243786507373
+Austria,2022,Primary education,0.27620088119999997,0.13791391916496054
+Austria,2022,Basic life skills for adults,0.2654162496,0.13252888634303675
+Austria,2022,Advanced technical and managerial training,0.09922876199999998,0.04954737074643015
+Austria,2022,School feeding,0.0628926966,0.031403876183429026
+Austria,2022,Educational research,0.028980801000000004,0.014470829452407297
+Austria,2022,Early childhood education,0.020886258600000002,0.010429024584223021
+Austria,2021,Higher education,165.9490880994,85.68246467662127
+Austria,2021,Upper Secondary Education (modified and includes data from 11322),10.7197494732,5.534797244740083
+Austria,2021,Vocational training,10.154645370000004,5.243023948992624
+Austria,2021,Primary education equivalent for adults,2.7685321128,1.4294423529401443
+Austria,2021,Education policy and administrative management,1.2282287454,0.6341563385362576
+Austria,2021,Basic life skills for youth,0.9039229344,0.46671148232357096
+Austria,2021,Teacher training,0.7176833586000001,0.37055267809251524
+Austria,2021,Education facilities and training,0.5854519026000004,0.3022792263512692
+Austria,2021,Basic life skills for adults,0.2455738074,0.1267941229387808
+Austria,2021,Advanced technical and managerial training,0.1492878132,0.07707995221701543
+Austria,2021,Primary education,0.09166054140000002,0.047325967202912746
+Austria,2021,Educational research,0.08890204139999999,0.04590170460817713
+Austria,2021,Early childhood education,0.07513271280000001,0.038792355440294864
+Austria,2021,School feeding,0.0013130460000000002,0.0006779489950941504
+Austria,2020,Higher education,147.58379285759992,82.29133556206412
+Austria,2020,Upper Secondary Education (modified and includes data from 11322),18.999465564599998,10.593923397706387
+Austria,2020,Vocational training,7.6232824668,4.250670642169595
+Austria,2020,Primary education,2.4032625768000004,1.340036621379023
+Austria,2020,Education facilities and training,1.0413194058000006,0.5806299119352409
+Austria,2020,Teacher training,0.6676452720000001,0.3722727275859434
+Austria,2020,Education policy and administrative management,0.48865724099999996,0.2724706840456613
+Austria,2020,Advanced technical and managerial training,0.33135102,0.18475821394536054
+Austria,2020,Basic life skills for youth,0.09244064519999999,0.051544034791589796
+Austria,2020,Basic life skills for adults,0.0750598884,0.04185268818463902
+Austria,2020,Early childhood education,0.034911576,0.019466366597506522
+Austria,2020,School feeding,0.0018636426,0.0010391495949174626
+Austria,2019,Higher education,153.45772510319995,84.01767976529034
+Austria,2019,Upper Secondary Education (modified and includes data from 11322),12.0567458736,6.601034996044572
+Austria,2019,Vocational training,8.6743195164,4.749165927102006
+Austria,2019,Education facilities and training,3.1790741508000004,1.740534298761458
+Austria,2019,Primary education,2.0281970555999997,1.1104322744502368
+Austria,2019,Basic life skills for adults,1.042017858,0.5705018932366032
+Austria,2019,Teacher training,0.9662065541999996,0.5289954142309089
+Austria,2019,Education policy and administrative management,0.9478702529999999,0.5189563400737399
+Austria,2019,Advanced technical and managerial training,0.17211495240000002,0.09423246007222252
+Austria,2019,Early childhood education,0.11561204520000001,0.06329727476470537
+Austria,2019,Educational research,0.0057619548,0.003154654305496301
+Austria,2019,School feeding,0.0036798390000000007,0.0020147016677192963

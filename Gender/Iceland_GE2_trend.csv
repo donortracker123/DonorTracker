@@ -1,6 +1,6 @@
-"Year","Gender funding as a % of bilateral allocable ODA","Funding for projects with gender equality as a principal objective","Funding for projects with gender equality as a Significant objective","Principal","Significant","Not targeted","Not screened"
-2018,"86%",5,34,"10%","76%","14%","0%"
-2019,"91%",7,29,"17%","74%","9%","0%"
-2020,"86%",6,28,"16%","70%","14%","0%"
-2021,"77%",8,28,"18%","59%","23%","0%"
-2022,"68%",9,32,"15%","54%","32%","0%"
+donor,Year,Gender funding as % of bilateral allocable ODA,Funding for projects with gender equality as a principal objective,Funding for projects with gender equality as a significant objective,Principal,Significant,Not targeted or screened
+Iceland,2019,105.13884696141464,6.751002105666156,29.11732484686065,19.788839835302646,85.35000712611199,-5.138846961414629
+Iceland,2020,100.31477596528327,6.364856431852986,27.578219754977024,18.810585802481267,81.504190162802,-0.3147759652832747
+Iceland,2021,93.80272339758814,8.392668453292496,27.845358920367534,21.72455882805817,72.07816456952996,6.1972766024118755
+Iceland,2022,99.35050972852908,8.514966500765695,30.862442572741195,21.48354302826864,77.86696670026043,0.6494902714709241
+Iceland,2023,106.13955696595545,9.238819869831547,38.041051875957116,20.74041683413685,85.3991401318186,-6.13955696595545

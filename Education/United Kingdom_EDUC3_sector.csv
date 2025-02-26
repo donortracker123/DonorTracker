@@ -1,61 +1,60 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Education policy and administrative management",248.075586,"24%","United Kingdom"
-2019,"Education policy and administrative management",187.029307,"16%","United Kingdom"
-2020,"Education policy and administrative management",118.823689,"16%","United Kingdom"
-2021,"Education policy and administrative management",143.551052,"23%","United Kingdom"
-2022,"Education policy and administrative management",90.542965,"19%","United Kingdom"
-2018,"Education facilities and training",13.215684,"1%","United Kingdom"
-2019,"Education facilities and training",53.973595,"5%","United Kingdom"
-2020,"Education facilities and training",108.367749,"14%","United Kingdom"
-2021,"Education facilities and training",78.221699,"12%","United Kingdom"
-2022,"Education facilities and training",21.340356,"5%","United Kingdom"
-2018,"Teacher training",39.117125,"4%","United Kingdom"
-2019,"Teacher training",32.871951,"3%","United Kingdom"
-2020,"Teacher training",32.246953,"4%","United Kingdom"
-2021,"Teacher training",19.755313,"3%","United Kingdom"
-2022,"Teacher training",20.856813,"4%","United Kingdom"
-2018,"Educational research",51.83962,"5%","United Kingdom"
-2019,"Educational research",41.226183,"4%","United Kingdom"
-2020,"Educational research",38.038004,"5%","United Kingdom"
-2021,"Educational research",33.81446,"5%","United Kingdom"
-2022,"Educational research",28.772782,"6%","United Kingdom"
-2018,"Primary education",327.333709,"31%","United Kingdom"
-2019,"Primary education",462.587138,"40%","United Kingdom"
-2020,"Primary education",188.500369,"25%","United Kingdom"
-2021,"Primary education",117.628413,"19%","United Kingdom"
-2022,"Primary education",109.16932,"23%","United Kingdom"
-2018,"Basic life skills for adults",30.346645,"3%","United Kingdom"
-2019,"Basic life skills for adults",9.491609,"1%","United Kingdom"
-2020,"Basic life skills for adults",7.085051,"1%","United Kingdom"
-2021,"Basic life skills for adults",13.220972,"2%","United Kingdom"
-2022,"Basic life skills for adults",14.735405,"3%","United Kingdom"
-2018,"Basic life skills for youth",0.028812,"0%","United Kingdom"
-2019,"Basic life skills for youth",0.120029,"0%","United Kingdom"
-2020,"Basic life skills for youth",0.099836,"0%","United Kingdom"
-2021,"Basic life skills for youth",0.056265,"0%","United Kingdom"
-2018,"Early childhood education",7.098171,"1%","United Kingdom"
-2019,"Early childhood education",12.280476,"1%","United Kingdom"
-2020,"Early childhood education",5.981949,"1%","United Kingdom"
-2021,"Early childhood education",1.977337,"0%","United Kingdom"
-2022,"Early childhood education",3.434266,"1%","United Kingdom"
-2018,"Upper Secondary Education (modified and includes data from 11322)",99.27815,"10%","United Kingdom"
-2019,"Upper Secondary Education (modified and includes data from 11322)",127.744334,"11%","United Kingdom"
-2020,"Upper Secondary Education (modified and includes data from 11322)",98.530845,"13%","United Kingdom"
-2021,"Upper Secondary Education (modified and includes data from 11322)",59.997708,"9%","United Kingdom"
-2022,"Upper Secondary Education (modified and includes data from 11322)",42.535703,"9%","United Kingdom"
-2018,"Vocational training",46.915046,"4%","United Kingdom"
-2019,"Vocational training",55.520428,"5%","United Kingdom"
-2020,"Vocational training",35.585884,"5%","United Kingdom"
-2021,"Vocational training",14.894666,"2%","United Kingdom"
-2022,"Vocational training",22.045751,"5%","United Kingdom"
-2018,"Higher education",153.627187,"15%","United Kingdom"
-2019,"Higher education",158.132271,"14%","United Kingdom"
-2020,"Higher education",106.363868,"14%","United Kingdom"
-2021,"Higher education",137.50964,"22%","United Kingdom"
-2022,"Higher education",108.736123,"23%","United Kingdom"
-2018,"Advanced technical and managerial training",27.760578,"3%","United Kingdom"
-2019,"Advanced technical and managerial training",24.348415,"2%","United Kingdom"
-2020,"Advanced technical and managerial training",17.846014,"2%","United Kingdom"
-2021,"Advanced technical and managerial training",11.767462,"2%","United Kingdom"
-2022,"Advanced technical and managerial training",8.881271,"2%","United Kingdom"
-2022,"Lower secondary education",0.02703,"0%","United Kingdom"
+donor,year,Sector,Bilateral ODA for,share
+United Kingdom,2023,Higher education,122.95202543500004,29.548478427878504
+United Kingdom,2023,Primary education,87.97351439800003,21.142258398892416
+United Kingdom,2023,Education policy and administrative management,71.0846705266,17.083442474223528
+United Kingdom,2023,Upper Secondary Education (modified and includes data from 11322),33.516009369,8.054743924100938
+United Kingdom,2023,Educational research,23.211128335300003,5.578220630980299
+United Kingdom,2023,Teacher training,20.933460792399995,5.0308395689835645
+United Kingdom,2023,Vocational training,13.885792635300001,3.337106832413006
+United Kingdom,2023,Education facilities and training,12.524494819300001,3.009952570352808
+United Kingdom,2023,Advanced technical and managerial training,10.6327453854,2.555317381214774
+United Kingdom,2023,Basic life skills for adults,10.4506996022,2.5115671796321646
+United Kingdom,2023,Early childhood education,7.6564867766,1.8400472342873697
+United Kingdom,2023,Basic life skills for youth,1.2817020032,0.30802537704062066
+United Kingdom,2022,Primary education,110.9581379984,23.175701970820118
+United Kingdom,2022,Higher education,110.51784607550002,23.083738690168847
+United Kingdom,2022,Education policy and administrative management,92.02657074240003,19.221486728203853
+United Kingdom,2022,Upper Secondary Education (modified and includes data from 11322),43.23268682180001,9.029962860356285
+United Kingdom,2022,Educational research,29.244239774799993,6.108211597726536
+United Kingdom,2022,Vocational training,22.406987146800006,4.680122301491056
+United Kingdom,2022,Education facilities and training,21.6900374685,4.530373825425281
+United Kingdom,2022,Teacher training,21.198563828399998,4.42772027684432
+United Kingdom,2022,Basic life skills for adults,14.976855830499998,3.1281990978670957
+United Kingdom,2022,Advanced technical and managerial training,9.026798398700002,1.8854172682851276
+United Kingdom,2022,Early childhood education,3.4905409751000005,0.7290653828114885
+United Kingdom,2021,Education policy and administrative management,146.33254474520004,22.69958671664539
+United Kingdom,2021,Higher education,140.17406535740008,21.744263092980848
+United Kingdom,2021,Primary education,119.9076272981,18.600466414219852
+United Kingdom,2021,Education facilities and training,79.73734891820001,12.369120413205026
+United Kingdom,2021,Upper Secondary Education (modified and includes data from 11322),61.16024285350001,9.48737848222006
+United Kingdom,2021,Educational research,34.46966204980001,5.3470476041766615
+United Kingdom,2021,Teacher training,20.1381019262,3.1238887547427487
+United Kingdom,2021,Vocational training,15.183270151300002,2.3552789165377597
+United Kingdom,2021,Basic life skills for adults,13.4771469276,2.0906194579525486
+United Kingdom,2021,Advanced technical and managerial training,11.995481862399997,1.8607786888256608
+United Kingdom,2021,Early childhood education,2.0156505969999996,0.31267436506847435
+United Kingdom,2021,Basic life skills for youth,0.0573549791,0.008897093424971273
+United Kingdom,2020,Primary education,191.2153519366,24.885515548059168
+United Kingdom,2020,Education policy and administrative management,120.53511822300003,15.686912835430531
+United Kingdom,2020,Education facilities and training,109.92857810179999,14.306536121824644
+United Kingdom,2020,Higher education,107.8958366448,14.041987179383403
+United Kingdom,2020,Upper Secondary Education (modified and includes data from 11322),99.9499918731,13.007883789640056
+United Kingdom,2020,Educational research,38.58587236699999,5.0217167031796786
+United Kingdom,2020,Vocational training,36.09842100780003,4.697990031406295
+United Kingdom,2020,Teacher training,32.711408458,4.257190939618588
+United Kingdom,2020,Advanced technical and managerial training,18.1030564482,2.35600273799378
+United Kingdom,2020,Basic life skills for adults,7.187098205400001,0.9353571369897722
+United Kingdom,2020,Early childhood education,6.0681033528000015,0.789726759927744
+United Kingdom,2020,Basic life skills for youth,0.1012741625,0.01318021654634742
+United Kingdom,2019,Primary education,465.4866835122999,39.695951167173014
+United Kingdom,2019,Education policy and administrative management,188.2016254032,16.049530085838875
+United Kingdom,2019,Higher education,159.12346443789997,13.569791570012468
+United Kingdom,2019,Upper Secondary Education (modified and includes data from 11322),128.5450483112,10.962113721580732
+United Kingdom,2019,Vocational training,55.8684366495,4.764369876901644
+United Kingdom,2019,Education facilities and training,54.31190929069999,4.63163174235593
+United Kingdom,2019,Educational research,41.4845936381,3.5377390193473066
+United Kingdom,2019,Teacher training,33.0779976697,2.820838117852576
+United Kingdom,2019,Advanced technical and managerial training,24.5010328696,2.0894084380638205
+United Kingdom,2019,Early childhood education,12.357452215099995,1.0538235293433942
+United Kingdom,2019,Basic life skills for adults,9.551103797199998,0.8145026772097413
+United Kingdom,2019,Basic life skills for youth,0.1207815403,0.010300054320497118

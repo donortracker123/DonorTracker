@@ -1,36 +1,32 @@
-Year,Income Group,ODA,Share,Donor
-2018,Lower-middle income countries,3806.27416,37.74%,France
-2019,Lower-middle income countries,4623.038884,43.49%,France
-2020,Lower-middle income countries,4790.418181,34.81%,France
-2021,Lower-middle income countries,4440.199253,34.67%,France
-2022,Lower-middle income countries,5774.410943,39.92%,France
-2018,Countries unspecified,2019.750374,20.02%,France
-2019,Countries unspecified,2698.566177,25.39%,France
-2020,Countries unspecified,2936.231489,21.33%,France
-2021,Countries unspecified,3229.509005,25.22%,France
-2022,Countries unspecified,3575.065121,24.71%,France
-2018,Upper-middle income countries,2768.861155,27.45%,France
-2019,Upper-middle income countries,1901.999264,17.89%,France
-2020,Upper-middle income countries,3456.313526,25.11%,France
-2021,Upper-middle income countries,3313.844211,25.88%,France
-2022,Upper-middle income countries,3315.294268,22.92%,France
-2018,Low income countries,824.653441,8.18%,France
-2019,Low income countries,893.812032,8.41%,France
-2020,Low income countries,1553.094833,11.28%,France
-2021,Low income countries,1161.842493,9.07%,France
-2022,Low income countries,1231.833654,8.52%,France
-2018,Unallocated by income,620.413806,6.15%,France
-2019,Unallocated by income,333.333527,3.14%,France
-2020,Unallocated by income,902.881881,6.56%,France
-2021,Unallocated by income,537.760543,4.20%,France
-2022,Unallocated by income,441.8718,3.05%,France
-2018,Countries not classified,45.673221,0.45%,France
-2019,Countries not classified,133.969031,1.26%,France
-2020,Countries not classified,122.556496,0.89%,France
-2021,Countries not classified,119.476413,0.93%,France
-2022,Countries not classified,126.206477,0.87%,France
-2018,High income countries,1.143209,0.01%,France
-2019,High income countries,45.109736,0.42%,France
-2020,High income countries,1.363768,0.01%,France
-2021,High income countries,2.866875,0.02%,France
-2022,High income countries,1.717133,0.01%,France
+donor,year,incomegroup_name,total_oda,share
+France,2023,LMICs,3365.238445000004,32.89322809983133
+France,2023,Part I unallocated by income,2868.9269170000007,28.04207458845514
+France,2023,UMICs,2057.019501999999,20.10615675261232
+France,2023,LDCs,1872.2166279999992,18.29981726513319
+France,2023,Other LICs,67.392624,0.6587232939680043
+France,2022,LMICs,4015.2708930000026,30.497270956689878
+France,2022,Part I unallocated by income,3655.8505200000045,27.76735788361556
+France,2022,UMICs,3304.2031359999955,25.096483156394648
+France,2022,LDCs,2129.2500170000194,16.1723371681329
+France,2022,Other LICs,61.42608599999997,0.4665508351670091
+France,2022,,,
+France,2021,Part I unallocated by income,3448.9098239999976,29.41915517071647
+France,2021,LMICs,3190.4301029999933,27.21432657019269
+France,2021,UMICs,3112.914876999995,26.553122717915024
+France,2021,LDCs,1912.749342000014,16.31572658218166
+France,2021,Other LICs,58.34346199999999,0.49766895899415686
+France,2021,,,
+France,2020,LMICs,3798.4525199999707,30.118178501727517
+France,2020,Part I unallocated by income,3518.035712,27.894735288008516
+France,2020,UMICs,3114.8429979999905,24.697793884394933
+France,2020,LDCs,2112.971235000004,16.753887139478117
+France,2020,Other LICs,67.47936299999999,0.5350482832985056
+France,2020,MADCTs,0.045011999999999996,0.00035690309239926196
+France,2020,,,
+France,2019,LMICs,3296.3579620000005,33.82001559003993
+France,2019,Part I unallocated by income,2780.027787000004,28.522564654974303
+France,2019,UMICs,1952.915707000002,20.036549555043106
+France,2019,LDCs,1655.073696000011,16.980746280183684
+France,2019,Other LICs,62.36653899999999,0.6398690147101301
+France,2019,MADCTs,0.024845000000000002,0.0002549050488511666
+France,2019,,,

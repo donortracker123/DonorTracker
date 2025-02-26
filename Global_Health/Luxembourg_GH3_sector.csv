@@ -1,86 +1,88 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Health policy and administrative management",13.667421,"32%","Luxembourg"
-2019,"Health policy and administrative management",28.563029,"42%","Luxembourg"
-2020,"Health policy and administrative management",12.15321,"34%","Luxembourg"
-2021,"Health policy and administrative management",20.80009,"39%","Luxembourg"
-2022,"Health policy and administrative management",24.632145,"46%","Luxembourg"
-2018,"Medical education/training",0.020566,"0%","Luxembourg"
-2019,"Medical education/training",0.053126,"0%","Luxembourg"
-2020,"Medical education/training",0.012253,"0%","Luxembourg"
-2021,"Medical education/training",0.566932,"1%","Luxembourg"
-2022,"Medical education/training",0.280704,"1%","Luxembourg"
-2018,"Medical research",2.121129,"5%","Luxembourg"
-2019,"Medical research",0.9543,"1%","Luxembourg"
-2020,"Medical research",0.899368,"2%","Luxembourg"
-2021,"Medical research",0.55872,"1%","Luxembourg"
-2022,"Medical research",1.355284,"3%","Luxembourg"
-2018,"Medical services",4.408548,"10%","Luxembourg"
-2019,"Medical services",4.756534,"7%","Luxembourg"
-2020,"Medical services",4.497536,"12%","Luxembourg"
-2021,"Medical services",6.157948,"11%","Luxembourg"
-2022,"Medical services",5.418547,"10%","Luxembourg"
-2018,"Basic health care",4.625632,"11%","Luxembourg"
-2019,"Basic health care",6.834756,"10%","Luxembourg"
-2020,"Basic health care",4.142196,"11%","Luxembourg"
-2021,"Basic health care",6.341552,"12%","Luxembourg"
-2022,"Basic health care",3.779835,"7%","Luxembourg"
-2018,"Basic health infrastructure",2.453103,"6%","Luxembourg"
-2019,"Basic health infrastructure",1.732482,"3%","Luxembourg"
-2020,"Basic health infrastructure",3.616798,"10%","Luxembourg"
-2021,"Basic health infrastructure",1.790734,"3%","Luxembourg"
-2022,"Basic health infrastructure",2.834509,"5%","Luxembourg"
-2018,"Basic nutrition",1.667075,"4%","Luxembourg"
-2019,"Basic nutrition",5.895673,"9%","Luxembourg"
-2020,"Basic nutrition",0.254792,"1%","Luxembourg"
-2021,"Basic nutrition",3.398429,"6%","Luxembourg"
-2022,"Basic nutrition",1.952046,"4%","Luxembourg"
-2018,"Infectious disease control",0.370473,"1%","Luxembourg"
-2019,"Infectious disease control",4.917559,"7%","Luxembourg"
-2020,"Infectious disease control",0.263895,"1%","Luxembourg"
-2021,"Infectious disease control",0.124838,"0%","Luxembourg"
-2022,"Infectious disease control",1.93558,"4%","Luxembourg"
-2018,"Health education",0.755965,"2%","Luxembourg"
-2019,"Health education",1.409693,"2%","Luxembourg"
-2020,"Health education",1.33041,"4%","Luxembourg"
-2021,"Health education",1.132246,"2%","Luxembourg"
-2022,"Health education",0.819096,"2%","Luxembourg"
-2018,"Malaria control",0.015653,"0%","Luxembourg"
-2019,"Malaria control",0.002815,"0%","Luxembourg"
-2020,"Malaria control",0.008643,"0%","Luxembourg"
-2021,"Malaria control",0.010634,"0%","Luxembourg"
-2022,"Malaria control",0.008852,"0%","Luxembourg"
-2020,"Tuberculosis control",0.058221,"0%","Luxembourg"
-2018,"Health personnel development",0.965968,"2%","Luxembourg"
-2019,"Health personnel development",1.090848,"2%","Luxembourg"
-2020,"Health personnel development",0.878857,"2%","Luxembourg"
-2021,"Health personnel development",0.745366,"1%","Luxembourg"
-2022,"Health personnel development",0.807995,"2%","Luxembourg"
-2018,"Population policy and administrative management",0.402559,"1%","Luxembourg"
-2019,"Population policy and administrative management",0.404411,"1%","Luxembourg"
-2020,"Population policy and administrative management",1.882432,"5%","Luxembourg"
-2021,"Population policy and administrative management",2.356011,"4%","Luxembourg"
-2022,"Population policy and administrative management",0.494233,"1%","Luxembourg"
-2018,"Reproductive health care",4.38671,"10%","Luxembourg"
-2019,"Reproductive health care",2.966024,"4%","Luxembourg"
-2020,"Reproductive health care",3.348289,"9%","Luxembourg"
-2021,"Reproductive health care",0.631619,"1%","Luxembourg"
-2022,"Reproductive health care",3.603132,"7%","Luxembourg"
-2018,"Family planning",3.750727,"9%","Luxembourg"
-2019,"Family planning",3.359986,"5%","Luxembourg"
-2020,"Family planning",0.011783,"0%","Luxembourg"
-2021,"Family planning",0.001605,"0%","Luxembourg"
-2022,"Family planning",0.02742,"0%","Luxembourg"
-2018,"STD control including HIV/AIDS",2.763453,"7%","Luxembourg"
-2019,"STD control including HIV/AIDS",4.872918,"7%","Luxembourg"
-2020,"STD control including HIV/AIDS",1.495187,"4%","Luxembourg"
-2021,"STD control including HIV/AIDS",1.141828,"2%","Luxembourg"
-2022,"STD control including HIV/AIDS",2.111552,"4%","Luxembourg"
-2018,"Personnel development for population and reproductive health",0.050917,"0%","Luxembourg"
-2019,"Personnel development for population and reproductive health",0.024571,"0%","Luxembourg"
-2019,"NCDs control, general",0.525312,"1%","Luxembourg"
-2020,"Control of harmful use of alcohol and drugs",0.519421,"1%","Luxembourg"
-2021,"Control of harmful use of alcohol and drugs",0.177389,"0%","Luxembourg"
-2022,"Control of harmful use of alcohol and drugs",0.199196,"0%","Luxembourg"
-2020,"COVID-19 control",0.878468,"2%","Luxembourg"
-2021,"COVID-19 control",7.986119,"15%","Luxembourg"
-2022,"COVID-19 control",3.130243,"6%","Luxembourg"
+donor,year,Sector,Bilateral ODA for,share
+Luxembourg,2023,Health policy and administrative management,21.6504586635,46.42067372975371
+Luxembourg,2023,Medical services,5.44257159,11.669398970108192
+Luxembourg,2023,STD control including HIV/AIDS,3.6858521100000003,7.902822793444432
+Luxembourg,2023,Basic health care,2.9566024395,6.339241090721356
+Luxembourg,2023,Personnel development for population and reproductive health,2.8106218860000003,6.026244689571818
+Luxembourg,2023,Reproductive health care,2.0549151,4.405936376778054
+Luxembourg,2023,Health education,1.8472804065000001,3.960747546751543
+Luxembourg,2023,Medical research,1.4916412275,3.1982228099565373
+Luxembourg,2023,Basic health infrastructure,1.084439706,2.325143432489205
+Luxembourg,2023,Family planning,0.792289134,1.6987443989372515
+Luxembourg,2023,Population policy and administrative management,0.5713049595,1.2249329927522372
+Luxembourg,2023,Medical education/training,0.5517677745,1.183043381793934
+Luxembourg,2023,Health personnel development,0.5480542605000001,1.17508124923757
+Luxembourg,2023,Infectious disease control,0.49409239950000006,1.0593818092273521
+Luxembourg,2023,Control of harmful use of alcohol and drugs,0.37570240800000004,0.8055422368789399
+Luxembourg,2023,Basic nutrition,0.255630636,0.5480967647623542
+Luxembourg,2023,Promotion of mental health and well-being,0.022740258,0.04875730872750809
+Luxembourg,2023,Malaria control,0.0037257735000000005,0.007988418108020954
+Luxembourg,2022,Health policy and administrative management,25.878792534,46.13593504006608
+Luxembourg,2022,Medical services,5.6927824125,10.14892171786096
+Luxembourg,2022,Basic health care,3.971132904,7.07961661865429
+Luxembourg,2022,Reproductive health care,3.7854884100000006,6.748655183553436
+Luxembourg,2022,COVID-19 control,3.2886666,5.862936163914726
+Luxembourg,2022,Basic health infrastructure,2.9779651755,5.309026984467691
+Luxembourg,2022,STD control including HIV/AIDS,2.218418937,3.954930734678475
+Luxembourg,2022,Basic nutrition,2.050840488,3.656176902674088
+Luxembourg,2022,Infectious disease control,2.0335401044999997,3.62533429793217
+Luxembourg,2022,Medical research,1.4238762839999999,2.5384439269107157
+Luxembourg,2022,Health education,0.8605511444999998,1.5341647663485423
+Luxembourg,2022,Health personnel development,0.8488867875000001,1.5133699005861965
+Luxembourg,2022,Population policy and administrative management,0.5192466645,0.9256973775599954
+Luxembourg,2022,Medical education/training,0.29491118850000003,0.5257588203680247
+Luxembourg,2022,Control of harmful use of alcohol and drugs,0.2092774665,0.3730935895524655
+Luxembourg,2022,Family planning,0.028807596,0.05135731800354745
+Luxembourg,2022,Malaria control,0.0093005025,0.016580656868601187
+Luxembourg,2021,Health policy and administrative management,21.891042435000003,38.574362703090515
+Luxembourg,2021,COVID-19 control,8.404985032499999,14.810484339445386
+Luxembourg,2021,Basic health care,6.674159845499999,11.760584877726016
+Luxembourg,2021,Medical services,6.480927835500001,11.420089368582522
+Luxembourg,2021,Basic nutrition,3.5766768045,6.30248782067713
+Luxembourg,2021,Population policy and administrative management,2.4795830655,4.3692910835581245
+Luxembourg,2021,Basic health infrastructure,1.884657393,3.3209682939725655
+Luxembourg,2021,STD control including HIV/AIDS,1.2017151975000002,2.117550958654521
+Luxembourg,2021,Health education,1.191632316,2.0997838409291707
+Luxembourg,2021,Health personnel development,0.7844586570000001,1.3823002193955263
+Luxembourg,2021,Reproductive health care,0.6647468685000001,1.1713552192592338
+Luxembourg,2021,Medical education/training,0.5966665215,1.051390352079976
+Luxembourg,2021,Medical research,0.5880246885,1.03616251624021
+Luxembourg,2021,Control of harmful use of alcohol and drugs,0.1866932385,0.328973493039304
+Luxembourg,2021,Infectious disease control,0.1313850615,0.2315145581174263
+Luxembourg,2021,Malaria control,0.0111929235,0.019723130685939182
+Luxembourg,2021,Family planning,0.001689582,0.0029772245464386934
+Luxembourg,2020,Health policy and administrative management,12.600650679,33.5244699142984
+Luxembourg,2020,Medical services,4.663119267,12.406391190088375
+Luxembourg,2020,Basic health care,4.294696773,11.426190315506714
+Luxembourg,2020,Basic health infrastructure,3.7499559210000006,9.976888309666762
+Luxembourg,2020,Reproductive health care,3.4715627370000006,9.23621354936189
+Luxembourg,2020,Population policy and administrative management,1.9517358045000002,5.192661071675062
+Luxembourg,2020,STD control including HIV/AIDS,1.5502316070000002,4.124445172952798
+Luxembourg,2020,Health education,1.3793921309999997,3.66992079804242
+Luxembourg,2020,Medical research,0.93247986,2.4808951385628033
+Luxembourg,2020,Health personnel development,0.9112151999999998,2.4243197701498147
+Luxembourg,2020,COVID-19 control,0.9108095220000001,2.4232404497042013
+Luxembourg,2020,Control of harmful use of alcohol and drugs,0.5385442319999999,1.4328156825497957
+Luxembourg,2020,Infectious disease control,0.273611979,0.7279541979101272
+Luxembourg,2020,Basic nutrition,0.26417550749999996,0.7028481368853491
+Luxembourg,2020,Tuberculosis control,0.0603646635,0.1606022892742471
+Luxembourg,2020,Medical education/training,0.0127041855,0.033799927910882765
+Luxembourg,2020,Family planning,0.0122160345,0.03250118517687393
+Luxembourg,2020,Malaria control,0.0089616945,0.023842900283481735
+Luxembourg,2019,Health policy and administrative management,29.620001859,41.78078761224691
+Luxembourg,2019,Basic health care,7.087673895000001,9.997588760511286
+Luxembourg,2019,Basic nutrition,6.1138405124999995,8.623938417150972
+Luxembourg,2019,Infectious disease control,5.099530719,7.193193670510491
+Luxembourg,2019,STD control including HIV/AIDS,5.0532377324999995,7.1278946389270255
+Luxembourg,2019,Medical services,4.9325485275,6.957655282926995
+Luxembourg,2019,Family planning,3.484321533,4.914844321619041
+Luxembourg,2019,Reproductive health care,3.0757814970000004,4.338574118920547
+Luxembourg,2019,Basic health infrastructure,1.7965929465,2.5342020125690694
+Luxembourg,2019,Health education,1.461858444,2.0620389376976154
+Luxembourg,2019,Health personnel development,1.1312141565000002,1.5956453561913853
+Luxembourg,2019,Medical research,0.9896135880000001,1.3959092688530146
+Luxembourg,2019,"NCDs control, general",0.5447508825,0.7684037641746785
+Luxembourg,2019,Population policy and administrative management,0.4193763195,0.591555429943746
+Luxembourg,2019,Medical education/training,0.0550908495,0.07770894456032515
+Luxembourg,2019,Personnel development for population and reproductive health,0.0254808135,0.035942214389405716
+Luxembourg,2019,Malaria control,0.0029188754999999998,0.004117248807499172

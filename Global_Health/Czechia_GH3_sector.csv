@@ -1,48 +1,49 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Health policy and administrative management",0.143404,"8%","Czechia"
-2019,"Health policy and administrative management",0.22104,"5%","Czechia"
-2020,"Health policy and administrative management",0.216682,"3%","Czechia"
-2021,"Health policy and administrative management",0.329753,"2%","Czechia"
-2022,"Health policy and administrative management",0.22298,"2%","Czechia"
-2018,"Medical education/training",0.049669,"3%","Czechia"
-2019,"Medical education/training",0.022324,"1%","Czechia"
-2021,"Medical education/training",0.263755,"1%","Czechia"
-2022,"Medical education/training",0.009205,"0%","Czechia"
-2020,"Medical research",0.017395,"0%","Czechia"
-2018,"Medical services",0.700729,"37%","Czechia"
-2019,"Medical services",0.96735,"22%","Czechia"
-2020,"Medical services",0.912406,"12%","Czechia"
-2021,"Medical services",2.087367,"10%","Czechia"
-2022,"Medical services",0.189807,"2%","Czechia"
-2018,"Basic health care",0.286432,"15%","Czechia"
-2019,"Basic health care",0.873988,"20%","Czechia"
-2020,"Basic health care",0.293907,"4%","Czechia"
-2021,"Basic health care",1.657048,"8%","Czechia"
-2022,"Basic health care",0.691922,"6%","Czechia"
-2018,"Basic health infrastructure",0.1883,"10%","Czechia"
-2019,"Basic health infrastructure",0.397725,"9%","Czechia"
-2020,"Basic health infrastructure",0.214455,"3%","Czechia"
-2021,"Basic health infrastructure",0.995145,"5%","Czechia"
-2022,"Basic health infrastructure",3.629991,"30%","Czechia"
-2021,"Basic nutrition",0.109016,"1%","Czechia"
-2022,"Basic nutrition",0.096052,"1%","Czechia"
-2018,"Infectious disease control",0.012212,"1%","Czechia"
-2018,"Health education",0.092245,"5%","Czechia"
-2019,"Health education",0.024857,"1%","Czechia"
-2018,"Health personnel development",0.105802,"6%","Czechia"
-2019,"Health personnel development",1.716393,"39%","Czechia"
-2020,"Health personnel development",0.787908,"10%","Czechia"
-2021,"Health personnel development",1.530877,"7%","Czechia"
-2022,"Health personnel development",1.568175,"13%","Czechia"
-2021,"Population policy and administrative management",0.176412,"1%","Czechia"
-2018,"Reproductive health care",0.315834,"17%","Czechia"
-2019,"Reproductive health care",0.048417,"1%","Czechia"
-2020,"Reproductive health care",0.012938,"0%","Czechia"
-2021,"Reproductive health care",0.594094,"3%","Czechia"
-2022,"Reproductive health care",0.753082,"6%","Czechia"
-2022,"Family planning",0.212129,"2%","Czechia"
-2019,"Control of harmful use of alcohol and drugs",0.010492,"0%","Czechia"
-2019,"Other prevention and treatment of NCDs",0.109373,"2%","Czechia"
-2020,"COVID-19 control",5.147939,"68%","Czechia"
-2021,"COVID-19 control",13.681081,"64%","Czechia"
-2022,"COVID-19 control",4.833754,"40%","Czechia"
+donor,year,Sector,Bilateral ODA for,share
+Czechia,2023,Basic health care,2.3519932378000004,26.46922614376159
+Czechia,2023,Basic health infrastructure,2.215320349,24.9311155985322
+Czechia,2023,Health personnel development,1.4695868652,16.538664502822094
+Czechia,2023,Reproductive health care,0.8585241768000001,9.661792483239408
+Czechia,2023,Medical services,0.7339313090000001,8.259629951180962
+Czechia,2023,Health policy and administrative management,0.4567780094,5.140559179334668
+Czechia,2023,Medical education/training,0.32888871940000003,3.70129886005693
+Czechia,2023,Promotion of mental health and well-being,0.2252658076,2.5351312699345923
+Czechia,2023,Other prevention and treatment of NCDs,0.2252658076,2.5351312699345923
+Czechia,2023,Medical research,0.0202107384,0.22745074120297976
+Czechia,2022,COVID-19 control,5.5789733256,39.5979086314602
+Czechia,2022,Basic health infrastructure,4.1896245554,29.736720479302388
+Czechia,2022,Health personnel development,1.8099404564,12.846423999204678
+Czechia,2022,Reproductive health care,0.869184095,6.169212571746236
+Czechia,2022,Basic health care,0.7985951526,5.6681930600162715
+Czechia,2022,Health policy and administrative management,0.2573576154,1.8266485149619687
+Czechia,2022,Family planning,0.24483281180000002,1.7377511498672098
+Czechia,2022,Medical services,0.21906857959999998,1.5548842220161778
+Czechia,2022,Basic nutrition,0.1108606338,0.7868561098678589
+Czechia,2022,Medical education/training,0.010623329400000001,0.07540126155700237
+Czechia,2021,COVID-19 control,15.7655204954,63.857022649653985
+Czechia,2021,Medical services,2.4053980216,9.742878834324646
+Czechia,2021,Basic health care,1.9095157321999998,7.734345935267026
+Czechia,2021,Health personnel development,1.7641232749999998,7.145445021071508
+Czechia,2021,Basic health infrastructure,1.1467650262,4.644883134258136
+Czechia,2021,Reproductive health care,0.6846096065999999,2.7729583154316098
+Czechia,2021,Health policy and administrative management,0.3799941258,1.5391368464508417
+Czechia,2021,Medical education/training,0.30393973139999997,1.2310843982475892
+Czechia,2021,Population policy and administrative management,0.2032896596,0.8234090591113266
+Czechia,2021,Basic nutrition,0.125625358,0.5088358061833438
+Czechia,2020,COVID-19 control,5.932033520999998,67.7037026597121
+Czechia,2020,Medical services,1.0513768812,11.99961320111702
+Czechia,2020,Health personnel development,0.9079167699999999,10.362268995655299
+Czechia,2020,Basic health care,0.3386727932,3.8653527510548567
+Czechia,2020,Health policy and administrative management,0.24968540139999998,2.849718585542779
+Czechia,2020,Basic health infrastructure,0.24711846839999999,2.8204215716327656
+Czechia,2020,Medical research,0.020043802000000003,0.22876465650001568
+Czechia,2020,Reproductive health care,0.014908792600000002,0.17015757878515142
+Czechia,2019,Health personnel development,1.9778293085999998,39.080346806705144
+Czechia,2019,Medical services,1.1146937996000001,22.025470085933524
+Czechia,2019,Basic health care,1.0071135804,19.899769825756195
+Czechia,2019,Basic health infrastructure,0.45830559179999997,9.05575693166075
+Czechia,2019,Health policy and administrative management,0.2547083576,5.032836203959502
+Czechia,2019,Other prevention and treatment of NCDs,0.12603240840000002,2.490300961634915
+Czechia,2019,Reproductive health care,0.0557910596,1.1023873235172648
+Czechia,2019,Health education,0.02864217,0.5659466830779908
+Czechia,2019,Medical education/training,0.0257242132,0.5082901587181092
+Czechia,2019,Control of harmful use of alcohol and drugs,0.0120903116,0.23889501903659383

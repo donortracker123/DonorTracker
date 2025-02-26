@@ -1,111 +1,118 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-"2018","Infrastructure",4643.262645,"34.51%","Japan"
-"2019","Infrastructure",5634.492016,"38.62%","Japan"
-"2020","Infrastructure",4660.449613,"28.62%","Japan"
-"2021","Infrastructure",5853.460832,"32.87%","Japan"
-"2022","Infrastructure",8411.320766,"35.68%","Japan"
-"2018","Energy",1880.002229,"13.97%","Japan"
-"2019","Energy",2065.290388,"14.16%","Japan"
-"2020","Energy",1838.719097,"11.29%","Japan"
-"2021","Energy",1771.194877,"9.95%","Japan"
-"2022","Energy",2804.361329,"11.89%","Japan"
-"2018","Health & populations",383.785977,"2.85%","Japan"
-"2019","Health & populations",398.607716,"2.73%","Japan"
-"2020","Health & populations",1103.666018,"6.78%","Japan"
-"2021","Health & populations",1638.49627,"9.20%","Japan"
-"2022","Health & populations",2699.281182,"11.45%","Japan"
-"2018","General budget support",337.392533,"2.51%","Japan"
-"2019","General budget support",300.941567,"2.06%","Japan"
-"2020","General budget support",2110.74394,"12.96%","Japan"
-"2021","General budget support",1375.498451,"7.72%","Japan"
-"2022","General budget support",1906.323561,"8.09%","Japan"
-"2018","Other multisector",1240.382131,"9.22%","Japan"
-"2019","Other multisector",1292.947664,"8.86%","Japan"
-"2020","Other multisector",1679.881952,"10.32%","Japan"
-"2021","Other multisector",1992.381672,"11.19%","Japan"
-"2022","Other multisector",1709.40921,"7.25%","Japan"
-"2018","Industry, construction & mining",265.638866,"1.97%","Japan"
-"2019","Industry, construction & mining",310.784944,"2.13%","Japan"
-"2020","Industry, construction & mining",824.829169,"5.07%","Japan"
-"2021","Industry, construction & mining",434.26686,"2.44%","Japan"
-"2022","Industry, construction & mining",1223.807498,"5.19%","Japan"
-"2018","Water and sanitation",1064.432794,"7.91%","Japan"
-"2019","Water and sanitation",910.499623,"6.24%","Japan"
-"2020","Water and sanitation",628.624265,"3.86%","Japan"
-"2021","Water and sanitation",720.185575,"4.04%","Japan"
-"2022","Water and sanitation",945.345987,"4.01%","Japan"
-"2018","Donor administration costs",740.783833,"5.51%","Japan"
-"2019","Donor administration costs",722.945183,"4.96%","Japan"
-"2020","Donor administration costs",721.283045,"4.43%","Japan"
-"2021","Donor administration costs",749.693543,"4.21%","Japan"
-"2022","Donor administration costs",754.352821,"3.20%","Japan"
-"2018","Humanitarian aid",596.929209,"4.44%","Japan"
-"2019","Humanitarian aid",492.134959,"3.37%","Japan"
-"2020","Humanitarian aid",435.035784,"2.67%","Japan"
-"2021","Humanitarian aid",1031.893926,"5.80%","Japan"
-"2022","Humanitarian aid",745.61196,"3.16%","Japan"
-"2018","Agriculture (incl. forestry, fishing, rural development)",636.63941,"4.73%","Japan"
-"2019","Agriculture (incl. forestry, fishing, rural development)",827.828865,"5.67%","Japan"
-"2020","Agriculture (incl. forestry, fishing, rural development)",859.955383,"5.28%","Japan"
-"2021","Agriculture (incl. forestry, fishing, rural development)",606.066395,"3.40%","Japan"
-"2022","Agriculture (incl. forestry, fishing, rural development)",726.316691,"3.08%","Japan"
-"2018","Education",584.630864,"4.34%","Japan"
-"2019","Education",717.069882,"4.92%","Japan"
-"2020","Education",614.304287,"3.77%","Japan"
-"2021","Education",571.388509,"3.21%","Japan"
-"2022","Education",725.818878,"3.08%","Japan"
-"2018","Other social services",214.187003,"1.59%","Japan"
-"2019","Other social services",324.920501,"2.23%","Japan"
-"2020","Other social services",281.860553,"1.73%","Japan"
-"2021","Other social services",471.652348,"2.65%","Japan"
-"2022","Other social services",234.934663,"1.00%","Japan"
-"2018","Government & civil society",296.964896,"2.21%","Japan"
-"2019","Government & civil society",230.216677,"1.58%","Japan"
-"2020","Government & civil society",147.600222,"0.91%","Japan"
-"2021","Government & civil society",158.136623,"0.89%","Japan"
-"2022","Government & civil society",155.06329,"0.66%","Japan"
-"2018","Financial services & business support",36.360776,"0.27%","Japan"
-"2019","Financial services & business support",42.447878,"0.29%","Japan"
-"2020","Financial services & business support",44.487093,"0.27%","Japan"
-"2021","Financial services & business support",68.40729,"0.38%","Japan"
-"2022","Financial services & business support",134.423081,"0.57%","Japan"
-"2018","Food aid and commodity assistance",154.762474,"1.15%","Japan"
-"2019","Food aid and commodity assistance",90.664472,"0.62%","Japan"
-"2020","Food aid and commodity assistance",86.28051,"0.53%","Japan"
-"2021","Food aid and commodity assistance",63.088428,"0.35%","Japan"
-"2022","Food aid and commodity assistance",79.791943,"0.34%","Japan"
-"2018","Conflict, peace & security",103.254666,"0.77%","Japan"
-"2019","Conflict, peace & security",51.934088,"0.36%","Japan"
-"2020","Conflict, peace & security",108.250577,"0.66%","Japan"
-"2021","Conflict, peace & security",118.614226,"0.67%","Japan"
-"2022","Conflict, peace & security",72.529645,"0.31%","Japan"
-"2018","Refugees in donor countries",0.329136,"0.00%","Japan"
-"2019","Refugees in donor countries",0.328818,"0.00%","Japan"
-"2020","Refugees in donor countries",0.311399,"0.00%","Japan"
-"2021","Refugees in donor countries",0.266933,"0.00%","Japan"
-"2022","Refugees in donor countries",64.777967,"0.27%","Japan"
-"2018","Environmental protection",89.628044,"0.67%","Japan"
-"2019","Environmental protection",62.529872,"0.43%","Japan"
-"2020","Environmental protection",43.314504,"0.27%","Japan"
-"2021","Environmental protection",96.730571,"0.54%","Japan"
-"2022","Environmental protection",64.58053,"0.27%","Japan"
-"2018","Unspecified",100.144236,"0.74%","Japan"
-"2019","Unspecified",56.9713,"0.39%","Japan"
-"2020","Unspecified",53.383085,"0.33%","Japan"
-"2021","Unspecified",37.376381,"0.21%","Japan"
-"2022","Unspecified",59.745451,"0.25%","Japan"
-"2018","Trade policy",45.800847,"0.34%","Japan"
-"2019","Trade policy",46.562472,"0.32%","Japan"
-"2020","Trade policy",33.543749,"0.21%","Japan"
-"2021","Trade policy",40.904579,"0.23%","Japan"
-"2022","Trade policy",39.485415,"0.17%","Japan"
-"2018","Tourism",16.715486,"0.12%","Japan"
-"2019","Tourism",9.09879,"0.06%","Japan"
-"2020","Tourism",6.030399,"0.04%","Japan"
-"2021","Tourism",6.90368,"0.04%","Japan"
-"2022","Tourism",15.460838,"0.07%","Japan"
-"2018","Debt relief",24.022122,"0.18%","Japan"
-"2019","Debt relief",0,"0.00%","Japan"
-"2020","Debt relief",0,"0.00%","Japan"
-"2021","Debt relief",0,"0.00%","Japan"
-"2022","Debt relief",3.726449,"0.02%","Japan"
+donor,Year,Sector,Bilateral ODA for,share
+Japan,2023,Infrastructure,702740.0219388001,34.477203825156934
+Japan,2023,Other multisector,211673.67732151996,10.384945057348821
+Japan,2023,Energy,171631.36305548003,8.42042476893201
+Japan,2023,"Industry, construction & mining",159814.68150468,7.840685283994314
+Japan,2023,Health & populations,113636.46402711992,5.575130787946392
+Japan,2023,Water and sanitation,105893.50847178003,5.195252812370052
+Japan,2023,"Agriculture (incl. forestry, fishing, rural development)",80328.64649540003,3.9410123683863203
+Japan,2023,General budget support,76848.00796615999,3.770248387016331
+Japan,2023,Reconstruction Relief & Rehabilitation,66391.95094606,3.257262648570876
+Japan,2023,Donor administration costs,62106.75612851999,3.0470262445772245
+Japan,2023,Education,56910.14217454003,2.792074608269787
+Japan,2023,Unspecified,50674.985392319984,2.4861709105277345
+Japan,2023,Emergency Response,43297.39569500006,2.124218188621953
+Japan,2023,Government & civil society,42243.16347622003,2.0724963883100136
+Japan,2023,Trade policy,25036.37968838,1.2283125175919878
+Japan,2023,Other social services,22018.74040198001,1.0802637918897338
+Japan,2023,Financial services & business support,15562.774862740005,0.7635269719623906
+Japan,2023,"Conflict, peace & security",9829.454826780004,0.48224394082194477
+Japan,2023,Disaster Prevention & Preparedness,5799.1123242,0.284510873672476
+Japan,2023,Environmental protection,5773.5344165999995,0.2832559931957483
+Japan,2023,Food aid and commodity assistance,4196.51021486,0.20588543915986263
+Japan,2023,Refugees in donor countries,3523.0044439199996,0.17284250006831325
+Japan,2023,Tourism,1229.5280238400012,0.060322006664316384
+Japan,2023,Debt relief,1114.6035552199999,0.05468368494446035
+Japan,2022,Infrastructure,678430.457210179,35.67680296745579
+Japan,2022,Energy,226190.88864736035,11.894760445292892
+Japan,2022,Health & populations,217715.45871280058,11.449060756214681
+Japan,2022,General budget support,153758.01277973998,8.08571352938373
+Japan,2022,Other multisector,141433.05488766017,7.437577689335947
+Japan,2022,"Industry, construction & mining",98708.43198329993,5.190806576662441
+Japan,2022,Water and sanitation,76248.60764229984,4.009705818019341
+Japan,2022,Donor administration costs,60843.7062129,3.1996041676750813
+Japan,2022,Education,58542.25095344006,3.078576927583574
+Japan,2022,"Agriculture (incl. forestry, fishing, rural development)",55024.873010180265,2.8936076377910935
+Japan,2022,Emergency Response,43049.932585619965,2.2638782594390494
+Japan,2022,Other social services,18949.082343720038,0.9964804351075235
+Japan,2022,Government & civil society,12506.914041759977,0.6577044165052002
+Japan,2022,Reconstruction Relief & Rehabilitation,12427.561434779998,0.6535314798481102
+Japan,2022,Financial services & business support,10842.139937619959,0.5701584977341537
+Japan,2022,Food aid and commodity assistance,6435.76462716,0.33843926685174763
+Japan,2022,"Conflict, peace & security",5850.010985479998,0.30763608424166483
+Japan,2022,Refugees in donor countries,5224.78508846,0.27475716363739305
+Japan,2022,Environmental protection,5208.860812600006,0.273919749505674
+Japan,2022,Unspecified,4818.8785664,0.2534116493597911
+Japan,2022,Disaster Prevention & Preparedness,4659.016740720001,0.2450049529973426
+Japan,2022,Trade policy,3184.7683244600025,0.16747825926917875
+Japan,2022,Tourism,1247.0215582600001,0.06557745448687709
+Japan,2022,Debt relief,300.56355427999995,0.01580581560170686
+Japan,2021,Infrastructure,474641.13572890125,32.869212575331595
+Japan,2021,Other multisector,165974.5328527401,11.493846175069072
+Japan,2021,Energy,143621.35225622015,9.945873634439039
+Japan,2021,Health & populations,132861.1841970403,9.200724879600637
+Japan,2021,General budget support,111535.4079655,7.723900770767353
+Japan,2021,Donor administration costs,60790.59937788,4.209789213623124
+Japan,2021,Water and sanitation,58397.88178005957,4.044091937438415
+Japan,2021,Education,46332.335069459434,3.2085448476159586
+Japan,2021,"Agriculture (incl. forestry, fishing, rural development)",44726.51785837964,3.0973409436663957
+Japan,2021,Disaster Prevention & Preparedness,40125.28213181999,2.7787023263597797
+Japan,2021,Other social services,38245.003070259474,2.648491757736251
+Japan,2021,"Industry, construction & mining",35353.87102271982,2.4482789512587857
+Japan,2021,Emergency Response,34924.59602546002,2.4185513737774564
+Japan,2021,Government & civil society,12822.866844579994,0.8879920099896373
+Japan,2021,"Conflict, peace & security",9618.10296326,0.6660599915878082
+Japan,2021,Reconstruction Relief & Rehabilitation,8623.577798900002,0.5971884661801654
+Japan,2021,Environmental protection,7843.61776022,0.5431757176385397
+Japan,2021,Financial services & business support,5546.962255440001,0.38413080493203516
+Japan,2021,Food aid and commodity assistance,5115.66807708,0.35426339782403665
+Japan,2021,Trade policy,3316.8410673800086,0.229693437663972
+Japan,2021,Unspecified,3030.7484239399996,0.20988133288500643
+Japan,2021,Tourism,559.8001693000006,0.038766531974038364
+Japan,2021,Refugees in donor countries,21.64488556,0.0014989226408869904
+Japan,2020,Infrastructure,380356.46250614023,28.62234927040531
+Japan,2020,General budget support,172265.58953333998,12.963223599272846
+Japan,2020,Energy,150064.63573093998,11.29257115476977
+Japan,2020,Other multisector,141996.91191178,10.685463791724931
+Japan,2020,Health & populations,90074.25074846015,6.778211807432806
+Japan,2020,"Industry, construction & mining",67317.34527494,5.065723231624325
+Japan,2020,"Agriculture (incl. forestry, fishing, rural development)",65288.56408466004,4.91305464427126
+Japan,2020,Donor administration costs,58866.56677739999,4.429790474836957
+Japan,2020,Water and sanitation,51304.33998460006,3.8607224613756568
+Japan,2020,Education,50135.63505932004,3.772775801169068
+Japan,2020,Emergency Response,25074.739675559995,1.886908801626531
+Japan,2020,Other social services,23003.67409304002,1.7310582553410312
+Japan,2020,Government & civil society,12046.202074599987,0.906493348080068
+Japan,2020,Reconstruction Relief & Rehabilitation,9185.271283299999,0.6912043536260211
+Japan,2020,"Conflict, peace & security",8834.729535479997,0.6648256028251182
+Japan,2020,Food aid and commodity assistance,7041.670189999999,0.5298954099456837
+Japan,2020,Unspecified,4356.790496579999,0.3278545038237183
+Japan,2020,Financial services & business support,3630.7548410000027,0.2732193177147328
+Japan,2020,Environmental protection,3535.0566943400004,0.2660178999704797
+Japan,2020,Trade policy,2737.62742306,0.2060102456489694
+Japan,2020,Disaster Prevention & Preparedness,1244.8631500000001,0.09367767183022888
+Japan,2020,Tourism,492.1622013999997,0.03703588558307969
+Japan,2020,Refugees in donor countries,25.414378619999997,0.001912467101410741
+Japan,2019,Infrastructure,459986.8880860188,38.62093318082049
+Japan,2019,Energy,168605.52814972005,14.156279244571815
+Japan,2019,Other multisector,111971.30351436003,9.401216302471619
+Japan,2019,Water and sanitation,74331.0838631398,6.240907942139973
+Japan,2019,"Agriculture (incl. forestry, fishing, rural development)",61163.98348102003,5.135385769195105
+Japan,2019,Donor administration costs,59019.5714234,4.955338909307217
+Japan,2019,Education,58539.92407838004,4.915067265610039
+Japan,2019,Health & populations,32541.411518479996,2.7322076181218815
+Japan,2019,Emergency Response,27191.530342660015,2.2830265462952544
+Japan,2019,Other social services,26525.75758512,2.227127637329495
+Japan,2019,"Industry, construction & mining",25371.76397474003,2.1302372448597766
+Japan,2019,General budget support,24568.172981839998,2.062766986803861
+Japan,2019,Government & civil society,18794.356044480002,1.5779918684001157
+Japan,2019,Reconstruction Relief & Rehabilitation,8500.663550240002,0.7137237331535887
+Japan,2019,Food aid and commodity assistance,7401.6375584599955,0.6214484738105808
+Japan,2019,Environmental protection,5104.7937387799975,0.4286032993410567
+Japan,2019,Unspecified,4651.00507936,0.39050277528786576
+Japan,2019,Disaster Prevention & Preparedness,4484.56675518,0.3765284565336288
+Japan,2019,"Conflict, peace & security",4239.77839512,0.3559757948335154
+Japan,2019,Trade policy,3801.2518595799993,0.31915669310307665
+Japan,2019,Financial services & business support,3465.347553,0.2909538505534647
+Japan,2019,Tourism,742.8044922999999,0.0623665661056123
+Japan,2019,Refugees in donor countries,26.843925919999997,0.0022538413509589914

@@ -1,36 +1,26 @@
-Year,Income Group,ODA,Share,Donor
-2018,Countries unspecified,708.415898,49.23%,Belgium
-2019,Countries unspecified,603.943608,47.63%,Belgium
-2020,Countries unspecified,584.053446,46.50%,Belgium
-2021,Countries unspecified,663.412175,48.42%,Belgium
-2022,Countries unspecified,693.6663,50.16%,Belgium
-2018,Low income countries,379.301302,26.36%,Belgium
-2019,Low income countries,365.262033,28.80%,Belgium
-2020,Low income countries,381.494895,30.37%,Belgium
-2021,Low income countries,414.786289,30.27%,Belgium
-2022,Low income countries,362.270895,26.20%,Belgium
-2018,Lower-middle income countries,213.257509,14.82%,Belgium
-2019,Lower-middle income countries,187.146435,14.76%,Belgium
-2020,Lower-middle income countries,159.138373,12.67%,Belgium
-2021,Lower-middle income countries,172.415381,12.58%,Belgium
-2022,Lower-middle income countries,225.817481,16.33%,Belgium
-2018,Upper-middle income countries,119.437756,8.30%,Belgium
-2019,Upper-middle income countries,99.779098,7.87%,Belgium
-2020,Upper-middle income countries,98.949183,7.88%,Belgium
-2021,Upper-middle income countries,87.170856,6.36%,Belgium
-2022,Upper-middle income countries,60.802331,4.40%,Belgium
-2018,Unallocated by income,18.649507,1.30%,Belgium
-2019,Unallocated by income,11.950181,0.94%,Belgium
-2020,Unallocated by income,31.934853,2.54%,Belgium
-2021,Unallocated by income,32.298817,2.36%,Belgium
-2022,Unallocated by income,40.398004,2.92%,Belgium
-2018,Countries not classified,0.008341,0%,Belgium
-2019,Countries not classified,0.008279,0%,Belgium
-2020,Countries not classified,0,0%,Belgium
-2021,Countries not classified,0.004428,0%,Belgium
-2022,Countries not classified,0.009802,0%,Belgium
-2018,High income countries,0.03332,0%,Belgium
-2019,High income countries,0.03307,0%,Belgium
-2020,High income countries,0.442421,0.04%,Belgium
-2021,High income countries,0,0%,Belgium
-2022,High income countries,0.007476,0%,Belgium
+donor,year,incomegroup_name,total_oda,share
+Belgium,2023,Part I unallocated by income,706.7982130000003,53.82717046466749
+Belgium,2023,LDCs,392.1412830000005,29.86404789661577
+Belgium,2023,LMICs,143.84358999999998,10.954602454802382
+Belgium,2023,UMICs,40.90964599999999,3.115529225158357
+Belgium,2023,Other LICs,29.395448,2.2386499587560054
+Belgium,2022,Part I unallocated by income,696.9739199999999,53.078742703171365
+Belgium,2022,LDCs,410.90204399999993,31.292654206750232
+Belgium,2022,LMICs,142.55567299999984,10.856469189039995
+Belgium,2022,UMICs,45.047724,3.4306542654558405
+Belgium,2022,Other LICs,17.614891999999998,1.3414796355825647
+Belgium,2021,Part I unallocated by income,655.1216349999999,50.778563371714476
+Belgium,2021,LDCs,449.054736,34.80629115438161
+Belgium,2021,LMICs,97.87623399999994,7.586399662642423
+Belgium,2021,UMICs,66.51861699999999,5.155866679221034
+Belgium,2021,Other LICs,21.582716000000005,1.672879132040444
+Belgium,2020,Part I unallocated by income,581.4360149999999,49.043141416726634
+Belgium,2020,LDCs,419.1635090000002,35.35573084274523
+Belgium,2020,LMICs,91.04754200000005,7.679705698917465
+Belgium,2020,UMICs,81.06429600000001,6.8376358361210015
+Belgium,2020,Other LICs,12.848939000000001,1.083786205489686
+Belgium,2019,Part I unallocated by income,581.8587859999999,48.56736467378744
+Belgium,2019,LDCs,398.8121859999997,33.28858709338512
+Belgium,2019,LMICs,127.43316099999998,10.636760930203549
+Belgium,2019,UMICs,72.73244700000001,6.070928826820049
+Belgium,2019,Other LICs,17.208218000000002,1.436358475803841

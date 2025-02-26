@@ -1,104 +1,112 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Health policy and administrative management",10.745927,"4%","France"
-2019,"Health policy and administrative management",106.225026,"31%","France"
-2020,"Health policy and administrative management",50.653027,"10%","France"
-2021,"Health policy and administrative management",91.512307,"8%","France"
-2022,"Health policy and administrative management",210.602141,"22%","France"
-2018,"Medical education/training",0.475469,"0%","France"
-2019,"Medical education/training",4.570558,"1%","France"
-2020,"Medical education/training",3.112332,"1%","France"
-2021,"Medical education/training",0.229727,"0%","France"
-2022,"Medical education/training",0.466397,"0%","France"
-2018,"Medical research",35.436287,"14%","France"
-2019,"Medical research",20.318716,"6%","France"
-2020,"Medical research",18.5849,"4%","France"
-2021,"Medical research",28.796595,"3%","France"
-2022,"Medical research",30.270939,"3%","France"
-2018,"Medical services",46.763817,"18%","France"
-2019,"Medical services",12.119813,"4%","France"
-2020,"Medical services",40.984582,"8%","France"
-2021,"Medical services",5.658206,"1%","France"
-2022,"Medical services",17.02388,"2%","France"
-2018,"Basic health care",74.372552,"29%","France"
-2019,"Basic health care",38.807003,"11%","France"
-2020,"Basic health care",89.015762,"17%","France"
-2021,"Basic health care",84.991037,"8%","France"
-2022,"Basic health care",82.342663,"8%","France"
-2018,"Basic health infrastructure",17.776998,"7%","France"
-2019,"Basic health infrastructure",22.965135,"7%","France"
-2020,"Basic health infrastructure",126.851991,"24%","France"
-2021,"Basic health infrastructure",53.427826,"5%","France"
-2022,"Basic health infrastructure",51.182113,"5%","France"
-2018,"Basic nutrition",6.746073,"3%","France"
-2019,"Basic nutrition",44.920246,"13%","France"
-2020,"Basic nutrition",22.915859,"4%","France"
-2021,"Basic nutrition",26.262508,"2%","France"
-2022,"Basic nutrition",104.481046,"11%","France"
-2018,"Infectious disease control",12.685295,"5%","France"
-2019,"Infectious disease control",21.228535,"6%","France"
-2020,"Infectious disease control",80.612465,"15%","France"
-2021,"Infectious disease control",20.502308,"2%","France"
-2022,"Infectious disease control",77.992313,"8%","France"
-2018,"Health education",1.360756,"1%","France"
-2019,"Health education",2.180677,"1%","France"
-2020,"Health education",2.824475,"1%","France"
-2021,"Health education",2.684539,"0%","France"
-2022,"Health education",2.601956,"0%","France"
-2018,"Malaria control",0.603364,"0%","France"
-2019,"Malaria control",1.059851,"0%","France"
-2020,"Malaria control",0.754254,"0%","France"
-2022,"Malaria control",0.643305,"0%","France"
-2020,"Tuberculosis control",1.442051,"0%","France"
-2022,"Tuberculosis control",1.504467,"0%","France"
-2018,"Health personnel development",4.59627,"2%","France"
-2019,"Health personnel development",5.051699,"1%","France"
-2020,"Health personnel development",9.392291,"2%","France"
-2021,"Health personnel development",5.817761,"1%","France"
-2022,"Health personnel development",8.679071,"1%","France"
-2018,"Population policy and administrative management",1.038641,"0%","France"
-2019,"Population policy and administrative management",4.97322,"1%","France"
-2020,"Population policy and administrative management",0.939289,"0%","France"
-2021,"Population policy and administrative management",3.560672,"0%","France"
-2022,"Population policy and administrative management",4.774985,"0%","France"
-2018,"Reproductive health care",18.467275,"7%","France"
-2019,"Reproductive health care",17.811067,"5%","France"
-2020,"Reproductive health care",16.124903,"3%","France"
-2021,"Reproductive health care",19.892428,"2%","France"
-2022,"Reproductive health care",14.606791,"2%","France"
-2018,"Family planning",7.486471,"3%","France"
-2019,"Family planning",9.340758,"3%","France"
-2020,"Family planning",27.829597,"5%","France"
-2021,"Family planning",21.992397,"2%","France"
-2022,"Family planning",13.387685,"1%","France"
-2018,"STD control including HIV/AIDS",11.684261,"5%","France"
-2019,"STD control including HIV/AIDS",14.856515,"4%","France"
-2020,"STD control including HIV/AIDS",19.214075,"4%","France"
-2021,"STD control including HIV/AIDS",50.381658,"4%","France"
-2022,"STD control including HIV/AIDS",17.718115,"2%","France"
-2018,"Personnel development for population and reproductive health",6.465558,"3%","France"
-2019,"Personnel development for population and reproductive health",6.360592,"2%","France"
-2020,"Personnel development for population and reproductive health",3.013095,"1%","France"
-2021,"Personnel development for population and reproductive health",0.529001,"0%","France"
-2022,"Personnel development for population and reproductive health",0.055168,"0%","France"
-2018,"NCDs control, general",0.008572,"0%","France"
-2019,"NCDs control, general",0.000656,"0%","France"
-2020,"NCDs control, general",0.022768,"0%","France"
-2021,"NCDs control, general",1.165603,"0%","France"
-2022,"NCDs control, general",0.005052,"0%","France"
-2019,"Control of harmful use of alcohol and drugs",0.009853,"0%","France"
-2019,"Promotion of mental health and well-being",0.005746,"0%","France"
-2020,"Promotion of mental health and well-being",0.933116,"0%","France"
-2021,"Promotion of mental health and well-being",2.400594,"0%","France"
-2022,"Promotion of mental health and well-being",2.000932,"0%","France"
-2019,"Other prevention and treatment of NCDs",0.273429,"0%","France"
-2020,"Other prevention and treatment of NCDs",0.172382,"0%","France"
-2021,"Other prevention and treatment of NCDs",0.63789,"0%","France"
-2022,"Other prevention and treatment of NCDs",2.902721,"0%","France"
-2018,"Research for prevention and control of NCDs",0.312277,"0%","France"
-2019,"Research for prevention and control of NCDs",5.526384,"2%","France"
-2020,"Research for prevention and control of NCDs",1.062362,"0%","France"
-2021,"Research for prevention and control of NCDs",0.800764,"0%","France"
-2022,"Research for prevention and control of NCDs",0.898594,"0%","France"
-2020,"COVID-19 control",5.275284,"1%","France"
-2021,"COVID-19 control",698.773991,"62%","France"
-2022,"COVID-19 control",328.456238,"34%","France"
+donor,year,Sector,Bilateral ODA for,share
+France,2023,Health policy and administrative management,214.20139568499974,32.14212547661374
+France,2023,Basic nutrition,98.92869858499996,14.844808237539628
+France,2023,Basic health care,75.80647477,11.37518836516024
+France,2023,COVID-19 control,72.17266516000001,10.829914773131428
+France,2023,Medical research,40.208284740000025,6.0334795166929815
+France,2023,Basic health infrastructure,37.20975974,5.583533957344261
+France,2023,STD control including HIV/AIDS,24.7254442025,3.7101921184046733
+France,2023,Family planning,21.6422352275,3.2475392517968036
+France,2023,Infectious disease control,20.806639405000002,3.1221533938352346
+France,2023,Reproductive health care,14.7361580175,2.211243481990355
+France,2023,Medical services,13.814082352499998,2.0728808367396843
+France,2023,Health personnel development,6.6587227124999995,0.9991788347350191
+France,2023,Tuberculosis control,6.06245898,0.9097061044295968
+France,2023,Promotion of mental health and well-being,4.8882636525,0.7335114842691385
+France,2023,Malaria control,3.0094874775,0.4515905408214702
+France,2023,Population policy and administrative management,2.559789915,0.3841108895606612
+France,2023,Health education,1.8526186450000006,0.2779958587920357
+France,2023,Research for prevention and control of NCDs,1.6733609750000003,0.2510972361039814
+France,2023,Other prevention and treatment of NCDs,1.615745995,0.2424517839556867
+France,2023,Control of harmful use of alcohol and drugs,1.298863605,0.19490179714006617
+France,2023,Medical education/training,1.293061405,0.1940311443609654
+France,2023,Personnel development for population and reproductive health,0.7019135675,0.10532608290517552
+France,2023,"NCDs control, general",0.55338699,0.08303883367717571
+France,2022,COVID-19 control,323.59279126249993,33.77106612432604
+France,2022,Health policy and administrative management,207.48375791000004,21.653596425200334
+France,2022,Basic nutrition,102.9340037925,10.742486057726307
+France,2022,Basic health care,81.12344306249986,8.466273767125687
+France,2022,Infectious disease control,76.8374856575,8.018979034861765
+France,2022,Basic health infrastructure,50.424258332499996,5.262419338122927
+France,2022,Medical research,29.822720202500008,3.112384092477824
+France,2022,STD control including HIV/AIDS,17.455761737499998,1.821733054026497
+France,2022,Medical services,16.771798185,1.7503526679925916
+France,2022,Reproductive health care,14.39050277750001,1.5018338911852307
+France,2022,Family planning,13.189454955,1.3764891167423952
+France,2022,Health personnel development,8.550560332500002,0.8923608503832587
+France,2022,Population policy and administrative management,4.704283035,0.4909523874827459
+France,2022,Other prevention and treatment of NCDs,2.8597387575,0.29845048865593315
+France,2022,Health education,2.5634260325,0.26752644801085995
+France,2022,Promotion of mental health and well-being,1.9713028625,0.20573078609330447
+France,2022,Tuberculosis control,1.4821903925000002,0.15468561446831894
+France,2022,Research for prevention and control of NCDs,0.8852890675,0.09239129067443512
+France,2022,Malaria control,0.6337799350000001,0.0661430806590296
+France,2022,Medical education/training,0.45949094,0.047953784315550044
+France,2022,Personnel development for population and reproductive health,0.0543512425,0.005672250600038288
+France,2022,"NCDs control, general",0.004977334999999999,0.0005194488689074876
+France,2021,COVID-19 control,692.5000111049998,62.389543297370246
+France,2021,Health policy and administrative management,90.69065816749998,8.17061177425791
+France,2021,Basic health care,84.22792857499998,7.588363772431759
+France,2021,Basic health infrastructure,52.94812223749999,4.7702658655265795
+France,2021,STD control including HIV/AIDS,49.929294950000006,4.4982900492948525
+France,2021,Medical research,28.538039512500003,2.5710833548524215
+France,2021,Basic nutrition,26.026714205000005,2.344830016955657
+France,2021,Family planning,21.7949391725,1.963575854672535
+France,2021,Infectious disease control,20.318232725,1.8305346425911133
+France,2021,Reproductive health care,19.7138285925,1.7760819390690612
+France,2021,Health personnel development,5.765523817500002,0.519434501192225
+France,2021,Medical services,5.607403042499999,0.5051888942898727
+France,2021,Population policy and administrative management,3.5286999425,0.31791187626804385
+France,2021,Health education,2.6604331875,0.23968694423042386
+France,2021,Promotion of mental health and well-being,2.3790405599999995,0.21433538143556038
+France,2021,"NCDs control, general",1.1551368325,0.10406997584108132
+France,2021,Research for prevention and control of NCDs,0.7935753375000001,0.07149574308262997
+France,2021,Other prevention and treatment of NCDs,0.6321637625000001,0.056953657471555064
+France,2021,Personnel development for population and reproductive health,0.5242536675,0.04723169149861152
+France,2021,Medical education/training,0.22766165750000003,0.020510767667834308
+France,2021,Malaria control,0.0,0.0
+France,2021,Tuberculosis control,0.0,0.0
+France,2020,Basic health infrastructure,125.83298146750003,24.313685456457797
+France,2020,Basic health care,88.3006821925,17.061623966794365
+France,2020,Infectious disease control,79.96490068499999,15.450968578648297
+France,2020,Health policy and administrative management,50.24612754500002,9.708651311339398
+France,2020,Medical services,40.655346415,7.855502534627161
+France,2020,Family planning,27.6060416525,5.334091313811198
+France,2020,Basic nutrition,22.73177364250001,4.392276077110134
+France,2020,STD control including HIV/AIDS,19.059726885000003,3.6827562930118742
+France,2020,Medical research,18.435603932499994,3.5621620817306265
+France,2020,Reproductive health care,15.995364235,3.090654375631327
+France,2020,Health personnel development,9.316839350000002,1.8002172305100772
+France,2020,COVID-19 control,5.232906755000001,1.011112089853044
+France,2020,Medical education/training,3.0873278875,0.5965393037835064
+France,2020,Personnel development for population and reproductive health,2.9888896674999996,0.5775188856859524
+France,2020,Health education,2.8017827900000003,0.5413657427402777
+France,2020,Tuberculosis control,1.4304663775000002,0.2763974051394191
+France,2020,Research for prevention and control of NCDs,1.053828905,0.20362280399206054
+France,2020,Population policy and administrative management,0.9317391425,0.18003239034804047
+France,2020,Promotion of mental health and well-being,0.9256197699999998,0.17884999367889434
+France,2020,Malaria control,0.748195855,0.14456781096769894
+France,2020,Other prevention and treatment of NCDs,0.17099711250000002,0.03304038383896467
+France,2020,"NCDs control, general",0.02258528,0.004363970299852238
+France,2019,Health policy and administrative management,105.4360293425,31.371325011054306
+France,2019,Basic nutrition,44.586603210000014,13.266250912163398
+France,2019,Basic health care,38.518732812499934,11.460823151349578
+France,2019,Basic health infrastructure,22.794564055000002,6.782270556981744
+France,2019,Infectious disease control,21.070854922499993,6.2693999589765586
+France,2019,Medical research,20.167802029999997,6.000706553416278
+France,2019,Reproductive health care,17.678774057500004,5.260123794620864
+France,2019,STD control including HIV/AIDS,14.746167894999997,4.387559248830211
+France,2019,Medical services,12.029790025,3.579331041223994
+France,2019,Family planning,9.271380845,2.758596881953311
+France,2019,Personnel development for population and reproductive health,6.3133467575,1.8784665381664132
+France,2019,Research for prevention and control of NCDs,5.4853381775,1.632101738229367
+France,2019,Health personnel development,5.01417897,1.4919135243654058
+France,2019,Population policy and administrative management,4.9362866000000025,1.468737510716282
+France,2019,Medical education/training,4.53661028,1.3498182398358092
+France,2019,Health education,2.164482565,0.6440178604108787
+France,2019,Malaria control,1.0519810775,0.31300534071258773
+France,2019,Other prevention and treatment of NCDs,0.271397905,0.08075144652324558
+France,2019,Control of harmful use of alcohol and drugs,0.0097803875,0.0029100461854444657
+France,2019,Promotion of mental health and well-being,0.00570261,0.0016967485672298225
+France,2019,"NCDs control, general",0.000651665,0.0001938957170600518
+France,2019,Tuberculosis control,,

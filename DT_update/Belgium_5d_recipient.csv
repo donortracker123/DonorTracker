@@ -1,201 +1,101 @@
-"Year","Recipient country","ODA Grants","ODA Loans","Share","Donor"
-"2018","Democratic Republic of the Congo",136.666068,0,"9%","Belgium"
-"2019","Democratic Republic of the Congo",111.379748,0,"9%","Belgium"
-"2020","Democratic Republic of the Congo",111.573915,0,"9%","Belgium"
-"2021","Democratic Republic of the Congo",113.008784,0,"8%","Belgium"
-"2022","Democratic Republic of the Congo",109.377488,0,"8%","Belgium"
-"2018","Ukraine",3.883106,0,"0%","Belgium"
-"2019","Ukraine",3.392503,0,"0%","Belgium"
-"2020","Ukraine",4.161054,0,"0%","Belgium"
-"2021","Ukraine",3.877479,0,"0%","Belgium"
-"2022","Ukraine",66.410618,0,"5%","Belgium"
-"2018","Rwanda",44.591479,0,"3%","Belgium"
-"2019","Rwanda",46.175707,0,"4%","Belgium"
-"2020","Rwanda",63.372697,0,"5%","Belgium"
-"2021","Rwanda",52.330486,0,"4%","Belgium"
-"2022","Rwanda",44.264635,0,"3%","Belgium"
-"2018","Burkina Faso",15.60068,1.024753,"1%","Belgium"
-"2019","Burkina Faso",18.457304,1.564356,"2%","Belgium"
-"2020","Burkina Faso",43.228809,0.652554,"3%","Belgium"
-"2021","Burkina Faso",39.276696,0.116594,"3%","Belgium"
-"2022","Burkina Faso",36.907398,0.909111,"3%","Belgium"
-"2018","Benin",29.492736,0,"2%","Belgium"
-"2019","Benin",25.181205,0,"2%","Belgium"
-"2020","Benin",21.464138,0,"2%","Belgium"
-"2021","Benin",27.289077,0,"2%","Belgium"
-"2022","Benin",29.188314,0,"2%","Belgium"
-"2018","Burundi",44.221135,0,"3%","Belgium"
-"2019","Burundi",31.469785,0,"2%","Belgium"
-"2020","Burundi",29.931318,0,"2%","Belgium"
-"2021","Burundi",36.394872,0,"3%","Belgium"
-"2022","Burundi",28.001642,0,"2%","Belgium"
-"2018","Niger",18.261135,5.54867,"2%","Belgium"
-"2019","Niger",20.394554,1.524554,"2%","Belgium"
-"2020","Niger",26.461588,0,"2%","Belgium"
-"2021","Niger",30.897006,3.668725,"3%","Belgium"
-"2022","Niger",22.021463,4.723415,"2%","Belgium"
-"2018","Uganda",27.843389,0,"2%","Belgium"
-"2019","Uganda",37.578228,0,"3%","Belgium"
-"2020","Uganda",25.099916,0,"2%","Belgium"
-"2021","Uganda",49.685464,0,"4%","Belgium"
-"2022","Uganda",22.569276,0,"2%","Belgium"
-"2018","Mozambique",13.289986,0,"1%","Belgium"
-"2019","Mozambique",11.377584,0,"1%","Belgium"
-"2020","Mozambique",13.312909,0,"1%","Belgium"
-"2021","Mozambique",16.354797,0,"1%","Belgium"
-"2022","Mozambique",21.197097,0,"2%","Belgium"
-"2018","Senegal",11.326293,0,"1%","Belgium"
-"2019","Senegal",10.356404,0.796702,"1%","Belgium"
-"2020","Senegal",13.789851,0.196211,"1%","Belgium"
-"2021","Senegal",16.891357,0,"1%","Belgium"
-"2022","Senegal",20.157034,0,"1%","Belgium"
-"2018","Mali",14.137019,0,"1%","Belgium"
-"2019","Mali",19.2022,0,"2%","Belgium"
-"2020","Mali",18.291111,0,"1%","Belgium"
-"2021","Mali",21.632277,0,"2%","Belgium"
-"2022","Mali",19.098692,0,"1%","Belgium"
-"2018","West Bank and Gaza Strip",26.722654,0,"2%","Belgium"
-"2019","West Bank and Gaza Strip",24.657537,0,"2%","Belgium"
-"2020","West Bank and Gaza Strip",22.219459,0,"2%","Belgium"
-"2021","West Bank and Gaza Strip",23.734488,0,"2%","Belgium"
-"2022","West Bank and Gaza Strip",19.066541,0,"1%","Belgium"
-"2018","Syrian Arab Republic",14.596666,0,"1%","Belgium"
-"2019","Syrian Arab Republic",18.214789,0,"1%","Belgium"
-"2020","Syrian Arab Republic",13.612499,0,"1%","Belgium"
-"2021","Syrian Arab Republic",22.919915,0,"2%","Belgium"
-"2022","Syrian Arab Republic",18.552291,0,"1%","Belgium"
-"2018","Guinea",9.294502,1.99667,"1%","Belgium"
-"2019","Guinea",7.818651,2.383331,"1%","Belgium"
-"2020","Guinea",7.789045,2.412635,"1%","Belgium"
-"2021","Guinea",12.487775,0,"1%","Belgium"
-"2022","Guinea",16.76353,1.162976,"1%","Belgium"
-"2018","Kenya",8.934761,10.864394,"1%","Belgium"
-"2019","Kenya",7.36897,7.119975,"1%","Belgium"
-"2020","Kenya",3.477521,5.912358,"1%","Belgium"
-"2021","Kenya",9.742473,3.282314,"1%","Belgium"
-"2022","Kenya",10.03881,6.014321,"1%","Belgium"
-"2018","Türkiye",9.135493,0,"1%","Belgium"
-"2019","Türkiye",8.696841,0,"1%","Belgium"
-"2020","Türkiye",9.661142,0,"1%","Belgium"
-"2021","Türkiye",13.095861,0,"1%","Belgium"
-"2022","Türkiye",12.266173,0,"1%","Belgium"
-"2018","Sudan",0.016565,0,"0%","Belgium"
-"2019","Sudan",0.016442,0,"0%","Belgium"
-"2020","Sudan",0,0,NA,"Belgium"
-"2021","Sudan",0.014672,0,"0%","Belgium"
-"2022","Sudan",11.075995,0,"1%","Belgium"
-"2018","Tanzania",13.027129,0,"1%","Belgium"
-"2019","Tanzania",13.305915,0,"1%","Belgium"
-"2020","Tanzania",13.251166,0,"1%","Belgium"
-"2021","Tanzania",14.824431,0,"1%","Belgium"
-"2022","Tanzania",10.622071,0,"1%","Belgium"
-"2018","Morocco",14.008953,0,"1%","Belgium"
-"2019","Morocco",17.288211,0,"1%","Belgium"
-"2020","Morocco",12.637882,0,"1%","Belgium"
-"2021","Morocco",16.948052,0,"1%","Belgium"
-"2022","Morocco",10.347549,0,"1%","Belgium"
-"2018","Malawi",8.129757,0,"1%","Belgium"
-"2019","Malawi",8.08194,0,"1%","Belgium"
-"2020","Malawi",6.137433,0,"0%","Belgium"
-"2021","Malawi",2.884795,0,"0%","Belgium"
-"2022","Malawi",7.540509,0,"1%","Belgium"
-"2018","Nigeria",5.522976,0,"0%","Belgium"
-"2019","Nigeria",6.525504,0,"1%","Belgium"
-"2020","Nigeria",7.956693,0,"1%","Belgium"
-"2021","Nigeria",5.936386,0,"0%","Belgium"
-"2022","Nigeria",7.408464,0,"1%","Belgium"
-"2018","Lebanon",6.618036,0,"0%","Belgium"
-"2019","Lebanon",5.686451,0,"0%","Belgium"
-"2020","Lebanon",13.619516,0,"1%","Belgium"
-"2021","Lebanon",9.992065,0,"1%","Belgium"
-"2022","Lebanon",7.206714,0,"1%","Belgium"
-"2018","Yemen",10.99709,0,"1%","Belgium"
-"2019","Yemen",9.857932,0,"1%","Belgium"
-"2020","Yemen",16.368598,0,"1%","Belgium"
-"2021","Yemen",6.848687,0,"0%","Belgium"
-"2022","Yemen",5.537997,0,"0%","Belgium"
-"2018","Peru",14.849108,0,"1%","Belgium"
-"2019","Peru",9.086959,0,"1%","Belgium"
-"2020","Peru",8.345831,0,"1%","Belgium"
-"2021","Peru",8.291763,0,"1%","Belgium"
-"2022","Peru",4.871674,0,"0%","Belgium"
-"2018","Viet Nam",31.759141,0,"2%","Belgium"
-"2019","Viet Nam",17.267354,0,"1%","Belgium"
-"2020","Viet Nam",6.515888,0,"1%","Belgium"
-"2021","Viet Nam",8.163218,0,"1%","Belgium"
-"2022","Viet Nam",4.864481,0,"0%","Belgium"
-"2018","Ghana",2.742091,3.012996,"0%","Belgium"
-"2019","Ghana",2.588588,0.025724,"0%","Belgium"
-"2020","Ghana",0.505276,0,"0%","Belgium"
-"2021","Ghana",1.016074,0,"0%","Belgium"
-"2022","Ghana",0.954003,3.852485,"0%","Belgium"
-"2018","South Africa",12.251468,0,"1%","Belgium"
-"2019","South Africa",11.553569,0,"1%","Belgium"
-"2020","South Africa",15.436023,0,"1%","Belgium"
-"2021","South Africa",11.623202,0,"1%","Belgium"
-"2022","South Africa",4.783707,0,"0%","Belgium"
-"2018","Ecuador",9.608645,0,"1%","Belgium"
-"2019","Ecuador",9.468672,0,"1%","Belgium"
-"2020","Ecuador",8.590037,0,"1%","Belgium"
-"2021","Ecuador",7.340727,0,"1%","Belgium"
-"2022","Ecuador",4.594767,0,"0%","Belgium"
-"2018","Ethiopia",4.097228,0,"0%","Belgium"
-"2019","Ethiopia",5.913052,0,"0%","Belgium"
-"2020","Ethiopia",3.978327,0,"0%","Belgium"
-"2021","Ethiopia",10.632595,0,"1%","Belgium"
-"2022","Ethiopia",4.400772,0,"0%","Belgium"
-"2018","Iraq",13.826035,0,"1%","Belgium"
-"2019","Iraq",15.653833,0,"1%","Belgium"
-"2020","Iraq",11.825018,0,"1%","Belgium"
-"2021","Iraq",5.143273,0,"0%","Belgium"
-"2022","Iraq",4.254331,0,"0%","Belgium"
-"2018","Egypt",0.30585,0,"0%","Belgium"
-"2019","Egypt",0.270072,0,"0%","Belgium"
-"2020","Egypt",1.847505,0,"0%","Belgium"
-"2021","Egypt",1.006831,0,"0%","Belgium"
-"2022","Egypt",4.133494,0,"0%","Belgium"
-"2018","Bolivia",11.566009,0,"1%","Belgium"
-"2019","Bolivia",8.870361,0,"1%","Belgium"
-"2020","Bolivia",8.16129,0,"1%","Belgium"
-"2021","Bolivia",6.862474,0,"1%","Belgium"
-"2022","Bolivia",4.075639,0,"0%","Belgium"
-"2018","Afghanistan",0.064569,0,"0%","Belgium"
-"2019","Afghanistan",2.486439,0,"0%","Belgium"
-"2020","Afghanistan",0,0,NA,"Belgium"
-"2021","Afghanistan",2.633608,0,"0%","Belgium"
-"2022","Afghanistan",3.769227,0,"0%","Belgium"
-"2018","Cambodia",4.496699,0,"0%","Belgium"
-"2019","Cambodia",4.483845,0,"0%","Belgium"
-"2020","Cambodia",4.732173,0,"0%","Belgium"
-"2021","Cambodia",4.138453,0,"0%","Belgium"
-"2022","Cambodia",3.572337,0,"0%","Belgium"
-"2018","Haiti",10.677151,0,"1%","Belgium"
-"2019","Haiti",7.74325,0,"1%","Belgium"
-"2020","Haiti",6.75979,0,"1%","Belgium"
-"2021","Haiti",5.680409,0,"0%","Belgium"
-"2022","Haiti",3.518069,0,"0%","Belgium"
-"2018","Philippines",5.225911,0,"0%","Belgium"
-"2019","Philippines",5.061265,0,"0%","Belgium"
-"2020","Philippines",4.672234,0,"0%","Belgium"
-"2021","Philippines",5.488824,0,"0%","Belgium"
-"2022","Philippines",3.347549,0,"0%","Belgium"
-"2018","Mexico",0.084687,0,"0%","Belgium"
-"2019","Mexico",0.059395,0,"0%","Belgium"
-"2020","Mexico",0.076939,0,"0%","Belgium"
-"2021","Mexico",0.059355,0,"0%","Belgium"
-"2022","Mexico",2.414945,0,"0%","Belgium"
-"2018","Honduras",1.782907,0,"0%","Belgium"
-"2019","Honduras",1.332991,0,"0%","Belgium"
-"2020","Honduras",1.140433,0,"0%","Belgium"
-"2021","Honduras",1.11255,0,"0%","Belgium"
-"2022","Honduras",2.348738,0,"0%","Belgium"
-"2018","Cameroon",2.838745,0,"0%","Belgium"
-"2019","Cameroon",3.08926,0,"0%","Belgium"
-"2020","Cameroon",2.238766,0,"0%","Belgium"
-"2021","Cameroon",2.637384,0,"0%","Belgium"
-"2022","Cameroon",2.310886,0,"0%","Belgium"
-"2018","Guatemala",3.253809,0,"0%","Belgium"
-"2019","Guatemala",3.07288,0,"0%","Belgium"
-"2020","Guatemala",2.434711,0,"0%","Belgium"
-"2021","Guatemala",2.374824,0,"0%","Belgium"
-"2022","Guatemala",2.179047,0,"0%","Belgium"
+donor,year,Recipient country,share,ODA Grants,ODA Loans
+Belgium,2023,"Bilateral, unspecified",50.8%,712.6395928635005,0.0
+Belgium,2023,Democratic Republic of the Congo,8.1%,113.22315523920004,0.0
+Belgium,2023,Ukraine,5.5%,76.65240022239998,0.0
+Belgium,2023,Rwanda,2.7%,38.32293721800001,0.0
+Belgium,2023,Burkina Faso,2.3%,31.9180435769,0.3707809856
+Belgium,2023,Syrian Arab Republic,2.2%,31.426673456799996,0.0
+Belgium,2023,"Africa, regional",2.2%,31.050917948899997,0.0
+Belgium,2023,Benin,2.1%,29.680469662799997,0.0
+Belgium,2023,West Bank and Gaza Strip,2.1%,29.309163749099998,0.0
+Belgium,2023,Niger,2.0%,27.687157302100008,0.0845059404
+Belgium,2023,Burundi,2.0%,27.5444025173,0.0
+Belgium,2023,Senegal,1.7%,24.0606353955,0.0
+Belgium,2023,Uganda,1.7%,23.3612686631,0.0
+Belgium,2023,Guinea,1.4%,19.828953710300002,0.1621899537
+Belgium,2023,Mali,1.4%,19.3485375888,0.0
+Belgium,2023,Mozambique,1.3%,17.598181410400002,0.0
+Belgium,2023,Tanzania,0.7%,9.632844376700005,0.0
+Belgium,2023,Lebanon,0.7%,9.196143754199998,0.0
+Belgium,2023,Morocco,0.6%,8.838017705300002,0.0
+Belgium,2023,Kenya,0.7%,4.685795808499999,4.8868860348
+Belgium,2022,"Bilateral, unspecified",50.2%,704.1275661992998,0.0
+Belgium,2022,Democratic Republic of the Congo,7.9%,111.02702605569993,0.0
+Belgium,2022,Ukraine,4.8%,67.4121635769,0.0
+Belgium,2022,Rwanda,3.2%,44.932198945999986,0.0
+Belgium,2022,Burkina Faso,2.7%,37.464000895999995,0.9228214616
+Belgium,2022,Benin,2.1%,29.62850712639999,0.0
+Belgium,2022,Burundi,2.0%,28.42394146539999,0.0
+Belgium,2022,Uganda,1.6%,22.909647681000006,0.0
+Belgium,2022,Niger,1.9%,22.353575628899996,4.7946505014000005
+Belgium,2022,Mozambique,1.5%,21.516770746,0.0
+Belgium,2022,Senegal,1.5%,20.461022735899995,0.0
+Belgium,2022,Mali,1.4%,19.3867247717,0.0
+Belgium,2022,West Bank and Gaza Strip,1.4%,19.3540862178,0.0
+Belgium,2022,Syrian Arab Republic,1.3%,18.8320810372,0.0
+Belgium,2022,"Africa, regional",1.3%,18.013725613000002,0.0
+Belgium,2022,Guinea,1.3%,17.016340841,1.1805141182999999
+Belgium,2022,Türkiye,0.9%,12.451159825399998,0.0
+Belgium,2022,Sudan,0.8%,11.2430329923,0.0
+Belgium,2022,"South of Sahara, regional",0.8%,10.892425923699998,0.0
+Belgium,2022,Kenya,1.2%,10.190202556100001,6.1050239203
+Belgium,2021,"Bilateral, unspecified",48.4%,667.8744739345998,0.0
+Belgium,2021,Democratic Republic of the Congo,8.2%,113.76892009819997,0.0
+Belgium,2021,Rwanda,3.8%,52.68247903099999,0.0
+Belgium,2021,Uganda,3.6%,50.01966417729999,0.0
+Belgium,2021,Burkina Faso,2.9%,39.54088480370001,0.11737755809999999
+Belgium,2021,Burundi,2.7%,36.63967561739999,0.0
+Belgium,2021,Niger,2.5%,31.1048305237,3.6934015953
+Belgium,2021,Benin,2.0%,27.472635972499994,0.0
+Belgium,2021,West Bank and Gaza Strip,1.7%,23.89413483059999,0.0
+Belgium,2021,Syrian Arab Republic,1.7%,23.074081675600006,0.0
+Belgium,2021,Mali,1.6%,21.777781889099998,0.0
+Belgium,2021,Morocco,1.2%,17.062050211499997,0.0
+Belgium,2021,Senegal,1.2%,17.004974169799997,0.0
+Belgium,2021,Mozambique,1.2%,16.464806049299998,0.0
+Belgium,2021,Tanzania,1.1%,14.9241452831,0.0
+Belgium,2021,Türkiye,1.0%,13.183947692899999,0.0
+Belgium,2021,Guinea,0.9%,12.571770341899999,0.0
+Belgium,2021,South Africa,0.8%,11.7013882353,0.0
+Belgium,2021,"Africa, regional",0.8%,11.495529823,0.0
+Belgium,2021,Kenya,1.0%,9.8080035825,3.3043913856000002
+Belgium,2020,"Bilateral, unspecified",46.5%,589.3867732624,0.0
+Belgium,2020,Democratic Republic of the Congo,8.9%,112.59276149329993,0.0
+Belgium,2020,Rwanda,5.0%,63.951388519700004,0.0
+Belgium,2020,Burkina Faso,3.5%,43.62355426180001,0.6585132141
+Belgium,2020,Burundi,2.4%,30.2046322872,0.0
+Belgium,2020,Niger,2.1%,26.7032218081,0.0
+Belgium,2020,Uganda,2.0%,25.3291193382,0.0
+Belgium,2020,West Bank and Gaza Strip,1.8%,22.4223551083,0.0
+Belgium,2020,Benin,1.7%,21.660135986900002,0.0
+Belgium,2020,Mali,1.5%,18.458134446499997,0.0
+Belgium,2020,Yemen,1.3%,16.518067542199997,0.0
+Belgium,2020,"Africa, regional",1.3%,16.416875089,0.0
+Belgium,2020,South Africa,1.2%,15.576974092500008,0.0
+Belgium,2020,Senegal,1.1%,13.915768024899998,0.1980026655
+Belgium,2020,Lebanon,1.1%,13.7438824033,0.0
+Belgium,2020,Syrian Arab Republic,1.1%,13.7368006849,0.0
+Belgium,2020,Mozambique,1.1%,13.4344773796,0.0
+Belgium,2020,Tanzania,1.1%,13.3721702316,0.0
+Belgium,2020,Morocco,1.0%,12.753287485400001,0.0
+Belgium,2020,Iraq,0.9%,11.932998059299997,0.0
+Belgium,2019,"Bilateral, unspecified",47.6%,609.9953061398999,0.0
+Belgium,2019,Democratic Republic of the Congo,8.8%,112.49581336710006,0.0
+Belgium,2019,Rwanda,3.6%,46.6384034326,0.0
+Belgium,2019,Uganda,3.0%,37.954772320099984,0.0
+Belgium,2019,Burundi,2.5%,31.7851180975,0.0
+Belgium,2019,Benin,2.0%,25.433535127899994,0.0
+Belgium,2019,West Bank and Gaza Strip,1.9%,24.90460966299999,0.0
+Belgium,2019,Niger,1.7%,20.598908839299998,1.5398311446
+Belgium,2019,Mali,1.5%,19.394611522400005,0.0
+Belgium,2019,Burkina Faso,1.6%,18.642254848500002,1.5800314428
+Belgium,2019,Syrian Arab Republic,1.4%,18.397305863800003,0.0
+Belgium,2019,Morocco,1.4%,17.4614456586,0.0
+Belgium,2019,Viet Nam,1.4%,17.4403790431,0.0
+Belgium,2019,Iraq,1.2%,15.810690043499998,0.0
+Belgium,2019,Tanzania,1.0%,13.439243427399996,0.0
+Belgium,2019,South Africa,0.9%,11.669339824599998,0.0
+Belgium,2019,Mozambique,0.9%,11.491591258599998,0.0
+Belgium,2019,Senegal,0.9%,10.460178102699997,0.8046848424999999
+Belgium,2019,Guinea,0.8%,7.896995885299999,2.4072122875
+Belgium,2019,Kenya,1.1%,7.4428144086999986,7.191320393799999

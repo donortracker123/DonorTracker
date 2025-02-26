@@ -1,111 +1,121 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-"2018","Refugees in donor countries",4156.57336,"17.26%","Germany"
-"2019","Refugees in donor countries",3364.597256,"14.26%","Germany"
-"2020","Refugees in donor countries",2813.518635,"10.17%","Germany"
-"2021","Refugees in donor countries",2732.060084,"9.88%","Germany"
-"2022","Refugees in donor countries",5116.348363,"14.64%","Germany"
-"2018","Other multisector",1389.726208,"5.77%","Germany"
-"2019","Other multisector",1095.100631,"4.64%","Germany"
-"2020","Other multisector",1628.841779,"5.89%","Germany"
-"2021","Other multisector",1420.169094,"5.13%","Germany"
-"2022","Other multisector",3800.457925,"10.87%","Germany"
-"2018","Humanitarian aid",2841.134393,"11.80%","Germany"
-"2019","Humanitarian aid",2400.580602,"10.18%","Germany"
-"2020","Humanitarian aid",2097.662459,"7.58%","Germany"
-"2021","Humanitarian aid",2884.524997,"10.43%","Germany"
-"2022","Humanitarian aid",3637.548409,"10.41%","Germany"
-"2018","Health & populations",888.154795,"3.69%","Germany"
-"2019","Health & populations",921.914109,"3.91%","Germany"
-"2020","Health & populations",2287.248243,"8.26%","Germany"
-"2021","Health & populations",2649.589487,"9.58%","Germany"
-"2022","Health & populations",3448.377416,"9.87%","Germany"
-"2018","Education",2682.274517,"11.14%","Germany"
-"2019","Education",3075.534292,"13.04%","Germany"
-"2020","Education",3374.568827,"12.19%","Germany"
-"2021","Education",3392.392428,"12.26%","Germany"
-"2022","Education",3420.564318,"9.79%","Germany"
-"2018","Energy",1990.107231,"8.27%","Germany"
-"2019","Energy",1985.790634,"8.42%","Germany"
-"2020","Energy",1922.757153,"6.95%","Germany"
-"2021","Energy",1626.243568,"5.88%","Germany"
-"2022","Energy",2224.545667,"6.36%","Germany"
-"2018","Financial services & business support",1473.676957,"6.12%","Germany"
-"2019","Financial services & business support",1532.608855,"6.50%","Germany"
-"2020","Financial services & business support",2037.091945,"7.36%","Germany"
-"2021","Financial services & business support",2122.460783,"7.67%","Germany"
-"2022","Financial services & business support",2125.697418,"6.08%","Germany"
-"2018","Agriculture (incl. forestry, fishing, rural development)",958.997482,"3.98%","Germany"
-"2019","Agriculture (incl. forestry, fishing, rural development)",1033.490117,"4.38%","Germany"
-"2020","Agriculture (incl. forestry, fishing, rural development)",1466.875895,"5.30%","Germany"
-"2021","Agriculture (incl. forestry, fishing, rural development)",1399.468233,"5.06%","Germany"
-"2022","Agriculture (incl. forestry, fishing, rural development)",1962.317113,"5.61%","Germany"
-"2018","Government & civil society",1808.871277,"7.51%","Germany"
-"2019","Government & civil society",1604.742599,"6.80%","Germany"
-"2020","Government & civil society",2697.839137,"9.75%","Germany"
-"2021","Government & civil society",2188.130284,"7.91%","Germany"
-"2022","Government & civil society",1895.193812,"5.42%","Germany"
-"2018","Other social services",334.271903,"1.39%","Germany"
-"2019","Other social services",594.249772,"2.52%","Germany"
-"2020","Other social services",1496.050732,"5.41%","Germany"
-"2021","Other social services",1386.476924,"5.01%","Germany"
-"2022","Other social services",1679.327518,"4.80%","Germany"
-"2018","Donor administration costs",906.881768,"3.77%","Germany"
-"2019","Donor administration costs",1117.458395,"4.74%","Germany"
-"2020","Donor administration costs",1133.776375,"4.10%","Germany"
-"2021","Donor administration costs",1118.173315,"4.04%","Germany"
-"2022","Donor administration costs",1147.127957,"3.28%","Germany"
-"2018","Conflict, peace & security",987.119025,"4.10%","Germany"
-"2019","Conflict, peace & security",816.45671,"3.46%","Germany"
-"2020","Conflict, peace & security",982.469661,"3.55%","Germany"
-"2021","Conflict, peace & security",1043.723593,"3.77%","Germany"
-"2022","Conflict, peace & security",1068.057653,"3.06%","Germany"
-"2018","Environmental protection",1016.400169,"4.22%","Germany"
-"2019","Environmental protection",1043.412987,"4.42%","Germany"
-"2020","Environmental protection",1193.678496,"4.31%","Germany"
-"2021","Environmental protection",1303.105873,"4.71%","Germany"
-"2022","Environmental protection",979.97613,"2.80%","Germany"
-"2018","Water and sanitation",1061.350542,"4.41%","Germany"
-"2019","Water and sanitation",946.681899,"4.01%","Germany"
-"2020","Water and sanitation",1005.342196,"3.63%","Germany"
-"2021","Water and sanitation",861.184597,"3.11%","Germany"
-"2022","Water and sanitation",862.898111,"2.47%","Germany"
-"2018","Industry, construction & mining",80.056974,"0.33%","Germany"
-"2019","Industry, construction & mining",437.356953,"1.85%","Germany"
-"2020","Industry, construction & mining",403.30795,"1.46%","Germany"
-"2021","Industry, construction & mining",577.81108,"2.09%","Germany"
-"2022","Industry, construction & mining",492.766102,"1.41%","Germany"
-"2018","Food aid and commodity assistance",300.809916,"1.25%","Germany"
-"2019","Food aid and commodity assistance",331.532664,"1.41%","Germany"
-"2020","Food aid and commodity assistance",399.083977,"1.44%","Germany"
-"2021","Food aid and commodity assistance",411.146351,"1.49%","Germany"
-"2022","Food aid and commodity assistance",466.654632,"1.34%","Germany"
-"2018","Infrastructure",358.4368,"1.49%","Germany"
-"2019","Infrastructure",587.493673,"2.49%","Germany"
-"2020","Infrastructure",467.12562,"1.69%","Germany"
-"2021","Infrastructure",276.234401,"1.00%","Germany"
-"2022","Infrastructure",369.103478,"1.06%","Germany"
-"2018","Unspecified",182.660663,"0.76%","Germany"
-"2019","Unspecified",197.362936,"0.84%","Germany"
-"2020","Unspecified",177.707102,"0.64%","Germany"
-"2021","Unspecified",173.579749,"0.63%","Germany"
-"2022","Unspecified",156.786141,"0.45%","Germany"
-"2018","Trade policy",342.677643,"1.42%","Germany"
-"2019","Trade policy",72.172919,"0.31%","Germany"
-"2020","Trade policy",68.059468,"0.25%","Germany"
-"2021","Trade policy",77.508279,"0.28%","Germany"
-"2022","Trade policy",80.93954,"0.23%","Germany"
-"2018","Debt relief",27.279813,"0.11%","Germany"
-"2019","Debt relief",43.725502,"0.19%","Germany"
-"2020","Debt relief",20.361676,"0.07%","Germany"
-"2021","Debt relief",14.147029,"0.05%","Germany"
-"2022","Debt relief",9.469722,"0.03%","Germany"
-"2018","Tourism",2.089059,"0.01%","Germany"
-"2019","Tourism",1.841452,"0.01%","Germany"
-"2020","Tourism",2.41469,"0.01%","Germany"
-"2021","Tourism",4.477604,"0.02%","Germany"
-"2022","Tourism",6.519008,"0.02%","Germany"
-"2018","General budget support",286.332037,"1.19%","Germany"
-"2019","General budget support",385.868526,"1.64%","Germany"
-"2020","General budget support",0,"0.00%","Germany"
-"2021","General budget support",0.010062,"0.00%","Germany"
-"2022","General budget support",0,"0.00%","Germany"
+donor,Year,Sector,Bilateral ODA for,share
+Germany,2023,Refugees in donor countries,728636.20094101,24.703313531110393
+Germany,2023,Education,326801.62773988966,11.07971723352421
+Germany,2023,Emergency Response,253954.77712244022,8.609954424274896
+Germany,2023,Energy,242083.8640471298,8.207488986486839
+Germany,2023,Other multisector,197156.48370226027,6.684293787898823
+Germany,2023,Government & civil society,166558.27645205008,5.646907632481831
+Germany,2023,Financial services & business support,139154.6555914901,4.717829119594579
+Germany,2023,Donor administration costs,123647.49311600003,4.192082119767823
+Germany,2023,Other social services,116387.29540717996,3.945936045681461
+Germany,2023,"Conflict, peace & security",104687.33639465003,3.549266548044097
+Germany,2023,"Agriculture (incl. forestry, fishing, rural development)",103441.69505481991,3.5070349535592285
+Germany,2023,Environmental protection,103410.96681141008,3.5059931587235713
+Germany,2023,Health & populations,102688.49712326014,3.4814989115258035
+Germany,2023,Water and sanitation,95854.51244026003,3.2498029484746547
+Germany,2023,Infrastructure,44457.76622078997,1.5072736386507064
+Germany,2023,"Industry, construction & mining",30728.40529811004,1.0418003242357456
+Germany,2023,Food aid and commodity assistance,26010.66298028,0.8818523728632632
+Germany,2023,Unspecified,17216.821813949944,0.5837104260397561
+Germany,2023,Debt relief,8325.22679151,0.2822542818798567
+Germany,2023,Trade policy,7650.229561879998,0.2593695169249367
+Germany,2023,Disaster Prevention & Preparedness,5849.625833760001,0.19832275808480648
+Germany,2023,Reconstruction Relief & Rehabilitation,4055.2249015900006,0.13748629570390283
+Germany,2023,Tourism,790.80297638,0.026810984468821374
+Germany,2023,General budget support,0.0,0.0
+Germany,2022,Refugees in donor countries,525657.62429848,14.638815865191377
+Germany,2022,Other multisector,413924.7315296295,11.527214001694722
+Germany,2022,Health & populations,354288.29687295016,9.866424268147675
+Germany,2022,Education,351431.44963476976,9.786865143079307
+Germany,2022,Emergency Response,350241.71347341046,9.753732686154438
+Germany,2022,Energy,228550.49682893,6.3648056916167635
+Germany,2022,Financial services & business support,218395.8128417003,6.082012211247012
+Germany,2022,Government & civil society,194712.8248754703,5.422474740563764
+Germany,2022,"Agriculture (incl. forestry, fishing, rural development)",178144.7097058098,4.961076339797439
+Germany,2022,Other social services,172535.42048975013,4.80486562740059
+Germany,2022,Donor administration costs,117856.8221004,3.2821445698364276
+Germany,2022,"Conflict, peace & security",109729.95109315992,3.0558227916753684
+Germany,2022,Environmental protection,100683.51102263987,2.8038923253293966
+Germany,2022,Water and sanitation,88654.82481227993,2.4689105531756637
+Germany,2022,"Industry, construction & mining",50623.68884711,1.4097976043600373
+Germany,2022,Food aid and commodity assistance,47944.46106757998,1.3351849281379662
+Germany,2022,Infrastructure,37921.979436409994,1.0560730950189035
+Germany,2022,Unspecified,16108.330419399997,0.44859405058559787
+Germany,2022,Disaster Prevention & Preparedness,15705.847829409997,0.4373854839227021
+Germany,2022,Trade policy,8315.791589549997,0.23158294719911957
+Germany,2022,Reconstruction Relief & Rehabilitation,7777.000194729997,0.2165783745382633
+Germany,2022,Debt relief,972.92655358,0.027094618264541084
+Germany,2022,Tourism,669.76794854,0.01865208306294205
+Germany,2022,General budget support,0.0,0.0
+Germany,2021,Education,347159.5658638903,12.263454047542243
+Germany,2021,Refugees in donor countries,279584.63292056,9.87636129135074
+Germany,2021,Emergency Response,275681.8147981902,9.7384937646977
+Germany,2021,Health & populations,271145.0260033201,9.578231146639505
+Germany,2021,Government & civil society,223921.72410630033,7.910062241812696
+Germany,2021,Financial services & business support,217201.4521021698,7.672667812814156
+Germany,2021,Other multisector,169432.22447455986,5.985214014904239
+Germany,2021,Energy,166421.1991979205,5.878849179402248
+Germany,2021,Other social services,141884.74301851002,5.012095869301302
+Germany,2021,Environmental protection,133352.98973884995,4.710710643087773
+Germany,2021,"Agriculture (incl. forestry, fishing, rural development)",119114.60472054998,4.207737954005672
+Germany,2021,Donor administration costs,114427.96492357,4.042181831003201
+Germany,2021,"Conflict, peace & security",106809.17444802998,3.7730471273053934
+Germany,2021,Water and sanitation,88129.09366694988,3.113170993133223
+Germany,2021,"Industry, construction & mining",59130.140906239874,2.088779446488517
+Germany,2021,Food aid and commodity assistance,42074.55134229001,1.4862886628894698
+Germany,2021,Infrastructure,28268.372598489994,0.9985837132205116
+Germany,2021,Unspecified,17763.236160239998,0.6274884860068963
+Germany,2021,Reconstruction Relief & Rehabilitation,14199.324838760009,0.501592883471142
+Germany,2021,Trade policy,7931.7892760899995,0.28019142454007684
+Germany,2021,Disaster Prevention & Preparedness,5305.948828489997,0.18743329014966326
+Germany,2021,Debt relief,1447.73246542,0.05114132608915071
+Germany,2021,Tourism,458.21429348999993,0.016186475859186852
+Germany,2021,General budget support,1.0297002,3.637428527720866e-05
+Germany,2020,Education,345183.4357450002,12.19321938486426
+Germany,2020,Refugees in donor countries,287793.81413918,10.165995091369908
+Germany,2020,Government & civil society,275961.0020481602,9.748014218521002
+Germany,2020,Health & populations,233961.80355437013,8.264439434238614
+Germany,2020,Financial services & business support,208373.4041203,7.360557800017777
+Germany,2020,Energy,196678.14226778003,6.94743573573496
+Germany,2020,Other multisector,189721.52728679968,6.701701080316011
+Germany,2020,Emergency Response,186866.03068298014,6.600833851655515
+Germany,2020,Other social services,153030.49300727004,5.405631269021885
+Germany,2020,"Agriculture (incl. forestry, fishing, rural development)",126938.32094860007,4.483954429424009
+Germany,2020,Environmental protection,122100.94692470993,4.313079594156685
+Germany,2020,Donor administration costs,115973.57979365998,4.09663719297585
+Germany,2020,Water and sanitation,102836.09459040998,3.632570199428186
+Germany,2020,"Conflict, peace & security",100496.4693699199,3.5499255512855927
+Germany,2020,Infrastructure,47782.113090410014,1.6878497843510807
+Germany,2020,"Industry, construction & mining",41254.22537456003,1.4572594407926496
+Germany,2020,Food aid and commodity assistance,40822.15693997,1.4419971058522123
+Germany,2020,Reconstruction Relief & Rehabilitation,22715.94076031,0.8024152393820421
+Germany,2020,Unspecified,18177.596593449987,0.6421032998733842
+Germany,2020,Trade policy,6961.7795505500035,0.24591708807147605
+Germany,2020,Disaster Prevention & Preparedness,4987.16752894,0.17616612355165018
+Germany,2020,Debt relief,2082.78847691,0.07357217699748435
+Germany,2020,Tourism,246.99742254999995,0.008724908117760952
+Germany,2020,General budget support,0.0,0.0
+Germany,2019,Refugees in donor countries,344398.0248123,14.262827579963703
+Germany,2019,Education,314809.72674934956,13.037464008594686
+Germany,2019,Energy,203264.25952994003,8.417943420043065
+Germany,2019,Emergency Response,195489.71465643003,8.095970048958844
+Germany,2019,Government & civil society,164260.42831114988,6.802646932977552
+Germany,2019,Financial services & business support,156876.86421080996,6.496865557645468
+Germany,2019,Other multisector,132995.5605770801,5.507850256822277
+Germany,2019,Donor administration costs,114382.32723339999,4.7370057142868545
+Germany,2019,Environmental protection,106803.08795791988,4.423120688284228
+Germany,2019,Water and sanitation,96901.75503698997,4.013068962987579
+Germany,2019,Health & populations,94366.53979384995,3.908076090538009
+Germany,2019,"Agriculture (incl. forestry, fishing, rural development)",84885.62734321988,3.5154355704369813
+Germany,2019,"Conflict, peace & security",83571.98971789003,3.461032857288891
+Germany,2019,Other social services,60827.02649671998,2.519077720023022
+Germany,2019,Infrastructure,60135.47710965,2.490438038723501
+Germany,2019,"Industry, construction & mining",44767.578853460036,1.8539951229607796
+Germany,2019,Reconstruction Relief & Rehabilitation,43628.72015711998,1.8068306677270618
+Germany,2019,General budget support,39497.25568431,1.635731064410377
+Germany,2019,Food aid and commodity assistance,33935.47182908,1.4053965141254119
+Germany,2019,Unspecified,20201.943353340004,0.8366390457260009
+Germany,2019,Trade policy,7387.574137689998,0.30594744617800235
+Germany,2019,Disaster Prevention & Preparedness,6603.46027745,0.27347431919721304
+Germany,2019,Debt relief,4475.714565120001,0.18535630445102053
+Germany,2019,Tourism,188.48957298000002,0.0078060676494876085

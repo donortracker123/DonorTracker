@@ -1,6 +1,6 @@
-"Year","Gender funding as a % of bilateral allocable ODA","Funding for projects with gender equality as a principal objective","Funding for projects with gender equality as a Significant objective","Principal","Significant","Not targeted","Not screened"
-2018,"56%",34,533,"3%","52%","35%","9%"
-2019,"65%",34,583,"4%","62%","25%","9%"
-2020,"67%",52,597,"5%","61%","22%","11%"
-2021,"60%",67,519,"7%","53%","27%","13%"
-2022,"56%",66,467,"7%","49%","22%","23%"
+donor,Year,Gender funding as % of bilateral allocable ODA,Funding for projects with gender equality as a principal objective,Funding for projects with gender equality as a significant objective,Principal,Significant,Not targeted or screened
+Belgium,2019,67.5521176769349,30.34273501075671,518.3934458890654,3.7353396357527364,63.81677804118215,32.447882323065116
+Belgium,2020,93.40004016689119,46.37474698344402,527.3223084837718,7.549983374859082,85.8500567920321,6.599959833108812
+Belgium,2021,70.2607679206022,59.41488728837341,459.42245627163015,8.04594283471108,62.21482508589113,29.739232079397794
+Belgium,2022,106.67769690082768,58.492817322981956,416.2559479936394,13.143539263540848,93.53415763728684,-6.677696900827684
+Belgium,2023,90.86230120516163,46.38632588158265,466.69743990272207,8.214581312293934,82.6477198928677,9.137698794838371

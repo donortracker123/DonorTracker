@@ -1,36 +1,26 @@
-Year,Income Group,ODA,Share,Donor
-2018,Low income countries,130.450292,32.90%,Luxembourg
-2019,Low income countries,133.279407,30.97%,Luxembourg
-2020,Low income countries,124.353823,35.87%,Luxembourg
-2021,Low income countries,132.041591,36.15%,Luxembourg
-2022,Low income countries,134.871184,33.96%,Luxembourg
-2018,Lower-middle income countries,122.61289,30.92%,Luxembourg
-2019,Lower-middle income countries,120.486774,28%,Luxembourg
-2020,Lower-middle income countries,92.603695,26.71%,Luxembourg
-2021,Lower-middle income countries,100.447295,27.50%,Luxembourg
-2022,Lower-middle income countries,115.942308,29.20%,Luxembourg
-2018,Countries unspecified,87.799484,22.14%,Luxembourg
-2019,Countries unspecified,121.139439,28.15%,Luxembourg
-2020,Countries unspecified,88.473514,25.52%,Luxembourg
-2021,Countries unspecified,88.006984,24.10%,Luxembourg
-2022,Countries unspecified,93.708653,23.60%,Luxembourg
-2018,Unallocated by income,18.970995,4.78%,Luxembourg
-2019,Unallocated by income,25.586691,5.95%,Luxembourg
-2020,Unallocated by income,21.900459,6.32%,Luxembourg
-2021,Unallocated by income,22.517796,6.17%,Luxembourg
-2022,Unallocated by income,29.842301,7.51%,Luxembourg
-2018,Upper-middle income countries,36.703537,9.26%,Luxembourg
-2019,Upper-middle income countries,29.590714,6.88%,Luxembourg
-2020,Upper-middle income countries,19.213953,5.54%,Luxembourg
-2021,Upper-middle income countries,22.206343,6.08%,Luxembourg
-2022,Upper-middle income countries,22.453564,5.65%,Luxembourg
-2018,Countries not classified,0,0%,Luxembourg
-2019,Countries not classified,0.255668,0.06%,Luxembourg
-2020,Countries not classified,0.125495,0.04%,Luxembourg
-2021,Countries not classified,0,0%,Luxembourg
-2022,Countries not classified,0.30033,0.08%,Luxembourg
-2018,High income countries,0,0%,Luxembourg
-2019,High income countries,0,0%,Luxembourg
-2020,High income countries,0,0%,Luxembourg
-2021,High income countries,0,0%,Luxembourg
-2022,High income countries,0,0%,Luxembourg
+donor,year,incomegroup_name,total_oda,share
+Luxembourg,2023,LDCs,171.246956,44.826977226155776
+Luxembourg,2023,Part I unallocated by income,130.106159,34.05763210457067
+Luxembourg,2023,LMICs,57.218907999999985,14.978080461888627
+Luxembourg,2023,UMICs,18.73186800000001,4.903404065409235
+Luxembourg,2023,Other LICs,4.7137389999999995,1.2339061419756987
+Luxembourg,2022,LDCs,196.72976100000022,52.55189962512472
+Luxembourg,2022,Part I unallocated by income,116.46831900000006,31.111873356034845
+Luxembourg,2022,LMICs,38.95934799999998,10.407107369770555
+Luxembourg,2022,UMICs,17.763231,4.745044815715009
+Luxembourg,2022,Other LICs,4.4326229999999995,1.1840748333548727
+Luxembourg,2021,LDCs,182.24320600000033,52.84155324943688
+Luxembourg,2021,Part I unallocated by income,104.37123599999994,30.262517576669115
+Luxembourg,2021,LMICs,34.737223,10.072083668743515
+Luxembourg,2021,UMICs,17.797142000000004,5.160294571863425
+Luxembourg,2021,Other LICs,5.737356999999999,1.663550933287076
+Luxembourg,2020,LDCs,167.00528999999975,51.78345612347052
+Luxembourg,2020,Part I unallocated by income,102.68060200000004,31.83825164100221
+Luxembourg,2020,LMICs,36.807049000000006,11.412789420777827
+Luxembourg,2020,UMICs,13.074478000000006,4.054013246228799
+Luxembourg,2020,Other LICs,2.9396180000000003,0.9114895685206404
+Luxembourg,2019,LDCs,191.70534800000013,47.87658090422094
+Luxembourg,2019,Part I unallocated by income,136.52373600000007,34.095499995912995
+Luxembourg,2019,LMICs,47.377982000000024,11.832198798657004
+Luxembourg,2019,UMICs,22.208845000000004,5.54644706329112
+Luxembourg,2019,Other LICs,2.599792,0.6492732379179441
