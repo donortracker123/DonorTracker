@@ -20,7 +20,7 @@ deflated AS (
         b.usd_disbursement_defl,
         dfl.deflator
     FROM base b
-    INNER JOIN "{{deflator_file}}" dfl ON dfl.year = b.year AND dfl.donor = b.donor_name
+    INNER JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor_name AND dfl.year = {{latest_year}}
 )
 
 SELECT

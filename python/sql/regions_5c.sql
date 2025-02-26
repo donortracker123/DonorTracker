@@ -21,5 +21,5 @@ SELECT
     round(b.share,1) || '%' AS share,
     b.bilateral_oda * dfl.deflator AS "Bilateral ODA"
 FROM base b
-LEFT JOIN "{{deflator_file}}" dfl ON dfl.year = b.year AND dfl.donor = b.donor_name
+LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor_name AND dfl.year = {{latest_year}}
 ORDER BY 1, 2 DESC, 5 DESC

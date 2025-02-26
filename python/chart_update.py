@@ -12,15 +12,45 @@ SAVE_PATH = Path(__file__).parent.parent
 
 @click.command()
 @click.argument("query-name")
-@click.option("--dac1-file", "-dac1", type=click.Path(exists=True), required=False, help="Path to the DAC1 file (Downloaded manually). If not set, defaults to the 'data' directory.")
-@click.option("--crs-file", "-crs", type=click.Path(exists=True), required=False, help="Path to the CRS file (Downloaded manually). If not set, defaults to the 'data' directory.")
-@click.option("--imputed-multilateral-file", "-im", type=click.Path(exists=True), required=False, help="Path to the Imputed Multilateral data from the ONE Campaign (Retrieved manually). If not set, defaults to the 'data' directory.")
-@click.option("--latest-year", "-ly", type=int, required=True, help="Latest year to use in the analysis")
-@click.option("--group-by-country", "-country", is_flag=True, help="Group by country? (Each country gets a separate chart output)")
-@click.option("--sector", "-s", help="Sector for which to perform the analysis")
-@click.option("--output", "-o", default="output.csv", help="Name to use for the output CSV file(s).")
-@click.option("--dry-run", "-dr", is_flag=True, help="Only show the results of the query for testing purposes.")
-def main(query_name, dac1_file, crs_file, imputed_multilateral_file, latest_year, group_by_country, sector, output, dry_run):
+@click.option("--dac1-file", "-dac1", 
+              type=click.Path(exists=True), 
+              required=False, 
+              help="""Path to the DAC1 file (Downloaded from the OECD). This can be a path to a SharePoint file.
+              If not set, defaults to the 'data' directory.""")
+@click.option("--crs-file", "-crs", 
+              type=click.Path(exists=True), 
+              required=False, 
+              help="""Path to the CRS file (Downloaded from the OECD). This can be a path to a SharePoint file.
+              If not set, defaults to the 'data' directory.""")
+@click.option("--imputed-multilateral-file", "-im", 
+              type=click.Path(exists=True), 
+              required=False, 
+              help="""Path to the Imputed Multilateral data from the ONE Campaign (Retrieved manually). This can be a path to a SharePoint file.
+              If not set, defaults to the 'data' directory.""")
+@click.option("--riomarkers-file", "-rf",
+              type=click.Path(exists=True),
+              required=False,
+              help="""Path to the Allocable ODA file. This can be a path to a SharePoint file.
+              If not set, defaults to the 'data' directory.""")
+@click.option("--latest-year", "-ly", 
+              type=int, 
+              required=True, 
+              help="Latest year to use in the analysis")
+@click.option("--group-by-country", "-country", 
+              is_flag=True, 
+              help="Group by country? (Each country gets a separate chart output)")
+@click.option("--sector", "-s", 
+              help="Sector for which to perform the analysis")
+@click.option("--folder", "-f", 
+              default="DT_update", 
+              help="Folder to use inside the project. Defaults to 'DT_update'")
+@click.option("--output-file", "-o", 
+              default="output.csv", 
+              help="Name to use for the output CSV file(s).")
+@click.option("--dry-run", "-dr", 
+              is_flag=True, 
+              help="Only show the results of the query for testing purposes.")
+def main(query_name, dac1_file, crs_file, imputed_multilateral_file, riomarkers_file, latest_year, group_by_country, sector, folder, output_file, dry_run):
     """Run a query using the provided files and save the result."""
     # Validate query
     sql_file = SQL_DIR / f"{query_name}.sql"
@@ -45,6 +75,7 @@ def main(query_name, dac1_file, crs_file, imputed_multilateral_file, latest_year
         query = template.render(dac1_file=dac1_file, 
                                 crs_file=crs_file, 
                                 imputed_multilateral_file=imputed_multilateral_file,
+                                riomarkers_file=riomarkers_file,
                                 latest_year=latest_year,
                                 dac_countries=DAC_COUNTRIES,
                                 projection_file=projection_file,
@@ -62,7 +93,7 @@ def main(query_name, dac1_file, crs_file, imputed_multilateral_file, latest_year
 
     if dry_run:
         click.echo(f"First few rows...")
-        click.echo(result.head(10))
+        click.echo(result.head(50))
         return
 
     # Save output
@@ -70,21 +101,20 @@ def main(query_name, dac1_file, crs_file, imputed_multilateral_file, latest_year
         for donor in DAC_COUNTRIES:
 
             csv_path = (
-                SAVE_PATH / "OP" / f"{donor}_{output}.csv" 
-                if donor in ['Austria', 'Belgium', 'Denmark', 'Finland', 'Ireland', 'Luxembourg', 'Switzerland']
-                else 
-                SAVE_PATH / "DT_update" / f"{donor}_{output}.csv"
+                SAVE_PATH / 
+                folder / 
+                f"{donor}_{output_file}.csv"
             )
 
             click.echo(f"Saving result to: {csv_path}")
 
             data = result[(result["donor"] == donor) | (result["donor"] == 'DAC Average')]
 
-            data.to_csv(csv_path, index=False, columns=[col for col in data.columns if col != "donor"])
+            data.to_csv(csv_path, index=False)
         return #Stop execution
     
-    if output:
-        result.to_csv(SAVE_PATH / "DT_update" / f"{output}.csv", index=False)
+    if output_file:
+        result.to_csv(SAVE_PATH / folder / f"{output_file}.csv", index=False)
 
 
 
