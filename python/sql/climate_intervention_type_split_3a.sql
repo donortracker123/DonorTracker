@@ -72,12 +72,12 @@ mitigation AS (
 combined AS (
     SELECT 
         *, 
-        round(100 * ("Bilateral ODA" + "Cross-cutting") / nullif("Total Climate ODA", 0), 2) AS "Share"
+        round(100 * ("Bilateral ODA" + "Cross-cutting") / nullif("Total Climate ODA", 0), 1) AS "Share"
     FROM adaptation
     UNION ALL 
     SELECT
         *,
-        round(100 * ("Bilateral ODA" + "Cross-cutting") / nullif("Total Climate ODA", 0), 2) AS "Share"
+        round(100 * ("Bilateral ODA" + "Cross-cutting") / nullif("Total Climate ODA", 0), 1) AS "Share"
     FROM mitigation
 )
 
@@ -86,6 +86,6 @@ SELECT
     "Rio Marker",
     "Cross-cutting",
     "Bilateral ODA", 
-    "Share"
+    "Share" || '%' AS "Share" --Adding || to a column is concatenation. this is adding '%' to the share column
 FROM combined
 ORDER BY donor_name, "Rio Marker"
