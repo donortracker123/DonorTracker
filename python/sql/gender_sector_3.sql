@@ -36,5 +36,4 @@ SELECT
     round(100 * (bilateral_oda / total_oda)) || '%' AS "Share",
     donor_name AS donor,
 FROM crs_totals ct 
-WHERE donor_name = 'Germany' and year = 2022
 ORDER BY 5, 3 DESC
