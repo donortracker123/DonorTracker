@@ -2,7 +2,6 @@ WITH base AS (
     SELECT
         donor_name,
         year,
-        purpose_code,
         usd_disbursement_defl
     FROM "{{crs_file}}"
     WHERE year = ({{latest_year}})
@@ -11,23 +10,19 @@ WITH base AS (
         'ODA Loans','Equity Investment','ODA Grants'
     )
     AND donor_name != 'EU Institutions'
-    AND gender IN (1,2) --Marker for Gender-related
+    AND coalesce(gender, 0) IN (1,2) --Marker for Gender-related
 ), 
 
-dac1_totals AS (
+allocable_totals AS (
     SELECT 
         "Donor_1" AS donor_name,
-        "Year" AS year,
-        sum("VALUE") AS total_oda
-    FROM "{{dac1_file}}"
+        "TIME_PERIOD" AS year,
+        sum("OBS_VALUE") AS total_oda
+    FROM "{{riomarkers_file}}"
     WHERE 1=1
     AND year = ({{latest_year}})
-    AND "Amount type" = 'Constant Prices (2022 USD millions)'
-    --TODO: Change fund flow here for total
-    AND "Fund flows" = 'Gross Disbursements'
     AND "Donor_1" IN {{dac_countries}}
     AND "Donor_1" != 'EU Institutions'
-    AND "Aid type" = 'I. Official Development Assistance (ODA) (I.A + I.B)'
     GROUP BY 1,2
 ),
 
@@ -44,17 +39,18 @@ joined AS (
     SELECT 
         ct.donor_name AS donor,
         ct.year,
-        d1t.total_oda AS total_oda_dac1,
-        (ct.sector_bilateral_oda * 100) / d1t.total_oda AS sector_percentage
+        ct.sector_bilateral_oda,
+        alt.total_oda AS allocable_oda,
+        (ct.sector_bilateral_oda * 100) / alt.total_oda AS sector_percentage
     FROM crs_totals ct 
-    LEFT JOIN dac1_totals d1t USING(donor_name, year)
+    LEFT JOIN allocable_totals alt USING(donor_name, year)
 ), 
 
 ranked AS (
     SELECT 
         donor,
         year,
-        total_oda_dac1,
+        allocable_oda,
         round(sector_percentage,1) AS sector_percentage,
         row_number() OVER (ORDER BY sector_percentage DESC) AS rn
     FROM joined
@@ -62,7 +58,6 @@ ranked AS (
 SELECT 
     donor, 
     year "Year", 
-    total_oda_dac1 "Total ODA (DAC1)",
     sector_percentage || '%' "ODA to Gender as % of Total ODA",
     CASE 
         WHEN rn::TEXT LIKE '%1' AND rn != 11 THEN rn || 'st'
