@@ -1,30 +1,36 @@
-donor,year,incomegroup_name,total_oda,share
-Canada,2023,Part I unallocated by income,2989.578268000029,42.61033909467009
-Canada,2023,LMICs,2421.985330999999,34.52045973871313
-Canada,2023,LDCs,1088.6471859999835,15.516444659249585
-Canada,2023,UMICs,439.44196700000214,6.263348722703094
-Canada,2023,Other LICs,76.43379300000001,1.0894077846640908
-Canada,2022,Part I unallocated by income,2683.377831999997,37.6440846942884
-Canada,2022,LMICs,2676.192360999976,37.54328246074996
-Canada,2022,LDCs,1349.7185830000149,18.934687484556793
-Canada,2022,UMICs,356.2303290000008,4.997419489582437
-Canada,2022,Other LICs,62.76639799999995,0.8805258708224339
-Canada,2022,,,
-Canada,2021,Part I unallocated by income,2971.406760000009,57.80405982632118
-Canada,2021,LDCs,1257.505086000003,24.462789881735045
-Canada,2021,LMICs,463.79150899999973,9.022336656855312
-Canada,2021,UMICs,374.4851640000001,7.285021732913347
-Canada,2021,Other LICs,73.13171200000001,1.4226627981587003
-Canada,2021,MADCTs,0.16085100000000002,0.0031291040164166417
-Canada,2020,Part I unallocated by income,2612.7377659999993,55.83804769696633
-Canada,2020,LDCs,1134.5821689999998,24.247689183802123
-Canada,2020,LMICs,444.2073200000011,9.49336356839022
-Canada,2020,UMICs,396.3694060000006,8.470997007759504
-Canada,2020,Other LICs,90.61526599999999,1.9365814705268405
-Canada,2020,MADCTs,0.623311,0.013321072554988201
-Canada,2019,Part I unallocated by income,1811.842128,46.932167882925974
-Canada,2019,LDCs,1126.7523529999994,29.18627940937128
-Canada,2019,LMICs,420.3969550000002,10.889547253937616
-Canada,2019,UMICs,388.429003999999,10.06148104440459
-Canada,2019,Other LICs,113.08404800000002,2.9292174210979933
-Canada,2019,MADCTs,0.050457,0.0013069882625385096
+Year,Income Group,ODA,Share,Donor
+2018,Lower-middle income countries,997.490235,24.65%,Canada
+2019,Lower-middle income countries,879.265744,23.50%,Canada
+2020,Lower-middle income countries,890.109761,19.65%,Canada
+2021,Lower-middle income countries,848.888043,17.05%,Canada
+2022,Lower-middle income countries,3028.962547,44.30%,Canada
+2018,Unallocated by income,1070.22802,26.45%,Canada
+2019,Unallocated by income,1016.655238,27.17%,Canada
+2020,Unallocated by income,1552.641741,34.28%,Canada
+2021,Unallocated by income,2350.574917,47.20%,Canada
+2022,Unallocated by income,1569.801995,22.96%,Canada
+2018,Countries unspecified,780.497828,19.29%,Canada
+2019,Countries unspecified,739.563062,19.76%,Canada
+2020,Countries unspecified,976.510574,21.56%,Canada
+2021,Countries unspecified,528.006447,10.60%,Canada
+2022,Countries unspecified,1004.101822,14.69%,Canada
+2018,Low income countries,909.291807,22.47%,Canada
+2019,Low income countries,821.04993,21.94%,Canada
+2020,Low income countries,812.312725,17.93%,Canada
+2021,Low income countries,966.170216,19.40%,Canada
+2022,Low income countries,938.849075,13.73%,Canada
+2018,Upper-middle income countries,285.470314,7.05%,Canada
+2019,Upper-middle income countries,280.30003,7.49%,Canada
+2020,Upper-middle income countries,286.730392,6.33%,Canada
+2021,Upper-middle income countries,267.320336,5.37%,Canada
+2022,Upper-middle income countries,271.962092,3.98%,Canada
+2018,Countries not classified,0.835695,0.02%,Canada
+2019,Countries not classified,2.784829,0.07%,Canada
+2020,Countries not classified,7.180274,0.16%,Canada
+2021,Countries not classified,13.422402,0.27%,Canada
+2022,Countries not classified,18.169201,0.27%,Canada
+2018,High income countries,2.942308,0.07%,Canada
+2019,High income countries,2.416332,0.06%,Canada
+2020,High income countries,3.957106,0.09%,Canada
+2021,High income countries,5.512374,0.11%,Canada
+2022,High income countries,5.625517,0.08%,Canada

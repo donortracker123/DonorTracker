@@ -1,6 +1,6 @@
-donor,Year,Gender funding as % of bilateral allocable ODA,Funding for projects with gender equality as a principal objective,Funding for projects with gender equality as a significant objective,Principal,Significant,Not targeted or screened
-United Kingdom,2019,114.44961076674299,670.7146741240645,6716.133959508183,10.391851410023586,104.05775935671942,-14.449610766743007
-United Kingdom,2020,161.05098916875738,626.6250781177775,5944.917877415188,15.356909229947087,145.69407993881032,-61.05098916875741
-United Kingdom,2021,154.2059050804915,469.2767310714614,3365.9404705556103,18.86861662421323,135.33728845627826,-54.205905080491505
-United Kingdom,2022,111.03516107217159,704.6187898677998,2804.6527817324627,22.294501645471893,88.7406594266997,-11.03516107217159
-United Kingdom,2023,67.32743654342359,394.846800406767,2160.4557640750627,10.403473650546436,56.923962892877164,32.6725634565764
+"Year","Gender funding as a % of bilateral allocable ODA","Funding for projects with gender equality as a principal objective","Funding for projects with gender equality as a Significant objective","Principal","Significant","Not targeted","Not screened"
+2018,"59%",617,6664,"5%","54%","39%","2%"
+2019,"59%",761,7310,"6%","54%","34%","7%"
+2020,"64%",698,6394,"6%","58%","32%","4%"
+2021,"58%",518,3839,"7%","51%","39%","3%"
+2022,"57%",795,3202,"11%","45%","30%","14%"

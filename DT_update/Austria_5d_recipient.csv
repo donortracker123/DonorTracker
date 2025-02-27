@@ -1,101 +1,201 @@
-donor,year,Recipient country,share,ODA Grants,ODA Loans
-Austria,2023,"Bilateral, unspecified",43.9%,401.56173904319996,0.0
-Austria,2023,Ukraine,7.0%,63.819771073199995,0.0
-Austria,2023,Türkiye,3.9%,35.74698551819999,0.0
-Austria,2023,"Europe, regional",2.8%,25.944943755600004,0.0
-Austria,2023,Bosnia and Herzegovina,2.2%,20.5464842244,0.0
-Austria,2023,Ethiopia,2.2%,19.6950290634,0.0
-Austria,2023,"South of Sahara, regional",1.9%,17.23334256,0.0
-Austria,2023,Syrian Arab Republic,1.7%,15.757340931,0.0
-Austria,2023,Iran,1.7%,15.136706016000002,0.0
-Austria,2023,"Africa, regional",1.5%,13.558669678800003,0.0
-Austria,2023,Albania,1.4%,13.0545659412,0.0
-Austria,2023,Mozambique,1.4%,12.949947070200002,0.0
-Austria,2023,India,1.4%,12.922136976600001,0.0
-Austria,2023,Indonesia,1.2%,10.891186937999999,0.0
-Austria,2023,Serbia,1.2%,10.8304149762,0.0
-Austria,2023,Burkina Faso,1.2%,10.527305479200004,0.0
-Austria,2023,Kosovo,1.1%,9.992711489400001,0.0
-Austria,2023,"Eastern Africa, regional",1.1%,9.675136418400001,0.0
-Austria,2023,Moldova,1.0%,9.066880548000002,0.0
-Austria,2023,Georgia,1.0%,8.912775290399999,0.0
-Austria,2022,"Bilateral, unspecified",43.8%,528.5507639958001,0.7882182036
-Austria,2022,Ukraine,6.9%,83.730808341,0.0
-Austria,2022,"Europe, regional",6.7%,81.01924145999999,0.0
-Austria,2022,Türkiye,2.3%,27.9343452672,0.0
-Austria,2022,Bosnia and Herzegovina,2.3%,27.854583791400003,0.0
-Austria,2022,"Africa, regional",1.5%,15.7328553816,1.838976093
-Austria,2022,Ethiopia,1.2%,14.829893508600005,0.0
-Austria,2022,Uganda,1.2%,14.468521181399998,0.0
-Austria,2022,India,1.1%,13.291985622599999,0.0
-Austria,2022,Iran,1.1%,13.253976802799999,0.0
-Austria,2022,Albania,1.1%,12.9352288176,0.0
-Austria,2022,Afghanistan,0.9%,10.3794675336,0.0
-Austria,2022,Syrian Arab Republic,0.9%,10.279225850400001,0.0
-Austria,2022,Serbia,5.2%,10.221087704399999,52.216845895800006
-Austria,2022,Indonesia,0.8%,9.1143300582,0.0
-Austria,2022,Kosovo,0.7%,8.752429202400002,0.0
-Austria,2022,West Bank and Gaza Strip,0.7%,8.4536031042,0.0
-Austria,2022,"South of Sahara, regional",3.5%,6.1306095672000005,36.66268393740001
-Austria,2022,Bangladesh,2.3%,4.5911083716,23.207487800400003
-Austria,2022,"America, regional",0.9%,0.26900671319999997,10.388511
-Austria,2021,"Bilateral, unspecified",23.7%,174.57069378420007,2.1740411574
-Austria,2021,Türkiye,3.9%,28.359574662599996,0.8500946688
-Austria,2021,Bosnia and Herzegovina,3.7%,27.335494778399998,0.0
-Austria,2021,"Asia, regional",3.1%,23.3585576046,0.0
-Austria,2021,"Europe, regional",2.9%,21.512092735800003,0.0
-Austria,2021,Ukraine,2.8%,21.178856005199997,0.0
-Austria,2021,Iran,2.6%,19.0736416296,0.0
-Austria,2021,Syrian Arab Republic,2.5%,18.327252216600005,0.0
-Austria,2021,Uganda,2.3%,17.069487659999997,0.0
-Austria,2021,Ethiopia,2.3%,16.7818941738,0.0
-Austria,2021,Albania,1.9%,14.383917986399995,0.0
-Austria,2021,Burkina Faso,1.9%,14.1363757134,0.0
-Austria,2021,Mozambique,1.8%,13.314400090199996,0.0
-Austria,2021,Serbia,4.1%,12.126134286,18.325227477600002
-Austria,2021,India,1.6%,12.0554681364,0.0
-Austria,2021,Kosovo,1.5%,11.459021956200003,0.0
-Austria,2021,"South of Sahara, regional",2.0%,10.456229968199999,4.378608979200001
-Austria,2021,Indonesia,1.3%,9.3560971356,0.0
-Austria,2021,"Africa, regional",8.4%,4.6717194654,57.6779046192
-Austria,2021,"America, regional",1.2%,2.8402575264000003,5.7696079824
-Austria,2020,"Bilateral, unspecified",31.7%,143.0439605873999,54.33817873859999
-Austria,2020,Bosnia and Herzegovina,3.6%,22.448733687,0.0
-Austria,2020,Türkiye,5.0%,22.275221830200003,8.9466893928
-Austria,2020,Syrian Arab Republic,3.1%,19.432099877400002,0.0
-Austria,2020,Ukraine,2.9%,17.932065093000002,0.0
-Austria,2020,"Europe, regional",3.0%,17.163042739200005,1.2987382122000002
-Austria,2020,Cuba,2.6%,16.148137626,0.0
-Austria,2020,Uganda,2.2%,13.6411124166,0.0
-Austria,2020,Ethiopia,2.1%,12.994587324000003,0.0
-Austria,2020,Serbia,3.0%,12.551172793199997,6.234270687
-Austria,2020,Iran,2.0%,12.2609907306,0.0
-Austria,2020,Mozambique,1.9%,11.841807967199998,0.0
-Austria,2020,Kosovo,1.9%,11.611525076999996,0.0
-Austria,2020,Albania,1.9%,11.509805941200002,0.0
-Austria,2020,"South of Sahara, regional",2.1%,11.1983613606,1.8785252592
-Austria,2020,India,1.7%,10.667397556800005,0.0
-Austria,2020,Burkina Faso,1.3%,8.201822671800002,0.0
-Austria,2020,"Africa, regional",5.5%,6.523276525200001,27.8219529432
-Austria,2020,China (People's Republic of),1.0%,6.2691855732000015,0.0
-Austria,2020,Georgia,1.2%,5.888776285800001,1.5838424279999999
-Austria,2019,"Bilateral, unspecified",26.8%,135.92283435720006,3.2498351928000004
-Austria,2019,Türkiye,4.8%,25.039754117999998,0.0
-Austria,2019,Bosnia and Herzegovina,4.5%,23.4163261116,0.0
-Austria,2019,Uganda,3.3%,17.136971604000006,0.0
-Austria,2019,Ukraine,3.1%,16.2752338584,0.0
-Austria,2019,Syrian Arab Republic,2.9%,14.840823789000002,0.0
-Austria,2019,Serbia,2.8%,14.700853085400002,0.0
-Austria,2019,Kosovo,2.7%,14.044727309399997,0.0
-Austria,2019,Ethiopia,2.6%,13.361127976799999,0.0
-Austria,2019,Iran,2.4%,12.463462423799998,0.0
-Austria,2019,Albania,2.3%,12.084686168400001,0.0
-Austria,2019,Mozambique,1.8%,9.427694554800002,0.0
-Austria,2019,Burkina Faso,1.8%,9.099968203799998,0.0
-Austria,2019,"South of Sahara, regional",2.7%,8.8724360898,4.8827127167999995
-Austria,2019,China (People's Republic of),1.4%,7.134424407000001,0.0
-Austria,2019,"Europe, regional",1.4%,6.5029077612,0.528021036
-Austria,2019,West Bank and Gaza Strip,1.2%,6.411568309200001,0.0
-Austria,2019,"Africa, regional",1.3%,6.0797737224,0.7122568373999999
-Austria,2019,States Ex-Yugoslavia unspecified,1.2%,6.029134282799999,0.0
-Austria,2019,Georgia,1.2%,5.7358836647999984,0.2948240664
+"Year","Recipient country","ODA Grants","ODA Loans","Share","Donor"
+"2018","Ukraine",20.249995,0,"4%","Austria"
+"2019","Ukraine",15.714161,0,"3%","Austria"
+"2020","Ukraine",17.338295,0,"3%","Austria"
+"2021","Ukraine",20.501205,0,"3%","Austria"
+"2022","Ukraine",81.794594,0,"7%","Austria"
+"2018","Serbia",14.312166,0,"3%","Austria"
+"2019","Serbia",14.194061,0,"3%","Austria"
+"2020","Serbia",12.135576,6.02784,"3%","Austria"
+"2021","Serbia",11.738139,17.738884,"4%","Austria"
+"2022","Serbia",9.984735,51.009373,"5%","Austria"
+"2018","Türkiye",35.898407,0,"7%","Austria"
+"2019","Türkiye",24.176543,0,"5%","Austria"
+"2020","Türkiye",21.537638,8.650444,"5%","Austria"
+"2021","Türkiye",27.452166,0.822895,"4%","Austria"
+"2022","Türkiye",27.288386,0,"2%","Austria"
+"2018","Bosnia and Herzegovina",23.583612,0,"5%","Austria"
+"2019","Bosnia and Herzegovina",22.60908,0,"5%","Austria"
+"2020","Bosnia and Herzegovina",21.705406,0,"4%","Austria"
+"2021","Bosnia and Herzegovina",26.460851,0,"4%","Austria"
+"2022","Bosnia and Herzegovina",27.210468,0,"2%","Austria"
+"2018","Bangladesh",1.342331,0,"0%","Austria"
+"2019","Bangladesh",2.227258,0,"0%","Austria"
+"2020","Bangladesh",1.541188,0,"0%","Austria"
+"2021","Bangladesh",6.093398,0,"1%","Austria"
+"2022","Bangladesh",4.484944,22.670832,"2%","Austria"
+"2018","Ethiopia",14.346227,0,"3%","Austria"
+"2019","Ethiopia",12.900521,0,"3%","Austria"
+"2020","Ethiopia",12.564303,0,"2%","Austria"
+"2021","Ethiopia",16.24493,0,"2%","Austria"
+"2022","Ethiopia",14.486971,0,"1%","Austria"
+"2018","Uganda",8.685722,0,"2%","Austria"
+"2019","Uganda",16.546196,0,"3%","Austria"
+"2020","Uganda",13.189427,0,"2%","Austria"
+"2021","Uganda",16.523314,0,"2%","Austria"
+"2022","Uganda",14.133943,0,"1%","Austria"
+"2018","India",5.462591,0,"1%","Austria"
+"2019","India",5.068088,0,"1%","Austria"
+"2020","India",10.314176,0,"2%","Austria"
+"2021","India",11.669732,0,"2%","Austria"
+"2022","India",12.984619,0,"1%","Austria"
+"2018","Iran",12.823757,0,"2%","Austria"
+"2019","Iran",12.033798,0,"2%","Austria"
+"2020","Iran",11.855,0,"2%","Austria"
+"2021","Iran",18.463349,0,"3%","Austria"
+"2022","Iran",12.94749,0,"1%","Austria"
+"2018","Albania",10.402002,0,"2%","Austria"
+"2019","Albania",11.668086,0,"2%","Austria"
+"2020","Albania",11.128689,0,"2%","Austria"
+"2021","Albania",13.923682,0,"2%","Austria"
+"2022","Albania",12.636114,0,"1%","Austria"
+"2018","Afghanistan",4.284495,0,"1%","Austria"
+"2019","Afghanistan",3.721655,0,"1%","Austria"
+"2020","Afghanistan",3.563354,0,"1%","Austria"
+"2021","Afghanistan",3.816478,0,"1%","Austria"
+"2022","Afghanistan",10.139449,0,"1%","Austria"
+"2018","Syrian Arab Republic",8.721332,0,"2%","Austria"
+"2019","Syrian Arab Republic",14.329207,0,"3%","Austria"
+"2020","Syrian Arab Republic",18.788659,0,"3%","Austria"
+"2021","Syrian Arab Republic",17.74084,0,"2%","Austria"
+"2022","Syrian Arab Republic",10.041526,0,"1%","Austria"
+"2018","Indonesia",2.672078,0,"1%","Austria"
+"2019","Indonesia",3.957945,0,"1%","Austria"
+"2020","Indonesia",2.8699,0,"0%","Austria"
+"2021","Indonesia",9.056735,0,"1%","Austria"
+"2022","Indonesia",8.90357,0,"1%","Austria"
+"2018","Kosovo",9.162927,0,"2%","Austria"
+"2019","Kosovo",13.560557,0,"3%","Austria"
+"2020","Kosovo",11.227042,0,"2%","Austria"
+"2021","Kosovo",11.092372,0,"2%","Austria"
+"2022","Kosovo",8.550031,0,"1%","Austria"
+"2018","West Bank and Gaza Strip",5.944354,0,"1%","Austria"
+"2019","West Bank and Gaza Strip",6.190538,0,"1%","Austria"
+"2020","West Bank and Gaza Strip",5.922759,0,"1%","Austria"
+"2021","West Bank and Gaza Strip",7.807917,0,"1%","Austria"
+"2022","West Bank and Gaza Strip",8.258117,0,"1%","Austria"
+"2018","Mozambique",7.672498,0,"1%","Austria"
+"2019","Mozambique",9.102692,0,"2%","Austria"
+"2020","Mozambique",11.449699,0,"2%","Austria"
+"2021","Mozambique",12.888374,0,"2%","Austria"
+"2022","Mozambique",8.017267,0,"1%","Austria"
+"2018","Moldova",3.745821,0,"1%","Austria"
+"2019","Moldova",4.83185,0,"1%","Austria"
+"2020","Moldova",4.838258,0,"1%","Austria"
+"2021","Moldova",5.126481,0,"1%","Austria"
+"2022","Moldova",7.313311,0,"1%","Austria"
+"2018","Libya",1.744569,0,"0%","Austria"
+"2019","Libya",2.871674,0,"1%","Austria"
+"2020","Libya",2.750371,0,"0%","Austria"
+"2021","Libya",3.571325,0,"0%","Austria"
+"2022","Libya",7.297579,0,"1%","Austria"
+"2018","China (People's Republic of)",7.545763,0,"1%","Austria"
+"2019","China (People's Republic of)",6.888476,0,"1%","Austria"
+"2020","China (People's Republic of)",6.061599,0,"1%","Austria"
+"2021","China (People's Republic of)",6.424199,0,"1%","Austria"
+"2022","China (People's Republic of)",7.262728,0,"1%","Austria"
+"2018","Pakistan",2.423654,0,"0%","Austria"
+"2019","Pakistan",2.510754,0,"1%","Austria"
+"2020","Pakistan",2.091362,0,"0%","Austria"
+"2021","Pakistan",4.682713,0,"1%","Austria"
+"2022","Pakistan",7.017145,0,"1%","Austria"
+"2018","Yemen",1.394604,0,"0%","Austria"
+"2019","Yemen",2.612094,0,"1%","Austria"
+"2020","Yemen",1.375279,0,"0%","Austria"
+"2021","Yemen",8.265672,0,"1%","Austria"
+"2022","Yemen",6.791352,0,"1%","Austria"
+"2018","Georgia",6.116746,1.859136,"2%","Austria"
+"2019","Georgia",5.538146,0.28466,"1%","Austria"
+"2020","Georgia",5.693785,1.531398,"1%","Austria"
+"2021","Georgia",5.483075,0.553804,"1%","Austria"
+"2022","Georgia",5.625327,0.901998,"1%","Austria"
+"2018","Burkina Faso",6.438567,0,"1%","Austria"
+"2019","Burkina Faso",8.786262,0,"2%","Austria"
+"2020","Burkina Faso",7.930241,0,"1%","Austria"
+"2021","Burkina Faso",13.68406,0,"2%","Austria"
+"2022","Burkina Faso",5.819579,0,"0%","Austria"
+"2018","Tunisia",2.427787,0,"0%","Austria"
+"2019","Tunisia",0.815453,0,"0%","Austria"
+"2020","Tunisia",0.483045,0,"0%","Austria"
+"2021","Tunisia",3.353299,0,"0%","Austria"
+"2022","Tunisia",5.787569,0,"0%","Austria"
+"2018","Guatemala",5.277157,0,"1%","Austria"
+"2019","Guatemala",5.702103,0,"1%","Austria"
+"2020","Guatemala",5.499776,0,"1%","Austria"
+"2021","Guatemala",5.587326,0,"1%","Austria"
+"2022","Guatemala",5.587219,0,"0%","Austria"
+"2018","Egypt",6.186802,0,"1%","Austria"
+"2019","Egypt",4.879947,0,"1%","Austria"
+"2020","Egypt",5.018206,0,"1%","Austria"
+"2021","Egypt",4.943482,0,"1%","Austria"
+"2022","Egypt",5.501373,0,"0%","Austria"
+"2018","Mexico",3.711608,0,"1%","Austria"
+"2019","Mexico",3.806291,0,"1%","Austria"
+"2020","Mexico",3.660808,0,"1%","Austria"
+"2021","Mexico",5.005173,0,"1%","Austria"
+"2022","Mexico",5.458333,0,"0%","Austria"
+"2018","Lebanon",0.939546,0,"0%","Austria"
+"2019","Lebanon",2.596059,0,"1%","Austria"
+"2020","Lebanon",4.500054,0,"1%","Austria"
+"2021","Lebanon",7.591863,0,"1%","Austria"
+"2022","Lebanon",5.414403,0,"0%","Austria"
+"2018","Ghana",3.082093,0,"1%","Austria"
+"2019","Ghana",3.420018,0,"1%","Austria"
+"2020","Ghana",4.039512,0,"1%","Austria"
+"2021","Ghana",2.98706,0,"0%","Austria"
+"2022","Ghana",5.263937,0,"0%","Austria"
+"2018","Jordan",0.841896,0,"0%","Austria"
+"2019","Jordan",3.105638,0,"1%","Austria"
+"2020","Jordan",2.107085,0,"0%","Austria"
+"2021","Jordan",7.418126,0,"1%","Austria"
+"2022","Jordan",5.205175,0,"0%","Austria"
+"2018","Armenia",3.166379,0,"1%","Austria"
+"2019","Armenia",4.064985,0,"1%","Austria"
+"2020","Armenia",3.017006,0,"1%","Austria"
+"2021","Armenia",5.194911,0,"1%","Austria"
+"2022","Armenia",5.109936,0,"0%","Austria"
+"2018","Mongolia",5.094098,0,"1%","Austria"
+"2019","Mongolia",3.78019,0,"1%","Austria"
+"2020","Mongolia",3.579833,0,"1%","Austria"
+"2021","Mongolia",3.569273,0,"0%","Austria"
+"2022","Mongolia",4.038956,0,"0%","Austria"
+"2018","Kazakhstan",3.316148,0,"1%","Austria"
+"2019","Kazakhstan",3.19064,0,"1%","Austria"
+"2020","Kazakhstan",3.106219,0,"1%","Austria"
+"2021","Kazakhstan",3.409912,0,"0%","Austria"
+"2022","Kazakhstan",3.794895,0,"0%","Austria"
+"2018","Bhutan",2.607974,0,"0%","Austria"
+"2019","Bhutan",3.370036,0,"1%","Austria"
+"2020","Bhutan",1.36307,0,"0%","Austria"
+"2021","Bhutan",2.04092,0,"0%","Austria"
+"2022","Bhutan",2.94192,0,"0%","Austria"
+"2018","Brazil",2.602625,0,"0%","Austria"
+"2019","Brazil",2.288139,0,"0%","Austria"
+"2020","Brazil",2.52565,0,"0%","Austria"
+"2021","Brazil",2.912929,0,"0%","Austria"
+"2022","Brazil",2.925479,0,"0%","Austria"
+"2018","Viet Nam",4.143659,0,"1%","Austria"
+"2019","Viet Nam",4.704744,0,"1%","Austria"
+"2020","Viet Nam",3.594423,0,"1%","Austria"
+"2021","Viet Nam",2.69009,0,"0%","Austria"
+"2022","Viet Nam",2.606149,0,"0%","Austria"
+"2018","Uzbekistan",0.385653,0,"0%","Austria"
+"2019","Uzbekistan",0.473584,0,"0%","Austria"
+"2020","Uzbekistan",0.562841,0,"0%","Austria"
+"2021","Uzbekistan",2.13544,0,"0%","Austria"
+"2022","Uzbekistan",2.494027,0,"0%","Austria"
+"2018","Nigeria",1.859768,0,"0%","Austria"
+"2019","Nigeria",1.475336,0,"0%","Austria"
+"2020","Nigeria",1.44461,0,"0%","Austria"
+"2021","Nigeria",1.555421,0,"0%","Austria"
+"2022","Nigeria",2.347359,0,"0%","Austria"
+"2018","Mali",0.098538,0,"0%","Austria"
+"2019","Mali",1.9833,0,"0%","Austria"
+"2020","Mali",0.14007,0,"0%","Austria"
+"2021","Mali",1.744006,0,"0%","Austria"
+"2022","Mali",2.280152,0,"0%","Austria"
+"2018","Colombia",1.739325,0,"0%","Austria"
+"2019","Colombia",2.578354,0,"1%","Austria"
+"2020","Colombia",2.669041,0,"0%","Austria"
+"2021","Colombia",3.208082,0,"0%","Austria"
+"2022","Colombia",2.263961,0,"0%","Austria"

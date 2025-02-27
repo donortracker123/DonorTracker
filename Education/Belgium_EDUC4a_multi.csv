@@ -1,63 +1,86 @@
-Year,ODA,Share,Full Name,donor
-2020,42.8957,0.54520369657199,european commission development share of budget,Belgium
-2020,17.2263,0.2189460117974079,international development association,Belgium
-2020,1.4373,0.018268061206202984,african development fund,Belgium
-2020,0.0065,8.261490144042258e-05,food and agricultural organisation,Belgium
-2020,0.0299,0.0003800285466259439,international labour organisation regular budget supplementary account,Belgium
-2020,0.0049,6.227892570124164e-05,united nations development programme,Belgium
-2020,1.2374,0.015727335237289065,united nations children’s fund,Belgium
-2020,0.5508,0.00700065964821304,united nations population fund,Belgium
-2020,9.415100000000002,0.11966577823872661,european commission european development fund,Belgium
-2020,4.6651,0.05929335026303314,united nations relief and works agency for palestine refugees in the near east,Belgium
-2020,0.0431,0.0005478003464741867,european investment bank,Belgium
-2020,1.1662,0.01482238431689551,international bank for reconstruction and development,Belgium
-2022,1.2355999999999998,0.014412337969092087,united nations children’s fund,Belgium
-2022,54.737300000000005,0.6384691381641182,european commission development share of budget,Belgium
-2022,0.0576,0.0006718603650208031,international labour organisation regular budget supplementary account,Belgium
-2022,0.5548,0.006471321710304541,united nations population fund,Belgium
-2022,1.0303000000000002,0.012017668994460653,international bank for reconstruction and development,Belgium
-2022,0.0307,0.0003580922431621295,asian infrastructure investment bank,Belgium
-2022,0.0969,0.001130265093238122,european investment bank,Belgium
-2022,4.7381,0.0552663471441852,united nations relief and works agency for palestine refugees in the near east,Belgium
-2022,0.0336,0.00039191854626213513,united nations development programme,Belgium
-2022,0.0012,1.3997090937933397e-05,food and agricultural organisation,Belgium
-2022,0.4367,0.00509377467716293,african development fund,Belgium
-2022,20.7044,0.24150114134612355,international development association,Belgium
-2022,2.0749,0.024202136655931676,european commission european development fund,Belgium
-2019,0.0052,6.84061112967431e-05,united nations development programme,Belgium
-2019,1.2,0.01578602568386379,united nations children’s fund,Belgium
-2019,0.041299999999999996,0.0005433023839529787,african development bank,Belgium
-2019,43.2173,0.5685245064893722,european commission development share of budget,Belgium
-2019,0.8846,0.011636931933288259,african development fund,Belgium
-2019,16.3085,0.2145386665544105,international development association,Belgium
-2019,9.0465,0.11900690112422815,european commission european development fund,Belgium
-2019,0.047,0.0006182860059513318,european investment bank,Belgium
-2019,4.627,0.06086828403269813,united nations relief and works agency for palestine refugees in the near east,Belgium
-2019,0.5291,0.00696032182444361,united nations population fund,Belgium
-2019,0.1101,0.0014483678564945028,world food programme,Belgium
-2021,0.0399,0.0005482169895055604,european investment bank,Belgium
-2021,5.1733,0.07107997372955178,united nations relief and works agency for palestine refugees in the near east,Belgium
-2021,0.0019,2.6105570928836212e-05,united nations development programme,Belgium
-2021,1.3371999999999997,0.01837282602423146,united nations children’s fund,Belgium
-2021,0.0108,0.00014838956106917427,food and agricultural organisation,Belgium
-2021,0.7862,0.010802210454868963,african development fund,Belgium
-2021,15.7757,0.21675455542212707,international development association,Belgium
-2021,0.0235,0.0003228846930671847,international bank for reconstruction and development,Belgium
-2021,44.26490000000001,0.6081897297936012,european commission development share of budget,Belgium
-2021,0.1374,0.0018878449713800502,african development bank,Belgium
-2021,4.7189000000000005,0.064836620345308,european commission european development fund,Belgium
-2021,0.511,0.007021024602439634,united nations population fund,Belgium
-2021,0.0007,9.617841921150184e-06,adaptation fund,Belgium
-2023,1.1688999999999998,0.012610907804111783,united nations children’s fund,Belgium
-2023,0.1374,0.001482366953789853,european investment bank,Belgium
-2023,0.0144,0.00015535723533168766,united nations,Belgium
-2023,53.28920000000001,0.5749210267387063,european commission development share of budget,Belgium
-2023,0.0504,0.0005437503236609067,asian infrastructure investment bank,Belgium
-2023,0.7628999999999999,0.008230696863510035,international bank for reconstruction and development,Belgium
-2023,5.3354,0.05756201342976988,united nations relief and works agency for palestine refugees in the near east,Belgium
-2023,0.0468,0.0005049110148279849,united nations development programme,Belgium
-2023,0.4109999999999999,0.0044341544250919174,european commission european development fund,Belgium
-2023,30.5063,0.3291232241804905,international development association,Belgium
-2023,0.4148,0.004475151473304447,african development fund,Belgium
-2023,0.5507,0.005941335381747249,united nations population fund,Belgium
-2023,0.0014,1.5104175657247411e-05,food and agricultural organisation,Belgium
+"Year","Multi_short","ODA","Share","Full Name","Donor"
+"2018","EC - Development Share of Budget","37.5","20.4%","european commission development share of budget","Belgium"
+"2019","EC - Development Share of Budget","37.8","20.1%","european commission development share of budget","Belgium"
+"2020","EC - Development Share of Budget","38.5","21.2%","european commission development share of budget","Belgium"
+"2021","EC - Development Share of Budget","38.8","21.4%","european commission development share of budget","Belgium"
+"2022","EC - Development Share of Budget","50.3","25.3%","european commission development share of budget","Belgium"
+"2018","IDA","16.5","9%","international development association","Belgium"
+"2019","IDA","16.1","8.6%","international development association","Belgium"
+"2020","IDA","17.1","9.4%","international development association","Belgium"
+"2021","IDA","15.7","8.6%","international development association","Belgium"
+"2022","IDA","20.4","10.3%","international development association","Belgium"
+"2018","UNRWA","6.7","3.6%","united nations relief and works agency for palestine refugees in the near east","Belgium"
+"2019","UNRWA","4.6","2.4%","united nations relief and works agency for palestine refugees in the near east","Belgium"
+"2020","UNRWA","4.6","2.5%","united nations relief and works agency for palestine refugees in the near east","Belgium"
+"2021","UNRWA","5.1","2.8%","united nations relief and works agency for palestine refugees in the near east","Belgium"
+"2022","UNRWA","4.7","2.3%","united nations relief and works agency for palestine refugees in the near east","Belgium"
+"2018","UNICEF","1.1","0.6%","united nations childrenâ€™s fund","Belgium"
+"2019","UNICEF","1.2","0.6%","united nations childrenâ€™s fund","Belgium"
+"2020","UNICEF","1.2","0.7%","united nations childrenâ€™s fund","Belgium"
+"2021","UNICEF","1.3","0.7%","united nations childrenâ€™s fund","Belgium"
+"2022","UNICEF","1.2","0.6%","united nations childrenâ€™s fund","Belgium"
+"2018","IBRD","0","0%","international bank for reconstruction and development","Belgium"
+"2019","IBRD","0","0%","international bank for reconstruction and development","Belgium"
+"2020","IBRD","1.2","0.6%","international bank for reconstruction and development","Belgium"
+"2021","IBRD","0","0%","international bank for reconstruction and development","Belgium"
+"2022","IBRD","1","0.5%","international bank for reconstruction and development","Belgium"
+"2018","UNFPA","0.5","0.3%","united nations population fund","Belgium"
+"2019","UNFPA","0.5","0.3%","united nations population fund","Belgium"
+"2020","UNFPA","0.5","0.3%","united nations population fund","Belgium"
+"2021","UNFPA","0.5","0.3%","united nations population fund","Belgium"
+"2022","UNFPA","0.5","0.3%","united nations population fund","Belgium"
+"2018","African Development Fund","0.9","0.5%","african development fund","Belgium"
+"2019","African Development Fund","0.9","0.5%","african development fund","Belgium"
+"2020","African Development Fund","1.4","0.8%","african development fund","Belgium"
+"2021","African Development Fund","0.8","0.4%","african development fund","Belgium"
+"2022","African Development Fund","0.4","0.2%","african development fund","Belgium"
+"2018","EIB","0","0%","european investment bank","Belgium"
+"2019","EIB","0","0%","european investment bank","Belgium"
+"2020","EIB","0","0%","european investment bank","Belgium"
+"2021","EIB","0","0%","european investment bank","Belgium"
+"2022","EIB","0.1","0%","european investment bank","Belgium"
+"2018","ILO","0","0%","international labour organisation regular budget supplementary account","Belgium"
+"2019","ILO","0","0%","international labour organisation regular budget supplementary account","Belgium"
+"2020","ILO","0","0%","international labour organisation regular budget supplementary account","Belgium"
+"2021","ILO","0","0%","international labour organisation regular budget supplementary account","Belgium"
+"2022","ILO","0.1","0%","international labour organisation regular budget supplementary account","Belgium"
+"2018","UNDP","0","0%","united nations development programme","Belgium"
+"2019","UNDP","0","0%","united nations development programme","Belgium"
+"2020","UNDP","0","0%","united nations development programme","Belgium"
+"2021","UNDP","0","0%","united nations development programme","Belgium"
+"2022","UNDP","0","0%","united nations development programme","Belgium"
+"2018","AIIB","0","0%","asian infrastructure investment bank","Belgium"
+"2019","AIIB","0","0%","asian infrastructure investment bank","Belgium"
+"2020","AIIB","0","0%","asian infrastructure investment bank","Belgium"
+"2021","AIIB","0","0%","asian infrastructure investment bank","Belgium"
+"2022","AIIB","0","0%","asian infrastructure investment bank","Belgium"
+"2018","FAO","0","0%","food and agricultural organisation","Belgium"
+"2019","FAO","0","0%","food and agricultural organisation","Belgium"
+"2020","FAO","0","0%","food and agricultural organisation","Belgium"
+"2021","FAO","0","0%","food and agricultural organisation","Belgium"
+"2022","FAO","0","0%","food and agricultural organisation","Belgium"
+"2018","AfDB","0.1","0%","african development bank","Belgium"
+"2019","AfDB","0","0%","african development bank","Belgium"
+"2020","AfDB","0","0%","african development bank","Belgium"
+"2021","AfDB","0.1","0.1%","african development bank","Belgium"
+"2022","AfDB","0","0%","african development bank","Belgium"
+"2018","UN","0","0%","united nations","Belgium"
+"2019","UN","0","0%","united nations","Belgium"
+"2020","UN","0","0%","united nations","Belgium"
+"2021","UN","0","0%","united nations","Belgium"
+"2022","UN","0","0%","united nations","Belgium"
+"2018","WFP","0.3","0.1%","world food programme","Belgium"
+"2019","WFP","0.1","0.1%","world food programme","Belgium"
+"2020","WFP","0","0%","world food programme","Belgium"
+"2021","WFP","0","0%","world food programme","Belgium"
+"2022","WFP","0","0%","world food programme","Belgium"
+"2018","Adaptation Fund","0","0%","adaptation fund","Belgium"
+"2019","Adaptation Fund","0","0%","adaptation fund","Belgium"
+"2020","Adaptation Fund","0","0%","adaptation fund","Belgium"
+"2021","Adaptation Fund","0","0%","adaptation fund","Belgium"
+"2022","Adaptation Fund","0","0%","adaptation fund","Belgium"
+"2018","IFC","0","0%","international finance corporation","Belgium"
+"2019","IFC","0","0%","international finance corporation","Belgium"
+"2020","IFC","0","0%","international finance corporation","Belgium"
+"2021","IFC","0","0%","international finance corporation","Belgium"
+"2022","IFC","0","0%","international finance corporation","Belgium"

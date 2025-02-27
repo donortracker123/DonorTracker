@@ -1,75 +1,86 @@
-year,Sector,Gender-related ODA to,Share,donor
-2023,Refugees in donor countries,3.9462448344000003,25.0%,Poland
-2019,Emergency Response,3.2252912208,39.0%,Poland
-2022,Emergency Response,2.6658138672,25.0%,Poland
-2022,Health & populations,2.489165065200001,24.0%,Poland
-2023,Education,2.3082035724,15.0%,Poland
-2023,Unspecified,2.0103964716,13.0%,Poland
-2023,Emergency Response,1.9160059908,12.0%,Poland
-2020,Emergency Response,1.913138304,40.0%,Poland
-2021,Emergency Response,1.6968764208,35.0%,Poland
-2022,Education,1.6044196608000005,15.0%,Poland
-2023,Other social services,1.3066724747999998,8.0%,Poland
-2021,Health & populations,1.1596533036000005,24.0%,Poland
-2019,Education,1.120712208,13.0%,Poland
-2019,Government & civil society,1.0519840584,13.0%,Poland
-2019,"Agriculture (incl. forestry, fishing, rural development)",1.0276927188,12.0%,Poland
-2023,"Agriculture (incl. forestry, fishing, rural development)",0.9418959,6.0%,Poland
-2021,Education,0.8846290992,18.0%,Poland
-2023,Health & populations,0.8797947972000002,6.0%,Poland
-2023,Government & civil society,0.7849813884000001,5.0%,Poland
-2020,Education,0.7732980024,16.0%,Poland
-2020,Government & civil society,0.7436613228000001,15.0%,Poland
-2019,Health & populations,0.7322352180000002,9.0%,Poland
-2020,Health & populations,0.6100489692000001,13.0%,Poland
-2022,"Agriculture (incl. forestry, fishing, rural development)",0.594519288,6.0%,Poland
-2022,Other social services,0.5786489148000001,6.0%,Poland
-2022,Refugees in donor countries,0.5726844552000001,5.0%,Poland
-2022,Government & civil society,0.5514053028,5.0%,Poland
-2019,Other social services,0.49337488200000007,6.0%,Poland
-2023,Water and sanitation,0.3504616368,2.0%,Poland
-2020,Other social services,0.3496251792,7.0%,Poland
-2021,Government & civil society,0.34126882680000004,7.0%,Poland
-2020,"Industry, construction & mining",0.31114343040000003,6.0%,Poland
-2023,"Industry, construction & mining",0.30367405199999997,2.0%,Poland
-2023,Environmental protection,0.2958111156,2.0%,Poland
-2022,,0.29101793160000006,3.0%,Poland
-2023,,0.2460465876,2.0%,Poland
-2023,Financial services & business support,0.24402945599999998,2.0%,Poland
-2022,Reconstruction Relief & Rehabilitation,0.2380180044,2.0%,Poland
-2022,"Industry, construction & mining",0.23218512240000003,2.0%,Poland
-2019,"Industry, construction & mining",0.20566166279999998,2.0%,Poland
-2022,Environmental protection,0.17962692,2.0%,Poland
-2021,Reconstruction Relief & Rehabilitation,0.17106967680000001,4.0%,Poland
-2022,Financial services & business support,0.16457303280000002,2.0%,Poland
-2021,"Agriculture (incl. forestry, fishing, rural development)",0.1622821728,3.0%,Poland
-2021,Financial services & business support,0.1608218964,3.0%,Poland
-2022,Water and sanitation,0.15957190919999997,2.0%,Poland
-2019,Environmental protection,0.1500947976,2.0%,Poland
-2020,"Agriculture (incl. forestry, fishing, rural development)",0.123829794,3.0%,Poland
-2021,Other social services,0.12099735119999999,2.0%,Poland
-2019,Tourism,0.1029759192,1.0%,Poland
-2019,Water and sanitation,0.097114842,1.0%,Poland
-2021,"Conflict, peace & security",0.0846819336,2.0%,Poland
-2022,Tourism,0.0814089408,1.0%,Poland
-2019,Disaster Prevention & Preparedness,0.061825024799999996,1.0%,Poland
-2023,Disaster Prevention & Preparedness,0.0488035416,0.0%,Poland
-2019,Financial services & business support,0.046251876000000004,1.0%,Poland
-2022,Unspecified,0.03953202,0.0%,Poland
-2022,Disaster Prevention & Preparedness,0.0394450848,0.0%,Poland
-2021,"Industry, construction & mining",0.036230832000000004,1.0%,Poland
-2021,Environmental protection,0.0355870416,1.0%,Poland
-2023,Energy,0.027050944800000004,0.0%,Poland
-2023,Trade policy,0.0125362908,0.0%,Poland
-2023,Infrastructure,0.011791467600000001,0.0%,Poland
-2023,Other multisector,0.011650491600000002,0.0%,Poland
-2022,Energy,0.010537956000000001,0.0%,Poland
-2023,Food aid and commodity assistance,0.0100339668,0.0%,Poland
-2022,Trade policy,0.007264963200000001,0.0%,Poland
-2021,Water and sanitation,0.0066352704000000005,0.0%,Poland
-2023,Tourism,0.0059997036000000005,0.0%,Poland
-2021,Tourism,0.0057400728,0.0%,Poland
-2022,Other multisector,0.0052866,0.0%,Poland
-2021,,0.004246902,0.0%,Poland
-2021,Infrastructure,0.004246902,0.0%,Poland
-2023,"Conflict, peace & security",0.0037558356,0.0%,Poland
+"Year","Sector","Gender-related ODA to","Share","Donor"
+"2018","Humanitarian aid",0.86,"25%","Poland"
+"2019","Humanitarian aid",2.92,"40%","Poland"
+"2020","Humanitarian aid",1.7,"40%","Poland"
+"2021","Humanitarian aid",1.66,"38%","Poland"
+"2022","Humanitarian aid",2.59,"30%","Poland"
+"2018","Health & populations",0.73,"21%","Poland"
+"2019","Health & populations",0.65,"9%","Poland"
+"2020","Health & populations",0.54,"13%","Poland"
+"2021","Health & populations",1.03,"24%","Poland"
+"2022","Health & populations",2.19,"25%","Poland"
+"2018","Education",0.31,"9%","Poland"
+"2019","Education",0.99,"13%","Poland"
+"2020","Education",0.69,"16%","Poland"
+"2021","Education",0.79,"18%","Poland"
+"2022","Education",1.42,"16%","Poland"
+"2018","Other social services",0.33,"10%","Poland"
+"2019","Other social services",0.44,"6%","Poland"
+"2020","Other social services",0.31,"7%","Poland"
+"2021","Other social services",0.11,"2%","Poland"
+"2022","Other social services",0.51,"6%","Poland"
+"2018","Government & civil society",0.21,"6%","Poland"
+"2019","Government & civil society",0.93,"13%","Poland"
+"2020","Government & civil society",0.66,"15%","Poland"
+"2021","Government & civil society",0.3,"7%","Poland"
+"2022","Government & civil society",0.49,"6%","Poland"
+"2018","Agriculture (incl. forestry, fishing, rural development)",0.5,"14%","Poland"
+"2019","Agriculture (incl. forestry, fishing, rural development)",0.91,"12%","Poland"
+"2020","Agriculture (incl. forestry, fishing, rural development)",0.11,"3%","Poland"
+"2021","Agriculture (incl. forestry, fishing, rural development)",0.05,"1%","Poland"
+"2022","Agriculture (incl. forestry, fishing, rural development)",0.4,"5%","Poland"
+"2018","Energy",0,"0%","Poland"
+"2019","Energy",0,"0%","Poland"
+"2020","Energy",0,"0%","Poland"
+"2021","Energy",0,"0%","Poland"
+"2022","Energy",0.26,"3%","Poland"
+"2018","Industry, construction & mining",0.29,"8%","Poland"
+"2019","Industry, construction & mining",0.18,"2%","Poland"
+"2020","Industry, construction & mining",0.28,"6%","Poland"
+"2021","Industry, construction & mining",0.03,"1%","Poland"
+"2022","Industry, construction & mining",0.2,"2%","Poland"
+"2018","Environmental protection",0.09,"3%","Poland"
+"2019","Environmental protection",0.13,"2%","Poland"
+"2020","Environmental protection",0,"0%","Poland"
+"2021","Environmental protection",0.03,"1%","Poland"
+"2022","Environmental protection",0.16,"2%","Poland"
+"2018","Financial services & business support",0.08,"2%","Poland"
+"2019","Financial services & business support",0.04,"1%","Poland"
+"2020","Financial services & business support",0,"0%","Poland"
+"2021","Financial services & business support",0.14,"3%","Poland"
+"2022","Financial services & business support",0.15,"2%","Poland"
+"2018","Water and sanitation",0.07,"2%","Poland"
+"2019","Water and sanitation",0.09,"1%","Poland"
+"2020","Water and sanitation",0,"0%","Poland"
+"2021","Water and sanitation",0.01,"0%","Poland"
+"2022","Water and sanitation",0.14,"2%","Poland"
+"2018","Other multisector",0,"0%","Poland"
+"2019","Other multisector",0,"0%","Poland"
+"2020","Other multisector",0,"0%","Poland"
+"2021","Other multisector",0.1,"2%","Poland"
+"2022","Other multisector",0.13,"1%","Poland"
+"2018","Tourism",0,"0%","Poland"
+"2019","Tourism",0.09,"1%","Poland"
+"2020","Tourism",0,"0%","Poland"
+"2021","Tourism",0.01,"0%","Poland"
+"2022","Tourism",0.07,"1%","Poland"
+"2018","Unspecified",0,"0%","Poland"
+"2019","Unspecified",0,"0%","Poland"
+"2020","Unspecified",0,"0%","Poland"
+"2021","Unspecified",0,"0%","Poland"
+"2022","Unspecified",0.03,"0%","Poland"
+"2018","Trade policy",0,"0%","Poland"
+"2019","Trade policy",0,"0%","Poland"
+"2020","Trade policy",0,"0%","Poland"
+"2021","Trade policy",0,"0%","Poland"
+"2022","Trade policy",0.01,"0%","Poland"
+"2018","Conflict, peace & security",0,"0%","Poland"
+"2019","Conflict, peace & security",0,"0%","Poland"
+"2020","Conflict, peace & security",0,"0%","Poland"
+"2021","Conflict, peace & security",0.08,"2%","Poland"
+"2022","Conflict, peace & security",0,"0%","Poland"
+"2018","Infrastructure",0.03,"1%","Poland"
+"2019","Infrastructure",0,"0%","Poland"
+"2020","Infrastructure",0,"0%","Poland"
+"2021","Infrastructure",0,"0%","Poland"
+"2022","Infrastructure",0,"0%","Poland"

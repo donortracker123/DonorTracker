@@ -1,6 +1,6 @@
-donor,Year,Gender funding as % of bilateral allocable ODA,Funding for projects with gender equality as a principal objective,Funding for projects with gender equality as a significant objective,Principal,Significant,Not targeted or screened
-Austria,2019,53.9326942259867,20.39531266992931,106.31508881638574,8.681009206568485,45.25168501941821,46.067305774013306
-Austria,2020,30.416366954751837,15.631775421424695,93.16060902664488,4.370359375653529,26.04600757909831,69.58363304524816
-Austria,2021,46.63217944523725,34.63957857531266,105.3796673916984,11.536407247986105,35.095772197251144,53.36782055476275
-Austria,2022,53.76227100009686,16.368405836505346,180.1150842849375,4.478761395564859,49.283509604532,46.23772899990314
-Austria,2023,74.52458302311987,19.60460304513322,156.71904477070865,8.28604038862831,66.23854263449158,25.475416976880112
+"Year","Gender funding as a % of bilateral allocable ODA","Funding for projects with gender equality as a principal objective","Funding for projects with gender equality as a Significant objective","Principal","Significant","Not targeted","Not screened"
+2018,"44%",13,105,"5%","39%","51%","5%"
+2019,"52%",24,125,"8%","44%","44%","3%"
+2020,"35%",18,110,"5%","30%","65%","0%"
+2021,"36%",41,124,"9%","27%","64%","0%"
+2022,"41%",19,214,"3%","37%","59%","0%"

@@ -1,110 +1,101 @@
-year,Sector,Gender-related ODA to,Share,donor
-2022,Emergency Response,184.82597090999994,46.0%,Italy
-2023,Emergency Response,123.29774287299999,24.0%,Italy
-2021,Emergency Response,116.53620499099998,24.0%,Italy
-2023,Education,99.68233826050006,19.0%,Italy
-2021,Education,86.14944434199998,18.0%,Italy
-2020,"Agriculture (incl. forestry, fishing, rural development)",72.60009646949999,17.0%,Italy
-2020,"Industry, construction & mining",67.2227651475,16.0%,Italy
-2021,Health & populations,66.57497696450007,14.0%,Italy
-2019,Health & populations,64.86095627550003,15.0%,Italy
-2019,"Agriculture (incl. forestry, fishing, rural development)",64.66280270899996,15.0%,Italy
-2020,Emergency Response,56.5171836325,13.0%,Italy
-2023,Refugees in donor countries,53.5307974105,10.0%,Italy
-2019,Emergency Response,52.7089783405,12.0%,Italy
-2022,Health & populations,52.436839842000055,13.0%,Italy
-2020,Health & populations,52.226392956,12.0%,Italy
-2021,"Agriculture (incl. forestry, fishing, rural development)",49.679247800500015,10.0%,Italy
-2019,Government & civil society,47.28855128850002,11.0%,Italy
-2023,Health & populations,46.51270599750005,9.0%,Italy
-2019,Education,43.88150381000001,10.0%,Italy
-2019,Other multisector,43.064402554500006,10.0%,Italy
-2023,"Agriculture (incl. forestry, fishing, rural development)",42.855002524000014,8.0%,Italy
-2021,Government & civil society,40.39184368150002,8.0%,Italy
-2022,Government & civil society,40.15759770900003,10.0%,Italy
-2020,Government & civil society,38.00100680300004,9.0%,Italy
-2023,Government & civil society,35.68989809649998,7.0%,Italy
-2020,Other multisector,34.20228535750001,8.0%,Italy
-2023,Other social services,34.027505492,7.0%,Italy
-2020,Education,31.53717983849998,7.0%,Italy
-2022,"Agriculture (incl. forestry, fishing, rural development)",29.768099050499995,7.0%,Italy
-2021,Other multisector,29.719758328000005,6.0%,Italy
-2021,Other social services,26.132241319000002,5.0%,Italy
-2022,Education,23.925663866499978,6.0%,Italy
-2019,Other social services,22.02612045300001,5.0%,Italy
-2019,Unspecified,20.2336927515,5.0%,Italy
-2022,Other social services,20.220657954000004,5.0%,Italy
-2020,Reconstruction Relief & Rehabilitation,19.2154034415,4.0%,Italy
-2021,Trade policy,17.563359384,4.0%,Italy
-2019,"Industry, construction & mining",17.2067609695,4.0%,Italy
-2023,Other multisector,14.968160668000001,3.0%,Italy
-2022,Reconstruction Relief & Rehabilitation,14.209335083000001,4.0%,Italy
-2020,Other social services,13.017719932999999,3.0%,Italy
-2019,Reconstruction Relief & Rehabilitation,12.238241185500002,3.0%,Italy
-2023,"Industry, construction & mining",11.337607933000001,2.0%,Italy
-2023,Financial services & business support,11.1180886565,2.0%,Italy
-2023,Water and sanitation,11.07768132,2.0%,Italy
-2021,"Industry, construction & mining",10.0095404725,2.0%,Italy
-2022,"Industry, construction & mining",9.756219657000004,2.0%,Italy
-2020,Energy,9.4329641795,2.0%,Italy
-2023,Reconstruction Relief & Rehabilitation,8.6206461,2.0%,Italy
-2020,Unspecified,7.6947640215,2.0%,Italy
-2021,Reconstruction Relief & Rehabilitation,7.598063289500001,2.0%,Italy
-2020,Food aid and commodity assistance,7.1359296255,2.0%,Italy
-2021,Water and sanitation,7.041016155499999,1.0%,Italy
-2019,Water and sanitation,6.963603495000001,2.0%,Italy
-2019,Financial services & business support,6.691229266500001,2.0%,Italy
-2022,Disaster Prevention & Preparedness,6.4003791635,2.0%,Italy
-2021,Financial services & business support,6.2049868525,1.0%,Italy
-2019,Environmental protection,5.8441549415,1.0%,Italy
-2020,"Conflict, peace & security",5.812069945500001,1.0%,Italy
-2019,"Conflict, peace & security",5.1597257445,1.0%,Italy
-2023,Unspecified,5.106695066500001,1.0%,Italy
-2023,Environmental protection,5.091245108,1.0%,Italy
-2023,Disaster Prevention & Preparedness,5.075779077,1.0%,Italy
-2019,Donor administration costs,4.1151075365,1.0%,Italy
-2020,Water and sanitation,4.036239779,1.0%,Italy
-2022,Other multisector,3.9419917105000004,1.0%,Italy
-2020,Financial services & business support,3.7306522650000007,1.0%,Italy
-2021,Environmental protection,3.6496693665000017,1.0%,Italy
-2022,Water and sanitation,3.439641437,1.0%,Italy
-2022,Environmental protection,3.2630185915000007,1.0%,Italy
-2022,Financial services & business support,3.2045221920000007,1.0%,Italy
-2023,Infrastructure,3.0605747389999998,1.0%,Italy
-2020,Environmental protection,2.8742526755,1.0%,Italy
-2021,"Conflict, peace & security",2.86028353,1.0%,Italy
-2019,Tourism,2.5385795845,1.0%,Italy
-2020,Disaster Prevention & Preparedness,2.3995481735000004,1.0%,Italy
-2022,"Conflict, peace & security",2.2318369935,1.0%,Italy
-2021,Energy,2.1528567285,0.0%,Italy
-2019,Energy,1.9097987400000005,0.0%,Italy
-2021,Disaster Prevention & Preparedness,1.7724410120000003,0.0%,Italy
-2022,Tourism,1.6602881785000003,0.0%,Italy
-2023,Energy,1.368817677,0.0%,Italy
-2020,Tourism,1.1989045645,0.0%,Italy
-2023,Tourism,1.1675064,0.0%,Italy
-2023,"Conflict, peace & security",1.1372054514999999,0.0%,Italy
-2021,Tourism,1.1323408415,0.0%,Italy
-2019,Infrastructure,0.6925179505000001,0.0%,Italy
-2021,Infrastructure,0.6062814875,0.0%,Italy
-2021,Food aid and commodity assistance,0.600530747,0.0%,Italy
-2019,Food aid and commodity assistance,0.5968565735,0.0%,Italy
-2022,Energy,0.511703397,0.0%,Italy
-2019,Trade policy,0.41981798600000003,0.0%,Italy
-2022,,0.385637136,0.0%,Italy
-2022,Infrastructure,0.259017981,0.0%,Italy
-2023,,0.20563692249999999,0.0%,Italy
-2023,Food aid and commodity assistance,0.2027503015,0.0%,Italy
-2023,Trade policy,0.1571601195,0.0%,Italy
-2021,Unspecified,0.11387902000000001,0.0%,Italy
-2020,Infrastructure,0.10106388000000001,0.0%,Italy
-2022,Trade policy,0.07006859950000001,0.0%,Italy
-2022,Unspecified,0.0431375185,0.0%,Italy
-2021,,0.04048448450000001,0.0%,Italy
-2021,Refugees in donor countries,0.017405446000000005,0.0%,Italy
-2020,,0.016807549,0.0%,Italy
-2020,Refugees in donor countries,0.013299458,0.0%,Italy
-2020,Donor administration costs,0.010706427999999999,0.0%,Italy
-2019,Disaster Prevention & Preparedness,0.010304615500000001,0.0%,Italy
-2020,Trade policy,0.006483646500000001,0.0%,Italy
-2019,,0.005959683,0.0%,Italy
+"Year","Sector","Gender-related ODA to","Share","Donor"
+"2018","Humanitarian aid",111.31,"24%","Italy"
+"2019","Humanitarian aid",65.75,"16%","Italy"
+"2020","Humanitarian aid",79.05,"18%","Italy"
+"2021","Humanitarian aid",128.32,"26%","Italy"
+"2022","Humanitarian aid",208.87,"51%","Italy"
+"2018","Health & populations",49.35,"11%","Italy"
+"2019","Health & populations",65.65,"16%","Italy"
+"2020","Health & populations",52.84,"12%","Italy"
+"2021","Health & populations",67.85,"14%","Italy"
+"2022","Health & populations",53.31,"13%","Italy"
+"2018","Government & civil society",58.44,"13%","Italy"
+"2019","Government & civil society",47.84,"11%","Italy"
+"2020","Government & civil society",38.45,"9%","Italy"
+"2021","Government & civil society",41.17,"8%","Italy"
+"2022","Government & civil society",40.83,"10%","Italy"
+"2018","Education",52.34,"11%","Italy"
+"2019","Education",43.97,"10%","Italy"
+"2020","Education",31.67,"7%","Italy"
+"2021","Education",87.82,"18%","Italy"
+"2022","Education",24,"6%","Italy"
+"2018","Agriculture (incl. forestry, fishing, rural development)",76.96,"17%","Italy"
+"2019","Agriculture (incl. forestry, fishing, rural development)",53.33,"13%","Italy"
+"2020","Agriculture (incl. forestry, fishing, rural development)",68.9,"16%","Italy"
+"2021","Agriculture (incl. forestry, fishing, rural development)",42.36,"9%","Italy"
+"2022","Agriculture (incl. forestry, fishing, rural development)",23.97,"6%","Italy"
+"2018","Other social services",21.12,"5%","Italy"
+"2019","Other social services",22.29,"5%","Italy"
+"2020","Other social services",13.17,"3%","Italy"
+"2021","Other social services",26.63,"5%","Italy"
+"2022","Other social services",20.56,"5%","Italy"
+"2018","Other multisector",40.36,"9%","Italy"
+"2019","Other multisector",55.71,"13%","Italy"
+"2020","Other multisector",39.16,"9%","Italy"
+"2021","Other multisector",38.56,"8%","Italy"
+"2022","Other multisector",10.25,"3%","Italy"
+"2018","Industry, construction & mining",5.03,"1%","Italy"
+"2019","Industry, construction & mining",17.42,"4%","Italy"
+"2020","Industry, construction & mining",68.01,"16%","Italy"
+"2021","Industry, construction & mining",10.2,"2%","Italy"
+"2022","Industry, construction & mining",9.92,"2%","Italy"
+"2018","Water and sanitation",7.42,"2%","Italy"
+"2019","Water and sanitation",7.05,"2%","Italy"
+"2020","Water and sanitation",4.08,"1%","Italy"
+"2021","Water and sanitation",7.18,"1%","Italy"
+"2022","Water and sanitation",3.5,"1%","Italy"
+"2018","Environmental protection",6.39,"1%","Italy"
+"2019","Environmental protection",5.92,"1%","Italy"
+"2020","Environmental protection",2.91,"1%","Italy"
+"2021","Environmental protection",3.72,"1%","Italy"
+"2022","Environmental protection",3.32,"1%","Italy"
+"2018","Financial services & business support",6.12,"1%","Italy"
+"2019","Financial services & business support",6.77,"2%","Italy"
+"2020","Financial services & business support",3.77,"1%","Italy"
+"2021","Financial services & business support",6.32,"1%","Italy"
+"2022","Financial services & business support",3.26,"1%","Italy"
+"2018","Conflict, peace & security",3.28,"1%","Italy"
+"2019","Conflict, peace & security",5.22,"1%","Italy"
+"2020","Conflict, peace & security",5.88,"1%","Italy"
+"2021","Conflict, peace & security",2.92,"1%","Italy"
+"2022","Conflict, peace & security",2.27,"1%","Italy"
+"2018","Tourism",3.61,"1%","Italy"
+"2019","Tourism",2.57,"1%","Italy"
+"2020","Tourism",1.21,"0%","Italy"
+"2021","Tourism",1.15,"0%","Italy"
+"2022","Tourism",1.69,"0%","Italy"
+"2018","Energy",7.06,"2%","Italy"
+"2019","Energy",1.93,"0%","Italy"
+"2020","Energy",9.55,"2%","Italy"
+"2021","Energy",2.22,"0%","Italy"
+"2022","Energy",0.91,"0%","Italy"
+"2018","Infrastructure",1,"0%","Italy"
+"2019","Infrastructure",0.7,"0%","Italy"
+"2020","Infrastructure",0.1,"0%","Italy"
+"2021","Infrastructure",0.62,"0%","Italy"
+"2022","Infrastructure",0.26,"0%","Italy"
+"2018","Trade policy",0.02,"0%","Italy"
+"2019","Trade policy",0.42,"0%","Italy"
+"2020","Trade policy",0.01,"0%","Italy"
+"2021","Trade policy",17.9,"4%","Italy"
+"2022","Trade policy",0.07,"0%","Italy"
+"2018","Unspecified",8.14,"2%","Italy"
+"2019","Unspecified",17.41,"4%","Italy"
+"2020","Unspecified",7.62,"2%","Italy"
+"2021","Unspecified",0,"0%","Italy"
+"2022","Unspecified",0.02,"0%","Italy"
+"2018","Donor administration costs",0,"0%","Italy"
+"2019","Donor administration costs",0.05,"0%","Italy"
+"2020","Donor administration costs",0.01,"0%","Italy"
+"2021","Donor administration costs",0,"0%","Italy"
+"2022","Donor administration costs",0,"0%","Italy"
+"2018","Food aid and commodity assistance",3.77,"1%","Italy"
+"2019","Food aid and commodity assistance",0.6,"0%","Italy"
+"2020","Food aid and commodity assistance",7.22,"2%","Italy"
+"2021","Food aid and commodity assistance",0.61,"0%","Italy"
+"2022","Food aid and commodity assistance",0,"0%","Italy"
+"2018","Refugees in donor countries",0,"0%","Italy"
+"2019","Refugees in donor countries",0,"0%","Italy"
+"2020","Refugees in donor countries",0.01,"0%","Italy"
+"2021","Refugees in donor countries",0.02,"0%","Italy"
+"2022","Refugees in donor countries",0,"0%","Italy"

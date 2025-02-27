@@ -1,90 +1,86 @@
-year,Sector,Gender-related ODA to,Share,donor
-2023,Government & civil society,218.80534849249995,25.0%,Denmark
-2019,Government & civil society,183.98176332200003,24.0%,Denmark
-2020,Government & civil society,176.79715771899996,25.0%,Denmark
-2023,Emergency Response,153.77523362599993,17.0%,Denmark
-2021,Government & civil society,151.75935357449995,24.0%,Denmark
-2023,Unspecified,147.88805176249994,17.0%,Denmark
-2022,Government & civil society,114.65510597450002,22.0%,Denmark
-2020,Education,111.91747009800001,16.0%,Denmark
-2023,"Agriculture (incl. forestry, fishing, rural development)",93.55308474399999,10.0%,Denmark
-2019,Education,93.3850189615,12.0%,Denmark
-2019,Health & populations,89.675544,12.0%,Denmark
-2021,Health & populations,80.757783722,13.0%,Denmark
-2019,Financial services & business support,72.8308696255,10.0%,Denmark
-2019,"Conflict, peace & security",66.27208716450002,9.0%,Denmark
-2020,Health & populations,66.123417906,9.0%,Denmark
-2021,Water and sanitation,64.021114283,10.0%,Denmark
-2022,Health & populations,63.70131844300003,12.0%,Denmark
-2022,Education,62.976354140000005,12.0%,Denmark
-2021,"Conflict, peace & security",59.793548010000016,9.0%,Denmark
-2020,Energy,57.807953279999985,8.0%,Denmark
-2021,Education,55.738988697,9.0%,Denmark
-2019,"Agriculture (incl. forestry, fishing, rural development)",55.71549357500001,7.0%,Denmark
-2019,Unspecified,54.715296076,7.0%,Denmark
-2023,Education,54.319980634500006,6.0%,Denmark
-2021,Emergency Response,54.241011818000004,8.0%,Denmark
-2021,"Agriculture (incl. forestry, fishing, rural development)",49.8489685645,8.0%,Denmark
-2020,"Conflict, peace & security",46.26325669700001,7.0%,Denmark
-2023,"Conflict, peace & security",45.624114123,5.0%,Denmark
-2022,Environmental protection,45.126322605,9.0%,Denmark
-2020,Unspecified,43.050008463000005,6.0%,Denmark
-2022,Emergency Response,42.913710861000006,8.0%,Denmark
-2020,"Agriculture (incl. forestry, fishing, rural development)",41.234541964,6.0%,Denmark
-2019,Water and sanitation,39.966762255000006,5.0%,Denmark
-2023,Health & populations,38.490010692000006,4.0%,Denmark
-2021,Energy,38.272657549,6.0%,Denmark
-2020,Emergency Response,35.865133801000006,5.0%,Denmark
-2022,"Agriculture (incl. forestry, fishing, rural development)",35.6458669,7.0%,Denmark
-2022,"Conflict, peace & security",34.84628727650001,7.0%,Denmark
-2021,Environmental protection,33.569613448,5.0%,Denmark
-2020,Environmental protection,31.99962484950001,5.0%,Denmark
-2019,Environmental protection,31.893449717499998,4.0%,Denmark
-2023,Water and sanitation,31.095223481,3.0%,Denmark
-2022,Unspecified,27.721982246000007,5.0%,Denmark
-2020,Water and sanitation,27.281784526500005,4.0%,Denmark
-2022,Water and sanitation,25.735612707,5.0%,Denmark
-2022,Financial services & business support,25.458474856500004,5.0%,Denmark
-2023,Environmental protection,24.348991863,3.0%,Denmark
-2022,Energy,23.8752265045,5.0%,Denmark
-2020,Financial services & business support,23.527286688499995,3.0%,Denmark
-2021,Other social services,21.727035172500003,3.0%,Denmark
-2023,Other social services,21.3782254665,2.0%,Denmark
-2019,Food aid and commodity assistance,20.296433297,3.0%,Denmark
-2023,Financial services & business support,20.2868108975,2.0%,Denmark
-2019,Other social services,17.9496228135,2.0%,Denmark
-2020,Food aid and commodity assistance,15.5496873385,2.0%,Denmark
-2019,Other multisector,15.1800265715,2.0%,Denmark
-2023,Other multisector,14.758422245000002,2.0%,Denmark
-2021,Financial services & business support,13.077379038500002,2.0%,Denmark
-2022,Other social services,10.580868578,2.0%,Denmark
-2023,Food aid and commodity assistance,10.082467125500001,1.0%,Denmark
-2019,Energy,8.675682028999999,1.0%,Denmark
-2023,"Industry, construction & mining",8.117714353,1.0%,Denmark
-2020,Reconstruction Relief & Rehabilitation,7.9451888670000015,1.0%,Denmark
-2021,Unspecified,7.77562303,1.0%,Denmark
-2022,Other multisector,6.353000878,1.0%,Denmark
-2019,"Industry, construction & mining",6.344923039,1.0%,Denmark
-2020,Other multisector,6.268365638500001,1.0%,Denmark
-2020,"Industry, construction & mining",6.0547853905,1.0%,Denmark
-2020,Other social services,5.480460748,1.0%,Denmark
-2021,"Industry, construction & mining",4.6664025135,1.0%,Denmark
-2023,Reconstruction Relief & Rehabilitation,3.033826341,0.0%,Denmark
-2023,Energy,3.026755956,0.0%,Denmark
-2019,Trade policy,2.28975278,0.0%,Denmark
-2021,Other multisector,2.141938239,0.0%,Denmark
-2022,Trade policy,1.8146218965000003,0.0%,Denmark
-2022,"Industry, construction & mining",1.7221323595,0.0%,Denmark
-2019,Emergency Response,1.5752696400000001,0.0%,Denmark
-2023,Infrastructure,1.4070794430000002,0.0%,Denmark
-2023,Trade policy,1.044207864,0.0%,Denmark
-2020,General budget support,1.0149219045000002,0.0%,Denmark
-2021,Trade policy,0.9494009805000001,0.0%,Denmark
-2020,Trade policy,0.6749243865000001,0.0%,Denmark
-2019,Infrastructure,0.47835959150000007,0.0%,Denmark
-2021,Infrastructure,0.259154392,0.0%,Denmark
-2019,General budget support,0.192484404,0.0%,Denmark
-2021,General budget support,0.0694040725,0.0%,Denmark
-2020,Infrastructure,0.0491497965,0.0%,Denmark
-2022,General budget support,0.0,0.0%,Denmark
-2021,Reconstruction Relief & Rehabilitation,0.0,0.0%,Denmark
+"Year","Sector","Gender-related ODA to","Share","Donor"
+"2018","Government & civil society",144.3,"20%","Denmark"
+"2019","Government & civil society",188.61,"24%","Denmark"
+"2020","Government & civil society",181.84,"25%","Denmark"
+"2021","Government & civil society",156.22,"24%","Denmark"
+"2022","Government & civil society",117.71,"22%","Denmark"
+"2018","Health & populations",103.97,"15%","Denmark"
+"2019","Health & populations",91.93,"12%","Denmark"
+"2020","Health & populations",68.01,"9%","Denmark"
+"2021","Health & populations",83.13,"13%","Denmark"
+"2022","Health & populations",65.4,"12%","Denmark"
+"2018","Education",123.11,"17%","Denmark"
+"2019","Education",95.74,"12%","Denmark"
+"2020","Education",115.11,"16%","Denmark"
+"2021","Education",57.38,"9%","Denmark"
+"2022","Education",64.66,"12%","Denmark"
+"2018","Environmental protection",35.26,"5%","Denmark"
+"2019","Environmental protection",32.7,"4%","Denmark"
+"2020","Environmental protection",32.91,"5%","Denmark"
+"2021","Environmental protection",34.56,"5%","Denmark"
+"2022","Environmental protection",46.33,"9%","Denmark"
+"2018","Humanitarian aid",10.17,"1%","Denmark"
+"2019","Humanitarian aid",1.61,"0%","Denmark"
+"2020","Humanitarian aid",45.06,"6%","Denmark"
+"2021","Humanitarian aid",55.84,"8%","Denmark"
+"2022","Humanitarian aid",44.06,"8%","Denmark"
+"2018","Conflict, peace & security",47.93,"7%","Denmark"
+"2019","Conflict, peace & security",67.94,"9%","Denmark"
+"2020","Conflict, peace & security",47.58,"7%","Denmark"
+"2021","Conflict, peace & security",61.55,"9%","Denmark"
+"2022","Conflict, peace & security",35.78,"7%","Denmark"
+"2018","Unspecified",0.48,"0%","Denmark"
+"2019","Unspecified",52.98,"7%","Denmark"
+"2020","Unspecified",44.28,"6%","Denmark"
+"2021","Unspecified",8,"1%","Denmark"
+"2022","Unspecified",28.46,"5%","Denmark"
+"2018","Other multisector",16.8,"2%","Denmark"
+"2019","Other multisector",26.5,"3%","Denmark"
+"2020","Other multisector",19.46,"3%","Denmark"
+"2021","Other multisector",15.51,"2%","Denmark"
+"2022","Other multisector",26.49,"5%","Denmark"
+"2018","Water and sanitation",31.49,"4%","Denmark"
+"2019","Water and sanitation",40.97,"5%","Denmark"
+"2020","Water and sanitation",28.06,"4%","Denmark"
+"2021","Water and sanitation",65.9,"10%","Denmark"
+"2022","Water and sanitation",26.42,"5%","Denmark"
+"2018","Financial services & business support",57.95,"8%","Denmark"
+"2019","Financial services & business support",74.66,"10%","Denmark"
+"2020","Financial services & business support",24.2,"3%","Denmark"
+"2021","Financial services & business support",13.46,"2%","Denmark"
+"2022","Financial services & business support",26.14,"5%","Denmark"
+"2018","Energy",8.66,"1%","Denmark"
+"2019","Energy",8.89,"1%","Denmark"
+"2020","Energy",59.46,"8%","Denmark"
+"2021","Energy",39.4,"6%","Denmark"
+"2022","Energy",24.51,"5%","Denmark"
+"2018","Agriculture (incl. forestry, fishing, rural development)",97.14,"14%","Denmark"
+"2019","Agriculture (incl. forestry, fishing, rural development)",46.18,"6%","Denmark"
+"2020","Agriculture (incl. forestry, fishing, rural development)",29.39,"4%","Denmark"
+"2021","Agriculture (incl. forestry, fishing, rural development)",38.01,"6%","Denmark"
+"2022","Agriculture (incl. forestry, fishing, rural development)",16.62,"3%","Denmark"
+"2018","Other social services",2.83,"0%","Denmark"
+"2019","Other social services",18.4,"2%","Denmark"
+"2020","Other social services",5.64,"1%","Denmark"
+"2021","Other social services",22.37,"3%","Denmark"
+"2022","Other social services",10.86,"2%","Denmark"
+"2018","Trade policy",3.08,"0%","Denmark"
+"2019","Trade policy",2.35,"0%","Denmark"
+"2020","Trade policy",0.69,"0%","Denmark"
+"2021","Trade policy",0.98,"0%","Denmark"
+"2022","Trade policy",1.86,"0%","Denmark"
+"2018","Industry, construction & mining",10.89,"2%","Denmark"
+"2019","Industry, construction & mining",6.5,"1%","Denmark"
+"2020","Industry, construction & mining",6.23,"1%","Denmark"
+"2021","Industry, construction & mining",4.8,"1%","Denmark"
+"2022","Industry, construction & mining",1.77,"0%","Denmark"
+"2018","Food aid and commodity assistance",22.03,"3%","Denmark"
+"2019","Food aid and commodity assistance",20.81,"3%","Denmark"
+"2020","Food aid and commodity assistance",15.99,"2%","Denmark"
+"2021","Food aid and commodity assistance",0,"0%","Denmark"
+"2022","Food aid and commodity assistance",0,"0%","Denmark"
+"2018","Infrastructure",0.31,"0%","Denmark"
+"2019","Infrastructure",0.49,"0%","Denmark"
+"2020","Infrastructure",0.05,"0%","Denmark"
+"2021","Infrastructure",0.27,"0%","Denmark"
+"2022","Infrastructure",0,"0%","Denmark"

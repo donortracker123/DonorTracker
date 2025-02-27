@@ -1,6 +1,6 @@
-donor,Year,Climate Funding as % of bilateral allocable ODA,Funding for projects with climate change as a principal objective,Funding for projects with a significant climate change component,Principal,Significant,Not targeted and not screened
-Netherlands,2019,40.17958667533365,313.29807810801015,889.9492433852839,10.461845257992046,29.717741417341614,59.82041332466634
-Netherlands,2020,42.967199966715285,550.0672345052554,1020.019257883291,15.0532145679249,27.913985398790377,57.03280003328472
-Netherlands,2021,41.72358865418621,254.5174873142443,702.2734731786879,11.09895827247945,30.624630381706766,58.276411345813784
-Netherlands,2022,66.805363845915,307.90772834360274,1311.8743611815876,12.699169817955713,54.10619402795928,33.194636154085
-Netherlands,2023,77.31913209028093,562.8159586806814,1555.5044989126495,20.542898169991552,56.77623392028938,22.68086790971907
+"Year","Climate funding as a % of bilateral allocable ODA","Funding for projects with climate change as a principal objective","Funding for projects with a significant climate change component","Principal","Significant","Not targeted and not screened"
+"2018","32%",216,738,"7%","25%","68%"
+"2019","35%",367,1042,"9%","26%","65%"
+"2020","41%",644,1194,"14%","26%","59%"
+"2021","39%",299,826,"10%","29%","61%"
+"2022","49%",361,1539,"9%","40%","51%"

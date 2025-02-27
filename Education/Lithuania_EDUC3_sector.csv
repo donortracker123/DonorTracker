@@ -1,33 +1,37 @@
-donor,year,Sector,Bilateral ODA for,share
-Lithuania,2023,Education facilities and training,10.444784906,63.04761260499159
-Lithuania,2023,Higher education,5.979266890000003,36.092509892283
-Lithuania,2023,Vocational training,0.10703980400000002,0.6461218834702378
-Lithuania,2023,Teacher training,0.035411832,0.21375561925516637
-Lithuania,2022,Higher education,6.610528358000008,93.42803382464797
-Lithuania,2022,Education facilities and training,0.175693396,2.4831129457890224
-Lithuania,2022,Advanced technical and managerial training,0.15649137800000001,2.2117266525838195
-Lithuania,2022,Teacher training,0.072541452,1.0252441051770267
-Lithuania,2022,Education policy and administrative management,0.06027519800000001,0.851882471802165
-Lithuania,2021,Higher education,4.057343959999999,63.392896926624395
-Lithuania,2021,Education policy and administrative management,1.932696424,30.19690378852859
-Lithuania,2021,Vocational training,0.268865014,4.200810256096067
-Lithuania,2021,Basic life skills for youth,0.069834432,1.0911096010961223
-Lithuania,2021,Teacher training,0.054650612,0.8538740239052701
-Lithuania,2021,Primary education,0.013306730000000001,0.20790748125786723
-Lithuania,2021,Education facilities and training,0.0036160440000000005,0.056497922491673264
-Lithuania,2020,Higher education,2.947431226,64.41533507278655
-Lithuania,2020,Education facilities and training,1.3967476820000002,30.52555362598575
-Lithuania,2020,Basic life skills for youth,0.10159122999999999,2.220249640833019
-Lithuania,2020,Teacher training,0.101425244,2.2166220604121176
-Lithuania,2020,Education policy and administrative management,0.020328272,0.4442690437624973
-Lithuania,2020,Vocational training,0.00814334,0.177970556220071
-Lithuania,2019,Higher education,2.6424659280000005,56.39999942935484
-Lithuania,2019,Education policy and administrative management,1.0230296460000001,21.8352376237765
-Lithuania,2019,Teacher training,0.33744953800000005,7.202421627831886
-Lithuania,2019,Upper Secondary Education (modified and includes data from 11322),0.22046505600000002,4.705539965846888
-Lithuania,2019,Education facilities and training,0.20735104799999998,4.425638516265526
-Lithuania,2019,Basic life skills for youth,0.154213248,3.2914812664327964
-Lithuania,2019,Vocational training,0.0500743,1.0687708255761257
-Lithuania,2019,Basic life skills for adults,0.026446360000000002,0.5644631679461006
-Lithuania,2019,Educational research,0.0163201,0.34833131467608985
-Lithuania,2019,Early childhood education,0.007408099999999999,0.15811626229324213
+"Year","Sector","Bilateral ODA for","Share","Donor"
+2018,"Education policy and administrative management",0.036197,"1%","Lithuania"
+2019,"Education policy and administrative management",0.88521,"22%","Lithuania"
+2020,"Education policy and administrative management",0.017609,"0%","Lithuania"
+2021,"Education policy and administrative management",1.67473,"30%","Lithuania"
+2022,"Education policy and administrative management",0.05254,"1%","Lithuania"
+2018,"Education facilities and training",0.904001,"27%","Lithuania"
+2019,"Education facilities and training",0.179417,"4%","Lithuania"
+2020,"Education facilities and training",1.209871,"31%","Lithuania"
+2021,"Education facilities and training",0.003134,"0%","Lithuania"
+2022,"Education facilities and training",0.153146,"2%","Lithuania"
+2018,"Teacher training",0.446824,"13%","Lithuania"
+2019,"Teacher training",0.29199,"7%","Lithuania"
+2020,"Teacher training",0.087853,"2%","Lithuania"
+2021,"Teacher training",0.047356,"1%","Lithuania"
+2022,"Teacher training",0.063231,"1%","Lithuania"
+2018,"Educational research",0.00395,"0%","Lithuania"
+2019,"Educational research",0.014121,"0%","Lithuania"
+2021,"Primary education",0.01153,"0%","Lithuania"
+2018,"Basic life skills for adults",0.009217,"0%","Lithuania"
+2019,"Basic life skills for adults",0.022884,"1%","Lithuania"
+2018,"Basic life skills for youth",0.07657,"2%","Lithuania"
+2019,"Basic life skills for youth",0.133439,"3%","Lithuania"
+2020,"Basic life skills for youth",0.088,"2%","Lithuania"
+2021,"Basic life skills for youth",0.060514,"1%","Lithuania"
+2019,"Early childhood education",0.00641,"0%","Lithuania"
+2018,"Upper Secondary Education (modified and includes data from 11322)",0.144059,"4%","Lithuania"
+2019,"Upper Secondary Education (modified and includes data from 11322)",0.190764,"5%","Lithuania"
+2019,"Vocational training",0.043328,"1%","Lithuania"
+2020,"Vocational training",0.007054,"0%","Lithuania"
+2021,"Vocational training",0.232978,"4%","Lithuania"
+2018,"Higher education",1.722623,"52%","Lithuania"
+2019,"Higher education",2.28649,"56%","Lithuania"
+2020,"Higher education",2.553087,"64%","Lithuania"
+2021,"Higher education",3.515783,"63%","Lithuania"
+2022,"Higher education",5.762184,"93%","Lithuania"
+2022,"Advanced technical and managerial training",0.136409,"2%","Lithuania"

@@ -1,66 +1,46 @@
-donor,year,Region,share,Bilateral ODA
-Norway,2023,Regional and Unspecified,38.4%,164994.24822095985
-Norway,2023,South of Sahara,20.7%,88743.5747660401
-Norway,2023,Europe,20.2%,86661.79843987999
-Norway,2023,Middle East,8.3%,35631.18238012
-Norway,2023,South & Central Asia,4.8%,20441.46462136
-Norway,2023,South America,2.5%,10715.176994919997
-Norway,2023,Far East Asia,2.1%,8923.910351639997
-Norway,2023,Africa,1.7%,7300.717152080001
-Norway,2023,Caribbean & Central America,0.6%,2677.2498794800003
-Norway,2023,Asia,0.3%,1441.2560110800002
-Norway,2023,North of Sahara,0.3%,1427.0294601600008
-Norway,2023,America,0.1%,302.56399555999997
-Norway,2023,Oceania,0.1%,230.79152616000005
-Norway,2022,Regional and Unspecified,47.0%,159105.52731336016
-Norway,2022,South of Sahara,18.2%,61510.06915495984
-Norway,2022,Europe,14.9%,50373.42522043999
-Norway,2022,Middle East,6.9%,23373.271472879995
-Norway,2022,South & Central Asia,4.8%,16339.973009360005
-Norway,2022,South America,3.1%,10584.635429640004
-Norway,2022,Far East Asia,2.6%,8852.03490376
-Norway,2022,Africa,1.2%,4112.066368639999
-Norway,2022,Caribbean & Central America,0.5%,1856.9844871999996
-Norway,2022,Asia,0.4%,1244.8086292
-Norway,2022,North of Sahara,0.3%,1065.0272549600002
-Norway,2022,Oceania,0.1%,197.07551775999997
-Norway,2022,America,0.1%,184.32745532
-Norway,2021,Regional and Unspecified,52.4%,173005.8881495596
-Norway,2021,South of Sahara,22.0%,72474.47361603998
-Norway,2021,Middle East,9.4%,31174.31162304
-Norway,2021,South & Central Asia,6.1%,20119.432848000004
-Norway,2021,South America,3.7%,12193.315725840004
-Norway,2021,Europe,1.7%,5713.935385680003
-Norway,2021,Far East Asia,1.6%,5209.1039996
-Norway,2021,Africa,1.4%,4689.981844760001
-Norway,2021,Caribbean & Central America,0.6%,1964.5606196400004
-Norway,2021,Asia,0.6%,1896.10341676
-Norway,2021,North of Sahara,0.3%,1011.46374588
-Norway,2021,America,0.1%,310.87002296000003
-Norway,2021,Oceania,0.0%,130.83218796
-Norway,2020,Regional and Unspecified,49.3%,186569.89696256028
-Norway,2020,South of Sahara,22.7%,86001.8670919201
-Norway,2020,Middle East,10.3%,39013.30615904002
-Norway,2020,South & Central Asia,6.3%,23825.835203479994
-Norway,2020,South America,3.2%,11950.009440159993
-Norway,2020,Far East Asia,2.8%,10783.431689880004
-Norway,2020,Europe,2.3%,8536.86647364
-Norway,2020,Africa,1.4%,5166.166407920001
-Norway,2020,Asia,0.6%,2357.4610496799996
-Norway,2020,Caribbean & Central America,0.6%,2356.53596788
-Norway,2020,North of Sahara,0.4%,1558.0703150400002
-Norway,2020,America,0.1%,356.85246000000006
-Norway,2020,Oceania,0.1%,295.18740232000005
-Norway,2019,Regional and Unspecified,46.3%,170056.71168624004
-Norway,2019,South of Sahara,21.9%,80323.44540356011
-Norway,2019,Middle East,12.0%,43941.99934700005
-Norway,2019,South & Central Asia,6.0%,22057.195987120034
-Norway,2019,South America,5.2%,19273.02225436
-Norway,2019,Europe,2.4%,8710.806488039998
-Norway,2019,Far East Asia,2.3%,8529.10358791999
-Norway,2019,Africa,1.9%,7069.006128279997
-Norway,2019,North of Sahara,0.7%,2425.2170298800006
-Norway,2019,Asia,0.6%,2312.9309869600006
-Norway,2019,Caribbean & Central America,0.5%,1995.1670721200007
-Norway,2019,America,0.1%,341.83492924000006
-Norway,2019,Oceania,0.1%,189.33923892
+"Year","Region","Bilateral ODA","Share","Donor"
+"2018","Developing countries, unspecified",1599.460669,"46%","Norway"
+"2019","Developing countries, unspecified",1786.061588,"46%","Norway"
+"2020","Developing countries, unspecified",1981.599029,"49%","Norway"
+"2021","Developing countries, unspecified",1840.539004,"52%","Norway"
+"2022","Developing countries, unspecified",1805.611901,"47%","Norway"
+"2018","sub-Saharan Africa",757.1353,"22%","Norway"
+"2019","sub-Saharan Africa",843.61632,"22%","Norway"
+"2020","sub-Saharan Africa",913.444372,"23%","Norway"
+"2021","sub-Saharan Africa",771.026348,"22%","Norway"
+"2022","sub-Saharan Africa",694.320178,"18%","Norway"
+"2018","Europe",79.820309,"2%","Norway"
+"2019","Europe",91.487347,"2%","Norway"
+"2020","Europe",90.671901,"2%","Norway"
+"2021","Europe",60.788216,"2%","Norway"
+"2022","Europe",568.610722,"15%","Norway"
+"2018","Asia",312.94799,"9%","Norway"
+"2019","Asia",321.239973,"8%","Norway"
+"2020","Asia",367.592476,"9%","Norway"
+"2021","Asia",269.459971,"8%","Norway"
+"2022","Asia",284.365122,"7%","Norway"
+"2018","MENA region",440.659114,"13%","Norway"
+"2019","MENA region",486.982868,"13%","Norway"
+"2020","MENA region",430.917333,"11%","Norway"
+"2021","MENA region",342.411319,"10%","Norway"
+"2022","MENA region",275.857334,"7%","Norway"
+"2018","Latin America and the Caribbeans",203.407989,"6%","Norway"
+"2019","Latin America and the Caribbeans",226.964482,"6%","Norway"
+"2020","Latin America and the Caribbeans",155.743099,"4%","Norway"
+"2021","Latin America and the Caribbeans",153.92709,"4%","Norway"
+"2022","Latin America and the Caribbeans",142.520576,"4%","Norway"
+"2018","Africa, regional",64.345076,"2%","Norway"
+"2019","Africa, regional",74.24394,"2%","Norway"
+"2020","Africa, regional",54.870965,"1%","Norway"
+"2021","Africa, regional",49.894803,"1%","Norway"
+"2022","Africa, regional",46.416632,"1%","Norway"
+"2018","Asia, regional",13.860009,"0%","Norway"
+"2019","Asia, regional",24.292109,"1%","Norway"
+"2020","Asia, regional",25.039105,"1%","Norway"
+"2021","Asia, regional",20.171872,"1%","Norway"
+"2022","Asia, regional",14.051293,"0%","Norway"
+"2018","Oceania",1.877706,"0%","Norway"
+"2019","Oceania",1.98858,"0%","Norway"
+"2020","Oceania",3.135249,"0%","Norway"
+"2021","Oceania",1.39187,"0%","Norway"
+"2022","Oceania",2.224571,"0%","Norway"

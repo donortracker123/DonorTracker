@@ -1,6 +1,6 @@
-donor,Year,Gender funding as % of bilateral allocable ODA,Funding for projects with gender equality as a principal objective,Funding for projects with gender equality as a significant objective,Principal,Significant,Not targeted or screened
-Switzerland,2019,61.09775859088545,74.06250744878963,898.5062886405952,4.6526818657319176,56.44507672515352,38.902241409114566
-Switzerland,2020,61.44017041143728,82.9472690875234,992.8858324022372,4.7370678043310654,56.70310260710621,38.55982958856272
-Switzerland,2021,70.45659701354128,79.16676070763485,1294.968565176912,4.059149379959921,66.39744763358135,29.54340298645873
-Switzerland,2022,62.59283607906803,85.98521135940405,1236.35480912477,4.070101605086835,58.52273447398119,37.40716392093198
-Switzerland,2023,87.56117162041933,79.19617318435743,1242.114029795163,5.248207193313751,82.31296442710558,12.43882837958067
+"Year","Gender funding as a % of bilateral allocable ODA","Funding for projects with gender equality as a principal objective","Funding for projects with gender equality as a Significant objective","Principal","Significant","Not targeted","Not screened"
+2018,"55%",92,1004,"5%","51%","44%","0%"
+2019,"52%",81,992,"4%","48%","48%","0%"
+2020,"49%",90,1095,"4%","46%","50%","0%"
+2021,"63%",87,1421,"4%","60%","37%","0%"
+2022,"63%",94,1365,"4%","59%","37%","0%"

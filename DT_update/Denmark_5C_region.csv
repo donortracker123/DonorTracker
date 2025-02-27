@@ -1,63 +1,46 @@
-donor,year,Region,share,Bilateral ODA
-Denmark,2023,Regional and Unspecified,47.5%,100868.38899305
-Denmark,2023,South of Sahara,23.9%,50907.45193030002
-Denmark,2023,Europe,12.2%,25884.22552380001
-Denmark,2023,Middle East,9.1%,19282.37592155001
-Denmark,2023,South & Central Asia,4.2%,8852.15165695
-Denmark,2023,Africa,1.6%,3434.18411
-Denmark,2023,Far East Asia,0.5%,1060.5598741500003
-Denmark,2023,North of Sahara,0.5%,1015.91307335
-Denmark,2023,South America,0.3%,568.23571595
-Denmark,2023,Asia,0.1%,257.91651829999995
-Denmark,2023,Caribbean & Central America,0.1%,245.3502492
-Denmark,2023,Oceania,0.1%,144.05044605
-Denmark,2023,America,0.0%,53.96544685
-Denmark,2022,Regional and Unspecified,50.9%,106091.0903087
-Denmark,2022,South of Sahara,21.5%,44866.44134909997
-Denmark,2022,Middle East,9.8%,20468.738984049993
-Denmark,2022,Europe,8.0%,16685.726354150003
-Denmark,2022,South & Central Asia,5.7%,11913.373261650002
-Denmark,2022,Africa,2.1%,4466.091931699999
-Denmark,2022,Far East Asia,0.8%,1759.8352128
-Denmark,2022,North of Sahara,0.5%,954.6226469500002
-Denmark,2022,South America,0.3%,583.0676439
-Denmark,2022,Caribbean & Central America,0.2%,353.80914590000003
-Denmark,2022,Asia,0.0%,95.41125475000001
-Denmark,2022,Oceania,0.0%,22.3927893
-Denmark,2022,America,0.0%,17.8181794
-Denmark,2021,Regional and Unspecified,43.0%,85861.91164670001
-Denmark,2021,South of Sahara,30.6%,61122.457418050115
-Denmark,2021,Middle East,10.7%,21305.916669449987
-Denmark,2021,South & Central Asia,8.3%,16615.617569600003
-Denmark,2021,Africa,3.3%,6556.406144050002
-Denmark,2021,Europe,2.4%,4762.642995949998
-Denmark,2021,Far East Asia,0.6%,1135.5334679500004
-Denmark,2021,North of Sahara,0.6%,1113.2747024
-Denmark,2021,Asia,0.3%,568.8484826499999
-Denmark,2021,South America,0.1%,291.13104265
-Denmark,2021,America,0.1%,139.8663763
-Denmark,2021,Caribbean & Central America,0.1%,104.25399005000001
-Denmark,2021,Oceania,0.0%,2.9138280500000002
-Denmark,2020,Regional and Unspecified,47.2%,84273.4692421999
-Denmark,2020,South of Sahara,29.8%,53262.867952350025
-Denmark,2020,Middle East,9.9%,17768.235070250004
-Denmark,2020,South & Central Asia,6.0%,10806.1611868
-Denmark,2020,Africa,3.8%,6739.501501599999
-Denmark,2020,Europe,1.9%,3308.1657756000004
-Denmark,2020,Far East Asia,0.5%,894.4483096499997
-Denmark,2020,North of Sahara,0.4%,670.70107055
-Denmark,2020,Asia,0.2%,375.97404425
-Denmark,2020,South America,0.2%,290.82091675
-Denmark,2020,Caribbean & Central America,0.1%,252.90686225
-Denmark,2020,Oceania,0.0%,3.6518184500000004
-Denmark,2019,Regional and Unspecified,50.6%,100337.6507959
-Denmark,2019,South of Sahara,24.0%,47668.140780399954
-Denmark,2019,Middle East,11.4%,22509.5667727
-Denmark,2019,South & Central Asia,7.7%,15328.665282699996
-Denmark,2019,Africa,3.5%,7024.1887835
-Denmark,2019,Europe,1.5%,2899.6331647500006
-Denmark,2019,Far East Asia,0.5%,1050.8969135000002
-Denmark,2019,North of Sahara,0.4%,777.36071105
-Denmark,2019,Caribbean & Central America,0.2%,411.7258152
-Denmark,2019,South America,0.1%,208.3920622
-Denmark,2019,Asia,0.0%,6.981979900000001
+"Year","Region","Bilateral ODA","Share","Donor"
+"2018","Developing countries, unspecified",1024.797703,"52%","Denmark"
+"2019","Developing countries, unspecified",1028.631292,"51%","Denmark"
+"2020","Developing countries, unspecified",866.780905,"47%","Denmark"
+"2021","Developing countries, unspecified",883.851738,"43%","Denmark"
+"2022","Developing countries, unspecified",1089.196181,"51%","Denmark"
+"2018","sub-Saharan Africa",405.115432,"20%","Denmark"
+"2019","sub-Saharan Africa",488.679381,"24%","Denmark"
+"2020","sub-Saharan Africa",547.826502,"30%","Denmark"
+"2021","sub-Saharan Africa",629.186898,"31%","Denmark"
+"2022","sub-Saharan Africa",460.626404,"22%","Denmark"
+"2018","MENA region",195.171303,"10%","Denmark"
+"2019","MENA region",238.730548,"12%","Denmark"
+"2020","MENA region",189.650656,"10%","Denmark"
+"2021","MENA region",230.780347,"11%","Denmark"
+"2022","MENA region",219.945373,"10%","Denmark"
+"2018","Europe",67.434715,"3%","Denmark"
+"2019","Europe",29.726165,"1%","Denmark"
+"2020","Europe",34.025596,"2%","Denmark"
+"2021","Europe",49.026046,"2%","Denmark"
+"2022","Europe",171.31136,"8%","Denmark"
+"2018","Asia",216.181115,"11%","Denmark"
+"2019","Asia",167.918317,"8%","Denmark"
+"2020","Asia",120.344709,"7%","Denmark"
+"2021","Asia",182.728117,"9%","Denmark"
+"2022","Asia",140.377538,"7%","Denmark"
+"2018","Africa, regional",39.607621,"2%","Denmark"
+"2019","Africa, regional",72.00986,"4%","Denmark"
+"2020","Africa, regional",69.318034,"4%","Denmark"
+"2021","Africa, regional",67.490822,"3%","Denmark"
+"2022","Africa, regional",45.851637,"2%","Denmark"
+"2018","Latin America and the Caribbeans",33.034583,"2%","Denmark"
+"2019","Latin America and the Caribbeans",6.357262,"0%","Denmark"
+"2020","Latin America and the Caribbeans",5.592421,"0%","Denmark"
+"2021","Latin America and the Caribbeans",5.509807,"0%","Denmark"
+"2022","Latin America and the Caribbeans",9.801483,"0%","Denmark"
+"2018","Asia, regional",0.83359,"0%","Denmark"
+"2019","Asia, regional",0.071577,"0%","Denmark"
+"2020","Asia, regional",3.867019,"0%","Denmark"
+"2021","Asia, regional",5.855655,"0%","Denmark"
+"2022","Asia, regional",0.979551,"0%","Denmark"
+"2018","Oceania",0,"0%","Denmark"
+"2019","Oceania",0,"0%","Denmark"
+"2020","Oceania",0.03756,"0%","Denmark"
+"2021","Oceania",0.029994,"0%","Denmark"
+"2022","Oceania",0.229897,"0%","Denmark"
