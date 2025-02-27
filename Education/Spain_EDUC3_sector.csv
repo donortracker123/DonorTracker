@@ -1,69 +1,70 @@
-donor,year,Sector,Bilateral ODA for,share
-Spain,2023,Education facilities and training,26.093721090800006,29.186031327720126
-Spain,2023,Higher education,18.004999297299996,20.138732675112898
-Spain,2023,Vocational training,11.6736477006,13.057066346072219
-Spain,2023,Education policy and administrative management,11.463011976999999,12.821468640159202
-Spain,2023,Primary education,6.928148113199999,7.749187905063979
-Spain,2023,Basic life skills for adults,5.3724214770000005,6.009095482695341
-Spain,2023,Educational research,3.1739710416,3.550111459038899
-Spain,2023,Teacher training,2.2484583595000003,2.514918278274173
-Spain,2023,Advanced technical and managerial training,1.6135530779,1.8047717501331204
-Spain,2023,Basic life skills for youth,1.0334848048,1.1559608453180852
-Spain,2023,Early childhood education,0.8498158079,0.9505256343414363
-Spain,2023,Upper Secondary Education (modified and includes data from 11322),0.4798094521,0.5366706286005408
-Spain,2023,School feeding,0.2655551693,0.297025535892635
-Spain,2023,Primary education equivalent for adults,0.2042305701,0.22843349157734077
-Spain,2022,Education facilities and training,23.0095686327,31.131903472089615
-Spain,2022,Higher education,13.460734338599963,18.21234847041819
-Spain,2022,Primary education,9.1304589959,12.353494003024108
-Spain,2022,Vocational training,8.919336241999991,12.067845310512938
-Spain,2022,Education policy and administrative management,7.215269287900003,9.762245897857044
-Spain,2022,Basic life skills for adults,4.308752725300001,5.829734406168327
-Spain,2022,Teacher training,1.9774634196999998,2.6755043210240648
-Spain,2022,Upper Secondary Education (modified and includes data from 11322),1.4849369448,2.00911691851342
-Spain,2022,Early childhood education,1.1977778056000001,1.6205911384169627
-Spain,2022,School feeding,1.1488534967999997,1.5543966398014712
-Spain,2022,Basic life skills for youth,0.980970139,1.3272507696189155
-Spain,2022,Advanced technical and managerial training,0.5507043594,0.745101971800328
-Spain,2022,Educational research,0.4056919011,0.5489003860117866
-Spain,2022,Primary education equivalent for adults,0.11941353830000002,0.16156629474283404
-Spain,2021,Education facilities and training,19.6130279981,27.34460295820092
-Spain,2021,Vocational training,10.908990605000003,15.209381070448018
-Spain,2021,Primary education,9.9326879301,13.848213941397045
-Spain,2021,Education policy and administrative management,9.847796054000005,13.729857171266701
-Spain,2021,Higher education,9.43546361949997,13.154980782506938
-Spain,2021,Basic life skills for adults,3.9887174137999994,5.561094085186085
-Spain,2021,Upper Secondary Education (modified and includes data from 11322),2.4627777243000004,3.4336196864558084
-Spain,2021,Basic life skills for youth,1.4724813347,2.052942435234062
-Spain,2021,Teacher training,1.1819010517,1.6478136368207623
-Spain,2021,School feeding,0.9002738825,1.2551673241370656
-Spain,2021,Advanced technical and managerial training,0.8650840451,1.2061054387433434
-Spain,2021,Early childhood education,0.8396142044,1.1705952318840254
-Spain,2021,Primary education equivalent for adults,0.1427009626,0.19895455023202396
-Spain,2021,Educational research,0.13389102919999998,0.18667168748719276
-Spain,2020,Education facilities and training,19.0835143379,29.417035018670234
-Spain,2020,Higher education,10.420450402600007,16.063013812650457
-Spain,2020,Vocational training,7.5912794582,11.70187679817864
-Spain,2020,Education policy and administrative management,6.729892070700001,10.374057273218083
-Spain,2020,Primary education,6.229961433599999,9.603419496649346
-Spain,2020,Basic life skills for adults,4.121784071,6.353686444178653
-Spain,2020,Educational research,3.1108870589999995,4.795399418229032
-Spain,2020,Upper Secondary Education (modified and includes data from 11322),2.1649852710000004,3.337301840962728
-Spain,2020,Advanced technical and managerial training,1.9531650550000001,3.0107832238252517
-Spain,2020,Teacher training,1.8662122488999995,2.8767463951403296
-Spain,2020,Basic life skills for youth,0.560334326,0.8637494225772074
-Spain,2020,Early childhood education,0.5184529742999999,0.7991897629792195
-Spain,2020,School feeding,0.3779409363,0.5825919461828832
-Spain,2020,Primary education equivalent for adults,0.1434645914,0.22114914655795154
-Spain,2019,Education facilities and training,18.083249555300004,28.435722516714417
-Spain,2019,Higher education,13.893540485600026,21.847448425411375
-Spain,2019,Vocational training,10.534865643299996,16.56596704412273
-Spain,2019,Primary education,5.647384249399999,8.880453204503583
-Spain,2019,Education policy and administrative management,5.441169763000001,8.556183061780342
-Spain,2019,Upper Secondary Education (modified and includes data from 11322),2.8839656496000003,4.535006095501575
-Spain,2019,Early childhood education,2.3162325848999994,3.6422517350640997
-Spain,2019,Teacher training,1.8415494250000002,2.8958173855852776
-Spain,2019,Basic life skills for adults,1.8096592449999997,2.845670408034868
-Spain,2019,Advanced technical and managerial training,0.6671610055000001,1.0491037669062047
-Spain,2019,School feeding,0.2841566896,0.44683344948726494
-Spain,2019,Educational research,0.1904895905,0.2995429068882689
+"Year","Sector","Bilateral ODA for","Share","Donor"
+2018,"Education policy and administrative management",5.093544,"8%","Spain"
+2019,"Education policy and administrative management",5.402536,"9%","Spain"
+2020,"Education policy and administrative management",6.676304,"10%","Spain"
+2021,"Education policy and administrative management",9.803305,"14%","Spain"
+2022,"Education policy and administrative management",7.261496,"10%","Spain"
+2018,"Education facilities and training",21.489915,"33%","Spain"
+2019,"Education facilities and training",17.954832,"28%","Spain"
+2020,"Education facilities and training",18.931548,"29%","Spain"
+2021,"Education facilities and training",19.524436,"27%","Spain"
+2022,"Education facilities and training",23.156985,"31%","Spain"
+2018,"Teacher training",1.839772,"3%","Spain"
+2019,"Teacher training",1.828471,"3%","Spain"
+2020,"Teacher training",1.851351,"3%","Spain"
+2021,"Teacher training",1.176564,"2%","Spain"
+2022,"Teacher training",1.990132,"3%","Spain"
+2018,"Educational research",0.423618,"1%","Spain"
+2019,"Educational research",0.189137,"0%","Spain"
+2020,"Educational research",3.086115,"5%","Spain"
+2021,"Educational research",0.133287,"0%","Spain"
+2022,"Educational research",0.408289,"1%","Spain"
+2018,"Primary education",7.012436,"11%","Spain"
+2019,"Primary education",5.607273,"9%","Spain"
+2020,"Primary education",6.180358,"10%","Spain"
+2021,"Primary education",9.887815,"14%","Spain"
+2022,"Primary education",9.188955,"12%","Spain"
+2018,"Basic life skills for adults",1.983755,"3%","Spain"
+2019,"Basic life skills for adults",1.796807,"3%","Spain"
+2020,"Basic life skills for adults",4.088966,"6%","Spain"
+2021,"Basic life skills for adults",3.9707,"6%","Spain"
+2022,"Basic life skills for adults",4.336355,"6%","Spain"
+2020,"Basic life skills for youth",0.555872,"1%","Spain"
+2021,"Basic life skills for youth",1.465829,"2%","Spain"
+2022,"Basic life skills for youth",0.987258,"1%","Spain"
+2020,"Primary education equivalent for adults",0.142323,"0%","Spain"
+2021,"Primary education equivalent for adults",0.142055,"0%","Spain"
+2022,"Primary education equivalent for adults",0.120179,"0%","Spain"
+2018,"Early childhood education",1.036654,"2%","Spain"
+2019,"Early childhood education",2.299785,"4%","Spain"
+2020,"Early childhood education",0.514323,"1%","Spain"
+2021,"Early childhood education",0.835825,"1%","Spain"
+2022,"Early childhood education",1.205454,"2%","Spain"
+2018,"Upper Secondary Education (modified and includes data from 11322)",2.446285,"4%","Spain"
+2019,"Upper Secondary Education (modified and includes data from 11322)",2.863483,"5%","Spain"
+2020,"Upper Secondary Education (modified and includes data from 11322)",2.147745,"3%","Spain"
+2021,"Upper Secondary Education (modified and includes data from 11322)",2.451651,"3%","Spain"
+2022,"Upper Secondary Education (modified and includes data from 11322)",1.494451,"2%","Spain"
+2018,"Vocational training",8.632851,"13%","Spain"
+2019,"Vocational training",10.46005,"17%","Spain"
+2020,"Vocational training",7.530836,"12%","Spain"
+2021,"Vocational training",10.859713,"15%","Spain"
+2022,"Vocational training",8.976472,"12%","Spain"
+2018,"School feeding",0.166603,"0%","Spain"
+2019,"School feeding",0.282138,"0%","Spain"
+2020,"School feeding",0.37493,"1%","Spain"
+2021,"School feeding",0.896208,"1%","Spain"
+2022,"School feeding",1.156212,"2%","Spain"
+2020,"Lower secondary education",0.158738,"0%","Spain"
+2021,"Lower secondary education",0.264817,"0%","Spain"
+2022,"Lower secondary education",0.428509,"1%","Spain"
+2018,"Higher education",13.246133,"21%","Spain"
+2019,"Higher education",13.794895,"22%","Spain"
+2020,"Higher education",10.337475,"16%","Spain"
+2021,"Higher education",9.392831,"13%","Spain"
+2022,"Higher education",13.546959,"18%","Spain"
+2018,"Advanced technical and managerial training",0.926188,"1%","Spain"
+2019,"Advanced technical and managerial training",0.662424,"1%","Spain"
+2020,"Advanced technical and managerial training",1.937615,"3%","Spain"
+2021,"Advanced technical and managerial training",0.861176,"1%","Spain"
+2022,"Advanced technical and managerial training",0.554236,"1%","Spain"

@@ -1,32 +1,36 @@
-donor,year,incomegroup_name,total_oda,share
-Spain,2023,Part I unallocated by income,732.9399520000004,51.01671331136379
-Spain,2023,LMICs,271.71501500000016,18.91288226930753
-Spain,2023,UMICs,262.4404800000001,18.267322845373698
-Spain,2023,LDCs,158.9311959999999,11.062498695069303
-Spain,2023,Other LICs,10.639705000000001,0.7405828788856684
-Spain,2023,,,
-Spain,2022,Part I unallocated by income,1406.6378780000032,62.58305653801032
-Spain,2022,LMICs,350.86392899999964,15.6103695550813
-Spain,2022,UMICs,293.6783470000003,13.066112381690315
-Spain,2022,LDCs,187.74136400000017,8.352845164699282
-Spain,2022,Other LICs,8.712196,0.38761636051878456
-Spain,2022,,,
-Spain,2021,Part I unallocated by income,642.4581869999998,45.316496759643
-Spain,2021,UMICs,280.8622790000002,19.810930600234478
-Spain,2021,LMICs,272.9151850000003,19.25037356043513
-Spain,2021,LDCs,211.8067440000001,14.940022280619708
-Spain,2021,Other LICs,9.551825,0.6737485106733913
-Spain,2021,MADCTs,0.119489,0.008428288394296678
-Spain,2021,,,
-Spain,2020,Part I unallocated by income,358.9552079999999,35.114381474251
-Spain,2020,UMICs,303.51134499999995,29.690649174514846
-Spain,2020,LMICs,217.6202119999997,21.288447612314254
-Spain,2020,LDCs,127.72824799999987,12.494869346789734
-Spain,2020,Other LICs,14.430554,1.4116523921301591
-Spain,2020,,,
-Spain,2019,Part I unallocated by income,369.2797450000003,33.64697741675696
-Spain,2019,UMICs,305.2901280000003,27.816554201679395
-Spain,2019,LMICs,256.02148899999946,23.32743502784716
-Spain,2019,LDCs,135.76573399999984,12.370314504705433
-Spain,2019,Other LICs,31.155291000000002,2.838718849011041
-Spain,2019,,,
+Year,Income Group,ODA,Share,Donor
+2018,Countries unspecified,282.931528,24.54%,Spain
+2019,Countries unspecified,342.470872,28.97%,Spain
+2020,Countries unspecified,328.442038,29.86%,Spain
+2021,Countries unspecified,640.336949,41.83%,Spain
+2022,Countries unspecified,1444.042135,58.95%,Spain
+2018,Lower-middle income countries,265.675623,23.04%,Spain
+2019,Lower-middle income countries,261.770691,22.15%,Spain
+2020,Lower-middle income countries,220.161844,20.01%,Spain
+2021,Lower-middle income countries,312.963233,20.44%,Spain
+2022,Lower-middle income countries,400.067099,16.33%,Spain
+2018,Upper-middle income countries,316.347679,27.44%,Spain
+2019,Upper-middle income countries,318.468844,26.94%,Spain
+2020,Upper-middle income countries,335.521205,30.50%,Spain
+2021,Upper-middle income countries,358.655965,23.43%,Spain
+2022,Upper-middle income countries,362.694559,14.81%,Spain
+2018,Low income countries,132.936752,11.53%,Spain
+2019,Low income countries,127.308276,10.77%,Spain
+2020,Low income countries,103.630638,9.42%,Spain
+2021,Low income countries,156.663456,10.23%,Spain
+2022,Low income countries,141.661453,5.78%,Spain
+2018,Unallocated by income,86.773079,7.53%,Spain
+2019,Unallocated by income,55.242304,4.67%,Spain
+2020,Unallocated by income,57.816162,5.26%,Spain
+2021,Unallocated by income,53.389469,3.49%,Spain
+2022,Unallocated by income,87.729678,3.58%,Spain
+2018,Countries not classified,67.037236,5.81%,Spain
+2019,Countries not classified,75.591909,6.40%,Spain
+2020,Countries not classified,53.73559,4.89%,Spain
+2021,Countries not classified,7.392313,0.48%,Spain
+2022,Countries not classified,11.119708,0.45%,Spain
+2018,High income countries,1.268089,0.11%,Spain
+2019,High income countries,1.164463,0.10%,Spain
+2020,High income countries,0.692507,0.06%,Spain
+2021,High income countries,1.445866,0.09%,Spain
+2022,High income countries,2.322565,0.09%,Spain

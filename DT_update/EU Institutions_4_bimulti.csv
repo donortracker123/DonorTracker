@@ -1,6 +1,6 @@
-donor,Year,Total ODA,Bilateral funding,Multilateral as core contributions to organizations,Bilateral as earmarked funding through multilaterals,Earmarked,Bilateral,Multilateral
-EU Institutions,2019,15292.840817,10965.286037,361.413629,3966.14115,26%,72%,2%
-EU Institutions,2020,19318.145616,14690.687688999998,247.7384,4379.719527,23%,76%,1%
-EU Institutions,2021,17725.109875,12920.034446999998,31.711849,4773.363579,27%,73%,0%
-EU Institutions,2022,22534.05,16135.95,16.65,6381.46,28%,72%,0%
-EU Institutions,2023,24739.086015,19144.283528,81.130924,5513.662358,22%,77%,0%
+Year,Bilateral funding,Multilateral as core contributions to organizations,Bilateral,Multilateral
+2019,14931.427187,361.413629,98%,2%
+2020,19070.407216,247.7384,99%,1%
+2021,17693.398026,31.711849,100%,0%
+2022,22517.41,16.65,100%,0%
+2023,24783.51332,4.446413,100%,0%

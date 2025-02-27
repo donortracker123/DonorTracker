@@ -1,111 +1,106 @@
-donor,Year,Sector,Bilateral ODA for,share
-Switzerland,2023,Refugees in donor countries,145955.77978620003,34.65890123406386
-Switzerland,2023,Emergency Response,58376.9857122002,13.86229572480968
-Switzerland,2023,Government & civil society,45092.90729280017,10.707836459147382
-Switzerland,2023,Donor administration costs,26423.630162400004,6.274598987347822
-Switzerland,2023,Other multisector,22657.808758799994,5.380360799016503
-Switzerland,2023,Health & populations,21076.88967300003,5.004953134215222
-Switzerland,2023,Education,17509.28227259993,4.157783171412054
-Switzerland,2023,"Agriculture (incl. forestry, fishing, rural development)",13817.04179039998,3.281017630558291
-Switzerland,2023,Water and sanitation,12629.176417799987,2.998945151560785
-Switzerland,2023,Financial services & business support,10413.301765799999,2.4727598862480193
-Switzerland,2023,"Conflict, peace & security",9575.06442,2.273710657629991
-Switzerland,2023,Other social services,9416.008671599997,2.235941016149667
-Switzerland,2023,"Industry, construction & mining",5928.6267083999965,1.4078215185521314
-Switzerland,2023,Energy,5373.8996940000025,1.2760951228443382
-Switzerland,2023,Environmental protection,3612.7735037999964,0.8578951805311504
-Switzerland,2023,Unspecified,3460.9960385999975,0.8218538522354915
-Switzerland,2023,Disaster Prevention & Preparedness,3364.744266000001,0.7989977468792426
-Switzerland,2023,Trade policy,2763.4139214,0.6562048471868417
-Switzerland,2023,Debt relief,1669.4526648,0.39643099512061025
-Switzerland,2023,Reconstruction Relief & Rehabilitation,839.6903604000005,0.19939426387176712
-Switzerland,2023,Infrastructure,688.7499708,0.16355170893464388
-Switzerland,2023,Tourism,474.39621780000004,0.11265091168454178
-Switzerland,2022,Refugees in donor countries,135789.00741720005,33.68293732078431
-Switzerland,2022,Emergency Response,50991.997927200035,12.648743095723397
-Switzerland,2022,Government & civil society,46939.538811599974,11.643516465217019
-Switzerland,2022,Donor administration costs,25557.274744799997,6.339571219298281
-Switzerland,2022,Health & populations,23465.378893799952,5.8206691507798975
-Switzerland,2022,Other multisector,18525.572386199976,4.595332902013588
-Switzerland,2022,Education,17694.020153399993,4.38906346777062
-Switzerland,2022,"Agriculture (incl. forestry, fishing, rural development)",15780.081484199996,3.9143042994351496
-Switzerland,2022,Financial services & business support,12520.844078399994,3.1058390831321434
-Switzerland,2022,Water and sanitation,10028.8415562,2.4876891580752005
-Switzerland,2022,Other social services,8268.257843400006,2.050970222027331
-Switzerland,2022,"Conflict, peace & security",7621.955682000009,1.8906527146915637
-Switzerland,2022,Energy,7231.035792000002,1.7936836713001305
-Switzerland,2022,"Industry, construction & mining",5811.513989400002,1.4415663327032058
-Switzerland,2022,Unspecified,4123.390478999999,1.0228214028146965
-Switzerland,2022,Environmental protection,3467.3673287999995,0.8600925702717236
-Switzerland,2022,Disaster Prevention & Preparedness,3065.4686885999986,0.7604002095670501
-Switzerland,2022,Trade policy,2722.4539242,0.6753141998145017
-Switzerland,2022,Infrastructure,2218.5489119999997,0.5503188024373519
-Switzerland,2022,Reconstruction Relief & Rehabilitation,793.5670008,0.19684706484129888
-Switzerland,2022,Tourism,522.7366356,0.12966664730154143
-Switzerland,2021,Health & populations,48449.95914120001,15.352890544724096
-Switzerland,2021,Government & civil society,47450.5716396,15.036203241044147
-Switzerland,2021,Refugees in donor countries,38834.887791600006,12.306053341416906
-Switzerland,2021,Emergency Response,35978.46020759996,11.400904589520616
-Switzerland,2021,Donor administration costs,25829.49776580001,8.184887233192848
-Switzerland,2021,Other multisector,18008.661448799998,5.706609726432286
-Switzerland,2021,Education,17566.37278319995,5.566456677957261
-Switzerland,2021,"Agriculture (incl. forestry, fishing, rural development)",15593.188837199968,4.941191400451927
-Switzerland,2021,Financial services & business support,14034.7625334,4.44735510237518
-Switzerland,2021,Water and sanitation,11080.423094999996,3.511179905662858
-Switzerland,2021,Other social services,8964.334749599999,2.84063088300608
-Switzerland,2021,"Conflict, peace & security",7347.955405800003,2.328430344884023
-Switzerland,2021,"Industry, construction & mining",6406.118086800005,2.029979623235278
-Switzerland,2021,Energy,5516.2510908,1.7479973299347906
-Switzerland,2021,Environmental protection,3243.657639600002,1.0278547513364016
-Switzerland,2021,Unspecified,3217.0603517999994,1.019426565727619
-Switzerland,2021,Trade policy,3010.1059218000014,0.9538465576562842
-Switzerland,2021,Disaster Prevention & Preparedness,2526.043381799999,0.8004561456693012
-Switzerland,2021,General budget support,822.4902504,0.26063185629718894
-Switzerland,2021,Reconstruction Relief & Rehabilitation,629.3848356000002,0.1994403434544701
-Switzerland,2021,Tourism,612.8892696,0.19421320552163504
-Switzerland,2021,Infrastructure,452.41100819999997,0.14336063049878645
-Switzerland,2020,Emergency Response,61474.41116340006,19.51590818636376
-Switzerland,2020,Government & civil society,44001.10026540004,13.968762231752601
-Switzerland,2020,Refugees in donor countries,35405.5069836,11.239971404475702
-Switzerland,2020,Health & populations,29010.43745700001,9.209767497441884
-Switzerland,2020,Donor administration costs,25865.402982000007,8.211332491795314
-Switzerland,2020,Other multisector,19058.56464780001,6.050406840688662
-Switzerland,2020,Education,16535.894592600012,5.249550089886897
-Switzerland,2020,"Agriculture (incl. forestry, fishing, rural development)",14978.857615200011,4.755247011278423
-Switzerland,2020,Financial services & business support,12203.891642400016,3.8742954068539293
-Switzerland,2020,Water and sanitation,11990.147277000018,3.80643928051526
-Switzerland,2020,"Conflict, peace & security",8061.640434600009,2.5592800577616743
-Switzerland,2020,Other social services,7320.228807000006,2.3239086084266902
-Switzerland,2020,"Industry, construction & mining",6621.014746800002,2.101933364691421
-Switzerland,2020,Energy,4478.027964000002,1.4216123578492186
-Switzerland,2020,Environmental protection,4450.669424999999,1.4129270085285406
-Switzerland,2020,Unspecified,4268.6944091999985,1.3551565047798313
-Switzerland,2020,Trade policy,3832.0580982000006,1.2165402253386404
-Switzerland,2020,Disaster Prevention & Preparedness,2356.204351199999,0.7480098941347338
-Switzerland,2020,General budget support,992.544081,0.3150969450399116
-Switzerland,2020,Reconstruction Relief & Rehabilitation,794.8419462,0.2523336482797461
-Switzerland,2020,Tourism,653.889327,0.20758627578970346
-Switzerland,2020,Infrastructure,528.4205658,0.16775446971794652
-Switzerland,2020,Food aid and commodity assistance,113.96632860000001,0.03618019860951114
-Switzerland,2019,Government & civil society,41275.30791959998,14.88438429828858
-Switzerland,2019,Emergency Response,35169.64004399995,12.682605277398675
-Switzerland,2019,Refugees in donor countries,32675.4337812,11.783163785477461
-Switzerland,2019,Donor administration costs,26534.689495199982,9.568735779067817
-Switzerland,2019,Unspecified,17812.673632800073,6.423469456534049
-Switzerland,2019,Education,15795.732886200014,5.696135786782874
-Switzerland,2019,Health & populations,15524.186807400027,5.5982129269601115
-Switzerland,2019,Other multisector,14560.591429800024,5.250728568122844
-Switzerland,2019,Water and sanitation,14318.142158999999,5.163298375561792
-Switzerland,2019,"Agriculture (incl. forestry, fishing, rural development)",14286.250910400035,5.1517979986090925
-Switzerland,2019,Financial services & business support,11475.1451598,4.138078649099625
-Switzerland,2019,"Conflict, peace & security",7251.342983999999,2.614923572776114
-Switzerland,2019,Energy,6047.1991007999995,2.180694460714871
-Switzerland,2019,"Industry, construction & mining",5905.555255199996,2.129615945794895
-Switzerland,2019,Other social services,5308.1323373999985,1.9141778849944457
-Switzerland,2019,Environmental protection,4265.2827407999985,1.538113478852517
-Switzerland,2019,Trade policy,3677.8787394000024,1.326288362678442
-Switzerland,2019,Disaster Prevention & Preparedness,2157.5943641999997,0.7780550962607002
-Switzerland,2019,Infrastructure,1211.28942,0.4368058806211763
-Switzerland,2019,Tourism,843.479862,0.3041692248142795
-Switzerland,2019,General budget support,637.5258630000001,0.22989967666562333
-Switzerland,2019,Reconstruction Relief & Rehabilitation,573.0406476000002,0.20664551392403577
+"Year","Sector","Bilateral ODA for","Share","Donor"
+"2018","Refugees in donor countries",302.017665,"11.89%","Switzerland"
+"2019","Refugees in donor countries",309.279895,"11.73%","Switzerland"
+"2020","Refugees in donor countries",335.243452,"11.19%","Switzerland"
+"2021","Refugees in donor countries",368.352838,"12.29%","Switzerland"
+"2022","Refugees in donor countries",1282.216984,"33.51%","Switzerland"
+"2018","Humanitarian aid",348.290318,"13.71%","Switzerland"
+"2019","Humanitarian aid",358.734086,"13.61%","Switzerland"
+"2020","Humanitarian aid",611.917909,"20.43%","Switzerland"
+"2021","Humanitarian aid",371.188929,"12.38%","Switzerland"
+"2022","Humanitarian aid",517.942751,"13.54%","Switzerland"
+"2018","Government & civil society",354.540516,"13.95%","Switzerland"
+"2019","Government & civil society",390.679517,"14.82%","Switzerland"
+"2020","Government & civil society",416.632391,"13.91%","Switzerland"
+"2021","Government & civil society",450.073519,"15.01%","Switzerland"
+"2022","Government & civil society",443.236752,"11.59%","Switzerland"
+"2018","Donor administration costs",245.549676,"9.66%","Switzerland"
+"2019","Donor administration costs",251.156453,"9.53%","Switzerland"
+"2020","Donor administration costs",244.911253,"8.18%","Switzerland"
+"2021","Donor administration costs",244.995405,"8.17%","Switzerland"
+"2022","Donor administration costs",241.330087,"6.31%","Switzerland"
+"2018","Health & populations",136.047807,"5.35%","Switzerland"
+"2019","Health & populations",146.939682,"5.57%","Switzerland"
+"2020","Health & populations",274.690611,"9.17%","Switzerland"
+"2021","Health & populations",459.552783,"15.33%","Switzerland"
+"2022","Health & populations",221.576935,"5.79%","Switzerland"
+"2018","Other multisector",110.544441,"4.35%","Switzerland"
+"2019","Other multisector",119.578175,"4.54%","Switzerland"
+"2020","Other multisector",163.438772,"5.46%","Switzerland"
+"2021","Other multisector",155.344205,"5.18%","Switzerland"
+"2022","Other multisector",175.633746,"4.59%","Switzerland"
+"2018","Agriculture (incl. forestry, fishing, rural development)",185.691846,"7.31%","Switzerland"
+"2019","Agriculture (incl. forestry, fishing, rural development)",159.716961,"6.06%","Switzerland"
+"2020","Agriculture (incl. forestry, fishing, rural development)",166.728601,"5.57%","Switzerland"
+"2021","Agriculture (incl. forestry, fishing, rural development)",165.451588,"5.52%","Switzerland"
+"2022","Agriculture (incl. forestry, fishing, rural development)",167.425655,"4.38%","Switzerland"
+"2018","Education",143.139182,"5.63%","Switzerland"
+"2019","Education",149.509957,"5.67%","Switzerland"
+"2020","Education",156.573173,"5.23%","Switzerland"
+"2021","Education",166.618813,"5.56%","Switzerland"
+"2022","Education",167.079663,"4.37%","Switzerland"
+"2018","Financial services & business support",103.373065,"4.07%","Switzerland"
+"2019","Financial services & business support",113.641258,"4.31%","Switzerland"
+"2020","Financial services & business support",120.008627,"4.01%","Switzerland"
+"2021","Financial services & business support",135.626707,"4.52%","Switzerland"
+"2022","Financial services & business support",118.230787,"3.09%","Switzerland"
+"2018","Water and sanitation",110.808662,"4.36%","Switzerland"
+"2019","Water and sanitation",135.524198,"5.14%","Switzerland"
+"2020","Water and sanitation",113.530881,"3.79%","Switzerland"
+"2021","Water and sanitation",105.098943,"3.51%","Switzerland"
+"2022","Water and sanitation",94.699521,"2.48%","Switzerland"
+"2018","Other social services",39.144821,"1.54%","Switzerland"
+"2019","Other social services",50.242591,"1.91%","Switzerland"
+"2020","Other social services",69.312915,"2.31%","Switzerland"
+"2021","Other social services",85.027642,"2.84%","Switzerland"
+"2022","Other social services",78.074818,"2.04%","Switzerland"
+"2018","Conflict, peace & security",78.45779,"3.09%","Switzerland"
+"2019","Conflict, peace & security",68.6355,"2.60%","Switzerland"
+"2020","Conflict, peace & security",76.333116,"2.55%","Switzerland"
+"2021","Conflict, peace & security",69.696096,"2.32%","Switzerland"
+"2022","Conflict, peace & security",71.971969,"1.88%","Switzerland"
+"2018","Energy",31.734952,"1.25%","Switzerland"
+"2019","Energy",57.238008,"2.17%","Switzerland"
+"2020","Energy",42.401027,"1.42%","Switzerland"
+"2021","Energy",52.322203,"1.75%","Switzerland"
+"2022","Energy",68.280613,"1.78%","Switzerland"
+"2018","Industry, construction & mining",55.775422,"2.20%","Switzerland"
+"2019","Industry, construction & mining",55.897323,"2.12%","Switzerland"
+"2020","Industry, construction & mining",62.69228,"2.09%","Switzerland"
+"2021","Industry, construction & mining",60.762673,"2.03%","Switzerland"
+"2022","Industry, construction & mining",54.876477,"1.43%","Switzerland"
+"2018","Unspecified",164.778836,"6.49%","Switzerland"
+"2019","Unspecified",168.600723,"6.40%","Switzerland"
+"2020","Unspecified",40.418909,"1.35%","Switzerland"
+"2021","Unspecified",30.514148,"1.02%","Switzerland"
+"2022","Unspecified",38.936012,"1.02%","Switzerland"
+"2018","Environmental protection",61.18819,"2.41%","Switzerland"
+"2019","Environmental protection",40.371811,"1.53%","Switzerland"
+"2020","Environmental protection",42.14197,"1.41%","Switzerland"
+"2021","Environmental protection",30.766433,"1.03%","Switzerland"
+"2022","Environmental protection",32.741373,"0.86%","Switzerland"
+"2018","Trade policy",33.605517,"1.32%","Switzerland"
+"2019","Trade policy",34.811898,"1.32%","Switzerland"
+"2020","Trade policy",36.284528,"1.21%","Switzerland"
+"2021","Trade policy",28.551164,"0.95%","Switzerland"
+"2022","Trade policy",25.707358,"0.67%","Switzerland"
+"2018","Infrastructure",12.98506,"0.51%","Switzerland"
+"2019","Infrastructure",11.46511,"0.43%","Switzerland"
+"2020","Infrastructure",5.003444,"0.17%","Switzerland"
+"2021","Infrastructure",4.291163,"0.14%","Switzerland"
+"2022","Infrastructure",20.94913,"0.55%","Switzerland"
+"2018","Tourism",7.1779,"0.28%","Switzerland"
+"2019","Tourism",7.983718,"0.30%","Switzerland"
+"2020","Tourism",6.191468,"0.21%","Switzerland"
+"2021","Tourism",5.81332,"0.19%","Switzerland"
+"2022","Tourism",4.936054,"0.13%","Switzerland"
+"2018","Food aid and commodity assistance",4.384435,"0.17%","Switzerland"
+"2019","Food aid and commodity assistance",0,"0.00%","Switzerland"
+"2020","Food aid and commodity assistance",1.079111,"0.04%","Switzerland"
+"2021","Food aid and commodity assistance",0,"0.00%","Switzerland"
+"2022","Food aid and commodity assistance",0,"0.00%","Switzerland"
+"2018","General budget support",11.509143,"0.45%","Switzerland"
+"2019","General budget support",6.034317,"0.23%","Switzerland"
+"2020","General budget support",9.398084,"0.31%","Switzerland"
+"2021","General budget support",7.801403,"0.26%","Switzerland"
+"2022","General budget support",0,"0.00%","Switzerland"

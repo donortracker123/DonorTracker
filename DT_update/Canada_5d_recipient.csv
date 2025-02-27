@@ -1,101 +1,201 @@
-donor,year,Recipient country,share,ODA Grants,ODA Loans
-Canada,2023,"Bilateral, unspecified",27.3%,1869.2078730033006,0.0
-Canada,2023,"Africa, regional",5.1%,347.8492495761999,0.0
-Canada,2023,"Asia, regional",3.0%,205.06586334939976,0.0
-Canada,2023,Ukraine,28.8%,191.75634900860018,1778.727548253
-Canada,2023,"America, regional",2.1%,147.0387079479999,0.0
-Canada,2023,"South of Sahara, regional",2.1%,141.89586284360047,0.0
-Canada,2023,Ethiopia,1.7%,114.34783423659967,0.0
-Canada,2023,Haiti,1.3%,88.17749469809998,0.0
-Canada,2023,South Sudan,1.2%,79.72700523199995,0.0
-Canada,2023,Mali,1.2%,79.06254157150018,0.0
-Canada,2023,Bangladesh,1.1%,75.39947412639987,0.0
-Canada,2023,Syrian Arab Republic,1.1%,74.6528856231,0.0
-Canada,2023,West Bank and Gaza Strip,1.1%,72.40785277010008,0.0
-Canada,2023,Senegal,1.0%,67.4090933798001,0.0
-Canada,2023,Lebanon,0.9%,62.903963052999984,0.0
-Canada,2023,"Middle East, regional",0.9%,61.869963970799915,0.0
-Canada,2023,Democratic Republic of the Congo,0.9%,60.372407441400064,0.0
-Canada,2023,Mozambique,0.8%,55.62173473459998,0.0
-Canada,2023,Ghana,0.7%,49.778131797699956,0.0
-Canada,2023,Jordan,1.8%,35.000230073,88.9363769243
-Canada,2022,"Bilateral, unspecified",14.7%,1022.4179557131996,0.0
-Canada,2022,"Africa, regional",8.0%,423.6860801956,135.05876848030002
-Canada,2022,Ukraine,31.0%,317.0495610515001,1838.2999163068998
-Canada,2022,"Asia, regional",6.5%,223.61387786250032,226.6098572542
-Canada,2022,"America, regional",2.3%,161.9134973360004,0.0
-Canada,2022,Afghanistan,2.3%,156.77043345080034,0.0
-Canada,2022,"South of Sahara, regional",2.2%,143.77614024469992,7.705852409399999
-Canada,2022,Ethiopia,1.7%,118.94256897480011,0.0
-Canada,2022,Tanzania,1.4%,99.3996184960001,0.0
-Canada,2022,Bangladesh,1.3%,89.06721858639997,0.0
-Canada,2022,South Sudan,1.2%,85.2634721567999,0.0
-Canada,2022,Haiti,1.2%,82.42531967149979,0.0
-Canada,2022,Mozambique,1.2%,81.44943423929996,0.0
-Canada,2022,Nigeria,1.2%,80.15221060030008,0.0
-Canada,2022,Democratic Republic of the Congo,1.0%,72.54689480540011,0.0
-Canada,2022,Yemen,1.0%,72.41994431610004,0.0
-Canada,2022,Mali,1.0%,69.7997668532996,0.0
-Canada,2022,Ghana,1.0%,67.35600094449983,0.0
-Canada,2022,"Europe, regional",0.9%,65.951735869,0.0
-Canada,2022,Senegal,0.9%,64.86872109729994,0.0
-Canada,2021,"Africa, regional",19.8%,713.5208949111992,280.9629495219002
-Canada,2021,"Bilateral, unspecified",10.6%,532.3180726456,0.0156828719
-Canada,2021,"Asia, regional",9.9%,388.2800322493004,108.87716856749996
-Canada,2021,"America, regional",5.7%,221.05625901139973,64.70789474520001
-Canada,2021,Afghanistan,2.3%,114.1411850273,0.0
-Canada,2021,South Sudan,2.2%,109.85253732539998,0.0
-Canada,2021,Ethiopia,2.0%,99.95673110609992,0.0
-Canada,2021,Mali,1.9%,93.24501279170002,0.0
-Canada,2021,Bangladesh,1.7%,86.97012941250003,0.0
-Canada,2021,Mozambique,1.7%,82.94771157330007,0.0
-Canada,2021,Iraq,1.5%,74.83969121849998,0.0
-Canada,2021,"Europe, regional",1.6%,74.38832494070007,4.5443194376
-Canada,2021,"Middle East, regional",1.4%,72.71604361820002,0.0
-Canada,2021,Syrian Arab Republic,1.4%,70.1513436921,0.0
-Canada,2021,Democratic Republic of the Congo,1.4%,69.57148373899999,0.0
-Canada,2021,Lebanon,1.4%,68.81514093280002,0.0
-Canada,2021,Jordan,1.3%,67.4445231723,0.0
-Canada,2021,Yemen,1.3%,65.1187074623,0.0
-Canada,2021,"South America, regional",2.6%,65.04245551659999,67.98307164549996
-Canada,2021,"Caribbean & Central America, regional",1.3%,21.07643003420001,44.782915875
-Canada,2020,"Bilateral, unspecified",21.6%,985.2784098185,0.0
-Canada,2020,"Africa, regional",10.9%,403.0280362102999,96.29594620890003
-Canada,2020,"Asia, regional",7.8%,243.5013680565999,113.80975360269998
-Canada,2020,"America, regional",6.0%,197.41912082400015,77.2455240527
-Canada,2020,"South of Sahara, regional",2.2%,102.02717883409998,0.0
-Canada,2020,Afghanistan,2.2%,100.35211293990001,0.0
-Canada,2020,Syrian Arab Republic,1.9%,87.41575953120001,0.0
-Canada,2020,Lebanon,1.9%,87.3098481366,0.0
-Canada,2020,South Sudan,1.9%,85.3884965937,0.0
-Canada,2020,Ethiopia,1.9%,85.16337505729997,0.0
-Canada,2020,Iraq,1.8%,83.08488029800002,0.0
-Canada,2020,Bangladesh,1.8%,80.09664125379999,0.0
-Canada,2020,Democratic Republic of the Congo,1.7%,79.94372812510004,0.0
-Canada,2020,Tanzania,1.7%,78.89129871389997,0.0
-Canada,2020,Mali,1.6%,70.99627221159999,0.0
-Canada,2020,"Middle East, regional",1.5%,69.36546450120001,0.0
-Canada,2020,Haiti,1.5%,66.65194186599992,0.0
-Canada,2020,Jordan,1.4%,66.05651819839998,0.0
-Canada,2020,Mozambique,1.3%,60.427840049899984,0.0
-Canada,2020,"South America, regional",1.4%,20.152854700600003,41.7543410742
-Canada,2019,"Bilateral, unspecified",19.8%,745.2093228106003,0.0
-Canada,2019,"Africa, regional",8.2%,282.05302485789997,28.882780966800002
-Canada,2019,"Asia, regional",7.2%,224.49377419539985,46.029916623300004
-Canada,2019,Afghanistan,3.6%,135.97096428220016,0.0
-Canada,2019,"America, regional",4.1%,125.14966058369994,28.882780966800002
-Canada,2019,Syrian Arab Republic,2.9%,109.0922007929,0.0
-Canada,2019,Bangladesh,2.5%,94.7315247975,0.0
-Canada,2019,Tanzania,2.5%,92.60979543599998,0.0
-Canada,2019,Ethiopia,2.4%,92.3099407223999,0.0
-Canada,2019,Jordan,2.2%,84.61497558789992,0.0
-Canada,2019,Mali,2.2%,83.85466347290003,0.0
-Canada,2019,Iraq,2.0%,76.70799134749997,0.0
-Canada,2019,Haiti,2.0%,74.94598840959995,0.0
-Canada,2019,Lebanon,1.8%,69.33257608209999,0.0
-Canada,2019,Mozambique,1.7%,65.37379610809998,0.0
-Canada,2019,Democratic Republic of the Congo,1.7%,65.21262400420001,0.0
-Canada,2019,"South of Sahara, regional",1.5%,56.0418720066,0.0
-Canada,2019,Ukraine,1.4%,54.48831540600006,0.0
-Canada,2019,"Caribbean, regional",1.5%,41.6062303794,15.881152743700003
-Canada,2019,"South America, regional",1.7%,22.6325094509,41.7925075801
+"Year","Recipient country","ODA Grants","ODA Loans","Share","Donor"
+"2018","Ukraine",37.066685,0,"1%","Canada"
+"2019","Ukraine",54.075465,0,"1%","Canada"
+"2020","Ukraine",41.891713,0,"1%","Canada"
+"2021","Ukraine",37.854356,0,"1%","Canada"
+"2022","Ukraine",311.369773,1805.367649,"31%","Canada"
+"2018","Afghanistan",144.632515,0,"4%","Canada"
+"2019","Afghanistan",134.940742,0,"4%","Canada"
+"2020","Afghanistan",99.459091,0,"2%","Canada"
+"2021","Afghanistan",113.213338,0,"2%","Canada"
+"2022","Afghanistan",153.961984,0,"2%","Canada"
+"2018","Ethiopia",103.508121,0,"3%","Canada"
+"2019","Ethiopia",91.610532,0,"2%","Canada"
+"2020","Ethiopia",84.405523,0,"2%","Canada"
+"2021","Ethiopia",99.14421,0,"2%","Canada"
+"2022","Ethiopia",116.811774,0,"2%","Canada"
+"2018","Tanzania",72.868442,0,"2%","Canada"
+"2019","Tanzania",91.908135,0,"2%","Canada"
+"2020","Tanzania",78.189277,0,"2%","Canada"
+"2021","Tanzania",48.899993,0,"1%","Canada"
+"2022","Tanzania",97.618919,0,"1%","Canada"
+"2018","Bangladesh",101.992915,0,"3%","Canada"
+"2019","Bangladesh",94.013765,0,"3%","Canada"
+"2020","Bangladesh",79.383868,0,"2%","Canada"
+"2021","Bangladesh",86.263157,0,"2%","Canada"
+"2022","Bangladesh",87.47162,0,"1%","Canada"
+"2018","South Sudan",58.657852,0,"1%","Canada"
+"2019","South Sudan",52.872721,0,"1%","Canada"
+"2020","South Sudan",84.628632,0,"2%","Canada"
+"2021","South Sudan",108.959551,0,"2%","Canada"
+"2022","South Sudan",83.73599,0,"1%","Canada"
+"2018","Haiti",101.775599,0,"3%","Canada"
+"2019","Haiti",74.378153,0,"2%","Canada"
+"2020","Haiti",66.058811,0,"1%","Canada"
+"2021","Haiti",56.699323,0,"1%","Canada"
+"2022","Haiti",80.948717,0,"1%","Canada"
+"2018","Mozambique",57.64768,0,"1%","Canada"
+"2019","Mozambique",64.878479,0,"2%","Canada"
+"2020","Mozambique",59.890102,0,"1%","Canada"
+"2021","Mozambique",82.273424,0,"2%","Canada"
+"2022","Mozambique",79.990312,0,"1%","Canada"
+"2018","Nigeria",51.566094,0,"1%","Canada"
+"2019","Nigeria",48.351211,0,"1%","Canada"
+"2020","Nigeria",46.324631,0,"1%","Canada"
+"2021","Nigeria",60.387728,0,"1%","Canada"
+"2022","Nigeria",78.716313,0,"1%","Canada"
+"2018","Democratic Republic of the Congo",76.914439,0,"2%","Canada"
+"2019","Democratic Republic of the Congo",64.71852,0,"2%","Canada"
+"2020","Democratic Republic of the Congo",79.232324,0,"2%","Canada"
+"2021","Democratic Republic of the Congo",69.005942,0,"1%","Canada"
+"2022","Democratic Republic of the Congo",71.247268,0,"1%","Canada"
+"2018","Yemen",42.004065,0,"1%","Canada"
+"2019","Yemen",40.144847,0,"1%","Canada"
+"2020","Yemen",51.718644,0,"1%","Canada"
+"2021","Yemen",64.589368,0,"1%","Canada"
+"2022","Yemen",71.12258,0,"1%","Canada"
+"2018","Mali",98.594793,0,"2%","Canada"
+"2019","Mali",83.219321,0,"2%","Canada"
+"2020","Mali",70.364487,0,"2%","Canada"
+"2021","Mali",92.487018,0,"2%","Canada"
+"2022","Mali",68.549316,0,"1%","Canada"
+"2018","Ghana",79.642191,0,"2%","Canada"
+"2019","Ghana",49.99351,0,"1%","Canada"
+"2020","Ghana",56.930548,0,"1%","Canada"
+"2021","Ghana",52.705706,0,"1%","Canada"
+"2022","Ghana",66.149371,0,"1%","Canada"
+"2018","Senegal",82.258153,0,"2%","Canada"
+"2019","Senegal",33.918585,0,"1%","Canada"
+"2020","Senegal",59.730037,0,"1%","Canada"
+"2021","Senegal",62.620981,0,"1%","Canada"
+"2022","Senegal",63.706642,0,"1%","Canada"
+"2018","Syrian Arab Republic",124.688775,0,"3%","Canada"
+"2019","Syrian Arab Republic",108.265642,0,"3%","Canada"
+"2020","Syrian Arab Republic",86.63786,0,"2%","Canada"
+"2021","Syrian Arab Republic",69.581095,0,"1%","Canada"
+"2022","Syrian Arab Republic",60.20572,0,"1%","Canada"
+"2018","Jordan",100.482521,0,"2%","Canada"
+"2019","Jordan",83.97388,0,"2%","Canada"
+"2020","Jordan",65.468675,0,"1%","Canada"
+"2021","Jordan",66.896263,0,"1%","Canada"
+"2022","Jordan",56.202742,0,"1%","Canada"
+"2018","Burkina Faso",50.196556,0,"1%","Canada"
+"2019","Burkina Faso",45.775353,0,"1%","Canada"
+"2020","Burkina Faso",42.287434,0,"1%","Canada"
+"2021","Burkina Faso",49.585077,0,"1%","Canada"
+"2022","Burkina Faso",47.774266,0,"1%","Canada"
+"2018","Lebanon",78.371475,0,"2%","Canada"
+"2019","Lebanon",68.80726,0,"2%","Canada"
+"2020","Lebanon",86.532879,0,"2%","Canada"
+"2021","Lebanon",68.255741,0,"1%","Canada"
+"2022","Lebanon",45.603206,0,"1%","Canada"
+"2018","Pakistan",15.194298,0,"0%","Canada"
+"2019","Pakistan",14.144022,0,"0%","Canada"
+"2020","Pakistan",28.466459,0,"1%","Canada"
+"2021","Pakistan",29.718128,0,"1%","Canada"
+"2022","Pakistan",45.550842,0,"1%","Canada"
+"2018","Colombia",40.445332,0,"1%","Canada"
+"2019","Colombia",52.832549,0,"1%","Canada"
+"2020","Colombia",45.337076,0,"1%","Canada"
+"2021","Colombia",37.252844,0,"1%","Canada"
+"2022","Colombia",44.842588,0,"1%","Canada"
+"2018","Sudan",14.035246,0,"0%","Canada"
+"2019","Sudan",13.478038,0,"0%","Canada"
+"2020","Sudan",22.8426,0,"1%","Canada"
+"2021","Sudan",48.890241,0,"1%","Canada"
+"2022","Sudan",43.738885,0,"1%","Canada"
+"2018","Iraq",87.326897,0,"2%","Canada"
+"2019","Iraq",76.1268,0,"2%","Canada"
+"2020","Iraq",82.345515,0,"2%","Canada"
+"2021","Iraq",74.231318,0,"1%","Canada"
+"2022","Iraq",42.284683,0,"1%","Canada"
+"2018","Myanmar",30.591748,0,"1%","Canada"
+"2019","Myanmar",44.161302,0,"1%","Canada"
+"2020","Myanmar",41.168225,0,"1%","Canada"
+"2021","Myanmar",20.176168,0,"0%","Canada"
+"2022","Myanmar",38.101586,0,"1%","Canada"
+"2018","Kenya",41.679783,0,"1%","Canada"
+"2019","Kenya",43.38222,0,"1%","Canada"
+"2020","Kenya",39.389418,0,"1%","Canada"
+"2021","Kenya",32.140031,0,"1%","Canada"
+"2022","Kenya",37.869935,0,"1%","Canada"
+"2018","Somalia",26.508825,0,"1%","Canada"
+"2019","Somalia",20.858212,0,"1%","Canada"
+"2020","Somalia",26.884609,0,"1%","Canada"
+"2021","Somalia",36.95807,0,"1%","Canada"
+"2022","Somalia",36.972067,0,"1%","Canada"
+"2018","West Bank and Gaza Strip",36.69981,0,"1%","Canada"
+"2019","West Bank and Gaza Strip",34.782329,0,"1%","Canada"
+"2020","West Bank and Gaza Strip",45.772282,0,"1%","Canada"
+"2021","West Bank and Gaza Strip",37.415305,0,"1%","Canada"
+"2022","West Bank and Gaza Strip",34.208834,0,"1%","Canada"
+"2018","Mexico",4.453434,0,"0%","Canada"
+"2019","Mexico",5.991522,8.295172,"0%","Canada"
+"2020","Mexico",5.155915,5.690131,"0%","Canada"
+"2021","Mexico",4.82736,0,"0%","Canada"
+"2022","Mexico",27.239897,0,"0%","Canada"
+"2018","Côte d'Ivoire",18.007131,0,"0%","Canada"
+"2019","Côte d'Ivoire",11.468241,0,"0%","Canada"
+"2020","Côte d'Ivoire",15.420203,0,"0%","Canada"
+"2021","Côte d'Ivoire",10.201173,0,"0%","Canada"
+"2022","Côte d'Ivoire",24.151166,0,"0%","Canada"
+"2018","Peru",28.359234,0,"1%","Canada"
+"2019","Peru",27.100337,0,"1%","Canada"
+"2020","Peru",24.299361,0,"1%","Canada"
+"2021","Peru",18.813299,0,"0%","Canada"
+"2022","Peru",21.604448,0,"0%","Canada"
+"2018","Uganda",17.767555,0,"0%","Canada"
+"2019","Uganda",16.190698,0,"0%","Canada"
+"2020","Uganda",16.959323,0,"0%","Canada"
+"2021","Uganda",30.608773,0,"1%","Canada"
+"2022","Uganda",21.400861,0,"0%","Canada"
+"2018","Honduras",26.410105,0,"1%","Canada"
+"2019","Honduras",19.407431,0,"1%","Canada"
+"2020","Honduras",22.741219,0,"1%","Canada"
+"2021","Honduras",22.839884,0,"0%","Canada"
+"2022","Honduras",19.793269,0,"0%","Canada"
+"2018","Venezuela",0.835695,0,"0%","Canada"
+"2019","Venezuela",2.76535,0,"0%","Canada"
+"2020","Venezuela",6.91552,0,"0%","Canada"
+"2021","Venezuela",13.394878,0,"0%","Canada"
+"2022","Venezuela",18.169201,0,"0%","Canada"
+"2018","Zambia",4.853149,0,"0%","Canada"
+"2019","Zambia",4.588123,0,"0%","Canada"
+"2020","Zambia",5.841041,0,"0%","Canada"
+"2021","Zambia",8.006437,0,"0%","Canada"
+"2022","Zambia",17.142632,0,"0%","Canada"
+"2018","Benin",20.787111,0,"1%","Canada"
+"2019","Benin",19.677719,0,"1%","Canada"
+"2020","Benin",24.32906,0,"1%","Canada"
+"2021","Benin",17.970712,0,"0%","Canada"
+"2022","Benin",17.133669,0,"0%","Canada"
+"2018","Philippines",12.46785,0,"0%","Canada"
+"2019","Philippines",10.438505,0,"0%","Canada"
+"2020","Philippines",12.336396,0,"0%","Canada"
+"2021","Philippines",11.370476,0,"0%","Canada"
+"2022","Philippines",15.834916,0,"0%","Canada"
+"2018","Jamaica",5.010463,0,"0%","Canada"
+"2019","Jamaica",3.265515,0,"0%","Canada"
+"2020","Jamaica",2.74295,0,"0%","Canada"
+"2021","Jamaica",6.478377,0,"0%","Canada"
+"2022","Jamaica",15.699321,0,"0%","Canada"
+"2018","Niger",21.058612,0,"1%","Canada"
+"2019","Niger",22.288534,0,"1%","Canada"
+"2020","Niger",18.262348,0,"0%","Canada"
+"2021","Niger",20.381478,0,"0%","Canada"
+"2022","Niger",15.268782,0,"0%","Canada"
+"2018","Indonesia",26.266542,0,"1%","Canada"
+"2019","Indonesia",22.736504,0,"1%","Canada"
+"2020","Indonesia",13.976524,0,"0%","Canada"
+"2021","Indonesia",14.189545,0,"0%","Canada"
+"2022","Indonesia",13.527043,0,"0%","Canada"
+"2018","Guatemala",16.995855,0,"0%","Canada"
+"2019","Guatemala",11.19843,0,"0%","Canada"
+"2020","Guatemala",12.888434,0,"0%","Canada"
+"2021","Guatemala",16.616414,0,"0%","Canada"
+"2022","Guatemala",13.120642,0,"0%","Canada"
+"2018","Bolivia",13.636222,0,"0%","Canada"
+"2019","Bolivia",14.502411,0,"0%","Canada"
+"2020","Bolivia",13.964804,0,"0%","Canada"
+"2021","Bolivia",11.33711,0,"0%","Canada"
+"2022","Bolivia",12.454624,0,"0%","Canada"

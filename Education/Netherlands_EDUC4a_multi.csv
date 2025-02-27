@@ -1,61 +1,71 @@
-Year,ODA,Share,Full Name,donor
-2022,13.2757,0.1073877240665243,united nations relief and works agency for palestine refugees in the near east,Netherlands
-2022,3.5408,0.028641687698181584,european commission european development fund,Netherlands
-2022,0.3522,0.002848961366724908,african development fund,Netherlands
-2022,2.2275,0.018018345952242283,united nations population fund,Netherlands
-2022,0.023899999999999998,0.00019332815634504625,united nations industrial development organisation,Netherlands
-2022,0.0021,1.6986992816928753e-05,food and agricultural organisation,Netherlands
-2022,0.2827,0.0022867727949265515,african development bank,Netherlands
-2022,27.099600000000002,0.2192098621626869,international development association,Netherlands
-2022,0.0126,0.00010192195690157251,joint sustainable development goals fund,Netherlands
-2022,2.8058999999999994,0.02269704911667637,united nations children’s fund,Netherlands
-2022,0.1093,0.0008841325309001489,united nations development programme,Netherlands
-2022,73.8917,0.5977132272050735,european commission development share of budget,Netherlands
-2019,1.179,0.010658609878605757,african development bank,Netherlands
-2019,35.6438,0.322233552833798,international development association,Netherlands
-2019,37.049400000000006,0.33494071317762186,european commission development share of budget,Netherlands
-2019,0.042,0.00037969602620987434,united nations development programme,Netherlands
-2019,0.0084,7.593920524197486e-05,food and agricultural organisation,Netherlands
-2019,14.0868,0.12735004719079185,united nations relief and works agency for palestine refugees in the near east,Netherlands
-2019,14.6482,0.13242531740779714,european commission european development fund,Netherlands
-2019,0.8503999999999999,0.0076879404925923114,world food programme,Netherlands
-2019,4.9853000000000005,0.04506901427295444,united nations children’s fund,Netherlands
-2019,1.9984,0.018066298542328878,united nations population fund,Netherlands
-2019,0.12309999999999999,0.0011128709720579885,asian development bank,Netherlands
-2021,0.26639999999999997,0.004046406080545352,african development bank,Netherlands
-2021,0.0093,0.00014125967173074993,food and agricultural organisation,Netherlands
-2021,13.8397,0.2102141375109742,united nations relief and works agency for palestine refugees in the near east,Netherlands
-2021,0.040999999999999995,0.0006227576925764244,united nations industrial development organisation,Netherlands
-2021,0.2489,0.0037805948702993183,asian development bank,Netherlands
-2021,34.0885,0.5177774537412548,european commission development share of budget,Netherlands
-2021,4.426700000000001,0.06723808482263559,international development association,Netherlands
-2021,1.9282,0.02928783860550882,united nations population fund,Netherlands
-2021,0.13290000000000002,0.0020186462766684592,african development fund,Netherlands
-2021,3.027799999999999,0.04598989613616823,united nations children’s fund,Netherlands
-2021,7.8186,0.11875837305312274,european commission european development fund,Netherlands
-2021,0.0082,0.00012455153851528492,united nations development programme,Netherlands
-2023,0.4834,0.003724928587555471,african development fund,Netherlands
-2023,0.14780000000000001,0.0011389003832037623,united nations development programme,Netherlands
-2023,21.5522,0.1660744847015164,united nations relief and works agency for palestine refugees in the near east,Netherlands
-2023,0.0092,7.089231072716246e-05,joint sustainable development goals fund,Netherlands
-2023,2.5716,0.01981594198543163,united nations children’s fund,Netherlands
-2023,27.9354,0.2152614192486494,international development association,Netherlands
-2023,0.0178,0.00013716120988516216,united nations,Netherlands
-2023,71.6127,0.5518249761316377,european commission development share of budget,Netherlands
-2023,1.4030999999999998,0.010811847954487135,african development bank,Netherlands
-2023,0.7095,0.005467184180534975,european commission european development fund,Netherlands
-2023,2.1414,0.016500955890341923,united nations population fund,Netherlands
-2023,0.0114,8.784481981409261e-05,united nations industrial development organisation,Netherlands
-2023,0.0035,2.6969900820116155e-05,food and agricultural organisation,Netherlands
-2023,1.1753,0.009056492695395005,international bank for reconstruction and development,Netherlands
-2020,34.18060000000001,0.38007414540416373,european commission development share of budget,Netherlands
-2020,4.2357000000000005,0.04709923341569241,united nations children’s fund,Netherlands
-2020,18.3375,0.2039054212433032,international development association,Netherlands
-2020,0.13960000000000003,0.001552294304325297,asian development bank,Netherlands
-2020,15.197000000000001,0.16898435918933763,european commission european development fund,Netherlands
-2020,0.0088,9.785236302337114e-05,food and agricultural organisation,Netherlands
-2020,0.052700000000000004,0.0005860022194695068,united nations industrial development organisation,Netherlands
-2020,0.026,0.00028910925438723286,united nations development programme,Netherlands
-2020,14.2217,0.15813942627380423,united nations relief and works agency for palestine refugees in the near east,Netherlands
-2020,2.074,0.023062022830735423,united nations population fund,Netherlands
-2020,1.4578,0.016210133501758005,african development bank,Netherlands
+Year,Multi_short,ODA,Share,Full Name,Donor
+2018,EC - Development Share of Budget,33.2,11.20%,european commission development share of budget,Netherlands
+2019,EC - Development Share of Budget,31.5,16%,european commission development share of budget,Netherlands
+2020,EC - Development Share of Budget,29.8,16.90%,european commission development share of budget,Netherlands
+2021,EC - Development Share of Budget,29,20%,european commission development share of budget,Netherlands
+2022,EC - Development Share of Budget,66.4,33.80%,european commission development share of budget,Netherlands
+2018,IDA,43.3,14.60%,international development association,Netherlands
+2019,IDA,34.2,17.40%,international development association,Netherlands
+2020,IDA,17.6,10%,international development association,Netherlands
+2021,IDA,4.3,2.90%,international development association,Netherlands
+2022,IDA,26.1,13.30%,international development association,Netherlands
+2018,UNRWA,14.4,4.90%,united nations relief and works agency for palestine refugees in the near east,Netherlands
+2019,UNRWA,13.5,6.90%,united nations relief and works agency for palestine refugees in the near east,Netherlands
+2020,UNRWA,13.7,7.80%,united nations relief and works agency for palestine refugees in the near east,Netherlands
+2021,UNRWA,13.4,9.20%,united nations relief and works agency for palestine refugees in the near east,Netherlands
+2022,UNRWA,12.8,6.50%,united nations relief and works agency for palestine refugees in the near east,Netherlands
+2018,UNICEF,4.3,1.40%,united nations childrenâ€™s fund,Netherlands
+2019,UNICEF,4.8,2.40%,united nations childrenâ€™s fund,Netherlands
+2020,UNICEF,4.1,2.30%,united nations childrenâ€™s fund,Netherlands
+2021,UNICEF,2.9,2%,united nations childrenâ€™s fund,Netherlands
+2022,UNICEF,2.7,1.40%,united nations childrenâ€™s fund,Netherlands
+2018,UNFPA,1.8,0.60%,united nations population fund,Netherlands
+2019,UNFPA,1.9,1%,united nations population fund,Netherlands
+2020,UNFPA,2,1.10%,united nations population fund,Netherlands
+2021,UNFPA,1.9,1.30%,united nations population fund,Netherlands
+2022,UNFPA,2.1,1.10%,united nations population fund,Netherlands
+2018,African Development Fund,0,0%,african development fund,Netherlands
+2019,African Development Fund,0,0%,african development fund,Netherlands
+2020,African Development Fund,0,0%,african development fund,Netherlands
+2021,African Development Fund,0.1,0.10%,african development fund,Netherlands
+2022,African Development Fund,0.3,0.20%,african development fund,Netherlands
+2018,AfDB,1.8,0.60%,african development bank,Netherlands
+2019,AfDB,1.1,0.60%,african development bank,Netherlands
+2020,AfDB,1.4,0.80%,african development bank,Netherlands
+2021,AfDB,0.3,0.20%,african development bank,Netherlands
+2022,AfDB,0.3,0.10%,african development bank,Netherlands
+2018,UNDP,0,0%,united nations development programme,Netherlands
+2019,UNDP,0,0%,united nations development programme,Netherlands
+2020,UNDP,0,0%,united nations development programme,Netherlands
+2021,UNDP,0,0%,united nations development programme,Netherlands
+2022,UNDP,0.1,0.10%,united nations development programme,Netherlands
+2018,UNIDO,0,0%,united nations industrial development organisation,Netherlands
+2019,UNIDO,0,0%,united nations industrial development organisation,Netherlands
+2020,UNIDO,0.1,0%,united nations industrial development organisation,Netherlands
+2021,UNIDO,0,0%,united nations industrial development organisation,Netherlands
+2022,UNIDO,0,0%,united nations industrial development organisation,Netherlands
+2018,SDG Fund,0,0%,joint sustainable development goals fund,Netherlands
+2019,SDG Fund,0,0%,joint sustainable development goals fund,Netherlands
+2020,SDG Fund,0,0%,joint sustainable development goals fund,Netherlands
+2021,SDG Fund,0,0%,joint sustainable development goals fund,Netherlands
+2022,SDG Fund,0,0%,joint sustainable development goals fund,Netherlands
+2018,FAO,0,0%,food and agricultural organisation,Netherlands
+2019,FAO,0,0%,food and agricultural organisation,Netherlands
+2020,FAO,0,0%,food and agricultural organisation,Netherlands
+2021,FAO,0,0%,food and agricultural organisation,Netherlands
+2022,FAO,0,0%,food and agricultural organisation,Netherlands
+2018,ADB,0.1,0%,asian development bank,Netherlands
+2019,ADB,0.1,0.10%,asian development bank,Netherlands
+2020,ADB,0.1,0.10%,asian development bank,Netherlands
+2021,ADB,0.2,0.20%,asian development bank,Netherlands
+2022,ADB,0,0%,asian development bank,Netherlands
+2018,UN,0,0%,united nations,Netherlands
+2019,UN,0,0%,united nations,Netherlands
+2020,UN,0,0%,united nations,Netherlands
+2021,UN,0,0%,united nations,Netherlands
+2022,UN,0,0%,united nations,Netherlands
+2018,WFP,1.8,0.60%,world food programme,Netherlands
+2019,WFP,0.8,0.40%,world food programme,Netherlands
+2020,WFP,0,0%,world food programme,Netherlands
+2021,WFP,0,0%,world food programme,Netherlands
+2022,WFP,0,0%,world food programme,Netherlands

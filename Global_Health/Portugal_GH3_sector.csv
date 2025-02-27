@@ -1,58 +1,59 @@
-donor,year,Sector,Bilateral ODA for,share
-Portugal,2023,Medical services,7.4098632402,56.622985751418426
-Portugal,2023,Basic health care,1.7755924770000002,13.568313512191502
-Portugal,2023,Medical education/training,1.26337874,9.654196585649013
-Portugal,2023,Health policy and administrative management,0.9759053218000001,7.457448449416097
-Portugal,2023,Basic nutrition,0.6854426740000001,5.237857907114164
-Portugal,2023,COVID-19 control,0.4052651332,3.0968617259002094
-Portugal,2023,Health education,0.16258943680000001,1.2424384991765463
-Portugal,2023,Other prevention and treatment of NCDs,0.1308965592,1.000255168851301
-Portugal,2023,Reproductive health care,0.1148498112,0.877632826993332
-Portugal,2023,Promotion of mental health and well-being,0.0661317522,0.5053503878751566
-Portugal,2023,Medical research,0.038091766,0.2910808814612007
-Portugal,2023,Control of harmful use of alcohol and drugs,0.0316279422,0.24168712194598457
-Portugal,2023,Health personnel development,0.0266818458,0.20389118200704678
-Portugal,2022,COVID-19 control,20.331885673600002,68.89496259464711
-Portugal,2022,Medical services,7.0191667492,23.784573570548723
-Portugal,2022,Basic health care,1.2153012302,4.1180702144403
-Portugal,2022,Health policy and administrative management,0.30764741619999997,1.042468837947481
-Portugal,2022,Basic nutrition,0.15447801479999998,0.5234515490690793
-Portugal,2022,Medical education/training,0.10908596899999999,0.36963978031876915
-Portugal,2022,Family planning,0.0925945786,0.3137584054683789
-Portugal,2022,Control of harmful use of alcohol and drugs,0.0908754414,0.3079330779512733
-Portugal,2022,Reproductive health care,0.089610852,0.30364799388139224
-Portugal,2022,Medical research,0.06605691139999999,0.22383503985221412
-Portugal,2022,Health personnel development,0.0231489198,0.07844053371784969
-Portugal,2022,Population policy and administrative management,0.0115739096,0.039218402157414886
-Portugal,2021,COVID-19 control,31.81648268420001,82.19234521828619
-Portugal,2021,Medical services,4.1552591694,10.734388823324496
-Portugal,2021,Basic health care,1.6259835166,4.200445405676385
-Portugal,2021,Basic nutrition,0.2584583004,0.6676820332989758
-Portugal,2021,Health policy and administrative management,0.21851202339999998,0.5644877794916636
-Portugal,2021,Medical education/training,0.2182016542,0.5636859946845646
-Portugal,2021,Medical research,0.1697213248,0.4384455018905629
-Portugal,2021,Reproductive health care,0.1027586196,0.26545900815466317
-Portugal,2021,Infectious disease control,0.060764126,0.15697354326220417
-Portugal,2021,Control of harmful use of alcohol and drugs,0.030382063,0.07848677163110208
-Portugal,2021,Health education,0.022256333200000002,0.057495363011198924
-Portugal,2021,Malaria control,0.0188554792,0.048709848635538525
-Portugal,2021,STD control including HIV/AIDS,0.0121528252,0.03139470865244083
-Portugal,2020,Medical services,8.004155322799999,64.71807760237617
-Portugal,2020,COVID-19 control,2.2835094715999995,18.46345269785096
-Portugal,2020,Basic health care,1.279084302,10.342112787468903
-Portugal,2020,Reproductive health care,0.35896068999999997,2.9023981737895337
-Portugal,2020,Basic nutrition,0.1737308106,1.4047108818974452
-Portugal,2020,Health policy and administrative management,0.10739104500000002,0.8683167309750539
-Portugal,2020,Health education,0.0882417056,0.7134835995147927
-Portugal,2020,Control of harmful use of alcohol and drugs,0.0570562046,0.4613313620341047
-Portugal,2020,Medical education/training,0.008452607999999999,0.0683440686024946
-Portugal,2020,Medical research,0.0071450952,0.05777209549054624
-Portugal,2019,Medical services,10.995644454599999,80.68755459615643
-Portugal,2019,Basic health care,1.3157210748000001,9.654942599733287
-Portugal,2019,Reproductive health care,0.7453131127999999,5.469210352206589
-Portugal,2019,Basic nutrition,0.231164521,1.69631711773645
-Portugal,2019,Medical research,0.22208347039999998,1.6296791167440274
-Portugal,2019,Medical education/training,0.0605858288,0.44458716260221437
-Portugal,2019,Health policy and administrative management,0.0372641148,0.2734492107140273
-Portugal,2019,Control of harmful use of alcohol and drugs,0.0171330402,0.12572461052588052
-Portugal,2019,Health personnel development,0.002525877,0.018535233581094355
+"Year","Sector","Bilateral ODA for","Share","Donor"
+2018,"Health policy and administrative management",0.054563,"1%","Portugal"
+2019,"Health policy and administrative management",0.036083,"0%","Portugal"
+2020,"Health policy and administrative management",0.103988,"1%","Portugal"
+2021,"Health policy and administrative management",0.212635,"1%","Portugal"
+2022,"Health policy and administrative management",0.298557,"1%","Portugal"
+2018,"Medical education/training",0.033815,"0%","Portugal"
+2019,"Medical education/training",0.058665,"0%","Portugal"
+2020,"Medical education/training",0.008185,"0%","Portugal"
+2021,"Medical education/training",0.212333,"1%","Portugal"
+2022,"Medical education/training",0.105863,"0%","Portugal"
+2018,"Medical research",0.028542,"0%","Portugal"
+2019,"Medical research",0.215045,"2%","Portugal"
+2020,"Medical research",0.006919,"0%","Portugal"
+2021,"Medical research",0.165155,"0%","Portugal"
+2022,"Medical research",0.064103,"0%","Portugal"
+2018,"Medical services",5.341041,"62%","Portugal"
+2019,"Medical services",10.647174,"81%","Portugal"
+2020,"Medical services",7.750489,"65%","Portugal"
+2021,"Medical services",4.043484,"11%","Portugal"
+2022,"Medical services",6.811762,"24%","Portugal"
+2018,"Basic health care",1.281279,"15%","Portugal"
+2019,"Basic health care",1.274024,"10%","Portugal"
+2020,"Basic health care",1.238549,"10%","Portugal"
+2021,"Basic health care",1.582246,"4%","Portugal"
+2022,"Basic health care",1.179391,"4%","Portugal"
+2018,"Basic health infrastructure",0.598363,"7%","Portugal"
+2019,"Basic nutrition",0.223838,"2%","Portugal"
+2020,"Basic nutrition",0.168225,"1%","Portugal"
+2021,"Basic nutrition",0.251507,"1%","Portugal"
+2022,"Basic nutrition",0.149913,"1%","Portugal"
+2018,"Infectious disease control",0.05634,"1%","Portugal"
+2021,"Infectious disease control",0.05913,"0%","Portugal"
+2020,"Health education",0.085446,"1%","Portugal"
+2021,"Health education",0.021658,"0%","Portugal"
+2018,"Malaria control",0.016792,"0%","Portugal"
+2021,"Malaria control",0.018347,"0%","Portugal"
+2018,"Tuberculosis control",0.00287,"0%","Portugal"
+2018,"Health personnel development",0.013005,"0%","Portugal"
+2019,"Health personnel development",0.002446,"0%","Portugal"
+2022,"Health personnel development",0.022465,"0%","Portugal"
+2018,"Population policy and administrative management",0.073021,"1%","Portugal"
+2022,"Population policy and administrative management",0.011232,"0%","Portugal"
+2018,"Reproductive health care",1.078643,"12%","Portugal"
+2019,"Reproductive health care",0.721693,"5%","Portugal"
+2020,"Reproductive health care",0.347587,"3%","Portugal"
+2021,"Reproductive health care",0.099994,"0%","Portugal"
+2022,"Reproductive health care",0.086963,"0%","Portugal"
+2018,"STD control including HIV/AIDS",0.045595,"1%","Portugal"
+2021,"STD control including HIV/AIDS",0.011826,"0%","Portugal"
+2018,"Personnel development for population and reproductive health",0.0456,"1%","Portugal"
+2019,"Control of harmful use of alcohol and drugs",0.01659,"0%","Portugal"
+2020,"Control of harmful use of alcohol and drugs",0.055248,"0%","Portugal"
+2021,"Control of harmful use of alcohol and drugs",0.029565,"0%","Portugal"
+2022,"Control of harmful use of alcohol and drugs",0.08819,"0%","Portugal"
+2020,"COVID-19 control",2.211143,"18%","Portugal"
+2021,"COVID-19 control",30.96063,"82%","Portugal"
+2022,"COVID-19 control",19.731108,"69%","Portugal"
+2022,"Family planning",0.089859,"0%","Portugal"

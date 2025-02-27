@@ -1,66 +1,68 @@
-donor,year,Sector,Bilateral ODA for,share
-France,2023,Higher education,1112.492989875,65.38786894939828
-France,2023,Education policy and administrative management,161.88792046500004,9.515121644987108
-France,2023,Upper Secondary Education (modified and includes data from 11322),118.32955261249991,6.954935760931348
-France,2023,Primary education,117.55139640499993,6.909198864985707
-France,2023,Vocational training,115.35734210500007,6.780241166966976
-France,2023,School feeding,30.26157544499999,1.7786538408860628
-France,2023,Education facilities and training,17.2099606275,1.0115323515537082
-France,2023,Teacher training,10.548561974999998,0.6200020982634742
-France,2023,Basic life skills for youth,7.747686320000001,0.45537787865982704
-France,2023,Basic life skills for adults,4.168843895000004,0.2450278974857971
-France,2023,Advanced technical and managerial training,3.0637456249999997,0.18007466046532272
-France,2023,Educational research,1.9506736599999996,0.11465276168387784
-France,2023,Early childhood education,0.8049567425,0.04731212373251769
-France,2022,Higher education,1081.1170759399974,65.69593229504692
-France,2022,Education policy and administrative management,139.06053284500027,8.450251646201288
-France,2022,Upper Secondary Education (modified and includes data from 11322),128.8351631525,7.828889529220346
-France,2022,Primary education,118.77413644499994,7.2175139954282335
-France,2022,Vocational training,98.91325780499994,6.010633660734492
-France,2022,Education facilities and training,27.37500692499999,1.6634892201268434
-France,2022,Basic life skills for adults,20.3905859425,1.239068906917499
-France,2022,School feeding,14.027292635,0.8523924815733056
-France,2022,Teacher training,6.394928287499998,0.38859877913037155
-France,2022,Educational research,4.1696893275,0.2533783193764142
-France,2022,Advanced technical and managerial training,3.30010517,0.20053654746536165
-France,2022,Early childhood education,2.7668754125,0.16813392722558246
-France,2022,Basic life skills for youth,0.5131212374999999,0.031180691553355507
-France,2021,Higher education,968.5169934000002,65.05496573368121
-France,2021,Primary education,133.87714938249988,8.99248379218108
-France,2021,Upper Secondary Education (modified and includes data from 11322),114.11055974000001,7.664768511367745
-France,2021,Education policy and administrative management,106.22641888250011,7.135193380709876
-France,2021,Vocational training,75.12002363250002,5.045787112283838
-France,2021,Education facilities and training,36.11026665499998,2.425514653726792
-France,2021,School feeding,22.89450262,1.5378161597404707
-France,2021,Basic life skills for adults,13.775944794999994,0.9253256501382606
-France,2021,Educational research,11.106115507499997,0.7459941009794137
-France,2021,Teacher training,4.349020607499999,0.29212227407881625
-France,2021,Advanced technical and managerial training,1.6192110775,0.10876187189299504
-France,2021,Basic life skills for youth,0.6857821525000001,0.0460637600947412
-France,2021,Early childhood education,0.375213985,0.02520299912475751
-France,2020,Higher education,1065.8123921699998,65.62407900240568
-France,2020,Vocational training,144.58092886749998,8.902120455668951
-France,2020,Upper Secondary Education (modified and includes data from 11322),135.49329373750004,8.342577622336018
-France,2020,Primary education,114.60988018499997,7.056746465861171
-France,2020,Education policy and administrative management,78.1429395225,4.811408156236572
-France,2020,Education facilities and training,55.798053545,3.4355913863623875
-France,2020,Basic life skills for adults,15.036140417500002,0.9258035221755039
-France,2020,Teacher training,7.158315947500002,0.4407510127617216
-France,2020,School feeding,4.162764575,0.25630926544400995
-France,2020,Early childhood education,2.248830965,0.13846476358728355
-France,2020,Advanced technical and managerial training,0.7403996900000002,0.045587805233706424
-France,2020,Basic life skills for youth,0.2826634825,0.017404123692827563
-France,2020,Educational research,0.05126395250000001,0.0031564182341567125
-France,2019,Higher education,970.1971438150001,67.40039809998558
-France,2019,Upper Secondary Education (modified and includes data from 11322),143.53038318499992,9.97117444406447
-France,2019,Primary education,106.02443087750001,7.36560491341803
-France,2019,Education policy and administrative management,91.67299119499992,6.368598527576842
-France,2019,Vocational training,85.94771581000006,5.970858910797863
-France,2019,Basic life skills for adults,21.25710013,1.4767483292926016
-France,2019,Advanced technical and managerial training,9.917151632500001,0.6889527270922148
-France,2019,Education facilities and training,5.322926372500002,0.36978809806908997
-France,2019,School feeding,3.4072044725,0.23670131304606384
-France,2019,Early childhood education,0.9015049174999998,0.06262829231764969
-France,2019,Teacher training,0.8498675024999998,0.05904099838461599
-France,2019,Educational research,0.37827529499999996,0.026279097642088207
-France,2019,Basic life skills for youth,0.0464403325,0.0032262483128816075
+"Year","Sector","Bilateral ODA for","Share","Donor"
+2018,"Education policy and administrative management",17.335002,"1%","France"
+2019,"Education policy and administrative management",92.359021,"6%","France"
+2020,"Education policy and administrative management",78.775715,"5%","France"
+2021,"Education policy and administrative management",107.188857,"7%","France"
+2022,"Education policy and administrative management",141.150506,"8%","France"
+2018,"Education facilities and training",2.545333,"0%","France"
+2019,"Education facilities and training",5.362758,"0%","France"
+2020,"Education facilities and training",56.249917,"3%","France"
+2021,"Education facilities and training",36.437419,"2%","France"
+2022,"Education facilities and training",27.786448,"2%","France"
+2018,"Teacher training",6.156228,"0%","France"
+2019,"Teacher training",0.856227,"0%","France"
+2020,"Teacher training",7.216286,"0%","France"
+2021,"Teacher training",4.38842,"0%","France"
+2022,"Teacher training",6.491039,"0%","France"
+2018,"Educational research",0.061215,"0%","France"
+2019,"Educational research",0.381108,"0%","France"
+2020,"Educational research",0.051678,"0%","France"
+2021,"Educational research",11.206736,"1%","France"
+2022,"Educational research",4.232361,"0%","France"
+2018,"Primary education",102.312931,"8%","France"
+2019,"Primary education",106.817822,"7%","France"
+2020,"Primary education",115.538036,"7%","France"
+2021,"Primary education",135.090069,"9%","France"
+2022,"Primary education",120.559263,"7%","France"
+2018,"Basic life skills for adults",7.536296,"1%","France"
+2019,"Basic life skills for adults",21.41617,"1%","France"
+2020,"Basic life skills for adults",15.157913,"1%","France"
+2021,"Basic life skills for adults",13.900751,"1%","France"
+2022,"Basic life skills for adults",20.697046,"1%","France"
+2018,"Basic life skills for youth",0.001149,"0%","France"
+2019,"Basic life skills for youth",0.046789,"0%","France"
+2020,"Basic life skills for youth",0.284953,"0%","France"
+2021,"Basic life skills for youth",0.691994,"0%","France"
+2022,"Basic life skills for youth",0.520835,"0%","France"
+2018,"Primary education equivalent for adults",0.061011,"0%","France"
+2018,"Early childhood education",0.962047,"0%","France"
+2019,"Early childhood education",0.908254,"0%","France"
+2020,"Early childhood education",2.267042,"0%","France"
+2021,"Early childhood education",0.378613,"0%","France"
+2022,"Early childhood education",2.808463,"0%","France"
+2018,"Upper Secondary Education (modified and includes data from 11322)",112.560527,"8%","France"
+2019,"Upper Secondary Education (modified and includes data from 11322)",144.604435,"10%","France"
+2020,"Upper Secondary Education (modified and includes data from 11322)",136.590537,"8%","France"
+2021,"Upper Secondary Education (modified and includes data from 11322)",115.14439,"8%","France"
+2022,"Upper Secondary Education (modified and includes data from 11322)",130.771501,"8%","France"
+2018,"Vocational training",57.227637,"4%","France"
+2019,"Vocational training",86.590877,"6%","France"
+2020,"Vocational training",145.751761,"9%","France"
+2021,"Vocational training",75.800602,"5%","France"
+2022,"Vocational training",100.399876,"6%","France"
+2018,"Higher education",1023.939171,"76%","France"
+2019,"Higher education",977.457274,"67%","France"
+2020,"Higher education",1074.443445,"66%","France"
+2021,"Higher education",977.291679,"65%","France"
+2022,"Higher education",1097.365758,"66%","France"
+2018,"Advanced technical and managerial training",10.649288,"1%","France"
+2019,"Advanced technical and managerial training",9.991362,"1%","France"
+2020,"Advanced technical and managerial training",0.746397,"0%","France"
+2021,"Advanced technical and managerial training",1.63388,"0%","France"
+2022,"Advanced technical and managerial training",3.349705,"0%","France"
+2018,"School feeding",0.056869,"0%","France"
+2019,"School feeding",3.4327,"0%","France"
+2020,"School feeding",4.196481,"0%","France"
+2021,"School feeding",23.101927,"2%","France"
+2022,"School feeding",14.23812,"1%","France"
+2018,"Lower secondary education",3.243508,"0%","France"

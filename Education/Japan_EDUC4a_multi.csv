@@ -1,55 +1,76 @@
-Year,ODA,Share,Full Name,donor
-2023,0.001,5.5230706947525865e-06,adaptation fund,Japan
-2023,167.7361,0.9264183383620892,international development association,Japan
-2023,0.8618,0.004759782324737779,african development bank,Japan
-2023,0.284,0.0015685520773097343,international bank for reconstruction and development,Japan
-2023,7.8201,0.0431909651400347,asian development bank,Japan
-2023,0.0001,5.523070694752587e-07,food and agricultural organisation,Japan
-2023,1.1789000000000003,0.0065111480420438255,united nations children’s fund,Japan
-2023,0.2984,0.0016480842953141717,united nations development programme,Japan
-2023,0.9653,0.005331420141644672,united nations population fund,Japan
-2023,1.7439,0.009631682984579035,african development fund,Japan
-2023,0.1037,0.0005727424310458432,united nations,Japan
-2023,0.0654,0.0003612088234368191,united nations industrial development organisation,Japan
-2021,11.8333,0.13806658017062742,african development fund,Japan
-2021,0.7853,0.009162590774170665,united nations relief and works agency for palestine refugees in the near east,Japan
-2021,0.0023,2.683555173894375e-05,united nations development programme,Japan
-2021,0.6187,0.00721876341777587,united nations population fund,Japan
-2021,70.933,0.8276200832602163,international development association,Japan
-2021,0.2021,0.002358028263669797,united nations industrial development organisation,Japan
-2021,0.0538,0.0006277185580674669,food and agricultural organisation,Japan
-2021,0.10820000000000002,0.0012624376948494412,african development bank,Japan
-2021,0.0202,0.0002356861500550712,inter american development bank inter american investment corporation and multilateral investment fund,Japan
-2021,1.1503,0.013421276158829131,united nations children’s fund,Japan
-2022,77.2953,0.8665499238219303,international development association,Japan
-2022,0.1316,0.0014753545167036808,united nations industrial development organisation,Japan
-2022,0.0011,1.233199064114019e-05,adaptation fund,Japan
-2022,1.3707,0.015366781428918962,united nations children’s fund,Japan
-2022,0.021100000000000004,0.0002365500022982346,inter american development bank inter american investment corporation and multilateral investment fund,Japan
-2022,0.20139999999999997,0.0022578753773869397,united nations development programme,Japan
-2022,0.0117,0.0001311675368194002,food and agricultural organisation,Japan
-2022,0.2042,0.0022892658990189335,african development bank,Japan
-2022,0.9496,0.01064587119347884,united nations relief and works agency for palestine refugees in the near east,Japan
-2022,0.876,0.009820748910580733,united nations population fund,Japan
-2022,1.5211000000000001,0.017052900876580315,african development fund,Japan
-2022,6.6151,0.07416122844564224,international bank for reconstruction and development,Japan
-2019,127.11529999999999,0.7635194550893168,international development association,Japan
-2019,21.382,0.12843121944187502,international bank for reconstruction and development,Japan
-2019,0.8469,0.00508691421500907,united nations relief and works agency for palestine refugees in the near east,Japan
-2019,13.0125,0.07815972514205399,african development fund,Japan
-2019,0.9905,0.005949449202935983,united nations children’s fund,Japan
-2019,0.0521,0.0003129392261211153,food and agricultural organisation,Japan
-2019,0.6866,0.004124070492413777,united nations population fund,Japan
-2019,0.0717,0.0004306668428576577,world food programme,Japan
-2019,0.0302,0.00018139663395120312,united nations development programme,Japan
-2019,2.2982,0.013804163713465397,inter american development bank inter american investment corporation and multilateral investment fund,Japan
-2020,0.6687,0.010315719323577595,united nations population fund,Japan
-2020,0.4498,0.006938852328017351,african development bank,Japan
-2020,0.0279,0.00043040013328520254,united nations development programme,Japan
-2020,0.0491,0.0007574425284696575,food and agricultural organisation,Japan
-2020,0.0806,0.0012433781628239185,inter american development bank inter american investment corporation and multilateral investment fund,Japan
-2020,0.8453,0.013040044181576406,united nations relief and works agency for palestine refugees in the near east,Japan
-2020,0.23379999999999998,0.0036067222638738474,united nations industrial development organisation,Japan
-2020,1.0438,0.016102210004411987,united nations children’s fund,Japan
-2020,3.9091,0.060303840896960045,african development fund,Japan
-2020,57.5153,0.8872613901770039,international development association,Japan
+"Year","Multi_short","ODA","Share","Full Name","Donor"
+"2018","IDA","173.2","21.8%","international development association","Japan"
+"2019","IDA","155.7","16.9%","international development association","Japan"
+"2020","IDA","70.5","10.2%","international development association","Japan"
+"2021","IDA","87.5","12.9%","international development association","Japan"
+"2022","IDA","95.8","11.5%","international development association","Japan"
+"2018","IBRD","0","0%","international bank for reconstruction and development","Japan"
+"2019","IBRD","26.2","2.8%","international bank for reconstruction and development","Japan"
+"2020","IBRD","0","0%","international bank for reconstruction and development","Japan"
+"2021","IBRD","0","0%","international bank for reconstruction and development","Japan"
+"2022","IBRD","8.2","1%","international bank for reconstruction and development","Japan"
+"2018","African Development Fund","30.1","3.8%","african development fund","Japan"
+"2019","African Development Fund","15.9","1.7%","african development fund","Japan"
+"2020","African Development Fund","4.8","0.7%","african development fund","Japan"
+"2021","African Development Fund","14.6","2.2%","african development fund","Japan"
+"2022","African Development Fund","1.9","0.2%","african development fund","Japan"
+"2018","UNICEF","1.1","0.1%","united nations childrenâ€™s fund","Japan"
+"2019","UNICEF","1.2","0.1%","united nations childrenâ€™s fund","Japan"
+"2020","UNICEF","1.3","0.2%","united nations childrenâ€™s fund","Japan"
+"2021","UNICEF","1.4","0.2%","united nations childrenâ€™s fund","Japan"
+"2022","UNICEF","1.7","0.2%","united nations childrenâ€™s fund","Japan"
+"2018","UNRWA","1","0.1%","united nations relief and works agency for palestine refugees in the near east","Japan"
+"2019","UNRWA","1","0.1%","united nations relief and works agency for palestine refugees in the near east","Japan"
+"2020","UNRWA","1","0.1%","united nations relief and works agency for palestine refugees in the near east","Japan"
+"2021","UNRWA","1","0.1%","united nations relief and works agency for palestine refugees in the near east","Japan"
+"2022","UNRWA","1.2","0.1%","united nations relief and works agency for palestine refugees in the near east","Japan"
+"2018","UNFPA","1.6","0.2%","united nations population fund","Japan"
+"2019","UNFPA","0.8","0.1%","united nations population fund","Japan"
+"2020","UNFPA","0.8","0.1%","united nations population fund","Japan"
+"2021","UNFPA","0.8","0.1%","united nations population fund","Japan"
+"2022","UNFPA","1.1","0.1%","united nations population fund","Japan"
+"2018","AfDB","0.6","0.1%","african development bank","Japan"
+"2019","AfDB","0","0%","african development bank","Japan"
+"2020","AfDB","0.6","0.1%","african development bank","Japan"
+"2021","AfDB","0.1","0%","african development bank","Japan"
+"2022","AfDB","0.3","0%","african development bank","Japan"
+"2018","UNDP","0","0%","united nations development programme","Japan"
+"2019","UNDP","0","0%","united nations development programme","Japan"
+"2020","UNDP","0","0%","united nations development programme","Japan"
+"2021","UNDP","0","0%","united nations development programme","Japan"
+"2022","UNDP","0.2","0%","united nations development programme","Japan"
+"2018","UNIDO","0","0%","united nations industrial development organisation","Japan"
+"2019","UNIDO","0","0%","united nations industrial development organisation","Japan"
+"2020","UNIDO","0.3","0%","united nations industrial development organisation","Japan"
+"2021","UNIDO","0.2","0%","united nations industrial development organisation","Japan"
+"2022","UNIDO","0.2","0%","united nations industrial development organisation","Japan"
+"2018","IDB, IIC and MIF","0.3","0%","inter american development bank inter american investment corporation and multilateral investment fund","Japan"
+"2019","IDB, IIC and MIF","2.8","0.3%","inter american development bank inter american investment corporation and multilateral investment fund","Japan"
+"2020","IDB, IIC and MIF","0.1","0%","inter american development bank inter american investment corporation and multilateral investment fund","Japan"
+"2021","IDB, IIC and MIF","0","0%","inter american development bank inter american investment corporation and multilateral investment fund","Japan"
+"2022","IDB, IIC and MIF","0","0%","inter american development bank inter american investment corporation and multilateral investment fund","Japan"
+"2018","FAO","0","0%","food and agricultural organisation","Japan"
+"2019","FAO","0.1","0%","food and agricultural organisation","Japan"
+"2020","FAO","0.1","0%","food and agricultural organisation","Japan"
+"2021","FAO","0.1","0%","food and agricultural organisation","Japan"
+"2022","FAO","0","0%","food and agricultural organisation","Japan"
+"2018","Adaptation Fund","0","0%","adaptation fund","Japan"
+"2019","Adaptation Fund","0","0%","adaptation fund","Japan"
+"2020","Adaptation Fund","0","0%","adaptation fund","Japan"
+"2021","Adaptation Fund","0","0%","adaptation fund","Japan"
+"2022","Adaptation Fund","0","0%","adaptation fund","Japan"
+"2018","UN","0","0%","united nations","Japan"
+"2019","UN","0","0%","united nations","Japan"
+"2020","UN","0","0%","united nations","Japan"
+"2021","UN","0","0%","united nations","Japan"
+"2022","UN","0","0%","united nations","Japan"
+"2018","WFP","0.2","0%","world food programme","Japan"
+"2019","WFP","0.1","0%","world food programme","Japan"
+"2020","WFP","0","0%","world food programme","Japan"
+"2021","WFP","0","0%","world food programme","Japan"
+"2022","WFP","0","0%","world food programme","Japan"
+"2018","IFC","0","0%","international finance corporation","Japan"
+"2019","IFC","0","0%","international finance corporation","Japan"
+"2020","IFC","0","0%","international finance corporation","Japan"
+"2021","IFC","0","0%","international finance corporation","Japan"
+"2022","IFC","0","0%","international finance corporation","Japan"

@@ -1,6 +1,6 @@
-donor,Year,Gender funding as % of bilateral allocable ODA,Funding for projects with gender equality as a principal objective,Funding for projects with gender equality as a significant objective,Principal,Significant,Not targeted or screened
-Korea,2019,6.973131417477335,71.0880942460317,142.88566567460316,2.3166701542257155,4.656461263251619,93.02686858252267
-Korea,2020,25.34868252320183,57.158986111111105,417.1163561507937,3.0549869731126407,22.29369555008919,74.65131747679817
-Korea,2021,13.80786460768079,134.86733134920667,338.85251488095116,3.9310783917722967,9.876786215908494,86.19213539231922
-Korea,2022,10.314420892767355,89.1471240079365,338.2649751984135,2.151321780794178,8.163099111973178,89.68557910723264
-Korea,2023,15.42600652199881,75.76234027777781,593.8828313492041,1.7452680983383688,13.68073842366044,84.5739934780012
+"Year","Gender funding as a % of bilateral allocable ODA","Funding for projects with gender equality as a principal objective","Funding for projects with gender equality as a Significant objective","Principal","Significant","Not targeted","Not screened"
+2018,"13%",67,166,"4%","9%","81%","5%"
+2019,"12%",80,160,"4%","8%","83%","5%"
+2020,"28%",64,467,"3%","24%","67%","6%"
+2021,"23%",151,381,"7%","16%","69%","9%"
+2022,"18%",99,377,"4%","15%","74%","7%"

@@ -1,145 +1,112 @@
-donor,year,Sector,Bilateral ODA for,share
-Norway,2023,Household food security programmes,73.50897481399998,17.25573318157824
-Norway,2023,Agricultural development,65.1216716076,15.286870650045971
-Norway,2023,Agricultural policy and administrative management,43.80265197200001,10.282375410443226
-Norway,2023,Food security policy and administrative management,35.301917230799994,8.286885595591626
-Norway,2023,Agricultural financial services,32.8476321024,7.710758810605908
-Norway,2023,Fishery development,29.626067787200004,6.954518441439482
-Norway,2023,Research/scientific institutions,26.4887659828,6.2180581250795806
-Norway,2023,Agricultural land resources,24.358645448400004,5.718026779530101
-Norway,2023,Food crop production,18.5483655648,4.354102991511251
-Norway,2023,Agricultural education/training,14.4790518536,3.3988592024327
-Norway,2023,Disaster Risk Reduction,14.2520212592,3.3455653104836665
-Norway,2023,Fishing policy and administrative management,10.158272742000001,2.3845856164527413
-Norway,2023,Rural development,9.760893240800002,2.2913034742124725
-Norway,2023,Agricultural research,7.0810252936,1.662222652778681
-Norway,2023,Forestry policy and administrative management,5.7139744748000005,1.3413167466011109
-Norway,2023,Fishery education/training,3.6711598183999996,0.861779863663351
-Norway,2023,Agricultural co-operatives,2.9643168456,0.6958532707436061
-Norway,2023,Agricultural extension,1.3474011452,0.316293278595637
-Norway,2023,Plant and post-harvest protection and pest control,1.1933037864000002,0.2801199689532843
-Norway,2023,Agricultural services,1.1838328868,0.27789673951904664
-Norway,2023,Agricultural alternative development,1.0373127404000002,0.24350212908676167
-Norway,2023,Industrial crops/export crops,0.666432542,0.15644051841793294
-Norway,2023,Forestry development,0.6155928712000001,0.14450625057398808
-Norway,2023,Agricultural inputs,0.5437107716,0.12763241531281397
-Norway,2023,Food safety and quality,0.4735334832000001,0.1111587729160704
-Norway,2023,Livestock/veterinary services,0.4637784484,0.10886884467109435
-Norway,2023,Agricultural water resources,0.3598851516,0.08448059801860694
-Norway,2023,Multisector education/training,0.220845316,0.051841939803131974
-Norway,2023,Fishery research,0.206363454,0.048442420937894796
-Norway,2022,Agricultural development,43.180009919999996,18.1267616755175
-Norway,2022,Fishery development,25.652353252799994,10.768735224729927
-Norway,2022,Agricultural policy and administrative management,22.3698756064,9.390766805738274
-Norway,2022,Research/scientific institutions,19.140328405999995,8.035018334861459
-Norway,2022,Agricultural land resources,18.9202566604,7.942633268452327
-Norway,2022,Household food security programmes,17.420926124399998,7.313221479310756
-Norway,2022,Food security policy and administrative management,11.5160423584,4.834379511784079
-Norway,2022,Fishing policy and administrative management,10.804432319599998,4.5356490204495055
-Norway,2022,Disaster Risk Reduction,9.574126903600002,4.019172690192785
-Norway,2022,Agricultural inputs,9.439669364000002,3.9627280580511712
-Norway,2022,Food crop production,8.877401114800001,3.726690535831007
-Norway,2022,Rural development,8.1542967396,3.4231347770421863
-Norway,2022,Agricultural research,7.665739402400002,3.218040743190473
-Norway,2022,Agricultural services,6.829077848800001,2.8668142239452585
-Norway,2022,Forestry policy and administrative management,4.9227104996,2.0665303270920807
-Norway,2022,Agricultural education/training,3.8798694408000003,1.6287506375242855
-Norway,2022,Agricultural extension,2.1928454328000004,0.9205460263963885
-Norway,2022,Livestock,1.5376838608,0.6455123314851529
-Norway,2022,Agricultural financial services,1.2965713288000003,0.5442944435633573
-Norway,2022,Fishery education/training,1.0287804724000003,0.4318771226354808
-Norway,2022,Agricultural co-operatives,0.9396958752000001,0.39447983473777853
-Norway,2022,Plant and post-harvest protection and pest control,0.8542689028000001,0.35861800024017754
-Norway,2022,Forestry development,0.6804660288000001,0.2856563848687377
-Norway,2022,Industrial crops/export crops,0.6407018823999999,0.26896358636409134
-Norway,2022,Livestock/veterinary services,0.2562809172,0.10758550349280314
-Norway,2022,Fishery research,0.2562809172,0.10758550349280314
-Norway,2022,Multisector education/training,0.17873253760000002,0.07503106457682979
-Norway,2022,Agricultural alternative development,0.0019602044,0.0008228844333276332
-Norway,2022,Food safety and quality,,
-Norway,2021,Agricultural development,53.695425826800005,27.69122692574356
-Norway,2021,Fishery development,27.327191474000003,14.092884984107704
-Norway,2021,Disaster Risk Reduction,17.6762002504,9.115779692250968
-Norway,2021,Fishing policy and administrative management,12.499308642,6.446008886063747
-Norway,2021,Household food security programmes,10.5223755768,5.426486249218658
-Norway,2021,Research/scientific institutions,9.623246160399997,4.962796906564875
-Norway,2021,Agricultural research,8.3145654164,4.28789816244564
-Norway,2021,Food crop production,7.3575808176000015,3.7943723679898684
-Norway,2021,Forestry policy and administrative management,6.5594195835999995,3.382753249346169
-Norway,2021,Rural development,6.370876169600001,3.2855196697248954
-Norway,2021,Agricultural services,4.3781243288,2.2578391442313404
-Norway,2021,Food security policy and administrative management,4.135957376,2.1329514104878515
-Norway,2021,Agricultural policy and administrative management,4.0626233948,2.0951323992125217
-Norway,2021,Agricultural education/training,3.3157994788,1.7099884095133728
-Norway,2021,Agricultural land resources,2.7871076340000003,1.437337143177019
-Norway,2021,Livestock,2.7478624860000003,1.41709805796131
-Norway,2021,Agricultural inputs,2.2632337696000002,1.167170553822472
-Norway,2021,Agricultural extension,2.1547450376,1.1112219129384517
-Norway,2021,Fishery education/training,2.1418513764,1.1045725327967515
-Norway,2021,Agricultural co-operatives,1.7572801316000002,0.9062455906988771
-Norway,2021,Agricultural financial services,1.1269360448000003,0.5811713245000718
-Norway,2021,Forestry development,1.0861823524000003,0.560154269007291
-Norway,2021,Agricultural alternative development,1.0612523628,0.5472976431655144
-Norway,2021,Fishery research,0.5923947924,0.3055034646506082
-Norway,2021,Multisector education/training,0.19556795880000002,0.10085620223971334
-Norway,2021,Livestock/veterinary services,0.13614017840000003,0.07020874712765604
-Norway,2021,Food safety and quality,0.0184679668,0.009524101013100677
-Norway,2021,Industrial crops/export crops,,
-Norway,2020,Agricultural development,48.26930001840002,22.100899210472505
-Norway,2020,Fishery development,29.9984220396,13.735274837581803
-Norway,2020,Disaster Risk Reduction,24.025549483200002,11.000496120764414
-Norway,2020,Research/scientific institutions,22.963978494800003,10.514438245252514
-Norway,2020,Rural development,15.331005793600001,7.019555156390578
-Norway,2020,Household food security programmes,13.305352574799997,6.092076249362664
-Norway,2020,Agricultural research,11.4794078052,5.256037166520446
-Norway,2020,Food security policy and administrative management,9.5099451964,4.354286061795689
-Norway,2020,Fishing policy and administrative management,8.3388450156,3.818078429794381
-Norway,2020,Agricultural policy and administrative management,6.0612435308,2.775240832439559
-Norway,2020,Food crop production,5.149016795600001,2.357562699049013
-Norway,2020,Agricultural inputs,4.8959032468,2.24167046467434
-Norway,2020,Agricultural services,3.8435707584,1.7598425895411085
-Norway,2020,Forestry policy and administrative management,3.5251299284,1.6140391764887874
-Norway,2020,Fishery education/training,2.9182261744,1.3361582316128848
-Norway,2020,Agricultural extension,2.4599875412000003,1.126346076830501
-Norway,2020,Agricultural education/training,1.8228209248,0.8346087787141778
-Norway,2020,Agricultural alternative development,1.4093097708000002,0.6452758417650934
-Norway,2020,Agricultural co-operatives,1.1549126864,0.5287959193378108
-Norway,2020,Agricultural financial services,0.7779777804000001,0.3562100238879214
-Norway,2020,Agricultural land resources,0.5482051992,0.25100483846995314
-Norway,2020,Livestock,0.2075443396,0.09502761650687223
-Norway,2020,Multisector education/training,0.1776608716,0.08134497528200217
-Norway,2020,Fishery research,0.1331912492,0.0609838214592717
-Norway,2020,Forestry development,0.09772854840000002,0.04474663600571887
-Norway,2020,Plant and post-harvest protection and pest control,0.0,0.0
-Norway,2020,Food safety and quality,,
-Norway,2020,Industrial crops/export crops,,
-Norway,2019,Research/scientific institutions,30.2365946756,15.496341128707046
-Norway,2019,Agricultural development,28.764962394400005,14.742125381525195
-Norway,2019,Fishery development,24.880590314000003,12.751373596329017
-Norway,2019,Disaster Risk Reduction,17.759041264,9.10155936864831
-Norway,2019,Rural development,16.223504841200004,8.314592566382535
-Norway,2019,Household food security programmes,11.612059526,5.951213671788175
-Norway,2019,Fishing policy and administrative management,10.692385328,5.479878018670509
-Norway,2019,Agricultural research,10.2625043732,5.259562801570655
-Norway,2019,Agricultural policy and administrative management,8.665512627200002,4.441099970644925
-Norway,2019,Agricultural education/training,6.801561079200002,3.4858194787415684
-Norway,2019,Food crop production,5.1333384452000015,2.6308506142763037
-Norway,2019,Agricultural inputs,3.6379110728000006,1.864439814894293
-Norway,2019,Agricultural extension,3.0620889176000006,1.5693293157729353
-Norway,2019,Fishery education/training,3.045537631599999,1.5608467344265053
-Norway,2019,Fishery services,2.4978793516,1.2801703017828037
-Norway,2019,Agricultural co-operatives,2.2256031008,1.1406279456110942
-Norway,2019,Forestry policy and administrative management,2.0564547884,1.0539389524087373
-Norway,2019,Agricultural services,1.5611742868,0.8001062807889978
-Norway,2019,Plant and post-harvest protection and pest control,1.4502375576000002,0.7432508902322873
-Norway,2019,Agricultural alternative development,1.3738339308000003,0.704093813284113
-Norway,2019,Agricultural land resources,0.7126882744,0.3652547761089046
-Norway,2019,Food safety and quality,0.637033582,0.3264815301797303
-Norway,2019,Fishery research,0.4483612396,0.22978641584061527
-Norway,2019,Livestock,0.41835212800000005,0.21440666043785805
-Norway,2019,Agricultural financial services,0.3247246524,0.1664223117873761
-Norway,2019,Industrial crops/export crops,0.28640335440000003,0.1467825371145341
-Norway,2019,Food security policy and administrative management,0.22581439720000002,0.11573052350397033
-Norway,2019,Agricultural water resources,0.0700179756,0.035884412470385305
-Norway,2019,Multisector education/training,0.0467730884,0.023971341391643922
-Norway,2019,Forestry development,0.0079196528,0.004058844678986147
+"Year","Sector","Bilateral ODA for","Share","Donor"
+2018,"Agricultural alternative development",0.001652,"0%","Norway"
+2018,"Agricultural co-operatives",3.928646,"3%","Norway"
+2018,"Agricultural development",13.004551,"11%","Norway"
+2018,"Agricultural education/training",9.04214,"8%","Norway"
+2018,"Agricultural extension",7.481177,"6%","Norway"
+2018,"Agricultural inputs",1.266364,"1%","Norway"
+2018,"Agricultural land resources",1.305078,"1%","Norway"
+2018,"Agricultural policy and administrative management",9.531314,"8%","Norway"
+2018,"Agricultural research",9.631521,"8%","Norway"
+2018,"Agricultural services",2.894931,"2%","Norway"
+2018,"Agricultural water resources",0.109734,"0%","Norway"
+2018,"Fishery development",24.583506,"21%","Norway"
+2018,"Fishery education/training",1.61766,"1%","Norway"
+2018,"Fishery research",0.323369,"0%","Norway"
+2018,"Fishing policy and administrative management",10.284207,"9%","Norway"
+2018,"Food crop production",3.399944,"3%","Norway"
+2018,"Forestry development",1.254501,"1%","Norway"
+2018,"Forestry education/training",0.423219,"0%","Norway"
+2018,"Forestry policy and administrative management",0.607091,"1%","Norway"
+2018,"Industrial crops/export crops",0.896829,"1%","Norway"
+2018,"Livestock",0.419146,"0%","Norway"
+2018,"Plant and post-harvest protection and pest control",1.30553,"1%","Norway"
+2018,"Rural development",12.905338,"11%","Norway"
+2019,"Agricultural alternative development",1.442902,"1%","Norway"
+2019,"Agricultural co-operatives",2.337494,"2%","Norway"
+2019,"Agricultural development",30.211091,"21%","Norway"
+2019,"Agricultural education/training",7.143504,"5%","Norway"
+2019,"Agricultural extension",3.216032,"2%","Norway"
+2019,"Agricultural financial services",0.34105,"0%","Norway"
+2019,"Agricultural inputs",3.820804,"3%","Norway"
+2019,"Agricultural land resources",0.748517,"1%","Norway"
+2019,"Agricultural policy and administrative management",9.101163,"6%","Norway"
+2019,"Agricultural research",10.778441,"8%","Norway"
+2019,"Agricultural services",1.639661,"1%","Norway"
+2019,"Agricultural water resources",0.073538,"0%","Norway"
+2019,"Fishery development",26.131441,"18%","Norway"
+2019,"Fishery education/training",3.198649,"2%","Norway"
+2019,"Fishery research",0.470902,"0%","Norway"
+2019,"Fishery services",2.623458,"2%","Norway"
+2019,"Fishing policy and administrative management",11.229936,"8%","Norway"
+2019,"Food crop production",5.391412,"4%","Norway"
+2019,"Forestry development",0.008317,"0%","Norway"
+2019,"Forestry policy and administrative management",2.15984,"2%","Norway"
+2019,"Industrial crops/export crops",0.300802,"0%","Norway"
+2019,"Livestock",0.439385,"0%","Norway"
+2019,"Plant and post-harvest protection and pest control",1.523147,"1%","Norway"
+2019,"Rural development",17.039127,"12%","Norway"
+2020,"Agricultural alternative development",1.496858,"1%","Norway"
+2020,"Agricultural co-operatives",1.226658,"1%","Norway"
+2020,"Agricultural development",51.267864,"33%","Norway"
+2020,"Agricultural education/training",1.936057,"1%","Norway"
+2020,"Agricultural extension",2.612807,"2%","Norway"
+2020,"Agricultural financial services",0.826307,"1%","Norway"
+2020,"Agricultural inputs",5.200045,"3%","Norway"
+2020,"Agricultural land resources",0.582262,"0%","Norway"
+2020,"Agricultural policy and administrative management",6.437778,"4%","Norway"
+2020,"Agricultural research",12.192526,"8%","Norway"
+2020,"Agricultural services",4.08234,"3%","Norway"
+2020,"Fishery development",31.861968,"20%","Norway"
+2020,"Fishery education/training",3.099512,"2%","Norway"
+2020,"Fishery research",0.141465,"0%","Norway"
+2020,"Fishing policy and administrative management",8.856866,"6%","Norway"
+2020,"Food crop production",5.46888,"3%","Norway"
+2020,"Forestry development",0.1038,"0%","Norway"
+2020,"Forestry policy and administrative management",3.744117,"2%","Norway"
+2020,"Livestock",0.220437,"0%","Norway"
+2020,"Rural development",16.283392,"10%","Norway"
+2021,"Agricultural alternative development",1.129023,"1%","Norway"
+2021,"Agricultural co-operatives",1.869498,"1%","Norway"
+2021,"Agricultural development",57.124371,"35%","Norway"
+2021,"Agricultural education/training",3.527545,"2%","Norway"
+2021,"Agricultural extension",2.292347,"1%","Norway"
+2021,"Agricultural financial services",1.198901,"1%","Norway"
+2021,"Agricultural inputs",2.407762,"1%","Norway"
+2021,"Agricultural land resources",2.965089,"2%","Norway"
+2021,"Agricultural policy and administrative management",4.322059,"3%","Norway"
+2021,"Agricultural research",8.845528,"5%","Norway"
+2021,"Agricultural services",4.657708,"3%","Norway"
+2021,"Fishery development",29.072282,"18%","Norway"
+2021,"Fishery education/training",2.278627,"1%","Norway"
+2021,"Fishery research",0.630225,"0%","Norway"
+2021,"Fishing policy and administrative management",13.297504,"8%","Norway"
+2021,"Food crop production",7.827432,"5%","Norway"
+2021,"Forestry development",1.155545,"1%","Norway"
+2021,"Forestry policy and administrative management",6.978298,"4%","Norway"
+2021,"Livestock",2.923338,"2%","Norway"
+2021,"Livestock/veterinary services",0.144834,"0%","Norway"
+2021,"Rural development",6.777716,"4%","Norway"
+2022,"Agricultural alternative development",0.002213,"0%","Norway"
+2022,"Agricultural co-operatives",1.06072,"1%","Norway"
+2022,"Agricultural development",48.741213,"24%","Norway"
+2022,"Agricultural education/training",4.379561,"2%","Norway"
+2022,"Agricultural extension",2.475264,"1%","Norway"
+2022,"Agricultural financial services",1.463559,"1%","Norway"
+2022,"Agricultural inputs",10.655415,"5%","Norway"
+2022,"Agricultural land resources",21.357019,"10%","Norway"
+2022,"Agricultural policy and administrative management",25.250916,"12%","Norway"
+2022,"Agricultural research",8.653017,"4%","Norway"
+2022,"Agricultural services",7.708602,"4%","Norway"
+2022,"Fishery development",28.956148,"14%","Norway"
+2022,"Fishery education/training",1.161279,"1%","Norway"
+2022,"Fishery research",0.289287,"0%","Norway"
+2022,"Fishing policy and administrative management",12.195948,"6%","Norway"
+2022,"Food crop production",10.020734,"5%","Norway"
+2022,"Forestry development",0.768104,"0%","Norway"
+2022,"Forestry policy and administrative management",5.556711,"3%","Norway"
+2022,"Industrial crops/export crops",0.723218,"0%","Norway"
+2022,"Livestock",1.735724,"1%","Norway"
+2022,"Livestock/veterinary services",0.289287,"0%","Norway"
+2022,"Plant and post-harvest protection and pest control",0.964291,"0%","Norway"
+2022,"Rural development",9.204499,"5%","Norway"

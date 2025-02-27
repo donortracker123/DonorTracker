@@ -1,12 +1,31 @@
-year,Sector,Gender-related ODA to,Share,donor
-2019,Refugees in donor countries,21.331466101599997,83.0%,Greece
-2020,Refugees in donor countries,18.5189389918,99.0%,Greece
-2019,"Agriculture (incl. forestry, fishing, rural development)",2.2850324401999997,9.0%,Greece
-2019,Education,1.9062999712000002,7.0%,Greece
-2021,Reconstruction Relief & Rehabilitation,0.4915340594,100.0%,Greece
-2020,Emergency Response,0.11289496920000001,1.0%,Greece
-2019,Unspecified,0.07787791919999999,0.0%,Greece
-2020,Health & populations,0.037631656400000005,0.0%,Greece
-2022,Other social services,0.0342559042,100.0%,Greece
-2020,Education,0.0286824928,0.0%,Greece
-2020,Unspecified,0.0077395824,0.0%,Greece
+"Year","Sector","Gender-related ODA to","Share","Donor"
+"2018","Other social services",0,"0%","Greece"
+"2019","Other social services",0,"0%","Greece"
+"2020","Other social services",0,"0%","Greece"
+"2021","Other social services",0,"0%","Greece"
+"2022","Other social services",0.03,"100%","Greece"
+"2018","Education",2.18,"54%","Greece"
+"2019","Education",1.83,"45%","Greece"
+"2020","Education",0.03,"15%","Greece"
+"2021","Education",0,"0%","Greece"
+"2022","Education",0,"0%","Greece"
+"2018","Health & populations",0,"0%","Greece"
+"2019","Health & populations",0,"0%","Greece"
+"2020","Health & populations",0.04,"20%","Greece"
+"2021","Health & populations",0,"0%","Greece"
+"2022","Health & populations",0,"0%","Greece"
+"2018","Humanitarian aid",0,"0%","Greece"
+"2019","Humanitarian aid",0,"0%","Greece"
+"2020","Humanitarian aid",0.11,"60%","Greece"
+"2021","Humanitarian aid",0.47,"100%","Greece"
+"2022","Humanitarian aid",0,"0%","Greece"
+"2018","Other multisector",1.85,"46%","Greece"
+"2019","Other multisector",2.2,"54%","Greece"
+"2020","Other multisector",0,"0%","Greece"
+"2021","Other multisector",0,"0%","Greece"
+"2022","Other multisector",0,"0%","Greece"
+"2018","Unspecified",0,"0%","Greece"
+"2019","Unspecified",0.07,"2%","Greece"
+"2020","Unspecified",0.01,"4%","Greece"
+"2021","Unspecified",0,"0%","Greece"
+"2022","Unspecified",0,"0%","Greece"

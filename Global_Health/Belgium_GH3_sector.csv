@@ -1,95 +1,90 @@
-donor,year,Sector,Bilateral ODA for,share
-Belgium,2023,Reproductive health care,24.305435775299998,18.68043439279373
-Belgium,2023,Basic health care,21.760536236999997,16.724500366308355
-Belgium,2023,Infectious disease control,17.851141161399998,13.719855689273954
-Belgium,2023,Health policy and administrative management,14.0624891707,10.808010552914732
-Belgium,2023,COVID-19 control,13.733488613099999,10.5551505183012
-Belgium,2023,Medical education/training,10.765872280300002,8.274328947342585
-Belgium,2023,Medical research,8.7285878366,6.708532771465239
-Belgium,2023,Medical services,4.3293888724,3.3274394065358495
-Belgium,2023,Basic health infrastructure,3.916380575,3.0100135239231807
-Belgium,2023,STD control including HIV/AIDS,1.8359322879,1.4110429029452087
-Belgium,2023,Other prevention and treatment of NCDs,1.6038370924999996,1.232661444960474
-Belgium,2023,Family planning,1.2651536962,0.9723594687687876
-Belgium,2023,Health education,1.1291214122,0.867809104806736
-Belgium,2023,Personnel development for population and reproductive health,1.0812695653,0.8310315997723328
-Belgium,2023,"NCDs control, general",0.8439742674999999,0.6486534978838617
-Belgium,2023,Population policy and administrative management,0.8109519067,0.623273494409641
-Belgium,2023,Health personnel development,0.5406353172,0.4155162107253835
-Belgium,2023,Research for prevention and control of NCDs,0.5141868523,0.39518870794279004
-Belgium,2023,Basic nutrition,0.46740303629999996,0.3592320596641089
-Belgium,2023,Malaria control,0.3978698414,0.30579091598501534
-Belgium,2023,Tuberculosis control,0.16807107279999997,0.1291744232768485
-Belgium,2022,Reproductive health care,26.676943330100002,18.267206045365146
-Belgium,2022,COVID-19 control,22.0674577414,15.110831569848779
-Belgium,2022,Infectious disease control,21.58887085,14.783116162291185
-Belgium,2022,Basic health care,18.1054608076,12.39782905508285
-Belgium,2022,Health policy and administrative management,16.671716456,11.4160635220915
-Belgium,2022,Medical education/training,12.147362231199999,8.317983287637215
-Belgium,2022,Medical research,8.2552331206,5.6528232076863505
-Belgium,2022,Medical services,3.7412673405000003,2.56185652659077
-Belgium,2022,Basic health infrastructure,3.6463141548999998,2.4968367308609527
-Belgium,2022,STD control including HIV/AIDS,3.0851841907,2.1125994309786895
-Belgium,2022,Family planning,2.4700946112999995,1.6914129425484699
-Belgium,2022,Other prevention and treatment of NCDs,1.6061484867,1.099820357338156
-Belgium,2022,Personnel development for population and reproductive health,1.5341114596,1.0504925464023924
-Belgium,2022,Health education,1.2314610096999998,0.8432507323896233
-Belgium,2022,Population policy and administrative management,0.8432269666,0.5774050104350051
-Belgium,2022,"NCDs control, general",0.8135818926999999,0.5571053581674849
-Belgium,2022,Basic nutrition,0.552842301,0.37856226997213926
-Belgium,2022,Malaria control,0.40118618959999996,0.27471478637169094
-Belgium,2022,Research for prevention and control of NCDs,0.3751386372,0.25687855975530144
-Belgium,2022,Tuberculosis control,0.1608974118,0.11017552262819715
-Belgium,2022,Health personnel development,0.06284918169999999,0.04303637555810592
-Belgium,2021,COVID-19 control,45.112096402999995,27.64189038472545
-Belgium,2021,Reproductive health care,26.901486403100005,16.48355979065566
-Belgium,2021,Basic health care,17.1113346524,10.484762946342276
-Belgium,2021,Infectious disease control,15.122989330299998,9.266428445779917
-Belgium,2021,Medical education/training,12.952488612000002,7.9364804336270955
-Belgium,2021,Health policy and administrative management,11.3434043767,6.950533567965704
-Belgium,2021,Medical research,8.6829917907,5.320397995825332
-Belgium,2021,Basic health infrastructure,7.6674419406,4.698132132010992
-Belgium,2021,Tuberculosis control,6.230028437800001,3.8173744273151944
-Belgium,2021,Medical services,4.4165312134,2.706175979740165
-Belgium,2021,Family planning,2.6525375954,1.6253102670824695
-Belgium,2021,Health personnel development,1.7996716231999998,1.1027269779838282
-Belgium,2021,STD control including HIV/AIDS,1.5863936569,0.9720434887201878
-Belgium,2021,Health education,0.5507105156000001,0.33744119470622774
-Belgium,2021,"NCDs control, general",0.3972647308,0.24341914958669067
-Belgium,2021,Personnel development for population and reproductive health,0.3635335567,0.22275078142461416
-Belgium,2021,Basic nutrition,0.20701838579999998,0.12684800716833589
-Belgium,2021,Promotion of mental health and well-being,0.1039988407,0.06372402933987241
-Belgium,2020,Basic health care,21.6336907293,16.32665310301263
-Belgium,2020,Reproductive health care,21.195102076199998,15.995656192513993
-Belgium,2020,Infectious disease control,18.125838922699998,13.67932490091498
-Belgium,2020,Health policy and administrative management,14.848248805,11.205772073746424
-Belgium,2020,Medical education/training,14.845195455399999,11.203467752197907
-Belgium,2020,Medical research,10.4679579434,7.9000259445951375
-Belgium,2020,Tuberculosis control,6.6129640213,4.99071429417453
-Belgium,2020,Basic health infrastructure,5.8722156352,4.431681529594444
-Belgium,2020,STD control including HIV/AIDS,4.158495375600001,3.1383600827735547
-Belgium,2020,COVID-19 control,4.0155310472,3.0304668423136305
-Belgium,2020,Family planning,2.8251053028,2.1320686717512998
-Belgium,2020,Medical services,2.6801342737,2.0226610014781543
-Belgium,2020,Basic nutrition,2.0676917858999997,1.5604589588875146
-Belgium,2020,Health personnel development,1.7192902706,1.2975250586093212
-Belgium,2020,Health education,0.6637143856,0.5008962487613868
-Belgium,2020,"NCDs control, general",0.3847733664,0.29038324320606773
-Belgium,2020,Personnel development for population and reproductive health,0.28156672879999994,0.21249459299339726
-Belgium,2020,Promotion of mental health and well-being,0.1078454625,0.08138950847562708
-Belgium,2019,Basic health care,30.09186468830001,23.603150510000116
-Belgium,2019,Infectious disease control,17.6440190729,13.839436076584935
-Belgium,2019,Health policy and administrative management,15.198572562099999,11.921301635384644
-Belgium,2019,Medical education/training,14.671351242599998,11.507765143540796
-Belgium,2019,Reproductive health care,10.7263743808,8.413444349796938
-Belgium,2019,Medical services,8.4489807681,6.627125530146957
-Belgium,2019,Medical research,6.4443648131,5.054765272957271
-Belgium,2019,Basic nutrition,6.4097965337,5.027650957842489
-Belgium,2019,Tuberculosis control,6.1693580819,4.83905829251546
-Belgium,2019,Basic health infrastructure,4.4754931475,3.510441757635205
-Belgium,2019,Family planning,2.3440402376000002,1.838594420872854
-Belgium,2019,Health personnel development,2.0727144177,1.6257746361674255
-Belgium,2019,Health education,1.0160095631,0.7969272388351792
-Belgium,2019,STD control including HIV/AIDS,0.8143013969999999,0.6387134407582026
-Belgium,2019,Personnel development for population and reproductive health,0.7540693721,0.5914692581871727
-Belgium,2019,"NCDs control, general",0.20957139660000002,0.16438147877436085
+"Year","Sector","Bilateral ODA for","Share","Donor"
+2018,"Health policy and administrative management",25.978827,"20%","Belgium"
+2019,"Health policy and administrative management",15.047788,"12%","Belgium"
+2020,"Health policy and administrative management",14.713888,"11%","Belgium"
+2021,"Health policy and administrative management",11.267614,"7%","Belgium"
+2022,"Health policy and administrative management",16.424026,"11%","Belgium"
+2018,"Medical education/training",17.408685,"14%","Belgium"
+2019,"Medical education/training",14.525798,"12%","Belgium"
+2020,"Medical education/training",14.710864,"11%","Belgium"
+2021,"Medical education/training",12.865947,"8%","Belgium"
+2022,"Medical education/training",11.966889,"8%","Belgium"
+2018,"Medical research",6.455719,"5%","Belgium"
+2019,"Medical research",6.380432,"5%","Belgium"
+2020,"Medical research",10.373234,"8%","Belgium"
+2021,"Medical research",8.624979,"5%","Belgium"
+2022,"Medical research",8.132584,"6%","Belgium"
+2018,"Medical services",2.701763,"2%","Belgium"
+2019,"Medical services",8.365156,"7%","Belgium"
+2020,"Medical services",2.655882,"2%","Belgium"
+2021,"Medical services",4.387022,"3%","Belgium"
+2022,"Medical services",3.685682,"3%","Belgium"
+2018,"Basic health care",28.536092,"22%","Belgium"
+2019,"Basic health care",29.793332,"24%","Belgium"
+2020,"Basic health care",21.437928,"16%","Belgium"
+2021,"Basic health care",16.99701,"10%","Belgium"
+2022,"Basic health care",17.836468,"12%","Belgium"
+2018,"Basic health infrastructure",6.747278,"5%","Belgium"
+2019,"Basic health infrastructure",4.431093,"4%","Belgium"
+2020,"Basic health infrastructure",5.819077,"4%","Belgium"
+2021,"Basic health infrastructure",7.616214,"5%","Belgium"
+2022,"Basic health infrastructure",3.592141,"2%","Belgium"
+2018,"Basic nutrition",1.245984,"1%","Belgium"
+2019,"Basic nutrition",6.346205,"5%","Belgium"
+2020,"Basic nutrition",2.048981,"2%","Belgium"
+2021,"Basic nutrition",0.205634,"0%","Belgium"
+2022,"Basic nutrition",0.544629,"0%","Belgium"
+2018,"Infectious disease control",14.779659,"12%","Belgium"
+2019,"Infectious disease control",17.468973,"14%","Belgium"
+2020,"Infectious disease control",17.961819,"14%","Belgium"
+2021,"Infectious disease control",15.021947,"9%","Belgium"
+2022,"Infectious disease control",21.268121,"15%","Belgium"
+2018,"Health education",0.972781,"1%","Belgium"
+2019,"Health education",1.005929,"1%","Belgium"
+2020,"Health education",0.657708,"1%","Belgium"
+2021,"Health education",0.547031,"0%","Belgium"
+2022,"Health education",1.213165,"1%","Belgium"
+2022,"Malaria control",0.395226,"0%","Belgium"
+2018,"Tuberculosis control",5.697708,"4%","Belgium"
+2019,"Tuberculosis control",6.108152,"5%","Belgium"
+2020,"Tuberculosis control",6.553125,"5%","Belgium"
+2021,"Tuberculosis control",6.188404,"4%","Belgium"
+2022,"Tuberculosis control",0.158507,"0%","Belgium"
+2018,"Health personnel development",2.120066,"2%","Belgium"
+2019,"Health personnel development",2.05215,"2%","Belgium"
+2020,"Health personnel development",1.703733,"1%","Belgium"
+2021,"Health personnel development",1.787647,"1%","Belgium"
+2022,"Health personnel development",0.061916,"0%","Belgium"
+2018,"Population policy and administrative management",2.451832,"2%","Belgium"
+2022,"Population policy and administrative management",0.8307,"1%","Belgium"
+2018,"Reproductive health care",9.016792,"7%","Belgium"
+2019,"Reproductive health care",10.619957,"8%","Belgium"
+2020,"Reproductive health care",21.00331,"16%","Belgium"
+2021,"Reproductive health care",26.721749,"16%","Belgium"
+2022,"Reproductive health care",26.2806,"18%","Belgium"
+2018,"Family planning",0.586704,"0%","Belgium"
+2019,"Family planning",2.320785,"2%","Belgium"
+2020,"Family planning",2.799541,"2%","Belgium"
+2021,"Family planning",2.634815,"2%","Belgium"
+2022,"Family planning",2.433396,"2%","Belgium"
+2018,"STD control including HIV/AIDS",2.297041,"2%","Belgium"
+2019,"STD control including HIV/AIDS",0.806223,"1%","Belgium"
+2020,"STD control including HIV/AIDS",4.120866,"3%","Belgium"
+2021,"STD control including HIV/AIDS",1.575793,"1%","Belgium"
+2022,"STD control including HIV/AIDS",3.039348,"2%","Belgium"
+2018,"Personnel development for population and reproductive health",0.786654,"1%","Belgium"
+2019,"Personnel development for population and reproductive health",0.746588,"1%","Belgium"
+2020,"Personnel development for population and reproductive health",0.279019,"0%","Belgium"
+2021,"Personnel development for population and reproductive health",0.361105,"0%","Belgium"
+2022,"Personnel development for population and reproductive health",1.511319,"1%","Belgium"
+2019,"NCDs control, general",0.207492,"0%","Belgium"
+2020,"NCDs control, general",0.381292,"0%","Belgium"
+2021,"NCDs control, general",0.394611,"0%","Belgium"
+2022,"NCDs control, general",0.801494,"1%","Belgium"
+2020,"Promotion of mental health and well-being",0.106869,"0%","Belgium"
+2021,"Promotion of mental health and well-being",0.103305,"0%","Belgium"
+2020,"COVID-19 control",3.979195,"3%","Belgium"
+2021,"COVID-19 control",44.810686,"28%","Belgium"
+2022,"COVID-19 control",21.7396,"15%","Belgium"
+2022,"Other prevention and treatment of NCDs",1.582285,"1%","Belgium"
+2022,"Research for prevention and control of NCDs",0.369565,"0%","Belgium"

@@ -1,6 +1,6 @@
-donor,Year,Gender funding as % of bilateral allocable ODA,Funding for projects with gender equality as a principal objective,Funding for projects with gender equality as a significant objective,Principal,Significant,Not targeted or screened
-Norway,2019,41.30135366565761,280.7709620068197,1461.489466634196,6.655848121360229,34.64550554429738,58.69864633434239
-Norway,2020,44.651868743223346,298.3495177788603,1860.3939734534858,6.171119246715455,38.48074949650788,55.34813125677666
-Norway,2021,40.42404704327765,261.6268302484171,1580.7731052118836,5.740347190743547,34.68369985253411,59.57595295672234
-Norway,2022,43.84052997809088,232.2716804676085,1368.4685716025328,6.361377842178195,37.479152135912685,56.15947002190912
-Norway,2023,53.01700642812095,379.6148075986361,2248.385673404778,7.658309364913941,45.358697063207,46.98299357187906
+"Year","Gender funding as a % of bilateral allocable ODA","Funding for projects with gender equality as a principal objective","Funding for projects with gender equality as a Significant objective","Principal","Significant","Not targeted","Not screened"
+2018,"35%",157,895,"5%","29%","65%","0%"
+2019,"36%",199,1035,"6%","30%","64%","0%"
+2020,"42%",214,1332,"6%","37%","58%","0%"
+2021,"41%",188,1134,"6%","36%","59%","0%"
+2022,"39%",177,1041,"6%","33%","61%","0%"

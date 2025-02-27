@@ -1,49 +1,66 @@
-Year,ODA,Share,Full Name,donor
-2020,196.24390000000005,0.6189977822630884,international development association,United States
-2020,0.12070000000000003,0.00038071518309183,global environment facility trust fund,United States
-2020,28.699599999999997,0.09052504945039172,african development fund,United States
-2020,0.3691,0.0011642251373586944,european bank for reconstruction and development,United States
-2020,0.0418,0.00013184668312542244,united nations children’s fund,United States
-2020,0.1799,0.0005674454137383613,world health organisation assessed contributions,United States
-2020,20.9415,0.06605424197777594,international bank for reconstruction and development,United States
-2020,70.1245,0.2211885820772413,food and agricultural organisation,United States
-2020,0.3139,0.00099011181418828,united nations development programme,United States
-2019,5.3801000000000005,0.019002419761301556,global environment facility trust fund,United States
-2019,2.5821999999999994,0.009120285553731875,african development bank,United States
-2019,179.06519999999995,0.6324551764914061,international development association,United States
-2019,69.4194,0.24518811516100017,food and agricultural organisation,United States
-2019,0.2409,0.0008508546161776815,united nations development programme,United States
-2019,26.424000000000007,0.09332910908210487,african development fund,United States
-2019,0.0153,5.40393342777855e-05,united nations children’s fund,United States
-2022,144.3703,0.4449598698625301,international development association,United States
-2022,0.5574,0.0017179477459101653,united nations,United States
-2022,90.31000000000002,0.27834205406018486,food and agricultural organisation,United States
-2022,1.1097000000000001,0.003420176917180679,united nations development programme,United States
-2022,0.5003,0.0015419613514152414,united nations children’s fund,United States
-2022,2.955,0.009107527070621705,world health organisation assessed contributions,United States
-2022,6.251199999999999,0.01926665760537069,african development bank,United States
-2022,23.378100000000003,0.07205302152612565,african development fund,United States
-2022,17.352200000000003,0.05348075507101251,international bank for reconstruction and development,United States
-2022,21.530299999999997,0.06635796618903772,european bank for reconstruction and development,United States
-2022,16.142400000000002,0.04975206260061043,global environment facility trust fund,United States
-2023,155.3436,0.2295809380411853,international development association,United States
-2023,6.900700000000001,0.010198483742753532,african development bank,United States
-2023,0.6962,0.001028907847277089,united nations development programme,United States
-2023,397.32180000000005,0.5871983882709826,green climate fund,United States
-2023,0.2905,0.00042932739102843193,united nations children’s fund,United States
-2023,24.618499999999994,0.03638346428927177,global environment facility trust fund,United States
-2023,25.856499999999997,0.038213093583912734,african development fund,United States
-2023,22.039399999999993,0.03257183511818251,international bank for reconstruction and development,United States
-2023,0.62,0.0009162925385116275,world health organisation assessed contributions,United States
-2023,42.4883,0.06279308429684449,food and agricultural organisation,United States
-2023,0.4643,0.0006861848800499172,united nations,United States
-2021,0.096,0.00043150256384440026,european bank for reconstruction and development,United States
-2021,17.1996,0.07730907809477236,african development fund,United States
-2021,0.3769,0.001694097044926609,united nations development programme,United States
-2021,104.9875,0.4718997439751455,international development association,United States
-2021,5.296799999999999,0.02380815396011478,african development bank,United States
-2021,0.0274,0.00012315802343058923,united nations children’s fund,United States
-2021,68.03829999999999,0.3058198009334839,food and agricultural organisation,United States
-2021,12.0576,0.054196722018856676,global environment facility trust fund,United States
-2021,13.567300000000001,0.06098254931714721,international bank for reconstruction and development,United States
-2021,0.831,0.0037351940682780896,world health organisation assessed contributions,United States
+"Year","Multi_short","ODA","Share","Full Name","Donor"
+"2018","IDA","170.7","11.9%","international development association","United States"
+"2019","IDA","161.1","13.1%","international development association","United States"
+"2020","IDA","176.5","14.6%","international development association","United States"
+"2021","IDA","94.5","8%","international development association","United States"
+"2022","IDA","130.1","12.5%","international development association","United States"
+"2018","FAO","67.5","4.7%","food and agricultural organisation","United States"
+"2019","FAO","62.4","5.1%","food and agricultural organisation","United States"
+"2020","FAO","63.1","5.2%","food and agricultural organisation","United States"
+"2021","FAO","61.3","5.2%","food and agricultural organisation","United States"
+"2022","FAO","81.4","7.8%","food and agricultural organisation","United States"
+"2018","African Development Fund","20.7","1.4%","african development fund","United States"
+"2019","African Development Fund","23.8","1.9%","african development fund","United States"
+"2020","African Development Fund","25.8","2.1%","african development fund","United States"
+"2021","African Development Fund","15.5","1.3%","african development fund","United States"
+"2022","African Development Fund","21.1","2%","african development fund","United States"
+"2018","EBRD","0.2","0%","european bank for reconstruction and development","United States"
+"2019","EBRD","0","0%","european bank for reconstruction and development","United States"
+"2020","EBRD","0.3","0%","european bank for reconstruction and development","United States"
+"2021","EBRD","0.1","0%","european bank for reconstruction and development","United States"
+"2022","EBRD","19.4","1.9%","european bank for reconstruction and development","United States"
+"2018","IBRD","0","0%","international bank for reconstruction and development","United States"
+"2019","IBRD","0","0%","international bank for reconstruction and development","United States"
+"2020","IBRD","18.8","1.6%","international bank for reconstruction and development","United States"
+"2021","IBRD","12.2","1%","international bank for reconstruction and development","United States"
+"2022","IBRD","15.6","1.5%","international bank for reconstruction and development","United States"
+"2018","GEF Fund","10.6","0.7%","global environment facility trust fund","United States"
+"2019","GEF Fund","4.8","0.4%","global environment facility trust fund","United States"
+"2020","GEF Fund","0.1","0%","global environment facility trust fund","United States"
+"2021","GEF Fund","10.9","0.9%","global environment facility trust fund","United States"
+"2022","GEF Fund","14.6","1.4%","global environment facility trust fund","United States"
+"2018","AfDB","1.5","0.1%","african development bank","United States"
+"2019","AfDB","2.3","0.2%","african development bank","United States"
+"2020","AfDB","0","0%","african development bank","United States"
+"2021","AfDB","4.8","0.4%","african development bank","United States"
+"2022","AfDB","5.6","0.5%","african development bank","United States"
+"2018","WHO - assessed contributions","0","0%","world health organisation assessed contributions","United States"
+"2019","WHO - assessed contributions","0","0%","world health organisation assessed contributions","United States"
+"2020","WHO - assessed contributions","0.2","0%","world health organisation assessed contributions","United States"
+"2021","WHO - assessed contributions","0.7","0.1%","world health organisation assessed contributions","United States"
+"2022","WHO - assessed contributions","2.7","0.3%","world health organisation assessed contributions","United States"
+"2018","UNDP","0.1","0%","united nations development programme","United States"
+"2019","UNDP","0.2","0%","united nations development programme","United States"
+"2020","UNDP","0.3","0%","united nations development programme","United States"
+"2021","UNDP","0.3","0%","united nations development programme","United States"
+"2022","UNDP","1","0.1%","united nations development programme","United States"
+"2018","UN","0","0%","united nations","United States"
+"2019","UN","0","0%","united nations","United States"
+"2020","UN","0","0%","united nations","United States"
+"2021","UN","0","0%","united nations","United States"
+"2022","UN","0.5","0%","united nations","United States"
+"2018","UNICEF","0","0%","united nations childrenâ€™s fund","United States"
+"2019","UNICEF","0","0%","united nations childrenâ€™s fund","United States"
+"2020","UNICEF","0","0%","united nations childrenâ€™s fund","United States"
+"2021","UNICEF","0","0%","united nations childrenâ€™s fund","United States"
+"2022","UNICEF","0.5","0%","united nations childrenâ€™s fund","United States"
+"2018","GCF","0","0%","green climate fund","United States"
+"2019","GCF","0","0%","green climate fund","United States"
+"2020","GCF","0","0%","green climate fund","United States"
+"2021","GCF","0","0%","green climate fund","United States"
+"2022","GCF","0","0%","green climate fund","United States"
+"2018","IADB Fund for special operations","0","0%","inter american development bank fund for special operations","United States"
+"2019","IADB Fund for special operations","0","0%","inter american development bank fund for special operations","United States"
+"2020","IADB Fund for special operations","0","0%","inter american development bank fund for special operations","United States"
+"2021","IADB Fund for special operations","0","0%","inter american development bank fund for special operations","United States"
+"2022","IADB Fund for special operations","0","0%","inter american development bank fund for special operations","United States"
