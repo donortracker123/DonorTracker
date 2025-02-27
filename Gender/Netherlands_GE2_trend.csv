@@ -1,6 +1,6 @@
-"Year","Gender funding as a % of bilateral allocable ODA","Funding for projects with gender equality as a principal objective","Funding for projects with gender equality as a Significant objective","Principal","Significant","Not targeted","Not screened"
-2018,"64%",480,1521,"15%","49%","36%","0%"
-2019,"71%",465,1558,"16%","55%","29%","0%"
-2020,"69%",533,1546,"18%","51%","31%","0%"
-2021,"79%",706,1657,"24%","55%","21%","0%"
-2022,"80%",959,1648,"29%","51%","20%","0%"
+donor,Year,Gender funding as % of bilateral allocable ODA,Funding for projects with gender equality as a principal objective,Funding for projects with gender equality as a significant objective,Principal,Significant,Not targeted or screened
+Netherlands,2019,58.754766305538055,397.20426513229427,1362.3089860456694,13.263693102502513,45.49107320303555,41.24523369446194
+Netherlands,2020,49.58667076171774,455.07361362812605,1356.8983562885103,12.453606251073088,37.133064510644665,50.413329238282245
+Netherlands,2021,89.14003423473982,600.4324628488584,1443.6960918811146,26.18356373435948,62.956470500380334,10.859965765260185
+Netherlands,2022,92.99065138282043,817.3420985864442,1437.3360130482063,33.709988915025576,59.28066246779484,7.009348617179583
+Netherlands,2023,83.93469280697086,859.7212558898146,1439.846419898515,31.38000254243311,52.554690264537754,16.065307193029128

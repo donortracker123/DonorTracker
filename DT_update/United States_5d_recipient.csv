@@ -1,201 +1,101 @@
-"Year","Recipient country","ODA Grants","ODA Loans","Share","Donor"
-"2018","Ukraine",208.064009,0,"1%","United States"
-"2019","Ukraine",211.723409,0,"1%","United States"
-"2020","Ukraine",249.055997,0,"1%","United States"
-"2021","Ukraine",310.34711,0,"1%","United States"
-"2022","Ukraine",8643.452146,0,"18%","United States"
-"2018","Ethiopia",887.243316,0,"3%","United States"
-"2019","Ethiopia",921.22656,0,"3%","United States"
-"2020","Ethiopia",831.864823,0,"3%","United States"
-"2021","Ethiopia",1331.7056,0,"3%","United States"
-"2022","Ethiopia",1355.959312,0,"3%","United States"
-"2018","Afghanistan",993.547944,0,"3%","United States"
-"2019","Afghanistan",1527.657755,0,"5%","United States"
-"2020","Afghanistan",1061.263733,0,"3%","United States"
-"2021","Afghanistan",1490.75678,0,"4%","United States"
-"2022","Afghanistan",1221.339854,0,"2%","United States"
-"2018","Yemen",645.809459,0,"2%","United States"
-"2019","Yemen",675.613706,0,"2%","United States"
-"2020","Yemen",736.371928,0,"2%","United States"
-"2021","Yemen",901.82328,0,"2%","United States"
-"2022","Yemen",922.923643,0,"2%","United States"
-"2018","South Sudan",736.612252,0,"2%","United States"
-"2019","South Sudan",592.329295,0,"2%","United States"
-"2020","South Sudan",758.458956,0,"2%","United States"
-"2021","South Sudan",802.54387,0,"2%","United States"
-"2022","South Sudan",890.802604,0,"2%","United States"
-"2018","Nigeria",911.387857,0,"3%","United States"
-"2019","Nigeria",693.138618,0,"2%","United States"
-"2020","Nigeria",974.769515,0,"3%","United States"
-"2021","Nigeria",919.7633,0,"2%","United States"
-"2022","Nigeria",725.85705,0,"1%","United States"
-"2018","Syrian Arab Republic",750.884206,0,"2%","United States"
-"2019","Syrian Arab Republic",611.758544,0,"2%","United States"
-"2020","Syrian Arab Republic",722.102585,0,"2%","United States"
-"2021","Syrian Arab Republic",804.97338,0,"2%","United States"
-"2022","Syrian Arab Republic",643.726592,0,"1%","United States"
-"2018","Uganda",664.792066,0,"2%","United States"
-"2019","Uganda",550.848307,0,"2%","United States"
-"2020","Uganda",675.43456,0,"2%","United States"
-"2021","Uganda",658.93424,0,"2%","United States"
-"2022","Uganda",602.426594,0,"1%","United States"
-"2018","Kenya",899.430298,0,"3%","United States"
-"2019","Kenya",728.831361,0,"2%","United States"
-"2020","Kenya",714.558573,0,"2%","United States"
-"2021","Kenya",721.51246,0,"2%","United States"
-"2022","Kenya",588.929237,0,"1%","United States"
-"2018","Democratic Republic of the Congo",513.04018,0,"2%","United States"
-"2019","Democratic Republic of the Congo",685.804082,0,"2%","United States"
-"2020","Democratic Republic of the Congo",818.994128,0,"3%","United States"
-"2021","Democratic Republic of the Congo",903.4506,0,"2%","United States"
-"2022","Democratic Republic of the Congo",566.331569,0,"1%","United States"
-"2018","South Africa",623.592162,0,"2%","United States"
-"2019","South Africa",415.031384,0,"1%","United States"
-"2020","South Africa",753.152266,0,"2%","United States"
-"2021","South Africa",711.26029,0,"2%","United States"
-"2022","South Africa",546.492828,0,"1%","United States"
-"2018","Sudan",247.286289,0,"1%","United States"
-"2019","Sudan",292.238596,0,"1%","United States"
-"2020","Sudan",240.342847,0,"1%","United States"
-"2021","Sudan",734.67261,0,"2%","United States"
-"2022","Sudan",541.942019,0,"1%","United States"
-"2018","Colombia",365.93805,0,"1%","United States"
-"2019","Colombia",459.101982,0,"1%","United States"
-"2020","Colombia",584.032517,0,"2%","United States"
-"2021","Colombia",682.49982,0,"2%","United States"
-"2022","Colombia",535.098394,0,"1%","United States"
-"2018","Mozambique",560.729716,0,"2%","United States"
-"2019","Mozambique",375.487502,0,"1%","United States"
-"2020","Mozambique",507.686977,0,"2%","United States"
-"2021","Mozambique",591.10038,0,"2%","United States"
-"2022","Mozambique",523.471503,0,"1%","United States"
-"2018","Somalia",413.617842,0,"1%","United States"
-"2019","Somalia",498.384009,0,"2%","United States"
-"2020","Somalia",451.448013,271.056088,"2%","United States"
-"2021","Somalia",470.09388,0,"1%","United States"
-"2022","Somalia",491.656313,0,"1%","United States"
-"2018","Tanzania",712.859041,0,"2%","United States"
-"2019","Tanzania",505.392581,0,"2%","United States"
-"2020","Tanzania",646.341114,0,"2%","United States"
-"2021","Tanzania",520.97687,0,"1%","United States"
-"2022","Tanzania",426.360819,0,"1%","United States"
-"2018","Zambia",520.189911,0,"2%","United States"
-"2019","Zambia",343.849454,0,"1%","United States"
-"2020","Zambia",412.015144,0,"1%","United States"
-"2021","Zambia",417.66218,0,"1%","United States"
-"2022","Zambia",397.667541,0,"1%","United States"
-"2018","Bangladesh",352.891887,0,"1%","United States"
-"2019","Bangladesh",433.036931,0,"1%","United States"
-"2020","Bangladesh",326.781668,0,"1%","United States"
-"2021","Bangladesh",445.45766,0,"1%","United States"
-"2022","Bangladesh",352.211048,0,"1%","United States"
-"2018","Jordan",1229.824115,0,"4%","United States"
-"2019","Jordan",1176.3681,0,"4%","United States"
-"2020","Jordan",1272.016518,0,"4%","United States"
-"2021","Jordan",1275.1851,0,"3%","United States"
-"2022","Jordan",307.934818,0,"1%","United States"
-"2018","Malawi",484.401968,0,"1%","United States"
-"2019","Malawi",285.451643,0,"1%","United States"
-"2020","Malawi",337.615624,0,"1%","United States"
-"2021","Malawi",291.94154,0,"1%","United States"
-"2022","Malawi",288.360209,0,"1%","United States"
-"2018","Zimbabwe",218.887186,0,"1%","United States"
-"2019","Zimbabwe",273.149774,0,"1%","United States"
-"2020","Zimbabwe",296.695862,0,"1%","United States"
-"2021","Zimbabwe",347.21829,0,"1%","United States"
-"2022","Zimbabwe",276.19552,0,"1%","United States"
-"2018","Lebanon",196.708348,0,"1%","United States"
-"2019","Lebanon",252.717925,0,"1%","United States"
-"2020","Lebanon",258.170771,0,"1%","United States"
-"2021","Lebanon",271.47442,0,"1%","United States"
-"2022","Lebanon",273.630221,0,"1%","United States"
-"2018","Iraq",599.87044,0,"2%","United States"
-"2019","Iraq",633.841188,0,"2%","United States"
-"2020","Iraq",558.725707,0,"2%","United States"
-"2021","Iraq",462.93385,0,"1%","United States"
-"2022","Iraq",264.955623,0,"1%","United States"
-"2018","Haiti",365.506367,0,"1%","United States"
-"2019","Haiti",238.985185,0,"1%","United States"
-"2020","Haiti",285.367155,0,"1%","United States"
-"2021","Haiti",265.31825,0,"1%","United States"
-"2022","Haiti",258.130402,0,"1%","United States"
-"2018","Niger",171.689903,0,"1%","United States"
-"2019","Niger",168.693853,0,"1%","United States"
-"2020","Niger",222.062998,0,"1%","United States"
-"2021","Niger",263.41521,0,"1%","United States"
-"2022","Niger",223.344682,0,"0%","United States"
-"2018","Guatemala",216.55879,0,"1%","United States"
-"2019","Guatemala",198.744962,0,"1%","United States"
-"2020","Guatemala",157.825077,0,"0%","United States"
-"2021","Guatemala",257.50212,0,"1%","United States"
-"2022","Guatemala",215.916768,0,"0%","United States"
-"2018","India",144.022633,0,"0%","United States"
-"2019","India",104.81947,0,"0%","United States"
-"2020","India",97.879762,0,"0%","United States"
-"2021","India",141.70755,0,"0%","United States"
-"2022","India",189.517986,0,"0%","United States"
-"2018","Pakistan",507.18076,0,"2%","United States"
-"2019","Pakistan",385.231902,0,"1%","United States"
-"2020","Pakistan",318.642207,0,"1%","United States"
-"2021","Pakistan",247.80945,0,"1%","United States"
-"2022","Pakistan",186.238352,0,"0%","United States"
-"2018","Côte d'Ivoire",199.222531,0,"1%","United States"
-"2019","Côte d'Ivoire",80.794872,0,"0%","United States"
-"2020","Côte d'Ivoire",205.112274,0,"1%","United States"
-"2021","Côte d'Ivoire",196.38657,0,"1%","United States"
-"2022","Côte d'Ivoire",184.303307,0,"0%","United States"
-"2018","Peru",94.333801,0,"0%","United States"
-"2019","Peru",117.509848,0,"0%","United States"
-"2020","Peru",149.305799,0,"0%","United States"
-"2021","Peru",173.48453,0,"0%","United States"
-"2022","Peru",176.900689,0,"0%","United States"
-"2018","Mali",233.407039,0,"1%","United States"
-"2019","Mali",236.069838,0,"1%","United States"
-"2020","Mali",194.803466,0,"1%","United States"
-"2021","Mali",223.31435,0,"1%","United States"
-"2022","Mali",171.66805,0,"0%","United States"
-"2018","Burkina Faso",70.212822,0,"0%","United States"
-"2019","Burkina Faso",107.189465,0,"0%","United States"
-"2020","Burkina Faso",126.80709,0,"0%","United States"
-"2021","Burkina Faso",182.65639,0,"0%","United States"
-"2022","Burkina Faso",170.956845,0,"0%","United States"
-"2018","Mexico",254.280243,0,"1%","United States"
-"2019","Mexico",170.445746,0,"1%","United States"
-"2020","Mexico",183.310518,0,"1%","United States"
-"2021","Mexico",157.70134,0,"0%","United States"
-"2022","Mexico",167.123956,0,"0%","United States"
-"2018","Madagascar",105.965988,0,"0%","United States"
-"2019","Madagascar",114.74105,0,"0%","United States"
-"2020","Madagascar",127.229439,0,"0%","United States"
-"2021","Madagascar",154.15167,0,"0%","United States"
-"2022","Madagascar",164.311767,0,"0%","United States"
-"2018","Rwanda",183.186655,0,"1%","United States"
-"2019","Rwanda",196.723344,0,"1%","United States"
-"2020","Rwanda",198.282688,0,"1%","United States"
-"2021","Rwanda",157.73674,0,"0%","United States"
-"2022","Rwanda",163.92424,0,"0%","United States"
-"2018","Cameroon",122.366142,0,"0%","United States"
-"2019","Cameroon",96.923673,0,"0%","United States"
-"2020","Cameroon",211.168711,0,"1%","United States"
-"2021","Cameroon",143.37237,0,"0%","United States"
-"2022","Cameroon",158.22312,0,"0%","United States"
-"2018","Morocco",63.534027,0,"0%","United States"
-"2019","Morocco",67.140341,0,"0%","United States"
-"2020","Morocco",84.190313,0,"0%","United States"
-"2021","Morocco",188.81478,0,"0%","United States"
-"2022","Morocco",154.569634,0,"0%","United States"
-"2018","Ghana",235.621425,0,"1%","United States"
-"2019","Ghana",214.006239,0,"1%","United States"
-"2020","Ghana",215.67112,0,"1%","United States"
-"2021","Ghana",242.39102,0,"1%","United States"
-"2022","Ghana",151.819481,0,"0%","United States"
-"2018","Myanmar",155.121561,0,"0%","United States"
-"2019","Myanmar",157.48496,0,"1%","United States"
-"2020","Myanmar",185.021836,0,"1%","United States"
-"2021","Myanmar",164.55185,0,"0%","United States"
-"2022","Myanmar",151.405585,0,"0%","United States"
-"2018","Philippines",131.664718,0,"0%","United States"
-"2019","Philippines",154.53545,0,"0%","United States"
-"2020","Philippines",160.271824,0,"1%","United States"
-"2021","Philippines",172.44147,0,"0%","United States"
-"2022","Philippines",145.661024,0,"0%","United States"
+donor,year,Recipient country,share,ODA Grants,ODA Loans
+United States,2023,"Bilateral, unspecified",30.5%,18013.9560806368,89.37132272320001
+United States,2023,Ukraine,19.8%,11792.074900255206,0.0
+United States,2023,Ethiopia,2.7%,1618.6612274287986,0.0
+United States,2023,Jordan,2.1%,1276.0928393711997,0.0
+United States,2023,Afghanistan,2.1%,1232.4965355728,0.0
+United States,2023,"South of Sahara, regional",2.1%,1229.0454022280003,0.0
+United States,2023,Democratic Republic of the Congo,2.1%,1228.5079057136004,0.0
+United States,2023,Somalia,1.7%,983.1442814744005,0.0
+United States,2023,Nigeria,1.6%,968.526946210399,0.0
+United States,2023,Kenya,1.4%,843.7043894176007,0.0
+United States,2023,Syrian Arab Republic,1.4%,835.2701229296001,0.0
+United States,2023,Yemen,1.4%,825.4345838671999,0.0
+United States,2023,South Sudan,1.2%,711.7276698583997,0.0
+United States,2023,Uganda,1.2%,688.4002148832,0.0
+United States,2023,Mozambique,1.1%,660.5769107024001,0.0
+United States,2023,"Europe, regional",1.1%,652.1093382920001,0.0
+United States,2023,Colombia,1.1%,637.9192638807999,0.0
+United States,2023,Tanzania,1.0%,623.2059392032007,0.0
+United States,2023,"South & Central Asia, regional",1.0%,619.5638822704002,0.0
+United States,2023,South Africa,0.9%,552.0483563519997,0.0
+United States,2022,"Bilateral, unspecified",37.6%,20603.67200559119,0.0
+United States,2022,Ukraine,17.5%,9588.009153482395,0.0
+United States,2022,Ethiopia,2.7%,1504.1386570976015,0.0
+United States,2022,Afghanistan,2.5%,1354.8079519888004,0.0
+United States,2022,"South of Sahara, regional",2.1%,1173.2445286863997,0.0
+United States,2022,Yemen,1.9%,1023.7807949568,0.0
+United States,2022,South Sudan,1.8%,988.1495642648007,0.0
+United States,2022,Nigeria,1.5%,805.1787455104,0.0
+United States,2022,Syrian Arab Republic,1.3%,714.0730733495998,0.0
+United States,2022,Uganda,1.2%,668.2598157519998,0.0
+United States,2022,Kenya,1.2%,653.2874594223994,0.0
+United States,2022,Democratic Republic of the Congo,1.1%,628.2203207079996,0.0
+United States,2022,South Africa,1.1%,606.2135997952005,0.0
+United States,2022,Sudan,1.1%,601.1654755384005,0.0
+United States,2022,Colombia,1.1%,593.5739788983998,0.0
+United States,2022,Mozambique,1.1%,580.6764905367994,0.0
+United States,2022,Somalia,1.0%,545.3845508944001,0.0
+United States,2022,"America, regional",0.9%,483.9403784728002,0.0
+United States,2022,Tanzania,0.9%,472.95355787920005,0.0
+United States,2022,Zambia,0.8%,441.1246642672002,0.0
+United States,2021,"Bilateral, unspecified",32.1%,13874.094841685572,0.0
+United States,2021,Afghanistan,3.8%,1655.7205920840008,0.0
+United States,2021,Ethiopia,3.4%,1479.0691516176028,0.0
+United States,2021,Jordan,3.3%,1416.2942239927997,0.0
+United States,2021,"South of Sahara, regional",2.8%,1209.9341736344004,0.0
+United States,2021,Nigeria,2.4%,1021.5422300248007,0.0
+United States,2021,Democratic Republic of the Congo,2.3%,1003.4244318367998,0.0
+United States,2021,Yemen,2.3%,1001.6170125319998,0.0
+United States,2021,Syrian Arab Republic,2.1%,894.0499284319994,0.0
+United States,2021,South Sudan,2.1%,891.3515707743989,0.0
+United States,2021,Sudan,1.9%,815.969828052,0.0
+United States,2021,Kenya,1.9%,801.3534204024016,0.0
+United States,2021,South Africa,1.8%,789.9667575359986,0.0
+United States,2021,Colombia,1.8%,758.023720660796,0.0
+United States,2021,Uganda,1.7%,731.8504370527994,0.0
+United States,2021,Mozambique,1.5%,656.5102253079989,0.0
+United States,2021,Tanzania,1.3%,578.6269908512004,0.0
+United States,2021,Somalia,1.2%,522.1134168471998,0.0
+United States,2021,Iraq,1.2%,514.1610667920003,0.0
+United States,2021,Bangladesh,1.1%,494.75101147360004,0.0
+United States,2020,"Bilateral, unspecified",29.2%,10282.671372561601,0.0
+United States,2020,Jordan,4.0%,1414.033435743999,0.0
+United States,2020,Afghanistan,3.4%,1179.7507175160003,0.0
+United States,2020,Nigeria,3.1%,1083.599667625599,0.0
+United States,2020,Ethiopia,2.6%,924.7400871719998,0.0
+United States,2020,Democratic Republic of the Congo,2.6%,910.4324350415997,0.0
+United States,2020,South Sudan,2.4%,843.1386805591998,0.0
+United States,2020,South Africa,2.4%,837.2395032936003,0.0
+United States,2020,Yemen,2.3%,818.5856965095999,0.0
+United States,2020,Syrian Arab Republic,2.3%,802.7232236064001,0.0
+United States,2020,Kenya,2.3%,794.3369492312003,0.0
+United States,2020,Uganda,2.1%,750.8448599016001,0.0
+United States,2020,Tanzania,2.0%,718.5031916327998,0.0
+United States,2020,Colombia,1.8%,649.2380417671997,0.0
+United States,2020,Iraq,1.8%,621.1057869983999,0.0
+United States,2020,Mozambique,1.6%,564.3687492327994,0.0
+United States,2020,Somalia,2.3%,501.8508641808001,301.3187048552
+United States,2020,Zambia,1.3%,458.0154247103997,0.0
+United States,2020,Malawi,1.1%,375.3094130024003,0.0
+United States,2020,Bangladesh,1.0%,363.2658850048,0.0
+United States,2019,"Bilateral, unspecified",33.3%,11576.943762884803,0.0
+United States,2019,Afghanistan,4.9%,1698.4767677640011,0.0
+United States,2019,Jordan,3.8%,1307.9067573024001,0.0
+United States,2019,Ethiopia,2.9%,1024.2358998056002,0.0
+United States,2019,Kenya,2.3%,810.3275055536002,0.0
+United States,2019,Nigeria,2.2%,770.6437205416,0.0
+United States,2019,Democratic Republic of the Congo,2.2%,762.4890623512002,0.0
+United States,2019,Yemen,2.2%,751.1592060096002,0.0
+United States,2019,Iraq,2.0%,704.7157786536002,0.0
+United States,2019,Syrian Arab Republic,2.0%,680.1639079487999,0.0
+United States,2019,South Sudan,1.9%,658.562136376,0.0
+United States,2019,Uganda,1.8%,612.4428199816007,0.0
+United States,2019,Tanzania,1.6%,561.9043620744001,0.0
+United States,2019,Somalia,1.6%,554.1121219999999,0.0
+United States,2019,"South of Sahara, regional",1.6%,552.3087628240006,0.0
+United States,2019,Colombia,1.5%,510.4376620192006,0.0
+United States,2019,Bangladesh,1.4%,481.4580532856004,0.0
+United States,2019,South Africa,1.3%,461.43919758080006,0.0
+United States,2019,Pakistan,1.2%,428.3076075448,0.0
+United States,2019,Mozambique,1.2%,417.4736223184008,0.0

@@ -1,61 +1,49 @@
-"Year","Sector","Gender-related ODA to","Share","Donor"
-"2018","Humanitarian aid",1.82,"62%","Lithuania"
-"2019","Humanitarian aid",1.58,"53%","Lithuania"
-"2020","Humanitarian aid",1.09,"40%","Lithuania"
-"2021","Humanitarian aid",0.56,"37%","Lithuania"
-"2022","Humanitarian aid",2.76,"58%","Lithuania"
-"2018","Government & civil society",0.5,"17%","Lithuania"
-"2019","Government & civil society",0.68,"23%","Lithuania"
-"2020","Government & civil society",0.9,"33%","Lithuania"
-"2021","Government & civil society",0.71,"46%","Lithuania"
-"2022","Government & civil society",1.02,"21%","Lithuania"
-"2018","Education",0.27,"9%","Lithuania"
-"2019","Education",0.51,"17%","Lithuania"
-"2020","Education",0.58,"21%","Lithuania"
-"2021","Education",0.21,"14%","Lithuania"
-"2022","Education",0.85,"18%","Lithuania"
-"2018","Other social services",0.04,"1%","Lithuania"
-"2019","Other social services",0.07,"2%","Lithuania"
-"2020","Other social services",0.03,"1%","Lithuania"
-"2021","Other social services",0.01,"0%","Lithuania"
-"2022","Other social services",0.02,"0%","Lithuania"
-"2018","Other multisector",0.26,"9%","Lithuania"
-"2019","Other multisector",0.01,"0%","Lithuania"
-"2020","Other multisector",0,"0%","Lithuania"
-"2021","Other multisector",0,"0%","Lithuania"
-"2022","Other multisector",0.02,"0%","Lithuania"
-"2018","Environmental protection",0,"0%","Lithuania"
-"2019","Environmental protection",0,"0%","Lithuania"
-"2020","Environmental protection",0,"0%","Lithuania"
-"2021","Environmental protection",0,"0%","Lithuania"
-"2022","Environmental protection",0.02,"0%","Lithuania"
-"2018","Water and sanitation",0,"0%","Lithuania"
-"2019","Water and sanitation",0,"0%","Lithuania"
-"2020","Water and sanitation",0,"0%","Lithuania"
-"2021","Water and sanitation",0,"0%","Lithuania"
-"2022","Water and sanitation",0.02,"0%","Lithuania"
-"2018","Agriculture (incl. forestry, fishing, rural development)",0,"0%","Lithuania"
-"2019","Agriculture (incl. forestry, fishing, rural development)",0.02,"1%","Lithuania"
-"2020","Agriculture (incl. forestry, fishing, rural development)",0,"0%","Lithuania"
-"2021","Agriculture (incl. forestry, fishing, rural development)",0,"0%","Lithuania"
-"2022","Agriculture (incl. forestry, fishing, rural development)",0.01,"0%","Lithuania"
-"2018","Financial services & business support",0,"0%","Lithuania"
-"2019","Financial services & business support",0,"0%","Lithuania"
-"2020","Financial services & business support",0.04,"1%","Lithuania"
-"2021","Financial services & business support",0.01,"1%","Lithuania"
-"2022","Financial services & business support",0.01,"0%","Lithuania"
-"2018","Conflict, peace & security",0.03,"1%","Lithuania"
-"2019","Conflict, peace & security",0,"0%","Lithuania"
-"2020","Conflict, peace & security",0.05,"2%","Lithuania"
-"2021","Conflict, peace & security",0,"0%","Lithuania"
-"2022","Conflict, peace & security",0,"0%","Lithuania"
-"2018","Health & populations",0,"0%","Lithuania"
-"2019","Health & populations",0.08,"3%","Lithuania"
-"2020","Health & populations",0.02,"1%","Lithuania"
-"2021","Health & populations",0.03,"2%","Lithuania"
-"2022","Health & populations",0,"0%","Lithuania"
-"2018","Infrastructure",0.01,"0%","Lithuania"
-"2019","Infrastructure",0,"0%","Lithuania"
-"2020","Infrastructure",0.04,"1%","Lithuania"
-"2021","Infrastructure",0,"0%","Lithuania"
-"2022","Infrastructure",0,"0%","Lithuania"
+year,Sector,Gender-related ODA to,Share,donor
+2022,Emergency Response,1.9678520360000002,36.0%,Lithuania
+2019,Emergency Response,1.8218623360000001,51.0%,Lithuania
+2020,Emergency Response,1.2252429260000002,37.0%,Lithuania
+2022,Reconstruction Relief & Rehabilitation,1.1949532660000002,22.0%,Lithuania
+2022,Government & civil society,1.1647850320000002,21.0%,Lithuania
+2023,Other social services,1.159511356,41.0%,Lithuania
+2020,Government & civil society,1.042942396,32.0%,Lithuania
+2022,Education,0.9806452880000001,18.0%,Lithuania
+2023,Emergency Response,0.9079434200000001,32.0%,Lithuania
+2021,Government & civil society,0.8147450660000002,43.0%,Lithuania
+2019,Government & civil society,0.791412336,22.0%,Lithuania
+2020,Education,0.6683075380000001,20.0%,Lithuania
+2021,Emergency Response,0.649180158,35.0%,Lithuania
+2019,Education,0.60089717,17.0%,Lithuania
+2023,Government & civil society,0.442315928,15.0%,Lithuania
+2021,Education,0.238536364,13.0%,Lithuania
+2020,Unspecified,0.125008624,4.0%,Lithuania
+2021,Unspecified,0.121330196,6.0%,Lithuania
+2019,Unspecified,0.12129232,3.0%,Lithuania
+2019,Health & populations,0.097969616,3.0%,Lithuania
+2023,Education,0.089570056,3.0%,Lithuania
+2023,Reconstruction Relief & Rehabilitation,0.085925048,3.0%,Lithuania
+2019,Other social services,0.07672118,2.0%,Lithuania
+2020,"Conflict, peace & security",0.05793357000000001,2.0%,Lithuania
+2020,Financial services & business support,0.046254394000000004,1.0%,Lithuania
+2020,Infrastructure,0.042245108,1.0%,Lithuania
+2023,Infrastructure,0.040868204000000005,1.0%,Lithuania
+2023,Unspecified,0.040548486,1.0%,Lithuania
+2020,Other social services,0.034479414,1.0%,Lithuania
+2021,Health & populations,0.03411625,2.0%,Lithuania
+2023,Health & populations,0.032438566,1.0%,Lithuania
+2020,Reconstruction Relief & Rehabilitation,0.029082084000000005,1.0%,Lithuania
+2020,Health & populations,0.027628314,1.0%,Lithuania
+2023,Environmental protection,0.026982194,1.0%,Lithuania
+2022,Other social services,0.025715576,0.0%,Lithuania
+2019,"Agriculture (incl. forestry, fishing, rural development)",0.024754194,1.0%,Lithuania
+2022,Other multisector,0.023430762,0.0%,Lithuania
+2022,Environmental protection,0.022727828,0.0%,Lithuania
+2023,Other multisector,0.021626081999999998,1.0%,Lithuania
+2022,Water and sanitation,0.018510224,0.0%,Lithuania
+2021,Financial services & business support,0.0136465,1.0%,Lithuania
+2022,"Agriculture (incl. forestry, fishing, rural development)",0.012171564,0.0%,Lithuania
+2022,Financial services & business support,0.011621247999999999,0.0%,Lithuania
+2023,,0.010812484,0.0%,Lithuania
+2022,Refugees in donor countries,0.009372082,0.0%,Lithuania
+2019,Other multisector,0.008889719999999999,0.0%,Lithuania
+2021,Other social services,0.005868552000000001,0.0%,Lithuania
+2019,Financial services & business support,0.004269962,0.0%,Lithuania

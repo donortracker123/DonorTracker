@@ -1,36 +1,28 @@
-Year,Income Group,ODA,Share,Donor
-2018,Countries unspecified,1424.041103,61.43%,Italy
-2019,Countries unspecified,703.214302,44.42%,Italy
-2020,Countries unspecified,422.155733,28.89%,Italy
-2021,Countries unspecified,950.122889,35.34%,Italy
-2022,Countries unspecified,2141.041314,54.40%,Italy
-2018,Lower-middle income countries,277.981901,11.99%,Italy
-2019,Lower-middle income countries,285.345984,18.03%,Italy
-2020,Lower-middle income countries,388.914953,26.62%,Italy
-2021,Lower-middle income countries,326.505886,12.15%,Italy
-2022,Lower-middle income countries,810.796732,20.60%,Italy
-2018,Low income countries,348.112399,15.02%,Italy
-2019,Low income countries,266.782001,16.85%,Italy
-2020,Low income countries,215.208734,14.73%,Italy
-2021,Low income countries,986.549669,36.70%,Italy
-2022,Low income countries,421.671519,10.71%,Italy
-2018,Upper-middle income countries,205.011316,8.84%,Italy
-2019,Upper-middle income countries,226.933929,14.34%,Italy
-2020,Upper-middle income countries,191.67706,13.12%,Italy
-2021,Upper-middle income countries,170.404141,6.34%,Italy
-2022,Upper-middle income countries,339.07363,8.62%,Italy
-2018,Unallocated by income,61.936476,2.67%,Italy
-2019,Unallocated by income,99.175528,6.27%,Italy
-2020,Unallocated by income,240.270152,16.45%,Italy
-2021,Unallocated by income,254.333102,9.46%,Italy
-2022,Unallocated by income,218.591761,5.55%,Italy
-2018,Countries not classified,0.932228,0.04%,Italy
-2019,Countries not classified,0.422154,0.03%,Italy
-2020,Countries not classified,2.284474,0.16%,Italy
-2021,Countries not classified,0.343821,0.01%,Italy
-2022,Countries not classified,4.58038,0.12%,Italy
-2018,High income countries,0.208583,0.01%,Italy
-2019,High income countries,1.068674,0.07%,Italy
-2020,High income countries,0.503684,0.03%,Italy
-2021,High income countries,0.010105,0%,Italy
-2022,High income countries,0.001719,0%,Italy
+donor,year,incomegroup_name,total_oda,share
+Italy,2023,Part I unallocated by income,1863.6474070000002,71.22158327054538
+Italy,2023,LDCs,284.78173499999997,10.883285098377455
+Italy,2023,LMICs,224.16625199999987,8.566789685267997
+Italy,2023,UMICs,208.85137599999996,7.981512817865325
+Italy,2023,Other LICs,35.24233099999999,1.3468291279438471
+Italy,2022,Part I unallocated by income,2164.8527450000024,60.149727701470745
+Italy,2022,LMICs,615.8058010000016,17.109963406372998
+Italy,2022,LDCs,415.69037500000013,11.549821539650377
+Italy,2022,UMICs,370.9143360000002,10.30573389460345
+Italy,2022,Other LICs,31.843218999999998,0.8847534579024208
+Italy,2021,Part I unallocated by income,1102.940418,44.80413596086665
+Italy,2021,LDCs,949.7213930000003,38.58000461536779
+Italy,2021,UMICs,206.076834,8.37134476009469
+Italy,2021,LMICs,188.35629100000017,7.651492984862734
+Italy,2021,Other LICs,14.598374999999999,0.5930216788081445
+Italy,2020,Part I unallocated by income,611.0319000000002,45.3401222627177
+Italy,2020,LDCs,272.4183190000002,20.21413266650078
+Italy,2020,LMICs,248.08532900000034,18.408562872816553
+Italy,2020,UMICs,199.97904600000027,14.838954227466122
+Italy,2020,Other LICs,15.69876,1.1648879506504684
+Italy,2020,MADCTs,0.44931100000000007,0.03334001984836463
+Italy,2019,Part I unallocated by income,739.876348999999,50.689764782189485
+Italy,2019,LDCs,292.3821890000007,20.031434180783265
+Italy,2019,LMICs,210.97228000000035,14.453949316282648
+Italy,2019,UMICs,204.1589120000002,13.987157775018629
+Italy,2019,Other LICs,11.731006000000004,0.8037044779200728
+Italy,2019,MADCTs,0.496116,0.033989467805897865

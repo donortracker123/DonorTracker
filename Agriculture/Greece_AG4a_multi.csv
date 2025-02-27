@@ -1,66 +1,30 @@
-"Year","Multi_short","ODA","Share","Full Name","Donor"
-"2018","EC - Development Share of Budget","13.4","86.4%","european commission development share of budget","Greece"
-"2019","EC - Development Share of Budget","11.9","91.1%","european commission development share of budget","Greece"
-"2020","EC - Development Share of Budget","11.9","89.6%","european commission development share of budget","Greece"
-"2021","EC - Development Share of Budget","12.5","92.3%","european commission development share of budget","Greece"
-"2022","EC - Development Share of Budget","15.8","93.9%","european commission development share of budget","Greece"
-"2018","FAO","1.1","7.1%","food and agricultural organisation","Greece"
-"2019","FAO","0.8","6.3%","food and agricultural organisation","Greece"
-"2020","FAO","1","7.7%","food and agricultural organisation","Greece"
-"2021","FAO","1","7.2%","food and agricultural organisation","Greece"
-"2022","FAO","0.9","5.5%","food and agricultural organisation","Greece"
-"2018",NA,"NA","NA%","world organisation for animal health","Greece"
-"2019",NA,"NA","NA%","world organisation for animal health","Greece"
-"2020",NA,"NA","NA%","world organisation for animal health","Greece"
-"2021",NA,"0.1","0.5%","world organisation for animal health","Greece"
-"2022",NA,"0.1","0.4%","world organisation for animal health","Greece"
-"2018","WHO - assessed contributions","NA","NA%","world health organisation assessed contributions","Greece"
-"2019","WHO - assessed contributions","NA","NA%","world health organisation assessed contributions","Greece"
-"2020","WHO - assessed contributions","NA","NA%","world health organisation assessed contributions","Greece"
-"2021","WHO - assessed contributions","NA","NA%","world health organisation assessed contributions","Greece"
-"2022","WHO - assessed contributions","0","0.1%","world health organisation assessed contributions","Greece"
-"2018",NA,"NA","NA%","asian infrastructure investment bank","Greece"
-"2019",NA,"0","0%","asian infrastructure investment bank","Greece"
-"2020",NA,"0","0%","asian infrastructure investment bank","Greece"
-"2021",NA,"0","0%","asian infrastructure investment bank","Greece"
-"2022",NA,"0","0%","asian infrastructure investment bank","Greece"
-"2018","UN","NA","NA%","united nations","Greece"
-"2019","UN","NA","NA%","united nations","Greece"
-"2020","UN","NA","NA%","united nations","Greece"
-"2021","UN","NA","NA%","united nations","Greece"
-"2022","UN","0","0%","united nations","Greece"
-"2018","UNICEF","NA","NA%","united nations childrenâ€™s fund","Greece"
-"2019","UNICEF","NA","NA%","united nations childrenâ€™s fund","Greece"
-"2020","UNICEF","NA","NA%","united nations childrenâ€™s fund","Greece"
-"2021","UNICEF","NA","NA%","united nations childrenâ€™s fund","Greece"
-"2022","UNICEF","0","0%","united nations childrenâ€™s fund","Greece"
-"2018","CEB","NA","NA%","council of europe development bank","Greece"
-"2019","CEB","NA","NA%","council of europe development bank","Greece"
-"2020","CEB","NA","NA%","council of europe development bank","Greece"
-"2021","CEB","NA","NA%","council of europe development bank","Greece"
-"2022","CEB","NA","NA%","council of europe development bank","Greece"
-"2018","IDA","NA","NA%","international development association","Greece"
-"2019","IDA","0.3","2.6%","international development association","Greece"
-"2020","IDA","0.4","2.7%","international development association","Greece"
-"2021","IDA","NA","NA%","international development association","Greece"
-"2022","IDA","NA","NA%","international development association","Greece"
-"2018","UNECE","0","0%","united nations economic commission for europe extrabudgetary contributions only","Greece"
-"2019","UNECE","0","0%","united nations economic commission for europe extrabudgetary contributions only","Greece"
-"2020","UNECE","NA","NA%","united nations economic commission for europe extrabudgetary contributions only","Greece"
-"2021","UNECE","NA","NA%","united nations economic commission for europe extrabudgetary contributions only","Greece"
-"2022","UNECE","NA","NA%","united nations economic commission for europe extrabudgetary contributions only","Greece"
-"2018","EIB","0.1","0.9%","european investment bank","Greece"
-"2019","EIB","NA","NA%","european investment bank","Greece"
-"2020","EIB","NA","NA%","european investment bank","Greece"
-"2021","EIB","NA","NA%","european investment bank","Greece"
-"2022","EIB","NA","NA%","european investment bank","Greece"
-"2018","IBRD","0.9","5.7%","international bank for reconstruction and development","Greece"
-"2019","IBRD","NA","NA%","international bank for reconstruction and development","Greece"
-"2020","IBRD","NA","NA%","international bank for reconstruction and development","Greece"
-"2021","IBRD","NA","NA%","international bank for reconstruction and development","Greece"
-"2022","IBRD","NA","NA%","international bank for reconstruction and development","Greece"
-"2018","GEF Fund","NA","NA%","global environment facility trust fund","Greece"
-"2019","GEF Fund","NA","NA%","global environment facility trust fund","Greece"
-"2020","GEF Fund","0","0%","global environment facility trust fund","Greece"
-"2021","GEF Fund","NA","NA%","global environment facility trust fund","Greece"
-"2022","GEF Fund","NA","NA%","global environment facility trust fund","Greece"
+Year,ODA,Share,Full Name,donor
+2023,0.0083,0.0005886817076025051,asian infrastructure investment bank,Greece
+2023,12.704899999999999,0.9011014731227791,european commission development share of budget,Greece
+2023,1.3800999999999999,0.09788429212797797,european commission european development fund,Greece
+2023,0.006,0.00042555304164036516,united nations,Greece
+2021,8.3878,0.43539738485416324,european commission european development fund,Greece
+2021,1.0059,0.05221467243196103,food and agricultural organisation,Greece
+2021,9.799900000000001,0.5086972545640471,european commission development share of budget,Greece
+2021,0.0042,0.00021801533374514,asian infrastructure investment bank,Greece
+2021,0.0669,0.0034726728160833016,world organisation for animal health,Greece
+2022,0.006500000000000001,0.000376702405099971,asian infrastructure investment bank,Greece
+2022,0.0622,0.003604752245725876,world organisation for animal health,Greece
+2022,0.0005,2.8977108084613153e-05,united nations children’s fund,Greece
+2022,3.5077000000000007,0.20328600405679514,european commission european development fund,Greece
+2022,12.688399999999998,0.7353462764416109,european commission development share of budget,Greece
+2022,0.9691000000000002,0.05616343088959722,food and agricultural organisation,Greece
+2022,0.0024,0.00013909011880614312,united nations,Greece
+2022,0.0182,0.0010547667342799187,world health organisation assessed contributions,Greece
+2019,0.3485,0.015007773035962667,international development association,Greece
+2019,0.0029,0.00012488534233656164,asian infrastructure investment bank,Greece
+2019,9.840800000000002,0.42378333685021935,european commission development share of budget,Greece
+2019,0.8637999999999999,0.037198606451835155,food and agricultural organisation,Greece
+2019,0.0015,6.459586672580776e-05,united nations economic commission for europe extrabudgetary contributions only,Greece
+2019,12.163800000000004,0.5238208024529204,european commission european development fund,Greece
+2020,0.0027,0.00012004748544980012,asian infrastructure investment bank,Greece
+2020,1.0694,0.04754769664445045,food and agricultural organisation,Greece
+2020,9.511700000000001,0.4229095064269866,european commission development share of budget,Greece
+2020,11.535900000000007,0.5129095508890185,european commission european development fund,Greece
+2020,0.3709,0.01649096753827069,international development association,Greece
+2020,0.0005,2.223101582403706e-05,global environment facility trust fund,Greece

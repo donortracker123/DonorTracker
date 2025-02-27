@@ -1,86 +1,111 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Agrarian reform",0.00214,"0%","Ireland"
-2018,"Agricultural co-operatives",0.862405,"2%","Ireland"
-2018,"Agricultural development",12.105378,"30%","Ireland"
-2018,"Agricultural education/training",0.263823,"1%","Ireland"
-2018,"Agricultural extension",0.531058,"1%","Ireland"
-2018,"Agricultural inputs",0.586744,"1%","Ireland"
-2018,"Agricultural land resources",3.801131,"10%","Ireland"
-2018,"Agricultural policy and administrative management",2.239777,"6%","Ireland"
-2018,"Agricultural research",2.486458,"6%","Ireland"
-2018,"Agricultural services",0.679449,"2%","Ireland"
-2018,"Agricultural water resources",2.943331,"7%","Ireland"
-2018,"Fishery development",0.123624,"0%","Ireland"
-2018,"Fishing policy and administrative management",0.012294,"0%","Ireland"
-2018,"Food crop production",4.21526,"11%","Ireland"
-2018,"Livestock",0.029615,"0%","Ireland"
-2018,"Rural development",9.005306,"23%","Ireland"
-2019,"Agricultural co-operatives",0.616874,"2%","Ireland"
-2019,"Agricultural development",11.246336,"28%","Ireland"
-2019,"Agricultural education/training",0.167569,"0%","Ireland"
-2019,"Agricultural extension",0.657737,"2%","Ireland"
-2019,"Agricultural inputs",0.376028,"1%","Ireland"
-2019,"Agricultural land resources",3.035573,"8%","Ireland"
-2019,"Agricultural policy and administrative management",1.724234,"4%","Ireland"
-2019,"Agricultural research",1.266604,"3%","Ireland"
-2019,"Agricultural services",0.02647,"0%","Ireland"
-2019,"Agricultural water resources",5.274941,"13%","Ireland"
-2019,"Fishery development",0.009173,"0%","Ireland"
-2019,"Fishery education/training",0.024224,"0%","Ireland"
-2019,"Food crop production",7.162681,"18%","Ireland"
-2019,"Livestock",0.05093,"0%","Ireland"
-2019,"Rural development",8.49773,"21%","Ireland"
-2020,"Agricultural co-operatives",0.581282,"2%","Ireland"
-2020,"Agricultural development",9.945622,"27%","Ireland"
-2020,"Agricultural education/training",0.316711,"1%","Ireland"
-2020,"Agricultural extension",0.673454,"2%","Ireland"
-2020,"Agricultural inputs",0.30536,"1%","Ireland"
-2020,"Agricultural land resources",0.676697,"2%","Ireland"
-2020,"Agricultural policy and administrative management",1.477746,"4%","Ireland"
-2020,"Agricultural research",5.380637,"15%","Ireland"
-2020,"Agricultural services",0.075307,"0%","Ireland"
-2020,"Agricultural water resources",4.777948,"13%","Ireland"
-2020,"Fishery development",0.011573,"0%","Ireland"
-2020,"Fishing policy and administrative management",0.244369,"1%","Ireland"
-2020,"Food crop production",2.552237,"7%","Ireland"
-2020,"Forestry education/training",0.006787,"0%","Ireland"
-2020,"Industrial crops/export crops",0.030883,"0%","Ireland"
-2020,"Livestock",0.051194,"0%","Ireland"
-2020,"Plant and post-harvest protection and pest control",0.593896,"2%","Ireland"
-2020,"Rural development",9.256577,"25%","Ireland"
-2021,"Agricultural alternative development",0.020577,"0%","Ireland"
-2021,"Agricultural co-operatives",0.563443,"2%","Ireland"
-2021,"Agricultural development",12.035838,"37%","Ireland"
-2021,"Agricultural education/training",0.276845,"1%","Ireland"
-2021,"Agricultural extension",0.714662,"2%","Ireland"
-2021,"Agricultural inputs",0.377117,"1%","Ireland"
-2021,"Agricultural land resources",0.819742,"2%","Ireland"
-2021,"Agricultural policy and administrative management",1.79513,"5%","Ireland"
-2021,"Agricultural research",3.31717,"10%","Ireland"
-2021,"Agricultural services",0.034059,"0%","Ireland"
-2021,"Agricultural water resources",4.75345,"14%","Ireland"
-2021,"Fishing policy and administrative management",0.473037,"1%","Ireland"
-2021,"Food crop production",2.608342,"8%","Ireland"
-2021,"Forestry policy and administrative management",0.006205,"0%","Ireland"
-2021,"Forestry services",0.0056,"0%","Ireland"
-2021,"Industrial crops/export crops",0.031339,"0%","Ireland"
-2021,"Livestock",0.669076,"2%","Ireland"
-2021,"Plant and post-harvest protection and pest control",0.079992,"0%","Ireland"
-2021,"Rural development",4.358686,"13%","Ireland"
-2022,"Agricultural co-operatives",0.284603,"1%","Ireland"
-2022,"Agricultural development",7.847303,"22%","Ireland"
-2022,"Agricultural education/training",3.340546,"9%","Ireland"
-2022,"Agricultural extension",1.013195,"3%","Ireland"
-2022,"Agricultural inputs",0.522423,"1%","Ireland"
-2022,"Agricultural land resources",1.55551,"4%","Ireland"
-2022,"Agricultural policy and administrative management",2.784783,"8%","Ireland"
-2022,"Agricultural research",1.74724,"5%","Ireland"
-2022,"Agricultural services",0.030486,"0%","Ireland"
-2022,"Agricultural water resources",5.53011,"15%","Ireland"
-2022,"Fishing policy and administrative management",0.836236,"2%","Ireland"
-2022,"Food crop production",2.377614,"7%","Ireland"
-2022,"Forestry development",0.01115,"0%","Ireland"
-2022,"Forestry policy and administrative management",0.022163,"0%","Ireland"
-2022,"Livestock",1.087806,"3%","Ireland"
-2022,"Plant and post-harvest protection and pest control",0.029498,"0%","Ireland"
-2022,"Rural development",6.709575,"19%","Ireland"
+donor,year,Sector,Bilateral ODA for,share
+Ireland,2023,Household food security programmes,15.031648559999999,20.752190112333817
+Ireland,2023,Agricultural development,11.453278379999995,15.812012195636552
+Ireland,2023,Rural development,10.204527539999999,14.088028646448487
+Ireland,2023,Food security policy and administrative management,6.8335959299999995,9.434233465755709
+Ireland,2023,Disaster Risk Reduction,6.5571890250000004,9.052635358400693
+Ireland,2023,Agricultural policy and administrative management,5.250663,7.248889325536297
+Ireland,2023,Food crop production,3.9931322999999996,5.51278459594992
+Ireland,2023,Research/scientific institutions,3.6102488249999998,4.984188505351125
+Ireland,2023,Agricultural research,3.247895355,4.483935451450306
+Ireland,2023,Agricultural land resources,1.7150365950000002,2.367722031750965
+Ireland,2023,Agricultural inputs,0.965628045,1.3331137092285263
+Ireland,2023,Agricultural extension,0.8682455099999999,1.1986706458563074
+Ireland,2023,Fishing policy and administrative management,0.7186332449999999,0.9921209680865081
+Ireland,2023,Agricultural water resources,0.6217044,0.8583042539197332
+Ireland,2023,Agricultural co-operatives,0.419515215,0.579168642876826
+Ireland,2023,Fishery education/training,0.29374191,0.40553023415550443
+Ireland,2023,Food safety and quality,0.247453815,0.34162644186395763
+Ireland,2023,Agricultural education/training,0.23430000000000004,0.3234667258159883
+Ireland,2023,Plant and post-harvest protection and pest control,0.1470978,0.20307829168047406
+Ireland,2023,Fishery development,0.015092115000000001,0.020835668052447135
+Ireland,2023,Forestry education/training,0.0054070049999999995,0.0074647298498535086
+Ireland,2022,Agricultural development,7.882567680000001,18.865050416505902
+Ireland,2022,Rural development,6.7397247,16.12992763531465
+Ireland,2022,Agricultural water resources,5.554961189999998,13.294478038796054
+Ireland,2022,Agricultural education/training,3.3555572700000003,8.030728011969687
+Ireland,2022,Research/scientific institutions,3.03438096,7.262068924384493
+Ireland,2022,Agricultural policy and administrative management,2.79729705,6.694664989948203
+Ireland,2022,Food crop production,2.3882997750000006,5.715827315941892
+Ireland,2022,Disaster Risk Reduction,1.8073795500000003,4.325532962948407
+Ireland,2022,Agricultural research,1.7550901799999998,4.200390795910605
+Ireland,2022,Agricultural land resources,1.56249984,3.7394716358949682
+Ireland,2022,Livestock,1.09269426,2.615103750650779
+Ireland,2022,Agricultural extension,1.0177523400000001,2.4357480944098735
+Ireland,2022,Household food security programmes,0.99988377,2.3929839231898593
+Ireland,2022,Fishing policy and administrative management,0.83999319,2.01032385920112
+Ireland,2022,Agricultural inputs,0.524771295,1.2559152473157185
+Ireland,2022,Agricultural co-operatives,0.28588114499999995,0.684188507158296
+Ireland,2022,Food safety and quality,0.03830379,0.09167100858856875
+Ireland,2022,Agricultural services,0.03062301,0.07328888897724811
+Ireland,2022,Plant and post-harvest protection and pest control,0.029631495000000004,0.0709159337140563
+Ireland,2022,Forestry policy and administrative management,0.02226276,0.053280619572247154
+Ireland,2022,Food security policy and administrative management,0.01321878,0.031636005077053754
+Ireland,2022,Forestry development,0.01119954,0.026803434530317215
+Ireland,2021,Agricultural development,12.153482864999999,25.619763333333925
+Ireland,2021,Disaster Risk Reduction,9.533132370000002,20.096016743324284
+Ireland,2021,Agricultural water resources,4.7999134649999995,10.118305045537479
+Ireland,2021,Research/scientific institutions,4.421310225,9.320202516922658
+Ireland,2021,Rural development,4.401291420000001,9.278002511211277
+Ireland,2021,Agricultural research,3.3495954,7.0610081376392335
+Ireland,2021,Food crop production,2.633840849999999,5.5521845041632885
+Ireland,2021,Agricultural policy and administrative management,1.81267473,3.821151360377137
+Ireland,2021,Agricultural land resources,0.8277552749999998,1.7449232025900205
+Ireland,2021,Agricultural extension,0.7216503900000001,1.5212521716266172
+Ireland,2021,Livestock,0.67561683,1.4242125883490353
+Ireland,2021,Agricultural co-operatives,0.56895069,1.1993584216187594
+Ireland,2021,Fishing policy and administrative management,0.47766102,1.006918133829852
+Ireland,2021,Agricultural inputs,0.380802465,0.8027385349878614
+Ireland,2021,Agricultural education/training,0.279550785,0.5892981485968234
+Ireland,2021,Non-agricultural alternative development,0.121206585,0.25550568973806853
+Ireland,2021,Household food security programmes,0.09459969000000001,0.199417870262226
+Ireland,2021,Plant and post-harvest protection and pest control,0.080774925,0.17027501373515105
+Ireland,2021,Agricultural services,0.034392045,0.07249905753245743
+Ireland,2021,Industrial crops/export crops,0.03164541,0.06670910090482271
+Ireland,2021,Agricultural alternative development,0.020778150000000002,0.043800718807736796
+Ireland,2021,Forestry policy and administrative management,0.006265395000000001,0.01320756682449593
+Ireland,2021,Forestry services,0.005655149999999999,0.011921159244955529
+Ireland,2021,Food security policy and administrative management,0.00537399,0.011328468841816498
+Ireland,2020,Agricultural development,10.059953790000002,21.297986875288185
+Ireland,2020,Rural development,9.362987969999999,19.82243647050998
+Ireland,2020,Agricultural research,5.442492930000001,11.522333542646297
+Ireland,2020,Agricultural water resources,4.832876279999999,10.231710575415232
+Ireland,2020,Disaster Risk Reduction,3.796807005,8.038242267163756
+Ireland,2020,Research/scientific institutions,3.5727554999999995,7.5639015184396445
+Ireland,2020,Food crop production,2.5815759750000002,5.465469561874528
+Ireland,2020,Food security policy and administrative management,1.805175,3.8217465268891995
+Ireland,2020,Agricultural policy and administrative management,1.4947317600000003,3.164505331843717
+Ireland,2020,Agricultural land resources,0.6844776300000002,1.449111584852356
+Ireland,2020,Agricultural extension,0.6811942350000002,1.4421602901370763
+Ireland,2020,Plant and post-harvest protection and pest control,0.6007239,1.2717960743109864
+Ireland,2020,Agricultural co-operatives,0.587964135,1.2447823013678245
+Ireland,2020,Household food security programmes,0.5435355300000001,1.150722242452051
+Ireland,2020,Agricultural education/training,0.320350935,0.6782168339479319
+Ireland,2020,Agricultural inputs,0.308870235,0.6539109769804595
+Ireland,2020,Fishing policy and administrative management,0.24717904500000001,0.523304198622593
+Ireland,2020,Non-agricultural alternative development,0.12086578500000002,0.25588565875523805
+Ireland,2020,Agricultural services,0.07617199499999999,0.16126417512843436
+Ireland,2020,Livestock,0.05178243,0.10962888473770306
+Ireland,2020,Industrial crops/export crops,0.031237514999999997,0.06613312529804549
+Ireland,2020,Multisector education/training,0.012014265,0.025435470542676735
+Ireland,2020,Fishery development,0.011705415,0.02478160240533286
+Ireland,2020,Forestry education/training,0.0068649900000000005,0.014533910390753855
+Ireland,2019,Household food security programmes,11.972963235,20.434917908379116
+Ireland,2019,Agricultural development,11.395010099999995,19.448493358599276
+Ireland,2019,Rural development,8.610064920000001,14.695273540277837
+Ireland,2019,Food crop production,7.257365819999999,12.38654724414816
+Ireland,2019,Agricultural water resources,5.3446726799999995,9.122048177988631
+Ireland,2019,Disaster Risk Reduction,3.076579455,5.250968149450829
+Ireland,2019,Agricultural land resources,3.0757018949999995,5.249470369310048
+Ireland,2019,Research/scientific institutions,2.5502053350000002,4.352576354523106
+Ireland,2019,Agricultural policy and administrative management,1.7470259999999997,2.981745804534238
+Ireland,2019,Agricultural research,1.283345235,2.1903562226493807
+Ireland,2019,Agricultural extension,0.6664301399999999,1.1374331429298505
+Ireland,2019,Agricultural co-operatives,0.6250293299999999,1.066772092938712
+Ireland,2019,Agricultural inputs,0.38099842500000003,0.6502710636692888
+Ireland,2019,Food security policy and administrative management,0.32327009999999995,0.5517429416656442
+Ireland,2019,Agricultural education/training,0.16978336500000002,0.2897786502710637
+Ireland,2019,Livestock,0.05160351,0.08807456182205681
+Ireland,2019,Agricultural services,0.026819894999999996,0.045774996705429
+Ireland,2019,Fishery education/training,0.024545055000000003,0.04189240158321178
+Ireland,2019,Fishery development,0.009294255000000001,0.015863018554115035

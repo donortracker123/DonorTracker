@@ -1,73 +1,83 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Agricultural alternative development",1.060409,"2%","Luxembourg"
-2018,"Agricultural co-operatives",0.323864,"1%","Luxembourg"
-2018,"Agricultural development",10.010042,"23%","Luxembourg"
-2018,"Agricultural education/training",2.997154,"7%","Luxembourg"
-2018,"Agricultural extension",0.202887,"0%","Luxembourg"
-2018,"Agricultural financial services",2.044808,"5%","Luxembourg"
-2018,"Agricultural land resources",0.044859,"0%","Luxembourg"
-2018,"Agricultural policy and administrative management",5.858601,"13%","Luxembourg"
-2018,"Agricultural research",0.006799,"0%","Luxembourg"
-2018,"Agricultural services",0.00126,"0%","Luxembourg"
-2018,"Agricultural water resources",0.132781,"0%","Luxembourg"
-2018,"Fishing policy and administrative management",0.031412,"0%","Luxembourg"
-2018,"Food crop production",0.929504,"2%","Luxembourg"
-2018,"Forestry development",3.122033,"7%","Luxembourg"
-2018,"Forestry education/training",0.019271,"0%","Luxembourg"
-2018,"Livestock",1.130891,"3%","Luxembourg"
-2018,"Livestock/veterinary services",0.003885,"0%","Luxembourg"
-2018,"Rural development",15.795686,"36%","Luxembourg"
-2019,"Agricultural alternative development",2.111675,"4%","Luxembourg"
-2019,"Agricultural co-operatives",1.27685,"3%","Luxembourg"
-2019,"Agricultural development",6.398466,"13%","Luxembourg"
-2019,"Agricultural education/training",2.998123,"6%","Luxembourg"
-2019,"Agricultural extension",0.206283,"0%","Luxembourg"
-2019,"Agricultural financial services",3.34813,"7%","Luxembourg"
-2019,"Agricultural land resources",0.233567,"0%","Luxembourg"
-2019,"Agricultural policy and administrative management",7.041436,"15%","Luxembourg"
-2019,"Agricultural research",0.021723,"0%","Luxembourg"
-2019,"Agricultural services",0.028691,"0%","Luxembourg"
-2019,"Agricultural water resources",0.124014,"0%","Luxembourg"
-2019,"Fishing policy and administrative management",0.028778,"0%","Luxembourg"
-2019,"Food crop production",1.040987,"2%","Luxembourg"
-2019,"Forestry development",5.880389,"12%","Luxembourg"
-2019,"Forestry policy and administrative management",0.11892,"0%","Luxembourg"
-2019,"Livestock",1.768543,"4%","Luxembourg"
-2019,"Livestock/veterinary services",0.014101,"0%","Luxembourg"
-2019,"Rural development",15.218716,"32%","Luxembourg"
-2020,"Agricultural co-operatives",1.090377,"3%","Luxembourg"
-2020,"Agricultural development",8.927209,"22%","Luxembourg"
-2020,"Agricultural education/training",1.645428,"4%","Luxembourg"
-2020,"Agricultural extension",0.200607,"1%","Luxembourg"
-2020,"Agricultural financial services",2.684141,"7%","Luxembourg"
-2020,"Agricultural land resources",1.461886,"4%","Luxembourg"
-2020,"Agricultural policy and administrative management",5.908924,"15%","Luxembourg"
-2020,"Agricultural water resources",0.239734,"1%","Luxembourg"
-2020,"Food crop production",0.960362,"2%","Luxembourg"
-2020,"Forestry development",5.431326,"14%","Luxembourg"
-2020,"Livestock",0.221751,"1%","Luxembourg"
-2020,"Rural development",11.326087,"28%","Luxembourg"
-2021,"Agricultural co-operatives",0.876756,"2%","Luxembourg"
-2021,"Agricultural development",10.123104,"28%","Luxembourg"
-2021,"Agricultural education/training",1.434458,"4%","Luxembourg"
-2021,"Agricultural extension",0.186665,"1%","Luxembourg"
-2021,"Agricultural financial services",1.651339,"5%","Luxembourg"
-2021,"Agricultural land resources",1.311193,"4%","Luxembourg"
-2021,"Agricultural policy and administrative management",4.149871,"12%","Luxembourg"
-2021,"Food crop production",1.112144,"3%","Luxembourg"
-2021,"Forestry development",5.869753,"16%","Luxembourg"
-2021,"Livestock",0.217267,"1%","Luxembourg"
-2021,"Rural development",8.733258,"24%","Luxembourg"
-2022,"Agricultural co-operatives",0.987302,"3%","Luxembourg"
-2022,"Agricultural development",20.396754,"57%","Luxembourg"
-2022,"Agricultural education/training",0.623092,"2%","Luxembourg"
-2022,"Agricultural extension",0.100377,"0%","Luxembourg"
-2022,"Agricultural financial services",1.448018,"4%","Luxembourg"
-2022,"Agricultural land resources",0.15152,"0%","Luxembourg"
-2022,"Agricultural policy and administrative management",0.312558,"1%","Luxembourg"
-2022,"Agricultural water resources",0.083072,"0%","Luxembourg"
-2022,"Fishing policy and administrative management",0.029529,"0%","Luxembourg"
-2022,"Food crop production",0.925089,"3%","Luxembourg"
-2022,"Forestry development",2.314124,"6%","Luxembourg"
-2022,"Livestock",3.871814,"11%","Luxembourg"
-2022,"Rural development",4.439607,"12%","Luxembourg"
+donor,year,Sector,Bilateral ODA for,share
+Luxembourg,2023,Rural development,8.966632849500002,28.214482263229446
+Luxembourg,2023,Agricultural development,7.6883169525,24.192122721127536
+Luxembourg,2023,Livestock,4.791583224,15.077236032238607
+Luxembourg,2023,Forestry development,4.227562636499999,13.302484112625619
+Luxembourg,2023,Agricultural education/training,1.248054993,3.9271403273188565
+Luxembourg,2023,Agricultural co-operatives,1.02215253,3.216313739176714
+Luxembourg,2023,Food crop production,0.9272896334999999,2.917817351997543
+Luxembourg,2023,Agricultural financial services,0.9028352744999999,2.840869060498955
+Luxembourg,2023,Household food security programmes,0.6112040594999998,1.9232198290507887
+Luxembourg,2023,Agricultural alternative development,0.5000003639999999,1.573305346440377
+Luxembourg,2023,Disaster Risk Reduction,0.4224724005,1.3293552050897113
+Luxembourg,2023,Multisector education/training,0.145785516,0.45872992955734965
+Luxembourg,2023,Agricultural land resources,0.10706667150000002,0.3368968881321166
+Luxembourg,2023,Agricultural extension,0.0932959095,0.29356569271891086
+Luxembourg,2023,Agricultural water resources,0.079517346,0.2502099490402558
+Luxembourg,2023,Forestry policy and administrative management,0.030151683,0.09487553906675843
+Luxembourg,2023,Agricultural policy and administrative management,0.016327425000000003,0.05137601269047132
+Luxembourg,2022,Agricultural development,21.4290498645,56.092954868184115
+Luxembourg,2022,Rural development,4.664296179000001,12.209321305184023
+Luxembourg,2022,Livestock,4.067770084499999,10.64784697440116
+Luxembourg,2022,Forestry development,2.431243857,6.364055000412073
+Luxembourg,2022,Agricultural financial services,1.521303645,3.982183869064419
+Luxembourg,2022,Agricultural co-operatives,1.0372729514999999,2.7151789380483207
+Luxembourg,2022,Food crop production,0.971906412,2.544074648625901
+Luxembourg,2022,Agricultural education/training,0.6546272085,1.7135605495373478
+Luxembourg,2022,Household food security programmes,0.5990281470000001,1.5680237353923845
+Luxembourg,2022,Agricultural policy and administrative management,0.32837628,0.8595619483968181
+Luxembourg,2022,Agricultural land resources,0.159188493,0.41669383429714596
+Luxembourg,2022,Multisector education/training,0.11492724,0.3008350126210965
+Luxembourg,2022,Agricultural extension,0.1054573335,0.2760464643061096
+Luxembourg,2022,Agricultural water resources,0.08727649500000001,0.2284560690298494
+Luxembourg,2022,Fishing policy and administrative management,0.031023222000000003,0.08120678249923237
+Luxembourg,2021,Agricultural development,10.654057177499999,27.86638551612992
+Luxembourg,2021,Rural development,9.1913160495,24.040490131484397
+Luxembourg,2021,Forestry development,6.177617775,16.157964578320545
+Luxembourg,2021,Agricultural policy and administrative management,4.3675304625,11.423562460176804
+Luxembourg,2021,Agricultural financial services,1.7379513,4.545725644906242
+Luxembourg,2021,Agricultural education/training,1.5096927840000003,3.9487005212163897
+Luxembourg,2021,Agricultural land resources,1.3799638695,3.609386034367132
+Luxembourg,2021,Food crop production,1.170474648,3.061453231817374
+Luxembourg,2021,Agricultural co-operatives,0.9227402445,2.4134876466392967
+Luxembourg,2021,Household food security programmes,0.475294128,1.2431629738548773
+Luxembourg,2021,Livestock,0.22866307949999998,0.5980832860658322
+Luxembourg,2021,Agricultural extension,0.19645514400000003,0.5138413177368945
+Luxembourg,2021,Multisector education/training,0.1891651995,0.4947739896342063
+Luxembourg,2021,Non-agricultural alternative development,0.0317264715,0.08298266765008722
+Luxembourg,2020,Rural development,11.743075249499999,27.769834957276785
+Luxembourg,2020,Agricultural development,9.2558745765,21.888142919428475
+Luxembourg,2020,Agricultural policy and administrative management,6.1264700265,14.487777510737832
+Luxembourg,2020,Forestry development,5.6312865315,13.316775568099084
+Luxembourg,2020,Agricultural financial services,2.7829622249999995,6.581104185964944
+Luxembourg,2020,Agricultural education/training,1.7060041575000002,4.034331117159469
+Luxembourg,2020,Agricultural land resources,1.5157077405,3.5843212193453393
+Luxembourg,2020,Agricultural co-operatives,1.1305231665,2.6734429510208297
+Luxembourg,2020,Food crop production,0.9957177045000001,2.3546571686305793
+Luxembourg,2020,Research/scientific institutions,0.325052841,0.7686797159328663
+Luxembourg,2020,Agricultural water resources,0.24856024799999998,0.5877912656817629
+Luxembourg,2020,Livestock,0.22991577750000003,0.5437011225420552
+Luxembourg,2020,Multisector education/training,0.2084148435,0.4928560605866934
+Luxembourg,2020,Agricultural extension,0.20799021899999998,0.49185191541745255
+Luxembourg,2020,Food security policy and administrative management,0.152639691,0.36095987949836283
+Luxembourg,2020,Household food security programmes,0.0269675565,0.06377244267747693
+Luxembourg,2019,Rural development,15.781882822499997,31.492133707895476
+Luxembourg,2019,Agricultural policy and administrative management,7.302003390000001,14.570863925408295
+Luxembourg,2019,Agricultural development,6.6352415055,13.240366502878569
+Luxembourg,2019,Forestry development,6.0979900935,12.168302193964923
+Luxembourg,2019,Agricultural financial services,3.4720274835,6.928295880639996
+Luxembourg,2019,Agricultural education/training,3.109066039500001,6.204020427969509
+Luxembourg,2019,Agricultural alternative development,2.1898175235,4.369695746798754
+Luxembourg,2019,Livestock,1.833987765,3.659651295324677
+Luxembourg,2019,Agricultural co-operatives,1.3240995569999998,2.642189196346073
+Luxembourg,2019,Food crop production,1.0795058144999998,2.154111890896636
+Luxembourg,2019,Multisector education/training,0.301144587,0.600922317436815
+Luxembourg,2019,Agricultural land resources,0.24221094150000005,0.4833225186768271
+Luxembourg,2019,Agricultural extension,0.21391713,0.4268633176495796
+Luxembourg,2019,Food security policy and administrative management,0.18216725399999997,0.3635076742547622
+Luxembourg,2019,Agricultural water resources,0.1286032695,0.25662282529385555
+Luxembourg,2019,Forestry policy and administrative management,0.1233205395,0.24608134292614162
+Luxembourg,2019,Fishing policy and administrative management,0.0298429665,0.0595504796118724
+Luxembourg,2019,Agricultural services,0.029752692,0.0593703403562216
+Luxembourg,2019,Agricultural research,0.022526274,0.04495030413844587
+Luxembourg,2019,Livestock/veterinary services,0.01462224,0.029178111532575195

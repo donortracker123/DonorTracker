@@ -1,46 +1,61 @@
-"Year","Region","Bilateral ODA","Share","Donor"
-"2018","Developing countries, unspecified",2699.780695,"65%","Netherlands"
-"2019","Developing countries, unspecified",2657.5348,"70%","Netherlands"
-"2020","Developing countries, unspecified",2828.517055,"71%","Netherlands"
-"2021","Developing countries, unspecified",2678.900681,"70%","Netherlands"
-"2022","Developing countries, unspecified",3406.353513,"73%","Netherlands"
-"2018","sub-Saharan Africa",822.770953,"20%","Netherlands"
-"2019","sub-Saharan Africa",720.857993,"19%","Netherlands"
-"2020","sub-Saharan Africa",712.592793,"18%","Netherlands"
-"2021","sub-Saharan Africa",758.247309,"20%","Netherlands"
-"2022","sub-Saharan Africa",710.666173,"15%","Netherlands"
-"2018","Europe",28.688654,"1%","Netherlands"
-"2019","Europe",22.300986,"1%","Netherlands"
-"2020","Europe",39.048545,"1%","Netherlands"
-"2021","Europe",32.125584,"1%","Netherlands"
-"2022","Europe",214.083983,"5%","Netherlands"
-"2018","MENA region",351.181151,"8%","Netherlands"
-"2019","MENA region",158.407013,"4%","Netherlands"
-"2020","MENA region",210.656328,"5%","Netherlands"
-"2021","MENA region",177.926275,"5%","Netherlands"
-"2022","MENA region",184.746122,"4%","Netherlands"
-"2018","Asia",143.838886,"3%","Netherlands"
-"2019","Asia",154.573211,"4%","Netherlands"
-"2020","Asia",111.140531,"3%","Netherlands"
-"2021","Asia",79.214483,"2%","Netherlands"
-"2022","Asia",69.14242,"1%","Netherlands"
-"2018","Africa, regional",49.315618,"1%","Netherlands"
-"2019","Africa, regional",59.570446,"2%","Netherlands"
-"2020","Africa, regional",62.665223,"2%","Netherlands"
-"2021","Africa, regional",70.37226,"2%","Netherlands"
-"2022","Africa, regional",37.432365,"1%","Netherlands"
-"2018","Latin America and the Caribbeans",34.845851,"1%","Netherlands"
-"2019","Latin America and the Caribbeans",18.671009,"0%","Netherlands"
-"2020","Latin America and the Caribbeans",14.707003,"0%","Netherlands"
-"2021","Latin America and the Caribbeans",15.169996,"0%","Netherlands"
-"2022","Latin America and the Caribbeans",14.93116,"0%","Netherlands"
-"2018","Asia, regional",3.203617,"0%","Netherlands"
-"2019","Asia, regional",4.598703,"0%","Netherlands"
-"2020","Asia, regional",7.697597,"0%","Netherlands"
-"2021","Asia, regional",8.166685,"0%","Netherlands"
-"2022","Asia, regional",6.467667,"0%","Netherlands"
-"2018","Oceania",0,"0%","Netherlands"
-"2019","Oceania",0,"0%","Netherlands"
-"2020","Oceania",0,"0%","Netherlands"
-"2021","Oceania",0,"0%","Netherlands"
-"2022","Oceania",0,"0%","Netherlands"
+donor,year,Region,share,Bilateral ODA
+Netherlands,2023,Regional and Unspecified,71.3%,364034.9988824799
+Netherlands,2023,South of Sahara,15.3%,78278.40395251995
+Netherlands,2023,Europe,7.1%,36041.1155238
+Netherlands,2023,Middle East,2.2%,11459.735607359995
+Netherlands,2023,South & Central Asia,1.4%,7012.767709199999
+Netherlands,2023,Africa,1.3%,6612.907384239999
+Netherlands,2023,North of Sahara,1.0%,5092.091183519999
+Netherlands,2023,South America,0.1%,701.15714068
+Netherlands,2023,Far East Asia,0.1%,616.0630694399998
+Netherlands,2023,Asia,0.1%,603.1501769199999
+Netherlands,2023,America,0.1%,338.97791340000003
+Netherlands,2023,Caribbean & Central America,0.0%,90.47147260000003
+Netherlands,2022,Regional and Unspecified,73.4%,353585.25228124013
+Netherlands,2022,South of Sahara,15.3%,73768.35096756002
+Netherlands,2022,Europe,4.6%,22222.279088119998
+Netherlands,2022,Middle East,3.2%,15453.254682120001
+Netherlands,2022,South & Central Asia,1.4%,6528.035357319997
+Netherlands,2022,Africa,0.8%,3885.5428507599995
+Netherlands,2022,North of Sahara,0.8%,3723.7056494800004
+Netherlands,2022,America,0.2%,804.0298768399999
+Netherlands,2022,Asia,0.1%,671.35486412
+Netherlands,2022,South America,0.1%,649.5433137199999
+Netherlands,2022,Far East Asia,0.1%,649.06490312
+Netherlands,2022,Caribbean & Central America,0.0%,96.30686796000002
+Netherlands,2021,Regional and Unspecified,70.1%,277566.2135142401
+Netherlands,2021,South of Sahara,19.8%,78563.50576932008
+Netherlands,2021,Middle East,4.0%,15934.215260280003
+Netherlands,2021,Africa,1.8%,7291.409493040001
+Netherlands,2021,South & Central Asia,1.8%,7260.749167479997
+Netherlands,2021,Europe,0.8%,3328.5953292799995
+Netherlands,2021,North of Sahara,0.6%,2501.0789683199987
+Netherlands,2021,South America,0.2%,985.4726424799998
+Netherlands,2021,Far East Asia,0.2%,946.8200457199999
+Netherlands,2021,Asia,0.2%,846.1665388
+Netherlands,2021,America,0.1%,374.12293828
+Netherlands,2021,Caribbean & Central America,0.1%,212.19811116
+Netherlands,2020,Regional and Unspecified,70.9%,294317.77590291976
+Netherlands,2020,South of Sahara,17.9%,74147.94378888003
+Netherlands,2020,Middle East,4.8%,19711.669209480006
+Netherlands,2020,South & Central Asia,2.5%,10292.774068760005
+Netherlands,2020,Africa,1.6%,6520.55074212
+Netherlands,2020,Europe,1.0%,4063.14740596
+Netherlands,2020,North of Sahara,0.5%,2207.91115984
+Netherlands,2020,Far East Asia,0.3%,1271.81479532
+Netherlands,2020,South America,0.3%,1123.30886132
+Netherlands,2020,Asia,0.2%,800.9635242399999
+Netherlands,2020,Caribbean & Central America,0.1%,248.36760792
+Netherlands,2020,America,0.0%,158.6413964
+Netherlands,2019,Regional and Unspecified,70.0%,276558.4807079597
+Netherlands,2019,South of Sahara,19.0%,75016.66305584
+Netherlands,2019,South & Central Asia,3.6%,14142.525957559994
+Netherlands,2019,Middle East,3.1%,12266.12674676
+Netherlands,2019,Africa,1.6%,6199.246099840001
+Netherlands,2019,North of Sahara,1.1%,4218.625995120003
+Netherlands,2019,Europe,0.6%,2320.7698205999995
+Netherlands,2019,Far East Asia,0.5%,1943.2586095999993
+Netherlands,2019,South America,0.4%,1450.2718815200003
+Netherlands,2019,Asia,0.1%,478.56753191999996
+Netherlands,2019,Caribbean & Central America,0.1%,278.14339807999994
+Netherlands,2019,America,0.1%,214.59777899999997

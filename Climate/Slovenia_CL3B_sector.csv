@@ -1,14 +1,10 @@
-"Sector","climate-related ODA to","Share","Donor"
-"Energy",1.5,"48%","Slovenia"
-"Water and sanitation",1,"34%","Slovenia"
-"Industry, construction & mining",0.2,"6%","Slovenia"
-"Government & civil society",0.2,"5%","Slovenia"
-"Environmental protection",0.1,"2%","Slovenia"
-"Agriculture (incl. forestry, fishing, rural development)",0.1,"2%","Slovenia"
-"Unspecified",0,"2%","Slovenia"
-"Emergency Response",0,"1%","Slovenia"
-"Disaster Prevention & Preparedness",0,"1%","Slovenia"
-"Education",0,"0%","Slovenia"
-"Other multisector",0,"0%","Slovenia"
-"Other social services",0,"0%","Slovenia"
-"Reconstruction Relief & Rehabilitation",0,"0%","Slovenia"
+Sector,Climate-related ODA to,Share,donor
+Water and sanitation,3.538116381,55.0%,Slovenia
+"Agriculture (incl. forestry, fishing, rural development)",1.2468093516,19.0%,Slovenia
+Energy,0.6492248509,10.0%,Slovenia
+Government & civil society,0.6138388654999999,10.0%,Slovenia
+Environmental protection,0.3348403634,5.0%,Slovenia
+Disaster Prevention & Preparedness,0.0270323004,0.0%,Slovenia
+Unspecified,0.014093619699999999,0.0%,Slovenia
+Other social services,0.008974885200000001,0.0%,Slovenia
+"Industry, construction & mining",0.0,0.0%,Slovenia

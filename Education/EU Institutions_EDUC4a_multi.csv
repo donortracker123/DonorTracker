@@ -1,16 +1,9 @@
-"Year","Multi_short","ODA","Share","Full Name","Donor"
-"2018","FAO","0","0%","food and agricultural organisation","EU Institutions"
-"2019","FAO","0","0%","food and agricultural organisation","EU Institutions"
-"2020","FAO","0","0%","food and agricultural organisation","EU Institutions"
-"2021","FAO","0","0%","food and agricultural organisation","EU Institutions"
-"2022","FAO","0","0%","food and agricultural organisation","EU Institutions"
-"2018","ILO","0","0%","international labour organisation regular budget supplementary account","EU Institutions"
-"2019","ILO","0","0%","international labour organisation regular budget supplementary account","EU Institutions"
-"2020","ILO","0","0%","international labour organisation regular budget supplementary account","EU Institutions"
-"2021","ILO","0","0%","international labour organisation regular budget supplementary account","EU Institutions"
-"2022","ILO","0","0%","international labour organisation regular budget supplementary account","EU Institutions"
-"2018","UNRWA","79.9","5.9%","united nations relief and works agency for palestine refugees in the near east","EU Institutions"
-"2019","UNRWA","73","6.3%","united nations relief and works agency for palestine refugees in the near east","EU Institutions"
-"2020","UNRWA","62","3.9%","united nations relief and works agency for palestine refugees in the near east","EU Institutions"
-"2021","UNRWA","0","0%","united nations relief and works agency for palestine refugees in the near east","EU Institutions"
-"2022","UNRWA","0","0%","united nations relief and works agency for palestine refugees in the near east","EU Institutions"
+Year,ODA,Share,Full Name,donor
+2020,0.0006,9.553501198964399e-06,food and agricultural organisation,EU Institutions
+2020,62.8036,0.9999904464988011,united nations relief and works agency for palestine refugees in the near east,EU Institutions
+2019,73.9489,0.9999918863548772,united nations relief and works agency for palestine refugees in the near east,EU Institutions
+2019,0.0006,8.113645122685075e-06,food and agricultural organisation,EU Institutions
+2022,0.0001,1.0,food and agricultural organisation,EU Institutions
+2023,0.0001,0.011111111111111113,food and agricultural organisation,EU Institutions
+2023,0.0089,0.9888888888888889,adaptation fund,EU Institutions
+2021,0.0006,1.0,food and agricultural organisation,EU Institutions

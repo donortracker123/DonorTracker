@@ -1,56 +1,42 @@
-"Year","Multi_short","ODA","Share","Full Name","Donor"
-"2018","IDA","111.4","6%","international development association","United States"
-"2019","IDA","99","6.2%","international development association","United States"
-"2020","IDA","109.8","7.4%","international development association","United States"
-"2021","IDA","64.2","4.7%","international development association","United States"
-"2022","IDA","108.7","8.4%","international development association","United States"
-"2018","UNICEF","8.7","0.5%","united nations childrenâ€™s fund","United States"
-"2019","UNICEF","7.8","0.5%","united nations childrenâ€™s fund","United States"
-"2020","UNICEF","11.2","0.8%","united nations childrenâ€™s fund","United States"
-"2021","UNICEF","5.2","0.4%","united nations childrenâ€™s fund","United States"
-"2022","UNICEF","21.2","1.6%","united nations childrenâ€™s fund","United States"
-"2018","IBRD","0","0%","international bank for reconstruction and development","United States"
-"2019","IBRD","0","0%","international bank for reconstruction and development","United States"
-"2020","IBRD","14.4","1%","international bank for reconstruction and development","United States"
-"2021","IBRD","7.7","0.6%","international bank for reconstruction and development","United States"
-"2022","IBRD","8.7","0.7%","international bank for reconstruction and development","United States"
-"2018","UNFPA","0","0%","united nations population fund","United States"
-"2019","UNFPA","0","0%","united nations population fund","United States"
-"2020","UNFPA","0","0%","united nations population fund","United States"
-"2021","UNFPA","1.5","0.1%","united nations population fund","United States"
-"2022","UNFPA","2.6","0.2%","united nations population fund","United States"
-"2018","African Development Fund","9.8","0.5%","african development fund","United States"
-"2019","African Development Fund","8.5","0.5%","african development fund","United States"
-"2020","African Development Fund","7.1","0.5%","african development fund","United States"
-"2021","African Development Fund","2.4","0.2%","african development fund","United States"
-"2022","African Development Fund","2.3","0.2%","african development fund","United States"
-"2018","UNDP","0","0%","united nations development programme","United States"
-"2019","UNDP","0","0%","united nations development programme","United States"
-"2020","UNDP","0","0%","united nations development programme","United States"
-"2021","UNDP","0","0%","united nations development programme","United States"
-"2022","UNDP","0.5","0%","united nations development programme","United States"
-"2018","EBRD","0","0%","european bank for reconstruction and development","United States"
-"2019","EBRD","0","0%","european bank for reconstruction and development","United States"
-"2020","EBRD","0","0%","european bank for reconstruction and development","United States"
-"2021","EBRD","0","0%","european bank for reconstruction and development","United States"
-"2022","EBRD","0.4","0%","european bank for reconstruction and development","United States"
-"2018","AfDB","0.9","0%","african development bank","United States"
-"2019","AfDB","0.5","0%","african development bank","United States"
-"2020","AfDB","0","0%","african development bank","United States"
-"2021","AfDB","0.2","0%","african development bank","United States"
-"2022","AfDB","0.3","0%","african development bank","United States"
-"2018","FAO","0","0%","food and agricultural organisation","United States"
-"2019","FAO","0.2","0%","food and agricultural organisation","United States"
-"2020","FAO","0.2","0%","food and agricultural organisation","United States"
-"2021","FAO","0.2","0%","food and agricultural organisation","United States"
-"2022","FAO","0","0%","food and agricultural organisation","United States"
-"2018","IADB Fund for special operations","0","0%","inter american development bank fund for special operations","United States"
-"2019","IADB Fund for special operations","0","0%","inter american development bank fund for special operations","United States"
-"2020","IADB Fund for special operations","0","0%","inter american development bank fund for special operations","United States"
-"2021","IADB Fund for special operations","0","0%","inter american development bank fund for special operations","United States"
-"2022","IADB Fund for special operations","0","0%","inter american development bank fund for special operations","United States"
-"2018","UN","0","0%","united nations","United States"
-"2019","UN","0","0%","united nations","United States"
-"2020","UN","0","0%","united nations","United States"
-"2021","UN","0","0%","united nations","United States"
-"2022","UN","0","0%","united nations","United States"
+Year,ODA,Share,Full Name,donor
+2020,7.8474,0.049464285038935296,african development fund,United States
+2020,0.1907,0.00120203368719894,food and agricultural organisation,United States
+2020,0.016,0.00010085232823903009,european bank for reconstruction and development,United States
+2020,12.452900000000003,0.07849399739548864,united nations children’s fund,United States
+2020,15.991200000000001,0.10079685945849863,international bank for reconstruction and development,United States
+2020,122.10650000000001,0.7696703011324456,international development association,United States
+2020,0.0431,0.0002716709591938873,united nations development programme,United States
+2019,9.407699999999998,0.0730096891479215,african development fund,United States
+2019,8.672899999999998,0.06730717741966775,united nations children’s fund,United States
+2019,0.1773,0.0013759598930585036,food and agricultural organisation,United States
+2019,0.0333,0.0002584290154475362,united nations development programme,United States
+2019,0.5184,0.004023111159399482,african development bank,United States
+2019,110.0459,0.8540256333645052,international development association,United States
+2022,2.5866000000000002,0.016103586917407636,african development fund,United States
+2022,9.696399999999999,0.06036759459752237,international bank for reconstruction and development,United States
+2022,120.60390000000002,0.7508526197434234,international development association,United States
+2022,0.3219,0.002004076636787102,african development bank,United States
+2022,0.5869,0.003653906735415812,united nations development programme,United States
+2022,0.3887,0.0024199583371206784,european bank for reconstruction and development,United States
+2022,23.5086,0.14635922964763362,united nations children’s fund,United States
+2022,0.0517,0.00032187251358152584,food and agricultural organisation,United States
+2022,2.8779,0.017917154871107798,united nations population fund,United States
+2023,0.112,0.0005459600903173978,united nations,United States
+2023,1.9104999999999999,0.009313006719208825,african development fund,United States
+2023,10.3552,0.05047791006477426,international bank for reconstruction and development,United States
+2023,40.4017,0.19694389090157507,united nations relief and works agency for palestine refugees in the near east,United States
+2023,10.269200000000001,0.05005869070970913,united nations children’s fund,United States
+2023,0.0296,0.00014428945244102657,food and agricultural organisation,United States
+2023,1.7314,0.008439958039067344,united nations population fund,United States
+2023,138.66070000000002,0.6759215026381572,international development association,United States
+2023,1.3039,0.006356047872900491,african development bank,United States
+2023,0.369,0.0017987435118492837,united nations development programme,United States
+2021,0.1978,0.00218930516678233,food and agricultural organisation,United States
+2021,1.6313,0.01805568007367045,united nations population fund,United States
+2021,71.25760000000001,0.7886988465748664,international development association,United States
+2021,2.6979,0.02986110419343806,african development fund,United States
+2021,8.583000000000002,0.09499902045749617,international bank for reconstruction and development,United States
+2021,0.0037,4.09526244544723e-05,european bank for reconstruction and development,United States
+2021,0.015,0.00016602415319380662,united nations development programme,United States
+2021,0.18209999999999998,0.0020155332197728123,african development bank,United States
+2021,5.779900000000001,0.06397353353632554,united nations children’s fund,United States

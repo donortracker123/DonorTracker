@@ -1,36 +1,27 @@
-Year,Income Group,ODA,Share,Donor
-2018,Countries unspecified,193.168869,35.27%,Ireland
-2019,Countries unspecified,235.51445,39.26%,Ireland
-2020,Countries unspecified,181.285681,33.32%,Ireland
-2021,Countries unspecified,241.127572,38.76%,Ireland
-2022,Countries unspecified,1462.671227,75.61%,Ireland
-2018,Low income countries,223.511011,40.81%,Ireland
-2019,Low income countries,226.783624,37.81%,Ireland
-2020,Low income countries,226.717218,41.67%,Ireland
-2021,Low income countries,237.496581,38.17%,Ireland
-2022,Low income countries,251.397091,13%,Ireland
-2018,Lower-middle income countries,95.052699,17.36%,Ireland
-2019,Lower-middle income countries,92.390602,15.40%,Ireland
-2020,Lower-middle income countries,92.907142,17.08%,Ireland
-2021,Lower-middle income countries,92.114685,14.81%,Ireland
-2022,Lower-middle income countries,156.968108,8.11%,Ireland
-2018,Upper-middle income countries,28.624851,5.23%,Ireland
-2019,Upper-middle income countries,34.610928,5.77%,Ireland
-2020,Upper-middle income countries,33.252118,6.11%,Ireland
-2021,Upper-middle income countries,31.316128,5.03%,Ireland
-2022,Upper-middle income countries,33.339875,1.72%,Ireland
-2018,Unallocated by income,7.218857,1.32%,Ireland
-2019,Unallocated by income,9.096945,1.52%,Ireland
-2020,Unallocated by income,7.698574,1.42%,Ireland
-2021,Unallocated by income,19.500626,3.13%,Ireland
-2022,Unallocated by income,29.442202,1.52%,Ireland
-2018,Countries not classified,0.055836,0.01%,Ireland
-2019,Countries not classified,1.429477,0.24%,Ireland
-2020,Countries not classified,1.806651,0.33%,Ireland
-2021,Countries not classified,0.591296,0.10%,Ireland
-2022,Countries not classified,0.572122,0.03%,Ireland
-2018,High income countries,0,0%,Ireland
-2019,High income countries,0,0%,Ireland
-2020,High income countries,0.356338,0.07%,Ireland
-2021,High income countries,0.000099,0%,Ireland
-2022,High income countries,0,0%,Ireland
+donor,year,incomegroup_name,total_oda,share
+Ireland,2023,Part I unallocated by income,1624.2045699999992,80.61908374756149
+Ireland,2023,LDCs,254.63820099999944,12.639232046827303
+Ireland,2023,LMICs,92.4578350000001,4.589240838660634
+Ireland,2023,UMICs,32.49311200000001,1.6128294218177808
+Ireland,2023,Other LICs,10.871413999999996,0.5396139451327935
+Ireland,2022,Part I unallocated by income,1407.3414010000001,77.13609508136811
+Ireland,2022,LDCs,275.7884590000007,15.11590917502472
+Ireland,2022,LMICs,102.93617999999996,5.641911026102769
+Ireland,2022,UMICs,31.382408000000027,1.7200633802503258
+Ireland,2022,Other LICs,7.042926,0.3860213372540722
+Ireland,2021,LDCs,261.81179899999984,44.383485188336294
+Ireland,2021,Part I unallocated by income,247.11332899999996,41.891736046288656
+Ireland,2021,LMICs,45.72417299999996,7.751362478107511
+Ireland,2021,UMICs,25.746201000000003,4.364608986699754
+Ireland,2021,Other LICs,9.490123,1.6088073005678019
+Ireland,2020,LDCs,251.36235699999995,48.648322536081714
+Ireland,2020,Part I unallocated by income,179.48995399999984,34.73823717438513
+Ireland,2020,LMICs,45.543051000000006,8.814339031381774
+Ireland,2020,UMICs,31.981758000000013,6.18970516120245
+Ireland,2020,Other LICs,7.977197,1.5438956621092772
+Ireland,2020,MADCTs,0.338436,0.06550043483965802
+Ireland,2019,LDCs,252.95161800000008,44.32597270582651
+Ireland,2019,Part I unallocated by income,232.7183199999998,40.78039105670313
+Ireland,2019,LMICs,48.49350799999997,8.49775909327363
+Ireland,2019,UMICs,29.438284999999993,5.1586173977995315
+Ireland,2019,Other LICs,7.060574999999999,1.2372597463971977

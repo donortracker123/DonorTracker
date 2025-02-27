@@ -1,36 +1,29 @@
-Year,Income Group,ODA,Share,Donor
-2018,Lower-middle income countries,1235.734055,43.83%,Australia
-2019,Lower-middle income countries,1233.030633,47.95%,Australia
-2020,Lower-middle income countries,1137.39897,42.63%,Australia
-2021,Lower-middle income countries,1553.608179,50.42%,Australia
-2022,Lower-middle income countries,1408.839775,52.88%,Australia
-2018,Countries unspecified,758.851306,26.92%,Australia
-2019,Countries unspecified,579.482569,22.53%,Australia
-2020,Countries unspecified,659.851223,24.73%,Australia
-2021,Countries unspecified,485.693412,15.76%,Australia
-2022,Countries unspecified,423.061106,15.88%,Australia
-2018,Upper-middle income countries,454.704207,16.13%,Australia
-2019,Upper-middle income countries,378.394709,14.71%,Australia
-2020,Upper-middle income countries,390.234056,14.63%,Australia
-2021,Upper-middle income countries,621.095681,20.16%,Australia
-2022,Upper-middle income countries,408.291671,15.33%,Australia
-2018,Unallocated by income,189.115772,6.71%,Australia
-2019,Unallocated by income,195.901965,7.62%,Australia
-2020,Unallocated by income,373.665968,14%,Australia
-2021,Unallocated by income,311.729319,10.12%,Australia
-2022,Unallocated by income,292.021011,10.96%,Australia
-2018,Low income countries,151.894493,5.39%,Australia
-2019,Low income countries,157.271841,6.12%,Australia
-2020,Low income countries,88.823726,3.33%,Australia
-2021,Low income countries,85.748804,2.78%,Australia
-2022,Low income countries,108.354343,4.07%,Australia
-2018,High income countries,25.894622,0.92%,Australia
-2019,High income countries,20.604655,0.80%,Australia
-2020,High income countries,15.531144,0.58%,Australia
-2021,High income countries,20.555148,0.67%,Australia
-2022,High income countries,20.667163,0.78%,Australia
-2018,Countries not classified,3.138524,0.11%,Australia
-2019,Countries not classified,6.849522,0.27%,Australia
-2020,Countries not classified,2.671866,0.10%,Australia
-2021,Countries not classified,3.157632,0.10%,Australia
-2022,Countries not classified,2.906238,0.11%,Australia
+donor,year,incomegroup_name,total_oda,share
+Australia,2023,LMICs,1014.5384230000012,36.99272369853186
+Australia,2023,Part I unallocated by income,832.4967149999993,30.355007025623873
+Australia,2023,LDCs,633.8099119999999,23.110366665735206
+Australia,2023,UMICs,252.2180490000004,9.196529561542071
+Australia,2023,Other LICs,9.471977,0.34537304856698203
+Australia,2022,LMICs,1119.4628299999988,42.67662972877718
+Australia,2022,Part I unallocated by income,700.4864519999999,26.704237193859196
+Australia,2022,LDCs,609.3892929999986,23.231393237095933
+Australia,2022,UMICs,191.15431500000022,7.287264662742804
+Australia,2022,Other LICs,2.635593,0.10047517752488232
+Australia,2021,LMICs,1282.7849379999973,41.77504002577309
+Australia,2021,Part I unallocated by income,794.0496109999991,25.858936521107317
+Australia,2021,LDCs,679.3229999999996,22.122761715361126
+Australia,2021,UMICs,311.4335909999998,10.142113727714555
+Australia,2021,Other LICs,3.04558,0.09918203950855421
+Australia,2021,MADCTs,0.060369000000000006,0.0019659705353633496
+Australia,2020,Part I unallocated by income,1031.1238700000006,38.73495738842355
+Australia,2020,LMICs,885.586581000001,33.267737734356515
+Australia,2020,LDCs,542.9066559999994,20.394704067952077
+Australia,2020,UMICs,184.125423,6.916812442747987
+Australia,2020,Other LICs,18.2437,0.6853385540450949
+Australia,2020,MADCTs,0.011974,0.0004498124747795659
+Australia,2019,LMICs,984.1978919999988,38.44894298744102
+Australia,2019,Part I unallocated by income,769.2451820000006,30.05154185605769
+Australia,2019,LDCs,594.543738,23.226607648436314
+Australia,2019,UMICs,179.704071,7.020368196937839
+Australia,2019,Other LICs,28.396026999999997,1.1093269271022144
+Australia,2019,MADCTs,3.6658830000000004,0.14321238402492883

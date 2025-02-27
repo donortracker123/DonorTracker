@@ -1,46 +1,63 @@
-"Year","Region","Bilateral ODA","Share","Donor"
-"2018","Developing countries, unspecified",708.415898,"49%","Belgium"
-"2019","Developing countries, unspecified",603.943608,"48%","Belgium"
-"2020","Developing countries, unspecified",584.053446,"47%","Belgium"
-"2021","Developing countries, unspecified",663.412175,"48%","Belgium"
-"2022","Developing countries, unspecified",693.6663,"50%","Belgium"
-"2018","sub-Saharan Africa",473.542655,"33%","Belgium"
-"2019","sub-Saharan Africa",448.309414,"35%","Belgium"
-"2020","sub-Saharan Africa",463.152971,"37%","Belgium"
-"2021","sub-Saharan Africa",505.19943,"37%","Belgium"
-"2022","sub-Saharan Africa",461.487133,"33%","Belgium"
-"2018","Europe",13.214364,"1%","Belgium"
-"2019","Europe",12.256751,"1%","Belgium"
-"2020","Europe",14.744531,"1%","Belgium"
-"2021","Europe",17.267049,"1%","Belgium"
-"2022","Europe",79.686874,"6%","Belgium"
-"2018","MENA region",101.912921,"7%","Belgium"
-"2019","MENA region",105.467078,"8%","Belgium"
-"2020","MENA region",95.44257,"8%","Belgium"
-"2021","MENA region",96.804109,"7%","Belgium"
-"2022","MENA region",70.508887,"5%","Belgium"
-"2018","Latin America and the Caribbeans",77.363142,"5%","Belgium"
-"2019","Latin America and the Caribbeans",54.109545,"4%","Belgium"
-"2020","Latin America and the Caribbeans",53.852691,"4%","Belgium"
-"2021","Latin America and the Caribbeans",45.42599,"3%","Belgium"
-"2022","Latin America and the Caribbeans",35.94231,"3%","Belgium"
-"2018","Asia",58.392336,"4%","Belgium"
-"2019","Asia",40.762561,"3%","Belgium"
-"2020","Asia",27.635227,"2%","Belgium"
-"2021","Asia",30.013954,"2%","Belgium"
-"2022","Asia",19.51987,"1%","Belgium"
-"2018","Africa, regional",6.22808,"0%","Belgium"
-"2019","Africa, regional",3.26264,"0%","Belgium"
-"2020","Africa, regional",16.268319,"1%","Belgium"
-"2021","Africa, regional",11.418724,"1%","Belgium"
-"2022","Africa, regional",17.746095,"1%","Belgium"
-"2018","Asia, regional",0.009933,"0%","Belgium"
-"2019","Asia, regional",0.009859,"0%","Belgium"
-"2020","Asia, regional",0.863416,"0%","Belgium"
-"2021","Asia, regional",0.527972,"0%","Belgium"
-"2022","Asia, regional",4.132267,"0%","Belgium"
-"2018","Oceania",0.024304,"0%","Belgium"
-"2019","Oceania",0.001248,"0%","Belgium"
-"2020","Oceania",0,"0%","Belgium"
-"2021","Oceania",0.018543,"0%","Belgium"
-"2022","Oceania",0.282553,"0%","Belgium"
+donor,year,Region,share,Bilateral ODA
+Belgium,2023,Regional and Unspecified,50.8%,71263.95928635004
+Belgium,2023,South of Sahara,30.6%,42985.495282720025
+Belgium,2023,Europe,6.0%,8477.79589967
+Belgium,2023,Middle East,5.6%,7913.936416259999
+Belgium,2023,Africa,2.2%,3105.0917948899996
+Belgium,2023,South America,1.1%,1589.8263231800001
+Belgium,2023,Far East Asia,0.9%,1288.2606890499999
+Belgium,2023,North of Sahara,0.8%,1060.30152082
+Belgium,2023,Caribbean & Central America,0.6%,903.5979745
+Belgium,2023,America,0.6%,778.10156409
+Belgium,2023,South & Central Asia,0.4%,596.3309369799999
+Belgium,2023,Asia,0.3%,410.66707531
+Belgium,2023,Oceania,0.0%,8.89255998
+Belgium,2022,Regional and Unspecified,50.2%,70412.75661992999
+Belgium,2022,South of Sahara,33.4%,46844.68756052
+Belgium,2022,Europe,5.8%,8088.864055000003
+Belgium,2022,Middle East,4.0%,5671.490078909998
+Belgium,2022,South America,1.3%,1880.7627512900003
+Belgium,2022,Africa,1.3%,1801.3725613000001
+Belgium,2022,North of Sahara,1.1%,1485.73415005
+Belgium,2022,Caribbean & Central America,1.1%,1482.3008423100002
+Belgium,2022,Far East Asia,1.0%,1348.29995522
+Belgium,2022,South & Central Asia,0.5%,633.1252963999999
+Belgium,2022,Asia,0.3%,419.4586053400001
+Belgium,2022,America,0.2%,285.37261788999996
+Belgium,2022,Oceania,0.0%,28.68149407
+Belgium,2021,Regional and Unspecified,48.4%,66787.44739345998
+Belgium,2021,South of Sahara,36.9%,50859.75761179999
+Belgium,2021,Middle East,5.5%,7596.083150539997
+Belgium,2021,South America,2.0%,2693.6950588300006
+Belgium,2021,Far East Asia,1.7%,2322.65438884
+Belgium,2021,North of Sahara,1.6%,2149.4414795899993
+Belgium,2021,Caribbean & Central America,1.4%,1879.4579147400002
+Belgium,2021,Europe,1.3%,1738.31907459
+Belgium,2021,Africa,0.8%,1149.5529823
+Belgium,2021,South & Central Asia,0.5%,698.9293635899999
+Belgium,2021,Asia,0.0%,53.15233779
+Belgium,2021,Oceania,0.0%,1.8667555099999997
+Belgium,2020,Regional and Unspecified,46.5%,58938.677326239995
+Belgium,2020,South of Sahara,36.9%,46738.22583415001
+Belgium,2020,Middle East,6.3%,7988.578412419997
+Belgium,2020,South America,2.5%,3206.333961239999
+Belgium,2020,Far East Asia,1.8%,2242.94357576
+Belgium,2020,Caribbean & Central America,1.8%,2228.1119514599995
+Belgium,2020,North of Sahara,1.3%,1642.8320873599998
+Belgium,2020,Africa,1.3%,1641.6875089000002
+Belgium,2020,Europe,1.2%,1487.9168246099998
+Belgium,2020,South & Central Asia,0.4%,545.8142514199999
+Belgium,2020,Asia,0.1%,87.13004635
+Belgium,2019,Regional and Unspecified,47.6%,60999.530613989984
+Belgium,2019,South of Sahara,35.4%,45280.162344119984
+Belgium,2019,Middle East,6.0%,7637.175291959998
+Belgium,2019,Far East Asia,2.7%,3499.1911344099994
+Belgium,2019,South America,2.5%,3251.3385810199993
+Belgium,2019,North of Sahara,2.4%,3015.2139477200003
+Belgium,2019,Caribbean & Central America,1.7%,2212.32294811
+Belgium,2019,Europe,1.0%,1237.9566474800001
+Belgium,2019,South & Central Asia,0.5%,617.9103997499999
+Belgium,2019,Africa,0.3%,329.53307631
+Belgium,2019,America,0.0%,1.51256268
+Belgium,2019,Asia,0.0%,0.9957597399999999
+Belgium,2019,Oceania,0.0%,0.12604689

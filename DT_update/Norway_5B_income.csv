@@ -1,36 +1,26 @@
-Year,Income Group,ODA,Share,Donor
-2018,Countries unspecified,1599.460669,46.05%,Norway
-2019,Countries unspecified,1786.061588,46.31%,Norway
-2020,Countries unspecified,1981.599029,49.26%,Norway
-2021,Countries unspecified,1840.539004,52.44%,Norway
-2022,Countries unspecified,1805.611901,47.09%,Norway
-2018,Lower-middle income countries,427.795333,12.32%,Norway
-2019,Lower-middle income countries,418.543563,10.85%,Norway
-2020,Lower-middle income countries,447.706085,11.13%,Norway
-2021,Lower-middle income countries,355.581071,10.13%,Norway
-2022,Lower-middle income countries,819.315458,21.37%,Norway
-2018,Low income countries,780.072737,22.46%,Norway
-2019,Low income countries,844.323665,21.89%,Norway
-2020,Low income countries,916.194175,22.77%,Norway
-2021,Low income countries,723.861054,20.63%,Norway
-2022,Low income countries,655.444941,17.10%,Norway
-2018,Upper-middle income countries,400.887509,11.54%,Norway
-2019,Upper-middle income countries,385.422812,9.99%,Norway
-2020,Upper-middle income countries,376.122902,9.35%,Norway
-2021,Upper-middle income countries,319.374793,9.10%,Norway
-2022,Upper-middle income countries,331.407913,8.64%,Norway
-2018,Unallocated by income,257.541591,7.41%,Norway
-2019,Unallocated by income,361.093243,9.36%,Norway
-2020,Unallocated by income,289.268467,7.19%,Norway
-2021,Unallocated by income,257.398866,7.33%,Norway
-2022,Unallocated by income,211.233806,5.51%,Norway
-2018,Countries not classified,4.084758,0.12%,Norway
-2019,Countries not classified,6.37422,0.17%,Norway
-2020,Countries not classified,8.368794,0.21%,Norway
-2021,Countries not classified,8.612093,0.25%,Norway
-2022,Countries not classified,6.650328,0.17%,Norway
-2018,High income countries,3.671565,0.11%,Norway
-2019,High income countries,55.058116,1.43%,Norway
-2020,High income countries,3.754077,0.09%,Norway
-2021,High income countries,4.243612,0.12%,Norway
-2022,High income countries,4.313982,0.11%,Norway
+donor,year,incomegroup_name,total_oda,share
+Norway,2023,Part I unallocated by income,2460.2829670000006,47.041370897010566
+Norway,2023,LMICs,1279.355525,24.461673135935932
+Norway,2023,LDCs,991.7287370000025,18.96216003288737
+Norway,2023,UMICs,377.741318,7.222530774511355
+Norway,2023,Other LICs,120.93241500000002,2.312265159654785
+Norway,2022,Part I unallocated by income,2165.3532020000025,52.48500917003152
+Norway,2022,LMICs,813.975743,19.729586977348077
+Norway,2022,LDCs,778.1214789999982,18.860531816699595
+Norway,2022,UMICs,281.29849299999955,6.81826593970188
+Norway,2022,Other LICs,86.91141200000003,2.1066060962189312
+Norway,2021,Part I unallocated by income,2401.3725299999946,59.776943157962016
+Norway,2021,LDCs,894.7175170000011,22.272045460660824
+Norway,2021,UMICs,339.3373979999998,8.447066041692734
+Norway,2021,LMICs,261.6658910000001,6.5136029072026265
+Norway,2021,Other LICs,120.12869500000002,2.9903424324817998
+Norway,2020,Part I unallocated by income,2603.566304000007,56.446927087991625
+Norway,2020,LDCs,1125.0659480000006,24.392125308416205
+Norway,2020,UMICs,378.59476900000004,8.208168652668956
+Norway,2020,LMICs,355.1457919999996,7.6997803343175235
+Norway,2020,Other LICs,150.04178299999995,3.2529986166057077
+Norway,2019,Part I unallocated by income,2489.497941999999,55.6708112701949
+Norway,2019,LDCs,995.0591810000021,22.251776526323333
+Norway,2019,UMICs,460.5389179999999,10.298693063373406
+Norway,2019,LMICs,342.2984900000004,7.6545693464416305
+Norway,2019,Other LICs,184.42451599999995,4.124149793666727
