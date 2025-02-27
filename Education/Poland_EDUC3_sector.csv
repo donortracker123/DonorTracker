@@ -1,54 +1,57 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Education policy and administrative management",0.434802,"0%","Poland"
-2019,"Education policy and administrative management",0.29359,"0%","Poland"
-2020,"Education policy and administrative management",0.20903,"0%","Poland"
-2021,"Education policy and administrative management",0.058731,"0%","Poland"
-2022,"Education policy and administrative management",0.183586,"0%","Poland"
-2018,"Education facilities and training",0.721182,"1%","Poland"
-2019,"Education facilities and training",1.349454,"1%","Poland"
-2020,"Education facilities and training",0.961711,"1%","Poland"
-2021,"Education facilities and training",1.044216,"1%","Poland"
-2022,"Education facilities and training",0.893109,"1%","Poland"
-2018,"Teacher training",0.204733,"0%","Poland"
-2019,"Teacher training",0.157707,"0%","Poland"
-2020,"Teacher training",0.027094,"0%","Poland"
-2021,"Teacher training",0.077905,"0%","Poland"
-2022,"Teacher training",0.121329,"0%","Poland"
-2018,"Primary education",0.150435,"0%","Poland"
-2019,"Primary education",0.009544,"0%","Poland"
-2021,"Primary education",0.168422,"0%","Poland"
-2022,"Primary education",0.547135,"0%","Poland"
-2018,"Basic life skills for adults",1.442277,"1%","Poland"
-2019,"Basic life skills for adults",1.268174,"1%","Poland"
-2020,"Basic life skills for adults",0.035865,"0%","Poland"
-2021,"Basic life skills for adults",0.078048,"0%","Poland"
-2022,"Basic life skills for adults",0.063517,"0%","Poland"
-2019,"Basic life skills for youth",0.009266,"0%","Poland"
-2020,"Basic life skills for youth",0.481373,"0%","Poland"
-2021,"Basic life skills for youth",1.156237,"1%","Poland"
-2022,"Basic life skills for youth",0.158669,"0%","Poland"
-2018,"Early childhood education",0.301723,"0%","Poland"
-2019,"Early childhood education",0.026882,"0%","Poland"
-2020,"Early childhood education",0.005442,"0%","Poland"
-2021,"Early childhood education",0.060688,"0%","Poland"
-2022,"Early childhood education",0.139135,"0%","Poland"
-2018,"Upper Secondary Education (modified and includes data from 11322)",0.139558,"0%","Poland"
-2019,"Upper Secondary Education (modified and includes data from 11322)",0.016819,"0%","Poland"
-2020,"Upper Secondary Education (modified and includes data from 11322)",0.041198,"0%","Poland"
-2021,"Upper Secondary Education (modified and includes data from 11322)",0.094746,"0%","Poland"
-2022,"Upper Secondary Education (modified and includes data from 11322)",0.055462,"0%","Poland"
-2018,"Vocational training",0.255679,"0%","Poland"
-2019,"Vocational training",0.128888,"0%","Poland"
-2020,"Vocational training",1.336844,"1%","Poland"
-2021,"Vocational training",0.39774,"0%","Poland"
-2022,"Vocational training",0.464311,"0%","Poland"
-2018,"Higher education",94.358105,"96%","Poland"
-2019,"Higher education",142.662834,"98%","Poland"
-2020,"Higher education",132.546057,"98%","Poland"
-2021,"Higher education",135.284519,"98%","Poland"
-2022,"Higher education",135.388302,"98%","Poland"
-2018,"Advanced technical and managerial training",0.014377,"0%","Poland"
-2019,"School feeding",0.01378,"0%","Poland"
-2021,"School feeding",0.017645,"0%","Poland"
-2022,"School feeding",0.098725,"0%","Poland"
-2022,"Lower secondary education",0.0089,"0%","Poland"
+donor,year,Sector,Bilateral ODA for,share
+Poland,2023,Higher education,140.5893650963998,97.8517766379584
+Poland,2023,Education facilities and training,1.0472472648000002,0.7288958547444685
+Poland,2023,Vocational training,0.9597399372,0.6679897722066568
+Poland,2023,Primary education,0.19758961199999997,0.13752458847899
+Poland,2023,Education policy and administrative management,0.19396065480000002,0.13499879352202704
+Poland,2023,Teacher training,0.1827389652,0.1271883715638172
+Poland,2023,Early childhood education,0.17469863400000002,0.1215922107721518
+Poland,2023,Basic life skills for youth,0.09819683280000001,0.06834609817827969
+Poland,2023,Basic life skills for adults,0.08929889760000001,0.06215303537347637
+Poland,2023,Advanced technical and managerial training,0.0466560072,0.03247310486268274
+Poland,2023,Upper Secondary Education (modified and includes data from 11322),0.0426076464,0.029655400291075624
+Poland,2023,Primary education equivalent for adults,0.0405235512,0.028204846631751476
+Poland,2023,Educational research,0.0091916352,0.006397481302453283
+Poland,2023,School feeding,0.0040283892,0.0028038041137669113
+Poland,2022,Higher education,153.62030308679996,98.02699251517474
+Poland,2022,Education facilities and training,1.0133813052000002,0.6466509935456197
+Poland,2022,Primary education,0.6208136616000001,0.3961487833063038
+Poland,2022,Vocational training,0.5268378852,0.3361816920777088
+Poland,2022,Education policy and administrative management,0.20830966199999995,0.13292494069728983
+Poland,2022,Basic life skills for youth,0.1800369252,0.11488376187530089
+Poland,2022,Early childhood education,0.1578731484,0.10074078507584754
+Poland,2022,Teacher training,0.137668938,0.08784823154054598
+Poland,2022,School feeding,0.1120207044,0.07148178027977713
+Poland,2022,Basic life skills for adults,0.0720704556,0.04598903836086423
+Poland,2022,Upper Secondary Education (modified and includes data from 11322),0.0629316864,0.04015747806599793
+Poland,2021,Higher education,151.81849000560007,97.72146768531319
+Poland,2021,Basic life skills for youth,1.2975478031999998,0.8351965278793164
+Poland,2021,Education facilities and training,1.1718371544,0.7542799734862659
+Poland,2021,Vocational training,0.44634763800000005,0.2873019372121535
+Poland,2021,Primary education,0.18900534840000002,0.1216576455564844
+Poland,2021,Upper Secondary Education (modified and includes data from 11322),0.106325274,0.06843871143060247
+Poland,2021,Basic life skills for adults,0.0875860392,0.05637677136066666
+Poland,2021,Teacher training,0.08742626640000001,0.05627392991815453
+Poland,2021,Early childhood education,0.0681043308,0.0438369210578803
+Poland,2021,Education policy and administrative management,0.0659098044,0.042424363597492847
+Poland,2021,School feeding,0.019801254,0.012745533187810671
+Poland,2020,Higher education,149.30213771880008,97.71567856732847
+Poland,2020,Vocational training,1.5058433676,0.9855485576387476
+Poland,2020,Education facilities and training,1.0832889540000001,0.7089939691551539
+Poland,2020,Basic life skills for youth,0.5422277652,0.35487873666186837
+Poland,2020,Education policy and administrative management,0.23545576560000003,0.1541017446885271
+Poland,2020,Upper Secondary Education (modified and includes data from 11322),0.0464057748,0.03037178062758334
+Poland,2020,Basic life skills for adults,0.040399022400000005,0.026440464601436318
+Poland,2020,Teacher training,0.030518954400000003,0.01997413020286474
+Poland,2020,Early childhood education,0.006130106400000001,0.00401204909533252
+Poland,2019,Higher education,160.76047550640007,97.75649660271168
+Poland,2019,Education facilities and training,1.5206411484000002,0.9246834508870944
+Poland,2019,Basic life skills for adults,1.4290478664,0.8689866862908252
+Poland,2019,Education policy and administrative management,0.33083307840000004,0.2011755849987313
+Poland,2019,Teacher training,0.17771082119999998,0.1080637963664849
+Poland,2019,Vocational training,0.1452381744,0.08831757344330826
+Poland,2019,Early childhood education,0.030292218,0.018420330598535147
+Poland,2019,Upper Secondary Education (modified and includes data from 11322),0.018951873600000002,0.011524404623446541
+Poland,2019,School feeding,0.015528506400000001,0.009442696523228142
+Poland,2019,Primary education,0.010754119200000002,0.0065394495365131205
+Poland,2019,Basic life skills for youth,0.010441622400000001,0.006349424020158248

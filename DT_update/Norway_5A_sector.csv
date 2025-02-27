@@ -1,111 +1,114 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-"2018","Humanitarian aid",545.295448,"15.70%","Norway"
-"2019","Humanitarian aid",606.56902,"15.73%","Norway"
-"2020","Humanitarian aid",606.034464,"15.06%","Norway"
-"2021","Humanitarian aid",535.965836,"15.27%","Norway"
-"2022","Humanitarian aid",611.10113,"15.94%","Norway"
-"2018","Refugees in donor countries",108.023561,"3.11%","Norway"
-"2019","Refugees in donor countries",68.712163,"1.78%","Norway"
-"2020","Refugees in donor countries",60.683026,"1.51%","Norway"
-"2021","Refugees in donor countries",52.250362,"1.49%","Norway"
-"2022","Refugees in donor countries",478.668282,"12.48%","Norway"
-"2018","Energy",87.948707,"2.53%","Norway"
-"2019","Energy",147.078225,"3.81%","Norway"
-"2020","Energy",112.816094,"2.80%","Norway"
-"2021","Energy",84.312209,"2.40%","Norway"
-"2022","Energy",420.716479,"10.97%","Norway"
-"2018","Government & civil society",402.096585,"11.58%","Norway"
-"2019","Government & civil society",483.838781,"12.54%","Norway"
-"2020","Government & civil society",511.71802,"12.72%","Norway"
-"2021","Government & civil society",418.686459,"11.93%","Norway"
-"2022","Government & civil society",340.4753,"8.88%","Norway"
-"2018","Environmental protection",462.870244,"13.33%","Norway"
-"2019","Environmental protection",498.542432,"12.93%","Norway"
-"2020","Environmental protection",458.045145,"11.39%","Norway"
-"2021","Environmental protection",400.596351,"11.41%","Norway"
-"2022","Environmental protection",336.289627,"8.77%","Norway"
-"2018","Health & populations",287.199979,"8.27%","Norway"
-"2019","Health & populations",281.216701,"7.29%","Norway"
-"2020","Health & populations",478.855778,"11.90%","Norway"
-"2021","Health & populations",532.568293,"15.17%","Norway"
-"2022","Health & populations",260.715651,"6.80%","Norway"
-"2018","Other multisector",156.351453,"4.50%","Norway"
-"2019","Other multisector",162.728966,"4.22%","Norway"
-"2020","Other multisector",200.139171,"4.97%","Norway"
-"2021","Other multisector",118.418012,"3.37%","Norway"
-"2022","Other multisector",228.61352,"5.96%","Norway"
-"2018","Donor administration costs",277.274124,"7.98%","Norway"
-"2019","Donor administration costs",296.253069,"7.68%","Norway"
-"2020","Donor administration costs",302.786737,"7.53%","Norway"
-"2021","Donor administration costs",255.99309,"7.29%","Norway"
-"2022","Donor administration costs",227.628257,"5.94%","Norway"
-"2018","Education",396.684519,"11.42%","Norway"
-"2019","Education",396.094668,"10.27%","Norway"
-"2020","Education",420.442609,"10.45%","Norway"
-"2021","Education",360.132302,"10.26%","Norway"
-"2022","Education",227.555062,"5.94%","Norway"
-"2018","Agriculture (incl. forestry, fishing, rural development)",116.217448,"3.35%","Norway"
-"2019","Agriculture (incl. forestry, fishing, rural development)",141.370613,"3.67%","Norway"
-"2020","Agriculture (incl. forestry, fishing, rural development)",157.641939,"3.92%","Norway"
-"2021","Agriculture (incl. forestry, fishing, rural development)",161.425632,"4.60%","Norway"
-"2022","Agriculture (incl. forestry, fishing, rural development)",203.612729,"5.31%","Norway"
-"2018","Financial services & business support",245.818268,"7.08%","Norway"
-"2019","Financial services & business support",294.560944,"7.64%","Norway"
-"2020","Financial services & business support",278.415583,"6.92%","Norway"
-"2021","Financial services & business support",222.038051,"6.33%","Norway"
-"2022","Financial services & business support",176.359653,"4.60%","Norway"
-"2018","Conflict, peace & security",204.388136,"5.88%","Norway"
-"2019","Conflict, peace & security",237.106213,"6.15%","Norway"
-"2020","Conflict, peace & security",217.041326,"5.39%","Norway"
-"2021","Conflict, peace & security",180.729363,"5.15%","Norway"
-"2022","Conflict, peace & security",156.773621,"4.09%","Norway"
-"2018","Other social services",48.255779,"1.39%","Norway"
-"2019","Other social services",84.50833,"2.19%","Norway"
-"2020","Other social services",106.147106,"2.64%","Norway"
-"2021","Other social services",98.028803,"2.79%","Norway"
-"2022","Other social services",65.34972,"1.70%","Norway"
-"2018","General budget support",19.582943,"0.56%","Norway"
-"2019","General budget support",20.987662,"0.54%","Norway"
-"2020","General budget support",13.607798,"0.34%","Norway"
-"2021","General budget support",24.093581,"0.69%","Norway"
-"2022","General budget support",45.321674,"1.18%","Norway"
-"2018","Industry, construction & mining",27.376434,"0.79%","Norway"
-"2019","Industry, construction & mining",36.618042,"0.95%","Norway"
-"2020","Industry, construction & mining",35.983223,"0.89%","Norway"
-"2021","Industry, construction & mining",15.854063,"0.45%","Norway"
-"2022","Industry, construction & mining",13.996244,"0.37%","Norway"
-"2018","Water and sanitation",19.131747,"0.55%","Norway"
-"2019","Water and sanitation",21.285318,"0.55%","Norway"
-"2020","Water and sanitation",24.441096,"0.61%","Norway"
-"2021","Water and sanitation",15.189459,"0.43%","Norway"
-"2022","Water and sanitation",13.728652,"0.36%","Norway"
-"2018","Unspecified",27.430299,"0.79%","Norway"
-"2019","Unspecified",23.238001,"0.60%","Norway"
-"2020","Unspecified",15.514624,"0.39%","Norway"
-"2021","Unspecified",15.016354,"0.43%","Norway"
-"2022","Unspecified",10.902954,"0.28%","Norway"
-"2018","Trade policy",11.966786,"0.34%","Norway"
-"2019","Trade policy",14.065667,"0.36%","Norway"
-"2020","Trade policy",12.653167,"0.31%","Norway"
-"2021","Trade policy",9.065122,"0.26%","Norway"
-"2022","Trade policy",6.813465,"0.18%","Norway"
-"2018","Debt relief",27.454059,"0.79%","Norway"
-"2019","Debt relief",29.109919,"0.75%","Norway"
-"2020","Debt relief",3.625641,"0.09%","Norway"
-"2021","Debt relief",0,"0.00%","Norway"
-"2022","Debt relief",5.014313,"0.13%","Norway"
-"2018","Infrastructure",1.792462,"0.05%","Norway"
-"2019","Infrastructure",12.992473,"0.34%","Norway"
-"2020","Infrastructure",6.410422,"0.16%","Norway"
-"2021","Infrastructure",9.23924,"0.26%","Norway"
-"2022","Infrastructure",4.052709,"0.11%","Norway"
-"2018","Food aid and commodity assistance",0.013056,"0.00%","Norway"
-"2019","Food aid and commodity assistance",0,"0.00%","Norway"
-"2020","Food aid and commodity assistance",0,"0.00%","Norway"
-"2021","Food aid and commodity assistance",0,"0.00%","Norway"
-"2022","Food aid and commodity assistance",0.289287,"0.01%","Norway"
-"2018","Tourism",0.342125,"0.01%","Norway"
-"2019","Tourism",0,"0.00%","Norway"
-"2020","Tourism",0.01056,"0.00%","Norway"
-"2021","Tourism",0.007911,"0.00%","Norway"
-"2022","Tourism",0,"0.00%","Norway"
+donor,Year,Sector,Bilateral ODA for,share
+Norway,2023,Emergency Response,93271.21317220016,21.716688134038392
+Norway,2023,Other multisector,56501.63982848,13.155489775301678
+Norway,2023,Refugees in donor countries,42774.29901632,9.95930127095627
+Norway,2023,Environmental protection,34574.82124875999,8.050185955694616
+Norway,2023,Government & civil society,34461.59788815998,8.023823733868483
+Norway,2023,Energy,32942.51913456001,7.670130901739577
+Norway,2023,"Agriculture (incl. forestry, fishing, rural development)",26599.044930800002,6.193155892150732
+Norway,2023,Health & populations,24286.43445820001,5.654702078794156
+Norway,2023,Donor administration costs,23636.62415388,5.503404296281681
+Norway,2023,Education,20412.235321279997,4.752657690561311
+Norway,2023,"Conflict, peace & security",16545.831671719996,3.85242835503436
+Norway,2023,Other social services,7360.190262720003,1.7137008419476307
+Norway,2023,Financial services & business support,3627.76038384,0.8446651244411414
+Norway,2023,General budget support,3153.7308137200002,0.7342950328502604
+Norway,2023,"Industry, construction & mining",2860.9454213999998,0.6661247063479495
+Norway,2023,Disaster Prevention & Preparedness,1465.54365804,0.341228054037562
+Norway,2023,Water and sanitation,1375.2819527599997,0.32021208096993076
+Norway,2023,Trade policy,1150.9442374000002,0.26797868509695993
+Norway,2023,Unspecified,1016.41139376,0.23665489601188314
+Norway,2023,Infrastructure,519.7038108,0.12100459721026553
+Norway,2023,Food aid and commodity assistance,483.0038900800001,0.11245961633445418
+Norway,2023,Reconstruction Relief & Rehabilitation,470.86786800000004,0.10963394056874302
+Norway,2023,Tourism,0.31928256,7.433976193014752e-05
+Norway,2022,Emergency Response,52564.155159919996,15.514839200423184
+Norway,2022,Refugees in donor countries,42405.39224364,12.516378126678305
+Norway,2022,Energy,37271.421638679996,11.00103505394518
+Norway,2022,Government & civil society,30162.828578959998,8.902862298628174
+Norway,2022,Environmental protection,29792.016540160024,8.793413394939726
+Norway,2022,Health & populations,22242.622454400003,6.565133782248415
+Norway,2022,Other multisector,21068.38225116,6.218544973191856
+Norway,2022,Donor administration costs,20165.6676398,5.952099674175578
+Norway,2022,Education,20159.182787639995,5.950185604821758
+Norway,2022,"Agriculture (incl. forestry, fishing, rural development)",17222.69312524,5.083451139343664
+Norway,2022,Financial services & business support,15623.764086319996,4.6115111479891295
+Norway,2022,"Conflict, peace & security",13888.630404800004,4.099368986127701
+Norway,2022,Other social services,5789.3544758,1.7087862154926332
+Norway,2022,General budget support,4015.0631040800004,1.1850862674351788
+Norway,2022,"Industry, construction & mining",1239.9323436000004,0.3659785051587074
+Norway,2022,Water and sanitation,1216.2259419999998,0.3589813222357502
+Norway,2022,Disaster Prevention & Preparedness,1126.16633404,0.3323993229303004
+Norway,2022,Unspecified,965.89675392,0.28509414401672145
+Norway,2022,Trade policy,603.6072929600001,0.1781607649164276
+Norway,2022,Reconstruction Relief & Rehabilitation,447.34434764,0.13203818457154431
+Norway,2022,Debt relief,444.21976376000003,0.13111593220547949
+Norway,2022,Infrastructure,359.03085724,0.10597156943018904
+Norway,2022,Food aid and commodity assistance,25.62809172,0.007564389094427558
+Norway,2021,Health & populations,50060.03649496002,15.174569722457054
+Norway,2021,Emergency Response,48541.56033792002,14.71427796219811
+Norway,2021,Government & civil society,39355.44025144001,11.929713077887882
+Norway,2021,Environmental protection,37655.01721575996,11.414268229676537
+Norway,2021,Education,33851.500240999994,10.261317941079469
+Norway,2021,Donor administration costs,24062.6862002,7.294059993170441
+Norway,2021,Financial services & business support,20871.000015199996,6.326572393528725
+Norway,2021,"Conflict, peace & security",16988.09114896,5.1495562456751856
+Norway,2021,"Agriculture (incl. forestry, fishing, rural development)",14536.502512879993,4.406412506802265
+Norway,2021,Other multisector,11768.073401360003,3.567225731965027
+Norway,2021,Other social services,9214.453046759994,2.7931533814691445
+Norway,2021,Energy,7925.129054320003,2.402323925719804
+Norway,2021,Refugees in donor countries,4911.3984696,1.4887795481175385
+Norway,2021,General budget support,2264.7340198800002,0.6865029810944997
+Norway,2021,"Industry, construction & mining",1490.2407553199996,0.45173283577464274
+Norway,2021,Water and sanitation,1427.7697719599998,0.43279616774560103
+Norway,2021,Unspecified,1411.4979403200005,0.42786372939713685
+Norway,2021,Disaster Prevention & Preparedness,1263.07031056,0.38287124488788316
+Norway,2021,Infrastructure,868.46449448,0.26325540182720364
+Norway,2021,Trade policy,852.09797848,0.25829426205295053
+Norway,2021,Reconstruction Relief & Rehabilitation,574.7659277600001,0.17422731295381572
+Norway,2021,Tourism,0.7435966,0.00022540451909614656
+Norway,2020,Emergency Response,54968.08898516,14.512203512244717
+Norway,2020,Government & civil society,48178.85666368001,12.719768611190998
+Norway,2020,Health & populations,45084.839079480014,11.90291261926273
+Norway,2020,Environmental protection,43125.493901040005,11.385623106288515
+Norway,2020,Education,39585.16980176003,10.450937095248067
+Norway,2020,Donor administration costs,28507.73085608,7.52636665188456
+Norway,2020,Financial services & business support,26213.158123600006,6.920573234609547
+Norway,2020,"Conflict, peace & security",20434.698015479993,5.394993746134609
+Norway,2020,Other multisector,20376.44036296,5.379613060265322
+Norway,2020,"Agriculture (incl. forestry, fishing, rural development)",13309.074335320003,3.5137476830584555
+Norway,2020,Energy,10621.769108200004,2.8042684001600975
+Norway,2020,Other social services,9993.87449676,2.6384970489326753
+Norway,2020,Refugees in donor countries,5713.37877632,1.5083972733139794
+Norway,2020,"Industry, construction & mining",3387.8629814800006,0.8944345340459503
+Norway,2020,Water and sanitation,2301.1576068,0.6075318993288521
+Norway,2020,Unspecified,1460.7197650000005,0.3856467069423003
+Norway,2020,Disaster Prevention & Preparedness,1383.68233604,0.3653079455305756
+Norway,2020,General budget support,1281.19041704,0.33824890792622925
+Norway,2020,Trade policy,1191.31065188,0.31451962303173664
+Norway,2020,Reconstruction Relief & Rehabilitation,707.0887579600001,0.18667951071586628
+Norway,2020,Infrastructure,603.5489877600002,0.1593438284228342
+Norway,2020,Debt relief,341.35838688000007,0.09012251421641282
+Norway,2020,Tourism,0.9942268400000001,0.00026248724497792303
+Norway,2019,Emergency Response,54740.66725320004,14.906542572360943
+Norway,2019,Environmental protection,47467.84100944006,12.926064447705741
+Norway,2019,Government & civil society,46067.85645735999,12.544831803432313
+Norway,2019,Education,37713.457010440026,10.269828277333698
+Norway,2019,Donor administration costs,28207.215015440004,7.681164161381596
+Norway,2019,Financial services & business support,28046.10230928,7.637291232280938
+Norway,2019,Health & populations,26775.554890599993,7.291305877386497
+Norway,2019,"Conflict, peace & security",22575.651245440004,6.1476215631853135
+Norway,2019,Other multisector,17116.302805600008,4.660975272240261
+Norway,2019,Energy,14003.794671599997,3.813401844030384
+Norway,2019,"Agriculture (incl. forestry, fishing, rural development)",11838.004247639992,3.2236310433157804
+Norway,2019,Other social services,8046.311567440003,2.191107488254321
+Norway,2019,Refugees in donor countries,6542.307664360001,1.7815491226874773
+Norway,2019,"Industry, construction & mining",3486.5224422000006,0.9494220261099935
+Norway,2019,Debt relief,2771.6497758000005,0.7547535945722718
+Norway,2019,Reconstruction Relief & Rehabilitation,2317.4649142800004,0.6310735900401025
+Norway,2019,Unspecified,2212.56589384,0.6025083241701216
+Norway,2019,Water and sanitation,2026.6447356799995,0.5518797549859802
+Norway,2019,General budget support,1998.3033170400001,0.5441620455623056
+Norway,2019,Trade policy,1339.23767812,0.36469053932181617
+Norway,2019,Infrastructure,1237.0553515200004,0.3368650618836188
+Norway,2019,Disaster Prevention & Preparedness,695.2698833200001,0.1893303577585482

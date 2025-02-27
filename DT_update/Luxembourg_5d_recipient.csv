@@ -1,201 +1,101 @@
-"Year","Recipient country","ODA Grants","ODA Loans","Share","Donor"
-"2018","Niger",49.515526,0,"12%","Luxembourg"
-"2019","Niger",50.001801,0,"12%","Luxembourg"
-"2020","Niger",37.583008,0,"11%","Luxembourg"
-"2021","Niger",36.202219,0,"10%","Luxembourg"
-"2022","Niger",42.7115,0,"11%","Luxembourg"
-"2018","Burkina Faso",27.379307,0,"7%","Luxembourg"
-"2019","Burkina Faso",30.663576,0,"7%","Luxembourg"
-"2020","Burkina Faso",33.583521,0,"10%","Luxembourg"
-"2021","Burkina Faso",33.14629,0,"9%","Luxembourg"
-"2022","Burkina Faso",25.745438,0,"6%","Luxembourg"
-"2018","Mali",27.59225,0,"7%","Luxembourg"
-"2019","Mali",28.914312,0,"7%","Luxembourg"
-"2020","Mali",24.815488,0,"7%","Luxembourg"
-"2021","Mali",21.441604,0,"6%","Luxembourg"
-"2022","Mali",25.378553,0,"6%","Luxembourg"
-"2018","Senegal",21.58496,0,"5%","Luxembourg"
-"2019","Senegal",26.714461,0,"6%","Luxembourg"
-"2020","Senegal",14.563566,0,"4%","Luxembourg"
-"2021","Senegal",28.03907,0,"8%","Luxembourg"
-"2022","Senegal",24.81951,0,"6%","Luxembourg"
-"2018","Lao People's Democratic Republic",32.707555,0,"8%","Luxembourg"
-"2019","Lao People's Democratic Republic",28.925116,0,"7%","Luxembourg"
-"2020","Lao People's Democratic Republic",24.517567,0,"7%","Luxembourg"
-"2021","Lao People's Democratic Republic",20.371127,0,"6%","Luxembourg"
-"2022","Lao People's Democratic Republic",22.629926,0,"6%","Luxembourg"
-"2018","Cabo Verde",16.620387,0,"4%","Luxembourg"
-"2019","Cabo Verde",20.099468,0,"5%","Luxembourg"
-"2020","Cabo Verde",16.350613,0,"5%","Luxembourg"
-"2021","Cabo Verde",22.09476,0,"6%","Luxembourg"
-"2022","Cabo Verde",16.212916,0,"4%","Luxembourg"
-"2018","Rwanda",0.975894,0,"0%","Luxembourg"
-"2019","Rwanda",1.954227,0,"0%","Luxembourg"
-"2020","Rwanda",1.994653,0,"1%","Luxembourg"
-"2021","Rwanda",1.671207,0,"0%","Luxembourg"
-"2022","Rwanda",12.167695,0,"3%","Luxembourg"
-"2018","Benin",1.600967,0,"0%","Luxembourg"
-"2019","Benin",1.466949,0,"0%","Luxembourg"
-"2020","Benin",1.30907,0,"0%","Luxembourg"
-"2021","Benin",1.683389,0,"0%","Luxembourg"
-"2022","Benin",11.084563,0,"3%","Luxembourg"
-"2018","Kosovo",7.933986,0,"2%","Luxembourg"
-"2019","Kosovo",8.117507,0,"2%","Luxembourg"
-"2020","Kosovo",3.555256,0,"1%","Luxembourg"
-"2021","Kosovo",7.976963,0,"2%","Luxembourg"
-"2022","Kosovo",10.184411,0,"3%","Luxembourg"
-"2018","Ukraine",1.040797,0,"0%","Luxembourg"
-"2019","Ukraine",1.264006,0,"0%","Luxembourg"
-"2020","Ukraine",0.649147,0,"0%","Luxembourg"
-"2021","Ukraine",1.178205,0,"0%","Luxembourg"
-"2022","Ukraine",8.012729,0,"2%","Luxembourg"
-"2018","Myanmar",7.25408,0,"2%","Luxembourg"
-"2019","Myanmar",6.70208,0,"2%","Luxembourg"
-"2020","Myanmar",6.141807,0,"2%","Luxembourg"
-"2021","Myanmar",5.486653,0,"2%","Luxembourg"
-"2022","Myanmar",7.402495,0,"2%","Luxembourg"
-"2018","Bangladesh",3.543779,0,"1%","Luxembourg"
-"2019","Bangladesh",5.533903,0,"1%","Luxembourg"
-"2020","Bangladesh",4.802739,0,"1%","Luxembourg"
-"2021","Bangladesh",4.534762,0,"1%","Luxembourg"
-"2022","Bangladesh",5.037481,0,"1%","Luxembourg"
-"2018","Syrian Arab Republic",5.065237,0,"1%","Luxembourg"
-"2019","Syrian Arab Republic",2.794075,0,"1%","Luxembourg"
-"2020","Syrian Arab Republic",3.159869,0,"1%","Luxembourg"
-"2021","Syrian Arab Republic",6.075621,0,"2%","Luxembourg"
-"2022","Syrian Arab Republic",4.702178,0,"1%","Luxembourg"
-"2018","Afghanistan",2.594425,0,"1%","Luxembourg"
-"2019","Afghanistan",1.463252,0,"0%","Luxembourg"
-"2020","Afghanistan",4.373516,0,"1%","Luxembourg"
-"2021","Afghanistan",9.525586,0,"3%","Luxembourg"
-"2022","Afghanistan",4.612953,0,"1%","Luxembourg"
-"2018","West Bank and Gaza Strip",10.282899,0,"3%","Luxembourg"
-"2019","West Bank and Gaza Strip",6.786225,0,"2%","Luxembourg"
-"2020","West Bank and Gaza Strip",4.423501,0,"1%","Luxembourg"
-"2021","West Bank and Gaza Strip",4.992437,0,"1%","Luxembourg"
-"2022","West Bank and Gaza Strip",4.436707,0,"1%","Luxembourg"
-"2018","Democratic Republic of the Congo",4.689643,0,"1%","Luxembourg"
-"2019","Democratic Republic of the Congo",3.098497,0,"1%","Luxembourg"
-"2020","Democratic Republic of the Congo",3.073633,0,"1%","Luxembourg"
-"2021","Democratic Republic of the Congo",4.54446,0,"1%","Luxembourg"
-"2022","Democratic Republic of the Congo",3.531516,0,"1%","Luxembourg"
-"2018","Ethiopia",1.203352,0,"0%","Luxembourg"
-"2019","Ethiopia",1.921458,0,"0%","Luxembourg"
-"2020","Ethiopia",2.261535,0,"1%","Luxembourg"
-"2021","Ethiopia",3.005048,0,"1%","Luxembourg"
-"2022","Ethiopia",3.242469,0,"1%","Luxembourg"
-"2018","Mongolia",2.054627,0,"1%","Luxembourg"
-"2019","Mongolia",1.582781,0,"0%","Luxembourg"
-"2020","Mongolia",1.989077,0,"1%","Luxembourg"
-"2021","Mongolia",0.785283,0,"0%","Luxembourg"
-"2022","Mongolia",3.18775,0,"1%","Luxembourg"
-"2018","South Sudan",2.618567,0,"1%","Luxembourg"
-"2019","South Sudan",2.609722,0,"1%","Luxembourg"
-"2020","South Sudan",2.835927,0,"1%","Luxembourg"
-"2021","South Sudan",4.948344,0,"1%","Luxembourg"
-"2022","South Sudan",2.948457,0,"1%","Luxembourg"
-"2018","Nepal",3.952152,0,"1%","Luxembourg"
-"2019","Nepal",3.24071,0,"1%","Luxembourg"
-"2020","Nepal",2.634406,0,"1%","Luxembourg"
-"2021","Nepal",2.886062,0,"1%","Luxembourg"
-"2022","Nepal",2.876536,0,"1%","Luxembourg"
-"2018","Yemen",2.239177,0,"1%","Luxembourg"
-"2019","Yemen",1.610426,0,"0%","Luxembourg"
-"2020","Yemen",2.218685,0,"1%","Luxembourg"
-"2021","Yemen",3.010355,0,"1%","Luxembourg"
-"2022","Yemen",1.784939,0,"0%","Luxembourg"
-"2018","Somalia",0.468467,0,"0%","Luxembourg"
-"2019","Somalia",0.98496,0,"0%","Luxembourg"
-"2020","Somalia",0.658851,0,"0%","Luxembourg"
-"2021","Somalia",1.215489,0,"0%","Luxembourg"
-"2022","Somalia",1.687777,0,"0%","Luxembourg"
-"2018","Nicaragua",14.22938,0,"4%","Luxembourg"
-"2019","Nicaragua",8.203681,0,"2%","Luxembourg"
-"2020","Nicaragua",4.40796,0,"1%","Luxembourg"
-"2021","Nicaragua",1.039058,0,"0%","Luxembourg"
-"2022","Nicaragua",1.519638,0,"0%","Luxembourg"
-"2018","Haiti",2.374927,0,"1%","Luxembourg"
-"2019","Haiti",0.820753,0,"0%","Luxembourg"
-"2020","Haiti",1.429558,0,"0%","Luxembourg"
-"2021","Haiti",1.579289,0,"0%","Luxembourg"
-"2022","Haiti",1.472542,0,"0%","Luxembourg"
-"2018","Cambodia",0.452888,0,"0%","Luxembourg"
-"2019","Cambodia",0.967685,0,"0%","Luxembourg"
-"2020","Cambodia",1.473913,0,"0%","Luxembourg"
-"2021","Cambodia",1.266131,0,"0%","Luxembourg"
-"2022","Cambodia",1.428192,0,"0%","Luxembourg"
-"2018","Central African Republic",1.580534,0,"0%","Luxembourg"
-"2019","Central African Republic",2.109945,0,"0%","Luxembourg"
-"2020","Central African Republic",2.761182,0,"1%","Luxembourg"
-"2021","Central African Republic",1.395947,0,"0%","Luxembourg"
-"2022","Central African Republic",1.421035,0,"0%","Luxembourg"
-"2018","Iraq",2.046621,0,"1%","Luxembourg"
-"2019","Iraq",3.241909,0,"1%","Luxembourg"
-"2020","Iraq",1.523215,0,"0%","Luxembourg"
-"2021","Iraq",3.100617,0,"1%","Luxembourg"
-"2022","Iraq",1.303548,0,"0%","Luxembourg"
-"2018","Philippines",0.725884,0,"0%","Luxembourg"
-"2019","Philippines",1.189137,0,"0%","Luxembourg"
-"2020","Philippines",1.785358,0,"1%","Luxembourg"
-"2021","Philippines",0.497156,0,"0%","Luxembourg"
-"2022","Philippines",1.283287,0,"0%","Luxembourg"
-"2018","Madagascar",0.617623,0,"0%","Luxembourg"
-"2019","Madagascar",0.531414,0,"0%","Luxembourg"
-"2020","Madagascar",0.894376,0,"0%","Luxembourg"
-"2021","Madagascar",1.158714,0,"0%","Luxembourg"
-"2022","Madagascar",1.23924,0,"0%","Luxembourg"
-"2018","Pakistan",0.328,0,"0%","Luxembourg"
-"2019","Pakistan",0,0,NA,"Luxembourg"
-"2020","Pakistan",0,0,NA,"Luxembourg"
-"2021","Pakistan",0,0,NA,"Luxembourg"
-"2022","Pakistan",1.115587,0,"0%","Luxembourg"
-"2018","Togo",0.985542,0,"0%","Luxembourg"
-"2019","Togo",1.128473,0,"0%","Luxembourg"
-"2020","Togo",0.916024,0,"0%","Luxembourg"
-"2021","Togo",1.522628,0,"0%","Luxembourg"
-"2022","Togo",1.103032,0,"0%","Luxembourg"
-"2018","Lebanon",1.103444,0,"0%","Luxembourg"
-"2019","Lebanon",1.140637,0,"0%","Luxembourg"
-"2020","Lebanon",0.942009,0,"0%","Luxembourg"
-"2021","Lebanon",0.69562,0,"0%","Luxembourg"
-"2022","Lebanon",0.958774,0,"0%","Luxembourg"
-"2018","El Salvador",5.6324,0,"1%","Luxembourg"
-"2019","El Salvador",0.974874,0,"0%","Luxembourg"
-"2020","El Salvador",2.297229,0,"1%","Luxembourg"
-"2021","El Salvador",0.670194,0,"0%","Luxembourg"
-"2022","El Salvador",0.954049,0,"0%","Luxembourg"
-"2018","Brazil",1.634314,0,"0%","Luxembourg"
-"2019","Brazil",1.567587,0,"0%","Luxembourg"
-"2020","Brazil",0.5583,0,"0%","Luxembourg"
-"2021","Brazil",1.279976,0,"0%","Luxembourg"
-"2022","Brazil",0.950874,0,"0%","Luxembourg"
-"2018","India",1.649009,0,"0%","Luxembourg"
-"2019","India",2.010467,0,"0%","Luxembourg"
-"2020","India",1.524318,0,"0%","Luxembourg"
-"2021","India",0.999791,0,"0%","Luxembourg"
-"2022","India",0.882228,0,"0%","Luxembourg"
-"2018","Guinea",0.631617,0,"0%","Luxembourg"
-"2019","Guinea",0.579441,0,"0%","Luxembourg"
-"2020","Guinea",0.423924,0,"0%","Luxembourg"
-"2021","Guinea",0.344585,0,"0%","Luxembourg"
-"2022","Guinea",0.823689,0,"0%","Luxembourg"
-"2018","Sri Lanka",0.245749,0,"0%","Luxembourg"
-"2019","Sri Lanka",0.186819,0,"0%","Luxembourg"
-"2020","Sri Lanka",0.088636,0,"0%","Luxembourg"
-"2021","Sri Lanka",0.090499,0,"0%","Luxembourg"
-"2022","Sri Lanka",0.803334,0,"0%","Luxembourg"
-"2018","Malawi",0.875431,0,"0%","Luxembourg"
-"2019","Malawi",1.122012,0,"0%","Luxembourg"
-"2020","Malawi",1.195887,0,"0%","Luxembourg"
-"2021","Malawi",0.819855,0,"0%","Luxembourg"
-"2022","Malawi",0.752506,0,"0%","Luxembourg"
-"2018","Bolivia",1.491514,0,"0%","Luxembourg"
-"2019","Bolivia",0.750139,0,"0%","Luxembourg"
-"2020","Bolivia",0.856795,0,"0%","Luxembourg"
-"2021","Bolivia",0.622709,0,"0%","Luxembourg"
-"2022","Bolivia",0.749606,0,"0%","Luxembourg"
-"2018","Peru",1.873119,0,"0%","Luxembourg"
-"2019","Peru",0.996676,0,"0%","Luxembourg"
-"2020","Peru",1.283632,0,"0%","Luxembourg"
-"2021","Peru",0.461257,0,"0%","Luxembourg"
-"2022","Peru",0.690748,0,"0%","Luxembourg"
+donor,year,Recipient country,share,ODA Grants,ODA Loans
+Luxembourg,2023,"Bilateral, unspecified",26.1%,111.19661173800006,0.0
+Luxembourg,2023,Burkina Faso,7.0%,29.741289550499992,0.0
+Luxembourg,2023,Lao People's Democratic Republic,6.3%,27.028891892999997,0.0
+Luxembourg,2023,Mali,5.8%,24.8758439535,0.0
+Luxembourg,2023,Niger,5.6%,24.003505857,0.0
+Luxembourg,2023,Cabo Verde,4.9%,20.749348635000004,0.0
+Luxembourg,2023,Senegal,4.5%,19.074754431000002,0.0
+Luxembourg,2023,Ukraine,4.1%,17.531969913,0.0
+Luxembourg,2023,West Bank and Gaza Strip,3.8%,16.166634970500002,0.0
+Luxembourg,2023,"Africa, regional",3.2%,13.818348921,0.0
+Luxembourg,2023,Rwanda,3.1%,13.0903140555,0.0
+Luxembourg,2023,"Caribbean & Central America, regional",2.5%,10.451413215,0.0
+Luxembourg,2023,Benin,2.4%,10.298753463,0.0
+Luxembourg,2023,Kosovo,1.7%,7.328446017,0.0
+Luxembourg,2023,Bangladesh,1.5%,6.2628536205,0.0
+Luxembourg,2023,Afghanistan,1.4%,6.002216650499999,0.0
+Luxembourg,2023,"Asia, regional",1.3%,5.5093602315000005,0.0
+Luxembourg,2023,Syrian Arab Republic,1.2%,5.2534621155,0.0
+Luxembourg,2023,Ethiopia,0.9%,3.8253395865000006,0.0
+Luxembourg,2023,Democratic Republic of the Congo,0.8%,3.58349643,0.0
+Luxembourg,2022,"Bilateral, unspecified",23.6%,98.45130564600005,0.0
+Luxembourg,2022,Niger,10.8%,44.87315027850002,0.0
+Luxembourg,2022,Burkina Faso,6.5%,27.048435765,0.0
+Luxembourg,2022,Mali,6.4%,26.6629825965,0.0
+Luxembourg,2022,Senegal,6.2%,26.07564332550001,0.0
+Luxembourg,2022,Lao People's Democratic Republic,5.7%,23.775233967,0.0
+Luxembourg,2022,Cabo Verde,4.1%,17.0334618645,0.0
+Luxembourg,2022,Rwanda,3.1%,12.783508922999998,0.0
+Luxembourg,2022,Benin,2.8%,11.645562071999997,0.0
+Luxembourg,2022,"Africa, regional",2.6%,10.809018372,0.0
+Luxembourg,2022,Kosovo,2.6%,10.6998519825,0.0
+Luxembourg,2022,"Caribbean & Central America, regional",2.1%,8.675956761000002,0.0
+Luxembourg,2022,Ukraine,2.0%,8.4182564985,0.0
+Luxembourg,2022,Myanmar,1.9%,7.777139259,0.0
+Luxembourg,2022,"Asia, regional",1.3%,5.573977827,0.0
+Luxembourg,2022,Bangladesh,1.3%,5.2924350659999995,0.0
+Luxembourg,2022,Syrian Arab Republic,1.2%,4.940158333499999,0.0
+Luxembourg,2022,Afghanistan,1.2%,4.846416624000001,0.0
+Luxembourg,2022,West Bank and Gaza Strip,1.1%,4.6612524795,0.0
+Luxembourg,2022,Democratic Republic of the Congo,0.9%,3.7102507440000005,0.0
+Luxembourg,2021,"Bilateral, unspecified",24.1%,92.62289638499992,0.0
+Luxembourg,2021,Niger,9.9%,38.101005822000026,0.0
+Luxembourg,2021,Burkina Faso,9.1%,34.8848006685,0.0
+Luxembourg,2021,Senegal,7.7%,29.509704252,0.0
+Luxembourg,2021,Cabo Verde,6.0%,23.2536201045,0.0
+Luxembourg,2021,Mali,5.9%,22.566203191499994,0.0
+Luxembourg,2021,Lao People's Democratic Republic,5.6%,21.439581889500005,0.0
+Luxembourg,2021,"Africa, regional",3.0%,11.424862095000003,0.0
+Luxembourg,2021,Afghanistan,2.6%,10.025200552500001,0.0
+Luxembourg,2021,Kosovo,2.2%,8.395350180000003,0.0
+Luxembourg,2021,Syrian Arab Republic,1.7%,6.394284376499999,0.0
+Luxembourg,2021,Myanmar,1.5%,5.7744295679999995,0.0
+Luxembourg,2021,West Bank and Gaza Strip,1.4%,5.2542846165,0.0
+Luxembourg,2021,South Sudan,1.4%,5.2078835235000005,0.0
+Luxembourg,2021,Democratic Republic of the Congo,1.2%,4.782813223499999,0.0
+Luxembourg,2021,Bangladesh,1.2%,4.772611090500002,0.0
+Luxembourg,2021,"Caribbean & Central America, regional",1.0%,3.9650878560000002,0.0
+Luxembourg,2021,Iraq,0.8%,3.263241511500001,0.0
+Luxembourg,2021,Yemen,0.8%,3.1682471039999998,0.0
+Luxembourg,2021,Ethiopia,0.8%,3.16266123,0.0
+Luxembourg,2020,"Bilateral, unspecified",25.5%,91.73077591350001,0.0
+Luxembourg,2020,Niger,10.8%,38.966676979499994,0.0
+Luxembourg,2020,Burkina Faso,9.7%,34.81994679899999,0.0
+Luxembourg,2020,Mali,7.2%,25.729112954999987,0.0
+Luxembourg,2020,Lao People's Democratic Republic,7.1%,25.420214791500005,0.0
+Luxembourg,2020,Cabo Verde,4.7%,16.952583713999996,0.0
+Luxembourg,2020,Senegal,4.2%,15.0997419525,0.0
+Luxembourg,2020,"Africa, regional",3.5%,12.677283699000002,0.0
+Luxembourg,2020,Myanmar,1.8%,6.367924222499999,0.0
+Luxembourg,2020,Bangladesh,1.4%,4.9795603664999994,0.0
+Luxembourg,2020,West Bank and Gaza Strip,1.3%,4.586360308500001,0.0
+Luxembourg,2020,Nicaragua,1.3%,4.570245753,0.0
+Luxembourg,2020,Afghanistan,1.3%,4.534532715,0.0
+Luxembourg,2020,Kosovo,1.0%,3.6861496815000003,0.0
+Luxembourg,2020,"Middle East, regional",0.9%,3.3782177895000003,0.0
+Luxembourg,2020,Syrian Arab Republic,0.9%,3.2762042610000006,0.0
+Luxembourg,2020,Democratic Republic of the Congo,0.9%,3.1867890405,0.0
+Luxembourg,2020,South Sudan,0.8%,2.9403363120000003,0.0
+Luxembourg,2020,Central African Republic,0.8%,2.8628362110000003,0.0
+Luxembourg,2020,Viet Nam,0.8%,2.773326258,0.0
+Luxembourg,2019,"Bilateral, unspecified",28.1%,125.62218261,0.0
+Luxembourg,2019,Niger,11.6%,51.852113614500006,0.0
+Luxembourg,2019,Burkina Faso,7.1%,31.798276506000004,0.0
+Luxembourg,2019,Lao People's Democratic Republic,6.7%,29.9954869395,0.0
+Luxembourg,2019,Mali,6.7%,29.984281756499996,0.0
+Luxembourg,2019,Senegal,6.2%,27.703026194999996,0.0
+Luxembourg,2019,Cabo Verde,4.7%,20.843244145499998,0.0
+Luxembourg,2019,"Africa, regional",2.5%,11.00535315,0.0
+Luxembourg,2019,Nicaragua,1.9%,8.507256010499999,0.0
+Luxembourg,2019,Kosovo,1.9%,8.417894286,0.0
+Luxembourg,2019,West Bank and Gaza Strip,1.6%,7.0373508765,0.0
+Luxembourg,2019,Myanmar,1.6%,6.950087755500001,0.0
+Luxembourg,2019,Bangladesh,1.3%,5.738685324000001,0.0
+Luxembourg,2019,Viet Nam,1.0%,4.479088569000001,0.0
+Luxembourg,2019,"South of Sahara, regional",0.9%,3.8688062009999995,0.0
+Luxembourg,2019,"Middle East, regional",0.8%,3.4306773045,0.0
+Luxembourg,2019,Iraq,0.8%,3.3618747615,0.0
+Luxembourg,2019,Nepal,0.8%,3.360633208500001,0.0
+Luxembourg,2019,Democratic Republic of the Congo,0.7%,3.213154767,0.0
+Luxembourg,2019,"Caribbean & Central America, regional",0.7%,3.1045010475,0.0

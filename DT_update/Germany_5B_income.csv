@@ -1,36 +1,33 @@
-Year,Income Group,ODA,Share,Donor
-2018,Countries unspecified,7467.451157,31.02%,Germany
-2019,Countries unspecified,7471.540381,31.67%,Germany
-2020,Countries unspecified,8678.65943,31.36%,Germany
-2021,Countries unspecified,10161.11326,36.73%,Germany
-2022,Countries unspecified,14996.39502,42.91%,Germany
-2018,Lower-middle income countries,4962.707716,20.61%,Germany
-2019,Lower-middle income countries,5242.365517,22.22%,Germany
-2020,Lower-middle income countries,5695.22744,20.58%,Germany
-2021,Lower-middle income countries,5766.64784,20.85%,Germany
-2022,Lower-middle income countries,7046.382999,20.16%,Germany
-2018,Upper-middle income countries,5882.164846,24.43%,Germany
-2019,Upper-middle income countries,4697.639316,19.91%,Germany
-2020,Upper-middle income countries,5850.324713,21.14%,Germany
-2021,Upper-middle income countries,4320.441895,15.62%,Germany
-2022,Upper-middle income countries,5603.973095,16.03%,Germany
-2018,Unallocated by income,2605.229729,10.82%,Germany
-2019,Unallocated by income,2913.307571,12.35%,Germany
-2020,Unallocated by income,3518.537985,12.71%,Germany
-2021,Unallocated by income,3783.332972,13.68%,Germany
-2022,Unallocated by income,3905.964618,11.18%,Germany
-2018,Low income countries,3147.814674,13.07%,Germany
-2019,Low income countries,3251.466384,13.78%,Germany
-2020,Low income countries,3920.085301,14.16%,Germany
-2021,Low income countries,3605.260941,13.03%,Germany
-2022,Low income countries,3384.779317,9.68%,Germany
-2018,Countries not classified,9.511672,0.04%,Germany
-2019,Countries not classified,12.26879,0.05%,Germany
-2020,Countries not classified,11.328007,0.04%,Germany
-2021,Countries not classified,24.102353,0.09%,Germany
-2022,Countries not classified,10.9147,0.03%,Germany
-2018,High income countries,1.002738,0%,Germany
-2019,High income countries,1.385524,0.01%,Germany
-2020,High income countries,1.61914,0.01%,Germany
-2021,High income countries,1.718556,0.01%,Germany
-2022,High income countries,2.266687,0.01%,Germany
+donor,year,incomegroup_name,total_oda,share
+Germany,2023,Part I unallocated by income,15127.458029999994,56.062223293872904
+Germany,2023,LMICs,4647.354485000018,17.223053889633093
+Germany,2023,UMICs,3755.8223759999996,13.91904391853972
+Germany,2023,LDCs,2702.01052699999,10.013626691719118
+Germany,2023,Other LICs,750.6904920000002,2.782052206235164
+Germany,2023,,,
+Germany,2022,Part I unallocated by income,17766.381684999997,54.083135541510636
+Germany,2022,LMICs,6521.763382000016,19.853080903702743
+Germany,2022,UMICs,4750.905861999977,14.462364382075483
+Germany,2022,LDCs,3144.1818339999973,9.571291178492848
+Germany,2022,Other LICs,666.8997359999998,2.0301279942182924
+Germany,2022,,,
+Germany,2021,Part I unallocated by income,13054.625838000013,50.40898985335793
+Germany,2021,LMICs,4656.399047000003,17.980168503195397
+Germany,2021,UMICs,4164.751194,16.081724844920533
+Germany,2021,LDCs,3392.174652,13.098506210399579
+Germany,2021,Other LICs,629.4653369999996,2.430610588126569
+Germany,2021,,,
+Germany,2020,Part I unallocated by income,11413.840944999989,44.07173533244213
+Germany,2020,LMICs,5040.621057999997,19.463116601132075
+Germany,2020,UMICs,4998.225904999987,19.299418160668584
+Germany,2020,LDCs,3552.611848999998,13.717535569532675
+Germany,2020,Other LICs,893.019705,3.448175620727961
+Germany,2020,MADCTs,0.004847,1.8715496578732744e-05
+Germany,2020,,,
+Germany,2019,Part I unallocated by income,9724.511944999997,44.022295892685975
+Germany,2019,UMICs,4839.485828000006,21.9080688361144
+Germany,2019,LMICs,3907.1073770000057,17.68724620912484
+Germany,2019,LDCs,2822.940429000005,12.779285948305159
+Germany,2019,Other LICs,795.9226070000003,3.603095015071426
+Germany,2019,MADCTs,0.001789,8.098698196623505e-06
+Germany,2019,,,

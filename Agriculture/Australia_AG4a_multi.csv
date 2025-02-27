@@ -1,71 +1,36 @@
-"Year","Multi_short","ODA","Share","Full Name","Donor"
-"2018","IBRD","0","0%","international bank for reconstruction and development","Australia"
-"2019","IBRD","15.5","7.8%","international bank for reconstruction and development","Australia"
-"2020","IBRD","1","0.5%","international bank for reconstruction and development","Australia"
-"2021","IBRD","16.5","9.8%","international bank for reconstruction and development","Australia"
-"2022","IBRD","16.4","10.4%","international bank for reconstruction and development","Australia"
-"2018","FAO","3.8","1.8%","food and agricultural organisation","Australia"
-"2019","FAO","7.1","3.6%","food and agricultural organisation","Australia"
-"2020","FAO","7","3.7%","food and agricultural organisation","Australia"
-"2021","FAO","7.6","4.5%","food and agricultural organisation","Australia"
-"2022","FAO","6","3.8%","food and agricultural organisation","Australia"
-"2018","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Australia"
-"2019","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Australia"
-"2020","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Australia"
-"2021","WHO - assessed contributions","0.1","0.1%","world health organisation assessed contributions","Australia"
-"2022","WHO - assessed contributions","0.2","0.1%","world health organisation assessed contributions","Australia"
-"2018","World organisation for animal health","0","0%","world organisation for animal health","Australia"
-"2019","World organisation for animal health","0","0%","world organisation for animal health","Australia"
-"2020","World organisation for animal health","0","0%","world organisation for animal health","Australia"
-"2021","World organisation for animal health","0","0%","world organisation for animal health","Australia"
-"2022","World organisation for animal health","0.2","0.1%","world organisation for animal health","Australia"
-"2018","UNDP","0","0%","united nations development programme","Australia"
-"2019","UNDP","0","0%","united nations development programme","Australia"
-"2020","UNDP","0","0%","united nations development programme","Australia"
-"2021","UNDP","0","0%","united nations development programme","Australia"
-"2022","UNDP","0.1","0%","united nations development programme","Australia"
-"2018","UN","0","0%","united nations","Australia"
-"2019","UN","0","0%","united nations","Australia"
-"2020","UN","0","0%","united nations","Australia"
-"2021","UN","0","0%","united nations","Australia"
-"2022","UN","0","0%","united nations","Australia"
-"2018","WTO - international trade centre","0","0%","world trade organisation international trade centre","Australia"
-"2019","WTO - international trade centre","0","0%","world trade organisation international trade centre","Australia"
-"2020","WTO - international trade centre","0.1","0%","world trade organisation international trade centre","Australia"
-"2021","WTO - international trade centre","0","0%","world trade organisation international trade centre","Australia"
-"2022","WTO - international trade centre","0","0%","world trade organisation international trade centre","Australia"
-"2018","ADB","1","0.5%","asian development bank","Australia"
-"2019","ADB","1","0.5%","asian development bank","Australia"
-"2020","ADB","1","0.5%","asian development bank","Australia"
-"2021","ADB","0","0%","asian development bank","Australia"
-"2022","ADB","0","0%","asian development bank","Australia"
-"2018","GEF Fund","1.1","0.5%","global environment facility trust fund","Australia"
-"2019","GEF Fund","0","0%","global environment facility trust fund","Australia"
-"2020","GEF Fund","0","0%","global environment facility trust fund","Australia"
-"2021","GEF Fund","0","0%","global environment facility trust fund","Australia"
-"2022","GEF Fund","0","0%","global environment facility trust fund","Australia"
-"2018","Global Green Growth Institute","0.1","0.1%","global green growth institute","Australia"
-"2019","Global Green Growth Institute","0.4","0.2%","global green growth institute","Australia"
-"2020","Global Green Growth Institute","0","0%","global green growth institute","Australia"
-"2021","Global Green Growth Institute","0","0%","global green growth institute","Australia"
-"2022","Global Green Growth Institute","0","0%","global green growth institute","Australia"
-"2018","IDA","21.7","10.2%","international development association","Australia"
-"2019","IDA","0","0%","international development association","Australia"
-"2020","IDA","20.4","10.9%","international development association","Australia"
-"2021","IDA","0","0%","international development association","Australia"
-"2022","IDA","0","0%","international development association","Australia"
-"2018","AIIB","0.6","0.3%","asian infrastructure investment bank","Australia"
-"2019","AIIB","1","0.5%","asian infrastructure investment bank","Australia"
-"2020","AIIB","0","0%","asian infrastructure investment bank","Australia"
-"2021","AIIB","0","0%","asian infrastructure investment bank","Australia"
-"2022","AIIB","0","0%","asian infrastructure investment bank","Australia"
-"2018","UNICEF","0","0%","united nations childrenâ€™s fund","Australia"
-"2019","UNICEF","0","0%","united nations childrenâ€™s fund","Australia"
-"2020","UNICEF","0","0%","united nations childrenâ€™s fund","Australia"
-"2021","UNICEF","0","0%","united nations childrenâ€™s fund","Australia"
-"2022","UNICEF","0","0%","united nations childrenâ€™s fund","Australia"
-"2018","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Australia"
-"2019","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Australia"
-"2020","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Australia"
-"2021","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Australia"
-"2022","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Australia"
+Year,ODA,Share,Full Name,donor
+2020,0.0037,0.00012733285841618576,united nations children’s fund,Australia
+2020,0.0019,6.538714351101431e-05,world health organisation core voluntary contributions account,Australia
+2020,0.0287,0.0009876900098769003,united nations development programme,Australia
+2020,0.9798999999999999,0.033722558908654165,asian development bank,Australia
+2020,0.9789,0.03368814462259574,international bank for reconstruction and development,Australia
+2020,0.0164,0.0005643942913582288,world health organisation assessed contributions,Australia
+2020,20.156399999999994,0.6936681155081097,international development association,Australia
+2020,6.891800000000001,0.23717637665747812,food and agricultural organisation,Australia
+2023,16.6587,0.7436853242381763,international bank for reconstruction and development,Australia
+2023,5.226,0.23330148837956802,food and agricultural organisation,Australia
+2023,0.07429999999999999,0.003316934670226158,united nations development programme,Australia
+2023,0.1536,0.006857081633199703,world organisation for animal health,Australia
+2023,0.1321,0.005897268774385942,world health organisation assessed contributions,Australia
+2023,0.0515,0.0022990866152980773,united nations children’s fund,Australia
+2023,0.104,0.004642815689145632,united nations,Australia
+2021,16.284099999999995,0.679149358557296,international bank for reconstruction and development,Australia
+2021,0.0055,0.0002293845820195853,united nations children’s fund,Australia
+2021,0.0976,0.004070533673656641,world health organisation assessed contributions,Australia
+2021,0.0058,0.00024189646831156267,private infrastructure development group,Australia
+2021,0.039400000000000004,0.0016432277330130295,united nations development programme,Australia
+2021,7.544799999999999,0.31466559898570307,food and agricultural organisation,Australia
+2019,1.0206,0.04130445340197174,asian infrastructure investment bank,Australia
+2019,0.0319,0.001291017111035566,united nations development programme,Australia
+2019,6.985999999999999,0.2827287002412057,food and agricultural organisation,Australia
+2019,0.3808,0.01541126382076312,global green growth institute,Australia
+2019,0.0018,7.284736049730466e-05,united nations children’s fund,Australia
+2019,15.346999999999998,0.6211046897511858,international bank for reconstruction and development,Australia
+2019,0.9411,0.038087028313340786,asian development bank,Australia
+2022,5.833100000000002,0.26119917607021326,food and agricultural organisation,Australia
+2022,0.2016,0.009027404621171414,world health organisation assessed contributions,Australia
+2022,0.0532,0.0023822317750313454,united nations development programme,Australia
+2022,0.0235,0.0010523016299480567,private infrastructure development group,Australia
+2022,0.0403,0.001804585348379008,united nations,Australia
+2022,16.023499999999995,0.7175129858499013,international bank for reconstruction and development,Australia
+2022,0.1568,0.007021314705355545,world organisation for animal health,Australia

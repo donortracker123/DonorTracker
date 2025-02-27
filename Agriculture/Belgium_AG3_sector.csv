@@ -1,88 +1,114 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Agrarian reform",0.031111,"0%","Belgium"
-2018,"Agricultural co-operatives",21.927871,"18%","Belgium"
-2018,"Agricultural development",45.920962,"37%","Belgium"
-2018,"Agricultural education/training",0.508128,"0%","Belgium"
-2018,"Agricultural extension",4.550738,"4%","Belgium"
-2018,"Agricultural land resources",0.433467,"0%","Belgium"
-2018,"Agricultural policy and administrative management",10.91617,"9%","Belgium"
-2018,"Agricultural research",0.663609,"1%","Belgium"
-2018,"Agricultural water resources",2.979333,"2%","Belgium"
-2018,"Fishery development",0.305414,"0%","Belgium"
-2018,"Fishery research",0.022442,"0%","Belgium"
-2018,"Food crop production",12.131336,"10%","Belgium"
-2018,"Forestry development",3.580507,"3%","Belgium"
-2018,"Forestry policy and administrative management",1.969357,"2%","Belgium"
-2018,"Forestry research",0.502575,"0%","Belgium"
-2018,"Livestock",5.934702,"5%","Belgium"
-2018,"Rural development",11.739305,"9%","Belgium"
-2019,"Agricultural co-operatives",21.153374,"17%","Belgium"
-2019,"Agricultural development",40.717876,"33%","Belgium"
-2019,"Agricultural education/training",2.864739,"2%","Belgium"
-2019,"Agricultural extension",4.907312,"4%","Belgium"
-2019,"Agricultural land resources",0.825029,"1%","Belgium"
-2019,"Agricultural policy and administrative management",8.290018,"7%","Belgium"
-2019,"Agricultural research",1.027427,"1%","Belgium"
-2019,"Agricultural services",9.218876,"8%","Belgium"
-2019,"Agricultural water resources",0.126464,"0%","Belgium"
-2019,"Fishery development",1.039509,"1%","Belgium"
-2019,"Fishery research",0.101722,"0%","Belgium"
-2019,"Fishing policy and administrative management",0.163045,"0%","Belgium"
-2019,"Food crop production",9.214397,"8%","Belgium"
-2019,"Forestry development",3.38942,"3%","Belgium"
-2019,"Forestry policy and administrative management",0.835202,"1%","Belgium"
-2019,"Industrial crops/export crops",1.097342,"1%","Belgium"
-2019,"Livestock",8.655337,"7%","Belgium"
-2019,"Rural development",8.462902,"7%","Belgium"
-2020,"Agricultural co-operatives",22.888854,"19%","Belgium"
-2020,"Agricultural development",34.173789,"29%","Belgium"
-2020,"Agricultural extension",7.187366,"6%","Belgium"
-2020,"Agricultural land resources",0.84231,"1%","Belgium"
-2020,"Agricultural policy and administrative management",3.112115,"3%","Belgium"
-2020,"Agricultural research",2.087934,"2%","Belgium"
-2020,"Agricultural services",16.775467,"14%","Belgium"
-2020,"Agricultural water resources",0.587607,"0%","Belgium"
-2020,"Food crop production",5.130657,"4%","Belgium"
-2020,"Forestry development",6.509631,"5%","Belgium"
-2020,"Forestry policy and administrative management",0.507831,"0%","Belgium"
-2020,"Industrial crops/export crops",1.788363,"1%","Belgium"
-2020,"Livestock",12.117147,"10%","Belgium"
-2020,"Rural development",5.618972,"5%","Belgium"
-2021,"Agricultural co-operatives",20.468383,"21%","Belgium"
-2021,"Agricultural development",34.532995,"35%","Belgium"
-2021,"Agricultural extension",4.5168,"5%","Belgium"
-2021,"Agricultural financial services",0.558775,"1%","Belgium"
-2021,"Agricultural land resources",0.519079,"1%","Belgium"
-2021,"Agricultural policy and administrative management",0.141179,"0%","Belgium"
-2021,"Agricultural research",2.727321,"3%","Belgium"
-2021,"Agricultural services",11.300463,"11%","Belgium"
-2021,"Agricultural water resources",0.094607,"0%","Belgium"
-2021,"Fishery development",0.402848,"0%","Belgium"
-2021,"Fishery research",0.685212,"1%","Belgium"
-2021,"Food crop production",4.899249,"5%","Belgium"
-2021,"Forestry development",3.25634,"3%","Belgium"
-2021,"Forestry policy and administrative management",0.485487,"0%","Belgium"
-2021,"Industrial crops/export crops",0.875364,"1%","Belgium"
-2021,"Livestock",9.473117,"10%","Belgium"
-2021,"Rural development",3.593084,"4%","Belgium"
-2022,"Agricultural co-operatives",1.050902,"1%","Belgium"
-2022,"Agricultural development",35.281781,"38%","Belgium"
-2022,"Agricultural education/training",0.59846,"1%","Belgium"
-2022,"Agricultural extension",4.730494,"5%","Belgium"
-2022,"Agricultural financial services",0.002769,"0%","Belgium"
-2022,"Agricultural land resources",1.027814,"1%","Belgium"
-2022,"Agricultural policy and administrative management",2.774455,"3%","Belgium"
-2022,"Agricultural research",3.222519,"3%","Belgium"
-2022,"Agricultural services",11.928554,"13%","Belgium"
-2022,"Agricultural water resources",3.095611,"3%","Belgium"
-2022,"Fishery development",0.724491,"1%","Belgium"
-2022,"Fishery research",0.629592,"1%","Belgium"
-2022,"Food crop production",5.321147,"6%","Belgium"
-2022,"Forestry development",0.263168,"0%","Belgium"
-2022,"Forestry policy and administrative management",0.942485,"1%","Belgium"
-2022,"Forestry research",0.099114,"0%","Belgium"
-2022,"Industrial crops/export crops",1.987557,"2%","Belgium"
-2022,"Livestock",3.461672,"4%","Belgium"
-2022,"Livestock/veterinary services",2.48243,"3%","Belgium"
-2022,"Plant and post-harvest protection and pest control",0.3364,"0%","Belgium"
-2022,"Rural development",14.068295,"15%","Belgium"
+donor,year,Sector,Bilateral ODA for,share
+Belgium,2023,Agricultural development,30.827843819300004,23.967794062442223
+Belgium,2023,Rural development,16.0247131725,12.458770307760897
+Belgium,2023,Agricultural services,14.237012261999997,11.068882402552305
+Belgium,2023,Food security policy and administrative management,13.8605661155,10.77620595823792
+Belgium,2023,Disaster Risk Reduction,10.8875134092,8.464739888179086
+Belgium,2023,Multisector education/training,9.1931320995,7.147405385896569
+Belgium,2023,Research/scientific institutions,7.474555987699999,5.811260095629219
+Belgium,2023,Agricultural extension,4.536087597299999,3.526682372551133
+Belgium,2023,Food crop production,4.4344899552,3.447693021970669
+Belgium,2023,Industrial crops/export crops,4.088052376599999,3.1783474074007136
+Belgium,2023,Agricultural research,3.1140541671,2.4210907974568037
+Belgium,2023,Livestock/veterinary services,2.5064098001,1.9486641452126001
+Belgium,2023,Agricultural land resources,1.0914324299,0.8485584611836176
+Belgium,2023,Forestry policy and administrative management,0.909023657,0.7067406963838326
+Belgium,2023,Agricultural water resources,0.7944706610999999,0.6176789173291425
+Belgium,2023,Agricultural co-operatives,0.7484223859,0.5818776597584363
+Belgium,2023,Fishery development,0.6678967047999999,0.5192711747685781
+Belgium,2023,Agricultural alternative development,0.648761953,0.504394435634094
+Belgium,2023,Agricultural education/training,0.5155317801,0.40081166916855154
+Belgium,2023,Forestry development,0.4269632597,0.33195209955981286
+Belgium,2023,Plant and post-harvest protection and pest control,0.40285933110000005,0.31321196320233835
+Belgium,2023,Livestock,0.3135574081,0.24378219340104984
+Belgium,2023,Agricultural financial services,0.2919423443,0.22697708043753434
+Belgium,2023,Household food security programmes,0.27580107249999997,0.2144276890277432
+Belgium,2023,Agricultural policy and administrative management,0.25368780809999997,0.1972352389071895
+Belgium,2023,Forestry research,0.09716729169999999,0.07554487594791935
+Belgium,2022,Agricultural development,35.8138674971,27.555511483807116
+Belgium,2022,Rural development,14.2804636933,10.98751709311156
+Belgium,2022,Food security policy and administrative management,13.6307064082,10.487587999089246
+Belgium,2022,Agricultural services,12.1084501985,9.316350392006413
+Belgium,2022,Multisector education/training,10.255065922199998,7.89033987488961
+Belgium,2022,Household food security programmes,5.609745170599999,4.316188344702418
+Belgium,2022,Food crop production,5.4013968244,4.155883254870632
+Belgium,2022,Agricultural extension,4.8018348534,3.694574886583339
+Belgium,2022,Research/scientific institutions,3.6022822023,2.7716282973747353
+Belgium,2022,Livestock,3.5138783232999993,2.7036095584548216
+Belgium,2022,Agricultural research,3.2711209935999994,2.516829887511203
+Belgium,2022,Agricultural water resources,3.1422965817999997,2.4177112274268926
+Belgium,2022,Agricultural policy and administrative management,2.8162969879,2.166884210373923
+Belgium,2022,Livestock/veterinary services,2.5198676309000003,1.9388087993166707
+Belgium,2022,Industrial crops/export crops,2.0175317521,1.5523070600637792
+Belgium,2022,Disaster Risk Reduction,1.4242988531000003,1.095868336647763
+Belgium,2022,Agricultural co-operatives,1.0667522564,0.8207687721519488
+Belgium,2022,Agricultural land resources,1.0433143771000002,0.8027354572004282
+Belgium,2022,Forestry policy and administrative management,0.9566980332999999,0.7360920639265921
+Belgium,2022,Fishery development,0.7354167843999999,0.5658362825394276
+Belgium,2022,Fishery research,0.6390898053,0.4917214392037999
+Belgium,2022,Agricultural education/training,0.6074850711,0.46740447270300833
+Belgium,2022,Plant and post-harvest protection and pest control,0.3414726782,0.2627321471580358
+Belgium,2022,Forestry development,0.26713601699999995,0.20553685202465352
+Belgium,2022,Forestry research,0.10060872459999999,0.07740925680006422
+Belgium,2022,Agricultural financial services,0.0028106638999999996,0.002162550061923457
+Belgium,2021,Multisector education/training,66.936340309,35.75232666254541
+Belgium,2021,Agricultural development,34.76527924970001,18.56898083331223
+Belgium,2021,Agricultural co-operatives,20.606062187399996,11.00619877262088
+Belgium,2021,Research/scientific institutions,17.4552940572,9.3232969152915
+Belgium,2021,Agricultural services,11.3764727088,6.076450649601204
+Belgium,2021,Livestock,9.5368370585,5.093856525005086
+Belgium,2021,Food crop production,4.9322030456,2.634409554485052
+Belgium,2021,Agricultural extension,4.5471795098,2.428759123625763
+Belgium,2021,Rural development,3.6172528096,1.932062665404502
+Belgium,2021,Forestry development,3.2782411996,1.7509883227206404
+Belgium,2021,Agricultural research,2.7456636891,1.466525726758234
+Belgium,2021,Household food security programmes,2.1730259325,1.1606659794407124
+Belgium,2021,Disaster Risk Reduction,1.4646210287,0.782289698139877
+Belgium,2021,Industrial crops/export crops,0.8812527153999998,0.4706984996160548
+Belgium,2021,Fishery research,0.6898218075999999,0.3684505978428385
+Belgium,2021,Agricultural financial services,0.5625336924999998,0.3004629210396747
+Belgium,2021,Agricultural land resources,0.5225707344999999,0.27911773362396125
+Belgium,2021,Forestry policy and administrative management,0.4887518942,0.26105426884276106
+Belgium,2021,Fishery development,0.40555773949999996,0.21661824826682266
+Belgium,2021,Agricultural policy and administrative management,0.1421282922,0.07591417617495404
+Belgium,2021,Agricultural water resources,0.0952439808,0.05087212564181603
+Belgium,2020,Multisector education/training,66.4111288975,31.438294233674384
+Belgium,2020,Agricultural development,34.485846444500005,16.325218459888546
+Belgium,2020,Agricultural co-operatives,23.0978680815,10.93427539889521
+Belgium,2020,Research/scientific institutions,21.3658437608,10.114354233301285
+Belgium,2020,Agricultural services,16.928654328100002,8.013837809750102
+Belgium,2020,Livestock,12.2277970388,5.788503937777784
+Belgium,2020,Agricultural extension,7.2529978419,3.4334889952223238
+Belgium,2020,Forestry development,6.5690742590000015,3.1097271319697875
+Belgium,2020,Rural development,5.6702829581,2.684249266415466
+Belgium,2020,Food crop production,5.177508040599999,2.450975068182061
+Belgium,2020,Agricultural policy and administrative management,3.1405325667999997,1.486693397997813
+Belgium,2020,Agricultural research,2.1070004547,0.9974307220041534
+Belgium,2020,Industrial crops/export crops,1.8046931858999997,0.8543218030128564
+Belgium,2020,Disaster Risk Reduction,1.5797235419999998,0.7478236606685333
+Belgium,2020,Household food security programmes,1.2374672135,0.5858032984589525
+Belgium,2020,Agricultural land resources,0.8500029224,0.4023819865362994
+Belgium,2020,Agricultural water resources,0.5929741768,0.2807074198660553
+Belgium,2020,Forestry policy and administrative management,0.5124677395,0.24259656246068553
+Belgium,2020,Food security policy and administrative management,0.2309234618,0.10931661391770676
+Belgium,2019,Multisector education/training,72.5765099274,33.54089434517197
+Belgium,2019,Agricultural development,41.12588114689999,19.00613346908136
+Belgium,2019,Agricultural co-operatives,21.365335938299996,9.87388999653566
+Belgium,2019,Research/scientific institutions,20.156688453500003,9.31531921889994
+Belgium,2019,Agricultural services,9.311252682100001,4.303151842709496
+Belgium,2019,Food crop production,9.3067303891,4.301061886167597
+Belgium,2019,Livestock,8.742065980300001,4.040104872734666
+Belgium,2019,Rural development,8.5477014621,3.950280220434386
+Belgium,2019,Agricultural policy and administrative management,8.3730864282,3.869582699859518
+Belgium,2019,Agricultural extension,4.9564855139,2.2906165798189257
+Belgium,2019,Forestry development,3.4233843538000004,1.5821010548534393
+Belgium,2019,Agricultural education/training,2.893444313,1.3371917455530975
+Belgium,2019,Industrial crops/export crops,1.1083370391,0.5122127746908812
+Belgium,2019,Fishery development,1.0499246223999998,0.4852177497311428
+Belgium,2019,Agricultural research,1.0377229841,0.4795788197045035
+Belgium,2019,Forestry policy and administrative management,0.8435712168,0.3898524892368103
+Belgium,2019,Agricultural land resources,0.8332960966999999,0.3851038905786108
+Belgium,2019,Disaster Risk Reduction,0.3355851445,0.15508910371610923
+Belgium,2019,Fishing policy and administrative management,0.1646788185,0.07610554513742138
+Belgium,2019,Agricultural water resources,0.1277307225,0.059030155518508265
+Belgium,2019,Fishery research,0.10274157910000001,0.04748153986594822

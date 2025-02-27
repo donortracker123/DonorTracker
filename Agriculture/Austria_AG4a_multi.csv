@@ -1,86 +1,69 @@
-"Year","Multi_short","ODA","Share","Full Name","Donor"
-"2018","EC - Development Share of Budget","26.6","32.5%","european commission development share of budget","Austria"
-"2019","EC - Development Share of Budget","24.5","26.2%","european commission development share of budget","Austria"
-"2020","EC - Development Share of Budget","24.5","22.7%","european commission development share of budget","Austria"
-"2021","EC - Development Share of Budget","24.6","26.8%","european commission development share of budget","Austria"
-"2022","EC - Development Share of Budget","28","29.8%","european commission development share of budget","Austria"
-"2018","IDA","23.2","28.3%","international development association","Austria"
-"2019","IDA","25.4","27.1%","international development association","Austria"
-"2020","IDA","23","21.3%","international development association","Austria"
-"2021","IDA","23","25.1%","international development association","Austria"
-"2022","IDA","19.4","20.6%","international development association","Austria"
-"2018","GCF","0.3","0.3%","green climate fund","Austria"
-"2019","GCF","5.3","5.7%","green climate fund","Austria"
-"2020","GCF","10.9","10.1%","green climate fund","Austria"
-"2021","GCF","12","13.1%","green climate fund","Austria"
-"2022","GCF","13.1","13.9%","green climate fund","Austria"
-"2018","African Development Fund","5.8","7.1%","african development fund","Austria"
-"2019","African Development Fund","6.8","7.2%","african development fund","Austria"
-"2020","African Development Fund","6.8","6.3%","african development fund","Austria"
-"2021","African Development Fund","5.1","5.6%","african development fund","Austria"
-"2022","African Development Fund","4.7","5%","african development fund","Austria"
-"2018","IFC","0","0%","international finance corporation","Austria"
-"2019","IFC","0","0%","international finance corporation","Austria"
-"2020","IFC","0","0%","international finance corporation","Austria"
-"2021","IFC","0","0%","international finance corporation","Austria"
-"2022","IFC","3.6","3.8%","international finance corporation","Austria"
-"2018","GEF Fund","0","0%","global environment facility trust fund","Austria"
-"2019","GEF Fund","1","1.1%","global environment facility trust fund","Austria"
-"2020","GEF Fund","0.5","0.5%","global environment facility trust fund","Austria"
-"2021","GEF Fund","1.2","1.3%","global environment facility trust fund","Austria"
-"2022","GEF Fund","1.7","1.8%","global environment facility trust fund","Austria"
-"2018","FAO","2","2.5%","food and agricultural organisation","Austria"
-"2019","FAO","2","2.2%","food and agricultural organisation","Austria"
-"2020","FAO","1.9","1.8%","food and agricultural organisation","Austria"
-"2021","FAO","1.8","1.9%","food and agricultural organisation","Austria"
-"2022","FAO","1.7","1.8%","food and agricultural organisation","Austria"
-"2018","AfDB","0.1","0.1%","african development bank","Austria"
-"2019","AfDB","0","0%","african development bank","Austria"
-"2020","AfDB","0.3","0.3%","african development bank","Austria"
-"2021","AfDB","0.3","0.4%","african development bank","Austria"
-"2022","AfDB","0.4","0.4%","african development bank","Austria"
-"2018","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Austria"
-"2019","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Austria"
-"2020","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Austria"
-"2021","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Austria"
-"2022","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Austria"
-"2018","UN","0","0%","united nations","Austria"
-"2019","UN","0","0%","united nations","Austria"
-"2020","UN","0","0%","united nations","Austria"
-"2021","UN","0","0%","united nations","Austria"
-"2022","UN","0","0%","united nations","Austria"
-"2018","IDB, IIC and MIF","0.1","0.1%","inter american development bank inter american investment corporation and multilateral investment fund","Austria"
-"2019","IDB, IIC and MIF","0.1","0.1%","inter american development bank inter american investment corporation and multilateral investment fund","Austria"
-"2020","IDB, IIC and MIF","0","0%","inter american development bank inter american investment corporation and multilateral investment fund","Austria"
-"2021","IDB, IIC and MIF","0","0%","inter american development bank inter american investment corporation and multilateral investment fund","Austria"
-"2022","IDB, IIC and MIF","0","0%","inter american development bank inter american investment corporation and multilateral investment fund","Austria"
-"2018","UNIDO","0","0%","united nations industrial development organisation","Austria"
-"2019","UNIDO","0","0%","united nations industrial development organisation","Austria"
-"2020","UNIDO","0","0%","united nations industrial development organisation","Austria"
-"2021","UNIDO","0","0%","united nations industrial development organisation","Austria"
-"2022","UNIDO","0","0%","united nations industrial development organisation","Austria"
-"2018","UNDP","0","0%","united nations development programme","Austria"
-"2019","UNDP","0","0%","united nations development programme","Austria"
-"2020","UNDP","0","0%","united nations development programme","Austria"
-"2021","UNDP","0","0%","united nations development programme","Austria"
-"2022","UNDP","0","0%","united nations development programme","Austria"
-"2018","UNICEF","0","0%","united nations childrenâ€™s fund","Austria"
-"2019","UNICEF","0","0%","united nations childrenâ€™s fund","Austria"
-"2020","UNICEF","0","0%","united nations childrenâ€™s fund","Austria"
-"2021","UNICEF","0","0%","united nations childrenâ€™s fund","Austria"
-"2022","UNICEF","0","0%","united nations childrenâ€™s fund","Austria"
-"2018","AIIB","0.1","0.1%","asian infrastructure investment bank","Austria"
-"2019","AIIB","0.1","0.2%","asian infrastructure investment bank","Austria"
-"2020","AIIB","0","0%","asian infrastructure investment bank","Austria"
-"2021","AIIB","0","0%","asian infrastructure investment bank","Austria"
-"2022","AIIB","0","0%","asian infrastructure investment bank","Austria"
-"2018","UNECE","0","0%","united nations economic commission for europe extrabudgetary contributions only","Austria"
-"2019","UNECE","0","0%","united nations economic commission for europe extrabudgetary contributions only","Austria"
-"2020","UNECE","0","0%","united nations economic commission for europe extrabudgetary contributions only","Austria"
-"2021","UNECE","0","0%","united nations economic commission for europe extrabudgetary contributions only","Austria"
-"2022","UNECE","0","0%","united nations economic commission for europe extrabudgetary contributions only","Austria"
-"2018","IBRD","0","0%","international bank for reconstruction and development","Austria"
-"2019","IBRD","4.7","5%","international bank for reconstruction and development","Austria"
-"2020","IBRD","0","0%","international bank for reconstruction and development","Austria"
-"2021","IBRD","0","0%","international bank for reconstruction and development","Austria"
-"2022","IBRD","0","0%","international bank for reconstruction and development","Austria"
+Year,ODA,Share,Full Name,donor
+2020,19.43,0.23502146400349327,european commission development share of budget,Austria
+2020,7.0229,0.08494761912249783,african development fund,Austria
+2020,0.35730000000000006,0.004321830627300472,african development bank,Austria
+2020,0.5434,0.0065728596777919835,global environment facility trust fund,Austria
+2020,0.0003,3.6287410808568183e-06,united nations children’s fund,Austria
+2020,0.0048,5.805985729370909e-05,world health organisation assessed contributions,Austria
+2020,18.272299999999998,0.2210181521724668,european commission european development fund,Austria
+2020,1.9914999999999998,0.024088792875087844,food and agricultural organisation,Austria
+2020,0.004699999999999999,5.685027693342348e-05,united nations development programme,Austria
+2020,11.244499999999999,0.13601126361231497,green climate fund,Austria
+2020,0.0009,1.0886223242570455e-05,united nations industrial development organisation,Austria
+2020,23.7668,0.28747854506835946,international development association,Austria
+2020,0.0339,0.0004100477421368205,inter american development bank inter american investment corporation and multilateral investment fund,Austria
+2023,10.7409,0.12200064289178629,green climate fund,Austria
+2023,2.6033999999999997,0.02957075046825465,global environment facility trust fund,Austria
+2023,35.3451,0.40146774693689313,international development association,Austria
+2023,0.45640000000000003,0.0051840249342058175,african development bank,Austria
+2023,0.0095,0.00010790586519490635,united nations development programme,Austria
+2023,0.019,0.0002158117303898127,world health organisation assessed contributions,Austria
+2023,2.1831,0.02479676782178948,european commission european development fund,Austria
+2023,1.6294999999999997,0.01850869550895788,food and agricultural organisation,Austria
+2023,0.0448,0.0005088613432349268,united nations industrial development organisation,Austria
+2023,0.0355,0.00040322718046517637,united nations,Austria
+2023,21.5345,0.24459987937260116,european commission development share of budget,Austria
+2023,7.664700000000001,0.08705958789046303,african development fund,Austria
+2023,2.6653,0.03027384236884041,adaptation fund,Austria
+2023,0.0031,3.521138758991681e-05,united nations children’s fund,Austria
+2023,3.1049,0.03526704429933313,international finance corporation,Austria
+2021,23.7731,0.3078779009531703,international development association,Austria
+2021,0.0127,0.00016447368421052628,world health organisation assessed contributions,Austria
+2021,0.005,6.475341898052216e-05,united nations development programme,Austria
+2021,0.0093,0.00012044135930377122,united nations industrial development organisation,Austria
+2021,13.058,0.16911002900953168,european commission european development fund,Austria
+2021,1.1998,0.015538230418566099,global environment facility trust fund,Austria
+2021,0.3563,0.00461432863655201,african development bank,Austria
+2021,1.8434000000000006,0.02387329050973892,food and agricultural organisation,Austria
+2021,12.44,0.16110650642353913,green climate fund,Austria
+2021,19.202500000000008,0.24868550559469546,european commission development share of budget,Austria
+2021,5.3074,0.06873445917944467,african development fund,Austria
+2021,0.0004,5.1802735184417735e-06,united nations children’s fund,Austria
+2021,0.0081,0.0001049005387484459,inter american development bank inter american investment corporation and multilateral investment fund,Austria
+2019,5.495100000000001,0.06302854986505599,green climate fund,Austria
+2019,2.1111999999999997,0.024215369051537948,food and agricultural organisation,Austria
+2019,20.149800000000003,0.2311172997890676,european commission development share of budget,Austria
+2019,7.009400000000002,0.08039750276139171,african development fund,Austria
+2019,1.0589000000000002,0.012145535377355788,global environment facility trust fund,Austria
+2019,0.0059,6.767273465520742e-05,united nations development programme,Austria
+2019,0.1525,0.0017491681415117172,asian infrastructure investment bank,Austria
+2019,0.0002,2.293991005261269e-06,united nations children’s fund,Austria
+2019,0.0766,0.0008785985550150659,inter american development bank inter american investment corporation and multilateral investment fund,Austria
+2019,4.8500000000000005,0.05562928187758577,international bank for reconstruction and development,Austria
+2019,26.319200000000002,0.3018800403283619,international development association,Austria
+2019,19.95549999999999,0.22888868752745611,european commission european development fund,Austria
+2022,1.7763999999999998,0.024173673775156525,global environment facility trust fund,Austria
+2022,0.42749999999999994,0.005817521694933245,african development bank,Austria
+2022,0.007,9.525766518019349e-05,united nations development programme,Austria
+2022,0.0174,0.00023678333916219522,united nations industrial development organisation,Austria
+2022,0.0022,2.9938123342346526e-05,united nations children’s fund,Austria
+2022,4.8127,0.0654923664589596,african development fund,Austria
+2022,22.145299999999995,0.30135851038784833,european commission development share of budget,Austria
+2022,13.366700000000002,0.18189723330915605,green climate fund,Austria
+2022,0.0139,0.00018915450657209848,united nations,Austria
+2022,19.853599999999997,0.2701725116316413,international development association,Austria
+2022,1.7478999999999996,0.02378583899549431,food and agricultural organisation,Austria
+2022,5.645600000000001,0.07682666779161434,european commission european development fund,Austria
+2022,0.0189,0.0002571956959865224,world health organisation assessed contributions,Austria
+2022,3.6408,0.04954487248400692,international finance corporation,Austria
+2022,0.009000000000000001,0.00012247414094596306,inter american development bank inter american investment corporation and multilateral investment fund,Austria

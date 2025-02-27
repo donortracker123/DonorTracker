@@ -1,114 +1,116 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Health policy and administrative management",38.014604,"13%","Norway"
-2019,"Health policy and administrative management",56.759356,"20%","Norway"
-2020,"Health policy and administrative management",36.390405,"8%","Norway"
-2021,"Health policy and administrative management",26.275704,"5%","Norway"
-2022,"Health policy and administrative management",24.639227,"9%","Norway"
-2018,"Medical education/training",3.148728,"1%","Norway"
-2019,"Medical education/training",3.761772,"1%","Norway"
-2020,"Medical education/training",2.177434,"0%","Norway"
-2021,"Medical education/training",1.739685,"0%","Norway"
-2022,"Medical education/training",1.527263,"1%","Norway"
-2018,"Medical research",15.659564,"5%","Norway"
-2019,"Medical research",10.769294,"4%","Norway"
-2020,"Medical research",9.085607,"2%","Norway"
-2021,"Medical research",5.150439,"1%","Norway"
-2022,"Medical research",8.741297,"3%","Norway"
-2018,"Medical services",6.921434,"2%","Norway"
-2019,"Medical services",6.891401,"2%","Norway"
-2020,"Medical services",8.229081,"2%","Norway"
-2021,"Medical services",3.739252,"1%","Norway"
-2022,"Medical services",5.165828,"2%","Norway"
-2018,"Basic health care",94.110825,"33%","Norway"
-2019,"Basic health care",83.954732,"30%","Norway"
-2020,"Basic health care",88.644524,"19%","Norway"
-2021,"Basic health care",80.711897,"15%","Norway"
-2022,"Basic health care",77.675961,"30%","Norway"
-2018,"Basic health infrastructure",4.487205,"2%","Norway"
-2019,"Basic health infrastructure",2.672752,"1%","Norway"
-2020,"Basic health infrastructure",5.376536,"1%","Norway"
-2021,"Basic health infrastructure",2.778432,"1%","Norway"
-2022,"Basic health infrastructure",2.332981,"1%","Norway"
-2018,"Basic nutrition",7.482411,"3%","Norway"
-2019,"Basic nutrition",4.692608,"2%","Norway"
-2020,"Basic nutrition",4.694137,"1%","Norway"
-2021,"Basic nutrition",4.731987,"1%","Norway"
-2022,"Basic nutrition",1.603721,"1%","Norway"
-2018,"Infectious disease control",44.421037,"15%","Norway"
-2019,"Infectious disease control",45.287835,"16%","Norway"
-2020,"Infectious disease control",41.130931,"9%","Norway"
-2021,"Infectious disease control",61.798095,"12%","Norway"
-2022,"Infectious disease control",26.287655,"10%","Norway"
-2018,"Health education",4.812413,"2%","Norway"
-2019,"Health education",3.743583,"1%","Norway"
-2020,"Health education",4.134419,"1%","Norway"
-2021,"Health education",1.963788,"0%","Norway"
-2022,"Health education",1.951924,"1%","Norway"
-2018,"Malaria control",0.139351,"0%","Norway"
-2019,"Malaria control",0.133665,"0%","Norway"
-2020,"Malaria control",0.136077,"0%","Norway"
-2018,"Tuberculosis control",2.864471,"1%","Norway"
-2019,"Tuberculosis control",2.867145,"1%","Norway"
-2020,"Tuberculosis control",3.240671,"1%","Norway"
-2021,"Tuberculosis control",3.519925,"1%","Norway"
-2022,"Tuberculosis control",2.477102,"1%","Norway"
-2018,"Health personnel development",4.459622,"2%","Norway"
-2019,"Health personnel development",2.295601,"1%","Norway"
-2020,"Health personnel development",1.69941,"0%","Norway"
-2021,"Health personnel development",0.280583,"0%","Norway"
-2022,"Health personnel development",0.126911,"0%","Norway"
-2018,"Population policy and administrative management",2.866525,"1%","Norway"
-2019,"Population policy and administrative management",1.370786,"0%","Norway"
-2020,"Population policy and administrative management",3.546673,"1%","Norway"
-2021,"Population policy and administrative management",7.846527,"1%","Norway"
-2022,"Population policy and administrative management",5.45469,"2%","Norway"
-2018,"Reproductive health care",32.66168,"11%","Norway"
-2019,"Reproductive health care",27.76036,"10%","Norway"
-2020,"Reproductive health care",32.132266,"7%","Norway"
-2021,"Reproductive health care",22.422829,"4%","Norway"
-2022,"Reproductive health care",25.01921,"10%","Norway"
-2018,"Family planning",13.677663,"5%","Norway"
-2019,"Family planning",17.962747,"6%","Norway"
-2020,"Family planning",13.812974,"3%","Norway"
-2021,"Family planning",15.399699,"3%","Norway"
-2022,"Family planning",22.503003,"9%","Norway"
-2018,"STD control including HIV/AIDS",6.299242,"2%","Norway"
-2019,"STD control including HIV/AIDS",6.852319,"2%","Norway"
-2020,"STD control including HIV/AIDS",7.062927,"1%","Norway"
-2021,"STD control including HIV/AIDS",6.065496,"1%","Norway"
-2022,"STD control including HIV/AIDS",4.813827,"2%","Norway"
-2018,"Personnel development for population and reproductive health",1.175512,"0%","Norway"
-2019,"Personnel development for population and reproductive health",1.048874,"0%","Norway"
-2020,"Personnel development for population and reproductive health",1.05693,"0%","Norway"
-2021,"Personnel development for population and reproductive health",1.163817,"0%","Norway"
-2022,"Personnel development for population and reproductive health",1.539491,"1%","Norway"
-2018,"NCDs control, general",1.32092,"0%","Norway"
-2019,"NCDs control, general",1.244516,"0%","Norway"
-2020,"NCDs control, general",20.364557,"4%","Norway"
-2021,"NCDs control, general",16.859422,"3%","Norway"
-2022,"NCDs control, general",12.298381,"5%","Norway"
-2020,"Tobacco use control",1.496858,"0%","Norway"
-2021,"Tobacco use control",1.396729,"0%","Norway"
-2022,"Tobacco use control",1.301793,"0%","Norway"
-2018,"Control of harmful use of alcohol and drugs",1.69584,"1%","Norway"
-2019,"Control of harmful use of alcohol and drugs",0.188885,"0%","Norway"
-2020,"Control of harmful use of alcohol and drugs",0.325442,"0%","Norway"
-2021,"Control of harmful use of alcohol and drugs",0.465152,"0%","Norway"
-2022,"Control of harmful use of alcohol and drugs",0.269743,"0%","Norway"
-2018,"Promotion of mental health and well-being",0.846224,"0%","Norway"
-2019,"Promotion of mental health and well-being",0.663648,"0%","Norway"
-2020,"Promotion of mental health and well-being",0.991044,"0%","Norway"
-2021,"Promotion of mental health and well-being",3.614999,"1%","Norway"
-2022,"Promotion of mental health and well-being",1.83623,"1%","Norway"
-2018,"Other prevention and treatment of NCDs",0.134708,"0%","Norway"
-2019,"Other prevention and treatment of NCDs",0.135224,"0%","Norway"
-2020,"Other prevention and treatment of NCDs",1.632936,"0%","Norway"
-2021,"Other prevention and treatment of NCDs",2.96805,"1%","Norway"
-2022,"Other prevention and treatment of NCDs",1.542865,"1%","Norway"
-2019,"Research for prevention and control of NCDs",0.159598,"0%","Norway"
-2020,"Research for prevention and control of NCDs",0.007728,"0%","Norway"
-2021,"Research for prevention and control of NCDs",2.095094,"0%","Norway"
-2022,"Research for prevention and control of NCDs",1.056119,"0%","Norway"
-2020,"COVID-19 control",191.486211,"40%","Norway"
-2021,"COVID-19 control",259.580692,"49%","Norway"
-2022,"COVID-19 control",30.550429,"12%","Norway"
+donor,year,Sector,Bilateral ODA for,share
+Norway,2023,Basic health care,63.25443279599999,26.045170568314095
+Norway,2023,Family planning,38.30453566560001,15.771988157226996
+Norway,2023,COVID-19 control,26.916744217199998,11.08303660775199
+Norway,2023,Health policy and administrative management,26.861810864400006,11.060417662639013
+Norway,2023,Infectious disease control,23.828128897200003,9.811291541461635
+Norway,2023,Reproductive health care,11.4852752792,4.729090760098029
+Norway,2023,Population policy and administrative management,9.64113436,3.9697611341811423
+Norway,2023,"NCDs control, general",8.5416058652,3.517027532345752
+Norway,2023,STD control including HIV/AIDS,4.591128006,1.8904084145830082
+Norway,2023,Basic health infrastructure,4.348583301200001,1.7905400270609744
+Norway,2023,Health personnel development,3.9835278744,1.6402275440045144
+Norway,2023,Basic nutrition,3.5514986604,1.4623384369214734
+Norway,2023,Medical research,3.0132193056000003,1.2407005691947612
+Norway,2023,Research for prevention and control of NCDs,2.3566477332,0.9703555856484765
+Norway,2023,Tuberculosis control,2.2303414248,0.9183486479411778
+Norway,2023,Medical services,2.209278466,0.909675922088294
+Norway,2023,Promotion of mental health and well-being,2.0888987580000005,0.8601092768867564
+Norway,2023,Other prevention and treatment of NCDs,1.5153061608000002,0.6239310934703207
+Norway,2023,Tobacco use control,1.2785394192000001,0.5264417967159926
+Norway,2023,Medical education/training,1.2106541000000002,0.49848984711349364
+Norway,2023,Health education,0.9927987732000003,0.4087873726004249
+Norway,2023,Control of harmful use of alcohol and drugs,0.6224375732,0.25629022418720754
+Norway,2023,Personnel development for population and reproductive health,0.037817081200000005,0.01557127756447244
+Norway,2022,Basic health care,60.27072002760001,27.09694873037659
+Norway,2022,COVID-19 control,27.064731848,12.167959018090555
+Norway,2022,Infectious disease control,23.2883262164,10.470135103962589
+Norway,2022,Reproductive health care,22.164605169599998,9.96492442158745
+Norway,2022,Health policy and administrative management,21.8279796868,9.813581888354184
+Norway,2022,Family planning,19.9354897964,8.962742517106559
+Norway,2022,"NCDs control, general",10.895178204399999,4.898333470676129
+Norway,2022,Medical research,7.743946384399999,3.4815797463972604
+Norway,2022,Population policy and administrative management,4.832329227599999,2.1725537254012393
+Norway,2022,Medical services,4.5764252412,2.057502549702586
+Norway,2022,STD control including HIV/AIDS,4.264586038,1.9173036123518723
+Norway,2022,Tuberculosis control,2.1944722300000006,0.986606788160401
+Norway,2022,Basic health infrastructure,2.0667953388,0.9292048826693766
+Norway,2022,Health education,1.7292180851999999,0.7774344453964906
+Norway,2022,Promotion of mental health and well-being,1.6267241131999999,0.7313544599046159
+Norway,2022,Basic nutrition,1.4207400536,0.6387466480234892
+Norway,2022,Other prevention and treatment of NCDs,1.3668299160000001,0.6145093362089665
+Norway,2022,Personnel development for population and reproductive health,1.3638407479999999,0.6131654443157653
+Norway,2022,Medical education/training,1.3530074776,0.6082949438061203
+Norway,2022,Tobacco use control,1.1532628956000002,0.518492321651516
+Norway,2022,Research for prevention and control of NCDs,0.9356194384000001,0.4206425929847661
+Norway,2022,Control of harmful use of alcohol and drugs,0.2389659152,0.10743603443789429
+Norway,2022,Health personnel development,0.11243049199999999,0.05054731843355959
+Norway,2021,COVID-19 control,243.99911076880002,48.74129702110098
+Norway,2021,Basic health care,75.86708921040002,15.155220515677863
+Norway,2021,Infectious disease control,58.088605215200005,11.60378802781103
+Norway,2021,Health policy and administrative management,24.6984801808,4.933771908713376
+Norway,2021,Reproductive health care,21.0768756764,4.210319678556767
+Norway,2021,"NCDs control, general",15.847419055999998,3.1656826813531196
+Norway,2021,Family planning,14.475317036,2.8915913869654015
+Norway,2021,Population policy and administrative management,7.375531428400002,1.473337205645578
+Norway,2021,STD control including HIV/AIDS,5.701408472400001,1.1389141661880358
+Norway,2021,Medical research,4.841278665200001,0.967094513741998
+Norway,2021,Basic nutrition,4.4479460376,0.8885223321896332
+Norway,2021,Medical services,3.5148008748000006,0.7021171219389478
+Norway,2021,Promotion of mental health and well-being,3.3980024200000005,0.6787854460198223
+Norway,2021,Tuberculosis control,3.3086386148,0.6609341196011935
+Norway,2021,Other prevention and treatment of NCDs,2.7898898596000006,0.5573087945872521
+Norway,2021,Basic health infrastructure,2.6116525056000004,0.5217040754380872
+Norway,2021,Research for prevention and control of NCDs,1.9693336804,0.3933943756909308
+Norway,2021,Health education,1.845909784,0.3687392006168123
+Norway,2021,Medical education/training,1.6352572023999998,0.326659210998505
+Norway,2021,Tobacco use control,1.3128885728000002,0.2622628077652681
+Norway,2021,Personnel development for population and reproductive health,1.0939582952,0.21852926441836268
+Norway,2021,Control of harmful use of alcohol and drugs,0.43723151600000004,0.08734142973387966
+Norway,2021,Health personnel development,0.2637398768,0.05268471524717189
+Norway,2020,COVID-19 control,180.286539526,39.98828502152866
+Norway,2020,Basic health care,83.45986909880001,18.511737161059557
+Norway,2020,Infectious disease control,38.725260240400004,8.589419643293235
+Norway,2020,Health policy and administrative management,34.2619988228,7.5994501749023815
+Norway,2020,Reproductive health care,30.252909455999998,6.71021790776877
+Norway,2020,"NCDs control, general",19.1734712168,4.252753610365363
+Norway,2020,Family planning,13.005077510000001,2.8845788907160936
+Norway,2020,Medical research,8.554206358,1.8973576334429854
+Norway,2020,Medical services,7.747775640000001,1.7184880323830052
+Norway,2020,STD control including HIV/AIDS,6.649827955200001,1.4749587868056995
+Norway,2020,Basic health infrastructure,5.062071424400001,1.122787954388854
+Norway,2020,Basic nutrition,4.4195867168,0.9802822427753853
+Norway,2020,Health education,3.8926054316000003,0.8633956582916336
+Norway,2020,Population policy and administrative management,3.3392340631999997,0.7406556464165855
+Norway,2020,Tuberculosis control,3.0511308248,0.6767531806914439
+Norway,2020,Medical education/training,2.0500798128,0.45471600978455684
+Norway,2020,Health personnel development,1.6000137620000001,0.354889535965591
+Norway,2020,Other prevention and treatment of NCDs,1.5374284676000003,0.3410078640603928
+Norway,2020,Tobacco use control,1.4093089496000002,0.3125904358038256
+Norway,2020,Personnel development for population and reproductive health,0.9951120936,0.22071989474016268
+Norway,2020,Promotion of mental health and well-being,0.9330811092,0.20696117103913195
+Norway,2020,Control of harmful use of alcohol and drugs,0.3064077864,0.06796248864498199
+Norway,2020,Malaria control,0.12811787560000001,0.028417063965591887
+Norway,2020,Research for prevention and control of NCDs,0.007276653200000001,0.0016139911661150654
+Norway,2019,Basic health care,79.93602352719999,29.854105303813082
+Norway,2019,Health policy and administrative management,54.04242060200001,20.183492302141786
+Norway,2019,Infectious disease control,43.120017154,16.10424782238145
+Norway,2019,Reproductive health care,26.431541482000004,9.871519596883957
+Norway,2019,Family planning,17.102912318400005,6.387509946396764
+Norway,2019,Medical research,10.2537939048,3.8295355396723303
+Norway,2019,Medical services,6.5615333524000015,2.4505685798890893
+Norway,2019,STD control including HIV/AIDS,6.5243182108000015,2.4366696553842364
+Norway,2019,Basic nutrition,4.4679833176,1.668680009006483
+Norway,2019,Medical education/training,3.5817040388000003,1.3376768673643495
+Norway,2019,Health education,3.5643857519999997,1.3312089204363549
+Norway,2019,Tuberculosis control,2.729902842,1.0195504269300417
+Norway,2019,Basic health infrastructure,2.5448133952,0.9504241482940837
+Norway,2019,Health personnel development,2.1857174167999998,0.8163107826263318
+Norway,2019,Population policy and administrative management,1.3051709352,0.48744869734079777
+Norway,2019,"NCDs control, general",1.1849439704000002,0.442546933291005
+Norway,2019,Personnel development for population and reproductive health,0.9986662471999999,0.37297686314265627
+Norway,2019,Promotion of mental health and well-being,0.631880552,0.23599158059720807
+Norway,2019,Control of harmful use of alcohol and drugs,0.17984280000000002,0.0671667872934117
+Norway,2019,Research for prevention and control of NCDs,0.151958954,0.056752868286344155
+Norway,2019,Other prevention and treatment of NCDs,0.1287510208,0.048085285748905304
+Norway,2019,Malaria control,0.12726711240000002,0.04753108307931994

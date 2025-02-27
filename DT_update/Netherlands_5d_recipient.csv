@@ -1,201 +1,101 @@
-"Year","Recipient country","ODA Grants","ODA Loans","Share","Donor"
-"2018","Ukraine",7.0857,0,"0%","Netherlands"
-"2019","Ukraine",2.511683,0,"0%","Netherlands"
-"2020","Ukraine",2.230104,0,"0%","Netherlands"
-"2021","Ukraine",1.072799,0,"0%","Netherlands"
-"2022","Ukraine",187.572386,0,"4%","Netherlands"
-"2018","Ethiopia",84.977764,0,"2%","Netherlands"
-"2019","Ethiopia",107.663296,0,"3%","Netherlands"
-"2020","Ethiopia",115.465623,0,"3%","Netherlands"
-"2021","Ethiopia",75.662639,0,"2%","Netherlands"
-"2022","Ethiopia",103.599042,0,"2%","Netherlands"
-"2018","Benin",28.396444,0,"1%","Netherlands"
-"2019","Benin",34.871592,0,"1%","Netherlands"
-"2020","Benin",41.190132,0,"1%","Netherlands"
-"2021","Benin",41.484638,0,"1%","Netherlands"
-"2022","Benin",49.51461,0,"1%","Netherlands"
-"2018","Mali",52.768161,0,"1%","Netherlands"
-"2019","Mali",45.031585,0,"1%","Netherlands"
-"2020","Mali",32.220226,0,"1%","Netherlands"
-"2021","Mali",50.486517,0,"1%","Netherlands"
-"2022","Mali",48.913561,0,"1%","Netherlands"
-"2018","Yemen",52.200383,0,"1%","Netherlands"
-"2019","Yemen",27.174721,0,"1%","Netherlands"
-"2020","Yemen",43.056749,0,"1%","Netherlands"
-"2021","Yemen",30.957647,0,"1%","Netherlands"
-"2022","Yemen",46.817592,0,"1%","Netherlands"
-"2018","Uganda",32.808661,0,"1%","Netherlands"
-"2019","Uganda",36.050227,0,"1%","Netherlands"
-"2020","Uganda",39.098369,0,"1%","Netherlands"
-"2021","Uganda",37.6548,0,"1%","Netherlands"
-"2022","Uganda",45.823656,0,"1%","Netherlands"
-"2018","Niger",7.636077,0,"0%","Netherlands"
-"2019","Niger",17.607044,0,"0%","Netherlands"
-"2020","Niger",25.507706,0,"1%","Netherlands"
-"2021","Niger",25.86596,0,"1%","Netherlands"
-"2022","Niger",37.020679,0,"1%","Netherlands"
-"2018","Burundi",39.960229,0,"1%","Netherlands"
-"2019","Burundi",34.009366,0,"1%","Netherlands"
-"2020","Burundi",33.373381,0,"1%","Netherlands"
-"2021","Burundi",37.725813,0,"1%","Netherlands"
-"2022","Burundi",36.041472,0,"1%","Netherlands"
-"2018","South Sudan",75.914611,0,"2%","Netherlands"
-"2019","South Sudan",52.173226,0,"1%","Netherlands"
-"2020","South Sudan",39.763005,0,"1%","Netherlands"
-"2021","South Sudan",33.078473,0,"1%","Netherlands"
-"2022","South Sudan",35.396828,0,"1%","Netherlands"
-"2018","Afghanistan",59.211043,0,"1%","Netherlands"
-"2019","Afghanistan",74.043746,0,"2%","Netherlands"
-"2020","Afghanistan",55.131344,0,"1%","Netherlands"
-"2021","Afghanistan",31.551367,0,"1%","Netherlands"
-"2022","Afghanistan",30.054449,0,"1%","Netherlands"
-"2018","Jordan",42.681216,0,"1%","Netherlands"
-"2019","Jordan",8.599375,0,"0%","Netherlands"
-"2020","Jordan",15.625461,0,"0%","Netherlands"
-"2021","Jordan",15.085469,0,"0%","Netherlands"
-"2022","Jordan",29.145791,0,"1%","Netherlands"
-"2018","Mozambique",45.234649,0,"1%","Netherlands"
-"2019","Mozambique",53.333572,0,"1%","Netherlands"
-"2020","Mozambique",50.699243,0,"1%","Netherlands"
-"2021","Mozambique",30.139092,0,"1%","Netherlands"
-"2022","Mozambique",29.012389,0,"1%","Netherlands"
-"2018","West Bank and Gaza Strip",26.671478,0,"1%","Netherlands"
-"2019","West Bank and Gaza Strip",32.516173,0,"1%","Netherlands"
-"2020","West Bank and Gaza Strip",28.86577,0,"1%","Netherlands"
-"2021","West Bank and Gaza Strip",34.707048,0,"1%","Netherlands"
-"2022","West Bank and Gaza Strip",26.525949,0,"1%","Netherlands"
-"2018","Rwanda",50.808849,0,"1%","Netherlands"
-"2019","Rwanda",52.105849,0,"1%","Netherlands"
-"2020","Rwanda",32.758908,0,"1%","Netherlands"
-"2021","Rwanda",21.65568,0,"1%","Netherlands"
-"2022","Rwanda",26.154957,0,"1%","Netherlands"
-"2018","Lebanon",88.779002,0,"2%","Netherlands"
-"2019","Lebanon",13.04196,0,"0%","Netherlands"
-"2020","Lebanon",27.927956,0,"1%","Netherlands"
-"2021","Lebanon",22.993515,0,"1%","Netherlands"
-"2022","Lebanon",25.753571,0,"1%","Netherlands"
-"2018","Bangladesh",51.304973,0,"1%","Netherlands"
-"2019","Bangladesh",48.365704,0,"1%","Netherlands"
-"2020","Bangladesh",34.45882,0,"1%","Netherlands"
-"2021","Bangladesh",30.067965,0,"1%","Netherlands"
-"2022","Bangladesh",25.732503,0,"1%","Netherlands"
-"2018","Democratic Republic of the Congo",26.342753,0,"1%","Netherlands"
-"2019","Democratic Republic of the Congo",19.05373,0,"1%","Netherlands"
-"2020","Democratic Republic of the Congo",17.39295,0,"0%","Netherlands"
-"2021","Democratic Republic of the Congo",25.448373,0,"1%","Netherlands"
-"2022","Democratic Republic of the Congo",17.657683,0,"0%","Netherlands"
-"2018","Tunisia",5.58948,0,"0%","Netherlands"
-"2019","Tunisia",22.0623,0,"1%","Netherlands"
-"2020","Tunisia",4.220978,0,"0%","Netherlands"
-"2021","Tunisia",15.164305,0,"0%","Netherlands"
-"2022","Tunisia",17.123285,0,"0%","Netherlands"
-"2018","Egypt",7.008611,0,"0%","Netherlands"
-"2019","Egypt",6.94696,0,"0%","Netherlands"
-"2020","Egypt",10.520526,0,"0%","Netherlands"
-"2021","Egypt",5.943613,0,"0%","Netherlands"
-"2022","Egypt",15.335166,0,"0%","Netherlands"
-"2018","Somalia",18.455666,0,"0%","Netherlands"
-"2019","Somalia",37.650957,0,"1%","Netherlands"
-"2020","Somalia",30.535749,0,"1%","Netherlands"
-"2021","Somalia",21.688548,0,"1%","Netherlands"
-"2022","Somalia",15.216452,0,"0%","Netherlands"
-"2018","Burkina Faso",0,0,NA,"Netherlands"
-"2019","Burkina Faso",2.532025,0,"0%","Netherlands"
-"2020","Burkina Faso",23.714293,0,"1%","Netherlands"
-"2021","Burkina Faso",31.585345,0,"1%","Netherlands"
-"2022","Burkina Faso",11.592736,0,"0%","Netherlands"
-"2018","Iraq",52.216261,0,"1%","Netherlands"
-"2019","Iraq",16.981166,0,"0%","Netherlands"
-"2020","Iraq",37.880467,0,"1%","Netherlands"
-"2021","Iraq",29.290246,0,"1%","Netherlands"
-"2022","Iraq",10.753661,0,"0%","Netherlands"
-"2018","Kenya",18.313389,0,"0%","Netherlands"
-"2019","Kenya",12.338648,0,"0%","Netherlands"
-"2020","Kenya",7.726269,0,"0%","Netherlands"
-"2021","Kenya",10.619328,0,"0%","Netherlands"
-"2022","Kenya",9.871858,0,"0%","Netherlands"
-"2018","Nigeria",13.038996,0,"0%","Netherlands"
-"2019","Nigeria",15.971445,0,"0%","Netherlands"
-"2020","Nigeria",10.114822,0,"0%","Netherlands"
-"2021","Nigeria",14.118393,0,"0%","Netherlands"
-"2022","Nigeria",7.383593,0,"0%","Netherlands"
-"2018","Guinea",0,0,NA,"Netherlands"
-"2019","Guinea",0,0,NA,"Netherlands"
-"2020","Guinea",0,0,NA,"Netherlands"
-"2021","Guinea",0,0,NA,"Netherlands"
-"2022","Guinea",6.560523,0,"0%","Netherlands"
-"2018","Indonesia",17.933928,0,"0%","Netherlands"
-"2019","Indonesia",13.637304,0,"0%","Netherlands"
-"2020","Indonesia",6.669379,0,"0%","Netherlands"
-"2021","Indonesia",4.300697,0,"0%","Netherlands"
-"2022","Indonesia",4.73324,0,"0%","Netherlands"
-"2018","Sudan",14.654322,0,"0%","Netherlands"
-"2019","Sudan",10.338991,0,"0%","Netherlands"
-"2020","Sudan",15.124633,0,"0%","Netherlands"
-"2021","Sudan",9.649366,0,"0%","Netherlands"
-"2022","Sudan",4.717882,0,"0%","Netherlands"
-"2018","Libya",4.586544,0,"0%","Netherlands"
-"2019","Libya",8.46227,0,"0%","Netherlands"
-"2020","Libya",3.266291,0,"0%","Netherlands"
-"2021","Libya",2.38713,0,"0%","Netherlands"
-"2022","Libya",2.996246,0,"0%","Netherlands"
-"2018","Ghana",20.191914,0,"0%","Netherlands"
-"2019","Ghana",20.021791,0,"1%","Netherlands"
-"2020","Ghana",13.087505,0,"0%","Netherlands"
-"2021","Ghana",9.262992,0,"0%","Netherlands"
-"2022","Ghana",2.891154,0,"0%","Netherlands"
-"2018","Chad",1.304751,0,"0%","Netherlands"
-"2019","Chad",0.002576,0,"0%","Netherlands"
-"2020","Chad",0,0,NA,"Netherlands"
-"2021","Chad",0,0,NA,"Netherlands"
-"2022","Chad",2.354522,0,"0%","Netherlands"
-"2018","Pakistan",3.026163,0,"0%","Netherlands"
-"2019","Pakistan",5.688807,0,"0%","Netherlands"
-"2020","Pakistan",4.775955,0,"0%","Netherlands"
-"2021","Pakistan",3.26843,0,"0%","Netherlands"
-"2022","Pakistan",2.309464,0,"0%","Netherlands"
-"2018","Venezuela",0,0,NA,"Netherlands"
-"2019","Venezuela",2.67867,0,"0%","Netherlands"
-"2020","Venezuela",1.35896,0,"0%","Netherlands"
-"2021","Venezuela",2.36518,0,"0%","Netherlands"
-"2022","Venezuela",2.247339,0,"0%","Netherlands"
-"2018","Senegal",4.430147,0,"0%","Netherlands"
-"2019","Senegal",5.416759,0,"0%","Netherlands"
-"2020","Senegal",3.809327,0,"0%","Netherlands"
-"2021","Senegal",1.147876,0,"0%","Netherlands"
-"2022","Senegal",2.201928,0,"0%","Netherlands"
-"2018","Colombia",10.53016,0,"0%","Netherlands"
-"2019","Colombia",5.81326,0,"0%","Netherlands"
-"2020","Colombia",1.545638,0,"0%","Netherlands"
-"2021","Colombia",4.009176,0,"0%","Netherlands"
-"2022","Colombia",2.147761,0,"0%","Netherlands"
-"2018","Zimbabwe",1.744677,0,"0%","Netherlands"
-"2019","Zimbabwe",2.366417,0,"0%","Netherlands"
-"2020","Zimbabwe",1.863392,0,"0%","Netherlands"
-"2021","Zimbabwe",1.769864,0,"0%","Netherlands"
-"2022","Zimbabwe",2.138145,0,"0%","Netherlands"
-"2018","Syrian Arab Republic",52.49919,0,"1%","Netherlands"
-"2019","Syrian Arab Republic",10.975028,0,"0%","Netherlands"
-"2020","Syrian Arab Republic",25.43566,0,"1%","Netherlands"
-"2021","Syrian Arab Republic",8.125775,0,"0%","Netherlands"
-"2022","Syrian Arab Republic",1.915383,0,"0%","Netherlands"
-"2018","Myanmar",3.025594,0,"0%","Netherlands"
-"2019","Myanmar",2.687818,0,"0%","Netherlands"
-"2020","Myanmar",2.640847,0,"0%","Netherlands"
-"2021","Myanmar",2.887888,0,"0%","Netherlands"
-"2022","Myanmar",1.40992,0,"0%","Netherlands"
-"2018","Suriname",3.367109,0,"0%","Netherlands"
-"2019","Suriname",4.760939,0,"0%","Netherlands"
-"2020","Suriname",4.914481,0,"0%","Netherlands"
-"2021","Suriname",2.600922,0,"0%","Netherlands"
-"2022","Suriname",1.146787,0,"0%","Netherlands"
-"2018","Belarus",0.700165,0,"0%","Netherlands"
-"2019","Belarus",0.928121,0,"0%","Netherlands"
-"2020","Belarus",1.29007,0,"0%","Netherlands"
-"2021","Belarus",0.860245,0,"0%","Netherlands"
-"2022","Belarus",1.132616,0,"0%","Netherlands"
-"2018","Türkiye",2.759165,0,"0%","Netherlands"
-"2019","Türkiye",1.974147,0,"0%","Netherlands"
-"2020","Türkiye",0.780537,0,"0%","Netherlands"
-"2021","Türkiye",1.196525,0,"0%","Netherlands"
-"2022","Türkiye",0.913725,0,"0%","Netherlands"
+donor,year,Recipient country,share,ODA Grants,ODA Loans
+Netherlands,2023,"Bilateral, unspecified",71.3%,3640.349988824799,0.0
+Netherlands,2023,Ukraine,6.6%,336.09813872679996,0.0
+Netherlands,2023,"South of Sahara, regional",5.4%,277.558341094,0.0
+Netherlands,2023,Ethiopia,2.8%,141.17018671480002,0.0
+Netherlands,2023,"Africa, regional",1.3%,66.1290738424,0.0
+Netherlands,2023,Mali,1.0%,49.298553619200014,0.0
+Netherlands,2023,Yemen,0.9%,47.61279799759999,0.0
+Netherlands,2023,Uganda,0.9%,44.21935822239999,0.0
+Netherlands,2023,Benin,0.8%,43.01773647040001,0.0
+Netherlands,2023,Burundi,0.7%,34.397479348,0.0
+Netherlands,2023,South Sudan,0.7%,33.6856838344,0.0
+Netherlands,2023,Mozambique,0.6%,32.4120345248,0.0
+Netherlands,2023,Pakistan,0.6%,30.353959578399994,0.0
+Netherlands,2023,Burkina Faso,0.6%,29.693247501600005,0.0
+Netherlands,2023,West Bank and Gaza Strip,0.5%,23.392774133200003,0.0
+Netherlands,2023,Democratic Republic of the Congo,0.4%,22.959244738,0.0
+Netherlands,2023,Tunisia,0.4%,22.728697180000005,0.0
+Netherlands,2023,Bangladesh,0.4%,22.5860480512,0.0
+Netherlands,2023,Niger,0.4%,18.867183122399997,0.0
+Netherlands,2023,Egypt,0.3%,17.0613017444,0.0
+Netherlands,2022,"Bilateral, unspecified",73.4%,3535.8525228124013,0.0
+Netherlands,2022,"South of Sahara, regional",4.6%,223.0750614316,0.0
+Netherlands,2022,Ukraine,4.0%,194.7033054032,0.0
+Netherlands,2022,Ethiopia,2.2%,107.53755624319999,0.0
+Netherlands,2022,Benin,1.1%,51.3970004608,0.0
+Netherlands,2022,Mali,1.1%,50.77310448,0.0
+Netherlands,2022,Yemen,1.0%,48.5974475752,0.0
+Netherlands,2022,Uganda,1.0%,47.56573056119999,0.0
+Netherlands,2022,"Africa, regional",0.8%,38.855428507599996,0.0
+Netherlands,2022,Niger,0.8%,38.428093619200006,0.0
+Netherlands,2022,Burundi,0.8%,37.41165815440001,0.0
+Netherlands,2022,South Sudan,0.8%,36.74250353760001,0.0
+Netherlands,2022,Afghanistan,0.6%,31.197021690399996,0.0
+Netherlands,2022,Jordan,0.6%,30.253827743200002,0.0
+Netherlands,2022,Mozambique,0.6%,30.115353533199993,0.0
+Netherlands,2022,West Bank and Gaza Strip,0.6%,27.534384077999995,0.0
+Netherlands,2022,Rwanda,0.6%,27.1492872724,0.0
+Netherlands,2022,Lebanon,0.6%,26.732644060800002,0.0
+Netherlands,2022,Bangladesh,0.6%,26.710772916000003,0.0
+Netherlands,2022,"Europe, regional",0.5%,23.947505294800003,0.0
+Netherlands,2021,"Bilateral, unspecified",70.1%,2775.662135142401,0.0
+Netherlands,2021,"South of Sahara, regional",7.1%,282.69630981239993,0.0
+Netherlands,2021,Ethiopia,2.0%,78.39556025239999,0.0
+Netherlands,2021,"Africa, regional",1.8%,72.9140949304,0.0
+Netherlands,2021,Mali,1.3%,52.310079371200004,0.0
+Netherlands,2021,Benin,1.1%,42.983056944,0.0
+Netherlands,2021,Burundi,1.0%,39.088462476400004,0.0
+Netherlands,2021,Uganda,1.0%,39.014883257200005,0.0
+Netherlands,2021,West Bank and Gaza Strip,0.9%,35.9606603248,0.0
+Netherlands,2021,South Sudan,0.9%,34.27326364999999,0.0
+Netherlands,2021,Burkina Faso,0.8%,32.7262029584,0.0
+Netherlands,2021,Afghanistan,0.8%,32.6909981184,0.0
+Netherlands,2021,Yemen,0.8%,32.0758338208,0.0
+Netherlands,2021,Mozambique,0.8%,31.227713910000002,0.0
+Netherlands,2021,Bangladesh,0.8%,31.15401108760001,0.0
+Netherlands,2021,Iraq,0.8%,30.3482043044,0.0
+Netherlands,2021,"Europe, regional",0.7%,29.154993087999994,0.0
+Netherlands,2021,Niger,0.7%,26.800232939199997,0.0
+Netherlands,2021,Democratic Republic of the Congo,0.7%,26.367562144799994,0.0
+Netherlands,2021,Lebanon,0.6%,23.824036733999996,0.0
+Netherlands,2020,"Bilateral, unspecified",70.9%,2943.1777590291977,0.0
+Netherlands,2020,"South of Sahara, regional",4.3%,177.88028414200002,0.0
+Netherlands,2020,Ethiopia,2.9%,120.14629770679998,0.0
+Netherlands,2020,"Africa, regional",1.6%,65.20550742120001,0.0
+Netherlands,2020,Afghanistan,1.4%,57.36622828920001,0.0
+Netherlands,2020,Mozambique,1.3%,52.7544560508,0.0
+Netherlands,2020,Yemen,1.1%,44.80215945,0.0
+Netherlands,2020,Benin,1.0%,42.8598720084,0.0
+Netherlands,2020,South Sudan,1.0%,41.3748921276,0.0
+Netherlands,2020,Uganda,1.0%,40.683309048,0.0
+Netherlands,2020,Iraq,1.0%,39.416046271599996,0.0
+Netherlands,2020,Bangladesh,0.9%,35.8556969288,0.0
+Netherlands,2020,Burundi,0.8%,34.7262506168,0.0
+Netherlands,2020,Rwanda,0.8%,34.0868678172,0.0
+Netherlands,2020,Mali,0.8%,33.5263482736,0.0
+Netherlands,2020,Somalia,0.8%,31.773589785200002,0.0
+Netherlands,2020,"Europe, regional",0.8%,31.462411004000003,0.0
+Netherlands,2020,West Bank and Gaza Strip,0.7%,30.035917508799987,0.0
+Netherlands,2020,Lebanon,0.7%,29.060083487999997,0.0
+Netherlands,2020,Niger,0.6%,26.5417201572,0.0
+Netherlands,2019,"Bilateral, unspecified",70.0%,2765.584807079597,0.0
+Netherlands,2019,"South of Sahara, regional",4.1%,161.37415610279993,0.0
+Netherlands,2019,Ethiopia,2.8%,112.0406680256,0.0
+Netherlands,2019,Afghanistan,2.0%,77.05421391160002,0.0
+Netherlands,2019,"Africa, regional",1.6%,61.99246099840001,0.0
+Netherlands,2019,Mozambique,1.4%,55.50200730439999,0.0
+Netherlands,2019,South Sudan,1.4%,54.294486810399995,0.0
+Netherlands,2019,Rwanda,1.4%,54.224367377200004,0.0
+Netherlands,2019,Bangladesh,1.3%,50.332157789200004,0.0
+Netherlands,2019,Mali,1.2%,46.8624802224,0.0
+Netherlands,2019,Somalia,1.0%,39.1817696492,0.0
+Netherlands,2019,Uganda,0.9%,37.51595276879999,0.0
+Netherlands,2019,Benin,0.9%,36.28940179639999,0.0
+Netherlands,2019,Burundi,0.9%,35.3921187128,0.0
+Netherlands,2019,West Bank and Gaza Strip,0.9%,33.838219011999996,0.0
+Netherlands,2019,Yemen,0.7%,28.279587770799992,0.0
+Netherlands,2019,Tunisia,0.6%,22.9593087468,0.0
+Netherlands,2019,Ghana,0.5%,20.835837775199995,0.0
+Netherlands,2019,Democratic Republic of the Congo,0.5%,19.828422033199995,0.0
+Netherlands,2019,Niger,0.5%,18.322910777999997,0.0

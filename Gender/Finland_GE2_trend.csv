@@ -1,6 +1,6 @@
-"Year","Gender funding as a % of bilateral allocable ODA","Funding for projects with gender equality as a principal objective","Funding for projects with gender equality as a Significant objective","Principal","Significant","Not targeted","Not screened"
-2018,"54%",30,189,"7%","47%","46%","0%"
-2019,"48%",29,211,"6%","42%","52%","0%"
-2020,"50%",43,243,"7%","42%","41%","9%"
-2021,"63%",42,321,"7%","56%","36%","1%"
-2022,"54%",45,274,"8%","46%","34%","13%"
+donor,Year,Gender funding as % of bilateral allocable ODA,Funding for projects with gender equality as a principal objective,Funding for projects with gender equality as a significant objective,Principal,Significant,Not targeted or screened
+Finland,2019,81.34486396397011,25.96566762817531,186.6081483204615,9.936189419763428,71.40867454420668,18.6551360360299
+Finland,2020,55.987602812122084,38.26324462640733,213.41597376011907,8.51189604044417,47.475706771677906,44.01239718787792
+Finland,2021,44.54337645798291,37.451761421792135,282.3184386340379,5.216958640092746,39.32641781789016,55.45662354201709
+Finland,2022,70.11718117951456,40.876304084860884,243.55818367916635,10.076595289123041,60.040585890391526,29.882818820485426
+Finland,2023,90.12997667178438,39.25224527775188,261.1474169535685,11.776990443067401,78.35298622871697,9.870023328215623

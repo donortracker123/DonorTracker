@@ -1,131 +1,92 @@
-"Year","Multi_short","ODA","Share","Full Name","Donor"
-"2018","EC - Development Share of Budget","18.5","28.9%","european commission development share of budget","Ireland"
-"2019","EC - Development Share of Budget","16.9","26.6%","european commission development share of budget","Ireland"
-"2020","EC - Development Share of Budget","16.9","26.5%","european commission development share of budget","Ireland"
-"2021","EC - Development Share of Budget","21.1","31.6%","european commission development share of budget","Ireland"
-"2022","EC - Development Share of Budget","27.1","32.8%","european commission development share of budget","Ireland"
-"2018","CGIAR Fund","0","0%","cgiar fund","Ireland"
-"2019","CGIAR Fund","0","0%","cgiar fund","Ireland"
-"2020","CGIAR Fund","0","0%","cgiar fund","Ireland"
-"2021","CGIAR Fund","0","0%","cgiar fund","Ireland"
-"2022","CGIAR Fund","5.2","6.3%","cgiar fund","Ireland"
-"2018","Adaptation Fund","0","0%","adaptation fund","Ireland"
-"2019","Adaptation Fund","0.2","0.3%","adaptation fund","Ireland"
-"2020","Adaptation Fund","0.2","0.3%","adaptation fund","Ireland"
-"2021","Adaptation Fund","3.3","4.9%","adaptation fund","Ireland"
-"2022","Adaptation Fund","3.5","4.3%","adaptation fund","Ireland"
-"2018","IDA","4.3","6.7%","international development association","Ireland"
-"2019","IDA","4.3","6.8%","international development association","Ireland"
-"2020","IDA","4.4","6.9%","international development association","Ireland"
-"2021","IDA","3.5","5.2%","international development association","Ireland"
-"2022","IDA","3.4","4.1%","international development association","Ireland"
-"2018","GCF","0.2","0.4%","green climate fund","Ireland"
-"2019","GCF","0.3","0.5%","green climate fund","Ireland"
-"2020","GCF","1.7","2.7%","green climate fund","Ireland"
-"2021","GCF","1.9","2.9%","green climate fund","Ireland"
-"2022","GCF","2.1","2.5%","green climate fund","Ireland"
-"2018","IFC","0","0%","international finance corporation","Ireland"
-"2019","IFC","0","0%","international finance corporation","Ireland"
-"2020","IFC","0","0%","international finance corporation","Ireland"
-"2021","IFC","0","0%","international finance corporation","Ireland"
-"2022","IFC","1.4","1.7%","international finance corporation","Ireland"
-"2018","AfDB","0","0%","african development bank","Ireland"
-"2019","AfDB","0","0%","african development bank","Ireland"
-"2020","AfDB","0.5","0.8%","african development bank","Ireland"
-"2021","AfDB","1.1","1.7%","african development bank","Ireland"
-"2022","AfDB","1.4","1.7%","african development bank","Ireland"
-"2018","African Development Fund","0","0%","african development fund","Ireland"
-"2019","African Development Fund","0","0%","african development fund","Ireland"
-"2020","African Development Fund","1.2","1.8%","african development fund","Ireland"
-"2021","African Development Fund","1.1","1.6%","african development fund","Ireland"
-"2022","African Development Fund","1","1.2%","african development fund","Ireland"
-"2018","FAO","0.7","1.1%","food and agricultural organisation","Ireland"
-"2019","FAO","0.9","1.4%","food and agricultural organisation","Ireland"
-"2020","FAO","1.1","1.7%","food and agricultural organisation","Ireland"
-"2021","FAO","1.2","1.8%","food and agricultural organisation","Ireland"
-"2022","FAO","0.9","1.1%","food and agricultural organisation","Ireland"
-"2018","IBRD","0","0%","international bank for reconstruction and development","Ireland"
-"2019","IBRD","0.4","0.7%","international bank for reconstruction and development","Ireland"
-"2020","IBRD","0.4","0.6%","international bank for reconstruction and development","Ireland"
-"2021","IBRD","0.4","0.6%","international bank for reconstruction and development","Ireland"
-"2022","IBRD","0.4","0.5%","international bank for reconstruction and development","Ireland"
-"2018","GEF Fund","0.1","0.2%","global environment facility trust fund","Ireland"
-"2019","GEF Fund","0.1","0.1%","global environment facility trust fund","Ireland"
-"2020","GEF Fund","0.1","0.1%","global environment facility trust fund","Ireland"
-"2021","GEF Fund","0.1","0.2%","global environment facility trust fund","Ireland"
-"2022","GEF Fund","0.3","0.4%","global environment facility trust fund","Ireland"
-"2018","EIB","0.1","0.1%","european investment bank","Ireland"
-"2019","EIB","0.1","0.2%","european investment bank","Ireland"
-"2020","EIB","0.1","0.2%","european investment bank","Ireland"
-"2021","EIB","0.1","0.2%","european investment bank","Ireland"
-"2022","EIB","0.2","0.2%","european investment bank","Ireland"
-"2018","UNDP","0","0%","united nations development programme","Ireland"
-"2019","UNDP","0","0%","united nations development programme","Ireland"
-"2020","UNDP","0","0%","united nations development programme","Ireland"
-"2021","UNDP","0","0.1%","united nations development programme","Ireland"
-"2022","UNDP","0.1","0.1%","united nations development programme","Ireland"
-"2018","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Ireland"
-"2019","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Ireland"
-"2020","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Ireland"
-"2021","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Ireland"
-"2022","WHO - core voluntary contributions","0.1","0.1%","world health organisation core voluntary contributions account","Ireland"
-"2018","WTO - international trade centre","0","0%","world trade organisation international trade centre","Ireland"
-"2019","WTO - international trade centre","0","0%","world trade organisation international trade centre","Ireland"
-"2020","WTO - international trade centre","0","0%","world trade organisation international trade centre","Ireland"
-"2021","WTO - international trade centre","0","0%","world trade organisation international trade centre","Ireland"
-"2022","WTO - international trade centre","0","0%","world trade organisation international trade centre","Ireland"
-"2018","UNICEF","0","0%","united nations childrenâ€™s fund","Ireland"
-"2019","UNICEF","0","0%","united nations childrenâ€™s fund","Ireland"
-"2020","UNICEF","0","0%","united nations childrenâ€™s fund","Ireland"
-"2021","UNICEF","0","0%","united nations childrenâ€™s fund","Ireland"
-"2022","UNICEF","0","0%","united nations childrenâ€™s fund","Ireland"
-"2018","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Ireland"
-"2019","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Ireland"
-"2020","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Ireland"
-"2021","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Ireland"
-"2022","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Ireland"
-"2018","UN","0","0%","united nations","Ireland"
-"2019","UN","0","0%","united nations","Ireland"
-"2020","UN","0","0%","united nations","Ireland"
-"2021","UN","0","0%","united nations","Ireland"
-"2022","UN","0","0%","united nations","Ireland"
-"2018","UNIDO","0","0%","united nations industrial development organisation","Ireland"
-"2019","UNIDO","0","0%","united nations industrial development organisation","Ireland"
-"2020","UNIDO","0","0%","united nations industrial development organisation","Ireland"
-"2021","UNIDO","0","0%","united nations industrial development organisation","Ireland"
-"2022","UNIDO","0","0%","united nations industrial development organisation","Ireland"
-"2018","CEB","0","0%","council of europe development bank","Ireland"
-"2019","CEB","0","0%","council of europe development bank","Ireland"
-"2020","CEB","0","0%","council of europe development bank","Ireland"
-"2021","CEB","0","0%","council of europe development bank","Ireland"
-"2022","CEB","0","0%","council of europe development bank","Ireland"
-"2018","ILO","0","0%","international labour organisation regular budget supplementary account","Ireland"
-"2019","ILO","0","0%","international labour organisation regular budget supplementary account","Ireland"
-"2020","ILO","0","0%","international labour organisation regular budget supplementary account","Ireland"
-"2021","ILO","0","0%","international labour organisation regular budget supplementary account","Ireland"
-"2022","ILO","0","0%","international labour organisation regular budget supplementary account","Ireland"
-"2018","UNECE","0","0%","united nations economic commission for europe extrabudgetary contributions only","Ireland"
-"2019","UNECE","0","0%","united nations economic commission for europe extrabudgetary contributions only","Ireland"
-"2020","UNECE","0","0%","united nations economic commission for europe extrabudgetary contributions only","Ireland"
-"2021","UNECE","0","0%","united nations economic commission for europe extrabudgetary contributions only","Ireland"
-"2022","UNECE","0","0%","united nations economic commission for europe extrabudgetary contributions only","Ireland"
-"2018","WFP","0","0%","world food programme","Ireland"
-"2019","WFP","0","0%","world food programme","Ireland"
-"2020","WFP","0","0%","world food programme","Ireland"
-"2021","WFP","0","0%","world food programme","Ireland"
-"2022","WFP","0","0%","world food programme","Ireland"
-"2018","AIIB","0","0%","asian infrastructure investment bank","Ireland"
-"2019","AIIB","0","0.1%","asian infrastructure investment bank","Ireland"
-"2020","AIIB","0","0.1%","asian infrastructure investment bank","Ireland"
-"2021","AIIB","0.1","0.1%","asian infrastructure investment bank","Ireland"
-"2022","AIIB","0","0%","asian infrastructure investment bank","Ireland"
-"2018","GEF-Least Developed Countries Fund","0.1","0.2%","global environment facility least developed countries fund","Ireland"
-"2019","GEF-Least Developed Countries Fund","0","0%","global environment facility least developed countries fund","Ireland"
-"2020","GEF-Least Developed Countries Fund","0","0%","global environment facility least developed countries fund","Ireland"
-"2021","GEF-Least Developed Countries Fund","0","0%","global environment facility least developed countries fund","Ireland"
-"2022","GEF-Least Developed Countries Fund","0","0%","global environment facility least developed countries fund","Ireland"
-"2018","ADB","0","0%","asian development bank","Ireland"
-"2019","ADB","0.1","0.1%","asian development bank","Ireland"
-"2020","ADB","0.1","0.1%","asian development bank","Ireland"
-"2021","ADB","0","0%","asian development bank","Ireland"
-"2022","ADB","0","0%","asian development bank","Ireland"
+Year,ODA,Share,Full Name,donor
+2023,1.3265000000000002,0.028180414134182544,african development fund,Ireland
+2023,3.4583,0.07346877210723217,adaptation fund,Ireland
+2023,22.065799999999996,0.46876998281345267,european commission development share of budget,Ireland
+2023,0.0343,0.0007286756161345352,world health organisation core voluntary contributions account,Ireland
+2023,0.29810000000000003,0.00633289216238207,joint sustainable development goals fund,Ireland
+2023,4.363199999999999,0.0926926369772071,international development association,Ireland
+2023,0.41959999999999986,0.008914060890088948,international bank for reconstruction and development,Ireland
+2023,0.0125,0.00026555233824144875,world health organisation assessed contributions,Ireland
+2023,3.8667,0.08214489810225678,green climate fund,Ireland
+2023,0.0138,0.0002931697814185594,united nations industrial development organisation,Ireland
+2023,0.023,0.0004886163023642657,united nations,Ireland
+2023,0.6308,0.013400833197016468,international finance corporation,Ireland
+2023,0.017,0.0003611511800083703,united nations children’s fund,Ireland
+2023,6.3531,0.13496644480653985,cgiar fund,Ireland
+2023,0.4431999999999999,0.009415423704688805,global environment facility trust fund,Ireland
+2023,0.7387,0.015693080980716655,european commission european development fund,Ireland
+2023,0.8929000000000002,0.01896893462526317,food and agricultural organisation,Ireland
+2023,0.1509,0.0032057478272507693,european investment bank,Ireland
+2023,1.8865,0.04007715888739944,african development bank,Ireland
+2023,0.07680000000000001,0.001631553566155461,united nations development programme,Ireland
+2021,0.13269999999999998,0.0039183495096895725,global environment facility trust fund,Ireland
+2021,0.038500000000000006,0.0011368233317486705,united nations development programme,Ireland
+2021,0.0029,8.563084836548426e-05,united nations industrial development organisation,Ireland
+2021,3.3077000000000005,0.0976693645305215,adaptation fund,Ireland
+2021,1.1304999999999998,0.0333812669231655,african development bank,Ireland
+2021,3.5462,0.1047117636116139,international development association,Ireland
+2021,0.38389999999999996,0.011335752650865312,international bank for reconstruction and development,Ireland
+2021,16.147100000000002,0.47678961091114175,european commission development share of budget,Ireland
+2021,0.1266,0.0037382294493345887,european investment bank,Ireland
+2021,0.007,0.000206695151227031,world health organisation assessed contributions,Ireland
+2021,0.0093,0.00027460927234448403,world health organisation core voluntary contributions account,Ireland
+2021,0.0035,0.0001033475756135155,united nations children’s fund,Ireland
+2021,0.0542,0.0016004110280721541,asian infrastructure investment bank,Ireland
+2021,1.9455,0.05744648810174126,green climate fund,Ireland
+2021,4.7364000000000015,0.13985584489595856,european commission european development fund,Ireland
+2021,1.2011,0.03546593516268385,food and agricultural organisation,Ireland
+2021,1.0931000000000002,0.03227692425803823,african development fund,Ireland
+2021,0.0001,2.9527878746718714e-06,council of europe development bank,Ireland
+2022,0.1759,0.004100118411606203,european investment bank,Ireland
+2022,1.3985,0.032598155762542776,international finance corporation,Ireland
+2022,0.0087,0.00020279153030684457,united nations,Ireland
+2022,3.5450999999999997,0.08263405219434422,adaptation fund,Ireland
+2022,1.3897,0.03239303329510597,african development bank,Ireland
+2022,1.9184999999999997,0.044719028838354165,european commission european development fund,Ireland
+2022,0.0049,0.0001142159193682228,united nations industrial development organisation,Ireland
+2022,2.0641000000000003,0.048112873299581374,green climate fund,Ireland
+2022,0.29170000000000007,0.006799343608104204,global environment facility trust fund,Ireland
+2022,5.2269,0.12183575284607424,cgiar fund,Ireland
+2022,0.0105,0.0002447483986461918,world health organisation assessed contributions,Ireland
+2022,0.0,0.0,council of europe development bank,Ireland
+2022,0.0503,0.0011724613763717565,world health organisation core voluntary contributions account,Ireland
+2022,0.012499999999999999,0.00029136714124546634,united nations children’s fund,Ireland
+2022,3.3718000000000012,0.07859453814811711,international development association,Ireland
+2022,0.9704999999999999,0.022621744846298007,african development fund,Ireland
+2022,21.0269,0.4901238193803438,european commission development share of budget,Ireland
+2022,0.052000000000000005,0.0012120873075811402,united nations development programme,Ireland
+2022,0.44470000000000004,0.010365677416948712,international bank for reconstruction and development,Ireland
+2022,0.938,0.021864190279059795,food and agricultural organisation,Ireland
+2019,0.11389999999999999,0.004212963647930877,european investment bank,Ireland
+2019,4.3937,0.16251535013093849,international development association,Ireland
+2019,0.0154,0.0005696193167527262,world food programme,Ireland
+2019,0.44329999999999997,0.01639689890366776,international bank for reconstruction and development,Ireland
+2019,13.593799999999995,0.5028111083164419,european commission development share of budget,Ireland
+2019,0.3424,0.012664782730917755,green climate fund,Ireland
+2019,0.001,3.698826732160559e-05,united nations children’s fund,Ireland
+2019,0.0375,0.0013870600245602096,asian infrastructure investment bank,Ireland
+2019,0.0563,0.002082439450206395,global environment facility trust fund,Ireland
+2019,6.846699999999999,0.25324756987083696,european commission european development fund,Ireland
+2019,0.057300000000000004,0.0021194277175280007,asian development bank,Ireland
+2019,0.00030000000000000003,1.1096480196481679e-05,council of europe development bank,Ireland
+2019,0.1913,0.00707585553862315,adaptation fund,Ireland
+2019,0.0279,0.001031972658272796,united nations development programme,Ireland
+2019,0.9147999999999997,0.03383686694580479,food and agricultural organisation,Ireland
+2020,0.12789999999999999,0.004350192170334343,european investment bank,Ireland
+2020,13.097299999999999,0.44547124247474584,european commission development share of budget,Ireland
+2020,0.3784,0.01287031053365532,international bank for reconstruction and development,Ireland
+2020,0.00030000000000000003,1.0203734566851472e-05,united nations industrial development organisation,Ireland
+2020,0.07350000000000001,0.0024999149688786104,asian development bank,Ireland
+2020,0.026799999999999997,0.0009115336213053979,united nations development programme,Ireland
+2020,1.0805,0.03675045066494338,food and agricultural organisation,Ireland
+2020,6.460100000000001,0.21972381891772397,european commission european development fund,Ireland
+2020,0.5154,0.017530015985850824,african development bank,Ireland
+2020,0.0597,0.0020305431788034426,global environment facility trust fund,Ireland
+2020,0.20959999999999998,0.00712900921737356,adaptation fund,Ireland
+2020,0.00030000000000000003,1.0203734566851472e-05,council of europe development bank,Ireland
+2020,1.7335,0.05896057957212341,green climate fund,Ireland
+2020,1.1764,0.040012244481480226,african development fund,Ireland
+2020,0.0022,7.482738682357745e-05,united nations children’s fund,Ireland
+2020,0.0339,0.001153022006054216,asian infrastructure investment bank,Ireland
+2020,4.422599999999999,0.15042345498452434,international development association,Ireland
+2020,0.0026,8.843236624604607e-05,world health organisation assessed contributions,Ireland

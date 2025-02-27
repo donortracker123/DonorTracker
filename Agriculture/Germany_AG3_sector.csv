@@ -1,140 +1,179 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Agrarian reform",3.371682,"0%","Germany"
-2018,"Agricultural alternative development",9.915142,"1%","Germany"
-2018,"Agricultural co-operatives",8.965225,"1%","Germany"
-2018,"Agricultural development",248.145811,"26%","Germany"
-2018,"Agricultural education/training",10.769341,"1%","Germany"
-2018,"Agricultural extension",16.562172,"2%","Germany"
-2018,"Agricultural financial services",30.269034,"3%","Germany"
-2018,"Agricultural inputs",4.050394,"0%","Germany"
-2018,"Agricultural land resources",73.871492,"8%","Germany"
-2018,"Agricultural policy and administrative management",57.87653,"6%","Germany"
-2018,"Agricultural research",43.039373,"4%","Germany"
-2018,"Agricultural services",2.197066,"0%","Germany"
-2018,"Agricultural water resources",72.530645,"8%","Germany"
-2018,"Fishery development",9.652924,"1%","Germany"
-2018,"Fishery research",0.111387,"0%","Germany"
-2018,"Fishing policy and administrative management",6.177903,"1%","Germany"
-2018,"Food crop production",8.655643,"1%","Germany"
-2018,"Forestry development",78.394744,"8%","Germany"
-2018,"Forestry education/training",0.691421,"0%","Germany"
-2018,"Forestry policy and administrative management",51.318226,"5%","Germany"
-2018,"Forestry research",2.496284,"0%","Germany"
-2018,"Industrial crops/export crops",16.75962,"2%","Germany"
-2018,"Livestock",1.597288,"0%","Germany"
-2018,"Livestock/veterinary services",0.137801,"0%","Germany"
-2018,"Plant and post-harvest protection and pest control",2.611239,"0%","Germany"
-2018,"Rural development",198.829095,"21%","Germany"
-2019,"Agrarian reform",3.066677,"0%","Germany"
-2019,"Agricultural alternative development",11.176145,"1%","Germany"
-2019,"Agricultural co-operatives",12.103064,"1%","Germany"
-2019,"Agricultural development",269.268902,"26%","Germany"
-2019,"Agricultural education/training",11.191653,"1%","Germany"
-2019,"Agricultural extension",12.55202,"1%","Germany"
-2019,"Agricultural financial services",38.187461,"4%","Germany"
-2019,"Agricultural inputs",4.736785,"0%","Germany"
-2019,"Agricultural land resources",48.823238,"5%","Germany"
-2019,"Agricultural policy and administrative management",89.9867,"9%","Germany"
-2019,"Agricultural research",40.537854,"4%","Germany"
-2019,"Agricultural services",2.300077,"0%","Germany"
-2019,"Agricultural water resources",74.411225,"7%","Germany"
-2019,"Fishery development",16.892541,"2%","Germany"
-2019,"Fishery research",0.193441,"0%","Germany"
-2019,"Fishery services",0.313427,"0%","Germany"
-2019,"Fishing policy and administrative management",12.519481,"1%","Germany"
-2019,"Food crop production",11.313844,"1%","Germany"
-2019,"Forestry development",42.92717,"4%","Germany"
-2019,"Forestry education/training",3.082702,"0%","Germany"
-2019,"Forestry policy and administrative management",84.437378,"8%","Germany"
-2019,"Forestry research",1.929177,"0%","Germany"
-2019,"Fuelwood/charcoal",1.300002,"0%","Germany"
-2019,"Industrial crops/export crops",31.693907,"3%","Germany"
-2019,"Livestock",2.660454,"0%","Germany"
-2019,"Livestock/veterinary services",0.30438,"0%","Germany"
-2019,"Plant and post-harvest protection and pest control",1.380635,"0%","Germany"
-2019,"Rural development",204.199777,"20%","Germany"
-2020,"Agrarian reform",3.783933,"0%","Germany"
-2020,"Agricultural alternative development",7.585293,"1%","Germany"
-2020,"Agricultural co-operatives",11.757184,"1%","Germany"
-2020,"Agricultural development",411.078148,"28%","Germany"
-2020,"Agricultural education/training",11.784821,"1%","Germany"
-2020,"Agricultural extension",13.095562,"1%","Germany"
-2020,"Agricultural financial services",192.686176,"13%","Germany"
-2020,"Agricultural inputs",10.067932,"1%","Germany"
-2020,"Agricultural land resources",40.198809,"3%","Germany"
-2020,"Agricultural policy and administrative management",105.608687,"7%","Germany"
-2020,"Agricultural research",57.809638,"4%","Germany"
-2020,"Agricultural services",3.350119,"0%","Germany"
-2020,"Agricultural water resources",60.128207,"4%","Germany"
-2020,"Fishery development",21.814551,"1%","Germany"
-2020,"Fishery research",0.008954,"0%","Germany"
-2020,"Fishery services",0.6222,"0%","Germany"
-2020,"Fishing policy and administrative management",7.283979,"0%","Germany"
-2020,"Food crop production",11.687691,"1%","Germany"
-2020,"Forestry development",55.046402,"4%","Germany"
-2020,"Forestry education/training",0.223533,"0%","Germany"
-2020,"Forestry policy and administrative management",178.299819,"12%","Germany"
-2020,"Forestry research",1.20938,"0%","Germany"
-2020,"Fuelwood/charcoal",3.421903,"0%","Germany"
-2020,"Industrial crops/export crops",27.691779,"2%","Germany"
-2020,"Livestock",4.272839,"0%","Germany"
-2020,"Plant and post-harvest protection and pest control",0.451917,"0%","Germany"
-2020,"Rural development",225.906439,"15%","Germany"
-2021,"Agrarian reform",5.262207,"0%","Germany"
-2021,"Agricultural alternative development",5.631743,"0%","Germany"
-2021,"Agricultural co-operatives",6.313375,"0%","Germany"
-2021,"Agricultural development",249.230385,"18%","Germany"
-2021,"Agricultural education/training",14.595533,"1%","Germany"
-2021,"Agricultural extension",14.44882,"1%","Germany"
-2021,"Agricultural financial services",55.614678,"4%","Germany"
-2021,"Agricultural inputs",5.69647,"0%","Germany"
-2021,"Agricultural land resources",44.314101,"3%","Germany"
-2021,"Agricultural policy and administrative management",268.229073,"19%","Germany"
-2021,"Agricultural research",53.394563,"4%","Germany"
-2021,"Agricultural services",3.650529,"0%","Germany"
-2021,"Agricultural water resources",51.543086,"4%","Germany"
-2021,"Fishery development",16.083893,"1%","Germany"
-2021,"Fishery education/training",6.89218,"0%","Germany"
-2021,"Fishery research",0.090512,"0%","Germany"
-2021,"Fishery services",0.415102,"0%","Germany"
-2021,"Fishing policy and administrative management",6.287903,"0%","Germany"
-2021,"Food crop production",13.685121,"1%","Germany"
-2021,"Forestry development",71.528118,"5%","Germany"
-2021,"Forestry education/training",0.458868,"0%","Germany"
-2021,"Forestry policy and administrative management",209.932546,"15%","Germany"
-2021,"Forestry research",1.097584,"0%","Germany"
-2021,"Fuelwood/charcoal",2.341009,"0%","Germany"
-2021,"Industrial crops/export crops",51.89419,"4%","Germany"
-2021,"Livestock",4.508759,"0%","Germany"
-2021,"Livestock/veterinary services",0.165563,"0%","Germany"
-2021,"Plant and post-harvest protection and pest control",0.664573,"0%","Germany"
-2021,"Rural development",235.497749,"17%","Germany"
-2022,"Agrarian reform",5.722941,"0%","Germany"
-2022,"Agricultural alternative development",3.925954,"0%","Germany"
-2022,"Agricultural co-operatives",5.764782,"0%","Germany"
-2022,"Agricultural development",482.277318,"25%","Germany"
-2022,"Agricultural education/training",16.903867,"1%","Germany"
-2022,"Agricultural extension",16.24959,"1%","Germany"
-2022,"Agricultural financial services",98.598672,"5%","Germany"
-2022,"Agricultural inputs",19.047854,"1%","Germany"
-2022,"Agricultural land resources",53.116978,"3%","Germany"
-2022,"Agricultural policy and administrative management",552.726636,"28%","Germany"
-2022,"Agricultural research",51.25468,"3%","Germany"
-2022,"Agricultural services",6.70423,"0%","Germany"
-2022,"Agricultural water resources",49.652748,"3%","Germany"
-2022,"Fishery development",17.131104,"1%","Germany"
-2022,"Fishery education/training",7.370044,"0%","Germany"
-2022,"Fishery research",0.096975,"0%","Germany"
-2022,"Fishery services",0.029001,"0%","Germany"
-2022,"Fishing policy and administrative management",4.983982,"0%","Germany"
-2022,"Food crop production",14.210431,"1%","Germany"
-2022,"Forestry development",62.239518,"3%","Germany"
-2022,"Forestry education/training",0.638337,"0%","Germany"
-2022,"Forestry policy and administrative management",200.717076,"10%","Germany"
-2022,"Forestry research",0.839304,"0%","Germany"
-2022,"Fuelwood/charcoal",2.543726,"0%","Germany"
-2022,"Industrial crops/export crops",52.214636,"3%","Germany"
-2022,"Livestock",4.378687,"0%","Germany"
-2022,"Livestock/veterinary services",3.79092,"0%","Germany"
-2022,"Plant and post-harvest protection and pest control",0.794047,"0%","Germany"
-2022,"Rural development",228.393075,"12%","Germany"
+donor,year,Sector,Bilateral ODA for,share
+Germany,2023,Agricultural development,273.92874485150026,17.457697682982413
+Germany,2023,Rural development,197.77718457799992,12.604497928196249
+Germany,2023,Disaster Risk Reduction,147.3294576127,9.389423998546102
+Germany,2023,Forestry policy and administrative management,136.4204551571,8.694184559559805
+Germany,2023,Forestry development,130.40594349590006,8.31087492789292
+Germany,2023,Agricultural policy and administrative management,112.9710597095,7.199735859789979
+Germany,2023,Research/scientific institutions,75.4283576618,4.807109474755668
+Germany,2023,Household food security programmes,66.69523634220002,4.250540678337332
+Germany,2023,Agricultural land resources,55.795719808400015,3.5559057847232936
+Germany,2023,Agricultural water resources,50.26785080170003,3.2036102780855638
+Germany,2023,Industrial crops/export crops,43.108519114,2.7473403518176243
+Germany,2023,Agricultural research,42.094829549699995,2.6827371063001184
+Germany,2023,Agricultural financial services,42.01918921589999,2.67791648741678
+Germany,2023,Food security policy and administrative management,23.3377276309,1.4873320206278682
+Germany,2023,Multisector education/training,21.4934274489,1.369793297075946
+Germany,2023,Fishery development,21.459189370699995,1.3676112770079683
+Germany,2023,Fishing policy and administrative management,19.700927089700002,1.2555558176010733
+Germany,2023,Agricultural extension,16.370553085300003,1.0433084224925482
+Germany,2023,Food crop production,15.515109421800005,0.9887903146163491
+Germany,2023,Agricultural education/training,14.503639943600001,0.9243285569590715
+Germany,2023,Agricultural inputs,10.866452445000004,0.6925276928281306
+Germany,2023,Agricultural alternative development,8.2015784895,0.5226931473385983
+Germany,2023,Agricultural co-operatives,7.489094816399999,0.4772859938257984
+Germany,2023,Agrarian reform,7.1849747206000005,0.4579041772345012
+Germany,2023,Agricultural services,6.464319031899999,0.4119762146409209
+Germany,2023,Fishery education/training,5.7344517895,0.3654611923732187
+Germany,2023,Livestock,4.113542989,0.26215937997614835
+Germany,2023,Livestock/veterinary services,3.9847113161,0.25394883457062567
+Germany,2023,Fuelwood/charcoal,3.4759148039000007,0.22152282649703445
+Germany,2023,Food safety and quality,2.4508296721000002,0.15619333236166724
+Germany,2023,Plant and post-harvest protection and pest control,0.6927291698999999,0.044148183246900764
+Germany,2023,Forestry research,0.668529029,0.042605888939865534
+Germany,2023,Forestry education/training,0.5562108178,0.03544775963698442
+Germany,2023,Fishery research,0.21976884810000002,0.01400604420812784
+Germany,2023,Fishery services,0.20294166670000002,0.012933634498452584
+Germany,2023,Non-agricultural alternative development,0.1708886954,0.010890873038350755
+Germany,2022,Agricultural policy and administrative management,567.8756639263996,24.29609887026579
+Germany,2022,Agricultural development,495.4954768281997,21.199371375681476
+Germany,2022,Rural development,234.65283000239998,10.03943067133246
+Germany,2022,Forestry policy and administrative management,206.21829297740004,8.822882108372434
+Germany,2022,Disaster Risk Reduction,114.35498552309997,4.892585139794168
+Germany,2022,Agricultural financial services,101.3010410339,4.334082731426005
+Germany,2022,Household food security programmes,90.72394090370001,3.8815500964699368
+Germany,2022,Research/scientific institutions,71.1450485911,3.0438830971338473
+Germany,2022,Forestry development,63.9453673031,2.73585058311803
+Germany,2022,Agricultural land resources,54.57279450760003,2.334852671473511
+Germany,2022,Industrial crops/export crops,53.64572109419999,2.2951885887476817
+Germany,2022,Agricultural research,52.659455222699975,2.252992004797152
+Germany,2022,Agricultural water resources,51.01363139389999,2.1825767695481444
+Germany,2022,Multisector education/training,22.831004729400007,0.9768059866796857
+Germany,2022,Agricultural inputs,19.569915775400002,0.8372829454856107
+Germany,2022,Food security policy and administrative management,17.962217088399996,0.7684988634510419
+Germany,2022,Fishery development,17.600627260099994,0.7530285364465061
+Germany,2022,Agricultural education/training,17.367167334500007,0.7430401432207712
+Germany,2022,Agricultural extension,16.694960024000007,0.7142802996234936
+Germany,2022,Food crop production,14.599909260600004,0.6246452549838813
+Germany,2022,Fishery education/training,7.572040337500001,0.3239635933991787
+Germany,2022,Agricultural services,6.8879805437,0.2946966509343005
+Germany,2022,Agricultural co-operatives,5.922776523,0.253401181157056
+Germany,2022,Agrarian reform,5.879792551699999,0.25156214687035894
+Germany,2022,Fishing policy and administrative management,5.1205821329,0.21907994597630662
+Germany,2022,Livestock,4.4986956809,0.19247303942320404
+Germany,2022,Agricultural alternative development,4.033559768900001,0.17257257736091725
+Germany,2022,Livestock/veterinary services,3.8948213307,0.16663676601040595
+Germany,2022,Food safety and quality,3.5008046909,0.1497790842233036
+Germany,2022,Fuelwood/charcoal,2.6134436005,0.11181406096993966
+Germany,2022,Forestry research,0.8623083314999999,0.03689316131971676
+Germany,2022,Plant and post-harvest protection and pest control,0.8158111368000002,0.0349038166244181
+Germany,2022,Non-agricultural alternative development,0.6941928308,0.029700476219619187
+Germany,2022,Forestry education/training,0.6558326724999999,0.028059268015182656
+Germany,2022,Fishery research,0.0996327857,0.004262707782457359
+Germany,2022,Fishery services,0.029795719800000002,0.0012747856619989982
+Germany,2021,Agricultural policy and administrative management,274.4914967797,14.592645436234339
+Germany,2021,Agricultural development,255.04924524640012,13.559047359659928
+Germany,2021,Rural development,240.99598873719987,12.811941559046371
+Germany,2021,Forestry policy and administrative management,214.83390058150007,11.421100382519741
+Germany,2021,Disaster Risk Reduction,207.6786986256001,11.040712186921471
+Germany,2021,Household food security programmes,119.1820440716,6.336011613861893
+Germany,2021,Research/scientific institutions,75.9476544926,4.037564757838808
+Germany,2021,Forestry development,73.19810463869999,3.891391901491952
+Germany,2021,Agricultural financial services,56.91313144550001,3.025642533897979
+Germany,2021,Agricultural research,54.6411777505,2.9048598681045616
+Germany,2021,Industrial crops/export crops,53.105777790599994,2.823234216743815
+Germany,2021,Agricultural water resources,52.74647909989999,2.8041330115676986
+Germany,2021,Agricultural land resources,45.34871497470001,2.4108496123862007
+Germany,2021,Multisector education/training,26.725711284599996,1.420804773126863
+Germany,2021,Fishery development,16.459407905,0.8750227473923722
+Germany,2021,Agricultural education/training,14.9362976684,0.7940504480542948
+Germany,2021,Agricultural extension,14.786163662699995,0.7860689537682984
+Germany,2021,Food security policy and administrative management,14.7387296813,0.7835472462461359
+Germany,2021,Food crop production,14.004631048800002,0.7445207511270739
+Germany,2021,Fishery education/training,7.0530932986999995,0.3749598473690177
+Germany,2021,Agricultural co-operatives,6.4607762948000005,0.34347081355496717
+Germany,2021,Fishing policy and administrative management,6.4347091391,0.34208501922208656
+Germany,2021,Agricultural inputs,5.829461855300001,0.3099085798155655
+Germany,2021,Agricultural alternative development,5.763227647000003,0.3063874058309037
+Germany,2021,Agrarian reform,5.385068608900001,0.286283538038126
+Germany,2021,Livestock,4.614029754999999,0.2452932095779574
+Germany,2021,Agricultural services,3.7357599772999994,0.19860222055390586
+Germany,2021,Food safety and quality,3.3530438053,0.17825608427562575
+Germany,2021,Fuelwood/charcoal,2.3956663806000003,0.12735953749292253
+Germany,2021,Non-agricultural alternative development,1.2583701614000002,0.06689806354032461
+Germany,2021,Forestry research,1.1232105325999997,0.059712644088317314
+Germany,2021,Plant and post-harvest protection and pest control,0.6800874684,0.036155128331543177
+Germany,2021,Forestry education/training,0.4695815497000001,0.024964114147656633
+Germany,2021,Fishery services,0.4247928703,0.022583037408635005
+Germany,2021,Livestock/veterinary services,0.1694283138,0.009007227324519787
+Germany,2021,Fishery research,0.09262492160000001,0.004924169438125065
+Germany,2021,Forestry services,0.0,0.0
+Germany,2020,Agricultural development,420.4903685795002,24.3546046416235
+Germany,2020,Rural development,231.07887615260012,13.38397996781519
+Germany,2020,Agricultural financial services,197.09799782399998,11.41582345601699
+Germany,2020,Forestry policy and administrative management,182.38224838399998,10.563494160515821
+Germany,2020,Agricultural policy and administrative management,108.02674213779999,6.256858163901813
+Germany,2020,Disaster Risk Reduction,79.40107001920003,4.598872680418768
+Germany,2020,Research/scientific institutions,73.39006283660002,4.250717967803741
+Germany,2020,Agricultural water resources,61.504929732700006,3.5623366409343475
+Germany,2020,Agricultural research,59.13327766600001,3.4249716672083275
+Germany,2020,Forestry development,56.306760454899965,3.2612611179711677
+Germany,2020,Agricultural land resources,41.119221403199994,2.3816059897623565
+Germany,2020,Household food security programmes,34.53355296790001,2.000167167312311
+Germany,2020,Multisector education/training,33.978903096899984,1.968042107305903
+Germany,2020,Industrial crops/export crops,28.325822764499996,1.6406183497343687
+Germany,2020,Fishery development,22.314023084399995,1.2924177360363833
+Germany,2020,Agricultural extension,13.395403787899998,0.7758554955047194
+Germany,2020,Agricultural education/training,12.054648865699997,0.6981996001704176
+Germany,2020,Agricultural co-operatives,12.0263812997,0.6965623560251198
+Germany,2020,Food crop production,11.9552970067,0.6924451871632199
+Germany,2020,Agricultural inputs,10.298450357500002,0.5964814074709973
+Germany,2020,Agricultural alternative development,7.758964809900001,0.44939559736350276
+Germany,2020,Fishing policy and administrative management,7.450755427,0.4315442546734761
+Germany,2020,Livestock,4.3706718089,0.2531472582443316
+Germany,2020,Agrarian reform,3.8705741865000007,0.22418183885336365
+Germany,2020,Fuelwood/charcoal,3.5002515822999998,0.20273292756054234
+Germany,2020,Agricultural services,3.4268269622000007,0.19848020805227426
+Germany,2020,Food security policy and administrative management,3.0924509515000005,0.17911330657067207
+Germany,2020,Food safety and quality,1.6049746817999997,0.09295937970494604
+Germany,2020,Forestry research,1.2370722010000001,0.0716506408227083
+Germany,2020,Fishery services,0.636446544,0.036862684886246194
+Germany,2020,Plant and post-harvest protection and pest control,0.4622632452,0.026774070034546623
+Germany,2020,Forestry education/training,0.2286502856,0.013243317143730135
+Germany,2020,Non-agricultural alternative development,0.07023823359999999,0.004068165498850362
+Germany,2020,Fishery research,0.0091590849,0.000530489895338446
+Germany,2019,Agricultural development,275.6219228653998,21.351776108286817
+Germany,2019,Rural development,209.0175843468001,16.192096104950583
+Germany,2019,Disaster Risk Reduction,110.65191688749997,8.5719413418665
+Germany,2019,Agricultural policy and administrative management,92.10980806289997,7.135528185458438
+Germany,2019,Forestry policy and administrative management,86.4295641955,6.69549317650009
+Germany,2019,Research/scientific institutions,77.1795049549,5.978913044410477
+Germany,2019,Agricultural water resources,76.16685164940002,5.900465196613874
+Germany,2019,Agricultural land resources,49.97515141469999,3.8714563518429044
+Germany,2019,Forestry development,43.93997032559999,3.403925198849826
+Germany,2019,Agricultural research,41.49428478210001,3.214463745228131
+Germany,2019,Agricultural financial services,39.0884416405,3.028088787905934
+Germany,2019,Multisector education/training,32.44951846629999,2.51378716870977
+Germany,2019,Industrial crops/export crops,32.44168093930001,2.5131800140973697
+Germany,2019,Fishery development,17.291094133099993,1.339500017847128
+Germany,2019,Agricultural extension,12.8481651349,0.9953168547360121
+Germany,2019,Fishing policy and administrative management,12.8148627503,0.9927369980524109
+Germany,2019,Agricultural co-operatives,12.3886204294,0.9597170172427647
+Germany,2019,Food crop production,11.580775805399998,0.8971352118384293
+Germany,2019,Agricultural education/training,11.455705489600001,0.8874463113584106
+Germany,2019,Agricultural alternative development,11.439826025900004,0.8862161669993656
+Germany,2019,Household food security programmes,6.935128132899999,0.5372479142316833
+Germany,2019,Agricultural inputs,4.8485478014,0.3756054889595108
+Germany,2019,Forestry education/training,3.1554364666,0.2444441728667174
+Germany,2019,Agrarian reform,3.1390334079999986,0.24317346685364974
+Germany,2019,Food security policy and administrative management,2.7327849792,0.2117023654045938
+Germany,2019,Livestock,2.7232258197000005,0.21096184000913362
+Germany,2019,Agricultural services,2.3543428282,0.1823853502916975
+Germany,2019,Forestry research,1.9746917086000002,0.15297467925114205
+Germany,2019,Food safety and quality,1.6372867178000001,0.12683671552719564
+Germany,2019,Plant and post-harvest protection and pest control,1.4132088695000002,0.10947793652301335
+Germany,2019,Non-agricultural alternative development,1.4018089296,0.10859481023950796
+Germany,2019,Fuelwood/charcoal,1.3306732609,0.10308409884323992
+Germany,2019,Fishery services,0.3208226638,0.024853370213468257
+Germany,2019,Livestock/veterinary services,0.3115608275,0.024135877740542662
+Germany,2019,Fishery research,0.198004134,0.015338910249704052

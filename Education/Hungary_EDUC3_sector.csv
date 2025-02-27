@@ -1,46 +1,44 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Education policy and administrative management",0.029319,"0%","Hungary"
-2019,"Education policy and administrative management",0.311866,"0%","Hungary"
-2020,"Education policy and administrative management",0.089706,"0%","Hungary"
-2021,"Education policy and administrative management",0.010979,"0%","Hungary"
-2022,"Education policy and administrative management",0.897551,"1%","Hungary"
-2018,"Education facilities and training",4.880474,"7%","Hungary"
-2019,"Education facilities and training",6.467031,"6%","Hungary"
-2020,"Education facilities and training",12.555602,"10%","Hungary"
-2021,"Education facilities and training",5.966616,"5%","Hungary"
-2022,"Education facilities and training",1.568041,"1%","Hungary"
-2018,"Teacher training",0.165861,"0%","Hungary"
-2019,"Teacher training",0.057828,"0%","Hungary"
-2020,"Teacher training",0.086608,"0%","Hungary"
-2022,"Teacher training",0.022071,"0%","Hungary"
-2018,"Educational research",0.0215,"0%","Hungary"
-2022,"Educational research",0.420979,"0%","Hungary"
-2018,"Primary education",1.05589,"2%","Hungary"
-2019,"Primary education",0.233164,"0%","Hungary"
-2020,"Primary education",0.295896,"0%","Hungary"
-2021,"Primary education",0.62892,"0%","Hungary"
-2018,"Basic life skills for adults",0.058709,"0%","Hungary"
-2019,"Basic life skills for adults",0.011576,"0%","Hungary"
-2021,"Basic life skills for adults",0.012865,"0%","Hungary"
-2018,"Basic life skills for youth",0.002136,"0%","Hungary"
-2019,"Basic life skills for youth",0.158111,"0%","Hungary"
-2021,"Basic life skills for youth",0.006775,"0%","Hungary"
-2022,"Basic life skills for youth",0.014049,"0%","Hungary"
-2018,"Early childhood education",0.018499,"0%","Hungary"
-2019,"Early childhood education",0.080585,"0%","Hungary"
-2020,"Early childhood education",0.054848,"0%","Hungary"
-2021,"Early childhood education",6.643856,"5%","Hungary"
-2021,"Upper Secondary Education (modified and includes data from 11322)",0.021441,"0%","Hungary"
-2019,"Vocational training",1.261487,"1%","Hungary"
-2020,"Vocational training",0.119114,"0%","Hungary"
-2021,"Vocational training",0.234286,"0%","Hungary"
-2022,"Vocational training",0.024171,"0%","Hungary"
-2018,"Higher education",60.046223,"90%","Hungary"
-2019,"Higher education",101.423527,"92%","Hungary"
-2020,"Higher education",110.523001,"89%","Hungary"
-2021,"Higher education",114.087833,"89%","Hungary"
-2022,"Higher education",151.225943,"98%","Hungary"
-2018,"Advanced technical and managerial training",0.175308,"0%","Hungary"
-2019,"Advanced technical and managerial training",0.015708,"0%","Hungary"
-2021,"Advanced technical and managerial training",0.025488,"0%","Hungary"
-2022,"Advanced technical and managerial training",0.06365,"0%","Hungary"
+donor,year,Sector,Bilateral ODA for,share
+Hungary,2023,Higher education,105.87962469240003,99.14984534438818
+Hungary,2023,Education facilities and training,0.5271259733999999,0.49362149602870264
+Hungary,2023,Teacher training,0.19815452279999998,0.18555968957190014
+Hungary,2023,Primary education,0.1089848682,0.10205771750987483
+Hungary,2023,Advanced technical and managerial training,0.033968937600000006,0.03180984933917061
+Hungary,2023,Early childhood education,0.022363122599999997,0.020941707657627807
+Hungary,2023,Education policy and administrative management,0.009398025,0.008800680281969103
+Hungary,2023,School feeding,0.007863312600000002,0.007363515222589769
+Hungary,2022,Higher education,166.90949325179997,98.04811998278437
+Hungary,2022,Education facilities and training,1.7306603262000002,1.016646734746901
+Hungary,2022,Education policy and administrative management,0.9906365664,0.5819324654900854
+Hungary,2022,Educational research,0.464638356,0.2729438355490327
+Hungary,2022,Advanced technical and managerial training,0.0702518778,0.04126826107583323
+Hungary,2022,Vocational training,0.0266772636,0.015671101093807666
+Hungary,2022,Teacher training,0.024358487399999997,0.014308975772824023
+Hungary,2022,Basic life skills for youth,0.0155058462,0.009108643487154112
+Hungary,2021,Higher education,126.83681468639983,89.38316715394396
+Hungary,2021,Early childhood education,7.386286751999999,5.205189873565701
+Hungary,2021,Education facilities and training,6.6333671118,4.674599900773678
+Hungary,2021,Primary education,0.699201126,0.4927340005660446
+Hungary,2021,Vocational training,0.2604667104,0.1835534861962871
+Hungary,2021,Advanced technical and managerial training,0.028336089600000003,0.019968724691392863
+Hungary,2021,Upper Secondary Education (modified and includes data from 11322),0.0238369716,0.016798151406076527
+Hungary,2021,Basic life skills for adults,0.0143017056,0.010078554443297342
+Hungary,2021,Education policy and administrative management,0.0122060952,0.008601756913054506
+Hungary,2021,Basic life skills for youth,0.007532740800000001,0.005308397500508413
+Hungary,2020,Higher education,123.03819503819993,89.3297265217208
+Hungary,2020,Education facilities and training,13.9773466404,10.148007718242061
+Hungary,2020,Primary education,0.32939868780000003,0.2391541479347289
+Hungary,2020,Vocational training,0.13260225420000002,0.09627354416384327
+Hungary,2020,Education policy and administrative management,0.09986490540000001,0.07250516545475838
+Hungary,2020,Teacher training,0.0964171728,0.07000199958677406
+Hungary,2020,Early childhood education,0.061059117600000004,0.04433090289704065
+Hungary,2019,Higher education,112.90488407640002,92.18570398450605
+Hungary,2019,Education facilities and training,7.199112702600002,5.87800322352664
+Hungary,2019,Vocational training,1.4042904876,1.146589080332006
+Hungary,2019,Education policy and administrative management,0.3471696072,0.2834604977770497
+Hungary,2019,Primary education,0.25955853300000004,0.21192693553982506
+Hungary,2019,Basic life skills for youth,0.1760097924,0.1437102278904188
+Hungary,2019,Early childhood education,0.089707878,0.07324558148246464
+Hungary,2019,Teacher training,0.0643743828,0.05256103706700955
+Hungary,2019,Advanced technical and managerial training,0.0174868902,0.014277870233637812
+Hungary,2019,Basic life skills for adults,0.012886333199999999,0.01052156164490692

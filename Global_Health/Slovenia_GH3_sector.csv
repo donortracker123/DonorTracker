@@ -1,26 +1,27 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Health policy and administrative management",0.026659,"13%","Slovenia"
-2022,"Health policy and administrative management",0.229137,"4%","Slovenia"
-2018,"Medical education/training",0.025853,"12%","Slovenia"
-2019,"Medical education/training",0.109189,"52%","Slovenia"
-2020,"Medical education/training",0.0851,"10%","Slovenia"
-2018,"Medical services",0.087831,"42%","Slovenia"
-2019,"Medical services",0.027664,"13%","Slovenia"
-2020,"Medical services",0.000654,"0%","Slovenia"
-2021,"Medical services",0.003702,"0%","Slovenia"
-2022,"Medical services",0.027728,"1%","Slovenia"
-2018,"Basic health care",0.037695,"18%","Slovenia"
-2019,"Basic health care",0.043005,"20%","Slovenia"
-2020,"Basic health care",0.04247,"5%","Slovenia"
-2021,"Basic health care",0.034295,"0%","Slovenia"
-2022,"Basic health care",0.306884,"6%","Slovenia"
-2020,"Basic health infrastructure",0.072805,"8%","Slovenia"
-2018,"Reproductive health care",0.031412,"15%","Slovenia"
-2019,"Reproductive health care",0.030718,"15%","Slovenia"
-2021,"Reproductive health care",0.094607,"1%","Slovenia"
-2022,"Reproductive health care",0.055455,"1%","Slovenia"
-2021,"Promotion of mental health and well-being",0.081764,"1%","Slovenia"
-2022,"Promotion of mental health and well-being",0.285039,"5%","Slovenia"
-2020,"COVID-19 control",0.687032,"77%","Slovenia"
-2021,"COVID-19 control",12.685688,"98%","Slovenia"
-2022,"COVID-19 control",4.294433,"83%","Slovenia"
+donor,year,Sector,Bilateral ODA for,share
+Slovenia,2023,Promotion of mental health and well-being,0.4139021051,32.49963901714052
+Slovenia,2023,COVID-19 control,0.35200073860000003,27.639136881178533
+Slovenia,2023,Basic health infrastructure,0.216253918,16.98028153141255
+Slovenia,2023,Basic health care,0.21084813069999997,16.55581851542717
+Slovenia,2023,Medical services,0.0540634795,4.245070382853138
+Slovenia,2023,Health policy and administrative management,0.0264907125,2.0800536719880824
+Slovenia,2022,COVID-19 control,4.565832683,82.60625240906415
+Slovenia,2022,Basic health care,0.32627923789999996,5.9031302619033115
+Slovenia,2022,Promotion of mental health and well-being,0.3030537509999999,5.482928610553221
+Slovenia,2022,Health policy and administrative management,0.24361812319999998,4.407603513683483
+Slovenia,2022,Reproductive health care,0.058960196599999994,1.066723469863875
+Slovenia,2022,Medical services,0.029480098299999997,0.5333617349319375
+Slovenia,2021,COVID-19 control,13.469302286000003,98.33823541932321
+Slovenia,2021,Reproductive health care,0.1004516605,0.7333890671366382
+Slovenia,2021,Promotion of mental health and well-being,0.0868155312,0.6338328418148917
+Slovenia,2021,Basic health care,0.0364130962,0.265848931921585
+Slovenia,2021,Medical services,0.0039301564999999995,0.02869373980369388
+Slovenia,2020,COVID-19 control,0.7299651787,77.36302208236383
+Slovenia,2020,Medical education/training,0.0904193894,9.58280945850555
+Slovenia,2020,Basic health infrastructure,0.0773551231,8.198235027083042
+Slovenia,2020,Basic health care,0.0451233546,4.782254250219255
+Slovenia,2020,Medical services,0.000695206,0.07367918182833702
+Slovenia,2019,Medical education/training,0.11585720119999998,51.852558151205685
+Slovenia,2019,Basic health care,0.0456313035,20.42255288184077
+Slovenia,2019,Reproductive health care,0.032593948399999996,14.58760946478308
+Slovenia,2019,Medical services,0.029353391399999998,13.137279502170479

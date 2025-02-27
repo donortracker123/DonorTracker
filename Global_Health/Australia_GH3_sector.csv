@@ -1,98 +1,103 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Health policy and administrative management",68.408872,"21%","Australia"
-2019,"Health policy and administrative management",42.200245,"17%","Australia"
-2020,"Health policy and administrative management",58.727191,"14%","Australia"
-2021,"Health policy and administrative management",98.502444,"13%","Australia"
-2022,"Health policy and administrative management",113.201929,"24%","Australia"
-2018,"Medical education/training",0.379892,"0%","Australia"
-2019,"Medical education/training",0.671342,"0%","Australia"
-2020,"Medical education/training",0.32785,"0%","Australia"
-2021,"Medical education/training",1.27254,"0%","Australia"
-2022,"Medical education/training",1.940913,"0%","Australia"
-2018,"Medical research",0.482364,"0%","Australia"
-2019,"Medical research",1.610139,"1%","Australia"
-2020,"Medical research",6.232679,"1%","Australia"
-2021,"Medical research",0.287787,"0%","Australia"
-2022,"Medical research",0.341512,"0%","Australia"
-2018,"Medical services",4.68055,"1%","Australia"
-2019,"Medical services",7.125384,"3%","Australia"
-2020,"Medical services",3.282547,"1%","Australia"
-2021,"Medical services",8.203809,"1%","Australia"
-2022,"Medical services",2.781133,"1%","Australia"
-2018,"Basic health care",43.952403,"13%","Australia"
-2019,"Basic health care",24.721704,"10%","Australia"
-2020,"Basic health care",27.906943,"7%","Australia"
-2021,"Basic health care",35.005405,"5%","Australia"
-2022,"Basic health care",26.361301,"5%","Australia"
-2018,"Basic health infrastructure",18.220563,"6%","Australia"
-2019,"Basic health infrastructure",55.98085,"23%","Australia"
-2020,"Basic health infrastructure",37.189125,"9%","Australia"
-2021,"Basic health infrastructure",36.974148,"5%","Australia"
-2022,"Basic health infrastructure",39.949264,"8%","Australia"
-2018,"Basic nutrition",12.114772,"4%","Australia"
-2019,"Basic nutrition",4.583196,"2%","Australia"
-2020,"Basic nutrition",3.727392,"1%","Australia"
-2021,"Basic nutrition",3.391419,"0%","Australia"
-2022,"Basic nutrition",4.460017,"1%","Australia"
-2018,"Infectious disease control",61.675424,"19%","Australia"
-2019,"Infectious disease control",33.130848,"14%","Australia"
-2020,"Infectious disease control",36.262968,"9%","Australia"
-2021,"Infectious disease control",56.534819,"7%","Australia"
-2022,"Infectious disease control",55.077319,"11%","Australia"
-2018,"Health education",3.44818,"1%","Australia"
-2019,"Health education",4.103918,"2%","Australia"
-2020,"Health education",0.857034,"0%","Australia"
-2021,"Health education",9.280939,"1%","Australia"
-2022,"Health education",10.559309,"2%","Australia"
-2018,"Malaria control",28.234782,"9%","Australia"
-2019,"Malaria control",16.863268,"7%","Australia"
-2020,"Malaria control",13.676078,"3%","Australia"
-2021,"Malaria control",33.765844,"4%","Australia"
-2022,"Malaria control",34.442221,"7%","Australia"
-2018,"Tuberculosis control",26.066059,"8%","Australia"
-2019,"Tuberculosis control",20.043944,"8%","Australia"
-2020,"Tuberculosis control",12.944642,"3%","Australia"
-2021,"Tuberculosis control",28.708748,"4%","Australia"
-2022,"Tuberculosis control",33.0408,"7%","Australia"
-2018,"Health personnel development",2.049568,"1%","Australia"
-2019,"Health personnel development",2.091842,"1%","Australia"
-2020,"Health personnel development",1.35611,"0%","Australia"
-2021,"Health personnel development",1.257929,"0%","Australia"
-2022,"Health personnel development",1.659393,"0%","Australia"
-2018,"Population policy and administrative management",0.63967,"0%","Australia"
-2019,"Population policy and administrative management",3.264551,"1%","Australia"
-2020,"Population policy and administrative management",2.275784,"1%","Australia"
-2021,"Population policy and administrative management",0.586576,"0%","Australia"
-2022,"Population policy and administrative management",1.29372,"0%","Australia"
-2018,"Reproductive health care",17.549111,"5%","Australia"
-2019,"Reproductive health care",10.265963,"4%","Australia"
-2020,"Reproductive health care",9.066509,"2%","Australia"
-2021,"Reproductive health care",28.112726,"4%","Australia"
-2022,"Reproductive health care",7.257577,"2%","Australia"
-2018,"Family planning",6.725794,"2%","Australia"
-2019,"Family planning",9.021235,"4%","Australia"
-2020,"Family planning",8.965493,"2%","Australia"
-2021,"Family planning",24.515641,"3%","Australia"
-2022,"Family planning",11.036635,"2%","Australia"
-2018,"STD control including HIV/AIDS",34.435155,"10%","Australia"
-2019,"STD control including HIV/AIDS",7.250876,"3%","Australia"
-2020,"STD control including HIV/AIDS",4.014129,"1%","Australia"
-2021,"STD control including HIV/AIDS",38.152951,"5%","Australia"
-2022,"STD control including HIV/AIDS",31.836992,"7%","Australia"
-2018,"Personnel development for population and reproductive health",0.000039,"0%","Australia"
-2019,"Personnel development for population and reproductive health",1.667015,"1%","Australia"
-2020,"Personnel development for population and reproductive health",1.518116,"0%","Australia"
-2021,"Personnel development for population and reproductive health",1.819599,"0%","Australia"
-2022,"Personnel development for population and reproductive health",1.282741,"0%","Australia"
-2020,"NCDs control, general",0.103461,"0%","Australia"
-2021,"NCDs control, general",2.04369,"0%","Australia"
-2022,"NCDs control, general",1.775357,"0%","Australia"
-2021,"Control of harmful use of alcohol and drugs",0.112655,"0%","Australia"
-2022,"Control of harmful use of alcohol and drugs",0.052733,"0%","Australia"
-2021,"Promotion of mental health and well-being",0.350994,"0%","Australia"
-2022,"Promotion of mental health and well-being",0.602132,"0%","Australia"
-2021,"Other prevention and treatment of NCDs",0.291871,"0%","Australia"
-2022,"Other prevention and treatment of NCDs",1.630774,"0%","Australia"
-2020,"COVID-19 control",192.108069,"46%","Australia"
-2021,"COVID-19 control",359.643967,"47%","Australia"
-2022,"COVID-19 control",100.668903,"21%","Australia"
+donor,year,Sector,Bilateral ODA for,share
+Australia,2023,COVID-19 control,88.92528318840004,24.917731792007682
+Australia,2023,Health policy and administrative management,73.18970542679997,20.50846940680812
+Australia,2023,Infectious disease control,59.340201728399975,16.62770337227087
+Australia,2023,Medical services,24.0186036732,6.730247044356882
+Australia,2023,Medical research,16.7157791808,4.683924384464975
+Australia,2023,Basic health care,16.5322645728,4.632501801166911
+Australia,2023,Basic health infrastructure,14.565877562400003,4.081500979267628
+Australia,2023,Health education,12.794939762399995,3.5852669326777753
+Australia,2023,Family planning,12.651988512000003,3.5452105978640587
+Australia,2023,Reproductive health care,8.768972434800002,2.4571516152377897
+Australia,2023,Tuberculosis control,6.4794431136,1.8156031656845697
+Australia,2023,Basic nutrition,4.813355350799999,1.3487491223025407
+Australia,2023,Malaria control,4.348842682799999,1.2185881415307214
+Australia,2023,"NCDs control, general",3.9837139127999985,1.1162754984421415
+Australia,2023,STD control including HIV/AIDS,2.9016753828,0.8130777473364661
+Australia,2023,Health personnel development,2.4433900247999993,0.6846617195724087
+Australia,2023,Promotion of mental health and well-being,1.6880346887999995,0.47300378613368715
+Australia,2023,Tobacco use control,1.3463573232,0.37726245532023484
+Australia,2023,Medical education/training,0.7440211355999999,0.2084819799245144
+Australia,2023,Personnel development for population and reproductive health,0.38553052919999997,0.10802941503018483
+Australia,2023,Population policy and administrative management,0.154154454,0.04319558174672704
+Australia,2023,Other prevention and treatment of NCDs,0.08337847079999999,0.023363460853090195
+Australia,2022,Health policy and administrative management,110.81893318679987,23.522347771965357
+Australia,2022,COVID-19 control,98.54973816479992,20.91809718147217
+Australia,2022,Infectious disease control,53.917896836400004,11.444574352479162
+Australia,2022,Basic health infrastructure,39.1082967504,8.301099193776638
+Australia,2022,Malaria control,33.71718497519999,7.156785650891015
+Australia,2022,Tuberculosis control,32.345265412799996,6.865582982412528
+Australia,2022,STD control including HIV/AIDS,31.166799344399998,6.615442614686381
+Australia,2022,Basic health care,25.806372577199987,5.477642249728078
+Australia,2022,Family planning,10.804297503599997,2.29331248734425
+Australia,2022,Health education,10.337027948399998,2.1941301846041696
+Australia,2022,Reproductive health care,7.1047861104000045,1.5080568358527071
+Australia,2022,Basic nutrition,4.3661292984,0.9267514929169626
+Australia,2022,Medical services,2.722585886400001,0.5778941397224501
+Australia,2022,Medical education/training,1.9000669031999993,0.4033068465993438
+Australia,2022,"NCDs control, general",1.7380010363999998,0.368906861224925
+Australia,2022,Health personnel development,1.6244615448000002,0.34480704966325365
+Australia,2022,Other prevention and treatment of NCDs,1.5964421232,0.33885966720529803
+Australia,2022,Population policy and administrative management,1.2664850016000002,0.26882320375162944
+Australia,2022,Personnel development for population and reproductive health,1.2557323476,0.2665408530775503
+Australia,2022,Promotion of mental health and well-being,0.5894568203999999,0.1251176845623821
+Australia,2022,Medical research,0.3343236816,0.0709633063670003
+Australia,2022,Control of harmful use of alcohol and drugs,0.051622663199999995,0.010957389696746124
+Australia,2021,COVID-19 control,355.73597889479987,46.77890772705108
+Australia,2021,Health policy and administrative management,97.4320943076,12.812218104642168
+Australia,2021,Infectious disease control,55.92050346959998,7.3534874936792525
+Australia,2021,STD control including HIV/AIDS,37.73836893479999,4.962555892308215
+Australia,2021,Basic health infrastructure,36.572375349600016,4.809228960065207
+Australia,2021,Basic health care,34.625030510399995,4.553155158284741
+Australia,2021,Malaria control,33.398930234400005,4.391924259309305
+Australia,2021,Tuberculosis control,28.3967906316,3.7341481534338636
+Australia,2021,Reproductive health care,27.807244495200013,3.656623455479008
+Australia,2021,Family planning,24.249248349600006,3.1887506979768876
+Australia,2021,Health education,9.180095967599998,1.2071729812879815
+Australia,2021,Medical services,8.114666244,1.0670700912604292
+Australia,2021,Basic nutrition,3.3545660543999993,0.4411219140965257
+Australia,2021,"NCDs control, general",2.0214810888,0.2658226407650448
+Australia,2021,Personnel development for population and reproductive health,1.7998255715999998,0.2366751729758592
+Australia,2021,Medical education/training,1.2587095475999996,0.16551898395340892
+Australia,2021,Health personnel development,1.2442641732,0.1636194323864303
+Australia,2021,Population policy and administrative management,0.5802026904,0.07629604461581532
+Australia,2021,Promotion of mental health and well-being,0.3471802236,0.04565383488872277
+Australia,2021,Other prevention and treatment of NCDs,0.2886980916,0.03796349593282468
+Australia,2021,Medical research,0.28466001599999996,0.03743249323111842
+Australia,2021,Control of harmful use of alcohol and drugs,0.11143064159999999,0.014653012376108289
+Australia,2020,COVID-19 control,190.2065606724,45.68104906876903
+Australia,2020,Health policy and administrative management,58.14590489519997,13.964638891927722
+Australia,2020,Basic health infrastructure,36.8210241468,8.843138769063346
+Australia,2020,Infectious disease control,35.90404952399999,8.622913122845553
+Australia,2020,Basic health care,27.630722337599988,6.635945565954337
+Australia,2020,Malaria control,13.540712483999998,3.252011651023207
+Australia,2020,Tuberculosis control,12.816513546,3.078084068791661
+Australia,2020,Reproductive health care,8.9767720632,2.1559107301481073
+Australia,2020,Family planning,8.876755014,2.131890087978525
+Australia,2020,Medical research,6.170987330399999,1.4820581059150562
+Australia,2020,STD control including HIV/AIDS,3.9743952768,0.9545125310944609
+Australia,2020,Basic nutrition,3.6904964315999993,0.8863298299704719
+Australia,2020,Medical services,3.250056410399999,0.780551342892206
+Australia,2020,Population policy and administrative management,2.2532541239999997,0.5411538478955632
+Australia,2020,Personnel development for population and reproductive health,1.5030930096,0.36099104722639924
+Australia,2020,Health personnel development,1.3426884203999998,0.32246740280426334
+Australia,2020,Health education,0.8485536047999999,0.20379327990222332
+Australia,2020,Medical education/training,0.3246051084,0.07795894017732037
+Australia,2020,"NCDs control, general",0.1024365204,0.024601715620555704
+Australia,2019,Basic health infrastructure,55.380833372400005,22.887037273109872
+Australia,2019,Health policy and administrative management,41.74793387520002,17.253018065871366
+Australia,2019,Infectious disease control,32.775745707599995,13.545114220647628
+Australia,2019,Basic health care,24.456736364399998,10.107147232450309
+Australia,2019,Tuberculosis control,19.829107681199996,8.194703816398462
+Australia,2019,Malaria control,16.6825248492,6.894326877780526
+Australia,2019,Reproductive health care,10.155930826799997,4.197104904743763
+Australia,2019,Family planning,8.924543043599998,3.6882137166635935
+Australia,2019,STD control including HIV/AIDS,7.1731604855999995,2.9644261633979716
+Australia,2019,Medical services,7.049012237999998,2.9131198648613275
+Australia,2019,Basic nutrition,4.5340711655999995,1.8737792381747767
+Australia,2019,Health education,4.059922293599999,1.6778294438931465
+Australia,2019,Population policy and administrative management,3.2295583884,1.3346679475544383
+Australia,2019,Health personnel development,2.0694179783999997,0.8552209044381872
+Australia,2019,Personnel development for population and reproductive health,1.6491474948,0.6815372374145926
+Australia,2019,Medical research,1.5928803995999998,0.6582839379123533
+Australia,2019,Medical education/training,0.6641458367999998,0.27446915468768823

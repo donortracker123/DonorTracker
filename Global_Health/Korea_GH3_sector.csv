@@ -1,92 +1,96 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Health policy and administrative management",21.161164,"10%","Korea"
-2019,"Health policy and administrative management",21.057647,"11%","Korea"
-2020,"Health policy and administrative management",13.654121,"2%","Korea"
-2021,"Health policy and administrative management",21.689333,"3%","Korea"
-2022,"Health policy and administrative management",28.944999,"6%","Korea"
-2018,"Medical education/training",6.787528,"3%","Korea"
-2019,"Medical education/training",7.23492,"4%","Korea"
-2020,"Medical education/training",6.221643,"1%","Korea"
-2021,"Medical education/training",9.807871,"2%","Korea"
-2022,"Medical education/training",9.828777,"2%","Korea"
-2018,"Medical research",5.575599,"3%","Korea"
-2019,"Medical research",4.548033,"2%","Korea"
-2020,"Medical research",4.478008,"1%","Korea"
-2021,"Medical research",0.20785,"0%","Korea"
-2022,"Medical research",0.061484,"0%","Korea"
-2018,"Medical services",60.280811,"30%","Korea"
-2019,"Medical services",73.086989,"37%","Korea"
-2020,"Medical services",74.68836,"11%","Korea"
-2021,"Medical services",125.994456,"19%","Korea"
-2022,"Medical services",92.216827,"20%","Korea"
-2018,"Basic health care",19.443894,"10%","Korea"
-2019,"Basic health care",18.702124,"9%","Korea"
-2020,"Basic health care",10.376768,"2%","Korea"
-2021,"Basic health care",9.422034,"1%","Korea"
-2022,"Basic health care",27.049739,"6%","Korea"
-2018,"Basic health infrastructure",36.723715,"18%","Korea"
-2019,"Basic health infrastructure",34.716666,"17%","Korea"
-2020,"Basic health infrastructure",23.977492,"4%","Korea"
-2021,"Basic health infrastructure",17.587792,"3%","Korea"
-2022,"Basic health infrastructure",42.02927,"9%","Korea"
-2018,"Basic nutrition",7.503852,"4%","Korea"
-2019,"Basic nutrition",4.205594,"2%","Korea"
-2020,"Basic nutrition",4.374593,"1%","Korea"
-2021,"Basic nutrition",4.514018,"1%","Korea"
-2022,"Basic nutrition",4.208006,"1%","Korea"
-2018,"Infectious disease control",17.261711,"9%","Korea"
-2019,"Infectious disease control",15.359,"8%","Korea"
-2020,"Infectious disease control",23.478228,"4%","Korea"
-2021,"Infectious disease control",117.275699,"18%","Korea"
-2022,"Infectious disease control",17.315858,"4%","Korea"
-2018,"Health education",4.722231,"2%","Korea"
-2019,"Health education",5.092939,"3%","Korea"
-2020,"Health education",3.186196,"0%","Korea"
-2021,"Health education",1.302798,"0%","Korea"
-2022,"Health education",2.589114,"1%","Korea"
-2018,"Malaria control",0.467123,"0%","Korea"
-2019,"Malaria control",0.272882,"0%","Korea"
-2020,"Malaria control",3.06735,"0%","Korea"
-2021,"Malaria control",0.410675,"0%","Korea"
-2022,"Malaria control",0.957407,"0%","Korea"
-2018,"Tuberculosis control",1.258162,"1%","Korea"
-2019,"Tuberculosis control",2.011664,"1%","Korea"
-2020,"Tuberculosis control",2.140333,"0%","Korea"
-2021,"Tuberculosis control",2.258271,"0%","Korea"
-2022,"Tuberculosis control",4.080361,"1%","Korea"
-2018,"Health personnel development",4.018164,"2%","Korea"
-2019,"Health personnel development",2.110995,"1%","Korea"
-2020,"Health personnel development",1.224501,"0%","Korea"
-2021,"Health personnel development",3.638514,"1%","Korea"
-2022,"Health personnel development",4.15914,"1%","Korea"
-2021,"Population policy and administrative management",0.095897,"0%","Korea"
-2022,"Population policy and administrative management",0.298847,"0%","Korea"
-2018,"Reproductive health care",13.721923,"7%","Korea"
-2019,"Reproductive health care",7.40313,"4%","Korea"
-2020,"Reproductive health care",13.305699,"2%","Korea"
-2021,"Reproductive health care",19.704123,"3%","Korea"
-2022,"Reproductive health care",18.878903,"4%","Korea"
-2018,"Family planning",1.364025,"1%","Korea"
-2019,"Family planning",2.874377,"1%","Korea"
-2020,"Family planning",1.877766,"0%","Korea"
-2021,"Family planning",1.398815,"0%","Korea"
-2022,"Family planning",3.120829,"1%","Korea"
-2018,"STD control including HIV/AIDS",0.842986,"0%","Korea"
-2019,"STD control including HIV/AIDS",0.303453,"0%","Korea"
-2020,"STD control including HIV/AIDS",0.132047,"0%","Korea"
-2022,"STD control including HIV/AIDS",0.006966,"0%","Korea"
-2018,"Personnel development for population and reproductive health",1.523792,"1%","Korea"
-2020,"Personnel development for population and reproductive health",0.800492,"0%","Korea"
-2021,"Personnel development for population and reproductive health",2.648485,"0%","Korea"
-2022,"Personnel development for population and reproductive health",6.80062,"1%","Korea"
-2021,"NCDs control, general",1.500958,"0%","Korea"
-2022,"NCDs control, general",2.116384,"0%","Korea"
-2018,"Tobacco use control",0.22377,"0%","Korea"
-2020,"Tobacco use control",0.168428,"0%","Korea"
-2021,"Other prevention and treatment of NCDs",1.963561,"0%","Korea"
-2022,"Other prevention and treatment of NCDs",2.779566,"1%","Korea"
-2019,"Research for prevention and control of NCDs",0.045481,"0%","Korea"
-2020,"Research for prevention and control of NCDs",0.089561,"0%","Korea"
-2020,"COVID-19 control",476.864848,"72%","Korea"
-2021,"COVID-19 control",305.989953,"47%","Korea"
-2022,"COVID-19 control",191.845284,"42%","Korea"
+donor,year,Sector,Bilateral ODA for,share
+Korea,2023,COVID-19 control,106.188404112,30.89661983614723
+Korea,2023,Medical services,77.979972672,22.68908352684872
+Korea,2023,Infectious disease control,37.17118540800001,10.815342729876615
+Korea,2023,Health policy and administrative management,23.93220513600002,6.963323821570861
+Korea,2023,Basic health care,23.449531391999983,6.822884879127297
+Korea,2023,Basic health infrastructure,21.85894368,6.360086852688578
+Korea,2023,Reproductive health care,18.576924912,5.40514938076798
+Korea,2023,Medical education/training,10.34819856,3.0109159241160044
+Korea,2023,Basic nutrition,5.762667455999999,1.676707990096342
+Korea,2023,Tuberculosis control,3.7139356799999996,1.08060818655712
+Korea,2023,Personnel development for population and reproductive health,2.92848192,0.8520722515411233
+Korea,2023,"NCDs control, general",2.39306256,0.6962864239154889
+Korea,2023,Health personnel development,2.044399392,0.5948392513861733
+Korea,2023,Family planning,2.0085186239999997,0.5843993690129932
+Korea,2023,Other prevention and treatment of NCDs,1.961740368,0.570788749244138
+Korea,2023,Malaria control,1.752882768,0.510019459781195
+Korea,2023,Health education,1.2023595360000001,0.3498390036164063
+Korea,2023,Medical research,0.21769977599999998,0.06334201247051516
+Korea,2023,Promotion of mental health and well-being,0.198275616,0.057690351235230836
+Korea,2023,Population policy and administrative management,0.0,0.0
+Korea,2022,COVID-19 control,174.94799515200003,41.77011298305375
+Korea,2022,Medical services,84.09458232000001,20.07819639040292
+Korea,2022,Basic health infrastructure,38.327429952,9.15095413385088
+Korea,2022,Health policy and administrative management,26.395594847999988,6.302141262596036
+Korea,2022,Basic health care,24.667264944000003,5.889489861250473
+Korea,2022,Reproductive health care,17.216093664000002,4.110468238560404
+Korea,2022,Infectious disease control,15.790717151999996,3.7701491746128424
+Korea,2022,Medical education/training,8.963083584000001,2.1400017396881514
+Korea,2022,Personnel development for population and reproductive health,6.201637343999999,1.4806862594437904
+Korea,2022,Basic nutrition,3.8373763679999997,0.9162016650182114
+Korea,2022,Health personnel development,3.792813696,0.9055620012561345
+Korea,2022,Tuberculosis control,3.72097152,0.8884091564586779
+Korea,2022,Family planning,2.845952928,0.6794920698789935
+Korea,2022,Other prevention and treatment of NCDs,2.534748048,0.6051896293898429
+Korea,2022,Health education,2.3610726719999993,0.563723363534144
+Korea,2022,"NCDs control, general",1.9299772799999997,0.4607961867198633
+Korea,2022,Malaria control,0.873081216,0.20845452389446847
+Korea,2022,Population policy and administrative management,0.272526912,0.06506779283336422
+Korea,2022,Medical research,0.056068992,0.013386881791078144
+Korea,2022,STD control including HIV/AIDS,0.0063524160000000005,0.001516685765989042
+Korea,2021,COVID-19 control,276.82654305599993,47.263623846207814
+Korea,2021,Medical services,113.986125792,19.461274607723528
+Korea,2021,Infectious disease control,106.09834032,18.114563698384263
+Korea,2021,Health policy and administrative management,19.62216143999999,3.350164500526649
+Korea,2021,Reproductive health care,17.826153408,3.0435253787425665
+Korea,2021,Basic health infrastructure,15.911527967999996,2.7166342663385277
+Korea,2021,Medical education/training,8.87310144,1.5149375640780534
+Korea,2021,Basic health care,8.524037088000002,1.455340510815315
+Korea,2021,Basic nutrition,4.083794064,0.6972413280009311
+Korea,2021,Health personnel development,3.2917328639999996,0.5620097775624927
+Korea,2021,Personnel development for population and reproductive health,2.396062368,0.4090886272068825
+Korea,2021,Tuberculosis control,2.0430396,0.3488157388786711
+Korea,2021,Other prevention and treatment of NCDs,1.7764175519999998,0.3032943663734761
+Korea,2021,"NCDs control, general",1.357904016,0.23183999598801452
+Korea,2021,Family planning,1.2654966239999998,0.21606293874530078
+Korea,2021,Health education,1.178631216,0.20123208501416548
+Korea,2021,Malaria control,0.3715346879999999,0.06343349718418405
+Korea,2021,Medical research,0.188040384,0.03210483315349788
+Korea,2021,Population policy and administrative management,0.086757552,0.014812439075671724
+Korea,2021,STD control including HIV/AIDS,,
+Korea,2020,COVID-19 control,432.53203795200045,71.80548666305367
+Korea,2020,Medical services,67.744783008,11.246443467644893
+Korea,2020,Basic health infrastructure,21.748370112,3.6104893117620867
+Korea,2020,Infectious disease control,21.29552208,3.535311127329482
+Korea,2020,Health policy and administrative management,12.384731520000006,2.0560134185564043
+Korea,2020,Reproductive health care,12.068704367999997,2.0035491350884183
+Korea,2020,Basic health care,9.412066944000003,1.5625155783122835
+Korea,2020,Medical education/training,5.643235584,0.9368445384578657
+Korea,2020,Medical research,4.061699712,0.6742906857958822
+Korea,2020,Basic nutrition,3.967898256,0.6587185232581085
+Korea,2020,Health education,2.8899833759999995,0.47977177307925484
+Korea,2020,Malaria control,2.7821878559999997,0.4618764287011908
+Korea,2020,Tuberculosis control,1.94135256,0.3222877223509505
+Korea,2020,Family planning,1.7031944159999999,0.2827506246745296
+Korea,2020,Health personnel development,1.1106627839999998,0.18438329355041294
+Korea,2020,Personnel development for population and reproductive health,0.72607248,0.12053670758334903
+Korea,2020,Tobacco use control,0.152770464,0.025361722491590025
+Korea,2020,STD control including HIV/AIDS,0.11977056,0.01988334410886081
+Korea,2020,Research for prevention and control of NCDs,0.08123471999999998,0.01348593420074981
+Korea,2019,Medical services,66.29229431999998,36.72235146553563
+Korea,2019,Basic health infrastructure,31.489150895999998,17.443289275407274
+Korea,2019,Health policy and administrative management,19.099974095999993,10.580354307096762
+Korea,2019,Basic health care,16.963438464000003,9.396828933571207
+Korea,2019,Infectious disease control,13.931116416000002,7.717086255397614
+Korea,2019,Reproductive health care,6.714881712,3.7196818847038764
+Korea,2019,Medical education/training,6.562314864,3.635168089070246
+Korea,2019,Health education,4.619464415999999,2.558933849053835
+Korea,2019,Medical research,4.1252148,2.2851462498066897
+Korea,2019,Basic nutrition,3.814611696,2.1130889018392778
+Korea,2019,Family planning,2.6071557119999995,1.444223485753733
+Korea,2019,Health personnel development,1.9147413599999998,1.0606633230719915
+Korea,2019,Tuberculosis control,1.824644304,1.0107544190224318
+Korea,2019,STD control including HIV/AIDS,0.275241456,0.15246890439977404
+Korea,2019,Malaria control,0.24751339199999997,0.13710905417718686
+Korea,2019,Research for prevention and control of NCDs,0.0412524,0.022851602092459643

@@ -1,66 +1,45 @@
-"Year","Multi_short","ODA","Share","Full Name","Donor"
-"2018","CGIAR Fund","NA","NA%","cgiar fund","New Zealand"
-"2019","CGIAR Fund","NA","NA%","cgiar fund","New Zealand"
-"2020","CGIAR Fund","NA","NA%","cgiar fund","New Zealand"
-"2021","CGIAR Fund","NA","NA%","cgiar fund","New Zealand"
-"2022","CGIAR Fund","2.3","6%","cgiar fund","New Zealand"
-"2018","IDA","1.9","3.2%","international development association","New Zealand"
-"2019","IDA","1.8","2.9%","international development association","New Zealand"
-"2020","IDA","1.6","3.6%","international development association","New Zealand"
-"2021","IDA","1.5","3.6%","international development association","New Zealand"
-"2022","IDA","1.3","3.2%","international development association","New Zealand"
-"2018","FAO","1.3","2.3%","food and agricultural organisation","New Zealand"
-"2019","FAO","1.3","2.1%","food and agricultural organisation","New Zealand"
-"2020","FAO","1.3","2.9%","food and agricultural organisation","New Zealand"
-"2021","FAO","1.3","3.2%","food and agricultural organisation","New Zealand"
-"2022","FAO","1.2","3.2%","food and agricultural organisation","New Zealand"
-"2018","IBRD","NA","NA%","international bank for reconstruction and development","New Zealand"
-"2019","IBRD","NA","NA%","international bank for reconstruction and development","New Zealand"
-"2020","IBRD","NA","NA%","international bank for reconstruction and development","New Zealand"
-"2021","IBRD","0.5","1.3%","international bank for reconstruction and development","New Zealand"
-"2022","IBRD","0.5","1.4%","international bank for reconstruction and development","New Zealand"
-"2018","ADB","0.3","0.6%","asian development bank","New Zealand"
-"2019","ADB","0.2","0.3%","asian development bank","New Zealand"
-"2020","ADB","0.2","0.5%","asian development bank","New Zealand"
-"2021","ADB","0.2","0.5%","asian development bank","New Zealand"
-"2022","ADB","0.2","0.6%","asian development bank","New Zealand"
-"2018","UNDP","0","0%","united nations development programme","New Zealand"
-"2019","UNDP","0","0%","united nations development programme","New Zealand"
-"2020","UNDP","0","0%","united nations development programme","New Zealand"
-"2021","UNDP","0","0%","united nations development programme","New Zealand"
-"2022","UNDP","0","0.1%","united nations development programme","New Zealand"
-"2018","WHO - assessed contributions","NA","NA%","world health organisation assessed contributions","New Zealand"
-"2019","WHO - assessed contributions","NA","NA%","world health organisation assessed contributions","New Zealand"
-"2020","WHO - assessed contributions","0","0%","world health organisation assessed contributions","New Zealand"
-"2021","WHO - assessed contributions","0","0%","world health organisation assessed contributions","New Zealand"
-"2022","WHO - assessed contributions","0","0%","world health organisation assessed contributions","New Zealand"
-"2018","UNICEF","0","0%","united nations childrenâ€™s fund","New Zealand"
-"2019","UNICEF","0","0%","united nations childrenâ€™s fund","New Zealand"
-"2020","UNICEF","0","0%","united nations childrenâ€™s fund","New Zealand"
-"2021","UNICEF","0","0%","united nations childrenâ€™s fund","New Zealand"
-"2022","UNICEF","0","0%","united nations childrenâ€™s fund","New Zealand"
-"2018","UN","NA","NA%","united nations","New Zealand"
-"2019","UN","NA","NA%","united nations","New Zealand"
-"2020","UN","NA","NA%","united nations","New Zealand"
-"2021","UN","NA","NA%","united nations","New Zealand"
-"2022","UN","0","0%","united nations","New Zealand"
-"2018","GEF Fund","0.3","0.6%","global environment facility trust fund","New Zealand"
-"2019","GEF Fund","0","0.1%","global environment facility trust fund","New Zealand"
-"2020","GEF Fund","0.1","0.1%","global environment facility trust fund","New Zealand"
-"2021","GEF Fund","0.1","0.3%","global environment facility trust fund","New Zealand"
-"2022","GEF Fund","NA","NA%","global environment facility trust fund","New Zealand"
-"2018","WFP","0","0%","world food programme","New Zealand"
-"2019","WFP","0","0%","world food programme","New Zealand"
-"2020","WFP","NA","NA%","world food programme","New Zealand"
-"2021","WFP","NA","NA%","world food programme","New Zealand"
-"2022","WFP","NA","NA%","world food programme","New Zealand"
-"2018","Adaptation Fund","NA","NA%","adaptation fund","New Zealand"
-"2019","Adaptation Fund","1.2","1.9%","adaptation fund","New Zealand"
-"2020","Adaptation Fund","NA","NA%","adaptation fund","New Zealand"
-"2021","Adaptation Fund","NA","NA%","adaptation fund","New Zealand"
-"2022","Adaptation Fund","NA","NA%","adaptation fund","New Zealand"
-"2018","GCF","NA","NA%","green climate fund","New Zealand"
-"2019","GCF","1.6","2.6%","green climate fund","New Zealand"
-"2020","GCF","NA","NA%","green climate fund","New Zealand"
-"2021","GCF","NA","NA%","green climate fund","New Zealand"
-"2022","GCF","NA","NA%","green climate fund","New Zealand"
+Year,ODA,Share,Full Name,donor
+2020,0.04869999999999999,0.015525871138457615,global environment facility trust fund,New Zealand
+2020,0.001,0.00031880638888003325,united nations children’s fund,New Zealand
+2020,0.016300000000000002,0.005196544138744542,united nations development programme,New Zealand
+2020,1.2891000000000001,0.4109733159052509,food and agricultural organisation,New Zealand
+2020,1.5700999999999996,0.50055791118054,international development association,New Zealand
+2020,0.002,0.0006376127777600665,world health organisation assessed contributions,New Zealand
+2020,0.2095,0.06678993847036696,asian development bank,New Zealand
+2023,0.5209999999999999,0.03870613057561439,international bank for reconstruction and development,New Zealand
+2023,2.1488,0.1596386437252979,cgiar fund,New Zealand
+2023,0.0094,0.0006983447743009124,world health organisation assessed contributions,New Zealand
+2023,0.0154,0.0011440967578972394,united nations,New Zealand
+2023,2.4256000000000006,0.18020266856854184,international development association,New Zealand
+2023,0.23309999999999997,0.0173174645627173,asian development bank,New Zealand
+2023,1.9622999999999997,0.14578318623517872,global environment facility trust fund,New Zealand
+2023,0.0075,0.0005571899794954088,united nations children’s fund,New Zealand
+2023,0.042199999999999994,0.0031351222846274997,united nations development programme,New Zealand
+2023,4.909199999999999,0.3647142729785147,adaptation fund,New Zealand
+2023,1.1859000000000002,0.08810287955781404,food and agricultural organisation,New Zealand
+2021,0.5254,0.1449539259504497,international bank for reconstruction and development,New Zealand
+2021,0.0142,0.003917673674336479,united nations development programme,New Zealand
+2021,0.0015,0.00041383876841582525,united nations children’s fund,New Zealand
+2021,0.20989999999999998,0.0579098383269878,asian development bank,New Zealand
+2021,1.2997,0.3585774982066987,food and agricultural organisation,New Zealand
+2021,0.0056,0.0015449980687524143,world health organisation assessed contributions,New Zealand
+2021,1.4617,0.4032720851956078,international development association,New Zealand
+2021,0.10659999999999999,0.02941014180875131,global environment facility trust fund,New Zealand
+2019,1.5467,0.25821800030050585,green climate fund,New Zealand
+2019,0.0174,0.002904889897994958,united nations development programme,New Zealand
+2019,0.2063,0.03444130953772183,asian development bank,New Zealand
+2019,0.0005,8.347384764353328e-05,united nations children’s fund,New Zealand
+2019,1.1518,0.19229035543164325,adaptation fund,New Zealand
+2019,1.2880000000000003,0.21502863152974175,food and agricultural organisation,New Zealand
+2019,0.047200000000000006,0.007879931217549542,global environment facility trust fund,New Zealand
+2019,0.0021999999999999997,0.00036728492963154633,world food programme,New Zealand
+2019,1.7298000000000002,0.28878612330756775,international development association,New Zealand
+2022,0.5332,0.09653299538336199,international bank for reconstruction and development,New Zealand
+2022,0.22610000000000002,0.04093419027790351,asian development bank,New Zealand
+2022,0.0084,0.0015207748710057028,world health organisation assessed contributions,New Zealand
+2022,2.2742,0.41173169186204395,cgiar fund,New Zealand
+2022,0.0061,0.0011043722277541415,united nations children’s fund,New Zealand
+2022,0.0424,0.0076762922060287855,united nations development programme,New Zealand
+2022,0.0061,0.0011043722277541415,united nations,New Zealand
+2022,1.2302999999999997,0.22273920521408522,international development association,New Zealand
+2022,1.1967,0.21665610573006247,food and agricultural organisation,New Zealand

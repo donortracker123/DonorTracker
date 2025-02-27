@@ -1,119 +1,158 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Agrarian reform",9.529405,"1%","United States"
-2018,"Agricultural alternative development",89.855306,"8%","United States"
-2018,"Agricultural co-operatives",1.514626,"0%","United States"
-2018,"Agricultural development",503.497717,"43%","United States"
-2018,"Agricultural education/training",0.547661,"0%","United States"
-2018,"Agricultural financial services",0.337938,"0%","United States"
-2018,"Agricultural inputs",0.604286,"0%","United States"
-2018,"Agricultural land resources",1.198013,"0%","United States"
-2018,"Agricultural policy and administrative management",468.496068,"40%","United States"
-2018,"Agricultural research",4.214696,"0%","United States"
-2018,"Agricultural services",1.539874,"0%","United States"
-2018,"Agricultural water resources",5.986271,"1%","United States"
-2018,"Fishery development",0.559546,"0%","United States"
-2018,"Fishery services",0.065611,"0%","United States"
-2018,"Fishing policy and administrative management",0.667764,"0%","United States"
-2018,"Food crop production",7.192968,"1%","United States"
-2018,"Forestry development",0.984745,"0%","United States"
-2018,"Forestry education/training",1.72048,"0%","United States"
-2018,"Forestry policy and administrative management",1.744617,"0%","United States"
-2018,"Forestry research",0.013566,"0%","United States"
-2018,"Industrial crops/export crops",1.429878,"0%","United States"
-2018,"Livestock",3.648659,"0%","United States"
-2018,"Livestock/veterinary services",0.731534,"0%","United States"
-2018,"Plant and post-harvest protection and pest control",0.00694,"0%","United States"
-2018,"Rural development",60.257925,"5%","United States"
-2019,"Agrarian reform",2.653512,"0%","United States"
-2019,"Agricultural alternative development",93.579236,"10%","United States"
-2019,"Agricultural co-operatives",3.769376,"0%","United States"
-2019,"Agricultural development",216.655479,"22%","United States"
-2019,"Agricultural education/training",0.509446,"0%","United States"
-2019,"Agricultural financial services",0.303188,"0%","United States"
-2019,"Agricultural inputs",1.581654,"0%","United States"
-2019,"Agricultural land resources",0.177173,"0%","United States"
-2019,"Agricultural policy and administrative management",613.981294,"63%","United States"
-2019,"Agricultural research",4.371914,"0%","United States"
-2019,"Agricultural services",2.053676,"0%","United States"
-2019,"Agricultural water resources",7.745054,"1%","United States"
-2019,"Fishery development",0.133658,"0%","United States"
-2019,"Fishing policy and administrative management",0.166598,"0%","United States"
-2019,"Food crop production",13.16549,"1%","United States"
-2019,"Forestry development",1.054002,"0%","United States"
-2019,"Forestry education/training",0.738254,"0%","United States"
-2019,"Forestry policy and administrative management",1.232129,"0%","United States"
-2019,"Forestry services",0.047635,"0%","United States"
-2019,"Industrial crops/export crops",1.624081,"0%","United States"
-2019,"Livestock",0.518296,"0%","United States"
-2019,"Livestock/veterinary services",6.126858,"1%","United States"
-2019,"Plant and post-harvest protection and pest control",0.007571,"0%","United States"
-2019,"Rural development",1.30463,"0%","United States"
-2020,"Agrarian reform",3.388275,"0%","United States"
-2020,"Agricultural alternative development",85.736132,"9%","United States"
-2020,"Agricultural co-operatives",2.047551,"0%","United States"
-2020,"Agricultural development",112.465213,"12%","United States"
-2020,"Agricultural education/training",0.171274,"0%","United States"
-2020,"Agricultural financial services",0.286077,"0%","United States"
-2020,"Agricultural inputs",0.485744,"0%","United States"
-2020,"Agricultural policy and administrative management",682.227513,"74%","United States"
-2020,"Agricultural research",4.530473,"0%","United States"
-2020,"Agricultural services",1.437538,"0%","United States"
-2020,"Agricultural water resources",10.073632,"1%","United States"
-2020,"Fishery development",0.134084,"0%","United States"
-2020,"Fishery services",0.045797,"0%","United States"
-2020,"Fishing policy and administrative management",0.134402,"0%","United States"
-2020,"Food crop production",10.938851,"1%","United States"
-2020,"Forestry development",1.0225,"0%","United States"
-2020,"Forestry education/training",0.808317,"0%","United States"
-2020,"Forestry policy and administrative management",0.010286,"0%","United States"
-2020,"Industrial crops/export crops",1.582771,"0%","United States"
-2020,"Livestock",0.648196,"0%","United States"
-2020,"Livestock/veterinary services",5.117143,"1%","United States"
-2020,"Plant and post-harvest protection and pest control",0.002925,"0%","United States"
-2020,"Rural development",0.551657,"0%","United States"
-2021,"Agrarian reform",1.58863,"0%","United States"
-2021,"Agricultural alternative development",109.47926,"11%","United States"
-2021,"Agricultural co-operatives",1.27459,"0%","United States"
-2021,"Agricultural development",75.90147,"8%","United States"
-2021,"Agricultural education/training",0.13995,"0%","United States"
-2021,"Agricultural financial services",0.17513,"0%","United States"
-2021,"Agricultural inputs",1.44317,"0%","United States"
-2021,"Agricultural land resources",0.065,"0%","United States"
-2021,"Agricultural policy and administrative management",750.67769,"76%","United States"
-2021,"Agricultural research",1.46142,"0%","United States"
-2021,"Agricultural services",2.40236,"0%","United States"
-2021,"Agricultural water resources",17.23585,"2%","United States"
-2021,"Fishery development",0.04407,"0%","United States"
-2021,"Fishery services",0.11818,"0%","United States"
-2021,"Fishing policy and administrative management",0.07431,"0%","United States"
-2021,"Food crop production",14.7025,"1%","United States"
-2021,"Forestry policy and administrative management",0.15811,"0%","United States"
-2021,"Industrial crops/export crops",1.97204,"0%","United States"
-2021,"Livestock",0.70873,"0%","United States"
-2021,"Livestock/veterinary services",7.82722,"1%","United States"
-2021,"Plant and post-harvest protection and pest control",0.13249,"0%","United States"
-2021,"Rural development",0.3,"0%","United States"
-2022,"Agrarian reform",2.664886,"0%","United States"
-2022,"Agricultural alternative development",55.492042,"7%","United States"
-2022,"Agricultural co-operatives",1.249809,"0%","United States"
-2022,"Agricultural development",83.629287,"11%","United States"
-2022,"Agricultural education/training",0.081851,"0%","United States"
-2022,"Agricultural financial services",0.17779,"0%","United States"
-2022,"Agricultural inputs",0.555841,"0%","United States"
-2022,"Agricultural land resources",0.016491,"0%","United States"
-2022,"Agricultural policy and administrative management",540.282574,"72%","United States"
-2022,"Agricultural research",3.412099,"0%","United States"
-2022,"Agricultural services",0.760294,"0%","United States"
-2022,"Agricultural water resources",23.008427,"3%","United States"
-2022,"Fishery services",0.016918,"0%","United States"
-2022,"Fishing policy and administrative management",0.076715,"0%","United States"
-2022,"Food crop production",14.357819,"2%","United States"
-2022,"Forestry development",0.22361,"0%","United States"
-2022,"Forestry education/training",0.356047,"0%","United States"
-2022,"Forestry policy and administrative management",3.826034,"1%","United States"
-2022,"Forestry services",0.55587,"0%","United States"
-2022,"Industrial crops/export crops",1.495887,"0%","United States"
-2022,"Livestock",0.189181,"0%","United States"
-2022,"Livestock/veterinary services",15.266179,"2%","United States"
-2022,"Plant and post-harvest protection and pest control",0.032766,"0%","United States"
-2022,"Rural development",3.269375,"0%","United States"
+donor,year,Sector,Bilateral ODA for,share
+United States,2023,Agricultural policy and administrative management,1054.3939181224,76.77064291381467
+United States,2023,Agricultural alternative development,72.75382046560003,5.29722096797222
+United States,2023,Agricultural development,67.06477795200007,4.883000586171428
+United States,2023,Food crop production,30.87589744080002,2.248080585756999
+United States,2023,Food security policy and administrative management,30.7844278128,2.2414206629065774
+United States,2023,Research/scientific institutions,29.1629734056,2.1233622265322016
+United States,2023,Agricultural water resources,16.918745552800004,1.2318574216518952
+United States,2023,Livestock/veterinary services,15.311417032000001,1.1148274940369272
+United States,2023,Disaster Risk Reduction,14.2476622488,1.0373752845682553
+United States,2023,Agrarian reform,9.348455381600001,0.680663002281496
+United States,2023,Agricultural research,7.254299467200001,0.5281870697604282
+United States,2023,Forestry policy and administrative management,6.9668126728000015,0.5072550958027051
+United States,2023,Rural development,6.422968121600001,0.46765765966124184
+United States,2023,Forestry development,3.3169955296000007,0.2415111420626387
+United States,2023,Industrial crops/export crops,2.4097907216000003,0.1754573692101868
+United States,2023,Agricultural services,1.7980726040000001,0.13091804442556784
+United States,2023,Multisector education/training,0.8826313272,0.06426457254768757
+United States,2023,Forestry services,0.8117373071999999,0.05910276404272515
+United States,2023,Livestock,0.7462346568000001,0.054333502292124775
+United States,2023,Agricultural co-operatives,0.6020674,0.043836654006651064
+United States,2023,Household food security programmes,0.3640907272,0.02650952241442799
+United States,2023,Forestry education/training,0.24596204240000002,0.017908548032094147
+United States,2023,Agricultural inputs,0.23716942,0.01726835534609266
+United States,2023,Forestry research,0.22894021440000004,0.016669185155783747
+United States,2023,Agricultural financial services,0.10999286320000001,0.008008603500703248
+United States,2023,Fishery development,0.091573388,0.0066674776378405675
+United States,2023,Plant and post-harvest protection and pest control,0.0614975144,0.0044776469561744105
+United States,2023,Fishery services,0.018536724000000004,0.0013496627726476888
+United States,2023,Agricultural education/training,0.0018998456,0.00013832815766682998
+United States,2023,Fishing policy and administrative management,0.0003797616,2.7650521958525275e-05
+United States,2023,Food safety and quality,,
+United States,2023,Agricultural extension,,
+United States,2022,Agricultural policy and administrative management,599.3246787168005,68.40729530937824
+United States,2022,Agricultural development,92.76831098719997,10.588633290791487
+United States,2022,Agricultural alternative development,61.556211432,7.026064640907482
+United States,2022,Agricultural water resources,25.522789340800003,2.913187208131254
+United States,2022,Research/scientific institutions,25.233967155200002,2.88022086243606
+United States,2022,Livestock/veterinary services,16.934467268000002,1.9329107317746135
+United States,2022,Food crop production,15.92684872,1.8179005177453427
+United States,2022,Food security policy and administrative management,12.9047442984,1.4729556206541667
+United States,2022,Multisector education/training,4.7150422056000005,0.5381778792177404
+United States,2022,Forestry policy and administrative management,4.2441419719999995,0.48442903074699
+United States,2022,Agricultural research,3.784972844,0.4320191780386084
+United States,2022,Rural development,3.6266537607999996,0.41394853843010654
+United States,2022,Agrarian reform,2.9561047608,0.3374116543481423
+United States,2022,Industrial crops/export crops,1.6593579352,0.18940015709051847
+United States,2022,Agricultural co-operatives,1.386384052,0.15824274658676396
+United States,2022,Agricultural services,0.8433799567999999,0.09626391805916297
+United States,2022,Forestry services,0.6166155896000001,0.07038089073930062
+United States,2022,Agricultural inputs,0.6165813487999999,0.07037698247287939
+United States,2022,Forestry education/training,0.39495517680000003,0.04508043198082963
+United States,2022,Forestry development,0.2480465808,0.028312192549116016
+United States,2022,Livestock,0.2098546,0.023952935869365234
+United States,2022,Agricultural financial services,0.1972197448,0.022510785559939968
+United States,2022,Disaster Risk Reduction,0.1301555064,0.01485603126090139
+United States,2022,Agricultural education/training,0.0907962256,0.010363538225882197
+United States,2022,Fishing policy and administrative management,0.08509876400000001,0.009713226379856565
+United States,2022,Household food security programmes,0.061441484,0.007012969579750123
+United States,2022,Plant and post-harvest protection and pest control,0.036347128,0.004148684022268797
+United States,2022,Fishery services,0.0187670712,0.0021420852957686476
+United States,2022,Agricultural land resources,0.018292888,0.002087961727450725
+United States,2022,Forestry research,0.0,0.0
+United States,2022,Fishery development,0.0,0.0
+United States,2022,Food safety and quality,,
+United States,2021,Agricultural policy and administrative management,833.7460016279996,72.66649101665264
+United States,2021,Agricultural alternative development,121.59398761040002,10.59772207736771
+United States,2021,Agricultural development,84.30055699680004,7.347352377996772
+United States,2021,Research/scientific institutions,28.260184623199986,2.4630624291341032
+United States,2021,Food security policy and administrative management,20.8215212752,1.8147336068094801
+United States,2021,Agricultural water resources,19.1431296056,1.668450646599459
+United States,2021,Food crop production,16.329441670400005,1.423219090864694
+United States,2021,Livestock/veterinary services,8.6933624712,0.7576841684211385
+United States,2021,Agricultural services,2.6681998136,0.23255130148391143
+United States,2021,Industrial crops/export crops,2.190261539200001,0.1908958125755546
+United States,2021,Agrarian reform,1.7644242736000002,0.15378127196623723
+United States,2021,Agricultural research,1.6231373944000003,0.14146718384094445
+United States,2021,Agricultural inputs,1.6028668407999997,0.13970047071944128
+United States,2021,Agricultural co-operatives,1.4156339960000004,0.1233818871123057
+United States,2021,Livestock,0.7871555256000001,0.06860582217849398
+United States,2021,Household food security programmes,0.6364181856,0.05546806374655445
+United States,2021,Multisector education/training,0.434422368,0.037862789194867935
+United States,2021,Rural development,0.3331972248,0.029040346934708076
+United States,2021,Agricultural financial services,0.19450953359999998,0.016952795273858644
+United States,2021,Forestry policy and administrative management,0.1756065368,0.015305273793128482
+United States,2021,Agricultural education/training,0.15543663040000003,0.013547332742304378
+United States,2021,Plant and post-harvest protection and pest control,0.1471513944,0.012825219501354198
+United States,2021,Fishery services,0.13125743760000003,0.011439955803811956
+United States,2021,Fishing policy and administrative management,0.0825327792,0.007193278824252855
+United States,2021,Agricultural land resources,0.0721930952,0.0062921068209881685
+United States,2021,Fishery development,0.0489467048,0.004266029795283999
+United States,2021,Disaster Risk Reduction,0.008119220000000002,0.0007076438460156722
+United States,2021,Forestry development,0.0,0.0
+United States,2021,Forestry services,0.0,0.0
+United States,2021,Forestry education/training,0.0,0.0
+United States,2021,Agricultural extension,,
+United States,2021,Food safety and quality,,
+United States,2020,Agricultural policy and administrative management,758.3962263240012,71.04454568116903
+United States,2020,Agricultural development,125.02160167600007,11.71169183482844
+United States,2020,Agricultural alternative development,95.3083184336,8.92823032041109
+United States,2020,Food security policy and administrative management,19.930214574399997,1.867009606086236
+United States,2020,Research/scientific institutions,17.2699524008,1.6178033060598065
+United States,2020,Food crop production,12.160137635999998,1.1391294204581461
+United States,2020,Agricultural water resources,11.198323940000002,1.049029266092329
+United States,2020,Livestock/veterinary services,5.688458344800001,0.5328796804428154
+United States,2020,Agricultural research,5.036287316,0.4717860293416003
+United States,2020,Agrarian reform,3.7665658200000003,0.35284188946609907
+United States,2020,Disaster Risk Reduction,2.5806533512,0.2417487568276262
+United States,2020,Agricultural co-operatives,2.2761509544000003,0.2132237804517009
+United States,2020,Industrial crops/export crops,1.7594811472,0.1648235241666446
+United States,2020,Agricultural services,1.5980409632,0.1497002361954511
+United States,2020,Forestry development,1.136659672,0.1064792613522937
+United States,2020,Forestry education/training,0.8985636752000001,0.08417506028426983
+United States,2020,Household food security programmes,0.7220533888,0.06764004511663939
+United States,2020,Livestock,0.7205623575999999,0.06750036927105417
+United States,2020,Rural development,0.61324754,0.057447401974257066
+United States,2020,Agricultural inputs,0.5399784536000001,0.05058374841812968
+United States,2020,Agricultural financial services,0.3180171368,0.029791001350697465
+United States,2020,Agricultural education/training,0.19039648720000005,0.017835837604281125
+United States,2020,Fishing policy and administrative management,0.1494081744,0.013996161245093139
+United States,2020,Fishery development,0.1490533152,0.01396291897704154
+United States,2020,Fishery services,0.050910881600000006,0.004769196269648318
+United States,2020,Forestry policy and administrative management,0.011434352000000002,0.0010711397483292803
+United States,2020,Plant and post-harvest protection and pest control,0.0032508008,0.00030452639124461294
+United States,2020,Forestry services,0.0,0.0
+United States,2020,Forestry research,0.0,0.0
+United States,2020,Food safety and quality,,
+United States,2020,Agricultural land resources,,
+United States,2020,Agricultural extension,,
+United States,2019,Agricultural policy and administrative management,682.6351868464008,62.2413646447257
+United States,2019,Agricultural development,240.88136655599996,21.963100146059922
+United States,2019,Agricultural alternative development,104.04303964080003,9.48644443446452
+United States,2019,Food crop production,14.637624494400004,1.3346304750234295
+United States,2019,Research/scientific institutions,10.036326076000002,0.9150929266853668
+United States,2019,Agricultural water resources,8.6110870168,0.7851423678819377
+United States,2019,Livestock/veterinary services,6.811947760000001,0.6211003075151809
+United States,2019,Agricultural research,4.860766899999999,0.44319538591846325
+United States,2019,Agricultural co-operatives,4.1908591368,0.382114483305915
+United States,2019,Agrarian reform,2.9502215688000004,0.26899553375606033
+United States,2019,Agricultural services,2.283311432,0.20818794895868784
+United States,2019,Food security policy and administrative management,2.1876789528,0.19946836326421982
+United States,2019,Industrial crops/export crops,1.8056813248,0.16463855355633247
+United States,2019,Agricultural inputs,1.7585099536,0.1603375585706879
+United States,2019,Disaster Risk Reduction,1.5410611592000003,0.14051099532783576
+United States,2019,Rural development,1.4505118824,0.13225488626076368
+United States,2019,Forestry policy and administrative management,1.3699048888000003,0.12490529547164785
+United States,2019,Forestry development,1.1718571392000001,0.10684768221431283
+United States,2019,Forestry education/training,0.8208028184,0.07483922379897509
+United States,2019,Household food security programmes,0.6351616520000001,0.05791281895841349
+United States,2019,Livestock,0.5762498368000001,0.05254135284825684
+United States,2019,Agricultural education/training,0.5664123512000001,0.05164438981409873
+United States,2019,Agricultural financial services,0.33709133760000004,0.030735340437206125
+United States,2019,Agricultural land resources,0.1969842096,0.017960641723740234
+United States,2019,Fishing policy and administrative management,0.1852261264,0.01688856229086609
+United States,2019,Fishery development,0.1486029968,0.013549335705733221
+United States,2019,Forestry services,0.05296117919999999,0.004828898553897101
+United States,2019,Plant and post-harvest protection and pest control,0.0084170112,0.0007674469078251887
+United States,2019,Forestry research,0.0,0.0
