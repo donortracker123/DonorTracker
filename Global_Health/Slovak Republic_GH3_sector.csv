@@ -1,44 +1,47 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Health policy and administrative management",0.00395,"0%","Slovak Republic"
-2019,"Health policy and administrative management",0.272688,"22%","Slovak Republic"
-2020,"Health policy and administrative management",0.266369,"11%","Slovak Republic"
-2018,"Medical education/training",0.134002,"8%","Slovak Republic"
-2019,"Medical education/training",0.019792,"2%","Slovak Republic"
-2020,"Medical education/training",0.128461,"5%","Slovak Republic"
-2022,"Medical education/training",0.073115,"0%","Slovak Republic"
-2018,"Medical services",0.034012,"2%","Slovak Republic"
-2019,"Medical services",0.319961,"26%","Slovak Republic"
-2020,"Medical services",0.081447,"3%","Slovak Republic"
-2021,"Medical services",0.348152,"3%","Slovak Republic"
-2022,"Medical services",0.488522,"3%","Slovak Republic"
-2018,"Basic health care",1.35241,"77%","Slovak Republic"
-2019,"Basic health care",0.266073,"22%","Slovak Republic"
-2020,"Basic health care",0.977225,"41%","Slovak Republic"
-2021,"Basic health care",0.353202,"3%","Slovak Republic"
-2022,"Basic health care",0.561369,"3%","Slovak Republic"
-2019,"Basic health infrastructure",0.133311,"11%","Slovak Republic"
-2020,"Basic health infrastructure",0.02229,"1%","Slovak Republic"
-2021,"Basic health infrastructure",0.028974,"0%","Slovak Republic"
-2022,"Basic health infrastructure",0.017342,"0%","Slovak Republic"
-2018,"Basic nutrition",0.01113,"1%","Slovak Republic"
-2019,"Basic nutrition",0.05848,"5%","Slovak Republic"
-2020,"Basic nutrition",0.030248,"1%","Slovak Republic"
-2021,"Basic nutrition",0.010995,"0%","Slovak Republic"
-2022,"Basic nutrition",0.010798,"0%","Slovak Republic"
-2018,"Infectious disease control",0.012293,"1%","Slovak Republic"
-2019,"Infectious disease control",0.080086,"7%","Slovak Republic"
-2018,"Health education",0.003522,"0%","Slovak Republic"
-2021,"Health education",0.051608,"0%","Slovak Republic"
-2022,"Health education",0.045335,"0%","Slovak Republic"
-2018,"Health personnel development",0.000762,"0%","Slovak Republic"
-2019,"Population policy and administrative management",0.01859,"2%","Slovak Republic"
-2018,"Reproductive health care",0.20258,"12%","Slovak Republic"
-2019,"Reproductive health care",0.049349,"4%","Slovak Republic"
-2020,"Reproductive health care",0.193728,"8%","Slovak Republic"
-2021,"Reproductive health care",0.165563,"1%","Slovak Republic"
-2022,"Reproductive health care",0.147647,"1%","Slovak Republic"
-2020,"COVID-19 control",0.683403,"29%","Slovak Republic"
-2021,"COVID-19 control",12.352347,"93%","Slovak Republic"
-2022,"COVID-19 control",16.233932,"92%","Slovak Republic"
-2022,"Control of harmful use of alcohol and drugs",0.048875,"0%","Slovak Republic"
-2022,"Promotion of mental health and well-being",0.015426,"0%","Slovak Republic"
+donor,year,Sector,Bilateral ODA for,share
+Slovak Republic,2023,COVID-19 control,11.5025010504,92.0240626926062
+Slovak Republic,2023,Promotion of mental health and well-being,0.4476389226,3.581269160202388
+Slovak Republic,2023,Medical services,0.2264993727,1.812074815890232
+Slovak Republic,2023,Medical education/training,0.0969286689,0.7754635156720358
+Slovak Republic,2023,Medical research,0.0777006951,0.621632947983328
+Slovak Republic,2023,Health personnel development,0.038546319300000007,0.30838414083075116
+Slovak Republic,2023,Basic health care,0.0377720235,0.3021895015145179
+Slovak Republic,2023,Reproductive health care,0.024868953,0.19896038956604947
+Slovak Republic,2023,Basic health infrastructure,0.019148759099999996,0.15319682216788275
+Slovak Republic,2023,Health education,0.014982735300000001,0.11986716336843779
+Slovak Republic,2023,Basic nutrition,0.0089691123,0.07175605974524324
+Slovak Republic,2023,STD control including HIV/AIDS,0.0038926773,0.03114279045293614
+Slovak Republic,2022,COVID-19 control,17.286901254,92.01680889358867
+Slovak Republic,2022,Basic health care,0.5977797873,3.1819345549686906
+Slovak Republic,2022,Medical services,0.520206282,2.769016918226581
+Slovak Republic,2022,Reproductive health care,0.15722221259999997,0.8368814096912737
+Slovak Republic,2022,Medical education/training,0.07785689309999999,0.4144260876004922
+Slovak Republic,2022,Control of harmful use of alcohol and drugs,0.0520451736,0.27703234504661256
+Slovak Republic,2022,Health education,0.048276339,0.2569711363867031
+Slovak Republic,2022,Basic health infrastructure,0.018465950699999997,0.09829279589406799
+Slovak Republic,2022,Promotion of mental health and well-being,0.0164253354,0.08743076195713063
+Slovak Republic,2022,Basic nutrition,0.011498404200000001,0.06120509663973566
+Slovak Republic,2021,COVID-19 control,13.1725856862,92.79918797136206
+Slovak Republic,2021,Basic health care,0.3766513944,2.6534610881460416
+Slovak Republic,2021,Medical services,0.3712692576,2.6155446200744747
+Slovak Republic,2021,Reproductive health care,0.17655729359999997,1.2438236400060867
+Slovak Republic,2021,Health education,0.055035249599999995,0.38771632193910976
+Slovak Republic,2021,Basic health infrastructure,0.030897080099999995,0.21766599301532125
+Slovak Republic,2021,Basic nutrition,0.0117248913,0.08260036545690287
+Slovak Republic,2020,Basic health care,1.0421463618000002,41.0052244594785
+Slovak Republic,2020,COVID-19 control,0.7288042482000002,28.676184919789335
+Slovak Republic,2020,Health policy and administrative management,0.2840639142,11.177033274376528
+Slovak Republic,2020,Reproductive health care,0.20659863180000002,8.12901486826469
+Slovak Republic,2020,Medical education/training,0.13699568729999997,5.39035505340573
+Slovak Republic,2020,Medical services,0.0868583607,3.41760688060567
+Slovak Republic,2020,Basic nutrition,0.0322582341,1.2692613805725261
+Slovak Republic,2020,Basic health infrastructure,0.023771104199999997,0.9353191635070119
+Slovak Republic,2019,Medical services,0.3412178781,26.262467529679487
+Slovak Republic,2019,Health policy and administrative management,0.29080385789999996,22.382258860908955
+Slovak Republic,2019,Basic health care,0.28374370829999995,21.838861338313905
+Slovak Republic,2019,Basic health infrastructure,0.1421669568,10.942143792533436
+Slovak Republic,2019,Infectious disease control,0.0854057193,6.57340975934394
+Slovak Republic,2019,Basic nutrition,0.0623631672,4.799896953693566
+Slovak Republic,2019,Reproductive health care,0.05262756899999999,4.050578562074666
+Slovak Republic,2019,Medical education/training,0.021106812599999997,1.624525020931281
+Slovak Republic,2019,Population policy and administrative management,0.019824873299999997,1.5258581825207702

@@ -1,94 +1,125 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Agricultural co-operatives",3.055354,"1%","Netherlands"
-2018,"Agricultural development",58.001151,"18%","Netherlands"
-2018,"Agricultural education/training",22.303854,"7%","Netherlands"
-2018,"Agricultural extension",7.744255,"2%","Netherlands"
-2018,"Agricultural financial services",30.041759,"9%","Netherlands"
-2018,"Agricultural inputs",16.625256,"5%","Netherlands"
-2018,"Agricultural land resources",5.511751,"2%","Netherlands"
-2018,"Agricultural policy and administrative management",12.52899,"4%","Netherlands"
-2018,"Agricultural research",31.115886,"10%","Netherlands"
-2018,"Agricultural services",3.471131,"1%","Netherlands"
-2018,"Agricultural water resources",5.613941,"2%","Netherlands"
-2018,"Fishery development",1.309611,"0%","Netherlands"
-2018,"Food crop production",50.104991,"16%","Netherlands"
-2018,"Forestry development",0.170587,"0%","Netherlands"
-2018,"Forestry policy and administrative management",4.629752,"1%","Netherlands"
-2018,"Forestry research",0.699974,"0%","Netherlands"
-2018,"Industrial crops/export crops",10.61935,"3%","Netherlands"
-2018,"Livestock",7.607441,"2%","Netherlands"
-2018,"Rural development",48.466783,"15%","Netherlands"
-2019,"Agrarian reform",1.072428,"0%","Netherlands"
-2019,"Agricultural co-operatives",0.831771,"0%","Netherlands"
-2019,"Agricultural development",84.586495,"28%","Netherlands"
-2019,"Agricultural education/training",36.804018,"12%","Netherlands"
-2019,"Agricultural extension",5.520236,"2%","Netherlands"
-2019,"Agricultural financial services",3.713138,"1%","Netherlands"
-2019,"Agricultural inputs",18.752592,"6%","Netherlands"
-2019,"Agricultural land resources",4.546619,"2%","Netherlands"
-2019,"Agricultural policy and administrative management",6.80705,"2%","Netherlands"
-2019,"Agricultural research",29.842716,"10%","Netherlands"
-2019,"Agricultural services",3.079247,"1%","Netherlands"
-2019,"Agricultural water resources",8.32996,"3%","Netherlands"
-2019,"Fishery development",1.417908,"0%","Netherlands"
-2019,"Food crop production",46.150928,"15%","Netherlands"
-2019,"Forestry development",0.03737,"0%","Netherlands"
-2019,"Forestry policy and administrative management",3.460683,"1%","Netherlands"
-2019,"Industrial crops/export crops",11.04925,"4%","Netherlands"
-2019,"Livestock",6.150249,"2%","Netherlands"
-2019,"Plant and post-harvest protection and pest control",0.105006,"0%","Netherlands"
-2019,"Rural development",26.310978,"9%","Netherlands"
-2020,"Agricultural development",90.354198,"30%","Netherlands"
-2020,"Agricultural education/training",26.139305,"9%","Netherlands"
-2020,"Agricultural extension",5.730867,"2%","Netherlands"
-2020,"Agricultural financial services",7.879088,"3%","Netherlands"
-2020,"Agricultural inputs",9.528182,"3%","Netherlands"
-2020,"Agricultural land resources",6.018956,"2%","Netherlands"
-2020,"Agricultural policy and administrative management",7.270845,"2%","Netherlands"
-2020,"Agricultural research",37.209172,"13%","Netherlands"
-2020,"Agricultural services",2.991365,"1%","Netherlands"
-2020,"Agricultural water resources",12.202528,"4%","Netherlands"
-2020,"Fishery development",4.053226,"1%","Netherlands"
-2020,"Food crop production",34.52047,"12%","Netherlands"
-2020,"Forestry development",1.91945,"1%","Netherlands"
-2020,"Forestry policy and administrative management",9.293202,"3%","Netherlands"
-2020,"Industrial crops/export crops",5.75686,"2%","Netherlands"
-2020,"Livestock",14.660795,"5%","Netherlands"
-2020,"Plant and post-harvest protection and pest control",0.103365,"0%","Netherlands"
-2020,"Rural development",21.84227,"7%","Netherlands"
-2021,"Agricultural development",80.025875,"27%","Netherlands"
-2021,"Agricultural education/training",22.834917,"8%","Netherlands"
-2021,"Agricultural extension",3.181877,"1%","Netherlands"
-2021,"Agricultural financial services",10.280575,"3%","Netherlands"
-2021,"Agricultural inputs",4.907159,"2%","Netherlands"
-2021,"Agricultural land resources",12.655421,"4%","Netherlands"
-2021,"Agricultural policy and administrative management",3.843189,"1%","Netherlands"
-2021,"Agricultural research",53.47814,"18%","Netherlands"
-2021,"Agricultural services",0.170877,"0%","Netherlands"
-2021,"Agricultural water resources",2.32335,"1%","Netherlands"
-2021,"Fishery development",2.819678,"1%","Netherlands"
-2021,"Food crop production",22.863528,"8%","Netherlands"
-2021,"Forestry development",2.24993,"1%","Netherlands"
-2021,"Forestry policy and administrative management",14.196846,"5%","Netherlands"
-2021,"Industrial crops/export crops",3.019435,"1%","Netherlands"
-2021,"Livestock",21.565269,"7%","Netherlands"
-2021,"Rural development",34.643341,"12%","Netherlands"
-2022,"Agricultural alternative development",0.905504,"0%","Netherlands"
-2022,"Agricultural co-operatives",0.637305,"0%","Netherlands"
-2022,"Agricultural development",67.59546,"27%","Netherlands"
-2022,"Agricultural education/training",19.055145,"8%","Netherlands"
-2022,"Agricultural extension",5.112662,"2%","Netherlands"
-2022,"Agricultural financial services",7.258659,"3%","Netherlands"
-2022,"Agricultural inputs",11.203877,"5%","Netherlands"
-2022,"Agricultural land resources",11.439027,"5%","Netherlands"
-2022,"Agricultural policy and administrative management",2.862116,"1%","Netherlands"
-2022,"Agricultural research",17.063473,"7%","Netherlands"
-2022,"Agricultural services",1.545689,"1%","Netherlands"
-2022,"Agricultural water resources",4.048925,"2%","Netherlands"
-2022,"Fishery development",1.805232,"1%","Netherlands"
-2022,"Food crop production",26.902622,"11%","Netherlands"
-2022,"Forestry development",1.379562,"1%","Netherlands"
-2022,"Forestry policy and administrative management",16.856725,"7%","Netherlands"
-2022,"Industrial crops/export crops",0.067139,"0%","Netherlands"
-2022,"Livestock",10.175944,"4%","Netherlands"
-2022,"Rural development",41.685852,"17%","Netherlands"
+donor,year,Sector,Bilateral ODA for,share
+Netherlands,2023,Agricultural development,93.894050726,24.43743927641467
+Netherlands,2023,Agricultural research,47.3798666636,12.331373559493613
+Netherlands,2023,Food crop production,34.5822561996,9.00058927466343
+Netherlands,2023,Rural development,29.5159927876,7.682012607326311
+Netherlands,2023,Forestry policy and administrative management,22.577986253200002,5.87628463976277
+Netherlands,2023,Food security policy and administrative management,21.503953904400003,5.596750418991985
+Netherlands,2023,Agricultural financial services,20.568125383599998,5.3531859708362255
+Netherlands,2023,Agricultural land resources,19.4294927052,5.056838473615762
+Netherlands,2023,Disaster Risk Reduction,16.7918246964,4.370342883128443
+Netherlands,2023,Livestock,13.2818557972,3.456816933687726
+Netherlands,2023,Agricultural inputs,10.201144257600001,2.655012127152971
+Netherlands,2023,Agricultural education/training,9.903429396400002,2.577527038523744
+Netherlands,2023,Household food security programmes,9.309241223999999,2.422879994653391
+Netherlands,2023,Research/scientific institutions,7.963886608,2.072729783010214
+Netherlands,2023,Agricultural water resources,6.393712118000001,1.6640665774496817
+Netherlands,2023,Agricultural extension,6.0161341392,1.5657958259197196
+Netherlands,2023,Fishery development,5.3148647624,1.3832791735924201
+Netherlands,2023,Multisector education/training,4.5720569852,1.1899514834031306
+Netherlands,2023,Agricultural policy and administrative management,2.1268170868,0.5535384085450277
+Netherlands,2023,Agricultural alternative development,1.0956871879999999,0.28517024151862597
+Netherlands,2023,Agricultural services,1.0525154596,0.27393410373273397
+Netherlands,2023,Agricultural co-operatives,0.44286695480000005,0.11526325929890716
+Netherlands,2023,Food safety and quality,0.1849379772,0.04813308780251079
+Netherlands,2023,Forestry research,0.0732205492,0.019056827466974485
+Netherlands,2023,Plant and post-harvest protection and pest control,0.046214353599999994,0.0120280300089985
+Netherlands,2022,Agricultural development,70.1652303928,22.6501296246455
+Netherlands,2022,Rural development,43.270616478,13.968244195569449
+Netherlands,2022,Food crop production,27.925375211200002,9.014626828838114
+Netherlands,2022,Household food security programmes,22.3825773192,7.225349005132789
+Netherlands,2022,Agricultural education/training,19.779563453999998,6.385066701041907
+Netherlands,2022,Agricultural research,17.7121741236,5.717690052294038
+Netherlands,2022,Forestry policy and administrative management,17.497565860399998,5.648412078676796
+Netherlands,2022,Agricultural land resources,11.873901678400001,3.833029702324666
+Netherlands,2022,Agricultural inputs,11.6298151556,3.754235813241729
+Netherlands,2022,Livestock,10.562802806399999,3.409792163799119
+Netherlands,2022,Food security policy and administrative management,10.456288852399998,3.375408255253141
+Netherlands,2022,Agricultural financial services,7.534609383599999,2.4322570916423953
+Netherlands,2022,Disaster Risk Reduction,7.0932687076,2.2897873318473154
+Netherlands,2022,Multisector education/training,6.264172653600001,2.0221457522607817
+Netherlands,2022,Research/scientific institutions,5.547316030399999,1.7907363298607115
+Netherlands,2022,Agricultural extension,5.3070292024,1.7131690252167098
+Netherlands,2022,Agricultural water resources,4.202850916,1.3567277910659938
+Netherlands,2022,Agricultural policy and administrative management,2.9709254116000006,0.9590483106971804
+Netherlands,2022,Fishery development,1.8738620344,0.6049038496739154
+Netherlands,2022,Agricultural services,1.6044512024,0.5179349872769387
+Netherlands,2022,Forestry development,1.4320081844,0.46226843150994046
+Netherlands,2022,Food safety and quality,1.0209359456,0.3295696654431984
+Netherlands,2022,Agricultural alternative development,0.9399283948000001,0.30341951221312596
+Netherlands,2022,Agricultural co-operatives,0.6615331552,0.21355038146954186
+Netherlands,2022,Industrial crops/export crops,0.0696912364,0.022497119005024917
+Netherlands,2022,Plant and post-harvest protection and pest control,0.0,0.0
+Netherlands,2021,Agricultural development,82.9163947472,22.934101842315957
+Netherlands,2021,Agricultural research,55.409761794800005,15.325957236018441
+Netherlands,2021,Rural development,35.8946518016,9.928212659537555
+Netherlands,2021,Household food security programmes,26.6872143668,7.3814990876285895
+Netherlands,2021,Food crop production,23.6893555972,6.5523120668891455
+Netherlands,2021,Agricultural education/training,23.659710694000005,6.544112491507617
+Netherlands,2021,Livestock,22.3442018364,6.180251831542224
+Netherlands,2021,Forestry policy and administrative management,14.709633882799999,4.068583089747866
+Netherlands,2021,Agricultural land resources,13.1125326564,3.6268359263500973
+Netherlands,2021,Research/scientific institutions,12.7616805588,3.529792660510077
+Netherlands,2021,Agricultural financial services,10.651907470400001,2.9462440025991277
+Netherlands,2021,Food security policy and administrative management,6.8130514244,1.8844429464222678
+Netherlands,2021,Agricultural inputs,5.0844043887999995,1.4063111211693762
+Netherlands,2021,Disaster Risk Reduction,4.5896196756,1.2694570884157022
+Netherlands,2021,Multisector education/training,4.290299076399999,1.1866670789551466
+Netherlands,2021,Agricultural policy and administrative management,3.9820051056,1.1013950969152144
+Netherlands,2021,Agricultural extension,3.296806352,0.9118738563306311
+Netherlands,2021,Industrial crops/export crops,3.1284974196,0.865320768628233
+Netherlands,2021,Fishery development,2.9215238612,0.8080733125432898
+Netherlands,2021,Agricultural water resources,2.4072694368,0.6658340922056324
+Netherlands,2021,Forestry development,2.3311971851999997,0.6447930330654241
+Netherlands,2021,Food safety and quality,0.6831626116,0.1889580577769395
+Netherlands,2021,Agricultural services,0.1770494444,0.04897065292545387
+Netherlands,2021,Plant and post-harvest protection and pest control,0.0,0.0
+Netherlands,2020,Agricultural development,94.0169211356,28.218014619799817
+Netherlands,2020,Agricultural research,38.7175347912,11.620588608777538
+Netherlands,2020,Food crop production,35.91983485,10.780893616758688
+Netherlands,2020,Agricultural education/training,27.1989249932,8.163420518674465
+Netherlands,2020,Rural development,22.727698421999996,6.821437232787171
+Netherlands,2020,Livestock,15.2551047368,4.578630775078642
+Netherlands,2020,Agricultural water resources,12.697186174799999,3.810903194692666
+Netherlands,2020,Agricultural inputs,9.9144300812,2.9756934134737367
+Netherlands,2020,Forestry policy and administrative management,9.6699241904,2.9023079981901354
+Netherlands,2020,Agricultural financial services,8.1984865852,2.4606742225448843
+Netherlands,2020,Agricultural policy and administrative management,7.5655863320000005,2.2707170490706075
+Netherlands,2020,Disaster Risk Reduction,7.1700494703999995,2.1520015581942284
+Netherlands,2020,Research/scientific institutions,6.819966582000001,2.046928514494308
+Netherlands,2020,Food security policy and administrative management,6.4264780020000005,1.9288277899752626
+Netherlands,2020,Agricultural land resources,6.262948761199999,1.8797465134143787
+Netherlands,2020,Industrial crops/export crops,5.9902282328,1.797892824051255
+Netherlands,2020,Agricultural extension,5.963181204,1.7897749932939622
+Netherlands,2020,Fishery development,4.2175332104,1.2658403652562766
+Netherlands,2020,Agricultural services,3.112626548,0.9342163131545363
+Netherlands,2020,Forestry development,1.9972588612000002,0.5994525141232883
+Netherlands,2020,Multisector education/training,1.5158740592000002,0.454970827034283
+Netherlands,2020,Household food security programmes,0.8829252475999999,0.264999079357569
+Netherlands,2020,Food safety and quality,0.8322391068,0.2497862618685473
+Netherlands,2020,Plant and post-harvest protection and pest control,0.10755464880000001,0.03228119593374585
+Netherlands,2019,Agricultural development,88.0256146856,26.43136192936616
+Netherlands,2019,Food crop production,48.02733222959999,14.42111827558909
+Netherlands,2019,Agricultural education/training,38.3003960632,11.500421030858373
+Netherlands,2019,Agricultural research,31.0560610696,9.325171919138878
+Netherlands,2019,Rural development,27.3807320572,8.221584608976805
+Netherlands,2019,Agricultural inputs,19.5150327412,5.859759063181734
+Netherlands,2019,Industrial crops/export crops,11.498490066399999,3.4526399352251036
+Netherlands,2019,Agricultural water resources,8.6686389464,2.6029234132094032
+Netherlands,2019,Research/scientific institutions,7.837287134,2.3532942487592337
+Netherlands,2019,Agricultural policy and administrative management,7.0838108555999995,2.1270486918186333
+Netherlands,2019,Livestock,6.4003050244,1.9218130900019856
+Netherlands,2019,Agricultural extension,5.7446783364,1.724948730202014
+Netherlands,2019,Household food security programmes,4.751109463599999,1.426610813761139
+Netherlands,2019,Agricultural land resources,4.731475316,1.4207152882002698
+Netherlands,2019,Multisector education/training,4.722861718,1.4181288918761406
+Netherlands,2019,Agricultural financial services,3.864106414,1.1602713088321905
+Netherlands,2019,Disaster Risk Reduction,3.8200484948,1.1470420821759582
+Netherlands,2019,Forestry policy and administrative management,3.6013867088,1.0813847297504136
+Netherlands,2019,Agricultural services,3.2044438608,0.9621951038871398
+Netherlands,2019,Fishery development,1.4755573439999998,0.4430641052163918
+Netherlands,2019,Food security policy and administrative management,1.1955751276000002,0.35899412942711606
+Netherlands,2019,Agrarian reform,1.1160309503999999,0.33510948011843267
+Netherlands,2019,Agricultural co-operatives,0.8655898987999999,0.2599097998838391
+Netherlands,2019,Plant and post-harvest protection and pest control,0.10927516119999998,0.03281194168178324
+Netherlands,2019,Forestry development,0.0388897604,0.011677388861754647

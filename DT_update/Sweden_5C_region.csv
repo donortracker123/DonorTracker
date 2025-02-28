@@ -1,46 +1,66 @@
-"Year","Region","Bilateral ODA","Share","Donor"
-"2018","Developing countries, unspecified",1925.157833,"45%","Sweden"
-"2019","Developing countries, unspecified",1649.327192,"40%","Sweden"
-"2020","Developing countries, unspecified",1616.033935,"40%","Sweden"
-"2021","Developing countries, unspecified",1328.182216,"34%","Sweden"
-"2022","Developing countries, unspecified",1531.580497,"39%","Sweden"
-"2018","sub-Saharan Africa",1227.796453,"28%","Sweden"
-"2019","sub-Saharan Africa",1245.773775,"30%","Sweden"
-"2020","sub-Saharan Africa",1224.965203,"31%","Sweden"
-"2021","sub-Saharan Africa",1379.076265,"35%","Sweden"
-"2022","sub-Saharan Africa",1145.369086,"29%","Sweden"
-"2018","Europe",191.676346,"4%","Sweden"
-"2019","Europe",243.365725,"6%","Sweden"
-"2020","Europe",211.638792,"5%","Sweden"
-"2021","Europe",203.564735,"5%","Sweden"
-"2022","Europe",399.41741,"10%","Sweden"
-"2018","Asia",362.234022,"8%","Sweden"
-"2019","Asia",353.448557,"9%","Sweden"
-"2020","Asia",335.794876,"8%","Sweden"
-"2021","Asia",331.816288,"8%","Sweden"
-"2022","Asia",293.718637,"7%","Sweden"
-"2018","MENA region",344.197658,"8%","Sweden"
-"2019","MENA region",333.72236,"8%","Sweden"
-"2020","MENA region",332.679382,"8%","Sweden"
-"2021","MENA region",365.677529,"9%","Sweden"
-"2022","MENA region",281.856779,"7%","Sweden"
-"2018","Latin America and the Caribbeans",137.847254,"3%","Sweden"
-"2019","Latin America and the Caribbeans",140.8413,"3%","Sweden"
-"2020","Latin America and the Caribbeans",141.516065,"4%","Sweden"
-"2021","Latin America and the Caribbeans",197.029858,"5%","Sweden"
-"2022","Latin America and the Caribbeans",142.64578,"4%","Sweden"
-"2018","Africa, regional",75.468991,"2%","Sweden"
-"2019","Africa, regional",81.616575,"2%","Sweden"
-"2020","Africa, regional",77.78792,"2%","Sweden"
-"2021","Africa, regional",96.864709,"2%","Sweden"
-"2022","Africa, regional",98.520433,"3%","Sweden"
-"2018","Asia, regional",48.055061,"1%","Sweden"
-"2019","Asia, regional",53.083789,"1%","Sweden"
-"2020","Asia, regional",53.588567,"1%","Sweden"
-"2021","Asia, regional",49.748232,"1%","Sweden"
-"2022","Asia, regional",37.797403,"1%","Sweden"
-"2018","Oceania",5.877009,"0%","Sweden"
-"2019","Oceania",4.458247,"0%","Sweden"
-"2020","Oceania",1.871338,"0%","Sweden"
-"2021","Oceania",7.398933,"0%","Sweden"
-"2022","Oceania",7.227996,"0%","Sweden"
+donor,year,Region,share,Bilateral ODA
+Sweden,2023,Regional and Unspecified,33.6%,109546.1390556
+Sweden,2023,South of Sahara,30.7%,100040.83500294012
+Sweden,2023,Europe,13.3%,43303.01669226005
+Sweden,2023,South & Central Asia,7.3%,23759.598117059973
+Sweden,2023,Middle East,6.7%,21885.539548859975
+Sweden,2023,Africa,2.3%,7660.658521620002
+Sweden,2023,South America,2.1%,6812.931801780008
+Sweden,2023,Caribbean & Central America,1.1%,3651.688965599998
+Sweden,2023,Far East Asia,1.1%,3475.621674720007
+Sweden,2023,Asia,0.8%,2737.641390120001
+Sweden,2023,America,0.5%,1663.9467015599996
+Sweden,2023,North of Sahara,0.3%,1076.8362462000002
+Sweden,2023,Oceania,0.1%,416.52534456000006
+Sweden,2022,Regional and Unspecified,38.9%,138888.81506447992
+Sweden,2022,South of Sahara,29.1%,103911.23653091994
+Sweden,2022,Europe,10.1%,36236.31722567998
+Sweden,2022,Middle East,6.7%,23998.496661359994
+Sweden,2022,South & Central Asia,6.5%,23081.37987401998
+Sweden,2022,Africa,2.5%,8938.062726840002
+Sweden,2022,South America,2.0%,7270.464223619998
+Sweden,2022,Caribbean & Central America,1.2%,4450.575743640001
+Sweden,2022,Far East Asia,1.0%,3565.633911840002
+Sweden,2022,Asia,1.0%,3429.0907606800006
+Sweden,2022,North of Sahara,0.4%,1572.37646436
+Sweden,2022,America,0.3%,1220.20072902
+Sweden,2022,Oceania,0.2%,655.7447660400002
+Sweden,2021,South of Sahara,34.8%,124735.66050114036
+Sweden,2021,Regional and Unspecified,33.5%,120073.7933226001
+Sweden,2021,Middle East,8.6%,30864.38819021999
+Sweden,2021,South & Central Asia,7.0%,25174.084595399992
+Sweden,2021,Europe,5.1%,18412.166630519976
+Sweden,2021,South America,2.9%,10320.625195920002
+Sweden,2021,Africa,2.4%,8761.28767488
+Sweden,2021,Caribbean & Central America,1.8%,6448.6357837199985
+Sweden,2021,Far East Asia,1.4%,4838.269030919998
+Sweden,2021,Asia,1.3%,4499.66371374
+Sweden,2021,North of Sahara,0.6%,2210.6710056599995
+Sweden,2021,America,0.3%,1051.83428922
+Sweden,2021,Oceania,0.2%,669.2238212400002
+Sweden,2020,Regional and Unspecified,40.4%,145507.94459603998
+Sweden,2020,South of Sahara,30.7%,110346.59620997992
+Sweden,2020,Middle East,7.9%,28592.612067239992
+Sweden,2020,South & Central Asia,7.2%,25849.02916673999
+Sweden,2020,Europe,5.3%,19064.71952892
+Sweden,2020,South America,2.2%,7832.883235320002
+Sweden,2020,Africa,1.9%,7007.245724699998
+Sweden,2020,Asia,1.3%,4827.3336493199995
+Sweden,2020,Caribbean & Central America,1.3%,4816.81594134
+Sweden,2020,Far East Asia,1.2%,4399.8467619600015
+Sweden,2020,North of Sahara,0.4%,1375.61707296
+Sweden,2020,Oceania,0.0%,168.57291204
+Sweden,2020,America,0.0%,98.26790688000001
+Sweden,2019,Regional and Unspecified,40.2%,148491.61084134
+Sweden,2019,South of Sahara,30.3%,112208.92238556014
+Sweden,2019,Middle East,7.8%,28754.84169324001
+Sweden,2019,South & Central Asia,7.4%,27261.827342100016
+Sweden,2019,Europe,5.9%,21920.358496139994
+Sweden,2019,South America,2.2%,8068.2364339199985
+Sweden,2019,Africa,2.0%,7351.341271560001
+Sweden,2019,Asia,1.3%,4781.345680800001
+Sweden,2019,Caribbean & Central America,1.2%,4593.891023280001
+Sweden,2019,Far East Asia,1.2%,4573.87357986
+Sweden,2019,North of Sahara,0.4%,1304.0884279800002
+Sweden,2019,Oceania,0.1%,401.5618425
+Sweden,2019,America,0.0%,23.6849418

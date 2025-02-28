@@ -1,6 +1,6 @@
-"Year","Gender funding as a % of bilateral allocable ODA","Funding for projects with gender equality as a principal objective","Funding for projects with gender equality as a Significant objective","Principal","Significant","Not targeted","Not screened"
-2018,"2%",1,3,"0%","2%","98%","0%"
-2019,"7%",1,6,"1%","6%","93%","0%"
-2020,"4%",1,3,"1%","3%","96%","0%"
-2021,"3%",1,3,"1%","2%","97%","0%"
-2022,"2%",2,7,"1%","2%","20%","78%"
+donor,Year,Gender funding as % of bilateral allocable ODA,Funding for projects with gender equality as a principal objective,Funding for projects with gender equality as a significant objective,Principal,Significant,Not targeted or screened
+Poland,2019,8.333876229725085,0.7767322097378276,5.248108614232209,1.074416783567478,7.259459446157607,91.66612377027491
+Poland,2020,5.643268337243513,1.0836176370446038,2.4121816479400753,1.749283812454137,3.8939845247893765,94.35673166275649
+Poland,2021,3.113618177293638,1.0598442288049035,2.472344228804903,0.9342509029486342,2.179367274345004,96.88638182270637
+Poland,2022,7.900272062982267,1.4505992509363301,6.160955056179779,1.5056226723681283,6.394649390614139,92.09972793701773
+Poland,2023,15.04887999775106,2.4477817500851202,8.903001361933946,3.245271577668585,11.803608420082474,84.95112000224894

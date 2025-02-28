@@ -1,72 +1,70 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Education policy and administrative management",8.813657,"4%","Korea"
-2019,"Education policy and administrative management",6.503568,"2%","Korea"
-2020,"Education policy and administrative management",11.930867,"6%","Korea"
-2021,"Education policy and administrative management",13.393393,"6%","Korea"
-2022,"Education policy and administrative management",22.123911,"9%","Korea"
-2018,"Education facilities and training",3.678186,"2%","Korea"
-2019,"Education facilities and training",7.07572,"3%","Korea"
-2020,"Education facilities and training",2.829561,"1%","Korea"
-2021,"Education facilities and training",2.935786,"1%","Korea"
-2022,"Education facilities and training",16.42582,"6%","Korea"
-2018,"Teacher training",9.138577,"4%","Korea"
-2019,"Teacher training",11.899902,"4%","Korea"
-2020,"Teacher training",14.118622,"7%","Korea"
-2021,"Teacher training",11.019261,"5%","Korea"
-2022,"Teacher training",16.070306,"6%","Korea"
-2018,"Educational research",4.547761,"2%","Korea"
-2019,"Educational research",7.677107,"3%","Korea"
-2020,"Educational research",5.328953,"3%","Korea"
-2021,"Educational research",2.530493,"1%","Korea"
-2022,"Educational research",3.603684,"1%","Korea"
-2018,"Primary education",38.178553,"17%","Korea"
-2019,"Primary education",38.214472,"14%","Korea"
-2020,"Primary education",27.295789,"13%","Korea"
-2021,"Primary education",24.185577,"12%","Korea"
-2022,"Primary education",17.446474,"7%","Korea"
-2018,"Basic life skills for adults",7.122949,"3%","Korea"
-2019,"Basic life skills for adults",3.800349,"1%","Korea"
-2020,"Basic life skills for adults",0.424341,"0%","Korea"
-2021,"Basic life skills for adults",1.24499,"1%","Korea"
-2022,"Basic life skills for adults",2.936551,"1%","Korea"
-2020,"Basic life skills for youth",0.120113,"0%","Korea"
-2021,"Basic life skills for youth",0.132879,"0%","Korea"
-2022,"Basic life skills for youth",0.566687,"0%","Korea"
-2018,"Primary education equivalent for adults",0.36981,"0%","Korea"
-2019,"Primary education equivalent for adults",0.391129,"0%","Korea"
-2020,"Primary education equivalent for adults",0.673491,"0%","Korea"
-2021,"Primary education equivalent for adults",1.048532,"1%","Korea"
-2022,"Primary education equivalent for adults",0.492323,"0%","Korea"
-2018,"Early childhood education",4.110615,"2%","Korea"
-2019,"Early childhood education",5.878003,"2%","Korea"
-2020,"Early childhood education",3.113519,"2%","Korea"
-2021,"Early childhood education",2.064508,"1%","Korea"
-2022,"Early childhood education",2.469355,"1%","Korea"
-2018,"Upper Secondary Education (modified and includes data from 11322)",12.44158,"5%","Korea"
-2019,"Upper Secondary Education (modified and includes data from 11322)",30.471275,"11%","Korea"
-2020,"Upper Secondary Education (modified and includes data from 11322)",26.603785,"13%","Korea"
-2021,"Upper Secondary Education (modified and includes data from 11322)",36.330459,"17%","Korea"
-2022,"Upper Secondary Education (modified and includes data from 11322)",22.665181,"9%","Korea"
-2018,"Vocational training",33.917562,"15%","Korea"
-2019,"Vocational training",42.030222,"16%","Korea"
-2020,"Vocational training",16.559545,"8%","Korea"
-2021,"Vocational training",18.329283,"9%","Korea"
-2022,"Vocational training",28.084663,"11%","Korea"
-2018,"Higher education",80.345199,"35%","Korea"
-2019,"Higher education",86.78802,"33%","Korea"
-2020,"Higher education",74.523478,"36%","Korea"
-2021,"Higher education",79.753392,"38%","Korea"
-2022,"Higher education",100.347647,"39%","Korea"
-2018,"Advanced technical and managerial training",15.622953,"7%","Korea"
-2019,"Advanced technical and managerial training",15.616301,"6%","Korea"
-2020,"Advanced technical and managerial training",17.704588,"9%","Korea"
-2021,"Advanced technical and managerial training",14.175404,"7%","Korea"
-2022,"Advanced technical and managerial training",22.829411,"9%","Korea"
-2019,"School feeding",0.667379,"0%","Korea"
-2020,"School feeding",3.493676,"2%","Korea"
-2021,"School feeding",1.857471,"1%","Korea"
-2022,"School feeding",2.034501,"1%","Korea"
-2018,"Lower secondary education",8.381665,"4%","Korea"
-2019,"Lower secondary education",8.003722,"3%","Korea"
-2021,"Lower secondary education",0.436889,"0%","Korea"
-2022,"Lower secondary education",1.139043,"0%","Korea"
+donor,year,Sector,Bilateral ODA for,share
+Korea,2023,Higher education,99.4156440479997,41.95969228655377
+Korea,2023,Vocational training,28.317863951999996,11.951930393014646
+Korea,2023,Upper Secondary Education (modified and includes data from 11322),19.686095856,8.308778083684118
+Korea,2023,Teacher training,18.116806176,7.646438542339172
+Korea,2023,Primary education,17.400525408000007,7.344122735769081
+Korea,2023,Education facilities and training,14.800202928000006,6.246622114499367
+Korea,2023,Advanced technical and managerial training,11.02983336,4.655287587676975
+Korea,2023,Basic life skills for adults,8.40879144,3.5490420517102357
+Korea,2023,Education policy and administrative management,7.917975072000003,3.3418864881397736
+Korea,2023,Early childhood education,5.5210176,2.3302187681125694
+Korea,2023,School feeding,2.948237712,1.2443428634170015
+Korea,2023,Educational research,2.127714624,0.898030201901979
+Korea,2023,Basic life skills for youth,1.0376785439999998,0.4379660044004432
+Korea,2023,Primary education equivalent for adults,0.20291241599999998,0.08564187878087279
+Korea,2022,Higher education,91.50926299200009,38.87989256587437
+Korea,2022,Vocational training,25.61103417599999,10.881458605462347
+Korea,2022,Advanced technical and managerial training,20.818648367999998,8.84529921288206
+Korea,2022,Upper Secondary Education (modified and includes data from 11322),20.668886783999998,8.781669432616816
+Korea,2022,Education policy and administrative management,20.175292367999997,8.571954074436377
+Korea,2022,Primary education,15.90982848,6.7596700248581945
+Korea,2022,Education facilities and training,14.979075552,6.364217448115482
+Korea,2022,Teacher training,14.654864448,6.226468629252353
+Korea,2022,Educational research,3.286278576,1.396253819545946
+Korea,2022,Basic life skills for adults,2.677908239999999,1.1377731747393895
+Korea,2022,Early childhood education,2.251859904,0.9567563793905118
+Korea,2022,School feeding,1.8553066559999998,0.788271275535655
+Korea,2022,Basic life skills for youth,0.516774384,0.21956392034839575
+Korea,2022,Primary education equivalent for adults,0.448960176,0.19075143694209454
+Korea,2021,Higher education,72.1522166400004,38.159252738290434
+Korea,2021,Upper Secondary Education (modified and includes data from 11322),32.86786406400001,17.382877341714654
+Korea,2021,Primary education,21.880491695999993,11.571968978189998
+Korea,2021,Vocational training,16.582346928,8.76993108301492
+Korea,2021,Advanced technical and managerial training,12.82436568000001,6.782441815101184
+Korea,2021,Education policy and administrative management,12.116889791999998,6.408277964375189
+Korea,2021,Teacher training,9.969038352,5.2723405010509765
+Korea,2021,Education facilities and training,2.6559822239999993,1.4046733651954801
+Korea,2021,Educational research,2.289315168,1.2107536006715445
+Korea,2021,Early childhood education,1.8677433600000002,0.9877962763099856
+Korea,2021,School feeding,1.6804388160000001,0.8887362367662552
+Korea,2021,Basic life skills for adults,1.12633416,0.5956860631691581
+Korea,2021,Primary education equivalent for adults,0.9485975520000001,0.5016862325144971
+Korea,2021,Basic life skills for youth,0.12021408,0.06357780363573651
+Korea,2020,Higher education,67.59512927999988,36.40255134327986
+Korea,2020,Primary education,24.758170416,13.333217634673248
+Korea,2020,Upper Secondary Education (modified and includes data from 11322),24.130495872,12.99519098899317
+Korea,2020,Advanced technical and managerial training,16.058632464000002,8.64818514292842
+Korea,2020,Vocational training,15.020042687999998,8.088864995927354
+Korea,2020,Teacher training,12.806044272000008,6.896542533187032
+Korea,2020,Education policy and administrative management,10.821680351999998,5.827886991715559
+Korea,2020,Educational research,4.833535392,2.603042884169785
+Korea,2020,School feeding,3.168878832,1.706561931476979
+Korea,2020,Early childhood education,2.8240631999999994,1.5208655820277377
+Korea,2020,Education facilities and training,2.56649904,1.3821574730491977
+Korea,2020,Primary education equivalent for adults,0.6108782400000001,0.3289811963222638
+Korea,2020,Basic life skills for adults,0.384892704,0.20727937897678417
+Korea,2020,Basic life skills for youth,0.10894665599999999,0.05867192327261506
+Korea,2019,Higher education,78.71958057599994,33.76788667565663
+Korea,2019,Vocational training,38.12279385599997,16.353316078024257
+Korea,2019,Primary education,34.66177948799999,14.86866460876739
+Korea,2019,Upper Secondary Education (modified and includes data from 11322),27.638442720000004,11.855904145215039
+Korea,2019,Advanced technical and managerial training,14.164474464000014,6.0760533150809275
+Korea,2019,Teacher training,10.793607551999997,4.630071882631061
+Korea,2019,Educational research,6.96338496,2.987043280562663
+Korea,2019,Education facilities and training,6.41795111999999,2.7530716566868634
+Korea,2019,Education policy and administrative management,5.898957119999997,2.530441779226761
+Korea,2019,Early childhood education,5.3315377920000016,2.2870391667473604
+Korea,2019,Basic life skills for adults,3.44704248,1.4786580286519242
+Korea,2019,School feeding,0.60533424,0.2596667546707782
+Korea,2019,Primary education equivalent for adults,0.354767616,0.152182628078347

@@ -1,96 +1,62 @@
-"Year","Multi_short","ODA","Share","Full Name","Donor"
-"2018","EC - Development Share of Budget","3.6","5.5%","european commission development share of budget","Luxembourg"
-"2019","EC - Development Share of Budget","3.6","5.2%","european commission development share of budget","Luxembourg"
-"2020","EC - Development Share of Budget","3.9","7.4%","european commission development share of budget","Luxembourg"
-"2021","EC - Development Share of Budget","2.7","4.5%","european commission development share of budget","Luxembourg"
-"2022","EC - Development Share of Budget","3.9","7.8%","european commission development share of budget","Luxembourg"
-"2018","IDA","1.9","3%","international development association","Luxembourg"
-"2019","IDA","2.1","3.1%","international development association","Luxembourg"
-"2020","IDA","1.6","3%","international development association","Luxembourg"
-"2021","IDA","1.7","2.9%","international development association","Luxembourg"
-"2022","IDA","1.9","3.9%","international development association","Luxembourg"
-"2018","UNICEF","0.4","0.7%","united nations childrenâ€™s fund","Luxembourg"
-"2019","UNICEF","0.2","0.4%","united nations childrenâ€™s fund","Luxembourg"
-"2020","UNICEF","0.5","1%","united nations childrenâ€™s fund","Luxembourg"
-"2021","UNICEF","0.6","1%","united nations childrenâ€™s fund","Luxembourg"
-"2022","UNICEF","0.7","1.5%","united nations childrenâ€™s fund","Luxembourg"
-"2018","UNFPA","0.3","0.5%","united nations population fund","Luxembourg"
-"2019","UNFPA","0.2","0.3%","united nations population fund","Luxembourg"
-"2020","UNFPA","0.4","0.7%","united nations population fund","Luxembourg"
-"2021","UNFPA","0.4","0.7%","united nations population fund","Luxembourg"
-"2022","UNFPA","0.6","1.1%","united nations population fund","Luxembourg"
-"2018","African Development Fund","0.3","0.4%","african development fund","Luxembourg"
-"2019","African Development Fund","0.2","0.4%","african development fund","Luxembourg"
-"2020","African Development Fund","0.2","0.3%","african development fund","Luxembourg"
-"2021","African Development Fund","0.1","0.1%","african development fund","Luxembourg"
-"2022","African Development Fund","0","0.1%","african development fund","Luxembourg"
-"2018","UNDP","0","0%","united nations development programme","Luxembourg"
-"2019","UNDP","0","0%","united nations development programme","Luxembourg"
-"2020","UNDP","0","0%","united nations development programme","Luxembourg"
-"2021","UNDP","0","0%","united nations development programme","Luxembourg"
-"2022","UNDP","0","0.1%","united nations development programme","Luxembourg"
-"2018","AfDB","0","0%","african development bank","Luxembourg"
-"2019","AfDB","0","0%","african development bank","Luxembourg"
-"2020","AfDB","0","0%","african development bank","Luxembourg"
-"2021","AfDB","0","0%","african development bank","Luxembourg"
-"2022","AfDB","0","0%","african development bank","Luxembourg"
-"2018","EIB","0","0%","european investment bank","Luxembourg"
-"2019","EIB","0","0%","european investment bank","Luxembourg"
-"2020","EIB","0","0%","european investment bank","Luxembourg"
-"2021","EIB","0","0%","european investment bank","Luxembourg"
-"2022","EIB","0","0%","european investment bank","Luxembourg"
-"2018","UNIDO","0","0%","united nations industrial development organisation","Luxembourg"
-"2019","UNIDO","0","0%","united nations industrial development organisation","Luxembourg"
-"2020","UNIDO","0","0%","united nations industrial development organisation","Luxembourg"
-"2021","UNIDO","0","0%","united nations industrial development organisation","Luxembourg"
-"2022","UNIDO","0","0%","united nations industrial development organisation","Luxembourg"
-"2018","FAO","0","0%","food and agricultural organisation","Luxembourg"
-"2019","FAO","0","0%","food and agricultural organisation","Luxembourg"
-"2020","FAO","0","0%","food and agricultural organisation","Luxembourg"
-"2021","FAO","0","0%","food and agricultural organisation","Luxembourg"
-"2022","FAO","0","0%","food and agricultural organisation","Luxembourg"
-"2018","ADB","0.1","0.1%","asian development bank","Luxembourg"
-"2019","ADB","0.1","0.1%","asian development bank","Luxembourg"
-"2020","ADB","0","0%","asian development bank","Luxembourg"
-"2021","ADB","0","0%","asian development bank","Luxembourg"
-"2022","ADB","0","0%","asian development bank","Luxembourg"
-"2018","EBRD","0","0%","european bank for reconstruction and development","Luxembourg"
-"2019","EBRD","0","0%","european bank for reconstruction and development","Luxembourg"
-"2020","EBRD","0","0%","european bank for reconstruction and development","Luxembourg"
-"2021","EBRD","0","0%","european bank for reconstruction and development","Luxembourg"
-"2022","EBRD","0","0%","european bank for reconstruction and development","Luxembourg"
-"2018","IBRD","0.1","0.2%","international bank for reconstruction and development","Luxembourg"
-"2019","IBRD","0","0%","international bank for reconstruction and development","Luxembourg"
-"2020","IBRD","0","0%","international bank for reconstruction and development","Luxembourg"
-"2021","IBRD","0","0%","international bank for reconstruction and development","Luxembourg"
-"2022","IBRD","0","0%","international bank for reconstruction and development","Luxembourg"
-"2018","IFC","0","0%","international finance corporation","Luxembourg"
-"2019","IFC","0","0%","international finance corporation","Luxembourg"
-"2020","IFC","0","0%","international finance corporation","Luxembourg"
-"2021","IFC","0","0%","international finance corporation","Luxembourg"
-"2022","IFC","0","0%","international finance corporation","Luxembourg"
-"2018","ILO","0","0.1%","international labour organisation regular budget supplementary account","Luxembourg"
-"2019","ILO","0","0%","international labour organisation regular budget supplementary account","Luxembourg"
-"2020","ILO","0","0%","international labour organisation regular budget supplementary account","Luxembourg"
-"2021","ILO","0","0%","international labour organisation regular budget supplementary account","Luxembourg"
-"2022","ILO","0","0%","international labour organisation regular budget supplementary account","Luxembourg"
-"2018","UN","0","0%","united nations","Luxembourg"
-"2019","UN","0","0%","united nations","Luxembourg"
-"2020","UN","0","0%","united nations","Luxembourg"
-"2021","UN","0","0%","united nations","Luxembourg"
-"2022","UN","0","0%","united nations","Luxembourg"
-"2018","WFP","0","0%","world food programme","Luxembourg"
-"2019","WFP","0","0%","world food programme","Luxembourg"
-"2020","WFP","0","0%","world food programme","Luxembourg"
-"2021","WFP","0","0%","world food programme","Luxembourg"
-"2022","WFP","0","0%","world food programme","Luxembourg"
-"2018","CEB","0","0%","council of europe development bank","Luxembourg"
-"2019","CEB","0","0%","council of europe development bank","Luxembourg"
-"2020","CEB","0","0%","council of europe development bank","Luxembourg"
-"2021","CEB","0","0%","council of europe development bank","Luxembourg"
-"2022","CEB","0","0%","council of europe development bank","Luxembourg"
-"2018","UNRWA","0","0%","united nations relief and works agency for palestine refugees in the near east","Luxembourg"
-"2019","UNRWA","3","4.4%","united nations relief and works agency for palestine refugees in the near east","Luxembourg"
-"2020","UNRWA","3","5.7%","united nations relief and works agency for palestine refugees in the near east","Luxembourg"
-"2021","UNRWA","4.6","7.6%","united nations relief and works agency for palestine refugees in the near east","Luxembourg"
-"2022","UNRWA","0","0%","united nations relief and works agency for palestine refugees in the near east","Luxembourg"
+Year,ODA,Share,Full Name,donor
+2022,0.5784,0.07263138067432662,united nations population fund,Luxembourg
+2022,4.3515,0.5464305895648898,european commission development share of budget,Luxembourg
+2022,0.0345,0.0043322659634582785,african development fund,Luxembourg
+2022,0.010700000000000001,0.0013436303133044518,african development bank,Luxembourg
+2022,0.7812,0.09809757016387267,united nations children’s fund,Luxembourg
+2022,0.0001,1.2557292647705155e-05,food and agricultural organisation,Luxembourg
+2022,1.9972,0.25079424875996736,international development association,Luxembourg
+2022,0.008,0.0010045834118164124,european investment bank,Luxembourg
+2022,0.0013,0.000163244804420167,united nations industrial development organisation,Luxembourg
+2022,0.16999999999999998,0.02134739750109876,european commission european development fund,Luxembourg
+2022,0.0306,0.0038425315501977773,united nations development programme,Luxembourg
+2019,0.0005,4.848014737964804e-05,food and agricultural organisation,Luxembourg
+2019,0.0083,0.0008047704465021574,international labour organisation regular budget supplementary account,Luxembourg
+2019,0.058899999999999994,0.005710961361322538,asian development bank,Luxembourg
+2019,0.024999999999999998,0.0024240073689824016,world food programme,Luxembourg
+2019,0.2494,0.024181897512968443,african development fund,Luxembourg
+2019,0.0221,0.0021428225141804434,african development bank,Luxembourg
+2019,0.0022,0.00021331264847045136,united nations development programme,Luxembourg
+2019,3.1415,0.3046007659863286,united nations relief and works agency for palestine refugees in the near east,Luxembourg
+2019,0.25749999999999995,0.024967275900518733,united nations children’s fund,Luxembourg
+2019,0.0,0.0,council of europe development bank,Luxembourg
+2019,0.1924,0.018655160711688563,united nations population fund,Luxembourg
+2019,4.1852,0.40579822562660595,european commission development share of budget,Luxembourg
+2019,0.004,0.0003878411790371843,european investment bank,Luxembourg
+2019,2.1664999999999996,0.2100644785960149,international development association,Luxembourg
+2023,1.9961,0.2784582333575135,international development association,Luxembourg
+2023,0.0108,0.0015066123542213047,european investment bank,Luxembourg
+2023,0.5728,0.0799062552312929,united nations children’s fund,Luxembourg
+2023,0.07860000000000002,0.010964789911277275,african development fund,Luxembourg
+2023,0.034,0.004743038892918923,united nations development programme,Luxembourg
+2023,0.0001,1.3950114390938006e-05,food and agricultural organisation,Luxembourg
+2023,0.0009,0.00012555102951844206,united nations,Luxembourg
+2023,0.4466,0.06230121086992913,united nations population fund,Luxembourg
+2023,0.0006000000000000001,8.370068634562804e-05,united nations industrial development organisation,Luxembourg
+2023,4.0279,0.5618966575525919,european commission development share of budget,Luxembourg
+2021,3.2072,0.2812247904317632,european commission development share of budget,Luxembourg
+2021,0.0032,0.00028059345515765846,european investment bank,Luxembourg
+2021,0.6150999999999999,0.053935323208586156,united nations children’s fund,Luxembourg
+2021,0.0005,4.3842727368384136e-05,food and agricultural organisation,Luxembourg
+2021,0.0042,0.0003682789098944267,european bank for reconstruction and development,Luxembourg
+2021,4.809,0.42167935182911864,united nations relief and works agency for palestine refugees in the near east,Luxembourg
+2021,1.8319999999999999,0.16063975307775946,international development association,Luxembourg
+2021,0.0214,0.0018764687313668408,international labour organisation regular budget supplementary account,Luxembourg
+2021,0.38899999999999996,0.034109641892602856,european commission european development fund,Luxembourg
+2021,0.0924,0.008102136017677388,african development fund,Luxembourg
+2021,0.4273,0.037467994809021084,united nations population fund,Luxembourg
+2021,0.0013,0.00011399109115779874,united nations development programme,Luxembourg
+2021,0.0018,0.0001578338185261829,united nations industrial development organisation,Luxembourg
+2020,0.0,0.0,council of europe development bank,Luxembourg
+2020,3.0885,0.29910805078590313,united nations relief and works agency for palestine refugees in the near east,Luxembourg
+2020,0.005,0.0004842286721481353,european bank for reconstruction and development,Luxembourg
+2020,0.1641,0.015892385019901797,african development fund,Luxembourg
+2020,0.0031,0.00030022177673184387,united nations development programme,Luxembourg
+2020,0.5418,0.052471018913971934,united nations children’s fund,Luxembourg
+2020,0.0132,0.001278363694471077,international labour organisation regular budget supplementary account,Luxembourg
+2020,4.4523,0.43118626340102856,european commission development share of budget,Luxembourg
+2020,0.006,0.0005810744065777623,european investment bank,Luxembourg
+2020,1.6589,0.1606573888453083,international development association,Luxembourg
+2020,0.0006,5.8107440657776223e-05,food and agricultural organisation,Luxembourg
+2020,0.0031999999999999997,0.00030990635017480656,united nations industrial development organisation,Luxembourg
+2020,0.389,0.03767299069312492,united nations population fund,Luxembourg

@@ -1,6 +1,6 @@
-"Year","Gender funding as a % of bilateral allocable ODA","Funding for projects with gender equality as a principal objective","Funding for projects with gender equality as a Significant objective","Principal","Significant","Not targeted","Not screened"
-2018,"33%",0,3,"2%","31%","22%","45%"
-2019,"37%",0,3,"4%","33%","17%","46%"
-2020,"28%",0,2,"3%","26%","72%","0%"
-2021,"10%",0,1,"2%","8%","12%","78%"
-2022,"8%",0,5,"0%","7%","44%","48%"
+donor,Year,Gender funding as % of bilateral allocable ODA,Funding for projects with gender equality as a principal objective,Funding for projects with gender equality as a significant objective,Principal,Significant,Not targeted or screened
+Lithuania,2019,48.459002146358635,0.2975314183123878,2.561517953321365,5.042961405864137,43.416040740494495,51.54099785364137
+Lithuania,2020,40.9095687390552,0.24370646319569123,2.4147423698384203,3.7502795556450077,37.15928918341019,59.090431260944804
+Lithuania,2021,11.779043382872254,0.23794165170556553,1.2748940754039497,1.8526301222321973,9.926413260640057,88.22095661712774
+Lithuania,2022,33.535443029529844,0.11782136445242371,4.259134649910234,0.9027259223739478,32.6327171071559,66.46455697047016
+Lithuania,2023,8.270991046466271,0.06240215439856373,2.2410233393177728,0.22406961359015276,8.046921432876118,91.72900895353374

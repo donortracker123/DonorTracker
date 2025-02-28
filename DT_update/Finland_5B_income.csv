@@ -1,36 +1,31 @@
-Year,Income Group,ODA,Share,Donor
-2018,Countries unspecified,188.680415,36.06%,Finland
-2019,Countries unspecified,296.149448,44.57%,Finland
-2020,Countries unspecified,229.095566,32.77%,Finland
-2021,Countries unspecified,285.725022,40.58%,Finland
-2022,Countries unspecified,617.885287,56.20%,Finland
-2018,Lower-middle income countries,113.905789,21.77%,Finland
-2019,Lower-middle income countries,103.768141,15.62%,Finland
-2020,Lower-middle income countries,119.361075,17.07%,Finland
-2021,Lower-middle income countries,108.28593,15.38%,Finland
-2022,Lower-middle income countries,166.422689,15.14%,Finland
-2018,Unallocated by income,56.986303,10.89%,Finland
-2019,Unallocated by income,70.675391,10.64%,Finland
-2020,Unallocated by income,149.096342,21.33%,Finland
-2021,Unallocated by income,116.168727,16.50%,Finland
-2022,Unallocated by income,143.065199,13.01%,Finland
-2018,Low income countries,111.615096,21.33%,Finland
-2019,Low income countries,152.766017,22.99%,Finland
-2020,Low income countries,165.718272,23.70%,Finland
-2021,Low income countries,161.54891,22.94%,Finland
-2022,Low income countries,139.034974,12.65%,Finland
-2018,Upper-middle income countries,52.057457,9.95%,Finland
-2019,Upper-middle income countries,41.12595,6.19%,Finland
-2020,Upper-middle income countries,35.212291,5.04%,Finland
-2021,Upper-middle income countries,32.359561,4.60%,Finland
-2022,Upper-middle income countries,32.949728,3%,Finland
-2018,Countries not classified,0,0%,Finland
-2019,Countries not classified,0,0%,Finland
-2020,Countries not classified,0.60636,0.09%,Finland
-2021,Countries not classified,0,0%,Finland
-2022,Countries not classified,0,0%,Finland
-2018,High income countries,0.062257,0.01%,Finland
-2019,High income countries,0.033721,0.01%,Finland
-2020,High income countries,0,0%,Finland
-2021,High income countries,0,0%,Finland
-2022,High income countries,0,0%,Finland
+donor,year,incomegroup_name,total_oda,share
+Finland,2023,Part I unallocated by income,545.4758449999997,62.28133338600287
+Finland,2023,LDCs,169.85592000000003,19.393806853365323
+Finland,2023,LMICs,115.01367100000006,13.132029315613524
+Finland,2023,UMICs,29.055496000000005,3.3174980150984945
+Finland,2023,Other LICs,16.424641,1.875332429919811
+Finland,2023,,,
+Finland,2022,Part I unallocated by income,717.4982449999998,69.21772300680598
+Finland,2022,LDCs,178.71360199999987,17.240667398126618
+Finland,2022,LMICs,104.33511699999994,10.065305774216483
+Finland,2022,UMICs,24.727928000000002,2.385526212452607
+Finland,2022,Other LICs,11.306801,1.0907776083982996
+Finland,2022,,,
+Finland,2021,Part I unallocated by income,376.6114470000004,57.0800325836146
+Finland,2021,LDCs,199.23524799999964,30.196518290227388
+Finland,2021,LMICs,45.34154799999995,6.87206153144761
+Finland,2021,UMICs,22.184829999999998,3.3623800586760955
+Finland,2021,Other LICs,16.422358000000003,2.4890075360343022
+Finland,2021,,,
+Finland,2020,Part I unallocated by income,353.096338,54.09774829706426
+Finland,2020,LDCs,208.87120699999957,32.001073833821465
+Finland,2020,LMICs,45.078609999999955,6.906475754391769
+Finland,2020,UMICs,29.367348000000003,4.499359606092242
+Finland,2020,Other LICs,16.287116,2.4953425086302876
+Finland,2020,,,
+Finland,2019,Part I unallocated by income,343.00645299999985,55.20158152806619
+Finland,2019,LDCs,182.7436630000003,29.409765103841867
+Finland,2019,LMICs,43.10956700000002,6.937817806565097
+Finland,2019,UMICs,34.47097699999998,5.547570404506631
+Finland,2019,Other LICs,18.040039000000007,2.9032651570202224
+Finland,2019,,,

@@ -1,91 +1,94 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Health policy and administrative management",24.690632,"35%","Ireland"
-2019,"Health policy and administrative management",21.933951,"29%","Ireland"
-2020,"Health policy and administrative management",20.975799,"25%","Ireland"
-2021,"Health policy and administrative management",15.224466,"15%","Ireland"
-2022,"Health policy and administrative management",13.805522,"15%","Ireland"
-2018,"Medical education/training",0.080711,"0%","Ireland"
-2019,"Medical education/training",0.60834,"1%","Ireland"
-2020,"Medical education/training",0.383735,"0%","Ireland"
-2021,"Medical education/training",0.609756,"1%","Ireland"
-2022,"Medical education/training",0.526242,"1%","Ireland"
-2018,"Medical research",0.024375,"0%","Ireland"
-2018,"Medical services",0.764194,"1%","Ireland"
-2019,"Medical services",0.607343,"1%","Ireland"
-2020,"Medical services",0.43214,"1%","Ireland"
-2021,"Medical services",0.212757,"0%","Ireland"
-2022,"Medical services",0.583907,"1%","Ireland"
-2018,"Basic health care",9.58041,"13%","Ireland"
-2019,"Basic health care",18.741652,"25%","Ireland"
-2020,"Basic health care",17.905834,"21%","Ireland"
-2021,"Basic health care",19.987966,"20%","Ireland"
-2022,"Basic health care",18.596249,"20%","Ireland"
-2018,"Basic health infrastructure",0.198445,"0%","Ireland"
-2019,"Basic health infrastructure",0.353056,"0%","Ireland"
-2020,"Basic health infrastructure",1.354393,"2%","Ireland"
-2021,"Basic health infrastructure",0.188313,"0%","Ireland"
-2022,"Basic health infrastructure",0.618012,"1%","Ireland"
-2018,"Basic nutrition",20.948894,"29%","Ireland"
-2019,"Basic nutrition",17.068786,"22%","Ireland"
-2020,"Basic nutrition",16.667228,"19%","Ireland"
-2021,"Basic nutrition",14.855485,"15%","Ireland"
-2022,"Basic nutrition",16.930911,"18%","Ireland"
-2018,"Infectious disease control",0.032297,"0%","Ireland"
-2019,"Infectious disease control",0.049891,"0%","Ireland"
-2020,"Infectious disease control",0.077376,"0%","Ireland"
-2021,"Infectious disease control",0.096233,"0%","Ireland"
-2022,"Infectious disease control",2.426513,"3%","Ireland"
-2018,"Health education",1.551216,"2%","Ireland"
-2019,"Health education",0.898437,"1%","Ireland"
-2020,"Health education",0.322749,"0%","Ireland"
-2021,"Health education",0.41649,"0%","Ireland"
-2022,"Health education",0.849825,"1%","Ireland"
-2018,"Malaria control",1.218743,"2%","Ireland"
-2019,"Malaria control",1.181675,"2%","Ireland"
-2020,"Malaria control",1.187793,"1%","Ireland"
-2021,"Malaria control",1.182592,"1%","Ireland"
-2022,"Malaria control",1.114981,"1%","Ireland"
-2018,"Tuberculosis control",1.218743,"2%","Ireland"
-2019,"Tuberculosis control",1.181675,"2%","Ireland"
-2020,"Tuberculosis control",1.187793,"1%","Ireland"
-2021,"Tuberculosis control",1.182592,"1%","Ireland"
-2022,"Tuberculosis control",1.114981,"1%","Ireland"
-2018,"Health personnel development",0.878599,"1%","Ireland"
-2019,"Health personnel development",1.012015,"1%","Ireland"
-2020,"Health personnel development",0.994939,"1%","Ireland"
-2021,"Health personnel development",0.946613,"1%","Ireland"
-2022,"Health personnel development",1.587735,"2%","Ireland"
-2019,"Population policy and administrative management",1.343347,"2%","Ireland"
-2020,"Population policy and administrative management",0.593896,"1%","Ireland"
-2021,"Population policy and administrative management",0.295648,"0%","Ireland"
-2022,"Population policy and administrative management",0.222996,"0%","Ireland"
-2018,"Reproductive health care",0.513231,"1%","Ireland"
-2019,"Reproductive health care",3.147198,"4%","Ireland"
-2020,"Reproductive health care",4.125729,"5%","Ireland"
-2021,"Reproductive health care",2.124698,"2%","Ireland"
-2022,"Reproductive health care",1.95438,"2%","Ireland"
-2018,"Family planning",1.280184,"2%","Ireland"
-2019,"Family planning",0.031787,"0%","Ireland"
-2020,"Family planning",0.041573,"0%","Ireland"
-2021,"Family planning",0.026963,"0%","Ireland"
-2022,"Family planning",0.089085,"0%","Ireland"
-2018,"STD control including HIV/AIDS",8.343276,"12%","Ireland"
-2019,"STD control including HIV/AIDS",8.060864,"11%","Ireland"
-2020,"STD control including HIV/AIDS",3.207858,"4%","Ireland"
-2021,"STD control including HIV/AIDS",2.258941,"2%","Ireland"
-2022,"STD control including HIV/AIDS",2.547991,"3%","Ireland"
-2018,"Personnel development for population and reproductive health",0.022471,"0%","Ireland"
-2019,"Personnel development for population and reproductive health",0.051877,"0%","Ireland"
-2020,"Personnel development for population and reproductive health",0.030408,"0%","Ireland"
-2021,"Personnel development for population and reproductive health",0.00544,"0%","Ireland"
-2022,"Personnel development for population and reproductive health",0.03659,"0%","Ireland"
-2021,"Control of harmful use of alcohol and drugs",0.018575,"0%","Ireland"
-2022,"Control of harmful use of alcohol and drugs",0.078049,"0%","Ireland"
-2020,"Promotion of mental health and well-being",0.023756,"0%","Ireland"
-2021,"Promotion of mental health and well-being",0.011826,"0%","Ireland"
-2022,"Promotion of mental health and well-being",0.020589,"0%","Ireland"
-2021,"Other prevention and treatment of NCDs",0.295648,"0%","Ireland"
-2022,"Other prevention and treatment of NCDs",0.30662,"0%","Ireland"
-2020,"COVID-19 control",16.080609,"19%","Ireland"
-2021,"COVID-19 control",38.666169,"39%","Ireland"
-2022,"COVID-19 control",29.57689,"32%","Ireland"
+donor,year,Sector,Bilateral ODA for,share
+Ireland,2023,Basic health care,26.729351894999986,33.66863730773276
+Ireland,2023,Basic nutrition,26.37592632,33.2234578830054
+Ireland,2023,Reproductive health care,8.37754773,10.55246745815608
+Ireland,2023,Health policy and administrative management,5.240853285,6.601446571875622
+Ireland,2023,Health personnel development,3.2530030950000004,4.097524765910049
+Ireland,2023,STD control including HIV/AIDS,2.815258275,3.546135729774245
+Ireland,2023,Health education,1.7187204299999999,2.164922479915614
+Ireland,2023,Tuberculosis control,1.08133071,1.3620581459557748
+Ireland,2023,Malaria control,1.08133071,1.3620581459557748
+Ireland,2023,Basic health infrastructure,0.7634612250000001,0.9616656319995062
+Ireland,2023,Infectious disease control,0.559143105,0.7043038858299465
+Ireland,2023,Medical education/training,0.513164925,0.6463891757176066
+Ireland,2023,Other prevention and treatment of NCDs,0.33521194499999996,0.42223730084289296
+Ireland,2023,Promotion of mental health and well-being,0.175621695,0.22121535814081386
+Ireland,2023,Medical services,0.158888415,0.20013790226003264
+Ireland,2023,Family planning,0.10423794,0.13129945721660796
+Ireland,2023,COVID-19 control,0.08109974999999998,0.10215429387229447
+Ireland,2023,Personnel development for population and reproductive health,0.01450317,0.01826838048526469
+Ireland,2023,"NCDs control, general",0.010812945000000001,0.013620125353715113
+Ireland,2022,COVID-19 control,29.709801254999995,31.8071898169477
+Ireland,2022,Basic health care,18.67981351499999,19.998530758155013
+Ireland,2022,Basic nutrition,17.00699139,18.20761433959062
+Ireland,2022,Health policy and administrative management,13.867557765000003,14.846549741042429
+Ireland,2022,STD control including HIV/AIDS,2.559445275,2.7401314801563768
+Ireland,2022,Infectious disease control,2.4374165100000003,2.609487991222587
+Ireland,2022,Reproductive health care,1.9631645550000003,2.101755818116754
+Ireland,2022,Health personnel development,1.594870515,1.7074617486887713
+Ireland,2022,Tuberculosis control,1.119991275,1.1990580068675145
+Ireland,2022,Malaria control,1.119991275,1.1990580068675145
+Ireland,2022,Health education,0.8536422300000001,0.9139058256339904
+Ireland,2022,Basic health infrastructure,0.6207885,0.6646135895087879
+Ireland,2022,Medical services,0.5865327749999999,0.6279395526130078
+Ireland,2022,Medical education/training,0.5286074249999999,0.5659249135095888
+Ireland,2022,Other prevention and treatment of NCDs,0.307998,0.3297413794577826
+Ireland,2022,Population policy and administrative management,0.223998255,0.23981160137350294
+Ireland,2022,Family planning,0.089484495,0.09580172865207906
+Ireland,2022,Control of harmful use of alcohol and drugs,0.07839891,0.0839335473976667
+Ireland,2022,Personnel development for population and reproductive health,0.03675421499999999,0.03934890991171346
+Ireland,2022,Promotion of mental health and well-being,0.020681235,0.02214124428662061
+Ireland,2021,COVID-19 control,39.044102384999974,39.21232690633208
+Ireland,2021,Basic health care,20.183333654999995,20.27029510207127
+Ireland,2021,Health policy and administrative management,15.373280325000001,15.439517286948215
+Ireland,2021,Basic nutrition,15.000685815000002,15.065317424813912
+Ireland,2021,STD control including HIV/AIDS,2.28102339,2.2908513549035425
+Ireland,2021,Reproductive health care,2.145462735,2.1547066263839625
+Ireland,2021,Malaria control,1.1941514850000001,1.1992965786169898
+Ireland,2021,Tuberculosis control,1.1941514850000001,1.1992965786169898
+Ireland,2021,Health personnel development,0.95586519,0.9599836087680943
+Ireland,2021,Medical education/training,0.6157169699999999,0.6183698339724625
+Ireland,2021,Health education,0.42055998,0.4223719950549068
+Ireland,2021,Other prevention and treatment of NCDs,0.298537605,0.29982387725708876
+Ireland,2021,Population policy and administrative management,0.298537605,0.29982387725708876
+Ireland,2021,Medical services,0.214837125,0.21576276729447816
+Ireland,2021,Basic health infrastructure,0.190152555,0.1909718419240411
+Ireland,2021,Infectious disease control,0.09717379500000001,0.09759247577766796
+Ireland,2021,Family planning,0.027226725,0.027344033440988146
+Ireland,2021,Control of harmful use of alcohol and drugs,0.01875678,0.018837595030811
+Ireland,2021,Promotion of mental health and well-being,0.011941845000000001,0.011993297358646593
+Ireland,2021,Personnel development for population and reproductive health,0.005493270000000001,0.005516938176750122
+Ireland,2020,Health policy and administrative management,21.21693426,24.50626684728626
+Ireland,2020,Basic health care,18.11167542,20.919589298569825
+Ireland,2020,Basic nutrition,16.85883285,19.472514336569166
+Ireland,2020,COVID-19 control,16.26548088000001,18.78717301755512
+Ireland,2020,Reproductive health care,4.173158835000001,4.8201376670816085
+Ireland,2020,STD control including HIV/AIDS,3.244733369999999,3.747775283605672
+Ireland,2020,Basic health infrastructure,1.3699616849999998,1.582351446809258
+Ireland,2020,Tuberculosis control,1.2014478,1.387712288169432
+Ireland,2020,Malaria control,1.2014478,1.387712288169432
+Ireland,2020,Health personnel development,1.00637601,1.162397863307855
+Ireland,2020,Population policy and administrative management,0.6007239,0.693856144084716
+Ireland,2020,Medical services,0.437106885,0.5048730336498705
+Ireland,2020,Medical education/training,0.38814670500000004,0.4483223924842807
+Ireland,2020,Health education,0.32645764499999996,0.37706947029521726
+Ireland,2020,Infectious disease control,0.078265785,0.0903995925480298
+Ireland,2020,Family planning,0.04205046,0.04856968406382463
+Ireland,2020,Personnel development for population and reproductive health,0.030757200000000002,0.03552559203128496
+Ireland,2020,Promotion of mental health and well-being,0.02402853,0.02775375371917768
+Ireland,2019,Health policy and administrative management,22.223909865,28.757586420749572
+Ireland,2019,Basic health care,18.989404754999995,24.57215906821737
+Ireland,2019,Basic nutrition,17.29442637,22.378868702839085
+Ireland,2019,STD control including HIV/AIDS,8.167424295,10.568590829658321
+Ireland,2019,Reproductive health care,3.1888006350000007,4.126286076419597
+Ireland,2019,Population policy and administrative management,1.361105145,1.7612606905281099
+Ireland,2019,Malaria control,1.19729643,1.549293340646832
+Ireland,2019,Tuberculosis control,1.19729643,1.549293340646832
+Ireland,2019,Health personnel development,1.0253937149999999,1.326852410468321
+Ireland,2019,Health education,0.9103098149999999,1.1779346358737155
+Ireland,2019,Medical education/training,0.6163815300000001,0.7975934578930514
+Ireland,2019,Medical services,0.615372975,0.7962883946639092
+Ireland,2019,Basic health infrastructure,0.35772178499999996,0.462889527954909
+Ireland,2019,Personnel development for population and reproductive health,0.05256201,0.06801487920916309
+Ireland,2019,Infectious disease control,0.05055022499999999,0.06541164326423239
+Ireland,2019,Family planning,0.03220773,0.04167658096696337

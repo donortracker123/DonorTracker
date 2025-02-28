@@ -1,41 +1,44 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Education policy and administrative management",33.023657,"24%","Denmark"
-2019,"Education policy and administrative management",25.513923,"26%","Denmark"
-2020,"Education policy and administrative management",27.126025,"23%","Denmark"
-2021,"Education policy and administrative management",0.070544,"0%","Denmark"
-2022,"Education policy and administrative management",11.086475,"14%","Denmark"
-2018,"Education facilities and training",50.621979,"37%","Denmark"
-2019,"Education facilities and training",50.594553,"52%","Denmark"
-2020,"Education facilities and training",71.381488,"61%","Denmark"
-2021,"Education facilities and training",47.643251,"63%","Denmark"
-2022,"Education facilities and training",41.579178,"52%","Denmark"
-2022,"Teacher training",0.002119,"0%","Denmark"
-2018,"Primary education",41.328856,"31%","Denmark"
-2019,"Primary education",8.693416,"9%","Denmark"
-2020,"Primary education",6.161607,"5%","Denmark"
-2021,"Primary education",17.389583,"23%","Denmark"
-2022,"Primary education",16.437382,"21%","Denmark"
-2018,"Basic life skills for adults",0.397545,"0%","Denmark"
-2019,"Basic life skills for adults",0.589815,"1%","Denmark"
-2020,"Basic life skills for adults",0.478461,"0%","Denmark"
-2020,"Basic life skills for youth",0.909343,"1%","Denmark"
-2021,"Basic life skills for youth",0.748911,"1%","Denmark"
-2018,"Early childhood education",0.759935,"1%","Denmark"
-2019,"Early childhood education",0.419176,"0%","Denmark"
-2020,"Early childhood education",0.136921,"0%","Denmark"
-2018,"Upper Secondary Education (modified and includes data from 11322)",0.25429,"0%","Denmark"
-2019,"Upper Secondary Education (modified and includes data from 11322)",0.251238,"0%","Denmark"
-2018,"Vocational training",1.006142,"1%","Denmark"
-2019,"Vocational training",0.877937,"1%","Denmark"
-2020,"Vocational training",0.253983,"0%","Denmark"
-2021,"Vocational training",0.599554,"1%","Denmark"
-2022,"Vocational training",1.206477,"2%","Denmark"
-2018,"Higher education",7.794381,"6%","Denmark"
-2019,"Higher education",10.227896,"11%","Denmark"
-2020,"Higher education",9.887991,"8%","Denmark"
-2021,"Higher education",9.541833,"13%","Denmark"
-2022,"Higher education",9.319866,"12%","Denmark"
-2018,"Advanced technical and managerial training",0.28457,"0%","Denmark"
-2021,"Advanced technical and managerial training",0.168108,"0%","Denmark"
-2021,"School feeding",0.047464,"0%","Denmark"
-2022,"School feeding",0.029203,"0%","Denmark"
+donor,year,Sector,Bilateral ODA for,share
+Denmark,2023,Education facilities and training,38.0958908435,48.67163159209007
+Denmark,2023,Education policy and administrative management,20.685561392999997,26.42804777900186
+Denmark,2023,Higher education,9.4353458395,12.054677459326541
+Denmark,2023,Primary education,8.781430308000001,11.219229458589105
+Denmark,2023,Vocational training,1.2730142215,1.6264137109924295
+Denmark,2022,Education facilities and training,40.4994110745,52.19534564499253
+Denmark,2022,Primary education,16.010519658,20.63424097619609
+Denmark,2022,Education policy and administrative management,10.798571700000002,13.917120456811315
+Denmark,2022,Higher education,9.0778392565,11.699453032319168
+Denmark,2022,Vocational training,1.175146539,1.5145202895368015
+Denmark,2022,School feeding,0.028444391500000003,0.03665892433035378
+Denmark,2022,Teacher training,0.0020644715,0.0026606758137424726
+Denmark,2022,Educational research,0.0,0.0
+Denmark,2022,Basic life skills for youth,0.0,0.0
+Denmark,2022,Basic life skills for adults,0.0,0.0
+Denmark,2021,Education facilities and training,46.2831094075,62.51636281103619
+Denmark,2021,Primary education,16.8931373625,22.81820555901511
+Denmark,2021,Higher education,9.269428483,12.520570927766503
+Denmark,2021,Basic life skills for youth,0.7275314900000001,0.9827045582621006
+Denmark,2021,Vocational training,0.5824378840000002,0.786721085449281
+Denmark,2021,Advanced technical and managerial training,0.16330869800000003,0.22058729296851298
+Denmark,2021,Education policy and administrative management,0.0685301365,0.09256627162196641
+Denmark,2021,School feeding,0.0461092275,0.06228149388034626
+Denmark,2021,Basic life skills for adults,0.0,0.0
+Denmark,2021,Teacher training,0.0,0.0
+Denmark,2020,Education facilities and training,69.401224116,61.35813340423619
+Denmark,2020,Education policy and administrative management,26.373494952000005,23.317001136694564
+Denmark,2020,Higher education,9.613679358499999,8.499524728821063
+Denmark,2020,Primary education,5.9906724745,5.296397658016444
+Denmark,2020,Basic life skills for youth,0.8841167475,0.7816541282809729
+Denmark,2020,Basic life skills for adults,0.4651878385,0.41127599428222283
+Denmark,2020,Vocational training,0.2469364835,0.2183183638323301
+Denmark,2020,Early childhood education,0.13312250350000002,0.1176945858362142
+Denmark,2020,Educational research,0.0,0.0
+Denmark,2019,Education facilities and training,49.3523645475,52.069175825759
+Denmark,2019,Education policy and administrative management,24.887508394,26.257547380227454
+Denmark,2019,Higher education,9.976782571000001,10.525997095129698
+Denmark,2019,Primary education,8.4799759975,8.946792423432335
+Denmark,2019,Vocational training,0.8563824290000002,0.9035256502608727
+Denmark,2019,Basic life skills for adults,0.575335131,0.6070069057368519
+Denmark,2019,Early childhood education,0.40888471400000004,0.4313935160136043
+Denmark,2019,Upper Secondary Education (modified and includes data from 11322),0.245070266,0.2585612034401689
+Denmark,2019,Basic life skills for youth,0.0,0.0

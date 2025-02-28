@@ -1,96 +1,115 @@
-"Year","Sector","Gender-related ODA to","Share","Donor"
-"2018","Humanitarian aid",1052.28,"14%","United Kingdom"
-"2019","Humanitarian aid",1365.97,"17%","United Kingdom"
-"2020","Humanitarian aid",1624.92,"23%","United Kingdom"
-"2021","Humanitarian aid",771.18,"18%","United Kingdom"
-"2022","Humanitarian aid",1094.93,"27%","United Kingdom"
-"2018","Health & populations",1204.85,"17%","United Kingdom"
-"2019","Health & populations",1175.97,"15%","United Kingdom"
-"2020","Health & populations",1323.96,"19%","United Kingdom"
-"2021","Health & populations",584.58,"13%","United Kingdom"
-"2022","Health & populations",565.85,"14%","United Kingdom"
-"2018","Government & civil society",600.48,"8%","United Kingdom"
-"2019","Government & civil society",836.9,"10%","United Kingdom"
-"2020","Government & civil society",615.39,"9%","United Kingdom"
-"2021","Government & civil society",365.03,"8%","United Kingdom"
-"2022","Government & civil society",409.56,"10%","United Kingdom"
-"2018","Education",713.64,"10%","United Kingdom"
-"2019","Education",855.22,"11%","United Kingdom"
-"2020","Education",558.72,"8%","United Kingdom"
-"2021","Education",471.33,"11%","United Kingdom"
-"2022","Education",347.49,"9%","United Kingdom"
-"2018","Financial services & business support",1052.2,"14%","United Kingdom"
-"2019","Financial services & business support",1272.74,"16%","United Kingdom"
-"2020","Financial services & business support",800.69,"11%","United Kingdom"
-"2021","Financial services & business support",638.19,"15%","United Kingdom"
-"2022","Financial services & business support",261.98,"7%","United Kingdom"
-"2018","Other multisector",406.12,"6%","United Kingdom"
-"2019","Other multisector",489.83,"6%","United Kingdom"
-"2020","Other multisector",412.22,"6%","United Kingdom"
-"2021","Other multisector",293.45,"7%","United Kingdom"
-"2022","Other multisector",252.02,"6%","United Kingdom"
-"2018","Environmental protection",218.88,"3%","United Kingdom"
-"2019","Environmental protection",151.16,"2%","United Kingdom"
-"2020","Environmental protection",96.36,"1%","United Kingdom"
-"2021","Environmental protection",118.09,"3%","United Kingdom"
-"2022","Environmental protection",188.84,"5%","United Kingdom"
-"2018","Conflict, peace & security",474.58,"7%","United Kingdom"
-"2019","Conflict, peace & security",456.38,"6%","United Kingdom"
-"2020","Conflict, peace & security",340.95,"5%","United Kingdom"
-"2021","Conflict, peace & security",299.3,"7%","United Kingdom"
-"2022","Conflict, peace & security",177.93,"4%","United Kingdom"
-"2018","Industry, construction & mining",439.4,"6%","United Kingdom"
-"2019","Industry, construction & mining",533.33,"7%","United Kingdom"
-"2020","Industry, construction & mining",373.43,"5%","United Kingdom"
-"2021","Industry, construction & mining",286.38,"7%","United Kingdom"
-"2022","Industry, construction & mining",125.96,"3%","United Kingdom"
-"2018","Energy",111.04,"2%","United Kingdom"
-"2019","Energy",105.17,"1%","United Kingdom"
-"2020","Energy",109.54,"2%","United Kingdom"
-"2021","Energy",108.69,"2%","United Kingdom"
-"2022","Energy",123.98,"3%","United Kingdom"
-"2018","Agriculture (incl. forestry, fishing, rural development)",223.83,"3%","United Kingdom"
-"2019","Agriculture (incl. forestry, fishing, rural development)",163.24,"2%","United Kingdom"
-"2020","Agriculture (incl. forestry, fishing, rural development)",197.46,"3%","United Kingdom"
-"2021","Agriculture (incl. forestry, fishing, rural development)",74.22,"2%","United Kingdom"
-"2022","Agriculture (incl. forestry, fishing, rural development)",113.22,"3%","United Kingdom"
-"2018","Infrastructure",131.94,"2%","United Kingdom"
-"2019","Infrastructure",59.01,"1%","United Kingdom"
-"2020","Infrastructure",132.44,"2%","United Kingdom"
-"2021","Infrastructure",86.98,"2%","United Kingdom"
-"2022","Infrastructure",104.22,"3%","United Kingdom"
-"2018","Other social services",258.91,"4%","United Kingdom"
-"2019","Other social services",257.27,"3%","United Kingdom"
-"2020","Other social services",256.52,"4%","United Kingdom"
-"2021","Other social services",123.4,"3%","United Kingdom"
-"2022","Other social services",93.28,"2%","United Kingdom"
-"2018","Food aid and commodity assistance",45.63,"1%","United Kingdom"
-"2019","Food aid and commodity assistance",89.97,"1%","United Kingdom"
-"2020","Food aid and commodity assistance",77.64,"1%","United Kingdom"
-"2021","Food aid and commodity assistance",20.41,"0%","United Kingdom"
-"2022","Food aid and commodity assistance",54.62,"1%","United Kingdom"
-"2018","Water and sanitation",244.91,"3%","United Kingdom"
-"2019","Water and sanitation",151.7,"2%","United Kingdom"
-"2020","Water and sanitation",74.37,"1%","United Kingdom"
-"2021","Water and sanitation",74.05,"2%","United Kingdom"
-"2022","Water and sanitation",41.52,"1%","United Kingdom"
-"2018","Unspecified",47.12,"1%","United Kingdom"
-"2019","Unspecified",34.41,"0%","United Kingdom"
-"2020","Unspecified",29.3,"0%","United Kingdom"
-"2021","Unspecified",0.64,"0%","United Kingdom"
-"2022","Unspecified",26.14,"1%","United Kingdom"
-"2018","Trade policy",53.4,"1%","United Kingdom"
-"2019","Trade policy",72.13,"1%","United Kingdom"
-"2020","Trade policy",66.81,"1%","United Kingdom"
-"2021","Trade policy",34.75,"1%","United Kingdom"
-"2022","Trade policy",15.35,"0%","United Kingdom"
-"2018","Tourism",1.03,"0%","United Kingdom"
-"2019","Tourism",0.33,"0%","United Kingdom"
-"2020","Tourism",0.71,"0%","United Kingdom"
-"2021","Tourism",0.28,"0%","United Kingdom"
-"2022","Tourism",0.17,"0%","United Kingdom"
-"2018","Donor administration costs",0,"0%","United Kingdom"
-"2019","Donor administration costs",0.06,"0%","United Kingdom"
-"2020","Donor administration costs",0.34,"0%","United Kingdom"
-"2021","Donor administration costs",5.94,"0%","United Kingdom"
-"2022","Donor administration costs",0,"0%","United Kingdom"
+year,Sector,Gender-related ODA to,Share,donor
+2020,Emergency Response,1500.588732800901,20.0%,United Kingdom
+2020,Health & populations,1343.0268234633988,17.0%,United Kingdom
+2019,Financial services & business support,1280.7199786099013,15.0%,United Kingdom
+2019,Emergency Response,1227.552252638,14.0%,United Kingdom
+2019,Health & populations,1183.3441039000004,14.0%,United Kingdom
+2022,Emergency Response,1018.9193424223005,25.0%,United Kingdom
+2019,Education,860.5814409754005,10.0%,United Kingdom
+2019,Government & civil society,842.1504866427986,10.0%,United Kingdom
+2020,Financial services & business support,812.2245314038001,11.0%,United Kingdom
+2021,Emergency Response,690.6686226261006,15.0%,United Kingdom
+2021,Financial services & business support,650.5519532981996,14.0%,United Kingdom
+2020,Government & civil society,624.2542048298992,8.0%,United Kingdom
+2021,Health & populations,595.9074483000006,13.0%,United Kingdom
+2022,Health & populations,575.1203707235002,14.0%,United Kingdom
+2020,Education,573.7722079906002,7.0%,United Kingdom
+2019,"Industry, construction & mining",536.6709364226,6.0%,United Kingdom
+2019,"Agriculture (incl. forestry, fishing, rural development)",536.1133276444998,6.0%,United Kingdom
+2020,"Agriculture (incl. forestry, fishing, rural development)",508.72429639589984,7.0%,United Kingdom
+2019,Donor administration costs,503.1274410566002,6.0%,United Kingdom
+2021,Education,484.44961357810007,11.0%,United Kingdom
+2020,Donor administration costs,471.1437181494,6.0%,United Kingdom
+2019,"Conflict, peace & security",459.2401483360001,5.0%,United Kingdom
+2023,Health & populations,448.9591598919,15.0%,United Kingdom
+2022,Government & civil society,415.81496542729974,10.0%,United Kingdom
+2023,Emergency Response,400.20611122800005,13.0%,United Kingdom
+2020,"Industry, construction & mining",378.81009604500025,5.0%,United Kingdom
+2021,Government & civil society,372.61493080169953,8.0%,United Kingdom
+2022,"Agriculture (incl. forestry, fishing, rural development)",354.0902925954998,9.0%,United Kingdom
+2022,Education,353.151609561,9.0%,United Kingdom
+2020,"Conflict, peace & security",345.8558059141001,4.0%,United Kingdom
+2021,"Agriculture (incl. forestry, fishing, rural development)",331.24199023759985,7.0%,United Kingdom
+2023,"Agriculture (incl. forestry, fishing, rural development)",316.01008577260006,11.0%,United Kingdom
+2023,Government & civil society,315.8464916280004,11.0%,United Kingdom
+2021,"Conflict, peace & security",305.1041776045002,7.0%,United Kingdom
+2021,"Industry, construction & mining",291.9249427555999,7.0%,United Kingdom
+2022,Financial services & business support,266.27462310659985,6.0%,United Kingdom
+2020,Other social services,260.21217379970005,3.0%,United Kingdom
+2019,Other social services,258.8848208114,3.0%,United Kingdom
+2023,Energy,226.51109745940002,8.0%,United Kingdom
+2023,"Conflict, peace & security",195.0469388595999,7.0%,United Kingdom
+2022,Environmental protection,191.93644019910002,5.0%,United Kingdom
+2023,Education,186.90699059480016,6.0%,United Kingdom
+2023,Environmental protection,185.8172265213,6.0%,United Kingdom
+2022,"Conflict, peace & security",180.78649077569995,4.0%,United Kingdom
+2023,"Industry, construction & mining",152.68461598200003,5.0%,United Kingdom
+2019,Water and sanitation,152.65296976680003,2.0%,United Kingdom
+2019,Environmental protection,152.10666259030012,2.0%,United Kingdom
+2020,Infrastructure,134.34872793559998,2.0%,United Kingdom
+2022,"Industry, construction & mining",128.0284175742,3.0%,United Kingdom
+2022,Energy,126.01145812020002,3.0%,United Kingdom
+2021,Other social services,125.79555080020006,3.0%,United Kingdom
+2019,Other multisector,121.04599323430001,1.0%,United Kingdom
+2021,Environmental protection,120.37625976100003,3.0%,United Kingdom
+2020,Energy,111.12059960310002,1.0%,United Kingdom
+2021,Energy,110.61918081319997,2.0%,United Kingdom
+2020,Other multisector,109.73176495020002,1.0%,United Kingdom
+2019,Disaster Prevention & Preparedness,107.29494364119998,1.0%,United Kingdom
+2022,Infrastructure,105.91996123850001,3.0%,United Kingdom
+2019,Energy,105.830239632,1.0%,United Kingdom
+2020,Disaster Prevention & Preparedness,101.38309077169997,1.0%,United Kingdom
+2020,Environmental protection,97.74543751489995,1.0%,United Kingdom
+2022,Other social services,94.8073661612,2.0%,United Kingdom
+2023,Other social services,92.8699960298,3.0%,United Kingdom
+2023,Unspecified,92.1655270061,3.0%,United Kingdom
+2019,Food aid and commodity assistance,90.53647166229999,1.0%,United Kingdom
+2021,Infrastructure,88.66379908959989,2.0%,United Kingdom
+2020,Food aid and commodity assistance,78.76235429640002,1.0%,United Kingdom
+2021,Water and sanitation,75.48136349039994,2.0%,United Kingdom
+2020,Water and sanitation,75.4423325093,1.0%,United Kingdom
+2019,Trade policy,72.58691601600002,1.0%,United Kingdom
+2020,Trade policy,67.76944824240002,1.0%,United Kingdom
+2022,Disaster Prevention & Preparedness,66.75178380069998,2.0%,United Kingdom
+2021,Disaster Prevention & Preparedness,66.4057263367,1.0%,United Kingdom
+2023,Food aid and commodity assistance,64.23641376450001,2.0%,United Kingdom
+2023,Other multisector,62.072134342400005,2.0%,United Kingdom
+2019,Infrastructure,59.38311143330001,1.0%,United Kingdom
+2023,Financial services & business support,57.93832260279999,2.0%,United Kingdom
+2022,Food aid and commodity assistance,55.517799267699985,1.0%,United Kingdom
+2020,Reconstruction Relief & Rehabilitation,46.356016607699985,1.0%,United Kingdom
+2021,Other multisector,43.54377725160001,1.0%,United Kingdom
+2019,Unspecified,43.5263132051,1.0%,United Kingdom
+2023,Infrastructure,43.038639577100014,1.0%,United Kingdom
+2022,Water and sanitation,42.20012845280001,1.0%,United Kingdom
+2023,Reconstruction Relief & Rehabilitation,40.946017371500005,1.0%,United Kingdom
+2019,Reconstruction Relief & Rehabilitation,39.6862068129,0.0%,United Kingdom
+2021,Trade policy,35.41960666300002,1.0%,United Kingdom
+2020,Unspecified,32.8736320887,0.0%,United Kingdom
+2023,Disaster Prevention & Preparedness,31.9506931977,1.0%,United Kingdom
+2021,Donor administration costs,31.2970543387,1.0%,United Kingdom
+2023,Water and sanitation,30.520619813999993,1.0%,United Kingdom
+2021,Reconstruction Relief & Rehabilitation,29.045681841099995,1.0%,United Kingdom
+2022,Donor administration costs,27.4421546173,1.0%,United Kingdom
+2022,Reconstruction Relief & Rehabilitation,27.203751182399994,1.0%,United Kingdom
+2022,Unspecified,26.803510283700003,1.0%,United Kingdom
+2023,Refugees in donor countries,23.2688078244,1.0%,United Kingdom
+2021,Food aid and commodity assistance,20.805289077699992,0.0%,United Kingdom
+2022,Other multisector,17.1274809535,0.0%,United Kingdom
+2022,Refugees in donor countries,16.4015163874,0.0%,United Kingdom
+2022,Trade policy,15.600263337900003,0.0%,United Kingdom
+2021,Refugees in donor countries,15.4659161979,0.0%,United Kingdom
+2023,Trade policy,14.437647851100003,0.0%,United Kingdom
+2020,Refugees in donor countries,14.3269077319,0.0%,United Kingdom
+2019,Refugees in donor countries,9.801354010499999,0.0%,United Kingdom
+2023,General budget support,5.6183205941,0.0%,United Kingdom
+2023,Donor administration costs,2.5980649195,0.0%,United Kingdom
+2021,Unspecified,1.6525303972000003,0.0%,United Kingdom
+2020,Tourism,0.7244977809,0.0%,United Kingdom
+2019,Tourism,0.329983402,0.0%,United Kingdom
+2021,Tourism,0.2804339701,0.0%,United Kingdom
+2023,,0.2423364961,0.0%,United Kingdom
+2021,,0.17549608970000002,0.0%,United Kingdom
+2022,Tourism,0.1733489152,0.0%,United Kingdom
+2022,,0.0274730166,0.0%,United Kingdom
+2023,Tourism,0.0031077241,0.0%,United Kingdom

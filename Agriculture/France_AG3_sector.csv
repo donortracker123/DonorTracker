@@ -1,134 +1,174 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Agrarian reform",0.644113,"0%","France"
-2018,"Agricultural alternative development",3.252406,"0%","France"
-2018,"Agricultural co-operatives",5.077085,"1%","France"
-2018,"Agricultural development",67.697483,"10%","France"
-2018,"Agricultural education/training",18.062748,"3%","France"
-2018,"Agricultural extension",0.026502,"0%","France"
-2018,"Agricultural financial services",0.105217,"0%","France"
-2018,"Agricultural inputs",3.765305,"1%","France"
-2018,"Agricultural land resources",1.309878,"0%","France"
-2018,"Agricultural policy and administrative management",4.000699,"1%","France"
-2018,"Agricultural research",162.867098,"24%","France"
-2018,"Agricultural services",0.215818,"0%","France"
-2018,"Agricultural water resources",25.57389,"4%","France"
-2018,"Fishery development",0.939663,"0%","France"
-2018,"Fishery education/training",0.007485,"0%","France"
-2018,"Fishery services",0.001248,"0%","France"
-2018,"Fishing policy and administrative management",0.02509,"0%","France"
-2018,"Food crop production",4.315576,"1%","France"
-2018,"Forestry development",2.926161,"0%","France"
-2018,"Forestry education/training",0.018713,"0%","France"
-2018,"Forestry policy and administrative management",2.309864,"0%","France"
-2018,"Fuelwood/charcoal",0.597296,"0%","France"
-2018,"Industrial crops/export crops",3.89045,"1%","France"
-2018,"Livestock",6.651987,"1%","France"
-2018,"Livestock/veterinary services",0.183106,"0%","France"
-2018,"Plant and post-harvest protection and pest control",1.497539,"0%","France"
-2018,"Rural development",349.676533,"53%","France"
-2019,"Agrarian reform",0.054144,"0%","France"
-2019,"Agricultural alternative development",2.726278,"0%","France"
-2019,"Agricultural co-operatives",5.18206,"1%","France"
-2019,"Agricultural development",64.230828,"11%","France"
-2019,"Agricultural education/training",2.132865,"0%","France"
-2019,"Agricultural financial services",12.648435,"2%","France"
-2019,"Agricultural inputs",12.758232,"2%","France"
-2019,"Agricultural land resources",2.083322,"0%","France"
-2019,"Agricultural policy and administrative management",34.68792,"6%","France"
-2019,"Agricultural research",159.170745,"26%","France"
-2019,"Agricultural services",0.396139,"0%","France"
-2019,"Agricultural water resources",37.098892,"6%","France"
-2019,"Fishery development",1.48065,"0%","France"
-2019,"Fishery education/training",0.009308,"0%","France"
-2019,"Fishery research",0.083232,"0%","France"
-2019,"Fishery services",0.40285,"0%","France"
-2019,"Fishing policy and administrative management",2.285836,"0%","France"
-2019,"Food crop production",49.849027,"8%","France"
-2019,"Forestry education/training",0.110887,"0%","France"
-2019,"Forestry policy and administrative management",93.773264,"15%","France"
-2019,"Fuelwood/charcoal",1.196084,"0%","France"
-2019,"Industrial crops/export crops",0.913212,"0%","France"
-2019,"Livestock",3.751037,"1%","France"
-2019,"Livestock/veterinary services",0.853977,"0%","France"
-2019,"Plant and post-harvest protection and pest control",0.346381,"0%","France"
-2019,"Rural development",121.94484,"20%","France"
-2020,"Agrarian reform",0.080856,"0%","France"
-2020,"Agricultural alternative development",6.000586,"1%","France"
-2020,"Agricultural co-operatives",1.776632,"0%","France"
-2020,"Agricultural development",380.144717,"40%","France"
-2020,"Agricultural education/training",2.305126,"0%","France"
-2020,"Agricultural extension",0.217864,"0%","France"
-2020,"Agricultural financial services",40.382879,"4%","France"
-2020,"Agricultural inputs",18.00393,"2%","France"
-2020,"Agricultural land resources",1.692293,"0%","France"
-2020,"Agricultural policy and administrative management",4.509299,"0%","France"
-2020,"Agricultural research",158.385295,"17%","France"
-2020,"Agricultural services",6.411127,"1%","France"
-2020,"Agricultural water resources",22.551865,"2%","France"
-2020,"Fishery development",3.732764,"0%","France"
-2020,"Fishery education/training",0.016541,"0%","France"
-2020,"Fishery services",0.319166,"0%","France"
-2020,"Fishing policy and administrative management",0.427808,"0%","France"
-2020,"Food crop production",53.606166,"6%","France"
-2020,"Forestry development",1.603578,"0%","France"
-2020,"Forestry education/training",0.002996,"0%","France"
-2020,"Forestry policy and administrative management",90.643161,"10%","France"
-2020,"Forestry research",0.571609,"0%","France"
-2020,"Fuelwood/charcoal",1.06574,"0%","France"
-2020,"Industrial crops/export crops",1.024484,"0%","France"
-2020,"Livestock",11.118417,"1%","France"
-2020,"Livestock/veterinary services",1.985763,"0%","France"
-2020,"Rural development",139.018463,"15%","France"
-2021,"Agrarian reform",0.18286,"0%","France"
-2021,"Agricultural alternative development",2.321758,"0%","France"
-2021,"Agricultural co-operatives",2.202125,"0%","France"
-2021,"Agricultural development",203.620854,"27%","France"
-2021,"Agricultural education/training",2.532747,"0%","France"
-2021,"Agricultural financial services",1.892147,"0%","France"
-2021,"Agricultural inputs",3.106089,"0%","France"
-2021,"Agricultural land resources",0.572004,"0%","France"
-2021,"Agricultural policy and administrative management",10.002862,"1%","France"
-2021,"Agricultural research",164.40165,"22%","France"
-2021,"Agricultural services",57.94702,"8%","France"
-2021,"Agricultural water resources",45.887491,"6%","France"
-2021,"Fishery development",4.6011,"1%","France"
-2021,"Fishery education/training",0.091479,"0%","France"
-2021,"Fishery research",0.236518,"0%","France"
-2021,"Fishery services",0.500376,"0%","France"
-2021,"Fishing policy and administrative management",0.253075,"0%","France"
-2021,"Food crop production",53.182976,"7%","France"
-2021,"Forestry development",0.412961,"0%","France"
-2021,"Forestry education/training",0.002365,"0%","France"
-2021,"Forestry policy and administrative management",3.794119,"1%","France"
-2021,"Forestry services",0.128217,"0%","France"
-2021,"Fuelwood/charcoal",0.49329,"0%","France"
-2021,"Industrial crops/export crops",0.845868,"0%","France"
-2021,"Livestock",18.514293,"2%","France"
-2021,"Livestock/veterinary services",0.450421,"0%","France"
-2021,"Plant and post-harvest protection and pest control",3.845608,"1%","France"
-2021,"Rural development",171.949913,"23%","France"
-2022,"Agrarian reform",0.406329,"0%","France"
-2022,"Agricultural alternative development",5.131972,"1%","France"
-2022,"Agricultural co-operatives",0.866226,"0%","France"
-2022,"Agricultural development",150.260391,"25%","France"
-2022,"Agricultural education/training",2.911717,"0%","France"
-2022,"Agricultural extension",0.017044,"0%","France"
-2022,"Agricultural financial services",1.047609,"0%","France"
-2022,"Agricultural inputs",2.368666,"0%","France"
-2022,"Agricultural land resources",1.369077,"0%","France"
-2022,"Agricultural policy and administrative management",4.615631,"1%","France"
-2022,"Agricultural research",184.057751,"31%","France"
-2022,"Agricultural services",7.163297,"1%","France"
-2022,"Agricultural water resources",24.66063,"4%","France"
-2022,"Fishery development",2.49263,"0%","France"
-2022,"Fishery services",0.435318,"0%","France"
-2022,"Food crop production",23.050941,"4%","France"
-2022,"Forestry development",0.312042,"0%","France"
-2022,"Forestry education/training",0.013205,"0%","France"
-2022,"Forestry policy and administrative management",3.839395,"1%","France"
-2022,"Fuelwood/charcoal",5.867872,"1%","France"
-2022,"Industrial crops/export crops",12.524478,"2%","France"
-2022,"Livestock",21.021867,"4%","France"
-2022,"Livestock/veterinary services",0.068175,"0%","France"
-2022,"Plant and post-harvest protection and pest control",1.670725,"0%","France"
-2022,"Rural development",143.240203,"24%","France"
+donor,year,Sector,Bilateral ODA for,share
+France,2023,Disaster Risk Reduction,210.96922821500004,32.69777088120118
+France,2023,Agricultural research,174.19809964000004,26.99867463213478
+France,2023,Agricultural development,73.84222872500001,11.444684595170889
+France,2023,Rural development,64.49248895249998,9.995583930269639
+France,2023,Agricultural education/training,20.166787727499983,3.1256169921217443
+France,2023,Agricultural water resources,19.222652877500003,2.979287097153386
+France,2023,Food crop production,17.368320635000003,2.6918872174842146
+France,2023,Livestock,10.667630479999998,1.653358360513534
+France,2023,Research/scientific institutions,10.577570810000001,1.6394001615846578
+France,2023,Agricultural services,6.9409023175,1.075758941750145
+France,2023,Agricultural policy and administrative management,5.9273077725,0.9186636038221422
+France,2023,Plant and post-harvest protection and pest control,4.7678203725,0.7389565741969373
+France,2023,Agricultural alternative development,4.587757322500001,0.7110489006329515
+France,2023,Fuelwood/charcoal,4.0890582325,0.6337563555473447
+France,2023,Fishery development,4.0750983125,0.631592730692943
+France,2023,Multisector education/training,3.606728707499999,0.5590009021993512
+France,2023,Agricultural co-operatives,2.4373147824999997,0.37775537692317973
+France,2023,Fishing policy and administrative management,1.8470232024999997,0.2862670636784053
+France,2023,Agricultural land resources,1.1580206125,0.1794796946626032
+France,2023,Household food security programmes,1.1421901325000001,0.17702615481530412
+France,2023,Forestry policy and administrative management,0.9349281875000001,0.1449029696126942
+France,2023,Livestock/veterinary services,0.8758962149999999,0.13575370207352833
+France,2023,Fishery research,0.49796299,0.07717845816710531
+France,2023,Forestry development,0.40706113499999996,0.06308973038147253
+France,2023,Fishery services,0.15065369,0.023349565620097695
+France,2023,Non-agricultural alternative development,0.1078765375,0.016719605681249354
+France,2023,Agrarian reform,0.06797450499999999,0.010535255824076785
+France,2023,Agricultural extension,0.0467326075,0.007243009350912809
+France,2023,Forestry education/training,0.017596037499999998,0.0027271806768221192
+France,2023,Fishery education/training,0.014176420000000002,0.0021971798304314047
+France,2023,Agricultural financial services,0.004730525,0.0007331762262511635
+France,2023,Agricultural inputs,0.0,0.0
+France,2023,Food security policy and administrative management,,
+France,2023,Food safety and quality,,
+France,2023,Industrial crops/export crops,,
+France,2022,Agricultural research,181.33240682,28.00228535600954
+France,2022,Agricultural development,148.0355024575,22.860405678892466
+France,2022,Rural development,141.11925299500004,21.79236277118144
+France,2022,Disaster Risk Reduction,41.894401895,6.469549581656719
+France,2022,Agricultural water resources,24.2954795325,3.751833236325398
+France,2022,Food crop production,22.709622445,3.5069370069266097
+France,2022,Livestock,20.710597840000002,3.1982373188534226
+France,2022,Industrial crops/export crops,12.339028882500001,1.9054564699336438
+France,2022,Agricultural services,7.057231015,1.0898140060616819
+France,2022,Fuelwood/charcoal,5.7809840825,0.8927293733954864
+France,2022,Agricultural alternative development,5.0559840375,0.7807711277667155
+France,2022,Agricultural policy and administrative management,4.547284812500002,0.7022151701823057
+France,2022,Research/scientific institutions,3.827847735,0.5911159866819927
+France,2022,Forestry policy and administrative management,3.7825451099999996,0.5841201217129386
+France,2022,Food security policy and administrative management,3.528787625,0.5449335823027665
+France,2022,Household food security programmes,3.2156366124999995,0.4965751880955311
+France,2022,Agricultural education/training,2.8686001025,0.4429840206236293
+France,2022,Multisector education/training,2.7543021749999994,0.4253335452475836
+France,2022,Fishery development,2.4557216124999997,0.37922519506623775
+France,2022,Agricultural inputs,2.3335939625,0.3603656135654332
+France,2022,Plant and post-harvest protection and pest control,1.6459856324999997,0.2541815893885396
+France,2022,Non-agricultural alternative development,1.5912609275,0.2457307182381081
+France,2022,Agricultural land resources,1.3488047425,0.20828938385247409
+France,2022,Agricultural financial services,1.0320977175000001,0.1593818518573454
+France,2022,Agricultural co-operatives,0.8533986174999999,0.1317862153199155
+France,2022,Fishery services,0.428871345,0.06622852469843822
+France,2022,Agrarian reform,0.40031282999999995,0.06181837154160229
+France,2022,Forestry development,0.3074202575,0.04747342146778071
+France,2022,Food safety and quality,0.2129548125,0.032885580311521
+France,2022,Livestock/veterinary services,0.0671658775,0.010372101164513627
+France,2022,Agricultural extension,0.0167906575,0.00259289991720423
+France,2022,Forestry education/training,0.013009485,0.002008991761005766
+France,2022,Fishery research,,
+France,2022,Fishing policy and administrative management,,
+France,2021,Agricultural development,201.79261808,21.132697842659315
+France,2021,Disaster Risk Reduction,178.48945763749998,18.692278301568216
+France,2021,Rural development,170.40605126249997,17.84574493435367
+France,2021,Agricultural research,162.9255562525,17.062351357998075
+France,2021,Agricultural services,57.4267386625,6.014005506201686
+France,2021,Food crop production,52.70547120249999,5.519571568945343
+France,2021,Agricultural water resources,45.4754905075,4.762413061912533
+France,2021,Livestock,18.3480621575,1.9214977101841224
+France,2021,Research/scientific institutions,16.067788897499998,1.6826964782026252
+France,2021,Agricultural policy and administrative management,9.9130532875,1.0381428310715837
+France,2021,Household food security programmes,5.27388371,0.5523065806925036
+France,2021,Fishery development,4.5597898525,0.4775232220868689
+France,2021,Plant and post-harvest protection and pest control,3.81107981,0.3991146893542968
+France,2021,Forestry policy and administrative management,3.7600540075,0.3937710208064998
+France,2021,Agricultural inputs,3.07820133,0.3223641143303512
+France,2021,Non-agricultural alternative development,2.8471038175000007,0.29816246636958915
+France,2021,Agricultural education/training,2.510005739999999,0.2628599271442708
+France,2021,Agricultural alternative development,2.3009132875,0.24096275537502748
+France,2021,Agricultural co-operatives,2.1823557224999997,0.22854683440653512
+France,2021,Agricultural financial services,1.8751595425,0.1963757663460301
+France,2021,Food safety and quality,1.8699981825,0.19583524379186043
+France,2021,Multisector education/training,1.5787905274999996,0.16533857131128113
+France,2021,Food security policy and administrative management,1.55375122,0.1627163340628544
+France,2021,Industrial crops/export crops,0.8382739275,0.08778809546052745
+France,2021,Agricultural land resources,0.5668695275,0.05936531551475945
+France,2021,Fishery services,0.495882425,0.051931203196222325
+France,2021,Fuelwood/charcoal,0.4888613299999999,0.05119592020831449
+France,2021,Livestock/veterinary services,0.44637645249999996,0.04674669858845347
+France,2021,Forestry development,0.40925319750000005,0.04285897197924732
+France,2021,Fishing policy and administrative management,0.25080226,0.02626522431427527
+France,2021,Fishery research,0.23439480750000002,0.02454695662267506
+France,2021,Agrarian reform,0.1812180775,0.01897803255576413
+France,2021,Forestry services,0.1270649325,0.013306853592909196
+France,2021,Fishery education/training,0.0906582925,0.009494174368531127
+France,2021,Forestry education/training,0.0023436125,0.00024543442319155916
+France,2020,Agricultural development,377.09098804000007,37.507142481135276
+France,2020,Agricultural research,157.11298373749992,15.627154330332635
+France,2020,Rural development,137.901720925,13.716316908053702
+France,2020,Forestry policy and administrative management,89.91502202000001,8.943346961505274
+France,2020,Food crop production,53.175542497500004,5.289075348451004
+France,2020,Disaster Risk Reduction,51.488635117499996,5.121288057158252
+France,2020,Agricultural financial services,40.05848189499999,3.9843943124261734
+France,2020,Agricultural water resources,22.370704685,2.2250895264956365
+France,2020,Agricultural inputs,17.859303664999995,1.7763655680521369
+France,2020,Livestock,11.0290999625,1.0970032083829355
+France,2020,Agricultural services,6.3596257975,0.6325565937105708
+France,2020,Agricultural alternative development,5.952381720000002,0.5920502911898363
+France,2020,Research/scientific institutions,4.607396037499999,0.4582720487268702
+France,2020,Agricultural policy and administrative management,4.473069694999999,0.4449113548176781
+France,2020,Fishery development,3.7027789325000007,0.3682948184980005
+France,2020,Multisector education/training,3.364353709999999,0.33463354458240374
+France,2020,Non-agricultural alternative development,2.4353305599999997,0.24222878085034952
+France,2020,Agricultural education/training,2.2866004725000004,0.2274354265671057
+France,2020,Food security policy and administrative management,2.1311837825,0.21197699313682145
+France,2020,Livestock/veterinary services,1.9698111775,0.19592615797964466
+France,2020,Agricultural co-operatives,1.7623587124999995,0.17529201553232535
+France,2020,Agricultural land resources,1.6786987825,0.16697082777129899
+France,2020,Forestry development,1.590696945,0.1582177746292173
+France,2020,Fuelwood/charcoal,1.0571792425000002,0.10515173720444385
+France,2020,Industrial crops/export crops,1.016253165,0.1010810479844096
+France,2020,Household food security programmes,1.010407665,0.10049962862322823
+France,2020,Forestry research,0.5670167475000001,0.056398001045351115
+France,2020,Fishing policy and administrative management,0.4243713925,0.042209861248996186
+France,2020,Food safety and quality,0.360180225,0.03582512297146002
+France,2020,Fishery services,0.31660094,0.03149053396360068
+France,2020,Agricultural extension,0.21611246499999995,0.02149550446388429
+France,2020,Agrarian reform,0.080206755,0.007977719656921104
+France,2020,Fishery education/training,0.016407452500000003,0.0016319580106345071
+France,2020,Forestry education/training,0.0029714625,0.0002955548419338736
+France,2020,Plant and post-harvest protection and pest control,,
+France,2020,Fishery research,,
+France,2019,Agricultural research,157.9884989125,25.016083552500604
+France,2019,Rural development,121.03908799999999,19.165470647350425
+France,2019,Forestry policy and administrative management,93.07675771,14.737882590800357
+France,2019,Agricultural development,63.75373466249999,10.094840852841775
+France,2019,Food crop production,49.478769275,7.83452615081697
+France,2019,Agricultural water resources,36.8233386325,5.830650472999463
+France,2019,Agricultural policy and administrative management,34.430274284999996,5.45172986753991
+France,2019,Disaster Risk Reduction,18.706253830000005,2.9619700926757773
+France,2019,Agricultural inputs,12.6634692875,2.0051485262612423
+France,2019,Agricultural financial services,12.554487517499998,1.9878922254369062
+France,2019,Agricultural co-operatives,5.143565865,0.8144382301391028
+France,2019,Research/scientific institutions,3.8415121325,0.6082695204781227
+France,2019,Livestock,3.72317648,0.5895321149672366
+France,2019,Agricultural alternative development,2.7060215925000004,0.42847462137318165
+France,2019,Fishing policy and administrative management,2.2688582975,0.3592536743480231
+France,2019,Agricultural education/training,2.1170225174999997,0.33521181949855855
+France,2019,Agricultural land resources,2.0678467075,0.3274252642734013
+France,2019,Food security policy and administrative management,1.7956921350000001,0.28433199120783625
+France,2019,Fishery development,1.4696528775000002,0.23270655414654431
+France,2019,Fuelwood/charcoal,1.187201565,0.1879828832360005
+France,2019,Multisector education/training,0.94139396,0.14906141979500853
+France,2019,Industrial crops/export crops,0.90642921,0.14352506041813562
+France,2019,Livestock/veterinary services,0.8476353875000001,0.13421557785355054
+France,2019,Food safety and quality,0.44958390000000004,0.07118764013631142
+France,2019,Fishery services,0.39985709750000004,0.06331384011478167
+France,2019,Agricultural services,0.39319755749999996,0.0622593607684497
+France,2019,Plant and post-harvest protection and pest control,0.3438074125,0.05443886748890779
+France,2019,Non-agricultural alternative development,0.17491143249999996,0.027695680633885514
+France,2019,Forestry education/training,0.110062105,0.01742736233077946
+France,2019,Fishery research,0.082614235,0.013081234517776687
+France,2019,Agrarian reform,0.053741795,0.008509538626137235
+France,2019,Fishery education/training,0.009238054999999998,0.0014627644248369485
+France,2019,Forestry development,0.0,0.0

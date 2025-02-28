@@ -1,111 +1,107 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-"2018","Refugees in donor countries",58.208551,"10.63%","Ireland"
-"2019","Refugees in donor countries",88.155412,"14.70%","Ireland"
-"2020","Refugees in donor countries",39.326112,"7.23%","Ireland"
-"2021","Refugees in donor countries",50.287216,"8.08%","Ireland"
-"2022","Refugees in donor countries",1278.066211,"66.07%","Ireland"
-"2018","Humanitarian aid",129.249525,"23.60%","Ireland"
-"2019","Humanitarian aid",127.008848,"21.17%","Ireland"
-"2020","Humanitarian aid",128.41407,"23.60%","Ireland"
-"2021","Humanitarian aid",152.231226,"24.47%","Ireland"
-"2022","Humanitarian aid",210.324349,"10.87%","Ireland"
-"2018","Health & populations",71.346421,"13.03%","Ireland"
-"2019","Health & populations",76.271894,"12.72%","Ireland"
-"2020","Health & populations",85.593608,"15.73%","Ireland"
-"2021","Health & populations",98.607171,"15.85%","Ireland"
-"2022","Health & populations",92.988068,"4.81%","Ireland"
-"2018","Government & civil society",61.442986,"11.22%","Ireland"
-"2019","Government & civil society",66.497752,"11.09%","Ireland"
-"2020","Government & civil society",61.94663,"11.39%","Ireland"
-"2021","Government & civil society",59.336521,"9.54%","Ireland"
-"2022","Government & civil society",65.066803,"3.36%","Ireland"
-"2018","Unspecified",43.130157,"7.88%","Ireland"
-"2019","Unspecified",29.802364,"4.97%","Ireland"
-"2020","Unspecified",23.618026,"4.34%","Ireland"
-"2021","Unspecified",43.417037,"6.98%","Ireland"
-"2022","Unspecified",61.859848,"3.20%","Ireland"
-"2018","Donor administration costs",34.179028,"6.24%","Ireland"
-"2019","Donor administration costs",45.864346,"7.65%","Ireland"
-"2020","Donor administration costs",42.744889,"7.86%","Ireland"
-"2021","Donor administration costs",49.398606,"7.94%","Ireland"
-"2022","Donor administration costs",46.517836,"2.40%","Ireland"
-"2018","Education",44.668786,"8.16%","Ireland"
-"2019","Education",48.100613,"8.02%","Ireland"
-"2020","Education",42.044428,"7.73%","Ireland"
-"2021","Education",44.113036,"7.09%","Ireland"
-"2022","Education",45.249176,"2.34%","Ireland"
-"2018","Agriculture (incl. forestry, fishing, rural development)",39.887793,"7.28%","Ireland"
-"2019","Agriculture (incl. forestry, fishing, rural development)",40.137104,"6.69%","Ireland"
-"2020","Agriculture (incl. forestry, fishing, rural development)",36.95828,"6.79%","Ireland"
-"2021","Agriculture (incl. forestry, fishing, rural development)",32.94031,"5.29%","Ireland"
-"2022","Agriculture (incl. forestry, fishing, rural development)",35.730241,"1.85%","Ireland"
-"2018","Environmental protection",7.522124,"1.37%","Ireland"
-"2019","Environmental protection",9.341138,"1.56%","Ireland"
-"2020","Environmental protection",10.802056,"1.99%","Ireland"
-"2021","Environmental protection",16.878129,"2.71%","Ireland"
-"2022","Environmental protection",25.995762,"1.34%","Ireland"
-"2018","Other social services",25.158941,"4.59%","Ireland"
-"2019","Other social services",11.672172,"1.95%","Ireland"
-"2020","Other social services",26.616141,"4.89%","Ireland"
-"2021","Other social services",20.857838,"3.35%","Ireland"
-"2022","Other social services",21.995119,"1.14%","Ireland"
-"2018","Other multisector",10.052966,"1.84%","Ireland"
-"2019","Other multisector",25.784883,"4.30%","Ireland"
-"2020","Other multisector",20.540618,"3.78%","Ireland"
-"2021","Other multisector",28.777827,"4.63%","Ireland"
-"2022","Other multisector",19.794613,"1.02%","Ireland"
-"2018","Conflict, peace & security",12.16683,"2.22%","Ireland"
-"2019","Conflict, peace & security",15.445815,"2.58%","Ireland"
-"2020","Conflict, peace & security",14.992796,"2.76%","Ireland"
-"2021","Conflict, peace & security",18.488353,"2.97%","Ireland"
-"2022","Conflict, peace & security",16.739728,"0.87%","Ireland"
-"2018","Financial services & business support",2.173492,"0.40%","Ireland"
-"2019","Financial services & business support",1.850766,"0.31%","Ireland"
-"2020","Financial services & business support",1.593698,"0.29%","Ireland"
-"2021","Financial services & business support",0.936582,"0.15%","Ireland"
-"2022","Financial services & business support",6.983236,"0.36%","Ireland"
-"2018","Water and sanitation",4.961424,"0.91%","Ireland"
-"2019","Water and sanitation",3.011183,"0.50%","Ireland"
-"2020","Water and sanitation",2.840703,"0.52%","Ireland"
-"2021","Water and sanitation",2.876545,"0.46%","Ireland"
-"2022","Water and sanitation",3.029273,"0.16%","Ireland"
-"2018","Trade policy",2.196879,"0.40%","Ireland"
-"2019","Trade policy",2.532828,"0.42%","Ireland"
-"2020","Trade policy",2.841438,"0.52%","Ireland"
-"2021","Trade policy",1.772523,"0.28%","Ireland"
-"2022","Trade policy",2.291289,"0.12%","Ireland"
-"2018","Energy",0.080767,"0.01%","Ireland"
-"2019","Energy",6.087619,"1.01%","Ireland"
-"2020","Energy",1.81376,"0.33%","Ireland"
-"2021","Energy",0.092217,"0.01%","Ireland"
-"2022","Energy",0.892041,"0.05%","Ireland"
-"2018","Industry, construction & mining",1.095097,"0.20%","Ireland"
-"2019","Industry, construction & mining",1.622501,"0.27%","Ireland"
-"2020","Industry, construction & mining",0.647572,"0.12%","Ireland"
-"2021","Industry, construction & mining",0.947218,"0.15%","Ireland"
-"2022","Industry, construction & mining",0.68529,"0.04%","Ireland"
-"2018","Debt relief",0,"0.00%","Ireland"
-"2019","Debt relief",0,"0.00%","Ireland"
-"2020","Debt relief",0,"0.00%","Ireland"
-"2021","Debt relief",0,"0.00%","Ireland"
-"2022","Debt relief",0.167247,"0.01%","Ireland"
-"2018","Infrastructure",0.093154,"0.02%","Ireland"
-"2019","Infrastructure",0.02997,"0.00%","Ireland"
-"2020","Infrastructure",0.047466,"0.01%","Ireland"
-"2021","Infrastructure",0.022587,"0.00%","Ireland"
-"2022","Infrastructure",0.014495,"0.00%","Ireland"
-"2018","Food aid and commodity assistance",0.011108,"0.00%","Ireland"
-"2019","Food aid and commodity assistance",0.608818,"0.10%","Ireland"
-"2020","Food aid and commodity assistance",0.641431,"0.12%","Ireland"
-"2021","Food aid and commodity assistance",0.141911,"0.02%","Ireland"
-"2022","Food aid and commodity assistance",0,"0.00%","Ireland"
-"2018","General budget support",0,"0.00%","Ireland"
-"2019","General budget support",0,"0.00%","Ireland"
-"2020","General budget support",0,"0.00%","Ireland"
-"2021","General budget support",0,"0.00%","Ireland"
-"2022","General budget support",0,"0.00%","Ireland"
-"2018","Tourism",0.006094,"0.00%","Ireland"
-"2019","Tourism",0,"0.00%","Ireland"
-"2020","Tourism",0,"0.00%","Ireland"
-"2021","Tourism",0.024134,"0.00%","Ireland"
-"2022","Tourism",0,"0.00%","Ireland"
+donor,Year,Sector,Bilateral ODA for,share
+Ireland,2023,Refugees in donor countries,147321.5078295,68.66156171704668
+Ireland,2023,Emergency Response,19112.92398750001,8.907886087344071
+Ireland,2023,Health & populations,7938.946756499994,3.7000740130941
+Ireland,2023,Government & civil society,7096.551565499986,3.307462165379843
+Ireland,2023,Other multisector,5161.163914500004,2.405443576218106
+Ireland,2023,Donor administration costs,5149.514838000001,2.4000143364768376
+Ireland,2023,Education,4955.052547500002,2.3093820536722336
+Ireland,2023,Other social services,3089.7640484999997,1.440034303427851
+Ireland,2023,"Agriculture (incl. forestry, fishing, rural development)",2994.9370875,1.3958386708208537
+Ireland,2023,Unspecified,2984.849620500001,1.3911372443408132
+Ireland,2023,Environmental protection,2431.3872255,1.1331871802107507
+Ireland,2023,"Conflict, peace & security",2277.7588455,1.0615861991301887
+Ireland,2023,Disaster Prevention & Preparedness,1868.676903,0.8709269705075732
+Ireland,2023,Reconstruction Relief & Rehabilitation,1055.1882615000004,0.49178748580238013
+Ireland,2023,Energy,431.5775115,0.20114365090426353
+Ireland,2023,Financial services & business support,311.3313435,0.14510098743298247
+Ireland,2023,Trade policy,211.4641635,0.09855627957529965
+Ireland,2023,Water and sanitation,90.42552899999997,0.04214427432697533
+Ireland,2023,"Industry, construction & mining",45.424273500000005,0.02117071433983601
+Ireland,2023,Food aid and commodity assistance,22.168294500000002,0.010331890729322455
+Ireland,2023,Tourism,10.897612500000001,0.005079007839800148
+Ireland,2023,Infrastructure,0.324399,0.00015119137923314197
+Ireland,2022,Refugees in donor countries,128380.94940599999,66.07073846324471
+Ireland,2022,Emergency Response,20001.419833499996,10.2936501469039
+Ireland,2022,Health & populations,9340.592936999994,4.807098528929518
+Ireland,2022,Government & civil society,6535.92129450001,3.3636855659916147
+Ireland,2022,Unspecified,6213.783076500001,3.197898429746153
+Ireland,2022,Donor administration costs,4672.686754500001,2.404779415526029
+Ireland,2022,Education,4545.253221000001,2.3391962608423937
+Ireland,2022,"Agriculture (incl. forestry, fishing, rural development)",2915.1082020000013,1.5002486934202417
+Ireland,2022,Other multisector,2662.3286414999993,1.3701567108642299
+Ireland,2022,Environmental protection,2611.2578445,1.34387333091332
+Ireland,2022,Other social services,2209.3957499999988,1.1370566227735965
+Ireland,2022,"Conflict, peace & security",1681.4961239999993,0.8653752067561156
+Ireland,2022,Financial services & business support,701.462037,0.36100461168856146
+Ireland,2022,Reconstruction Relief & Rehabilitation,677.239251,0.3485384524487206
+Ireland,2022,Disaster Prevention & Preparedness,448.29162149999996,0.2307114771812563
+Ireland,2022,Water and sanitation,304.2886050000001,0.1566009048174322
+Ireland,2022,Trade policy,230.1587475,0.11845027226749716
+Ireland,2022,Energy,89.6049465,0.04611482476649956
+Ireland,2022,"Industry, construction & mining",68.83723350000001,0.03542680492826491
+Ireland,2022,Debt relief,16.7998425,0.008645971268921988
+Ireland,2022,Infrastructure,1.4559615,0.0007493047210208405
+Ireland,2021,Emergency Response,15232.984679999994,24.247534426695008
+Ireland,2021,Health & populations,9957.099071999979,15.849494213390917
+Ireland,2021,Government & civil society,5991.651766499993,9.537381250814505
+Ireland,2021,Refugees in donor countries,5077.874844,8.082850976407506
+Ireland,2021,Donor administration costs,4988.145612000003,7.9400219322178005
+Ireland,2021,Education,4454.421714000001,7.090451814281799
+Ireland,2021,Unspecified,4384.1409795,6.978580466340405
+Ireland,2021,Other multisector,3346.040962499998,5.326155388173766
+Ireland,2021,"Agriculture (incl. forestry, fishing, rural development)",2886.100584000002,4.594032275324565
+Ireland,2021,Other social services,2106.171689999999,3.352558387907826
+Ireland,2021,"Conflict, peace & security",1866.9067665000005,2.971701675218821
+Ireland,2021,Environmental protection,1704.3104474999998,2.712884383307358
+Ireland,2021,Water and sanitation,290.46575700000005,0.46235708829148053
+Ireland,2021,Trade policy,178.984965,0.284904382947118
+Ireland,2021,"Industry, construction & mining",95.648076,0.15225053161788787
+Ireland,2021,Financial services & business support,94.57370400000002,0.15054036958435807
+Ireland,2021,Disaster Prevention & Preparedness,75.43448250000002,0.12007497216091687
+Ireland,2021,Reconstruction Relief & Rehabilitation,63.5035005,0.10108349394003291
+Ireland,2021,Food aid and commodity assistance,14.329788,0.022809845552686604
+Ireland,2021,Energy,9.3118275,0.014822364928794466
+Ireland,2021,Tourism,2.436933,0.003879057062968776
+Ireland,2021,Infrastructure,2.2809105,0.0036307038334761946
+Ireland,2020,Emergency Response,12886.186677000003,23.41760307212979
+Ireland,2020,Health & populations,8657.758602000002,15.733432978882906
+Ireland,2020,Government & civil society,6265.878084,11.386754634818727
+Ireland,2020,Donor administration costs,4323.627892500001,7.857173293854963
+Ireland,2020,Education,4252.775998500003,7.728416697959767
+Ireland,2020,Refugees in donor countries,3977.820156,7.228749345358051
+Ireland,2020,Other multisector,3013.9748145,5.477187910162152
+Ireland,2020,"Agriculture (incl. forestry, fishing, rural development)",2802.0153194999984,5.092001551645525
+Ireland,2020,Other social services,2692.2120090000003,4.892459949017322
+Ireland,2020,Unspecified,2388.9532590000003,4.341358741681441
+Ireland,2020,"Conflict, peace & security",1516.5151635000007,2.7559084034608095
+Ireland,2020,Environmental protection,1092.623544,1.9855854258517145
+Ireland,2020,Trade policy,287.41037850000004,0.5223005324404075
+Ireland,2020,Water and sanitation,287.33614800000004,0.5221656360254775
+Ireland,2020,Energy,183.46105350000002,0.3333971668845914
+Ireland,2020,Financial services & business support,161.201808,0.29294624149683
+Ireland,2020,Reconstruction Relief & Rehabilitation,102.8439615,0.1868946282666364
+Ireland,2020,"Industry, construction & mining",65.50165349999999,0.1190337964736269
+Ireland,2020,Food aid and commodity assistance,64.88043899999998,0.11790488573003066
+Ireland,2020,Infrastructure,4.801233,0.00872510785921551
+Ireland,2019,Emergency Response,12335.830034999984,20.297361290934802
+Ireland,2019,Refugees in donor countries,8932.078746,14.696832630820376
+Ireland,2019,Health & populations,7728.016370999992,12.715669711677076
+Ireland,2019,Government & civil society,6737.6788350000015,11.086169409619291
+Ireland,2019,Education,4873.645544999997,8.019091066442364
+Ireland,2019,Donor administration costs,4647.065410500002,7.646276360156166
+Ireland,2019,Other multisector,3473.581422,5.715427084823088
+Ireland,2019,"Agriculture (incl. forestry, fishing, rural development)",3205.7625705,5.274758238543972
+Ireland,2019,Unspecified,3019.6316685000015,4.96849865531508
+Ireland,2019,"Conflict, peace & security",1564.9995015000002,2.575048473588863
+Ireland,2019,Other social services,1182.646929,1.9459259676422371
+Ireland,2019,Environmental protection,946.4619855,1.557307519098695
+Ireland,2019,Energy,616.8093405,1.0148974164065432
+Ireland,2019,Disaster Prevention & Preparedness,478.9184655,0.7880119210116537
+Ireland,2019,Water and sanitation,305.09875049999994,0.5020091514507707
+Ireland,2019,Trade policy,256.63060049999996,0.4222597102812676
+Ireland,2019,Financial services & business support,187.5233895,0.30855078064329006
+Ireland,2019,"Industry, construction & mining",164.39489099999997,0.2704951744263271
+Ireland,2019,Food aid and commodity assistance,61.68661050000001,0.10149908166529581
+Ireland,2019,Reconstruction Relief & Rehabilitation,54.037887,0.08891388035711617
+Ireland,2019,Infrastructure,3.0366345,0.004996475095728508

@@ -1,12 +1,12 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2020,"Health policy and administrative management",0.036215,"100%","Greece"
-2022,"Health policy and administrative management",0.054789,"0%","Greece"
-2018,"Medical education/training",0.004173,"26%","Greece"
-2022,"Medical education/training",0.001096,"0%","Greece"
-2021,"Medical services",0.212867,"1%","Greece"
-2018,"Basic health care",0.011861,"74%","Greece"
-2019,"Basic health care",0.00323,"100%","Greece"
-2021,"Basic health care",0.041391,"0%","Greece"
-2022,"Basic health infrastructure",0.060268,"0%","Greece"
-2021,"COVID-19 control",29.23893,"99%","Greece"
-2022,"COVID-19 control",20.983802,"99%","Greece"
+donor,year,Sector,Bilateral ODA for,share
+Greece,2023,Medical education/training,0.0062932968,74.42218798151
+Greece,2023,Health policy and administrative management,0.0021629136,25.577812018489983
+Greece,2022,COVID-19 control,21.8663192378,99.44950880040732
+Greece,2022,Basic health infrastructure,0.06280267199999999,0.2856308285738483
+Greece,2022,Health policy and administrative management,0.057093535599999995,0.25966528748392276
+Greece,2022,Medical education/training,0.0011422615999999999,0.005195083534918542
+Greece,2021,COVID-19 control,30.382249723600005,99.13790956275454
+Greece,2021,Medical services,0.22119048959999998,0.7217491447670156
+Greece,2021,Basic health care,0.04300962380000001,0.1403412924784316
+Greece,2020,Health policy and administrative management,0.037631656400000005,100.0
+Greece,2019,Basic health care,0.0033562078,100.0

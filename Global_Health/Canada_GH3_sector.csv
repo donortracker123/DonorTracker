@@ -1,104 +1,110 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Health policy and administrative management",47.154489,"7%","Canada"
-2019,"Health policy and administrative management",33.394426,"6%","Canada"
-2020,"Health policy and administrative management",20.455711,"3%","Canada"
-2021,"Health policy and administrative management",54.589579,"4%","Canada"
-2022,"Health policy and administrative management",49.878052,"4%","Canada"
-2018,"Medical education/training",7.415037,"1%","Canada"
-2019,"Medical education/training",7.915316,"1%","Canada"
-2020,"Medical education/training",3.920302,"1%","Canada"
-2021,"Medical education/training",9.657566,"1%","Canada"
-2022,"Medical education/training",1.307537,"0%","Canada"
-2018,"Medical research",9.07642,"1%","Canada"
-2019,"Medical research",7.515422,"1%","Canada"
-2020,"Medical research",7.236603,"1%","Canada"
-2021,"Medical research",5.10021,"0%","Canada"
-2022,"Medical research",3.817539,"0%","Canada"
-2018,"Medical services",11.175399,"2%","Canada"
-2019,"Medical services",9.402466,"2%","Canada"
-2020,"Medical services",8.731204,"1%","Canada"
-2021,"Medical services",1.990156,"0%","Canada"
-2022,"Medical services",3.56628,"0%","Canada"
-2018,"Basic health care",62.1841,"10%","Canada"
-2019,"Basic health care",63.340708,"11%","Canada"
-2020,"Basic health care",46.546276,"8%","Canada"
-2021,"Basic health care",49.486712,"3%","Canada"
-2022,"Basic health care",66.022706,"6%","Canada"
-2018,"Basic health infrastructure",19.106668,"3%","Canada"
-2019,"Basic health infrastructure",17.487263,"3%","Canada"
-2020,"Basic health infrastructure",9.796416,"2%","Canada"
-2021,"Basic health infrastructure",4.498915,"0%","Canada"
-2022,"Basic health infrastructure",49.694041,"4%","Canada"
-2018,"Basic nutrition",119.943156,"19%","Canada"
-2019,"Basic nutrition",76.720244,"13%","Canada"
-2020,"Basic nutrition",81.482252,"13%","Canada"
-2021,"Basic nutrition",115.778583,"8%","Canada"
-2022,"Basic nutrition",60.655404,"5%","Canada"
-2018,"Infectious disease control",49.496544,"8%","Canada"
-2019,"Infectious disease control",40.275866,"7%","Canada"
-2020,"Infectious disease control",24.799488,"4%","Canada"
-2021,"Infectious disease control",53.560545,"4%","Canada"
-2022,"Infectious disease control",73.715078,"6%","Canada"
-2018,"Health education",27.562664,"4%","Canada"
-2019,"Health education",23.543175,"4%","Canada"
-2020,"Health education",21.628773,"3%","Canada"
-2021,"Health education",13.559561,"1%","Canada"
-2022,"Health education",6.955746,"1%","Canada"
-2018,"Malaria control",1.672499,"0%","Canada"
-2019,"Malaria control",1.042325,"0%","Canada"
-2020,"Malaria control",0.128232,"0%","Canada"
-2021,"Malaria control",1.826885,"0%","Canada"
-2022,"Malaria control",1.692462,"0%","Canada"
-2018,"Tuberculosis control",31.025873,"5%","Canada"
-2019,"Tuberculosis control",15.461158,"3%","Canada"
-2020,"Tuberculosis control",14.656399,"2%","Canada"
-2022,"Tuberculosis control",8.105733,"1%","Canada"
-2018,"Health personnel development",23.428623,"4%","Canada"
-2019,"Health personnel development",18.109304,"3%","Canada"
-2020,"Health personnel development",7.655666,"1%","Canada"
-2021,"Health personnel development",16.873521,"1%","Canada"
-2022,"Health personnel development",14.192912,"1%","Canada"
-2018,"Population policy and administrative management",49.498514,"8%","Canada"
-2019,"Population policy and administrative management",68.672342,"12%","Canada"
-2020,"Population policy and administrative management",57.55063,"9%","Canada"
-2021,"Population policy and administrative management",80.044842,"5%","Canada"
-2022,"Population policy and administrative management",75.437879,"6%","Canada"
-2018,"Reproductive health care",75.233391,"12%","Canada"
-2019,"Reproductive health care",82.677371,"15%","Canada"
-2020,"Reproductive health care",91.733321,"15%","Canada"
-2021,"Reproductive health care",90.250505,"6%","Canada"
-2022,"Reproductive health care",78.565939,"7%","Canada"
-2018,"Family planning",46.543587,"7%","Canada"
-2019,"Family planning",44.407604,"8%","Canada"
-2020,"Family planning",42.959861,"7%","Canada"
-2021,"Family planning",55.777364,"4%","Canada"
-2022,"Family planning",38.957171,"3%","Canada"
-2018,"STD control including HIV/AIDS",13.73101,"2%","Canada"
-2019,"STD control including HIV/AIDS",5.793246,"1%","Canada"
-2020,"STD control including HIV/AIDS",4.913301,"1%","Canada"
-2021,"STD control including HIV/AIDS",4.100935,"0%","Canada"
-2022,"STD control including HIV/AIDS",3.952654,"0%","Canada"
-2018,"Personnel development for population and reproductive health",52.325384,"8%","Canada"
-2019,"Personnel development for population and reproductive health",53.160471,"9%","Canada"
-2020,"Personnel development for population and reproductive health",39.514463,"6%","Canada"
-2021,"Personnel development for population and reproductive health",27.65704,"2%","Canada"
-2022,"Personnel development for population and reproductive health",23.376078,"2%","Canada"
-2018,"NCDs control, general",0.418653,"0%","Canada"
-2020,"NCDs control, general",0.073713,"0%","Canada"
-2020,"Tobacco use control",0.313061,"0%","Canada"
-2021,"Tobacco use control",0.067919,"0%","Canada"
-2022,"Tobacco use control",0.218442,"0%","Canada"
-2020,"Promotion of mental health and well-being",1.091636,"0%","Canada"
-2021,"Promotion of mental health and well-being",2.250844,"0%","Canada"
-2022,"Promotion of mental health and well-being",4.619605,"0%","Canada"
-2019,"Other prevention and treatment of NCDs",0.940933,"0%","Canada"
-2020,"Other prevention and treatment of NCDs",1.121136,"0%","Canada"
-2021,"Other prevention and treatment of NCDs",0.962329,"0%","Canada"
-2022,"Other prevention and treatment of NCDs",0.809331,"0%","Canada"
-2019,"Research for prevention and control of NCDs",0.159193,"0%","Canada"
-2020,"Research for prevention and control of NCDs",0.3102,"0%","Canada"
-2021,"Research for prevention and control of NCDs",0.45764,"0%","Canada"
-2022,"Research for prevention and control of NCDs",0.296198,"0%","Canada"
-2020,"COVID-19 control",132.388661,"21%","Canada"
-2021,"COVID-19 control",928.460222,"61%","Canada"
-2022,"COVID-19 control",623.115724,"52%","Canada"
+donor,year,Sector,Bilateral ODA for,share
+Canada,2023,COVID-19 control,168.31992950809993,23.577833564744097
+Canada,2023,Infectious disease control,102.4222647277999,14.347053959287786
+Canada,2023,Population policy and administrative management,75.18758199150007,10.532087908495887
+Canada,2023,Basic nutrition,73.5147898549,10.297767381506413
+Canada,2023,Reproductive health care,73.2527627322999,10.26106327935898
+Canada,2023,Family planning,42.730838897300046,5.985628740142448
+Canada,2023,Health policy and administrative management,41.3455833339001,5.791585615160578
+Canada,2023,Basic health care,39.5023824415,5.533394657058341
+Canada,2023,Health personnel development,18.543116362600003,2.597473232354381
+Canada,2023,Personnel development for population and reproductive health,16.5602522537,2.3197186011721054
+Canada,2023,Basic health infrastructure,13.7332741931,1.9237226047455365
+Canada,2023,STD control including HIV/AIDS,9.7258633494,1.3623745446884985
+Canada,2023,Tuberculosis control,7.8760570349,1.1032583156254696
+Canada,2023,Health education,6.704146935999997,0.9391000882221163
+Canada,2023,Other prevention and treatment of NCDs,6.220829871099999,0.871398245971378
+Canada,2023,Promotion of mental health and well-being,4.8814938581999945,0.6837874164533878
+Canada,2023,Medical research,3.950092227499999,0.5533190120597241
+Canada,2023,"NCDs control, general",3.6461988594000005,0.5107503912467831
+Canada,2023,Research for prevention and control of NCDs,1.9690135262000004,0.2758144762961027
+Canada,2023,Malaria control,1.6823784471,0.23566335332101945
+Canada,2023,Medical services,1.4044994835,0.19673876504409113
+Canada,2023,Medical education/training,0.7172162042000001,0.10046584704487625
+Canada,2023,Tobacco use control,0.0,0.0
+Canada,2022,COVID-19 control,634.4821857963991,52.40879987256755
+Canada,2022,Reproductive health care,79.9990952946999,6.607997307322008
+Canada,2022,Population policy and administrative management,76.81396622760002,6.344902778298459
+Canada,2022,Infectious disease control,75.0597397751,6.200002093711327
+Canada,2022,Basic health care,67.22704431340006,5.553014395546501
+Canada,2022,Basic nutrition,61.761843280800036,5.101583869059197
+Canada,2022,Health policy and administrative management,50.787892115999995,4.195125621243409
+Canada,2022,Basic health infrastructure,50.6005210113,4.179648599275018
+Canada,2022,Family planning,39.66777779619998,3.2765941652105592
+Canada,2022,Personnel development for population and reproductive health,23.802489590600008,1.966107073371685
+Canada,2022,Health personnel development,14.451806988900005,1.1937322705562585
+Canada,2022,Tuberculosis control,8.2535906529,0.6817540199572064
+Canada,2022,Health education,7.082624046199998,0.5850311238352768
+Canada,2022,Promotion of mental health and well-being,4.7038526389,0.38854246360396066
+Canada,2022,STD control including HIV/AIDS,4.0247599657999995,0.33244879731015936
+Canada,2022,Medical research,3.887181027100001,0.3210846530892179
+Canada,2022,Medical services,3.6313383688999985,0.29995181914583546
+Canada,2022,Malaria control,1.7233353849,0.14234905458720107
+Canada,2022,Medical education/training,1.3313925118000005,0.10997422034028881
+Canada,2022,Other prevention and treatment of NCDs,0.8240925783999999,0.06807078903818593
+Canada,2022,Research for prevention and control of NCDs,0.30160007650000004,0.024912437897683954
+Canada,2022,Tobacco use control,0.2224258444,0.018372575033000407
+Canada,2021,COVID-19 control,936.0694567827009,61.205645162140115
+Canada,2021,Basic nutrition,116.72745048939998,7.632317093104331
+Canada,2021,Reproductive health care,90.99016703380002,5.949464365449792
+Canada,2021,Population policy and administrative management,80.7008522913,5.276689345895632
+Canada,2021,Family planning,56.234493850500016,3.67693706011524
+Canada,2021,Health policy and administrative management,55.036988351399984,3.5986372116087613
+Canada,2021,Infectious disease control,53.99950538030001,3.530800563237433
+Canada,2021,Basic health care,49.89227872670002,3.2622462851983394
+Canada,2021,Personnel development for population and reproductive health,27.883703793099986,1.8231981268061792
+Canada,2021,Health personnel development,17.0118080113,1.1123305831223045
+Canada,2021,Health education,13.67069409399999,0.8938691950417573
+Canada,2021,Medical education/training,9.7367193699,0.6366431320659764
+Canada,2021,Medical research,5.142021746300003,0.33621517734565426
+Canada,2021,Basic health infrastructure,4.5357879631000015,0.2965760997633434
+Canada,2021,STD control including HIV/AIDS,4.134548859400001,0.27034076217349795
+Canada,2021,Promotion of mental health and well-being,2.2692931043,0.14837953263431813
+Canada,2021,Medical services,2.0064738779999995,0.13119488870629792
+Canada,2021,Malaria control,1.8418569532,0.12043128028601977
+Canada,2021,Other prevention and treatment of NCDs,0.9702156887000001,0.063438323666081
+Canada,2021,Research for prevention and control of NCDs,0.4613911266,0.030168425399436184
+Canada,2021,Tobacco use control,0.06847643700000001,0.004477386239472799
+Canada,2020,COVID-19 control,133.57734312809998,21.38724984472953
+Canada,2020,Reproductive health care,92.55697549999995,14.819423066325262
+Canada,2020,Basic nutrition,82.21386900500002,13.163374236494377
+Canada,2020,Population policy and administrative management,58.06736125690001,9.297244083036682
+Canada,2020,Basic health care,46.96420342580002,7.519502401414284
+Canada,2020,Family planning,43.345589504500005,6.940121211355419
+Canada,2020,Personnel development for population and reproductive health,39.8692612392,6.383521570943602
+Canada,2020,Infectious disease control,25.022166179700008,4.006333014337426
+Canada,2020,Health education,21.822986306400004,3.4941079794160377
+Canada,2020,Health policy and administrative management,20.6393851085,3.304599983949078
+Canada,2020,Tuberculosis control,14.7879949425,2.367725956598332
+Canada,2020,Basic health infrastructure,9.884371992400002,1.582600225526082
+Canada,2020,Medical services,8.8096122891,1.4105189895976138
+Canada,2020,Health personnel development,7.724403849200001,1.2367647922597274
+Canada,2020,Medical research,7.301599209500001,1.1690689671069325
+Canada,2020,STD control including HIV/AIDS,4.957419586099999,0.7937391835335306
+Canada,2020,Medical education/training,3.9555109590999997,0.6333222323841915
+Canada,2020,Other prevention and treatment of NCDs,1.1312022195999998,0.18111832387844803
+Canada,2020,Promotion of mental health and well-being,1.1014392405000002,0.1763529328680526
+Canada,2020,Tobacco use control,0.3158725936,0.05057479000721914
+Canada,2020,Research for prevention and control of NCDs,0.31298351500000005,0.05011221570837264
+Canada,2020,Malaria control,0.129383449,0.020715759759363777
+Canada,2020,"NCDs control, general",0.0743747283,0.011908238770406827
+Canada,2019,Reproductive health care,83.3085699922,14.504322472109981
+Canada,2019,Basic nutrition,77.30595931860002,13.459246306565726
+Canada,2019,Population policy and administrative management,69.19661162850005,12.0473796289036
+Canada,2019,Basic health care,63.824284022200025,11.112038018371935
+Canada,2019,Personnel development for population and reproductive health,53.56632330310003,9.326090063797826
+Canada,2019,Family planning,44.74663342340001,7.790550249212712
+Canada,2019,Infectious disease control,40.583354933500004,7.065708450051322
+Canada,2019,Health policy and administrative management,33.6493777904,5.858478023371585
+Canada,2019,Health education,23.722907097899984,4.130243677884088
+Canada,2019,Health personnel development,18.247564989199997,3.1769668709824352
+Canada,2019,Basic health infrastructure,17.620776554500004,3.067840744108226
+Canada,2019,Tuberculosis control,15.5791961717,2.712394236892492
+Canada,2019,Medical services,9.4742488255,1.6495008875908845
+Canada,2019,Medical education/training,7.9757468505,1.3886062896818259
+Canada,2019,Medical research,7.572804382000001,1.3184525527808182
+Canada,2019,STD control including HIV/AIDS,5.837471214299999,1.016324790136164
+Canada,2019,Malaria control,1.0502836013,0.18285816263381408
+Canada,2019,Other prevention and treatment of NCDs,0.9481178512000001,0.16507073710011275
+Canada,2019,Research for prevention and control of NCDs,0.1604093012,0.027927837824469382
+Canada,2019,Promotion of mental health and well-being,,

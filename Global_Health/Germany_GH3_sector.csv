@@ -1,111 +1,115 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Health policy and administrative management",151.931154,"17%","Germany"
-2019,"Health policy and administrative management",123.40994,"13%","Germany"
-2020,"Health policy and administrative management",148.170758,"6%","Germany"
-2021,"Health policy and administrative management",189.959946,"7%","Germany"
-2022,"Health policy and administrative management",258.337613,"7%","Germany"
-2018,"Medical education/training",16.290372,"2%","Germany"
-2019,"Medical education/training",8.103964,"1%","Germany"
-2020,"Medical education/training",17.644155,"1%","Germany"
-2021,"Medical education/training",35.207331,"1%","Germany"
-2022,"Medical education/training",26.68097,"1%","Germany"
-2018,"Medical research",42.691312,"5%","Germany"
-2019,"Medical research",62.999902,"7%","Germany"
-2020,"Medical research",57.64584,"3%","Germany"
-2021,"Medical research",126.164468,"5%","Germany"
-2022,"Medical research",43.117832,"1%","Germany"
-2018,"Medical services",38.647665,"4%","Germany"
-2019,"Medical services",76.861979,"8%","Germany"
-2020,"Medical services",116.146859,"5%","Germany"
-2021,"Medical services",57.76532,"2%","Germany"
-2022,"Medical services",61.043041,"2%","Germany"
-2018,"Basic health care",20.065971,"2%","Germany"
-2019,"Basic health care",46.297559,"5%","Germany"
-2020,"Basic health care",94.930907,"4%","Germany"
-2021,"Basic health care",121.449386,"5%","Germany"
-2022,"Basic health care",85.003553,"2%","Germany"
-2018,"Basic health infrastructure",119.049318,"13%","Germany"
-2019,"Basic health infrastructure",136.184189,"15%","Germany"
-2020,"Basic health infrastructure",115.266198,"5%","Germany"
-2021,"Basic health infrastructure",117.299611,"4%","Germany"
-2022,"Basic health infrastructure",115.94733,"3%","Germany"
-2018,"Basic nutrition",31.064195,"3%","Germany"
-2019,"Basic nutrition",61.037558,"7%","Germany"
-2020,"Basic nutrition",132.148928,"6%","Germany"
-2021,"Basic nutrition",96.870052,"4%","Germany"
-2022,"Basic nutrition",178.252882,"5%","Germany"
-2018,"Infectious disease control",290.064767,"33%","Germany"
-2019,"Infectious disease control",223.961201,"24%","Germany"
-2020,"Infectious disease control",411.499406,"18%","Germany"
-2021,"Infectious disease control",366.406012,"14%","Germany"
-2022,"Infectious disease control",713.164549,"21%","Germany"
-2018,"Health education",6.876268,"1%","Germany"
-2019,"Health education",7.824813,"1%","Germany"
-2020,"Health education",14.781612,"1%","Germany"
-2021,"Health education",13.943114,"1%","Germany"
-2022,"Health education",15.398289,"0%","Germany"
-2018,"Malaria control",0.202991,"0%","Germany"
-2019,"Malaria control",0.030839,"0%","Germany"
-2022,"Malaria control",1.070265,"0%","Germany"
-2018,"Tuberculosis control",2.890357,"0%","Germany"
-2019,"Tuberculosis control",1.832045,"0%","Germany"
-2020,"Tuberculosis control",3.585476,"0%","Germany"
-2021,"Tuberculosis control",6.532973,"0%","Germany"
-2022,"Tuberculosis control",4.020188,"0%","Germany"
-2018,"Health personnel development",4.823709,"1%","Germany"
-2019,"Health personnel development",17.931163,"2%","Germany"
-2020,"Health personnel development",5.455212,"0%","Germany"
-2021,"Health personnel development",7.500976,"0%","Germany"
-2022,"Health personnel development",3.510164,"0%","Germany"
-2018,"Population policy and administrative management",1.844968,"0%","Germany"
-2019,"Population policy and administrative management",0.463154,"0%","Germany"
-2020,"Population policy and administrative management",0.788488,"0%","Germany"
-2021,"Population policy and administrative management",2.100665,"0%","Germany"
-2022,"Population policy and administrative management",2.859073,"0%","Germany"
-2018,"Reproductive health care",91.336959,"10%","Germany"
-2019,"Reproductive health care",90.152421,"10%","Germany"
-2020,"Reproductive health care",117.667379,"5%","Germany"
-2021,"Reproductive health care",121.153852,"5%","Germany"
-2022,"Reproductive health care",130.637346,"4%","Germany"
-2018,"Family planning",18.63785,"2%","Germany"
-2019,"Family planning",22.579295,"2%","Germany"
-2020,"Family planning",24.107468,"1%","Germany"
-2021,"Family planning",18.486459,"1%","Germany"
-2022,"Family planning",15.707765,"0%","Germany"
-2018,"STD control including HIV/AIDS",37.267961,"4%","Germany"
-2019,"STD control including HIV/AIDS",33.272076,"4%","Germany"
-2020,"STD control including HIV/AIDS",20.121432,"1%","Germany"
-2021,"STD control including HIV/AIDS",26.515268,"1%","Germany"
-2022,"STD control including HIV/AIDS",30.988721,"1%","Germany"
-2018,"Personnel development for population and reproductive health",11.780722,"1%","Germany"
-2019,"Personnel development for population and reproductive health",3.095002,"0%","Germany"
-2020,"Personnel development for population and reproductive health",5.381004,"0%","Germany"
-2021,"Personnel development for population and reproductive health",8.15254,"0%","Germany"
-2022,"Personnel development for population and reproductive health",9.019624,"0%","Germany"
-2019,"NCDs control, general",1.240735,"0%","Germany"
-2020,"NCDs control, general",2.653607,"0%","Germany"
-2021,"NCDs control, general",4.213498,"0%","Germany"
-2022,"NCDs control, general",2.608745,"0%","Germany"
-2021,"Tobacco use control",0.282746,"0%","Germany"
-2022,"Tobacco use control",0.356792,"0%","Germany"
-2019,"Control of harmful use of alcohol and drugs",0.020598,"0%","Germany"
-2021,"Control of harmful use of alcohol and drugs",0.299196,"0%","Germany"
-2022,"Control of harmful use of alcohol and drugs",1.60335,"0%","Germany"
-2018,"Promotion of mental health and well-being",0.197074,"0%","Germany"
-2019,"Promotion of mental health and well-being",2.391498,"0%","Germany"
-2020,"Promotion of mental health and well-being",11.709878,"1%","Germany"
-2021,"Promotion of mental health and well-being",21.186046,"1%","Germany"
-2022,"Promotion of mental health and well-being",23.925402,"1%","Germany"
-2018,"Other prevention and treatment of NCDs",0.372701,"0%","Germany"
-2019,"Other prevention and treatment of NCDs",0.153493,"0%","Germany"
-2020,"Other prevention and treatment of NCDs",0.980161,"0%","Germany"
-2021,"Other prevention and treatment of NCDs",3.862466,"0%","Germany"
-2022,"Other prevention and treatment of NCDs",6.762012,"0%","Germany"
-2018,"Research for prevention and control of NCDs",2.118481,"0%","Germany"
-2019,"Research for prevention and control of NCDs",2.070685,"0%","Germany"
-2020,"Research for prevention and control of NCDs",0.892108,"0%","Germany"
-2021,"Research for prevention and control of NCDs",0.4184,"0%","Germany"
-2022,"Research for prevention and control of NCDs",0.402423,"0%","Germany"
-2020,"COVID-19 control",985.671367,"43%","Germany"
-2021,"COVID-19 control",1303.819162,"49%","Germany"
-2022,"COVID-19 control",1717.959487,"50%","Germany"
+donor,year,Sector,Bilateral ODA for,share
+Germany,2023,Infectious disease control,184.53334129130025,17.970205666735918
+Germany,2023,Health policy and administrative management,163.4124958843,15.913417808437801
+Germany,2023,Basic nutrition,142.1140982443001,13.839339577997364
+Germany,2023,Reproductive health care,109.63541914930002,10.676504401237988
+Germany,2023,Basic health infrastructure,106.0564906014,10.327981572667996
+Germany,2023,Basic health care,76.12748365289997,7.41343829012532
+Germany,2023,Medical services,47.10479214879999,4.587153719102415
+Germany,2023,Medical education/training,31.785499567900004,3.0953320438361205
+Germany,2023,Medical research,26.868030718400007,2.6164596299573377
+Germany,2023,Promotion of mental health and well-being,23.853653341299996,2.3229138617802296
+Germany,2023,COVID-19 control,21.886895352500005,2.131387250339103
+Germany,2023,Health education,17.8496638607,1.7382340145921626
+Germany,2023,Family planning,16.410283991,1.598064481487372
+Germany,2023,STD control including HIV/AIDS,13.529702053900005,1.317547966220589
+Germany,2023,Other prevention and treatment of NCDs,12.1380425578,1.1820255333204799
+Germany,2023,Tuberculosis control,11.685960446000001,1.1380009225349748
+Germany,2023,Personnel development for population and reproductive health,7.807241571400002,0.7602839451461384
+Germany,2023,Health personnel development,5.650889760000001,0.5502943288007295
+Germany,2023,Population policy and administrative management,3.6105683274,0.3516039701181067
+Germany,2023,"NCDs control, general",1.5985363228000002,0.15566848942011782
+Germany,2023,Control of harmful use of alcohol and drugs,1.4404259664,0.1402714039792611
+Germany,2023,Malaria control,1.1480009475,0.11179450275935197
+Germany,2023,Tobacco use control,0.3478987508,0.033879038114892936
+Germany,2023,Research for prevention and control of NCDs,0.28955672450000003,0.028197581288236847
+Germany,2022,COVID-19 control,1765.0449785241,49.81945478027055
+Germany,2022,Infectious disease control,732.7108261814005,20.68120320791051
+Germany,2022,Health policy and administrative management,265.4180781267,7.491584691601613
+Germany,2022,Basic nutrition,183.13838937799994,5.169191051311371
+Germany,2022,Reproductive health care,134.21783242269998,3.7883789446996983
+Germany,2022,Basic health infrastructure,119.12519631299999,3.362380224366232
+Germany,2022,Basic health care,87.33331741349997,2.465035345065836
+Germany,2022,Medical services,62.7160910913,1.7701993445691033
+Germany,2022,Medical research,44.29270276460001,1.2501881421300136
+Germany,2022,STD control including HIV/AIDS,31.838055815900006,0.8986482505042308
+Germany,2022,Medical education/training,27.4122360189,0.7737268281466886
+Germany,2022,Promotion of mental health and well-being,24.581146370499997,0.6938176221867963
+Germany,2022,Family planning,16.138282452500004,0.4555127164781086
+Germany,2022,Health education,15.820325896900002,0.44653820169999203
+Germany,2022,Personnel development for population and reproductive health,9.2668306739,0.2615618623502865
+Germany,2022,Other prevention and treatment of NCDs,6.9473446185,0.19609297512278145
+Germany,2022,Tuberculosis control,4.130371263500001,0.11658221002375298
+Germany,2022,Health personnel development,3.6063697303,0.1017919519817858
+Germany,2022,Population policy and administrative management,2.9374329750000006,0.0829108102335478
+Germany,2022,"NCDs control, general",2.6802440346000003,0.07565149789752024
+Germany,2022,Control of harmful use of alcohol and drugs,1.6472940483,0.0464958640417843
+Germany,2022,Malaria control,1.0995984795,0.031036827612014598
+Germany,2022,Research for prevention and control of NCDs,0.4134530509,0.011669960722644668
+Germany,2022,Tobacco use control,0.36657108499999996,0.010346689073149224
+Germany,2021,COVID-19 control,1334.2598280307002,49.208346090566415
+Germany,2021,Infectious disease control,374.9606012656001,13.828784056728699
+Germany,2021,Health policy and administrative management,194.39499435430005,7.169410304872043
+Germany,2021,Medical research,129.1100701666,4.761661022135774
+Germany,2021,Basic health care,124.28490268109996,4.583705794388356
+Germany,2021,Reproductive health care,123.9824615869,4.572551575605223
+Germany,2021,Basic health infrastructure,120.03824853270004,4.427086504298634
+Germany,2021,Basic nutrition,99.13171084620008,3.656040175525339
+Germany,2021,Medical services,59.11398117169999,2.180161002510006
+Germany,2021,Medical education/training,36.02932805280001,1.3287843993995616
+Germany,2021,STD control including HIV/AIDS,27.1343262749,1.0007311096522846
+Germany,2021,Promotion of mental health and well-being,21.680683130600002,0.7995973022324419
+Germany,2021,Family planning,18.918068545499995,0.6977103295735306
+Germany,2021,Health education,14.268647491800007,0.5262367413527731
+Germany,2021,Personnel development for population and reproductive health,8.3428802472,0.3076906985967667
+Germany,2021,Health personnel development,7.676101271299999,0.28309946837107053
+Germany,2021,Tuberculosis control,6.6855012583,0.24656551354986464
+Germany,2021,"NCDs control, general",4.3118717737,0.15902455734693077
+Germany,2021,Other prevention and treatment of NCDs,3.9526452276000006,0.14577605519312023
+Germany,2021,Population policy and administrative management,2.1497101358000004,0.07928266903829091
+Germany,2021,Research for prevention and control of NCDs,0.4281683631,0.015791119955663773
+Germany,2021,Control of harmful use of alcohol and drugs,0.30618168240000004,0.01129217404107022
+Germany,2021,Tobacco use control,0.2893479424,0.0106713350661449
+Germany,2020,COVID-19 control,1008.2397065609995,43.09420132875223
+Germany,2020,Infectious disease control,420.9212740649999,17.99102535842706
+Germany,2020,Health policy and administrative management,151.5633367014,6.478123112355753
+Germany,2020,Basic nutrition,135.1746632974,5.777638112025711
+Germany,2020,Reproductive health care,120.3615437887,5.1444954672154175
+Germany,2020,Medical services,118.80621005719996,5.078017362333712
+Germany,2020,Basic health infrastructure,117.9053819748,5.039514150753254
+Germany,2020,Basic health care,97.10447819299999,4.150441513006805
+Germany,2020,Medical research,58.9657207394,2.520313993292374
+Germany,2020,Family planning,24.6594429373,1.0539943940708014
+Germany,2020,STD control including HIV/AIDS,20.582140585700007,0.8797222569245995
+Germany,2020,Medical education/training,18.0481445863,0.7714141501779725
+Germany,2020,Health education,15.120058709400004,0.6462618461515786
+Germany,2020,Promotion of mental health and well-being,11.977991948899998,0.511963566998083
+Germany,2020,Health personnel development,5.580118093599999,0.2385055170898119
+Germany,2020,Personnel development for population and reproductive health,5.5042099503,0.2352610497388685
+Germany,2020,Tuberculosis control,3.6675713062,0.15675940476102973
+Germany,2020,"NCDs control, general",2.7143651511,0.11601744856908723
+Germany,2020,Other prevention and treatment of NCDs,1.002602251,0.04285324509250534
+Germany,2020,Research for prevention and control of NCDs,0.9125319041000001,0.03900345655729819
+Germany,2020,Population policy and administrative management,0.8065427419,0.0344732657060651
+Germany,2019,Infectious disease control,229.2452588368999,24.293066095005866
+Germany,2019,Basic health infrastructure,139.39727143199997,14.771896027609216
+Germany,2019,Health policy and administrative management,126.32162453540002,13.386272805102111
+Germany,2019,Reproductive health care,92.27944187949998,9.778830725497683
+Germany,2019,Medical services,78.67542979450002,8.337216768398179
+Germany,2019,Medical research,64.4862954898,6.833597547464877
+Germany,2019,Basic nutrition,62.47765100210001,6.620741964110014
+Germany,2019,Basic health care,47.389885746000004,5.021895032871437
+Germany,2019,STD control including HIV/AIDS,34.0570859813,3.6090213814875463
+Germany,2019,Family planning,23.112022156700004,2.4491755453987993
+Germany,2019,Health personnel development,18.354225703499996,1.944992975645396
+Germany,2019,Medical education/training,8.295164245999999,0.8790366017575022
+Germany,2019,Health education,8.0094268129,0.8487570732589249
+Germany,2019,Personnel development for population and reproductive health,3.1680246062,0.3357148214950724
+Germany,2019,Promotion of mental health and well-being,2.4479242123000002,0.2594059523267097
+Germany,2019,Research for prevention and control of NCDs,2.1195394826999996,0.22460709986084848
+Germany,2019,Tuberculosis control,1.8752677050000002,0.19872167710044766
+Germany,2019,"NCDs control, general",1.2700083971,0.13458249077209128
+Germany,2019,Population policy and administrative management,0.47408184239999995,0.05023834119971586
+Germany,2019,Other prevention and treatment of NCDs,0.1571167285,0.016649622720429507
+Germany,2019,Malaria control,0.0315665418,0.0033450990010822925
+Germany,2019,Control of harmful use of alcohol and drugs,0.021084805900000003,0.002234351916056387

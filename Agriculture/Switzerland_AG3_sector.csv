@@ -1,122 +1,157 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Agricultural alternative development",1.859893,"1%","Switzerland"
-2018,"Agricultural co-operatives",2.820364,"2%","Switzerland"
-2018,"Agricultural development",53.069073,"29%","Switzerland"
-2018,"Agricultural education/training",0.474657,"0%","Switzerland"
-2018,"Agricultural extension",0.164964,"0%","Switzerland"
-2018,"Agricultural financial services",4.413368,"2%","Switzerland"
-2018,"Agricultural inputs",4.161557,"2%","Switzerland"
-2018,"Agricultural land resources",8.225311,"4%","Switzerland"
-2018,"Agricultural policy and administrative management",22.918127,"12%","Switzerland"
-2018,"Agricultural research",10.448137,"6%","Switzerland"
-2018,"Agricultural services",16.324804,"9%","Switzerland"
-2018,"Agricultural water resources",14.373041,"8%","Switzerland"
-2018,"Food crop production",0.576113,"0%","Switzerland"
-2018,"Forestry development",2.021852,"1%","Switzerland"
-2018,"Forestry policy and administrative management",11.056537,"6%","Switzerland"
-2018,"Fuelwood/charcoal",0.007454,"0%","Switzerland"
-2018,"Industrial crops/export crops",1.055801,"1%","Switzerland"
-2018,"Livestock",0.239159,"0%","Switzerland"
-2018,"Livestock/veterinary services",0.126819,"0%","Switzerland"
-2018,"Plant and post-harvest protection and pest control",1.807484,"1%","Switzerland"
-2018,"Rural development",29.547331,"16%","Switzerland"
-2019,"Agricultural alternative development",1.944148,"1%","Switzerland"
-2019,"Agricultural co-operatives",3.828487,"2%","Switzerland"
-2019,"Agricultural development",42.055076,"26%","Switzerland"
-2019,"Agricultural education/training",1.326261,"1%","Switzerland"
-2019,"Agricultural extension",0.005486,"0%","Switzerland"
-2019,"Agricultural financial services",5.461285,"3%","Switzerland"
-2019,"Agricultural inputs",2.637427,"2%","Switzerland"
-2019,"Agricultural land resources",7.496639,"5%","Switzerland"
-2019,"Agricultural policy and administrative management",21.860137,"14%","Switzerland"
-2019,"Agricultural research",8.67904,"5%","Switzerland"
-2019,"Agricultural services",21.466323,"13%","Switzerland"
-2019,"Agricultural water resources",10.218221,"6%","Switzerland"
-2019,"Fishery development",0.468864,"0%","Switzerland"
-2019,"Food crop production",0.560914,"0%","Switzerland"
-2019,"Forestry development",0.821805,"1%","Switzerland"
-2019,"Forestry education/training",0.110264,"0%","Switzerland"
-2019,"Forestry policy and administrative management",3.263852,"2%","Switzerland"
-2019,"Industrial crops/export crops",0.183223,"0%","Switzerland"
-2019,"Livestock",0.505454,"0%","Switzerland"
-2019,"Livestock/veterinary services",0.189477,"0%","Switzerland"
-2019,"Plant and post-harvest protection and pest control",2.139987,"1%","Switzerland"
-2019,"Rural development",24.494591,"15%","Switzerland"
-2020,"Agricultural alternative development",2.591023,"2%","Switzerland"
-2020,"Agricultural co-operatives",4.373367,"3%","Switzerland"
-2020,"Agricultural development",40.634593,"24%","Switzerland"
-2020,"Agricultural education/training",1.288496,"1%","Switzerland"
-2020,"Agricultural extension",0.506939,"0%","Switzerland"
-2020,"Agricultural financial services",11.93106,"7%","Switzerland"
-2020,"Agricultural inputs",2.237354,"1%","Switzerland"
-2020,"Agricultural land resources",9.910703,"6%","Switzerland"
-2020,"Agricultural policy and administrative management",17.994614,"11%","Switzerland"
-2020,"Agricultural research",6.845069,"4%","Switzerland"
-2020,"Agricultural services",24.914087,"15%","Switzerland"
-2020,"Agricultural water resources",7.964648,"5%","Switzerland"
-2020,"Fishery development",0.088453,"0%","Switzerland"
-2020,"Fishery education/training",0.77221,"0%","Switzerland"
-2020,"Fishery research",0.004423,"0%","Switzerland"
-2020,"Food crop production",1.235014,"1%","Switzerland"
-2020,"Forestry development",0.565625,"0%","Switzerland"
-2020,"Forestry education/training",0.111119,"0%","Switzerland"
-2020,"Forestry policy and administrative management",2.945978,"2%","Switzerland"
-2020,"Forestry research",0.016585,"0%","Switzerland"
-2020,"Fuelwood/charcoal",0.004975,"0%","Switzerland"
-2020,"Industrial crops/export crops",0.681601,"0%","Switzerland"
-2020,"Livestock",0.997304,"1%","Switzerland"
-2020,"Livestock/veterinary services",0.146765,"0%","Switzerland"
-2020,"Plant and post-harvest protection and pest control",3.068036,"2%","Switzerland"
-2020,"Rural development",24.89856,"15%","Switzerland"
-2021,"Agricultural alternative development",3.346891,"2%","Switzerland"
-2021,"Agricultural co-operatives",4.165987,"3%","Switzerland"
-2021,"Agricultural development",42.211414,"26%","Switzerland"
-2021,"Agricultural education/training",2.597453,"2%","Switzerland"
-2021,"Agricultural extension",0.676098,"0%","Switzerland"
-2021,"Agricultural financial services",9.372769,"6%","Switzerland"
-2021,"Agricultural inputs",2.55126,"2%","Switzerland"
-2021,"Agricultural land resources",9.429392,"6%","Switzerland"
-2021,"Agricultural policy and administrative management",18.7815,"11%","Switzerland"
-2021,"Agricultural research",5.196804,"3%","Switzerland"
-2021,"Agricultural services",24.924187,"15%","Switzerland"
-2021,"Agricultural water resources",9.394438,"6%","Switzerland"
-2021,"Fishery development",0.071207,"0%","Switzerland"
-2021,"Fishery education/training",0.550468,"0%","Switzerland"
-2021,"Fishery research",0.012186,"0%","Switzerland"
-2021,"Fishery services",0.056787,"0%","Switzerland"
-2021,"Food crop production",0.63142,"0%","Switzerland"
-2021,"Forestry development",0.157918,"0%","Switzerland"
-2021,"Forestry education/training",0.109956,"0%","Switzerland"
-2021,"Forestry policy and administrative management",4.333479,"3%","Switzerland"
-2021,"Forestry research",0.018928,"0%","Switzerland"
-2021,"Industrial crops/export crops",6.412888,"4%","Switzerland"
-2021,"Livestock",1.017185,"1%","Switzerland"
-2021,"Livestock/veterinary services",0.398226,"0%","Switzerland"
-2021,"Plant and post-harvest protection and pest control",1.484172,"1%","Switzerland"
-2021,"Rural development",17.548575,"11%","Switzerland"
-2022,"Agrarian reform",0.231486,"0%","Switzerland"
-2022,"Agricultural alternative development",2.481891,"1%","Switzerland"
-2022,"Agricultural co-operatives",3.748794,"2%","Switzerland"
-2022,"Agricultural development",46.908106,"28%","Switzerland"
-2022,"Agricultural education/training",2.697098,"2%","Switzerland"
-2022,"Agricultural extension",0.887295,"1%","Switzerland"
-2022,"Agricultural financial services",9.525571,"6%","Switzerland"
-2022,"Agricultural inputs",2.164743,"1%","Switzerland"
-2022,"Agricultural land resources",8.975622,"5%","Switzerland"
-2022,"Agricultural policy and administrative management",16.304137,"10%","Switzerland"
-2022,"Agricultural research",5.849994,"3%","Switzerland"
-2022,"Agricultural services",24.694757,"15%","Switzerland"
-2022,"Agricultural water resources",8.782314,"5%","Switzerland"
-2022,"Fishery development",0.087473,"0%","Switzerland"
-2022,"Fishery education/training",0.397969,"0%","Switzerland"
-2022,"Fishery research",0.014358,"0%","Switzerland"
-2022,"Fishery services",0.042223,"0%","Switzerland"
-2022,"Food crop production",0.964154,"1%","Switzerland"
-2022,"Forestry development",0.377849,"0%","Switzerland"
-2022,"Forestry policy and administrative management",4.778403,"3%","Switzerland"
-2022,"Forestry research",0.030732,"0%","Switzerland"
-2022,"Industrial crops/export crops",6.897631,"4%","Switzerland"
-2022,"Livestock",1.040486,"1%","Switzerland"
-2022,"Livestock/veterinary services",0.171723,"0%","Switzerland"
-2022,"Plant and post-harvest protection and pest control",0.952024,"1%","Switzerland"
-2022,"Rural development",18.418822,"11%","Switzerland"
+donor,year,Sector,Bilateral ODA for,share
+Switzerland,2023,Agricultural development,45.77740486799999,23.428548980231092
+Switzerland,2023,Rural development,20.277949128000003,10.378109587773553
+Switzerland,2023,Agricultural services,19.532636088000004,9.996663695119835
+Switzerland,2023,Household food security programmes,18.960563544,9.703881051455415
+Switzerland,2023,Agricultural policy and administrative management,9.801620423999998,5.016399353599929
+Switzerland,2023,Agricultural land resources,9.688444452000002,4.958476699158661
+Switzerland,2023,Agricultural financial services,8.172737249999999,4.182748574680172
+Switzerland,2023,Agricultural water resources,7.884965394,4.035468993348096
+Switzerland,2023,Disaster Risk Reduction,7.227449705999999,3.698957158612205
+Switzerland,2023,Agricultural alternative development,6.676039848,3.416749530119794
+Switzerland,2023,Industrial crops/export crops,6.158381514,3.1518156906390478
+Switzerland,2023,Agricultural research,5.379812064000002,2.753349404783961
+Switzerland,2023,Agricultural co-operatives,4.556685576000001,2.3320791449987834
+Switzerland,2023,Forestry policy and administrative management,4.434228096000001,2.269406281029135
+Switzerland,2023,Food security policy and administrative management,4.081691892000001,2.0889807687805724
+Switzerland,2023,Food safety and quality,3.2852521560000016,1.6813685981369302
+Switzerland,2023,Agricultural education/training,2.6022278940000008,1.3318016573482145
+Switzerland,2023,Multisector education/training,1.8211023240000004,0.9320271675267366
+Switzerland,2023,Research/scientific institutions,1.5671228040000003,0.8020422624965456
+Switzerland,2023,Livestock,1.560064476,0.798429860619607
+Switzerland,2023,Agricultural inputs,1.4455062660000002,0.7397997866385291
+Switzerland,2023,Plant and post-harvest protection and pest control,1.2132408780000001,0.6209280193362661
+Switzerland,2023,Agricultural extension,0.8877684000000001,0.45435352883100427
+Switzerland,2023,Food crop production,0.7453968120000002,0.3814887665652221
+Switzerland,2023,Fishery education/training,0.657060312,0.33627877655028116
+Switzerland,2023,Forestry development,0.41225919600000005,0.21099131315738728
+Switzerland,2023,Livestock/veterinary services,0.23745602999999998,0.12152830081888565
+Switzerland,2023,Fishing policy and administrative management,0.15854710200000002,0.0811432748446883
+Switzerland,2023,Fishery development,0.122426334,0.06265692366921728
+Switzerland,2023,Fishery services,0.033957732000000004,0.017379324793828567
+Switzerland,2023,Forestry research,0.017784366000000003,0.009101911545986692
+Switzerland,2023,Fuelwood/charcoal,0.013766532000000001,0.007045612790413517
+Switzerland,2022,Agricultural development,49.67649313199999,21.58942186373997
+Switzerland,2022,Agricultural services,26.152180314,11.365747013487107
+Switzerland,2022,Rural development,19.50584730600001,8.477248286829214
+Switzerland,2022,Agricultural policy and administrative management,17.266358615999998,7.5039656930073955
+Switzerland,2022,Research/scientific institutions,16.905474209999998,7.347125199768948
+Switzerland,2022,Household food security programmes,14.111902476000004,6.133037914829451
+Switzerland,2022,Agricultural financial services,10.087745838000004,4.384137985989933
+Switzerland,2022,Agricultural land resources,9.505342488,4.131025279652258
+Switzerland,2022,Agricultural water resources,9.300620904,4.042053205278072
+Switzerland,2022,Disaster Risk Reduction,9.096448134,3.953319645666576
+Switzerland,2022,Industrial crops/export crops,7.304712192000001,3.17463055790274
+Switzerland,2022,Agricultural research,6.195250859999999,2.6924582621569804
+Switzerland,2022,Food security policy and administrative management,5.811047766000001,2.525483458688478
+Switzerland,2022,Forestry policy and administrative management,5.060407686,2.199255008707329
+Switzerland,2022,Food safety and quality,4.8995235599999996,2.129334709418818
+Switzerland,2022,Agricultural co-operatives,3.970039926,1.7253807862514527
+Switzerland,2022,Agricultural education/training,2.856266484,1.2413344459416884
+Switzerland,2022,Agricultural alternative development,2.6283669059999997,1.1422892070006796
+Switzerland,2022,Agricultural inputs,2.292500256,0.9963214395589775
+Switzerland,2022,Multisector education/training,1.9653910019999998,0.8541596395830026
+Switzerland,2022,Livestock,1.1018885580000002,0.4788811654292465
+Switzerland,2022,Food crop production,1.021055022,0.4437508814777482
+Switzerland,2022,Plant and post-harvest protection and pest control,1.00821213,0.4381693559742935
+Switzerland,2022,Agricultural extension,0.93966408,0.4083783486772541
+Switzerland,2022,Fishery education/training,0.421455858,0.18316486816266858
+Switzerland,2022,Forestry development,0.40014447599999997,0.17390293384547073
+Switzerland,2022,Agrarian reform,0.245149092,0.10654188395781633
+Switzerland,2022,Livestock/veterinary services,0.18185934600000003,0.07903613747905039
+Switzerland,2022,Fishery development,0.09263464800000001,0.04025905149054831
+Switzerland,2022,Fishery services,0.044714916,0.01943311864950944
+Switzerland,2022,Forestry research,0.032546496,0.014144718920947638
+Switzerland,2022,Fishery research,0.015204618,0.006607932476367994
+Switzerland,2021,Agricultural development,44.50285040400001,22.447816300101568
+Switzerland,2021,Agricultural services,26.277194988000016,13.254558766859473
+Switzerland,2021,Agricultural policy and administrative management,19.801053390000003,9.987908752183472
+Switzerland,2021,Rural development,18.501192263999982,9.332241901471614
+Switzerland,2021,Agricultural land resources,9.941267274000001,5.014504453784503
+Switzerland,2021,Agricultural water resources,9.904412964,4.995914660698515
+Switzerland,2021,Agricultural financial services,9.881568984,4.984391860204884
+Switzerland,2021,Household food security programmes,9.006221394,4.542855155911209
+Switzerland,2021,Industrial crops/export crops,6.761010432000001,3.410341557963778
+Switzerland,2021,Disaster Risk Reduction,5.613546684000001,2.8315459259470295
+Switzerland,2021,Agricultural research,5.478912192,2.763634537875539
+Switzerland,2021,Food security policy and administrative management,4.573293912,2.306828904013787
+Switzerland,2021,Forestry policy and administrative management,4.568715449999999,2.3045194682589982
+Switzerland,2021,Agricultural co-operatives,4.392135887999999,2.2154504415754377
+Switzerland,2021,Agricultural alternative development,3.5285754480000007,1.7798593289798164
+Switzerland,2021,Agricultural education/training,2.7384422399999986,1.3813058667908018
+Switzerland,2021,Agricultural inputs,2.689751376,1.3567455619868884
+Switzerland,2021,Multisector education/training,1.9554736860000004,0.9863663492229933
+Switzerland,2021,Food safety and quality,1.601423142,0.8077786520190254
+Switzerland,2021,Plant and post-harvest protection and pest control,1.5647417460000002,0.7892760790025953
+Switzerland,2021,Livestock,1.0724018880000001,0.5409334539960694
+Switzerland,2021,Research/scientific institutions,1.067203728,0.5383114345137386
+Switzerland,2021,Agricultural extension,0.7128009120000001,0.3595460467332824
+Switzerland,2021,Food crop production,0.66569742,0.3357864330026917
+Switzerland,2021,Fishery education/training,0.5803509360000001,0.29273655693184664
+Switzerland,2021,Livestock/veterinary services,0.419845932,0.21177574627969964
+Switzerland,2021,Forestry development,0.166490406,0.08397992523376452
+Switzerland,2021,Forestry education/training,0.115925412,0.05847428489334904
+Switzerland,2021,Fishery development,0.075071526,0.03786705367674224
+Switzerland,2021,Fishery services,0.059869056000000004,0.030198730170049926
+Switzerland,2021,Forestry research,0.01995492,0.010065521070600022
+Switzerland,2021,Fishery research,0.012847188000000002,0.006480288646206539
+Switzerland,2020,Agricultural development,42.91473304799999,20.917250974318094
+Switzerland,2020,Agricultural services,26.312091396000003,12.824887405771193
+Switzerland,2020,Rural development,26.29570537800001,12.816900627650211
+Switzerland,2020,Agricultural policy and administrative management,19.004351598,9.26299113954468
+Switzerland,2020,Agricultural financial services,12.600552491999998,6.141688417248973
+Switzerland,2020,Household food security programmes,11.661365268000003,5.683915212547737
+Switzerland,2020,Disaster Risk Reduction,10.992998958000001,5.3581439713888575
+Switzerland,2020,Agricultural land resources,10.466824878000004,5.1016792445727654
+Switzerland,2020,Agricultural water resources,8.411576592,4.099922012045771
+Switzerland,2020,Agricultural research,7.229170254000002,3.5236003535163585
+Switzerland,2020,Agricultural co-operatives,4.618773515999999,2.251255873353455
+Switzerland,2020,Plant and post-harvest protection and pest control,3.2401924859999998,1.5793158810740944
+Switzerland,2020,Forestry policy and administrative management,3.111284562,1.5164843263287717
+Switzerland,2020,Agricultural alternative development,2.7364156019999997,1.3337678659926158
+Switzerland,2020,Food security policy and administrative management,2.555235024,1.245457876566394
+Switzerland,2020,Agricultural inputs,2.3628955860000005,1.15170890013899
+Switzerland,2020,Multisector education/training,2.0801124599999996,1.0138763844099914
+Switzerland,2020,Agricultural education/training,1.360793442,0.6632700690153011
+Switzerland,2020,Food crop production,1.304307486,0.6357380110422326
+Switzerland,2020,Livestock,1.0532653560000003,0.5133765080016793
+Switzerland,2020,Food safety and quality,0.9070885860000001,0.44212787221766453
+Switzerland,2020,Research/scientific institutions,0.8832253800000001,0.4304966063678793
+Switzerland,2020,Fishery education/training,0.815540826,0.3975061925275031
+Switzerland,2020,Industrial crops/export crops,0.7198452779999999,0.350862822000136
+Switzerland,2020,Forestry development,0.5973663179999998,0.2911648357041951
+Switzerland,2020,Agricultural extension,0.535384704,0.26095411589425965
+Switzerland,2020,Livestock/veterinary services,0.15499968000000003,0.07554904754673972
+Switzerland,2020,Forestry education/training,0.117353832,0.057199926048622195
+Switzerland,2020,Fishery development,0.09341544600000001,0.04553201639805899
+Switzerland,2020,Forestry research,0.017515866,0.008537482098390923
+Switzerland,2020,Fuelwood/charcoal,0.005255082,0.0025614016743777533
+Switzerland,2020,Fishery research,0.004670826,0.002276626994046362
+Switzerland,2019,Agricultural development,44.43121030800005,24.55863506039989
+Switzerland,2019,Rural development,25.878550890000003,14.303951722086323
+Switzerland,2019,Agricultural policy and administrative management,23.095239077999995,12.765520997909066
+Switzerland,2019,Agricultural services,22.679180069999997,12.535551090039503
+Switzerland,2019,Agricultural water resources,10.795556945999994,5.96707002741364
+Switzerland,2019,Agricultural research,9.169408175999997,5.068242515862431
+Switzerland,2019,Agricultural land resources,7.920203334000001,4.377764682427438
+Switzerland,2019,Disaster Risk Reduction,6.3656441820000005,3.518507177868787
+Switzerland,2019,Agricultural financial services,5.7698491259999996,3.189191067646599
+Switzerland,2019,Agricultural co-operatives,4.044797844,2.23569678735496
+Switzerland,2019,Forestry policy and administrative management,3.4482628020000003,1.9059716618032823
+Switzerland,2019,Agricultural inputs,2.7864435960000002,1.5401617672843584
+Switzerland,2019,Plant and post-harvest protection and pest control,2.260896732,1.249674212463244
+Switzerland,2019,Agricultural alternative development,2.05399278,1.1353113892473394
+Switzerland,2019,Household food security programmes,1.7496630659999999,0.9670980470414405
+Switzerland,2019,Research/scientific institutions,1.6297488180000002,0.900817380033726
+Switzerland,2019,Agricultural education/training,1.4012026919999998,0.7744921941116226
+Switzerland,2019,Food safety and quality,1.1997084780000002,0.6631195163451312
+Switzerland,2019,Food security policy and administrative management,1.072551174,0.5928353669250993
+Switzerland,2019,Forestry development,0.8682398580000001,0.47990558145286805
+Switzerland,2019,Food crop production,0.5926052759999999,0.3275530107612466
+Switzerland,2019,Livestock,0.5340164279999999,0.29516896975342904
+Switzerland,2019,Fishery development,0.49535457600000005,0.27379925446894066
+Switzerland,2019,Livestock/veterinary services,0.200183934,0.11064844162428736
+Switzerland,2019,Industrial crops/export crops,0.193576686,0.10699639183179407
+Switzerland,2019,Multisector education/training,0.160515744,0.08872248923713855
+Switzerland,2019,Forestry education/training,0.11649355800000001,0.06438993576761526
+Switzerland,2019,Agricultural extension,0.005795304,0.003203260838799376

@@ -1,6 +1,6 @@
-"Year","Climate funding as a % of bilateral allocable ODA","Funding for projects with climate change as a principal objective","Funding for projects with a significant climate change component","Principal","Significant","Not targeted and not screened"
-"2018","16%",508,590,"8%","9%","84%"
-"2019","22%",600,1725,"6%","17%","78%"
-"2020","37%",375,1819,"6%","30%","63%"
-"2021","36%",575,669,"16%","19%","64%"
-"2022","40%",1030,924,"21%","19%","60%"
+donor,Year,Climate Funding as % of bilateral allocable ODA,Funding for projects with climate change as a principal objective,Funding for projects with a significant climate change component,Principal,Significant,Not targeted and not screened
+United Kingdom,2019,30.95782653335708,515.8611657576042,1482.2301959877987,7.99259773130142,22.965228802055655,69.04217346664292
+United Kingdom,2020,46.60723040299333,325.16058981233243,1576.6061625219577,7.968818735922819,38.63841166707051,53.39276959700668
+United Kingdom,2021,39.99536094805611,411.9576056207821,582.7571960802446,16.563936822820402,23.43142412523571,60.00463905194388
+United Kingdom,2022,50.20516999240706,824.309576592401,762.427220116484,26.081579821573463,24.12359017083359,49.79483000759295
+United Kingdom,2023,0.0,0.0,0.0,0.0,0.0,100.0

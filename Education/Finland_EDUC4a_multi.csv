@@ -1,86 +1,62 @@
-"Year","Multi_short","ODA","Share","Full Name","Donor"
-"2018","EC - Development Share of Budget","13.4","17.3%","european commission development share of budget","Finland"
-"2019","EC - Development Share of Budget","13.3","16%","european commission development share of budget","Finland"
-"2020","EC - Development Share of Budget","14.7","14.5%","european commission development share of budget","Finland"
-"2021","EC - Development Share of Budget","15.2","11.7%","european commission development share of budget","Finland"
-"2022","EC - Development Share of Budget","17.8","19.3%","european commission development share of budget","Finland"
-"2018","IDA","7.7","10%","international development association","Finland"
-"2019","IDA","5.5","6.6%","international development association","Finland"
-"2020","IDA","4.7","4.6%","international development association","Finland"
-"2021","IDA","4.9","3.7%","international development association","Finland"
-"2022","IDA","5.9","6.4%","international development association","Finland"
-"2018","UNRWA","3.4","4.3%","united nations relief and works agency for palestine refugees in the near east","Finland"
-"2019","UNRWA","3.5","4.3%","united nations relief and works agency for palestine refugees in the near east","Finland"
-"2020","UNRWA","6.5","6.4%","united nations relief and works agency for palestine refugees in the near east","Finland"
-"2021","UNRWA","5.6","4.3%","united nations relief and works agency for palestine refugees in the near east","Finland"
-"2022","UNRWA","4.7","5.1%","united nations relief and works agency for palestine refugees in the near east","Finland"
-"2018","UNFPA","1","1.2%","united nations population fund","Finland"
-"2019","UNFPA","1.2","1.4%","united nations population fund","Finland"
-"2020","UNFPA","2","2%","united nations population fund","Finland"
-"2021","UNFPA","1.9","1.4%","united nations population fund","Finland"
-"2022","UNFPA","2","2.2%","united nations population fund","Finland"
-"2018","UNICEF","0.5","0.7%","united nations childrenâ€™s fund","Finland"
-"2019","UNICEF","0.5","0.7%","united nations childrenâ€™s fund","Finland"
-"2020","UNICEF","0.6","0.6%","united nations childrenâ€™s fund","Finland"
-"2021","UNICEF","0.6","0.5%","united nations childrenâ€™s fund","Finland"
-"2022","UNICEF","0.6","0.6%","united nations childrenâ€™s fund","Finland"
-"2018","IBRD","0","0%","international bank for reconstruction and development","Finland"
-"2019","IBRD","0","0%","international bank for reconstruction and development","Finland"
-"2020","IBRD","0.5","0.5%","international bank for reconstruction and development","Finland"
-"2021","IBRD","0.4","0.3%","international bank for reconstruction and development","Finland"
-"2022","IBRD","0.4","0.5%","international bank for reconstruction and development","Finland"
-"2018","African Development Fund","1.7","2.2%","african development fund","Finland"
-"2019","African Development Fund","1.6","2%","african development fund","Finland"
-"2020","African Development Fund","1","1%","african development fund","Finland"
-"2021","African Development Fund","2.1","1.6%","african development fund","Finland"
-"2022","African Development Fund","0.3","0.4%","african development fund","Finland"
-"2018","AfDB","0.1","0.1%","african development bank","Finland"
-"2019","AfDB","0","0%","african development bank","Finland"
-"2020","AfDB","0","0%","african development bank","Finland"
-"2021","AfDB","0","0%","african development bank","Finland"
-"2022","AfDB","0","0%","african development bank","Finland"
-"2018","WTO - international trade centre","0","0%","world trade organisation international trade centre","Finland"
-"2019","WTO - international trade centre","0","0%","world trade organisation international trade centre","Finland"
-"2020","WTO - international trade centre","0","0%","world trade organisation international trade centre","Finland"
-"2021","WTO - international trade centre","0","0%","world trade organisation international trade centre","Finland"
-"2022","WTO - international trade centre","0","0%","world trade organisation international trade centre","Finland"
-"2018","UNIDO","0","0%","united nations industrial development organisation","Finland"
-"2019","UNIDO","0","0%","united nations industrial development organisation","Finland"
-"2020","UNIDO","0","0%","united nations industrial development organisation","Finland"
-"2021","UNIDO","0","0%","united nations industrial development organisation","Finland"
-"2022","UNIDO","0","0%","united nations industrial development organisation","Finland"
-"2018","UNDP","0","0%","united nations development programme","Finland"
-"2019","UNDP","0","0%","united nations development programme","Finland"
-"2020","UNDP","0","0%","united nations development programme","Finland"
-"2021","UNDP","0","0%","united nations development programme","Finland"
-"2022","UNDP","0","0%","united nations development programme","Finland"
-"2018","FAO","0","0%","food and agricultural organisation","Finland"
-"2019","FAO","0","0%","food and agricultural organisation","Finland"
-"2020","FAO","0","0%","food and agricultural organisation","Finland"
-"2021","FAO","0","0%","food and agricultural organisation","Finland"
-"2022","FAO","0","0%","food and agricultural organisation","Finland"
-"2018","ADB","0.1","0.2%","asian development bank","Finland"
-"2019","ADB","0.1","0.2%","asian development bank","Finland"
-"2020","ADB","0.1","0.1%","asian development bank","Finland"
-"2021","ADB","0","0%","asian development bank","Finland"
-"2022","ADB","0","0%","asian development bank","Finland"
-"2018","WFP","0.5","0.6%","world food programme","Finland"
-"2019","WFP","0.2","0.2%","world food programme","Finland"
-"2020","WFP","0","0%","world food programme","Finland"
-"2021","WFP","0","0%","world food programme","Finland"
-"2022","WFP","0","0%","world food programme","Finland"
-"2018","UN","0","0%","united nations","Finland"
-"2019","UN","0","0%","united nations","Finland"
-"2020","UN","0","0%","united nations","Finland"
-"2021","UN","0","0%","united nations","Finland"
-"2022","UN","0","0%","united nations","Finland"
-"2018","IFC","0","0%","international finance corporation","Finland"
-"2019","IFC","0","0%","international finance corporation","Finland"
-"2020","IFC","0","0%","international finance corporation","Finland"
-"2021","IFC","0","0%","international finance corporation","Finland"
-"2022","IFC","0","0%","international finance corporation","Finland"
-"2018","Adaptation Fund","0","0%","adaptation fund","Finland"
-"2019","Adaptation Fund","0","0%","adaptation fund","Finland"
-"2020","Adaptation Fund","0","0%","adaptation fund","Finland"
-"2021","Adaptation Fund","0","0%","adaptation fund","Finland"
-"2022","Adaptation Fund","0","0%","adaptation fund","Finland"
+Year,ODA,Share,Full Name,donor
+2021,2.1367000000000003,0.060302883204262726,african development fund,Finland
+2021,5.6635,0.15983777742656521,united nations relief and works agency for palestine refugees in the near east,Finland
+2021,1.8741,0.05289167099410716,united nations population fund,Finland
+2021,0.0004,1.128897518683254e-05,united nations development programme,Finland
+2021,0.42040000000000005,0.011864712921361,international bank for reconstruction and development,Finland
+2021,0.0016,4.515590074733016e-05,adaptation fund,Finland
+2021,0.012999999999999998,0.0003668916935720575,african development bank,Finland
+2021,2.4155999999999995,0.0681741211532817,european commission european development fund,Finland
+2021,0.6244000000000001,0.017622090266645594,united nations children’s fund,Finland
+2021,0.0032,9.031180149466032e-05,food and agricultural organisation,Finland
+2021,0.0125,0.0003527804745885169,united nations industrial development organisation,Finland
+2021,4.896,0.13817705628683027,international development association,Finland
+2021,17.3714,0.49026325890135697,european commission development share of budget,Finland
+2023,0.0036999999999999997,9.425983104562173e-05,united nations industrial development organisation,Finland
+2023,0.5454,0.013894408608724892,united nations children’s fund,Finland
+2023,0.0053,0.00013502083906535007,united nations,Finland
+2023,0.3424999999999999,0.008725403279223092,international bank for reconstruction and development,Finland
+2023,0.0098,0.00024966117412083595,united nations development programme,Finland
+2023,13.1613,0.3352924092812815,international development association,Finland
+2023,0.2248,0.005726921626771829,european commission european development fund,Finland
+2023,0.0943,0.0024023519101627378,african development bank,Finland
+2023,0.0007,1.783294100863114e-05,food and agricultural organisation,Finland
+2023,1.22,0.031080268615042844,african development fund,Finland
+2023,18.8975,0.48142571815801,european commission development share of budget,Finland
+2023,1.8354000000000001,0.04675797132463085,united nations population fund,Finland
+2023,2.9125,0.07419777241091172,united nations relief and works agency for palestine refugees in the near east,Finland
+2022,0.0084,0.00024302531803045336,united nations industrial development organisation,Finland
+2022,0.3308,0.009570568476723091,african development fund,Finland
+2022,4.7626,0.1377895690061711,united nations relief and works agency for palestine refugees in the near east,Finland
+2022,0.5797,0.016771640102649265,united nations children’s fund,Finland
+2022,0.427,0.01235378699988138,international bank for reconstruction and development,Finland
+2022,19.3118,0.5587209924691083,european commission development share of budget,Finland
+2022,0.007,0.00020252109835871114,united nations development programme,Finland
+2022,5.9754000000000005,0.1728777958760918,international development association,Finland
+2022,1.0924999999999998,0.03160775713669884,european commission european development fund,Finland
+2022,0.023399999999999997,0.0006769991002276914,african development bank,Finland
+2022,2.0450999999999997,0.05916798546477144,united nations population fund,Finland
+2022,0.0006,1.7358951287889525e-05,food and agricultural organisation,Finland
+2019,1.165,0.035959897768943,united nations population fund,Finland
+2019,0.0039,0.0001203807736471053,food and agricultural organisation,Finland
+2019,4.4409,0.13707666094600768,european commission european development fund,Finland
+2019,0.1258,0.0038830516217450892,asian development bank,Finland
+2019,5.543100000000001,0.17109811959058194,international development association,Finland
+2019,0.0005,1.5433432518859655e-05,united nations development programme,Finland
+2019,0.5458,0.0168471349375872,united nations children’s fund,Finland
+2019,0.1818,0.005611596063857371,world food programme,Finland
+2019,1.6531000000000002,0.0510260145938538,african development fund,Finland
+2019,3.5659,0.1100681540380033,united nations relief and works agency for palestine refugees in the near east,Finland
+2019,15.171399999999998,0.4682935562332547,european commission development share of budget,Finland
+2020,1.0344,0.02844047543764624,african development fund,Finland
+2020,2.0007,0.05500856458632911,united nations population fund,Finland
+2020,4.6207,0.12704457159196827,european commission european development fund,Finland
+2020,0.0033,9.073237523611038e-05,food and agricultural organisation,Finland
+2020,6.4984,0.17867129310131508,united nations relief and works agency for palestine refugees in the near east,Finland
+2020,4.6724,0.1284660454706673,international development association,Finland
+2020,0.001,2.7494659162457695e-05,united nations development programme,Finland
+2020,0.547,0.015039578561864358,international bank for reconstruction and development,Finland
+2020,0.5720000000000002,0.015726945040925804,united nations children’s fund,Finland
+2020,0.0185,0.0005086511945054673,united nations industrial development organisation,Finland
+2020,0.11800000000000001,0.003244369781170008,asian development bank,Finland
+2020,16.2843,0.4477312781992099,european commission development share of budget,Finland

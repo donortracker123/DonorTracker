@@ -1,6 +1,6 @@
-"Year","climate funding as a % of bilateral allocable ODA","Funding for projects with climate change as a principal objective","Funding for projects with a significant climate change component","Principal","Significant","Not targeted and not screened"
-"2018","27%",1,11,"2%","25%","73%"
-"2019","41%",3,13,"9%","32%","59%"
-"2020","34%",4,10,"10%","24%","66%"
-"2021","39%",4,14,"9%","30%","61%"
-"2022","32%",5,14,"9%","23%","68%"
+donor,Year,Climate Funding as % of bilateral allocable ODA,Funding for projects with climate change as a principal objective,Funding for projects with a significant climate change component,Principal,Significant,Not targeted and not screened
+Iceland,2019,47.214436492875585,3.398254211332312,12.70904479326187,9.961114995247389,37.25332149762819,52.78556350712442
+Iceland,2020,39.12139315965275,3.781286370597244,9.456049961715161,11.175147857524424,27.94624530212832,60.87860684034725
+Iceland,2021,47.33800906382051,4.342692381316998,13.945007656967835,11.241129878432146,36.09687918538836,52.66199093617949
+Iceland,2022,46.06977452129625,5.014696592649313,13.244981814701385,12.652245902811934,33.41752861848432,53.93022547870375
+Iceland,2023,60.757108059277805,3.115509188361409,23.948748085758055,6.994070685174771,53.76303737410303,39.2428919407222

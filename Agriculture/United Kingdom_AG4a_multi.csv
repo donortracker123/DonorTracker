@@ -1,121 +1,81 @@
-"Year","Multi_short","ODA","Share","Full Name","Donor"
-"2018","GCF","27.5","2.3%","green climate fund","United Kingdom"
-"2019","GCF","0","0%","green climate fund","United Kingdom"
-"2020","GCF","224.1","22.9%","green climate fund","United Kingdom"
-"2021","GCF","157.4","21%","green climate fund","United Kingdom"
-"2022","GCF","174.2","26.8%","green climate fund","United Kingdom"
-"2018","EC - Development Share of Budget","141.1","12%","european commission development share of budget","United Kingdom"
-"2019","EC - Development Share of Budget","129.2","13.6%","european commission development share of budget","United Kingdom"
-"2020","EC - Development Share of Budget","126.3","12.9%","european commission development share of budget","United Kingdom"
-"2021","EC - Development Share of Budget","74.8","10%","european commission development share of budget","United Kingdom"
-"2022","EC - Development Share of Budget","52.2","8%","european commission development share of budget","United Kingdom"
-"2018","African Development Fund","26.6","2.3%","african development fund","United Kingdom"
-"2019","African Development Fund","34","3.6%","african development fund","United Kingdom"
-"2020","African Development Fund","29.3","3%","african development fund","United Kingdom"
-"2021","African Development Fund","27.4","3.7%","african development fund","United Kingdom"
-"2022","African Development Fund","41.9","6.5%","african development fund","United Kingdom"
-"2018","CGIAR Fund","0","0%","cgiar fund","United Kingdom"
-"2019","CGIAR Fund","0","0%","cgiar fund","United Kingdom"
-"2020","CGIAR Fund","0","0%","cgiar fund","United Kingdom"
-"2021","CGIAR Fund","0","0%","cgiar fund","United Kingdom"
-"2022","CGIAR Fund","24.8","3.8%","cgiar fund","United Kingdom"
-"2018","IDA","396.1","33.7%","international development association","United Kingdom"
-"2019","IDA","137.7","14.5%","international development association","United Kingdom"
-"2020","IDA","137.6","14%","international development association","United Kingdom"
-"2021","IDA","111","14.8%","international development association","United Kingdom"
-"2022","IDA","21.7","3.4%","international development association","United Kingdom"
-"2018","IFC","0","0%","international finance corporation","United Kingdom"
-"2019","IFC","0","0%","international finance corporation","United Kingdom"
-"2020","IFC","0","0%","international finance corporation","United Kingdom"
-"2021","IFC","0","0%","international finance corporation","United Kingdom"
-"2022","IFC","16.1","2.5%","international finance corporation","United Kingdom"
-"2018","FAO","11.5","1%","food and agricultural organisation","United Kingdom"
-"2019","FAO","13.5","1.4%","food and agricultural organisation","United Kingdom"
-"2020","FAO","13.1","1.3%","food and agricultural organisation","United Kingdom"
-"2021","FAO","11.9","1.6%","food and agricultural organisation","United Kingdom"
-"2022","FAO","12.5","1.9%","food and agricultural organisation","United Kingdom"
-"2018","Adaptation Fund","0","0%","adaptation fund","United Kingdom"
-"2019","Adaptation Fund","0","0%","adaptation fund","United Kingdom"
-"2020","Adaptation Fund","0","0%","adaptation fund","United Kingdom"
-"2021","Adaptation Fund","0","0%","adaptation fund","United Kingdom"
-"2022","Adaptation Fund","11.3","1.7%","adaptation fund","United Kingdom"
-"2018","GEF Fund","2.5","0.2%","global environment facility trust fund","United Kingdom"
-"2019","GEF Fund","0.6","0.1%","global environment facility trust fund","United Kingdom"
-"2020","GEF Fund","1.2","0.1%","global environment facility trust fund","United Kingdom"
-"2021","GEF Fund","6.7","0.9%","global environment facility trust fund","United Kingdom"
-"2022","GEF Fund","8.5","1.3%","global environment facility trust fund","United Kingdom"
-"2018","IBRD","3","0.3%","international bank for reconstruction and development","United Kingdom"
-"2019","IBRD","5.5","0.6%","international bank for reconstruction and development","United Kingdom"
-"2020","IBRD","4.5","0.5%","international bank for reconstruction and development","United Kingdom"
-"2021","IBRD","4.1","0.5%","international bank for reconstruction and development","United Kingdom"
-"2022","IBRD","4.8","0.7%","international bank for reconstruction and development","United Kingdom"
-"2018","AfDB","0.5","0%","african development bank","United Kingdom"
-"2019","AfDB","0","0%","african development bank","United Kingdom"
-"2020","AfDB","3.4","0.3%","african development bank","United Kingdom"
-"2021","AfDB","4.3","0.6%","african development bank","United Kingdom"
-"2022","AfDB","3.9","0.6%","african development bank","United Kingdom"
-"2018","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","United Kingdom"
-"2019","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","United Kingdom"
-"2020","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","United Kingdom"
-"2021","WHO - core voluntary contributions","0.8","0.1%","world health organisation core voluntary contributions account","United Kingdom"
-"2022","WHO - core voluntary contributions","1.3","0.2%","world health organisation core voluntary contributions account","United Kingdom"
-"2018","WHO - assessed contributions","0","0%","world health organisation assessed contributions","United Kingdom"
-"2019","WHO - assessed contributions","0","0%","world health organisation assessed contributions","United Kingdom"
-"2020","WHO - assessed contributions","0","0%","world health organisation assessed contributions","United Kingdom"
-"2021","WHO - assessed contributions","0.1","0%","world health organisation assessed contributions","United Kingdom"
-"2022","WHO - assessed contributions","0.1","0%","world health organisation assessed contributions","United Kingdom"
-"2018","UN","0","0%","united nations","United Kingdom"
-"2019","UN","0","0%","united nations","United Kingdom"
-"2020","UN","0","0%","united nations","United Kingdom"
-"2021","UN","0","0%","united nations","United Kingdom"
-"2022","UN","0.1","0%","united nations","United Kingdom"
-"2018","UNICEF","0","0%","united nations childrenâ€™s fund","United Kingdom"
-"2019","UNICEF","0","0%","united nations childrenâ€™s fund","United Kingdom"
-"2020","UNICEF","0","0%","united nations childrenâ€™s fund","United Kingdom"
-"2021","UNICEF","0","0%","united nations childrenâ€™s fund","United Kingdom"
-"2022","UNICEF","0","0%","united nations childrenâ€™s fund","United Kingdom"
-"2018","CDB","0","0%","caribbean development bank","United Kingdom"
-"2019","CDB","0","0%","caribbean development bank","United Kingdom"
-"2020","CDB","0","0%","caribbean development bank","United Kingdom"
-"2021","CDB","0","0%","caribbean development bank","United Kingdom"
-"2022","CDB","0","0%","caribbean development bank","United Kingdom"
-"2018","GEF - Special Climate Change Fund","6.7","0.6%","global environment facility special climate change fund","United Kingdom"
-"2019","GEF - Special Climate Change Fund","1.2","0.1%","global environment facility special climate change fund","United Kingdom"
-"2020","GEF - Special Climate Change Fund","1.2","0.1%","global environment facility special climate change fund","United Kingdom"
-"2021","GEF - Special Climate Change Fund","0","0%","global environment facility special climate change fund","United Kingdom"
-"2022","GEF - Special Climate Change Fund","0","0%","global environment facility special climate change fund","United Kingdom"
-"2018","Strategic Climate Fund","0","0%","strategic climate fund","United Kingdom"
-"2019","Strategic Climate Fund","0","0%","strategic climate fund","United Kingdom"
-"2020","Strategic Climate Fund","0","0%","strategic climate fund","United Kingdom"
-"2021","Strategic Climate Fund","0","0%","strategic climate fund","United Kingdom"
-"2022","Strategic Climate Fund","0","0%","strategic climate fund","United Kingdom"
-"2018","UNDP","0.1","0%","united nations development programme","United Kingdom"
-"2019","UNDP","0.2","0%","united nations development programme","United Kingdom"
-"2020","UNDP","0.2","0%","united nations development programme","United Kingdom"
-"2021","UNDP","0.1","0%","united nations development programme","United Kingdom"
-"2022","UNDP","0","0%","united nations development programme","United Kingdom"
-"2018","WFP","0","0%","world food programme","United Kingdom"
-"2019","WFP","0","0%","world food programme","United Kingdom"
-"2020","WFP","0","0%","world food programme","United Kingdom"
-"2021","WFP","0","0%","world food programme","United Kingdom"
-"2022","WFP","0","0%","world food programme","United Kingdom"
-"2018","AIIB","1","0.1%","asian infrastructure investment bank","United Kingdom"
-"2019","AIIB","0.9","0.1%","asian infrastructure investment bank","United Kingdom"
-"2020","AIIB","0","0%","asian infrastructure investment bank","United Kingdom"
-"2021","AIIB","0","0%","asian infrastructure investment bank","United Kingdom"
-"2022","AIIB","0","0%","asian infrastructure investment bank","United Kingdom"
-"2018","Global Green Growth Institute","0.3","0%","global green growth institute","United Kingdom"
-"2019","Global Green Growth Institute","0.3","0%","global green growth institute","United Kingdom"
-"2020","Global Green Growth Institute","0","0%","global green growth institute","United Kingdom"
-"2021","Global Green Growth Institute","0","0%","global green growth institute","United Kingdom"
-"2022","Global Green Growth Institute","0","0%","global green growth institute","United Kingdom"
-"2018","IDB, IIC and MIF","0","0%","inter american development bank inter american investment corporation and multilateral investment fund","United Kingdom"
-"2019","IDB, IIC and MIF","0","0%","inter american development bank inter american investment corporation and multilateral investment fund","United Kingdom"
-"2020","IDB, IIC and MIF","0","0%","inter american development bank inter american investment corporation and multilateral investment fund","United Kingdom"
-"2021","IDB, IIC and MIF","0","0%","inter american development bank inter american investment corporation and multilateral investment fund","United Kingdom"
-"2022","IDB, IIC and MIF","0","0%","inter american development bank inter american investment corporation and multilateral investment fund","United Kingdom"
-"2018","Clean Technology Fund","0","0%","clean technology fund","United Kingdom"
-"2019","Clean Technology Fund","0","0%","clean technology fund","United Kingdom"
-"2020","Clean Technology Fund","0","0%","clean technology fund","United Kingdom"
-"2021","Clean Technology Fund","0","0%","clean technology fund","United Kingdom"
-"2022","Clean Technology Fund","0","0%","clean technology fund","United Kingdom"
+Year,ODA,Share,Full Name,donor
+2020,3.459099999999999,0.0059025535186068385,african development bank,United Kingdom
+2020,4.5974,0.007844930631217105,international bank for reconstruction and development,United Kingdom
+2020,29.7397,0.05074735361143414,african development fund,United Kingdom
+2020,0.0313,5.34098248481958e-05,world health organisation assessed contributions,United Kingdom
+2020,0.0311,5.306854801210509e-05,inter american development bank inter american investment corporation and multilateral investment fund,United Kingdom
+2020,139.60600000000002,0.23822146989639692,international development association,United Kingdom
+2020,66.90750000000001,0.11416989955369525,european commission european development fund,United Kingdom
+2020,227.33549999999997,0.38792170085549565,green climate fund,United Kingdom
+2020,0.0151,2.5766401124848452e-05,united nations children’s fund,United Kingdom
+2020,1.2086,0.0020623359204961483,global environment facility trust fund,United Kingdom
+2020,1.1815,0.0020160929092058574,global environment facility special climate change fund,United Kingdom
+2020,0.0013,2.2182994345896017e-06,world health organisation core voluntary contributions account,United Kingdom
+2020,98.32429999999998,0.16777903007416797,european commission development share of budget,United Kingdom
+2020,0.0501,8.548984744072235e-05,global green growth institute,United Kingdom
+2020,13.323500000000003,0.022735009628272743,food and agricultural organisation,United Kingdom
+2020,0.2225,0.00037967048015091266,united nations development programme,United Kingdom
+2019,138.5885,0.2941358120328934,international development association,United Kingdom
+2019,172.7146,0.3665639581995358,european commission european development fund,United Kingdom
+2019,0.2743,0.0005821655710295057,global green growth institute,United Kingdom
+2019,0.0078,1.655447121410917e-05,united nations children’s fund,United Kingdom
+2019,0.9084,0.0019279591860124064,asian infrastructure investment bank,United Kingdom
+2019,1.2415,0.0026349200015790427,global environment facility special climate change fund,United Kingdom
+2019,0.0005,1.0611840521864852e-06,strategic climate fund,United Kingdom
+2019,13.6311,0.028930211867518395,food and agricultural organisation,United Kingdom
+2019,0.24370000000000003,0.0005172211070356929,united nations development programme,United Kingdom
+2019,103.1468,0.2189154783881379,european commission development share of budget,United Kingdom
+2019,34.1907,0.07256525114618492,african development fund,United Kingdom
+2019,5.5604000000000005,0.011801215607555465,international bank for reconstruction and development,United Kingdom
+2019,0.0299,6.345880632075181e-05,world food programme,United Kingdom
+2019,0.5907,0.0012536828392531135,global environment facility trust fund,United Kingdom
+2019,0.04290000000000001,9.104959167760044e-05,inter american development bank inter american investment corporation and multilateral investment fund,United Kingdom
+2022,0.003,7.549333003846888e-06,caribbean development bank,United Kingdom
+2022,8.684800000000001,0.021854815757269823,global environment facility trust fund,United Kingdom
+2022,0.0167,4.202462038808101e-05,united nations children’s fund,United Kingdom
+2022,25.1693,0.06333714239124116,cgiar fund,United Kingdom
+2022,11.5114,0.02896779731349436,adaptation fund,United Kingdom
+2022,1.3012,0.0032743973682018567,world health organisation core voluntary contributions account,United Kingdom
+2022,0.0852,0.00021440105730925163,united nations,United Kingdom
+2022,12.680600000000002,0.03191002402952696,food and agricultural organisation,United Kingdom
+2022,42.622299999999996,0.10725664536328773,african development fund,United Kingdom
+2022,16.3491,0.04114160007106439,international finance corporation,United Kingdom
+2022,177.02140000000003,0.4454644991357273,green climate fund,United Kingdom
+2022,40.989399999999996,0.10314754340929387,european commission development share of budget,United Kingdom
+2022,29.8764,0.07518229751871039,european commission european development fund,United Kingdom
+2022,0.1361,0.00034248807394118716,world health organisation assessed contributions,United Kingdom
+2022,3.9636,0.009974178764682508,african development bank,United Kingdom
+2022,4.8784,0.012276222041988888,international bank for reconstruction and development,United Kingdom
+2022,22.097199999999997,0.05560637375086848,international development association,United Kingdom
+2021,0.0234,4.740970780627178e-05,inter american development bank inter american investment corporation and multilateral investment fund,United Kingdom
+2021,27.968700000000005,0.05666614934706298,african development fund,United Kingdom
+2021,6.815899999999999,0.013809394334904607,global environment facility trust fund,United Kingdom
+2021,4.1777,0.008464253688130837,international bank for reconstruction and development,United Kingdom
+2021,0.003,6.078167667470741e-06,caribbean development bank,United Kingdom
+2021,0.0119,2.4110065080967275e-05,united nations children’s fund,United Kingdom
+2021,0.0422,8.549955852242176e-05,clean technology fund,United Kingdom
+2021,0.0841,0.00017039130027809643,world health organisation assessed contributions,United Kingdom
+2021,105.74229999999999,0.21423980964799708,european commission european development fund,United Kingdom
+2021,57.67310000000001,0.11684892390093563,european commission development share of budget,United Kingdom
+2021,0.8165,0.00165427463349662,world health organisation core voluntary contributions account,United Kingdom
+2021,0.12869999999999998,0.00026075339293449474,united nations development programme,United Kingdom
+2021,12.173800000000002,0.024664799183418438,food and agricultural organisation,United Kingdom
+2021,4.3393999999999995,0.00879186692540751,african development bank,United Kingdom
+2021,160.43959999999998,0.3250595964339795,green climate fund,United Kingdom
+2021,113.12950000000001,0.22920668971237707,international development association,United Kingdom
+2023,0.1413,0.00024635858302493477,world health organisation assessed contributions,United Kingdom
+2023,4.6541,0.008114490313208413,international bank for reconstruction and development,United Kingdom
+2023,30.904599999999995,0.05388261475550175,african development fund,United Kingdom
+2023,31.592599999999997,0.05508215265444835,european commission development share of budget,United Kingdom
+2023,1.4706,0.002564012258998365,world health organisation core voluntary contributions account,United Kingdom
+2023,223.03039999999993,0.3888567113622391,international development association,United Kingdom
+2023,10.784400000000002,0.018802756565988014,food and agricultural organisation,United Kingdom
+2023,0.23049999999999998,0.0004018800664348723,united nations development programme,United Kingdom
+2023,5.109400000000001,0.008908312414066538,european commission european development fund,United Kingdom
+2023,207.89690000000007,0.36247123637138406,green climate fund,United Kingdom
+2023,0.2329,0.00040606450096608137,united nations,United Kingdom
+2023,4.2542,0.0074172589094457,cgiar fund,United Kingdom
+2023,4.232,0.007378552890032016,african development bank,United Kingdom
+2023,0.1014,0.00017679235894358373,united nations children’s fund,United Kingdom
+2023,33.616,0.058609979667135215,global environment facility trust fund,United Kingdom
+2023,15.302900000000001,0.026680826328183114,international finance corporation,United Kingdom

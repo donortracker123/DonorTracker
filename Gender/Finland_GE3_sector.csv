@@ -1,91 +1,107 @@
-"Year","Sector","Gender-related ODA to","Share","Donor"
-"2018","Government & civil society",42.12,"19%","Finland"
-"2019","Government & civil society",50.23,"21%","Finland"
-"2020","Government & civil society",57.93,"20%","Finland"
-"2021","Government & civil society",52.56,"14%","Finland"
-"2022","Government & civil society",57.79,"18%","Finland"
-"2018","Energy",0.82,"0%","Finland"
-"2019","Energy",0.48,"0%","Finland"
-"2020","Energy",1.22,"0%","Finland"
-"2021","Energy",1.49,"0%","Finland"
-"2022","Energy",48.9,"15%","Finland"
-"2018","Education",47.66,"22%","Finland"
-"2019","Education",49.67,"21%","Finland"
-"2020","Education",59.43,"21%","Finland"
-"2021","Education",90.01,"25%","Finland"
-"2022","Education",47.86,"15%","Finland"
-"2018","Humanitarian aid",12.83,"6%","Finland"
-"2019","Humanitarian aid",7.66,"3%","Finland"
-"2020","Humanitarian aid",10.72,"4%","Finland"
-"2021","Humanitarian aid",68.54,"19%","Finland"
-"2022","Humanitarian aid",30.35,"9%","Finland"
-"2018","Health & populations",20.89,"10%","Finland"
-"2019","Health & populations",21.29,"9%","Finland"
-"2020","Health & populations",34.61,"12%","Finland"
-"2021","Health & populations",24.76,"7%","Finland"
-"2022","Health & populations",23.95,"7%","Finland"
-"2018","Other multisector",4.96,"2%","Finland"
-"2019","Other multisector",7.31,"3%","Finland"
-"2020","Other multisector",9.59,"3%","Finland"
-"2021","Other multisector",4.47,"1%","Finland"
-"2022","Other multisector",18.77,"6%","Finland"
-"2018","Agriculture (incl. forestry, fishing, rural development)",21.05,"10%","Finland"
-"2019","Agriculture (incl. forestry, fishing, rural development)",24.52,"10%","Finland"
-"2020","Agriculture (incl. forestry, fishing, rural development)",15.25,"5%","Finland"
-"2021","Agriculture (incl. forestry, fishing, rural development)",12.2,"3%","Finland"
-"2022","Agriculture (incl. forestry, fishing, rural development)",17.8,"6%","Finland"
-"2018","Unspecified",3.57,"2%","Finland"
-"2019","Unspecified",2.66,"1%","Finland"
-"2020","Unspecified",2.53,"1%","Finland"
-"2021","Unspecified",2.85,"1%","Finland"
-"2022","Unspecified",14.71,"5%","Finland"
-"2018","Other social services",17.89,"8%","Finland"
-"2019","Other social services",12.59,"5%","Finland"
-"2020","Other social services",16.19,"6%","Finland"
-"2021","Other social services",14.77,"4%","Finland"
-"2022","Other social services",13.08,"4%","Finland"
-"2018","Financial services & business support",6.61,"3%","Finland"
-"2019","Financial services & business support",10.59,"4%","Finland"
-"2020","Financial services & business support",39.85,"14%","Finland"
-"2021","Financial services & business support",56.73,"16%","Finland"
-"2022","Financial services & business support",12.66,"4%","Finland"
-"2018","Conflict, peace & security",10.81,"5%","Finland"
-"2019","Conflict, peace & security",12.05,"5%","Finland"
-"2020","Conflict, peace & security",13.34,"5%","Finland"
-"2021","Conflict, peace & security",12.6,"3%","Finland"
-"2022","Conflict, peace & security",12.19,"4%","Finland"
-"2018","Water and sanitation",12.9,"6%","Finland"
-"2019","Water and sanitation",17.25,"7%","Finland"
-"2020","Water and sanitation",14.3,"5%","Finland"
-"2021","Water and sanitation",8.67,"2%","Finland"
-"2022","Water and sanitation",9.86,"3%","Finland"
-"2018","Infrastructure",6.85,"3%","Finland"
-"2019","Infrastructure",0.4,"0%","Finland"
-"2020","Infrastructure",0.24,"0%","Finland"
-"2021","Infrastructure",2.18,"1%","Finland"
-"2022","Infrastructure",3.43,"1%","Finland"
-"2018","Environmental protection",1.38,"1%","Finland"
-"2019","Environmental protection",0.8,"0%","Finland"
-"2020","Environmental protection",2.54,"1%","Finland"
-"2021","Environmental protection",1.8,"0%","Finland"
-"2022","Environmental protection",3.05,"1%","Finland"
-"2018","Trade policy",4.12,"2%","Finland"
-"2019","Trade policy",3.26,"1%","Finland"
-"2020","Trade policy",3.54,"1%","Finland"
-"2021","Trade policy",2.9,"1%","Finland"
-"2022","Trade policy",2.79,"1%","Finland"
-"2018","Industry, construction & mining",4.17,"2%","Finland"
-"2019","Industry, construction & mining",18.88,"8%","Finland"
-"2020","Industry, construction & mining",4.58,"2%","Finland"
-"2021","Industry, construction & mining",5.91,"2%","Finland"
-"2022","Industry, construction & mining",2.27,"1%","Finland"
-"2018","Food aid and commodity assistance",0.02,"0%","Finland"
-"2019","Food aid and commodity assistance",0.01,"0%","Finland"
-"2020","Food aid and commodity assistance",0.08,"0%","Finland"
-"2021","Food aid and commodity assistance",0.04,"0%","Finland"
-"2022","Food aid and commodity assistance",0.05,"0%","Finland"
-"2018","Tourism",0.01,"0%","Finland"
-"2019","Tourism",0,"0%","Finland"
-"2020","Tourism",0,"0%","Finland"
-"2021","Tourism",0,"0%","Finland"
-"2022","Tourism",0.02,"0%","Finland"
+year,Sector,Gender-related ODA to,Share,donor
+2021,Education,90.64746619609998,25.0%,Finland
+2023,Emergency Response,73.4755925596,21.0%,Finland
+2023,Government & civil society,71.76817153219991,21.0%,Finland
+2021,Emergency Response,63.69934005270001,17.0%,Finland
+2020,Education,59.63369406830001,21.0%,Finland
+2022,Government & civil society,58.5616958641,18.0%,Finland
+2020,Government & civil society,58.12951278199999,20.0%,Finland
+2021,Financial services & business support,57.134959609199974,15.0%,Finland
+2021,Government & civil society,53.42614089229992,14.0%,Finland
+2019,Government & civil society,50.472275282000005,21.0%,Finland
+2019,Education,49.91030712909998,20.0%,Finland
+2022,Energy,49.5525932341,15.0%,Finland
+2022,Education,48.50057585230001,15.0%,Finland
+2020,Financial services & business support,39.9864961628,14.0%,Finland
+2023,Education,37.638981665999985,11.0%,Finland
+2020,Health & populations,34.7248885533,12.0%,Finland
+2023,Health & populations,31.955910032200016,9.0%,Finland
+2022,"Agriculture (incl. forestry, fishing, rural development)",31.764176029300003,10.0%,Finland
+2019,"Agriculture (incl. forestry, fishing, rural development)",31.5093431653,13.0%,Finland
+2022,Emergency Response,28.212970664999997,9.0%,Finland
+2021,Health & populations,24.93756663639999,7.0%,Finland
+2022,Health & populations,24.2724509269,7.0%,Finland
+2023,"Agriculture (incl. forestry, fishing, rural development)",24.23370691720001,7.0%,Finland
+2019,Health & populations,21.395272684500004,9.0%,Finland
+2020,"Agriculture (incl. forestry, fishing, rural development)",19.899274163999998,7.0%,Finland
+2019,"Industry, construction & mining",18.9770085373,8.0%,Finland
+2022,Unspecified,18.696609634999998,6.0%,Finland
+2023,Unspecified,18.140952120500003,5.0%,Finland
+2023,Other social services,17.918146391200004,5.0%,Finland
+2023,Other multisector,17.7121500446,5.0%,Finland
+2019,Water and sanitation,17.3309432076,7.0%,Finland
+2020,Other social services,16.243055563900008,6.0%,Finland
+2021,"Agriculture (incl. forestry, fishing, rural development)",16.214980101099997,4.0%,Finland
+2021,Other social services,14.878706718699998,4.0%,Finland
+2023,"Conflict, peace & security",14.425008142599996,4.0%,Finland
+2020,Water and sanitation,14.350405692699999,5.0%,Finland
+2020,"Conflict, peace & security",13.388760908600004,5.0%,Finland
+2022,Other social services,13.252275083300002,4.0%,Finland
+2022,Financial services & business support,12.833766483999998,4.0%,Finland
+2021,"Conflict, peace & security",12.692329515800003,3.0%,Finland
+2019,Other social services,12.647150202499999,5.0%,Finland
+2022,"Conflict, peace & security",12.3477162138,4.0%,Finland
+2019,"Conflict, peace & security",12.1583368786,5.0%,Finland
+2019,Financial services & business support,10.6462415015,4.0%,Finland
+2022,Water and sanitation,9.9935353529,3.0%,Finland
+2023,Financial services & business support,9.582346535299996,3.0%,Finland
+2021,Water and sanitation,8.7307832722,2.0%,Finland
+2020,Emergency Response,7.891641391700001,3.0%,Finland
+2023,Water and sanitation,7.890935313799999,2.0%,Finland
+2021,Unspecified,6.519250566399999,2.0%,Finland
+2019,Emergency Response,6.4074463013,3.0%,Finland
+2020,Unspecified,6.1748522044000005,2.0%,Finland
+2019,Unspecified,5.9862778195000015,2.0%,Finland
+2021,"Industry, construction & mining",5.956798798500002,2.0%,Finland
+2023,Reconstruction Relief & Rehabilitation,5.7699933698,2.0%,Finland
+2022,Other multisector,5.2939818723,2.0%,Finland
+2020,Other multisector,5.021736718900001,2.0%,Finland
+2023,Energy,4.7959540706000015,1.0%,Finland
+2020,"Industry, construction & mining",4.5935010099,2.0%,Finland
+2020,Trade policy,3.5555664969,1.0%,Finland
+2022,Infrastructure,3.4792198089,1.0%,Finland
+2019,Trade policy,3.2798715565,1.0%,Finland
+2022,Environmental protection,3.0920290423000005,1.0%,Finland
+2023,Trade policy,3.0648058166,1.0%,Finland
+2021,Reconstruction Relief & Rehabilitation,2.9334430862,1.0%,Finland
+2021,Trade policy,2.9179018495,1.0%,Finland
+2022,Trade policy,2.8294357696000003,1.0%,Finland
+2020,Environmental protection,2.545728940700001,1.0%,Finland
+2020,Disaster Prevention & Preparedness,2.39711835,1.0%,Finland
+2021,Disaster Prevention & Preparedness,2.3922585566,1.0%,Finland
+2022,"Industry, construction & mining",2.2981395547,1.0%,Finland
+2023,Environmental protection,2.211125394500001,1.0%,Finland
+2021,Infrastructure,2.1977776204999997,1.0%,Finland
+2022,Disaster Prevention & Preparedness,2.0711962304,1.0%,Finland
+2021,Environmental protection,1.8101999619000002,0.0%,Finland
+2023,Infrastructure,1.7192910889000002,0.0%,Finland
+2023,Donor administration costs,1.6548681974,0.0%,Finland
+2023,"Industry, construction & mining",1.5080856713999997,0.0%,Finland
+2021,Energy,1.5049110075999999,0.0%,Finland
+2023,Disaster Prevention & Preparedness,1.3353813814,0.0%,Finland
+2019,Donor administration costs,1.3162742901000002,1.0%,Finland
+2019,Disaster Prevention & Preparedness,1.2406745185999999,1.0%,Finland
+2020,Energy,1.2200435027,0.0%,Finland
+2022,Donor administration costs,0.9322678595999999,0.0%,Finland
+2019,Environmental protection,0.8053576113,0.0%,Finland
+2021,Other multisector,0.5719166508,0.0%,Finland
+2019,Energy,0.4869648398999999,0.0%,Finland
+2019,Other multisector,0.4829583583,0.0%,Finland
+2022,Reconstruction Relief & Rehabilitation,0.4670828899,0.0%,Finland
+2020,Reconstruction Relief & Rehabilitation,0.4630495408,0.0%,Finland
+2019,Infrastructure,0.4020355977,0.0%,Finland
+2020,Infrastructure,0.2413400055,0.0%,Finland
+2020,Donor administration costs,0.14242246809999998,0.0%,Finland
+2021,Donor administration costs,0.119786062,0.0%,Finland
+2020,Food aid and commodity assistance,0.08139777799999999,0.0%,Finland
+2023,Tourism,0.0649989307,0.0%,Finland
+2023,,0.0524571817,0.0%,Finland
+2019,Reconstruction Relief & Rehabilitation,0.048640922,0.0%,Finland
+2022,Food aid and commodity assistance,0.0474985159,0.0%,Finland
+2021,Food aid and commodity assistance,0.04169728529999999,0.0%,Finland
+2023,Food aid and commodity assistance,0.0367665617,0.0%,Finland
+2022,Tourism,0.0169533925,0.0%,Finland
+2019,Food aid and commodity assistance,0.0113155163,0.0%,Finland
+2019,Tourism,0.0038291561000000003,0.0%,Finland
+2021,Tourism,0.0,0.0%,Finland
+2020,Tourism,0.0,0.0%,Finland
