@@ -1,114 +1,108 @@
-donor,year,Sector,Bilateral ODA for,share
-United Kingdom,2023,Medical research,296.5721574393997,31.71607917101286
-United Kingdom,2023,Family planning,169.339626601,18.10955232763047
-United Kingdom,2023,Health policy and administrative management,124.93386966189998,13.36070295859612
-United Kingdom,2023,Reproductive health care,105.10411713770002,11.240065585117696
-United Kingdom,2023,Infectious disease control,79.31773477249999,8.482413107926513
-United Kingdom,2023,Basic health care,39.13926576020001,4.185639212607028
-United Kingdom,2023,Basic nutrition,31.045168594999993,3.3200386494057765
-United Kingdom,2023,Research for prevention and control of NCDs,30.505165566099997,3.262289537132219
-United Kingdom,2023,Health personnel development,17.2203221828,1.8415791503004935
-United Kingdom,2023,STD control including HIV/AIDS,12.8168707574,1.3706643643694054
-United Kingdom,2023,Malaria control,7.805755968100001,0.8347647210424761
-United Kingdom,2023,Population policy and administrative management,5.1325096535,0.5488818772532826
-United Kingdom,2023,Personnel development for population and reproductive health,4.4321229656,0.47398098353638374
-United Kingdom,2023,Tuberculosis control,4.225362500799999,0.4518695644212155
-United Kingdom,2023,Health education,2.7877561583,0.29812877847168834
-United Kingdom,2023,Medical services,1.3074042768999998,0.13981669052380333
-United Kingdom,2023,Tobacco use control,1.242992287,0.13292833057501646
-United Kingdom,2023,COVID-19 control,1.2385811143999998,0.13245659006968194
-United Kingdom,2023,Medical education/training,0.39961351270000006,0.04273554846155626
-United Kingdom,2023,Promotion of mental health and well-being,0.3802099781,0.04066049177085245
-United Kingdom,2023,Other prevention and treatment of NCDs,0.0775308475,0.008291319450674264
-United Kingdom,2023,Basic health infrastructure,0.0566875702,0.00606229350724849
-United Kingdom,2023,"NCDs control, general",0.0037286199,0.0003987468175301596
-United Kingdom,2022,COVID-19 control,314.8514001019,24.177357387687
-United Kingdom,2022,Medical research,307.36244053110005,23.60228212377974
-United Kingdom,2022,Health policy and administrative management,157.98589571460002,12.131695973622834
-United Kingdom,2022,Family planning,149.5353924615,11.482784019634742
-United Kingdom,2022,Reproductive health care,122.17190014990001,9.381548539091659
-United Kingdom,2022,Basic health care,70.7679877078,5.4342554292760665
-United Kingdom,2022,Infectious disease control,62.278240378700005,4.782329932866075
-United Kingdom,2022,Basic nutrition,48.200577960800004,3.7013098854703124
-United Kingdom,2022,Health personnel development,20.0160093655,1.5370241699683116
-United Kingdom,2022,STD control including HIV/AIDS,13.4025572224,1.029178894456296
-United Kingdom,2022,Malaria control,10.362722777800002,0.7957507955413513
-United Kingdom,2022,Personnel development for population and reproductive health,5.5047994242,0.42271212064911456
-United Kingdom,2022,Population policy and administrative management,5.035684523099999,0.3866889090130431
-United Kingdom,2022,Health education,4.843793106500001,0.3719536168807351
-United Kingdom,2022,Research for prevention and control of NCDs,4.3197300088,0.3317109474732288
-United Kingdom,2022,Tuberculosis control,1.9405038163000004,0.14901078497243914
-United Kingdom,2022,Tobacco use control,1.3334570214,0.10239581897070892
-United Kingdom,2022,Medical education/training,1.1264596643,0.0865005455836646
-United Kingdom,2022,Basic health infrastructure,0.46004592829999996,0.03532680756591689
-United Kingdom,2022,Promotion of mental health and well-being,0.3371777887,0.02589179497995415
-United Kingdom,2022,Medical services,0.3288573523,0.0252528708258954
-United Kingdom,2022,Other prevention and treatment of NCDs,0.0756595065,0.005809873889188682
-United Kingdom,2022,"NCDs control, general",0.016001588100000002,0.0012287578017409133
-United Kingdom,2021,Medical research,379.1471656636999,27.1929609872929
-United Kingdom,2021,COVID-19 control,261.03715718379993,18.721947239423937
-United Kingdom,2021,Health policy and administrative management,182.1304273067001,13.062647048093854
-United Kingdom,2021,Family planning,180.8226606603,12.96885220900073
-United Kingdom,2021,Infectious disease control,105.34407173039999,7.555423044750494
-United Kingdom,2021,Reproductive health care,77.3737879051,5.549355465335875
-United Kingdom,2021,Basic health care,75.62994363900002,5.4242845340710675
-United Kingdom,2021,Basic nutrition,56.14884357710002,4.027072997370095
-United Kingdom,2021,Research for prevention and control of NCDs,19.409158358299997,1.3920517778618682
-United Kingdom,2021,Malaria control,13.092760505799998,0.939030956559978
-United Kingdom,2021,Population policy and administrative management,9.5940591859,0.6880992416104875
-United Kingdom,2021,Health personnel development,9.0693697839,0.6504677894168358
-United Kingdom,2021,STD control including HIV/AIDS,8.1774259247,0.5864963377942891
-United Kingdom,2021,Personnel development for population and reproductive health,4.4333442049,0.3179655999697453
-United Kingdom,2021,Health education,4.2765615252,0.3067209285633212
-United Kingdom,2021,Tuberculosis control,3.2671407192,0.23432386725529367
-United Kingdom,2021,"NCDs control, general",1.8229262714,0.1307428024527561
-United Kingdom,2021,Promotion of mental health and well-being,1.6204677275,0.11622219466664882
-United Kingdom,2021,Medical services,1.2767683695,0.09157159964745352
-United Kingdom,2021,Other prevention and treatment of NCDs,0.2521951099,0.018087783335243676
-United Kingdom,2021,Control of harmful use of alcohol and drugs,0.1872671491,0.013431059865009592
-United Kingdom,2021,Medical education/training,0.16527186130000002,0.011853527293975673
-United Kingdom,2021,Basic health infrastructure,0.005451768000000001,0.00039100836815240237
-United Kingdom,2020,Medical research,525.5929936047994,23.427924166125198
-United Kingdom,2020,COVID-19 control,456.5313357253999,20.349551160258937
-United Kingdom,2020,Infectious disease control,236.92181851130002,10.560617178920722
-United Kingdom,2020,Family planning,229.78298792329994,10.242409014646302
-United Kingdom,2020,Health policy and administrative management,203.5985248143,9.075255678295678
-United Kingdom,2020,Reproductive health care,152.80783242900006,6.811297627054004
-United Kingdom,2020,Basic health care,144.44665704360003,6.438604335377225
-United Kingdom,2020,Basic nutrition,137.89734862879993,6.146673691800433
-United Kingdom,2020,Malaria control,26.000832635300004,1.1589681419801166
-United Kingdom,2020,Research for prevention and control of NCDs,24.804060307600004,1.1056228887544717
-United Kingdom,2020,Health personnel development,21.8647406721,0.9746048608157752
-United Kingdom,2020,Health education,17.6708502328,0.7876652547546704
-United Kingdom,2020,Personnel development for population and reproductive health,15.868619045800001,0.7073321146774466
-United Kingdom,2020,Population policy and administrative management,15.2593439489,0.6801741218195458
-United Kingdom,2020,STD control including HIV/AIDS,13.292074547800002,0.5924845237767602
-United Kingdom,2020,"NCDs control, general",6.4658985278,0.2882127087277362
-United Kingdom,2020,Tobacco use control,5.6859657853,0.2534477758456454
-United Kingdom,2020,Tuberculosis control,4.149376320900001,0.18495542171525842
-United Kingdom,2020,Medical services,2.3162874779999996,0.10324682414304134
-United Kingdom,2020,Promotion of mental health and well-being,1.4198459101999998,0.06328859538938279
-United Kingdom,2020,Medical education/training,0.5003479069,0.022302642847531348
-United Kingdom,2020,Other prevention and treatment of NCDs,0.47443362,0.021147532418550042
-United Kingdom,2020,Basic health infrastructure,0.09453300810000001,0.00421373985557306
-United Kingdom,2019,Medical research,538.7976473220004,25.023929073466558
-United Kingdom,2019,Family planning,371.3678713226999,17.247817094846543
-United Kingdom,2019,Infectious disease control,269.4792869972,12.51570157758356
-United Kingdom,2019,Health policy and administrative management,226.11084358029998,10.501496694757526
-United Kingdom,2019,Reproductive health care,221.52909338049997,10.288701793736703
-United Kingdom,2019,Basic nutrition,192.1694189084999,8.925120465460555
-United Kingdom,2019,Basic health care,171.84001833729997,7.980941364960936
-United Kingdom,2019,Malaria control,38.2265218917,1.7753933731851286
-United Kingdom,2019,Health education,31.226126187999995,1.4502668503684872
-United Kingdom,2019,Research for prevention and control of NCDs,22.286993084100004,1.035097567647797
-United Kingdom,2019,Personnel development for population and reproductive health,21.431215864400002,0.9953518327603113
-United Kingdom,2019,Health personnel development,13.665400587099999,0.634676147440066
-United Kingdom,2019,STD control including HIV/AIDS,12.713874528500002,0.590483451498817
-United Kingdom,2019,Population policy and administrative management,11.4836679355,0.5333477110553453
-United Kingdom,2019,Tuberculosis control,5.1852533455000005,0.2408240135989342
-United Kingdom,2019,Medical services,1.833687023,0.085163798013144
-United Kingdom,2019,Tobacco use control,1.3827306198,0.06421956949805856
-United Kingdom,2019,Promotion of mental health and well-being,1.1551571653000001,0.053650143271502665
-United Kingdom,2019,Other prevention and treatment of NCDs,0.615173607,0.028571135724051653
-United Kingdom,2019,Medical education/training,0.42458239379999996,0.019719313477150762
-United Kingdom,2019,Basic health infrastructure,0.2051292612,0.009527027648830264
+"Year","Sector","Bilateral ODA for","Share","Donor"
+2018,"Health policy and administrative management",252.952697,"13%","United Kingdom"
+2019,"Health policy and administrative management",224.702389,"11%","United Kingdom"
+2020,"Health policy and administrative management",200.707731,"9%","United Kingdom"
+2021,"Health policy and administrative management",178.668477,"13%","United Kingdom"
+2022,"Health policy and administrative management",155.438926,"12%","United Kingdom"
+2018,"Medical education/training",0.277402,"0%","United Kingdom"
+2019,"Medical education/training",0.421938,"0%","United Kingdom"
+2020,"Medical education/training",0.493244,"0%","United Kingdom"
+2021,"Medical education/training",0.16213,"0%","United Kingdom"
+2022,"Medical education/training",1.1083,"0%","United Kingdom"
+2018,"Medical research",560.232095,"28%","United Kingdom"
+2019,"Medical research",535.441444,"25%","United Kingdom"
+2020,"Medical research",518.130351,"23%","United Kingdom"
+2021,"Medical research",371.940309,"27%","United Kingdom"
+2022,"Medical research",302.407296,"24%","United Kingdom"
+2018,"Medical services",0.683372,"0%","United Kingdom"
+2019,"Medical services",1.822265,"0%","United Kingdom"
+2020,"Medical services",2.2834,"0%","United Kingdom"
+2021,"Medical services",1.2525,"0%","United Kingdom"
+2022,"Medical services",0.323556,"0%","United Kingdom"
+2018,"Basic health care",188.775355,"9%","United Kingdom"
+2019,"Basic health care",170.769623,"8%","United Kingdom"
+2020,"Basic health care",142.395732,"6%","United Kingdom"
+2021,"Basic health care",74.192363,"5%","United Kingdom"
+2022,"Basic health care",69.6271,"5%","United Kingdom"
+2018,"Basic health infrastructure",0.109583,"0%","United Kingdom"
+2019,"Basic health infrastructure",0.203852,"0%","United Kingdom"
+2020,"Basic health infrastructure",0.09319,"0%","United Kingdom"
+2021,"Basic health infrastructure",0.005348,"0%","United Kingdom"
+2022,"Basic health infrastructure",0.452631,"0%","United Kingdom"
+2018,"Basic nutrition",176.843422,"9%","United Kingdom"
+2019,"Basic nutrition",190.972385,"9%","United Kingdom"
+2020,"Basic nutrition",135.939412,"6%","United Kingdom"
+2021,"Basic nutrition",55.081569,"4%","United Kingdom"
+2022,"Basic nutrition",47.423504,"4%","United Kingdom"
+2018,"Infectious disease control",179.736078,"9%","United Kingdom"
+2019,"Infectious disease control",267.800686,"13%","United Kingdom"
+2020,"Infectious disease control",233.557877,"11%","United Kingdom"
+2021,"Infectious disease control",103.341682,"8%","United Kingdom"
+2022,"Infectious disease control",61.27422,"5%","United Kingdom"
+2018,"Health education",22.307793,"1%","United Kingdom"
+2019,"Health education",31.031617,"1%","United Kingdom"
+2020,"Health education",17.41995,"1%","United Kingdom"
+2021,"Health education",4.195272,"0%","United Kingdom"
+2022,"Health education",4.765707,"0%","United Kingdom"
+2018,"Malaria control",59.876043,"3%","United Kingdom"
+2019,"Malaria control",37.988409,"2%","United Kingdom"
+2020,"Malaria control",25.631659,"1%","United Kingdom"
+2021,"Malaria control",12.843892,"1%","United Kingdom"
+2022,"Malaria control",10.195661,"1%","United Kingdom"
+2018,"Tuberculosis control",7.113092,"0%","United Kingdom"
+2019,"Tuberculosis control",5.152953,"0%","United Kingdom"
+2020,"Tuberculosis control",4.09046,"0%","United Kingdom"
+2021,"Tuberculosis control",3.205037,"0%","United Kingdom"
+2022,"Tuberculosis control",1.909219,"0%","United Kingdom"
+2018,"Health personnel development",17.744334,"1%","United Kingdom"
+2019,"Health personnel development",13.580276,"1%","United Kingdom"
+2020,"Health personnel development",21.554291,"1%","United Kingdom"
+2021,"Health personnel development",8.896976,"1%","United Kingdom"
+2022,"Health personnel development",19.693322,"2%","United Kingdom"
+2018,"Population policy and administrative management",6.066927,"0%","United Kingdom"
+2019,"Population policy and administrative management",11.412139,"1%","United Kingdom"
+2020,"Population policy and administrative management",15.042685,"1%","United Kingdom"
+2021,"Population policy and administrative management",9.411695,"1%","United Kingdom"
+2022,"Population policy and administrative management",4.954502,"0%","United Kingdom"
+2018,"Reproductive health care",243.378786,"12%","United Kingdom"
+2019,"Reproductive health care",220.149175,"10%","United Kingdom"
+2020,"Reproductive health care",150.638183,"7%","United Kingdom"
+2021,"Reproductive health care",75.903064,"6%","United Kingdom"
+2022,"Reproductive health care",120.202308,"9%","United Kingdom"
+2018,"Family planning",260.619292,"13%","United Kingdom"
+2019,"Family planning",369.0546,"17%","United Kingdom"
+2020,"Family planning",226.520409,"10%","United Kingdom"
+2021,"Family planning",177.385576,"13%","United Kingdom"
+2022,"Family planning",147.124648,"11%","United Kingdom"
+2018,"STD control including HIV/AIDS",16.525486,"1%","United Kingdom"
+2019,"STD control including HIV/AIDS",12.634679,"1%","United Kingdom"
+2020,"STD control including HIV/AIDS",13.103346,"1%","United Kingdom"
+2021,"STD control including HIV/AIDS",8.021988,"1%","United Kingdom"
+2022,"STD control including HIV/AIDS",13.18649,"1%","United Kingdom"
+2018,"Personnel development for population and reproductive health",25.602219,"1%","United Kingdom"
+2019,"Personnel development for population and reproductive health",21.297721,"1%","United Kingdom"
+2020,"Personnel development for population and reproductive health",15.643308,"1%","United Kingdom"
+2021,"Personnel development for population and reproductive health",4.349076,"0%","United Kingdom"
+2022,"Personnel development for population and reproductive health",5.416054,"0%","United Kingdom"
+2020,"NCDs control, general",6.374092,"0%","United Kingdom"
+2021,"NCDs control, general",1.788276,"0%","United Kingdom"
+2022,"NCDs control, general",0.015744,"0%","United Kingdom"
+2019,"Tobacco use control",1.374118,"0%","United Kingdom"
+2020,"Tobacco use control",5.605235,"0%","United Kingdom"
+2022,"Tobacco use control",1.311959,"0%","United Kingdom"
+2021,"Control of harmful use of alcohol and drugs",0.183707,"0%","United Kingdom"
+2019,"Promotion of mental health and well-being",1.147961,"0%","United Kingdom"
+2020,"Promotion of mental health and well-being",1.399686,"0%","United Kingdom"
+2021,"Promotion of mental health and well-being",1.589666,"0%","United Kingdom"
+2022,"Promotion of mental health and well-being",0.331742,"0%","United Kingdom"
+2019,"Other prevention and treatment of NCDs",0.611342,"0%","United Kingdom"
+2020,"Other prevention and treatment of NCDs",0.467698,"0%","United Kingdom"
+2021,"Other prevention and treatment of NCDs",0.247403,"0%","United Kingdom"
+2022,"Other prevention and treatment of NCDs",0.074439,"0%","United Kingdom"
+2019,"Research for prevention and control of NCDs",22.148167,"1%","United Kingdom"
+2020,"Research for prevention and control of NCDs",24.451878,"1%","United Kingdom"
+2021,"Research for prevention and control of NCDs",19.040231,"1%","United Kingdom"
+2022,"Research for prevention and control of NCDs",4.25009,"0%","United Kingdom"
+2020,"COVID-19 control",450.049269,"20%","United Kingdom"
+2021,"COVID-19 control",259.529272,"19%","United Kingdom"
+2022,"COVID-19 control",309.775509,"24%","United Kingdom"

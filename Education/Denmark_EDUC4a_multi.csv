@@ -1,67 +1,86 @@
-Year,ODA,Share,Full Name,donor
-2020,0.0235,0.00043443779128129567,european investment bank,Denmark
-2020,13.167300000000001,0.24342011613354064,international development association,Denmark
-2020,0.45890000000000003,0.008483553294424961,united nations children’s fund,Denmark
-2020,5.541,0.10243488516977275,european commission european development fund,Denmark
-2020,1.7235999999999998,0.03186370115116771,international bank for reconstruction and development,Denmark
-2020,1.7814,0.032932233250574476,united nations population fund,Denmark
-2020,9.9007,0.18303141447398827,united nations relief and works agency for palestine refugees in the near east,Denmark
-2020,0.0102,0.00018856448813060495,united nations development programme,Denmark
-2020,0.1339,0.002475371074577255,african development bank,Denmark
-2020,0.0322,0.0005952722076279881,international labour organisation regular budget supplementary account,Denmark
-2020,0.901,0.016656529784870103,african development fund,Denmark
-2020,0.0042,7.764420099495496e-05,food and agricultural organisation,Denmark
-2020,20.415000000000003,0.37740627697904905,european commission development share of budget,Denmark
-2021,0.0041,9.02815242163674e-05,food and agricultural organisation,Denmark
-2021,11.0199,0.24265691919803586,united nations relief and works agency for palestine refugees in the near east,Denmark
-2021,0.4697,0.01034273949376287,african development fund,Denmark
-2021,0.031200000000000002,0.0006870203794026007,african development bank,Denmark
-2021,0.023200000000000002,0.0005108613077609083,european investment bank,Denmark
-2021,7.660900000000002,0.16869212899248026,international development association,Denmark
-2021,0.49739999999999995,0.01095269027932223,united nations children’s fund,Denmark
-2021,2.8019000000000003,0.061697512854107274,european commission european development fund,Denmark
-2021,0.1829,0.004027436775408195,international bank for reconstruction and development,Denmark
-2021,1.6575,0.03649795765576316,united nations population fund,Denmark
-2021,21.0133,0.4627104275160471,european commission development share of budget,Denmark
-2021,0.0042,9.248351261188854e-05,united nations development programme,Denmark
-2021,0.0473,0.0010415405110815068,international labour organisation regular budget supplementary account,Denmark
-2023,8.072999999999999,0.17324517636758105,international development association,Denmark
-2023,0.0381,0.0008176193756478185,international labour organisation regular budget supplementary account,Denmark
-2023,0.08380000000000001,0.001798333429902551,european investment bank,Denmark
-2023,0.21919999999999998,0.004703993888241517,african development bank,Denmark
-2023,0.1521,0.0032640395547515275,african development fund,Denmark
-2023,1.8479999999999999,0.039657758692839065,united nations population fund,Denmark
-2023,0.5127,0.011002452858126944,international bank for reconstruction and development,Denmark
-2023,24.6506,0.5289975900615254,european commission development share of budget,Denmark
-2023,0.0926,0.0019871798998684514,united nations development programme,Denmark
-2023,0.0069,0.00014807280031417186,united nations,Denmark
-2023,0.2513,0.0053928543070944045,european commission european development fund,Denmark
-2023,0.41839999999999994,0.00897879125383326,united nations children’s fund,Denmark
-2023,10.2511,0.21998682366675462,united nations relief and works agency for palestine refugees in the near east,Denmark
-2023,0.0009,1.9313843519239805e-05,food and agricultural organisation,Denmark
-2019,0.5463999999999999,0.011903542959720969,united nations children’s fund,Denmark
-2019,0.61,0.01328909444624779,world food programme,Denmark
-2019,5.4,0.11764116395039029,european commission european development fund,Denmark
-2019,0.0009000000000000001,1.9606860658398382e-05,african development bank,Denmark
-2019,2.3111,0.05034823963069389,united nations population fund,Denmark
-2019,0.0262,0.0005707774991667084,european investment bank,Denmark
-2019,0.0073,0.00015903342534034242,united nations development programme,Denmark
-2019,19.258399999999998,0.4195519614485548,european commission development share of budget,Denmark
-2019,0.0075,0.00016339050548665315,international labour organisation regular budget supplementary account,Denmark
-2019,7.8674,0.17139446171542602,international development association,Denmark
-2019,3.2624000000000004,0.07107269134662098,african development fund,Denmark
-2019,0.0026,5.664204190203976e-05,food and agricultural organisation,Denmark
-2019,6.6021,0.14382939416979104,united nations relief and works agency for palestine refugees in the near east,Denmark
-2022,0.053000000000000005,0.0012498909293292804,african development bank,Denmark
-2022,0.2904,0.006848458978815528,african development fund,Denmark
-2022,0.0008,1.8866278178555175e-05,food and agricultural organisation,Denmark
-2022,1.7637,0.0415930685293972,united nations population fund,Denmark
-2022,0.472,0.011131104125347551,international bank for reconstruction and development,Denmark
-2022,1.203,0.028370165811002344,european commission european development fund,Denmark
-2022,0.41890000000000005,0.009878854911245953,united nations children’s fund,Denmark
-2022,0.0674,0.0015894839365432733,united nations development programme,Denmark
-2022,23.7209,0.5594063725571118,european commission development share of budget,Denmark
-2022,9.0364,0.21310404516586998,united nations relief and works agency for palestine refugees in the near east,Denmark
-2022,0.0611,0.0014409119958871514,international labour organisation regular budget supplementary account,Denmark
-2022,5.2602,0.1240504955935449,international development association,Denmark
-2022,0.0559,0.0013182811877265426,european investment bank,Denmark
+"Year","Multi_short","ODA","Share","Full Name","Donor"
+"2018","EC - Development Share of Budget","17.4","10%","european commission development share of budget","Denmark"
+"2019","EC - Development Share of Budget","17.4","12.8%","european commission development share of budget","Denmark"
+"2020","EC - Development Share of Budget","19","11.6%","european commission development share of budget","Denmark"
+"2021","EC - Development Share of Budget","19.1","16.2%","european commission development share of budget","Denmark"
+"2022","EC - Development Share of Budget","22.7","18.9%","european commission development share of budget","Denmark"
+"2018","UNRWA","7.1","4.1%","united nations relief and works agency for palestine refugees in the near east","Denmark"
+"2019","UNRWA","6.8","5%","united nations relief and works agency for palestine refugees in the near east","Denmark"
+"2020","UNRWA","10.2","6.2%","united nations relief and works agency for palestine refugees in the near east","Denmark"
+"2021","UNRWA","11.3","9.7%","united nations relief and works agency for palestine refugees in the near east","Denmark"
+"2022","UNRWA","9.3","7.7%","united nations relief and works agency for palestine refugees in the near east","Denmark"
+"2018","IDA","9.1","5.3%","international development association","Denmark"
+"2019","IDA","8.1","5.9%","international development association","Denmark"
+"2020","IDA","13.5","8.2%","international development association","Denmark"
+"2021","IDA","7.9","6.7%","international development association","Denmark"
+"2022","IDA","5.4","4.5%","international development association","Denmark"
+"2018","UNFPA","1.7","1%","united nations population fund","Denmark"
+"2019","UNFPA","2.4","1.7%","united nations population fund","Denmark"
+"2020","UNFPA","1.8","1.1%","united nations population fund","Denmark"
+"2021","UNFPA","1.7","1.5%","united nations population fund","Denmark"
+"2022","UNFPA","1.8","1.5%","united nations population fund","Denmark"
+"2018","IBRD","0","0%","international bank for reconstruction and development","Denmark"
+"2019","IBRD","0","0%","international bank for reconstruction and development","Denmark"
+"2020","IBRD","1.8","1.1%","international bank for reconstruction and development","Denmark"
+"2021","IBRD","0.2","0.2%","international bank for reconstruction and development","Denmark"
+"2022","IBRD","0.5","0.4%","international bank for reconstruction and development","Denmark"
+"2018","UNICEF","0.4","0.2%","united nations childrenâ€™s fund","Denmark"
+"2019","UNICEF","0.6","0.4%","united nations childrenâ€™s fund","Denmark"
+"2020","UNICEF","0.5","0.3%","united nations childrenâ€™s fund","Denmark"
+"2021","UNICEF","0.5","0.4%","united nations childrenâ€™s fund","Denmark"
+"2022","UNICEF","0.4","0.4%","united nations childrenâ€™s fund","Denmark"
+"2018","African Development Fund","1.1","0.6%","african development fund","Denmark"
+"2019","African Development Fund","3.3","2.5%","african development fund","Denmark"
+"2020","African Development Fund","0.9","0.6%","african development fund","Denmark"
+"2021","African Development Fund","0.5","0.4%","african development fund","Denmark"
+"2022","African Development Fund","0.3","0.2%","african development fund","Denmark"
+"2018","UNDP","0","0%","united nations development programme","Denmark"
+"2019","UNDP","0","0%","united nations development programme","Denmark"
+"2020","UNDP","0","0%","united nations development programme","Denmark"
+"2021","UNDP","0","0%","united nations development programme","Denmark"
+"2022","UNDP","0.1","0.1%","united nations development programme","Denmark"
+"2018","ILO","0","0%","international labour organisation regular budget supplementary account","Denmark"
+"2019","ILO","0","0%","international labour organisation regular budget supplementary account","Denmark"
+"2020","ILO","0","0%","international labour organisation regular budget supplementary account","Denmark"
+"2021","ILO","0","0%","international labour organisation regular budget supplementary account","Denmark"
+"2022","ILO","0.1","0.1%","international labour organisation regular budget supplementary account","Denmark"
+"2018","EIB","0","0%","european investment bank","Denmark"
+"2019","EIB","0","0%","european investment bank","Denmark"
+"2020","EIB","0","0%","european investment bank","Denmark"
+"2021","EIB","0","0%","european investment bank","Denmark"
+"2022","EIB","0.1","0%","european investment bank","Denmark"
+"2018","AfDB","0","0%","african development bank","Denmark"
+"2019","AfDB","0","0%","african development bank","Denmark"
+"2020","AfDB","0.1","0.1%","african development bank","Denmark"
+"2021","AfDB","0","0%","african development bank","Denmark"
+"2022","AfDB","0.1","0%","african development bank","Denmark"
+"2018","FAO","0","0%","food and agricultural organisation","Denmark"
+"2019","FAO","0","0%","food and agricultural organisation","Denmark"
+"2020","FAO","0","0%","food and agricultural organisation","Denmark"
+"2021","FAO","0","0%","food and agricultural organisation","Denmark"
+"2022","FAO","0","0%","food and agricultural organisation","Denmark"
+"2018","ADB","0","0%","asian development bank","Denmark"
+"2019","ADB","0","0%","asian development bank","Denmark"
+"2020","ADB","0","0%","asian development bank","Denmark"
+"2021","ADB","0","0%","asian development bank","Denmark"
+"2022","ADB","0","0%","asian development bank","Denmark"
+"2018","UN","0","0%","united nations","Denmark"
+"2019","UN","0","0%","united nations","Denmark"
+"2020","UN","0","0%","united nations","Denmark"
+"2021","UN","0","0%","united nations","Denmark"
+"2022","UN","0","0%","united nations","Denmark"
+"2018","WFP","1.6","0.9%","world food programme","Denmark"
+"2019","WFP","0.6","0.5%","world food programme","Denmark"
+"2020","WFP","0","0%","world food programme","Denmark"
+"2021","WFP","0","0%","world food programme","Denmark"
+"2022","WFP","0","0%","world food programme","Denmark"
+"2018","IFC","0","0%","international finance corporation","Denmark"
+"2019","IFC","0","0%","international finance corporation","Denmark"
+"2020","IFC","0","0%","international finance corporation","Denmark"
+"2021","IFC","0","0%","international finance corporation","Denmark"
+"2022","IFC","0","0%","international finance corporation","Denmark"
+"2018","WTO - international trade centre","0","0%","world trade organisation international trade centre","Denmark"
+"2019","WTO - international trade centre","0","0%","world trade organisation international trade centre","Denmark"
+"2020","WTO - international trade centre","0","0%","world trade organisation international trade centre","Denmark"
+"2021","WTO - international trade centre","0","0%","world trade organisation international trade centre","Denmark"
+"2022","WTO - international trade centre","0","0%","world trade organisation international trade centre","Denmark"

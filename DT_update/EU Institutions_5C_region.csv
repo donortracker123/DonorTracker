@@ -1,70 +1,46 @@
-donor,year,Region,share,Bilateral ODA
-EU Institutions,2023,Europe,60.8%,2437589.2471552766
-EU Institutions,2023,South of Sahara,11.3%,454399.93493630976
-EU Institutions,2023,Regional and Unspecified,10.3%,413094.18629528885
-EU Institutions,2023,Middle East,4.4%,176876.28183339004
-EU Institutions,2023,South & Central Asia,4.1%,164989.64059506007
-EU Institutions,2023,North of Sahara,2.9%,115186.06828503
-EU Institutions,2023,Africa,1.6%,63792.81791648999
-EU Institutions,2023,South America,1.5%,62073.16265079001
-EU Institutions,2023,Far East Asia,1.2%,47216.605347630015
-EU Institutions,2023,Caribbean & Central America,0.8%,30693.882299400004
-EU Institutions,2023,Asia,0.4%,14666.4198243
-EU Institutions,2023,Oceania,0.4%,14179.813042859996
-EU Institutions,2023,America,0.3%,13026.89254509
-EU Institutions,2022,Europe,46.6%,1546668.0210771926
-EU Institutions,2022,Regional and Unspecified,15.5%,514093.4012271601
-EU Institutions,2022,South of Sahara,13.8%,457580.6249210997
-EU Institutions,2022,North of Sahara,6.0%,198374.99343768012
-EU Institutions,2022,South & Central Asia,5.9%,197062.16795046025
-EU Institutions,2022,Middle East,4.7%,156048.02948349025
-EU Institutions,2022,South America,2.3%,75004.46166491995
-EU Institutions,2022,Far East Asia,1.6%,54331.33838651999
-EU Institutions,2022,Africa,1.6%,52497.39751712998
-EU Institutions,2022,Caribbean & Central America,1.1%,37387.702114830034
-EU Institutions,2022,Oceania,0.4%,12078.22414797
-EU Institutions,2022,America,0.3%,8457.21440748
-EU Institutions,2022,Asia,0.2%,6992.9557672500005
-EU Institutions,2022,,0.0%,0.0
-EU Institutions,2021,Europe,25.9%,629557.3887214506
-EU Institutions,2021,South of Sahara,20.1%,489926.63688327
-EU Institutions,2021,North of Sahara,14.6%,355914.3208719602
-EU Institutions,2021,Regional and Unspecified,12.2%,296741.32035588
-EU Institutions,2021,Middle East,8.7%,210630.48697197027
-EU Institutions,2021,South & Central Asia,8.1%,197434.1344512605
-EU Institutions,2021,South America,2.8%,67651.96091148003
-EU Institutions,2021,Africa,2.3%,56276.08076961
-EU Institutions,2021,Far East Asia,2.1%,51061.03810253995
-EU Institutions,2021,Caribbean & Central America,2.0%,49295.689039530036
-EU Institutions,2021,Oceania,0.7%,16268.046096510001
-EU Institutions,2021,America,0.3%,7147.375919369999
-EU Institutions,2021,Asia,0.3%,6714.882303389997
-EU Institutions,2021,,0.0%,0.0
-EU Institutions,2020,Europe,23.6%,607152.5890729198
-EU Institutions,2020,South of Sahara,23.2%,596992.3791138001
-EU Institutions,2020,North of Sahara,11.5%,295750.51644573
-EU Institutions,2020,Regional and Unspecified,9.4%,241991.07503336965
-EU Institutions,2020,South & Central Asia,9.3%,240036.43862988002
-EU Institutions,2020,Middle East,7.2%,185377.29346701002
-EU Institutions,2020,Africa,6.2%,159126.45377408998
-EU Institutions,2020,South America,3.1%,78607.28218095002
-EU Institutions,2020,Caribbean & Central America,2.7%,69609.46340889002
-EU Institutions,2020,Far East Asia,2.6%,65741.29847514012
-EU Institutions,2020,Oceania,0.6%,14828.754432329999
-EU Institutions,2020,Asia,0.4%,10076.06429208
-EU Institutions,2020,America,0.2%,6112.108989810001
-EU Institutions,2020,,0.0%,0.0
-EU Institutions,2019,South of Sahara,29.0%,572447.5173005383
-EU Institutions,2019,Europe,21.6%,425240.4387858299
-EU Institutions,2019,Regional and Unspecified,10.9%,215217.2782452602
-EU Institutions,2019,North of Sahara,10.1%,198310.1769583201
-EU Institutions,2019,South & Central Asia,8.7%,171007.5356549102
-EU Institutions,2019,Middle East,8.5%,166935.98201175
-EU Institutions,2019,Africa,2.9%,57772.34734797003
-EU Institutions,2019,Caribbean & Central America,2.8%,55986.00629787007
-EU Institutions,2019,South America,2.2%,42635.81001582004
-EU Institutions,2019,Far East Asia,2.0%,40286.141486369976
-EU Institutions,2019,Oceania,0.8%,15868.39828184999
-EU Institutions,2019,America,0.3%,5242.992514289999
-EU Institutions,2019,Asia,0.2%,3747.885995700001
-EU Institutions,2019,,0.0%,0.0
+"Year","Region","Bilateral ODA","Share","Donor"
+"2018","Europe",4709.97969,"23%","EU Institutions"
+"2019","Europe",4199.149239,"22%","EU Institutions"
+"2020","Europe",5997.687693,"24%","EU Institutions"
+"2021","Europe",6230.042056,"26%","EU Institutions"
+"2022","Europe",15314.415719,"47%","EU Institutions"
+"2018","Developing countries, unspecified",2221.915252,"11%","EU Institutions"
+"2019","Developing countries, unspecified",2125.219979,"11%","EU Institutions"
+"2020","Developing countries, unspecified",2390.481278,"9%","EU Institutions"
+"2021","Developing countries, unspecified",2936.524887,"12%","EU Institutions"
+"2022","Developing countries, unspecified",5090.323162,"16%","EU Institutions"
+"2018","sub-Saharan Africa",5714.95093,"27%","EU Institutions"
+"2019","sub-Saharan Africa",5652.784418,"29%","EU Institutions"
+"2020","sub-Saharan Africa",5897.321177,"23%","EU Institutions"
+"2021","sub-Saharan Africa",4848.269018,"20%","EU Institutions"
+"2022","sub-Saharan Africa",4530.758902,"14%","EU Institutions"
+"2018","MENA region",3266.818289,"16%","EU Institutions"
+"2019","MENA region",3606.719858,"19%","EU Institutions"
+"2020","MENA region",4752.766239,"19%","EU Institutions"
+"2021","MENA region",5606.47534,"23%","EU Institutions"
+"2022","MENA region",3509.33843,"11%","EU Institutions"
+"2018","Asia",2593.817739,"12%","EU Institutions"
+"2019","Asia",2086.475338,"11%","EU Institutions"
+"2020","Asia",3020.590548,"12%","EU Institutions"
+"2021","Asia",2459.085366,"10%","EU Institutions"
+"2022","Asia",2489.18614,"8%","EU Institutions"
+"2018","Latin America and the Caribbeans",1500.539356,"7%","EU Institutions"
+"2019","Latin America and the Caribbeans",1025.640537,"5%","EU Institutions"
+"2020","Latin America and the Caribbeans",1524.519988,"6%","EU Institutions"
+"2021","Latin America and the Caribbeans",1228.03298,"5%","EU Institutions"
+"2022","Latin America and the Caribbeans",1196.59657,"4%","EU Institutions"
+"2018","Africa, regional",607.555507,"3%","EU Institutions"
+"2019","Africa, regional",570.488327,"3%","EU Institutions"
+"2020","Africa, regional",1571.912545,"6%","EU Institutions"
+"2021","Africa, regional",556.902916,"2%","EU Institutions"
+"2022","Africa, regional",519.80577,"2%","EU Institutions"
+"2018","Oceania",147.72008,"1%","EU Institutions"
+"2019","Oceania",156.696691,"1%","EU Institutions"
+"2020","Oceania",146.484155,"1%","EU Institutions"
+"2021","Oceania",160.987091,"1%","EU Institutions"
+"2022","Oceania",119.593179,"0%","EU Institutions"
+"2018","Asia, regional",71.272352,"0%","EU Institutions"
+"2019","Asia, regional",37.009495,"0%","EU Institutions"
+"2020","Asia, regional",99.535244,"0%","EU Institutions"
+"2021","Asia, regional",66.449859,"0%","EU Institutions"
+"2022","Asia, regional",69.241124,"0%","EU Institutions"

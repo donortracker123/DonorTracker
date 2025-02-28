@@ -1,67 +1,68 @@
-donor,year,Sector,Bilateral ODA for,share
-Germany,2023,Higher education,2264.627421801011,69.40321985126594
-Germany,2023,Vocational training,362.1134767619,11.097561125010841
-Germany,2023,Education facilities and training,203.79921895340004,6.24576116246549
-Germany,2023,Primary education,157.3189694895999,4.821297720389737
-Germany,2023,Education policy and administrative management,112.60070759159997,3.4508332757769637
-Germany,2023,Advanced technical and managerial training,44.87734074100001,1.3753396765419346
-Germany,2023,Upper Secondary Education (modified and includes data from 11322),31.503984780099994,0.965491259549156
-Germany,2023,Basic life skills for adults,27.197544620299997,0.833513341102321
-Germany,2023,Early childhood education,18.808833969400006,0.5764275511978368
-Germany,2023,Teacher training,18.067988723700005,0.5537231341409281
-Germany,2023,Basic life skills for youth,16.3757627999,0.5018620965605824
-Germany,2023,School feeding,4.7634095217,0.1459824936736139
-Germany,2023,Educational research,0.9431529143999999,0.02890446721669039
-Germany,2023,Primary education equivalent for adults,0.0027032363,8.284510795582336e-05
-Germany,2022,Higher education,2150.5418351453,61.26656481440827
-Germany,2022,Vocational training,583.3286732440995,16.618390483437285
-Germany,2022,Education facilities and training,265.42642285210013,7.561706019090773
-Germany,2022,Primary education,216.13206614149993,6.1573641685680185
-Germany,2022,Education policy and administrative management,132.76725374350008,3.782392615560327
-Germany,2022,Advanced technical and managerial training,82.37430639160003,2.346753129423267
-Germany,2022,Upper Secondary Education (modified and includes data from 11322),23.847601939699995,0.679391875121612
-Germany,2022,Teacher training,23.399418915599995,0.6666236351153046
-Germany,2022,Basic life skills for adults,15.2890202695,0.4355673235377147
-Germany,2022,Basic life skills for youth,10.836142968199999,0.30870976079131435
-Germany,2022,Early childhood education,4.2129877615,0.12002337435802972
-Germany,2022,School feeding,1.5681514221000001,0.04467490432912452
-Germany,2022,Educational research,0.4137427224,0.011787073798867375
-Germany,2022,Primary education equivalent for adults,0.0017839392,5.082246010544554e-05
-Germany,2021,Higher education,2134.4328149798002,61.81333288307161
-Germany,2021,Vocational training,404.57066786850004,11.716396595935423
-Germany,2021,Education facilities and training,360.25812861820015,10.433102167387723
-Germany,2021,Primary education,227.8656278132,6.599005508993137
-Germany,2021,Education policy and administrative management,204.9857243484,5.9364018049662155
-Germany,2021,Upper Secondary Education (modified and includes data from 11322),39.10431017320001,1.1324637275695986
-Germany,2021,Advanced technical and managerial training,33.4510494793,0.9687448779087661
-Germany,2021,Basic life skills for adults,22.496465846800007,0.651499322125096
-Germany,2021,Teacher training,15.593762339200001,0.451596515761775
-Germany,2021,School feeding,4.851455447400001,0.14049851015824333
-Germany,2021,Early childhood education,4.7396028968,0.13725925198364303
-Germany,2021,Basic life skills for youth,0.5135853833,0.014873470853240825
-Germany,2021,Educational research,0.16662123299999998,0.004825363285521969
-Germany,2020,Higher education,2084.236310815105,60.383813648102496
-Germany,2020,Vocational training,409.33501964239974,11.85912049294574
-Germany,2020,Primary education,380.48892281570005,11.023400797333418
-Germany,2020,Education facilities and training,307.9942160028997,8.92310782961998
-Germany,2020,Education policy and administrative management,179.78375292600006,5.208636169184915
-Germany,2020,Advanced technical and managerial training,48.408468025900014,1.4024743245754656
-Germany,2020,Basic life skills for adults,19.036315731099997,0.5515139217604564
-Germany,2020,Teacher training,9.883673562499983,0.28634656226830335
-Germany,2020,Upper Secondary Education (modified and includes data from 11322),8.561729798200002,0.2480476392994661
-Germany,2020,Early childhood education,3.23021981,0.09358487328779315
-Germany,2020,Basic life skills for youth,0.28570136079999997,0.00827724650992654
-Germany,2020,Educational research,0.2723830304000001,0.007891392191582504
-Germany,2020,School feeding,0.1306484051,0.0037851029204528865
-Germany,2019,Higher education,1921.0725804426006,61.023291760363826
-Germany,2019,Vocational training,490.40759696800035,15.577904851664902
-Germany,2019,Education facilities and training,297.81108550920015,9.460034433634759
-Germany,2019,Primary education,261.04660288930006,8.292202581692909
-Germany,2019,Education policy and administrative management,102.85034741200005,3.267063838020766
-Germany,2019,Basic life skills for adults,22.614836552699998,0.7183652419579085
-Germany,2019,Advanced technical and managerial training,21.337141476399992,0.6777789776930404
-Germany,2019,Upper Secondary Education (modified and includes data from 11322),14.506201076899996,0.4607926580505487
-Germany,2019,Teacher training,14.06590149,0.4468064451261125
-Germany,2019,Early childhood education,2.0947818607999995,0.0665412051409661
-Germany,2019,Educational research,0.2058985022000001,0.006540411070714324
-Germany,2019,School feeding,0.0842933134,0.0026775955835416066
+"Year","Sector","Bilateral ODA for","Share","Donor"
+2018,"Education policy and administrative management",100.615418,"4%","Germany"
+2019,"Education policy and administrative management",100.479675,"3%","Germany"
+2020,"Education policy and administrative management",175.759496,"5%","Germany"
+2021,"Education policy and administrative management",200.309046,"6%","Germany"
+2022,"Education policy and administrative management",129.225467,"4%","Germany"
+2018,"Education facilities and training",255.632316,"10%","Germany"
+2019,"Education facilities and training",290.946595,"9%","Germany"
+2020,"Education facilities and training",301.100117,"9%","Germany"
+2021,"Education facilities and training",352.038961,"10%","Germany"
+2022,"Education facilities and training",258.34574,"8%","Germany"
+2018,"Teacher training",22.922232,"1%","Germany"
+2019,"Teacher training",13.741664,"0%","Germany"
+2020,"Teacher training",9.662445,"0%","Germany"
+2021,"Teacher training",15.237997,"0%","Germany"
+2022,"Teacher training",22.775199,"1%","Germany"
+2018,"Educational research",1.354251,"0%","Germany"
+2019,"Educational research",0.201149,"0%","Germany"
+2020,"Educational research",0.266284,"0%","Germany"
+2021,"Educational research",0.162818,"0%","Germany"
+2022,"Educational research",0.402704,"0%","Germany"
+2018,"Primary education",160.603652,"6%","Germany"
+2019,"Primary education",255.029531,"8%","Germany"
+2020,"Primary education",371.972096,"11%","Germany"
+2021,"Primary education",222.666948,"7%","Germany"
+2022,"Primary education",210.366375,"6%","Germany"
+2018,"Basic life skills for adults",23.19079,"1%","Germany"
+2019,"Basic life skills for adults",22.093576,"1%","Germany"
+2020,"Basic life skills for adults",18.610209,"1%","Germany"
+2021,"Basic life skills for adults",21.983209,"1%","Germany"
+2022,"Basic life skills for adults",14.881164,"0%","Germany"
+2020,"Basic life skills for youth",0.279307,"0%","Germany"
+2021,"Basic life skills for youth",0.501871,"0%","Germany"
+2022,"Basic life skills for youth",10.547072,"0%","Germany"
+2018,"Early childhood education",1.218649,"0%","Germany"
+2019,"Early childhood education",2.046499,"0%","Germany"
+2020,"Early childhood education",3.157915,"0%","Germany"
+2021,"Early childhood education",4.631472,"0%","Germany"
+2022,"Early childhood education",4.100598,"0%","Germany"
+2018,"Upper Secondary Education (modified and includes data from 11322)",15.194056,"1%","Germany"
+2019,"Upper Secondary Education (modified and includes data from 11322)",14.171838,"0%","Germany"
+2020,"Upper Secondary Education (modified and includes data from 11322)",8.370084,"0%","Germany"
+2021,"Upper Secondary Education (modified and includes data from 11322)",38.212158,"1%","Germany"
+2022,"Upper Secondary Education (modified and includes data from 11322)",23.21143,"1%","Germany"
+2018,"Vocational training",420.045549,"16%","Germany"
+2019,"Vocational training",479.103815,"16%","Germany"
+2020,"Vocational training",400.172509,"12%","Germany"
+2021,"Vocational training",395.340546,"12%","Germany"
+2022,"Vocational training",567.767414,"17%","Germany"
+2018,"Higher education",1656.686439,"62%","Germany"
+2019,"Higher education",1876.792275,"61%","Germany"
+2020,"Higher education",2037.582937,"60%","Germany"
+2021,"Higher education",2085.736489,"61%","Germany"
+2022,"Higher education",2093.172553,"61%","Germany"
+2018,"Advanced technical and managerial training",24.759549,"1%","Germany"
+2019,"Advanced technical and managerial training",20.845325,"1%","Germany"
+2020,"Advanced technical and managerial training",47.324895,"1%","Germany"
+2021,"Advanced technical and managerial training",32.687876,"1%","Germany"
+2022,"Advanced technical and managerial training",80.176833,"2%","Germany"
+2018,"School feeding",0.051616,"0%","Germany"
+2019,"School feeding",0.08235,"0%","Germany"
+2020,"School feeding",0.127723,"0%","Germany"
+2021,"School feeding",4.74077,"0%","Germany"
+2022,"School feeding",1.526319,"0%","Germany"
+2020,"Lower secondary education",0.18281,"0%","Germany"
+2021,"Lower secondary education",18.142267,"1%","Germany"
+2022,"Lower secondary education",4.063714,"0%","Germany"
+2022,"Primary education equivalent for adults",0.001736,"0%","Germany"

@@ -1,31 +1,32 @@
-donor,Year,Total ODA (DAC1),"ODA to Agriculture (incl. forestry, fishing, rural development) as % of Total ODA",Rank
-Australia,2023,3279.86372,11.9%,1st
-New Zealand,2023,745.107975,11.8%,2nd
-Korea,2023,3465.531401,9.5%,3rd
-Norway,2023,6472.869663,9.5%,4th
-Belgium,2023,2684.715884,8.6%,5th
-Iceland,2023,106.009217,8.2%,6th
-Finland,2023,1569.600531,8.2%,7th
-Sweden,2023,5498.687107,7.6%,8th
-Netherlands,2023,6680.009767,7.4%,9th
-Austria,2023,1670.748199,7.3%,10th
-Spain,2023,3612.043295,7.3%,11th
-Japan,2023,24789.56685,7.2%,12th
-United Kingdom,2023,17433.718833,7.1%,13th
-Luxembourg,2023,523.230402,6.9%,14th
-Denmark,2023,2991.104543,6.6%,15th
-France,2023,16321.082223,6.6%,16th
-Slovak Republic,2023,157.322618,6.1%,17th
-Switzerland,2023,4890.643757,5.9%,18th
-Italy,2023,5763.261089,5.3%,19th
-Germany,2023,41800.641469,5.3%,20th
-Canada,2023,9323.989658,5.0%,21st
-Hungary,2023,230.277274,4.9%,22nd
-Slovenia,2023,145.958723,4.5%,23rd
-Ireland,2023,2644.723912,4.4%,24th
-Estonia,2023,97.912039,3.9%,25th
-Portugal,2023,537.085846,3.8%,26th
-Czechia,2023,707.584661,3.7%,27th
-Lithuania,2023,191.577827,3.2%,28th
-United States,2023,62739.685841,3.2%,29th
-Poland,2023,2208.80594,2.6%,30th
+"Donor","ODA for agriculture as a % of total ODA","Ranking"
+"Korea","8.4%","1st"
+"Iceland","7.8%","2nd"
+"Luxembourg","7.8%","3rd"
+"Belgium","7.3%","4th"
+"New Zealand","7.2%","5th"
+"France","6.5%","6th"
+"Hungary","6.4%","7th"
+"Germany","6.3%","8th"
+"Slovak Republic","5.9%","9th"
+"Norway","5.9%","10th"
+"Canada","5.9%","11th"
+"Spain","5.6%","12th"
+"Netherlands","5.5%","13th"
+"Switzerland","5.4%","14th"
+"Australia","5.0%","15th"
+"Finland","4.8%","16th"
+"Austria","4.7%","17th"
+"Greece","4.5%","18th"
+"Sweden","4.4%","19th"
+"Italy","4.3%","20th"
+"Japan","4.2%","21st"
+"Portugal","4.0%","22nd"
+"United Kingdom","3.8%","23rd"
+"Slovenia","3.7%","24th"
+"Lithuania","3.3%","25th"
+"Ireland","3.2%","26th"
+"Denmark","2.7%","27th"
+"United States","1.8%","28th"
+"Poland","1.8%","29th"
+"Estonia","1.7%","30th"
+"Czechia","0.3%","31th"

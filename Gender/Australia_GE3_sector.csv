@@ -1,109 +1,96 @@
-year,Sector,Gender-related ODA to,Share,donor
-2021,Government & civil society,289.3751187888005,26.0%,Australia
-2023,Government & civil society,284.1447827604002,21.0%,Australia
-2022,Government & civil society,282.0211410384,25.0%,Australia
-2022,Emergency Response,237.46915019880018,21.0%,Australia
-2020,Government & civil society,233.58037820159993,22.0%,Australia
-2023,Emergency Response,229.35573537120007,17.0%,Australia
-2019,Government & civil society,228.33504502440002,26.0%,Australia
-2021,Health & populations,174.15640004999995,15.0%,Australia
-2023,"Agriculture (incl. forestry, fishing, rural development)",166.9459332636001,12.0%,Australia
-2021,Emergency Response,163.62501850080002,14.0%,Australia
-2020,Emergency Response,154.1231666052,15.0%,Australia
-2019,Emergency Response,144.37799510040003,16.0%,Australia
-2023,Health & populations,139.5774565956,10.0%,Australia
-2023,Education,138.44335676160003,10.0%,Australia
-2022,Health & populations,120.15239068079975,11.0%,Australia
-2020,Other multisector,117.62736285479998,11.0%,Australia
-2022,Education,116.9358734208,10.0%,Australia
-2021,Education,114.83653855199996,10.0%,Australia
-2019,Education,110.20318074360002,12.0%,Australia
-2020,Health & populations,102.56012977439998,10.0%,Australia
-2021,"Agriculture (incl. forestry, fishing, rural development)",95.0254935432001,8.0%,Australia
-2022,"Agriculture (incl. forestry, fishing, rural development)",93.54772261200002,8.0%,Australia
-2020,Education,88.93227166919998,8.0%,Australia
-2019,Health & populations,82.11978010800003,9.0%,Australia
-2019,"Agriculture (incl. forestry, fishing, rural development)",73.17038042160003,8.0%,Australia
-2020,"Agriculture (incl. forestry, fishing, rural development)",68.066626998,6.0%,Australia
-2021,Other social services,61.03541841600003,5.0%,Australia
-2023,Other social services,57.36069915959998,4.0%,Australia
-2020,Other social services,56.78148688439996,5.0%,Australia
-2023,Infrastructure,56.702634749999994,4.0%,Australia
-2023,Other multisector,51.31662391080002,4.0%,Australia
-2022,Other social services,50.61233648640001,5.0%,Australia
-2019,Other social services,49.876915489199995,6.0%,Australia
-2021,Water and sanitation,45.22394190239997,4.0%,Australia
-2023,Water and sanitation,43.91162985360006,3.0%,Australia
-2022,Water and sanitation,43.10560356600001,4.0%,Australia
-2020,Unspecified,41.708275586400006,4.0%,Australia
-2019,Financial services & business support,40.975561856399985,5.0%,Australia
-2023,Financial services & business support,38.45373650519999,3.0%,Australia
-2023,Environmental protection,37.734979888800034,3.0%,Australia
-2021,Environmental protection,37.03907228999995,3.0%,Australia
-2023,Disaster Prevention & Preparedness,36.13913618279998,3.0%,Australia
-2020,Water and sanitation,34.8799482984,3.0%,Australia
-2020,Financial services & business support,34.80507370320002,3.0%,Australia
-2020,Environmental protection,30.8768022012,3.0%,Australia
-2022,Disaster Prevention & Preparedness,28.698190450800002,3.0%,Australia
-2021,Financial services & business support,27.601676774399998,2.0%,Australia
-2022,Financial services & business support,26.145890480399995,2.0%,Australia
-2021,Disaster Prevention & Preparedness,25.68619591439999,2.0%,Australia
-2021,"Industry, construction & mining",24.5248745484,2.0%,Australia
-2019,Other multisector,23.709166406399998,3.0%,Australia
-2019,Water and sanitation,22.7000464512,3.0%,Australia
-2020,Disaster Prevention & Preparedness,22.63114610399999,2.0%,Australia
-2019,"Conflict, peace & security",21.614700252000002,2.0%,Australia
-2022,Infrastructure,20.994724154400004,2.0%,Australia
-2022,Other multisector,20.7506840628,2.0%,Australia
-2021,Food aid and commodity assistance,20.283215035199998,2.0%,Australia
-2023,"Conflict, peace & security",18.312840561599998,1.0%,Australia
-2020,"Conflict, peace & security",18.092334243599996,2.0%,Australia
-2019,Environmental protection,17.281190149199997,2.0%,Australia
-2023,General budget support,17.189643233999995,1.0%,Australia
-2021,"Conflict, peace & security",17.057184628800012,2.0%,Australia
-2022,"Conflict, peace & security",16.4671492392,1.0%,Australia
-2021,Infrastructure,15.8629215372,1.0%,Australia
-2020,Infrastructure,15.189080944799997,1.0%,Australia
-2022,Environmental protection,14.989170896400001,1.0%,Australia
-2020,Food aid and commodity assistance,14.665490704799995,1.0%,Australia
-2023,Energy,14.425881679199998,1.0%,Australia
-2019,"Industry, construction & mining",12.97704417,1.0%,Australia
-2022,General budget support,12.3093802752,1.0%,Australia
-2023,Reconstruction Relief & Rehabilitation,12.077552658,1.0%,Australia
-2019,Infrastructure,11.9779395156,1.0%,Australia
-2022,"Industry, construction & mining",11.224954030799998,1.0%,Australia
-2020,"Industry, construction & mining",10.268875870799997,1.0%,Australia
-2023,Trade policy,9.795048536399998,1.0%,Australia
-2019,Disaster Prevention & Preparedness,9.4043972232,1.0%,Australia
-2019,Food aid and commodity assistance,9.399653551199998,1.0%,Australia
-2022,Trade policy,9.320417357999995,1.0%,Australia
-2021,Other multisector,8.71720587360001,1.0%,Australia
-2019,Trade policy,7.496143020000002,1.0%,Australia
-2022,Energy,7.407891865200002,1.0%,Australia
-2023,"Industry, construction & mining",6.877694225999998,1.0%,Australia
-2020,Trade policy,6.730878569999999,1.0%,Australia
-2022,Reconstruction Relief & Rehabilitation,6.542813807999999,1.0%,Australia
-2019,Reconstruction Relief & Rehabilitation,6.246453395999999,1.0%,Australia
-2021,Trade policy,4.665266445600001,0.0%,Australia
-2023,Tourism,4.43039613,0.0%,Australia
-2021,Tourism,4.3535665068,0.0%,Australia
-2019,Energy,4.199340599999998,0.0%,Australia
-2019,Tourism,4.0446016224,0.0%,Australia
-2020,Tourism,3.6481447691999995,0.0%,Australia
-2019,Donor administration costs,3.5654957124,0.0%,Australia
-2023,Unspecified,2.9178981455999997,0.0%,Australia
-2021,Energy,2.6938797240000003,0.0%,Australia
-2020,Donor administration costs,2.392964196,0.0%,Australia
-2022,Tourism,1.6481124216,0.0%,Australia
-2020,Reconstruction Relief & Rehabilitation,1.4969976887999998,0.0%,Australia
-2022,Unspecified,1.2086538839999998,0.0%,Australia
-2020,Energy,1.0455221795999998,0.0%,Australia
-2019,General budget support,0.7708983047999999,0.0%,Australia
-2023,,0.4002240036,0.0%,Australia
-2019,Unspecified,0.16415586119999998,0.0%,Australia
-2022,Food aid and commodity assistance,0.1451097204,0.0%,Australia
-2021,Unspecified,0.1131157368,0.0%,Australia
-2022,,0.10974753119999998,0.0%,Australia
-2023,Donor administration costs,0.041293764000000004,0.0%,Australia
-2021,Reconstruction Relief & Rehabilitation,0.0113699268,0.0%,Australia
-2023,Food aid and commodity assistance,6.946799999999999e-05,0.0%,Australia
+"Year","Sector","Gender-related ODA to","Share","Donor"
+"2018","Government & civil society",255.89,"22%","Australia"
+"2019","Government & civil society",230.81,"26%","Australia"
+"2020","Government & civil society",235.92,"22%","Australia"
+"2021","Government & civil society",292.55,"26%","Australia"
+"2022","Government & civil society",288.09,"25%","Australia"
+"2018","Humanitarian aid",158.23,"14%","Australia"
+"2019","Humanitarian aid",161.76,"18%","Australia"
+"2020","Humanitarian aid",180.03,"17%","Australia"
+"2021","Humanitarian aid",191.4,"17%","Australia"
+"2022","Humanitarian aid",278.57,"25%","Australia"
+"2018","Health & populations",108.6,"10%","Australia"
+"2019","Health & populations",83.01,"9%","Australia"
+"2020","Health & populations",103.59,"10%","Australia"
+"2021","Health & populations",176.07,"15%","Australia"
+"2022","Health & populations",122.74,"11%","Australia"
+"2018","Education",138.36,"12%","Australia"
+"2019","Education",111.4,"13%","Australia"
+"2020","Education",89.81,"8%","Australia"
+"2021","Education",116.1,"10%","Australia"
+"2022","Education",119.55,"11%","Australia"
+"2018","Other multisector",171.87,"15%","Australia"
+"2019","Other multisector",53.27,"6%","Australia"
+"2020","Other multisector",145.27,"14%","Australia"
+"2021","Other multisector",64.45,"6%","Australia"
+"2022","Other multisector",76,"7%","Australia"
+"2018","Other social services",32.13,"3%","Australia"
+"2019","Other social services",50.42,"6%","Australia"
+"2020","Other social services",57.35,"5%","Australia"
+"2021","Other social services",61.71,"5%","Australia"
+"2022","Other social services",51.7,"5%","Australia"
+"2018","Water and sanitation",47.77,"4%","Australia"
+"2019","Water and sanitation",22.95,"3%","Australia"
+"2020","Water and sanitation",35.23,"3%","Australia"
+"2021","Water and sanitation",45.72,"4%","Australia"
+"2022","Water and sanitation",44.03,"4%","Australia"
+"2018","Agriculture (incl. forestry, fishing, rural development)",49.95,"4%","Australia"
+"2019","Agriculture (incl. forestry, fishing, rural development)",44.66,"5%","Australia"
+"2020","Agriculture (incl. forestry, fishing, rural development)",42.28,"4%","Australia"
+"2021","Agriculture (incl. forestry, fishing, rural development)",40.44,"4%","Australia"
+"2022","Agriculture (incl. forestry, fishing, rural development)",40.76,"4%","Australia"
+"2018","Financial services & business support",45.42,"4%","Australia"
+"2019","Financial services & business support",41.42,"5%","Australia"
+"2020","Financial services & business support",35.15,"3%","Australia"
+"2021","Financial services & business support",27.9,"2%","Australia"
+"2022","Financial services & business support",26.71,"2%","Australia"
+"2018","Infrastructure",20.27,"2%","Australia"
+"2019","Infrastructure",12.11,"1%","Australia"
+"2020","Infrastructure",15.34,"1%","Australia"
+"2021","Infrastructure",16.04,"1%","Australia"
+"2022","Infrastructure",21.45,"2%","Australia"
+"2018","Conflict, peace & security",20.36,"2%","Australia"
+"2019","Conflict, peace & security",21.85,"2%","Australia"
+"2020","Conflict, peace & security",18.27,"2%","Australia"
+"2021","Conflict, peace & security",17.24,"2%","Australia"
+"2022","Conflict, peace & security",16.82,"1%","Australia"
+"2018","Environmental protection",9.81,"1%","Australia"
+"2019","Environmental protection",17.47,"2%","Australia"
+"2020","Environmental protection",31.19,"3%","Australia"
+"2021","Environmental protection",37.45,"3%","Australia"
+"2022","Environmental protection",15.31,"1%","Australia"
+"2018","Industry, construction & mining",25.94,"2%","Australia"
+"2019","Industry, construction & mining",13.12,"1%","Australia"
+"2020","Industry, construction & mining",10.37,"1%","Australia"
+"2021","Industry, construction & mining",24.79,"2%","Australia"
+"2022","Industry, construction & mining",11.47,"1%","Australia"
+"2018","Trade policy",13.75,"1%","Australia"
+"2019","Trade policy",7.58,"1%","Australia"
+"2020","Trade policy",6.8,"1%","Australia"
+"2021","Trade policy",4.72,"0%","Australia"
+"2022","Trade policy",9.52,"1%","Australia"
+"2018","Energy",14.87,"1%","Australia"
+"2019","Energy",4.24,"0%","Australia"
+"2020","Energy",1.06,"0%","Australia"
+"2021","Energy",2.72,"0%","Australia"
+"2022","Energy",7.58,"1%","Australia"
+"2018","Tourism",1.7,"0%","Australia"
+"2019","Tourism",4.09,"0%","Australia"
+"2020","Tourism",3.68,"0%","Australia"
+"2021","Tourism",4.4,"0%","Australia"
+"2022","Tourism",1.68,"0%","Australia"
+"2018","Unspecified",0.04,"0%","Australia"
+"2019","Unspecified",0.17,"0%","Australia"
+"2020","Unspecified",42.13,"4%","Australia"
+"2021","Unspecified",0.11,"0%","Australia"
+"2022","Unspecified",1.23,"0%","Australia"
+"2018","Food aid and commodity assistance",26.76,"2%","Australia"
+"2019","Food aid and commodity assistance",9.5,"1%","Australia"
+"2020","Food aid and commodity assistance",14.81,"1%","Australia"
+"2021","Food aid and commodity assistance",20.51,"2%","Australia"
+"2022","Food aid and commodity assistance",0.15,"0%","Australia"
+"2018","Donor administration costs",0,"0%","Australia"
+"2019","Donor administration costs",0,"0%","Australia"
+"2020","Donor administration costs",0,"0%","Australia"
+"2021","Donor administration costs",0,"0%","Australia"
+"2022","Donor administration costs",0,"0%","Australia"

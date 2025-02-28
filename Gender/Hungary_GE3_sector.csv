@@ -1,50 +1,81 @@
-year,Sector,Gender-related ODA to,Share,donor
-2021,Education,118.52976613139991,88.0%,Hungary
-2020,Education,117.98562466079997,97.0%,Hungary
-2019,Education,95.73334982640002,98.0%,Hungary
-2021,Health & populations,12.049127298000002,9.0%,Hungary
-2022,Emergency Response,6.910442369999999,25.0%,Hungary
-2022,Health & populations,6.6157310466000006,24.0%,Hungary
-2022,Other multisector,6.538731685200001,24.0%,Hungary
-2022,Education,3.479769422999999,13.0%,Hungary
-2020,Health & populations,2.1036467556000003,2.0%,Hungary
-2022,Donor administration costs,1.3618949526,5.0%,Hungary
-2021,Reconstruction Relief & Rehabilitation,1.2835303416,1.0%,Hungary
-2020,Other social services,0.9173260044,1.0%,Hungary
-2019,Reconstruction Relief & Rehabilitation,0.8685720342000001,1.0%,Hungary
-2022,"Agriculture (incl. forestry, fishing, rural development)",0.8670289680000001,3.0%,Hungary
-2020,Government & civil society,0.8310073824,1.0%,Hungary
-2021,Other social services,0.7897240962000001,1.0%,Hungary
-2021,"Agriculture (incl. forestry, fishing, rural development)",0.6665282207999998,0.0%,Hungary
-2023,Emergency Response,0.6548651226,33.0%,Hungary
-2023,Education,0.6059273688000001,30.0%,Hungary
-2021,Government & civil society,0.5364309132,0.0%,Hungary
-2022,Energy,0.39191136660000003,1.0%,Hungary
-2019,Donor administration costs,0.38816289719999997,0.0%,Hungary
-2023,Health & populations,0.3667270464,18.0%,Hungary
-2020,"Agriculture (incl. forestry, fishing, rural development)",0.28627398540000004,0.0%,Hungary
-2022,Environmental protection,0.266778603,1.0%,Hungary
-2022,Reconstruction Relief & Rehabilitation,0.177852402,1.0%,Hungary
-2022,Financial services & business support,0.177852402,1.0%,Hungary
-2023,Government & civil society,0.1715655708,9.0%,Hungary
-2021,Food aid and commodity assistance,0.1198555488,0.0%,Hungary
-2022,Unspecified,0.0902353608,0.0%,Hungary
-2022,Government & civil society,0.08673631200000001,0.0%,Hungary
-2019,Other social services,0.0830630268,0.0%,Hungary
-2023,"Agriculture (incl. forestry, fishing, rural development)",0.078412347,4.0%,Hungary
-2023,Water and sanitation,0.076431303,4.0%,Hungary
-2020,Unspecified,0.070070481,0.0%,Hungary
-2019,Emergency Response,0.0685107072,0.0%,Hungary
-2021,Unspecified,0.06618238380000001,0.0%,Hungary
-2022,Infrastructure,0.056804646599999994,0.0%,Hungary
-2022,Other social services,0.0533545272,0.0%,Hungary
-2021,Environmental protection,0.0418238964,0.0%,Hungary
-2019,Government & civil society,0.040384656000000005,0.0%,Hungary
-2019,Infrastructure,0.0348866622,0.0%,Hungary
-2023,Reconstruction Relief & Rehabilitation,0.0311381928,2.0%,Hungary
-2019,Health & populations,0.0269302644,0.0%,Hungary
-2022,Water and sanitation,0.0266772636,0.0%,Hungary
-2023,Environmental protection,0.0198152136,1.0%,Hungary
-2021,Water and sanitation,0.0058679478,0.0%,Hungary
-2022,"Industry, construction & mining",0.0024452766000000003,0.0%,Hungary
-2022,Food aid and commodity assistance,0.0013342212000000003,0.0%,Hungary
+"Year","Sector","Gender-related ODA to","Share","Donor"
+"2018","Humanitarian aid",0,"0%","Hungary"
+"2019","Humanitarian aid",0.84,"1%","Hungary"
+"2020","Humanitarian aid",0,"0%","Hungary"
+"2021","Humanitarian aid",1.15,"1%","Hungary"
+"2022","Humanitarian aid",6.42,"27%","Hungary"
+"2018","Health & populations",1.26,"37%","Hungary"
+"2019","Health & populations",0.02,"0%","Hungary"
+"2020","Health & populations",1.89,"2%","Hungary"
+"2021","Health & populations",10.84,"9%","Hungary"
+"2022","Health & populations",5.99,"26%","Hungary"
+"2018","Other multisector",0.31,"9%","Hungary"
+"2019","Other multisector",0,"0%","Hungary"
+"2020","Other multisector",0,"0%","Hungary"
+"2021","Other multisector",0,"0%","Hungary"
+"2022","Other multisector",5.92,"25%","Hungary"
+"2018","Education",1.44,"43%","Hungary"
+"2019","Education",85.97,"99%","Hungary"
+"2020","Education",105.98,"97%","Hungary"
+"2021","Education",106.62,"88%","Hungary"
+"2022","Education",3.15,"13%","Hungary"
+"2018","Agriculture (incl. forestry, fishing, rural development)",0.06,"2%","Hungary"
+"2019","Agriculture (incl. forestry, fishing, rural development)",0,"0%","Hungary"
+"2020","Agriculture (incl. forestry, fishing, rural development)",0.26,"0%","Hungary"
+"2021","Agriculture (incl. forestry, fishing, rural development)",0.6,"0%","Hungary"
+"2022","Agriculture (incl. forestry, fishing, rural development)",0.79,"3%","Hungary"
+"2018","Energy",0,"0%","Hungary"
+"2019","Energy",0,"0%","Hungary"
+"2020","Energy",0,"0%","Hungary"
+"2021","Energy",0,"0%","Hungary"
+"2022","Energy",0.36,"2%","Hungary"
+"2018","Environmental protection",0,"0%","Hungary"
+"2019","Environmental protection",0,"0%","Hungary"
+"2020","Environmental protection",0,"0%","Hungary"
+"2021","Environmental protection",0.04,"0%","Hungary"
+"2022","Environmental protection",0.24,"1%","Hungary"
+"2018","Financial services & business support",0,"0%","Hungary"
+"2019","Financial services & business support",0,"0%","Hungary"
+"2020","Financial services & business support",0,"0%","Hungary"
+"2021","Financial services & business support",0,"0%","Hungary"
+"2022","Financial services & business support",0.16,"1%","Hungary"
+"2018","Donor administration costs",0,"0%","Hungary"
+"2019","Donor administration costs",0,"0%","Hungary"
+"2020","Donor administration costs",0,"0%","Hungary"
+"2021","Donor administration costs",0,"0%","Hungary"
+"2022","Donor administration costs",0.12,"1%","Hungary"
+"2018","Unspecified",0,"0%","Hungary"
+"2019","Unspecified",0,"0%","Hungary"
+"2020","Unspecified",0.06,"0%","Hungary"
+"2021","Unspecified",0.06,"0%","Hungary"
+"2022","Unspecified",0.08,"0%","Hungary"
+"2018","Government & civil society",0.2,"6%","Hungary"
+"2019","Government & civil society",0.04,"0%","Hungary"
+"2020","Government & civil society",0.75,"1%","Hungary"
+"2021","Government & civil society",0.48,"0%","Hungary"
+"2022","Government & civil society",0.08,"0%","Hungary"
+"2018","Infrastructure",0,"0%","Hungary"
+"2019","Infrastructure",0.03,"0%","Hungary"
+"2020","Infrastructure",0,"0%","Hungary"
+"2021","Infrastructure",0,"0%","Hungary"
+"2022","Infrastructure",0.05,"0%","Hungary"
+"2018","Other social services",0,"0%","Hungary"
+"2019","Other social services",0.07,"0%","Hungary"
+"2020","Other social services",0.82,"1%","Hungary"
+"2021","Other social services",0.71,"1%","Hungary"
+"2022","Other social services",0.05,"0%","Hungary"
+"2018","Water and sanitation",0.12,"4%","Hungary"
+"2019","Water and sanitation",0,"0%","Hungary"
+"2020","Water and sanitation",0,"0%","Hungary"
+"2021","Water and sanitation",0.01,"0%","Hungary"
+"2022","Water and sanitation",0.02,"0%","Hungary"
+"2018","Industry, construction & mining",0,"0%","Hungary"
+"2019","Industry, construction & mining",0,"0%","Hungary"
+"2020","Industry, construction & mining",0,"0%","Hungary"
+"2021","Industry, construction & mining",0,"0%","Hungary"
+"2022","Industry, construction & mining",0,"0%","Hungary"
+"2018","Food aid and commodity assistance",0,"0%","Hungary"
+"2019","Food aid and commodity assistance",0,"0%","Hungary"
+"2020","Food aid and commodity assistance",0,"0%","Hungary"
+"2021","Food aid and commodity assistance",0.11,"0%","Hungary"
+"2022","Food aid and commodity assistance",0,"0%","Hungary"

@@ -1,102 +1,95 @@
-donor,year,Sector,Bilateral ODA for,share
-Sweden,2023,Reproductive health care,87.33246390180011,34.66942140375324
-Sweden,2023,COVID-19 control,43.21175103179999,17.154289930490137
-Sweden,2023,Basic health care,32.1939334782,12.780414023989412
-Sweden,2023,Health policy and administrative management,11.654562043799999,4.626652045761889
-Sweden,2023,Population policy and administrative management,9.839725389000003,3.9061944524093444
-Sweden,2023,Basic nutrition,8.486587628999999,3.3690230373039483
-Sweden,2023,Health education,8.2595778408,3.2789042239983694
-Sweden,2023,STD control including HIV/AIDS,8.145291632400015,3.233534649585451
-Sweden,2023,Promotion of mental health and well-being,7.796700685800001,3.095150297590087
-Sweden,2023,Medical services,7.5280140935999995,2.988486540788325
-Sweden,2023,Medical research,7.14935286,2.838164824322097
-Sweden,2023,Family planning,6.596279937000001,2.6186047961514363
-Sweden,2023,Infectious disease control,6.013087423200001,2.3870878307858265
-Sweden,2023,Personnel development for population and reproductive health,3.4427092752000004,1.366693819227726
-Sweden,2023,Malaria control,1.076211396,0.427236616722507
-Sweden,2023,Health personnel development,0.8694966618000001,0.3451745757568116
-Sweden,2023,Medical education/training,0.6469292466000001,0.2568193048349996
-Sweden,2023,Tuberculosis control,0.516764196,0.20514611493889676
-Sweden,2023,Basic health infrastructure,0.5092991981999999,0.20218264473614023
-Sweden,2023,Research for prevention and control of NCDs,0.44318481480000005,0.17593642063416962
-Sweden,2023,"NCDs control, general",0.18862929540000004,0.0748824462191872
-Sweden,2022,Reproductive health care,81.13803911460002,29.255933928517333
-Sweden,2022,COVID-19 control,73.41612323759999,26.471643561578563
-Sweden,2022,Basic health care,46.987727833799994,16.94235990859001
-Sweden,2022,Family planning,15.042765465000004,5.423968305724466
-Sweden,2022,Medical research,12.446361954000007,4.487783374482788
-Sweden,2022,STD control including HIV/AIDS,9.327563551799999,3.3632385742041415
-Sweden,2022,Population policy and administrative management,7.933675698000001,2.860644582538429
-Sweden,2022,Health policy and administrative management,7.852366688400001,2.8313270018006076
-Sweden,2022,Basic nutrition,5.504996671200001,1.984936050301405
-Sweden,2022,Personnel development for population and reproductive health,4.905120355200001,1.7686387123611735
-Sweden,2022,Promotion of mental health and well-being,3.0066131394000006,1.0840941722865804
-Sweden,2022,Infectious disease control,2.3927264946,0.8627451316165022
-Sweden,2022,Health education,1.6697214846,0.6020512938880417
-Sweden,2022,Control of harmful use of alcohol and drugs,1.2941221176000002,0.46662147102746365
-Sweden,2022,Malaria control,1.1697517728,0.42177726934548093
-Sweden,2022,Health personnel development,0.897525369,0.3236206245697559
-Sweden,2022,Research for prevention and control of NCDs,0.5324820462,0.1919969934169355
-Sweden,2022,"NCDs control, general",0.5166525077999999,0.1862893384797089
-Sweden,2022,Basic health infrastructure,0.5076943092,0.1830592817859556
-Sweden,2022,Tuberculosis control,0.49806900000000004,0.1795886850958012
-Sweden,2022,Other prevention and treatment of NCDs,0.2986431786,0.10768173838886681
-Sweden,2022,Medical services,0.0,0.0
-Sweden,2021,Reproductive health care,114.68602297619995,30.090894210978202
-Sweden,2021,Basic health care,83.22509512980001,21.836292411753735
-Sweden,2021,COVID-19 control,72.47985615000002,19.01699638053692
-Sweden,2021,STD control including HIV/AIDS,28.620421221599997,7.509320184827783
-Sweden,2021,Medical research,22.36415337,5.86782378280234
-Sweden,2021,Family planning,12.365580193199998,3.244435161276508
-Sweden,2021,Health policy and administrative management,9.6901326288,2.542461132199864
-Sweden,2021,Personnel development for population and reproductive health,6.508641929400002,1.7077133784241187
-Sweden,2021,Medical services,5.7646797858,1.512515344879212
-Sweden,2021,Basic nutrition,5.705179155,1.4969037896048536
-Sweden,2021,Infectious disease control,5.201207785799999,1.3646736471479464
-Sweden,2021,Population policy and administrative management,4.812131376,1.2625892188675394
-Sweden,2021,Promotion of mental health and well-being,2.8515345767999998,0.7481750876237281
-Sweden,2021,Health education,2.2909221972,0.601083686508449
-Sweden,2021,Health personnel development,1.4273429975999998,0.37450097255944825
-Sweden,2021,Malaria control,0.9294329772000001,0.24386118436527898
-Sweden,2021,Basic health infrastructure,0.8963772948,0.23518815676908691
-Sweden,2021,Tuberculosis control,0.7248292506,0.19017801589783487
-Sweden,2021,"NCDs control, general",0.5884458840000001,0.1543942529771404
-Sweden,2021,Research for prevention and control of NCDs,0.0,0.0
-Sweden,2020,Reproductive health care,117.57404035259995,34.89119552235365
-Sweden,2020,COVID-19 control,72.720257454,21.58041616715863
-Sweden,2020,Basic health care,48.14296819020001,14.286875836818817
-Sweden,2020,STD control including HIV/AIDS,23.688606380400003,7.029815377543359
-Sweden,2020,Medical services,22.431717687600006,6.656821908927307
-Sweden,2020,Medical research,17.431881713999996,5.17307384675809
-Sweden,2020,Health education,9.493033141800002,2.817146322924698
-Sweden,2020,Health policy and administrative management,7.3148013198,2.1707356682726138
-Sweden,2020,Basic nutrition,6.1019660754,1.8108154722680017
-Sweden,2020,Infectious disease control,2.9147682096,0.8649847125989778
-Sweden,2020,Basic health infrastructure,2.6117671788000005,0.7750663243441194
-Sweden,2020,Promotion of mental health and well-being,2.3282280684000005,0.6909234428922968
-Sweden,2020,Health personnel development,1.4076315396,0.4177278175039702
-Sweden,2020,Malaria control,0.8868153762000001,0.2631707525779484
-Sweden,2020,Tuberculosis control,0.6834070152,0.20280742004936994
-Sweden,2020,Family planning,0.5627586042,0.16700387629908328
-Sweden,2020,"NCDs control, general",0.4577827644,0.1358513145550054
-Sweden,2020,Population policy and administrative management,0.1252789434,0.03717769752484836
-Sweden,2020,Research for prevention and control of NCDs,0.0525960864,0.015608380292022724
-Sweden,2020,Personnel development for population and reproductive health,0.0430724034,0.012782138337171272
-Sweden,2019,Reproductive health care,116.90161399799999,45.814037075818305
-Sweden,2019,Basic health care,58.7147916186,23.010474775476645
-Sweden,2019,Medical research,18.667026424800003,7.3156546900686825
-Sweden,2019,Health policy and administrative management,15.307257209400001,5.998952669143958
-Sweden,2019,STD control including HIV/AIDS,11.0013913386,4.311472985144839
-Sweden,2019,Health education,10.205141005800002,3.999420473456199
-Sweden,2019,Basic nutrition,7.4837262006,2.9328911543122667
-Sweden,2019,Infectious disease control,3.6386697438000004,1.4260038407336577
-Sweden,2019,Medical services,3.0663522395999996,1.201711168803506
-Sweden,2019,Basic health infrastructure,2.7604825325999998,1.0818400599486067
-Sweden,2019,Population policy and administrative management,2.0583098874,0.8066568310723266
-Sweden,2019,Promotion of mental health and well-being,1.98754686,0.7789246223369004
-Sweden,2019,Malaria control,0.7453315818000001,0.2920973248748106
-Sweden,2019,Health personnel development,0.7226639081999999,0.28321380647658967
-Sweden,2019,Personnel development for population and reproductive health,0.6954592787999999,0.2725522436688527
-Sweden,2019,"NCDs control, general",0.6901203816000001,0.27045991640407296
-Sweden,2019,Tuberculosis control,0.41879653920000004,0.1641274189290616
-Sweden,2019,Family planning,0.10081319040000002,0.03950894333072381
+"Year","Sector","Bilateral ODA for","Share","Donor"
+2018,"Health policy and administrative management",23.390461,"9%","Sweden"
+2019,"Health policy and administrative management",16.99453,"6%","Sweden"
+2020,"Health policy and administrative management",8.120212,"2%","Sweden"
+2021,"Health policy and administrative management",10.713394,"3%","Sweden"
+2022,"Health policy and administrative management",8.65533,"3%","Sweden"
+2018,"Medical research",38.25538,"14%","Sweden"
+2019,"Medical research",20.724629,"7%","Sweden"
+2020,"Medical research",19.351253,"5%","Sweden"
+2021,"Medical research",24.725792,"6%","Sweden"
+2022,"Medical research",13.719087,"4%","Sweden"
+2018,"Medical services",1.929485,"1%","Sweden"
+2019,"Medical services",3.404348,"1%","Sweden"
+2020,"Medical services",24.901602,"7%","Sweden"
+2021,"Medical services",6.373425,"2%","Sweden"
+2018,"Basic health care",47.911443,"18%","Sweden"
+2019,"Basic health care",65.186752,"23%","Sweden"
+2020,"Basic health care",53.443842,"14%","Sweden"
+2021,"Basic health care",92.013588,"22%","Sweden"
+2022,"Basic health care",51.792561,"17%","Sweden"
+2018,"Basic health infrastructure",2.563592,"1%","Sweden"
+2019,"Basic health infrastructure",3.064762,"1%","Sweden"
+2020,"Basic health infrastructure",2.89934,"1%","Sweden"
+2021,"Basic health infrastructure",0.991034,"0%","Sweden"
+2022,"Basic health infrastructure",0.55961,"0%","Sweden"
+2018,"Basic nutrition",3.15379,"1%","Sweden"
+2019,"Basic nutrition",8.308634,"3%","Sweden"
+2020,"Basic nutrition",6.773834,"2%","Sweden"
+2021,"Basic nutrition",6.30764,"1%","Sweden"
+2022,"Basic nutrition",6.067923,"2%","Sweden"
+2018,"Infectious disease control",1.439794,"1%","Sweden"
+2019,"Infectious disease control",4.039748,"1%","Sweden"
+2020,"Infectious disease control",3.235706,"1%","Sweden"
+2021,"Infectious disease control",5.750448,"1%","Sweden"
+2022,"Infectious disease control",2.637402,"1%","Sweden"
+2018,"Health education",14.184323,"5%","Sweden"
+2019,"Health education",11.330023,"4%","Sweden"
+2020,"Health education",10.538282,"3%","Sweden"
+2021,"Health education",2.532842,"1%","Sweden"
+2022,"Health education",1.840463,"1%","Sweden"
+2018,"Malaria control",0.942688,"0%","Sweden"
+2019,"Malaria control",0.827488,"0%","Sweden"
+2020,"Malaria control",0.98446,"0%","Sweden"
+2021,"Malaria control",1.027577,"0%","Sweden"
+2022,"Malaria control",1.289367,"0%","Sweden"
+2018,"Tuberculosis control",0.163399,"0%","Sweden"
+2019,"Tuberculosis control",0.464962,"0%","Sweden"
+2020,"Tuberculosis control",0.758656,"0%","Sweden"
+2021,"Tuberculosis control",0.801371,"0%","Sweden"
+2022,"Tuberculosis control",0.548999,"0%","Sweden"
+2018,"Health personnel development",4.975275,"2%","Sweden"
+2019,"Health personnel development",0.802321,"0%","Sweden"
+2020,"Health personnel development",1.562621,"0%","Sweden"
+2021,"Health personnel development",1.57807,"0%","Sweden"
+2022,"Health personnel development",0.989306,"0%","Sweden"
+2018,"Population policy and administrative management",1.915352,"1%","Sweden"
+2019,"Population policy and administrative management",2.285191,"1%","Sweden"
+2020,"Population policy and administrative management",0.139073,"0%","Sweden"
+2021,"Population policy and administrative management",5.320292,"1%","Sweden"
+2022,"Population policy and administrative management",8.744944,"3%","Sweden"
+2018,"Reproductive health care",115.163253,"43%","Sweden"
+2019,"Reproductive health care",129.787329,"46%","Sweden"
+2020,"Reproductive health care",130.519757,"35%","Sweden"
+2021,"Reproductive health care",126.796748,"30%","Sweden"
+2022,"Reproductive health care",89.434988,"29%","Sweden"
+2019,"Family planning",0.111925,"0%","Sweden"
+2020,"Family planning",0.624723,"0%","Sweden"
+2021,"Family planning",13.67139,"3%","Sweden"
+2022,"Family planning",16.581002,"5%","Sweden"
+2018,"STD control including HIV/AIDS",11.882947,"4%","Sweden"
+2019,"STD control including HIV/AIDS",12.214043,"4%","Sweden"
+2020,"STD control including HIV/AIDS",26.296889,"7%","Sweden"
+2021,"STD control including HIV/AIDS",31.64272,"8%","Sweden"
+2022,"STD control including HIV/AIDS",10.281378,"3%","Sweden"
+2018,"Personnel development for population and reproductive health",0.433704,"0%","Sweden"
+2019,"Personnel development for population and reproductive health",0.772118,"0%","Sweden"
+2020,"Personnel development for population and reproductive health",0.047815,"0%","Sweden"
+2021,"Personnel development for population and reproductive health",7.195952,"2%","Sweden"
+2022,"Personnel development for population and reproductive health",5.406705,"2%","Sweden"
+2019,"NCDs control, general",0.766191,"0%","Sweden"
+2020,"NCDs control, general",0.508188,"0%","Sweden"
+2021,"NCDs control, general",0.650585,"0%","Sweden"
+2022,"NCDs control, general",0.569485,"0%","Sweden"
+2019,"Promotion of mental health and well-being",2.206629,"1%","Sweden"
+2020,"Promotion of mental health and well-being",2.584584,"1%","Sweden"
+2021,"Promotion of mental health and well-being",3.152655,"1%","Sweden"
+2022,"Promotion of mental health and well-being",3.314064,"1%","Sweden"
+2018,"Research for prevention and control of NCDs",0.138262,"0%","Sweden"
+2020,"Research for prevention and control of NCDs",0.058388,"0%","Sweden"
+2022,"Research for prevention and control of NCDs",0.586931,"0%","Sweden"
+2020,"COVID-19 control",80.727261,"22%","Sweden"
+2021,"COVID-19 control",80.133661,"19%","Sweden"
+2022,"COVID-19 control",80.923452,"26%","Sweden"
+2022,"Control of harmful use of alcohol and drugs",1.426456,"0%","Sweden"
+2022,"Other prevention and treatment of NCDs",0.329182,"0%","Sweden"

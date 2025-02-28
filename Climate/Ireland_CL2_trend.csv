@@ -1,6 +1,6 @@
-donor,Year,Climate Funding as % of bilateral allocable ODA,Funding for projects with climate change as a principal objective,Funding for projects with a significant climate change component,Principal,Significant,Not targeted and not screened
-Ireland,2019,36.18838457568037,43.57510516431926,56.1187511737089,15.817551066189306,20.37083350949106,63.81161542431963
-Ireland,2020,28.805426764011195,37.938973708920194,41.51030516431927,13.75529575816132,15.050131005849867,71.19457323598881
-Ireland,2021,30.28553369243316,31.08639812206572,56.99232394366195,10.688939798645729,19.59659389378743,69.71446630756685
-Ireland,2022,43.787164052296355,34.773527699530526,96.08768356807508,11.635488830549585,32.15167522174677,56.212835947703645
-Ireland,2023,41.14251662250759,69.72710892018779,64.6560244131456,21.347535710991178,19.79498091151641,58.857483377492414
+"Year","climate funding as a % of bilateral allocable ODA","Funding for projects with climate change as a principal objective","Funding for projects with a significant climate change component","Principal","Significant","Not targeted and not screened"
+"2018","17%",22,53,"5%","12%","83%"
+"2019","24%",49,63,"11%","14%","76%"
+"2020","19%",43,47,"9%","10%","81%"
+"2021","19%",35,64,"7%","12%","81%"
+"2022","25%",39,108,"7%","18%","75%"

@@ -1,6 +1,6 @@
-donor,Year,Gender funding as % of bilateral allocable ODA,Funding for projects with gender equality as a principal objective,Funding for projects with gender equality as a significant objective,Principal,Significant,Not targeted or screened
-United States,2019,40.90894354116878,1189.4732681187359,6246.876898612174,6.543545378873723,34.36539816229506,59.09105645883122
-United States,2020,31.545228793732864,917.7024893986127,5668.952781418656,4.395119192121535,27.15010960161133,68.45477120626714
-United States,2021,26.6994465740882,637.6133741326136,4937.184816885108,3.0537292354380234,23.645717338650176,73.3005534259118
-United States,2022,25.63653091269631,447.9424662683111,5675.6602775636175,1.8753161111184204,23.76121480157789,74.36346908730368
-United States,2023,30.524733524519178,723.1418272937555,7910.334015034724,2.5567583649625867,27.967975159556588,69.47526647548082
+"Year","Gender funding as a % of bilateral allocable ODA","Funding for projects with gender equality as a principal objective","Funding for projects with gender equality as a Significant objective","Principal","Significant","Not targeted","Not screened"
+2018,"22%",723,5383,"3%","19%","78%","0%"
+2019,"27%",1152,6049,"4%","23%","73%","0%"
+2020,"24%",889,5490,"3%","21%","76%","0%"
+2021,"18%",618,4786,"2%","16%","82%","0%"
+2022,"15%",435,5451,"1%","14%","85%","0%"

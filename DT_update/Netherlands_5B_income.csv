@@ -1,26 +1,36 @@
-donor,year,incomegroup_name,total_oda,share
-Netherlands,2023,Part I unallocated by income,3637.489503000001,78.57655334516922
-Netherlands,2023,LDCs,510.56373200000024,11.0291282739151
-Netherlands,2023,LMICs,419.2394899999998,9.056354423350898
-Netherlands,2023,UMICs,58.58781400000001,1.2656059868629264
-Netherlands,2023,Other LICs,3.3496170000000003,0.07235797070185679
-Netherlands,2022,Part I unallocated by income,3484.0523540000004,79.76571104939839
-Netherlands,2022,LDCs,542.2464110000003,12.414472040795095
-Netherlands,2022,LMICs,262.57575899999995,6.0115463239019
-Netherlands,2022,UMICs,77.181119,1.7670247777864565
-Netherlands,2022,Other LICs,1.8015579999999998,0.04124580811816699
-Netherlands,2021,Part I unallocated by income,2887.2255180000016,80.50169707576156
-Netherlands,2021,LDCs,511.36619100000013,14.25792545335491
-Netherlands,2021,LMICs,97.28084800000003,2.712387137113549
-Netherlands,2021,UMICs,83.03846300000002,2.3152805876741467
-Netherlands,2021,Other LICs,7.62892,0.2127097460958429
-Netherlands,2020,Part I unallocated by income,2940.289903999997,78.21592486428015
-Netherlands,2020,LDCs,606.7950260000003,16.141617225249973
-Netherlands,2020,UMICs,99.94349600000001,2.6586402120331507
-Netherlands,2020,LMICs,88.18535500000003,2.345856812087289
-Netherlands,2020,Other LICs,23.9822,0.637960886349437
-Netherlands,2019,Part I unallocated by income,2739.7652589999984,76.53005073520946
-Netherlands,2019,LDCs,628.446066,17.554427028860584
-Netherlands,2019,LMICs,133.648163,3.733203295960747
-Netherlands,2019,UMICs,67.748509,1.892423744688704
-Netherlands,2019,Other LICs,10.378208,0.2898951952805082
+Year,Income Group,ODA,Share,Donor
+2018,Countries unspecified,2699.780695,65.31%,Netherlands
+2019,Countries unspecified,2657.5348,70%,Netherlands
+2020,Countries unspecified,2828.517055,70.94%,Netherlands
+2021,Countries unspecified,2678.900681,70.13%,Netherlands
+2022,Countries unspecified,3406.353513,73.35%,Netherlands
+2018,Low income countries,621.313861,15.03%,Netherlands
+2019,Low income countries,585.310313,15.42%,Netherlands
+2020,Low income countries,586.2274,14.70%,Netherlands
+2021,Low income countries,476.218901,12.47%,Netherlands
+2022,Low income countries,492.436446,10.60%,Netherlands
+2018,Lower-middle income countries,311.388778,7.53%,Netherlands
+2019,Lower-middle income countries,209.269967,5.51%,Netherlands
+2020,Lower-middle income countries,184.292952,4.62%,Netherlands
+2021,Lower-middle income countries,179.14004,4.69%,Netherlands
+2022,Lower-middle income countries,388.790857,8.37%,Netherlands
+2018,Unallocated by income,372.812836,9.02%,Netherlands
+2019,Unallocated by income,247.939417,6.53%,Netherlands
+2020,Unallocated by income,289.971491,7.27%,Netherlands
+2021,Unallocated by income,396.36337,10.38%,Netherlands
+2022,Unallocated by income,297.825261,6.41%,Netherlands
+2018,Upper-middle income countries,128.303578,3.10%,Netherlands
+2019,Upper-middle income countries,93.757946,2.47%,Netherlands
+2020,Upper-middle income countries,96.657217,2.42%,Netherlands
+2021,Upper-middle income countries,87.114728,2.28%,Netherlands
+2022,Upper-middle income countries,56.131392,1.21%,Netherlands
+2018,Countries not classified,0,0%,Netherlands
+2019,Countries not classified,2.67867,0.07%,Netherlands
+2020,Countries not classified,1.35896,0.03%,Netherlands
+2021,Countries not classified,2.36518,0.06%,Netherlands
+2022,Countries not classified,2.247339,0.05%,Netherlands
+2018,High income countries,0.025677,0%,Netherlands
+2019,High income countries,0.023048,0%,Netherlands
+2020,High income countries,0,0%,Netherlands
+2021,High income countries,0.020373,0%,Netherlands
+2022,High income countries,0.038595,0%,Netherlands

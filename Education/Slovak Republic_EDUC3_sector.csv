@@ -1,50 +1,53 @@
-donor,year,Sector,Bilateral ODA for,share
-Slovak Republic,2023,Higher education,2.1909201726,68.03004976537694
-Slovak Republic,2023,Vocational training,0.3853415817,11.965204076153324
-Slovak Republic,2023,Education facilities and training,0.2577121958999999,8.002196397423212
-Slovak Republic,2023,Upper Secondary Education (modified and includes data from 11322),0.19463051789999997,6.043453332617367
-Slovak Republic,2023,Advanced technical and managerial training,0.1330193325,4.130370390899848
-Slovak Republic,2023,Education policy and administrative management,0.037892519099999994,1.1765969350902201
-Slovak Republic,2023,Basic life skills for adults,0.0075689087999999995,0.23502145298271807
-Slovak Republic,2023,Early childhood education,0.006790150199999999,0.2108402952318429
-Slovak Republic,2023,Primary education,0.0066428778,0.20626735422451406
-Slovak Republic,2022,Higher education,2.4695807517,61.79310702931589
-Slovak Republic,2022,Education facilities and training,0.6253398087,15.647064669616906
-Slovak Republic,2022,Upper Secondary Education (modified and includes data from 11322),0.4306010679,10.774370450274198
-Slovak Republic,2022,Vocational training,0.29194856610000003,7.3050492394929885
-Slovak Republic,2022,Primary education,0.0713590563,1.7855248508968522
-Slovak Republic,2022,Early childhood education,0.05618888339999999,1.4059413458757524
-Slovak Republic,2022,Education policy and administrative management,0.0273658896,0.684741061348645
-Slovak Republic,2022,Basic life skills for adults,0.0110063805,0.27539834353409914
-Slovak Republic,2022,Teacher training,0.0055349877,0.1384947980002702
-Slovak Republic,2022,Advanced technical and managerial training,0.0041068916999999995,0.10276140928018436
-Slovak Republic,2022,Educational research,0.0034988351999999997,0.08754680236421032
-Slovak Republic,2021,Higher education,1.8877454330999996,69.63810049059957
-Slovak Republic,2021,Upper Secondary Education (modified and includes data from 11322),0.3030665166,11.179990780678938
-Slovak Republic,2021,Education facilities and training,0.2325632022,8.579154456553951
-Slovak Republic,2021,Early childhood education,0.07580400509999999,2.796376477560831
-Slovak Republic,2021,Primary education,0.0736529355,2.717024464126964
-Slovak Republic,2021,Educational research,0.0389691696,1.4375555628724772
-Slovak Republic,2021,Vocational training,0.03224373,1.1894570478416913
-Slovak Republic,2021,Basic life skills for adults,0.0321087303,1.1844769681604164
-Slovak Republic,2021,Teacher training,0.023794533899999998,0.8777699120871884
-Slovak Republic,2021,Education policy and administrative management,0.010845719699999999,0.4000938395179612
-Slovak Republic,2020,Higher education,1.7544873408000001,66.09985611861576
-Slovak Republic,2020,Vocational training,0.6898395413999999,25.989526040512928
-Slovak Republic,2020,Education facilities and training,0.0992437464,3.738982439577595
-Slovak Republic,2020,Primary education,0.0892883553,3.3639156585231955
-Slovak Republic,2020,Upper Secondary Education (modified and includes data from 11322),0.0078645693,0.29629561130252796
-Slovak Republic,2020,Advanced technical and managerial training,0.0047026755000000005,0.17717208137894105
-Slovak Republic,2020,Education policy and administrative management,0.0036371819999999997,0.13702988974978594
-Slovak Republic,2020,Basic life skills for adults,0.002923134,0.11012831630197521
-Slovak Republic,2020,Early childhood education,0.0023117304,0.08709384403728726
-Slovak Republic,2019,Higher education,2.2458639347999996,55.83091224016874
-Slovak Republic,2019,Upper Secondary Education (modified and includes data from 11322),0.46049513370000006,11.447649609689739
-Slovak Republic,2019,Education facilities and training,0.31868296949999997,7.922279095761573
-Slovak Republic,2019,Vocational training,0.3009232569,7.480782645234388
-Slovak Republic,2019,Primary education,0.24553098329999995,6.1037619280730775
-Slovak Republic,2019,Education policy and administrative management,0.1918301109,4.768788491914358
-Slovak Republic,2019,Advanced technical and managerial training,0.1565494454999999,3.89173102498568
-Slovak Republic,2019,Basic life skills for adults,0.07457896649999998,1.853991094075244
-Slovak Republic,2019,Early childhood education,0.0181133895,0.4502886590217906
-Slovak Republic,2019,Teacher training,0.010049109899999999,0.24981521107540916
+"Year","Sector","Bilateral ODA for","Share","Donor"
+2018,"Education policy and administrative management",0.139557,"3%","Slovak Republic"
+2019,"Education policy and administrative management",0.179881,"5%","Slovak Republic"
+2020,"Education policy and administrative management",0.003411,"0%","Slovak Republic"
+2021,"Education policy and administrative management",0.010171,"0%","Slovak Republic"
+2022,"Education policy and administrative management",0.025699,"1%","Slovak Republic"
+2018,"Education facilities and training",0.624728,"14%","Slovak Republic"
+2019,"Education facilities and training",0.29883,"8%","Slovak Republic"
+2020,"Education facilities and training",0.093061,"4%","Slovak Republic"
+2021,"Education facilities and training",0.218085,"8%","Slovak Republic"
+2022,"Education facilities and training",0.587251,"15%","Slovak Republic"
+2019,"Teacher training",0.009422,"0%","Slovak Republic"
+2021,"Teacher training",0.022313,"1%","Slovak Republic"
+2022,"Teacher training",0.005197,"0%","Slovak Republic"
+2021,"Educational research",0.036542,"1%","Slovak Republic"
+2022,"Educational research",0.003286,"0%","Slovak Republic"
+2018,"Primary education",0.557572,"13%","Slovak Republic"
+2019,"Primary education",0.23024,"6%","Slovak Republic"
+2020,"Primary education",0.083724,"3%","Slovak Republic"
+2021,"Primary education",0.069069,"3%","Slovak Republic"
+2022,"Primary education",0.067014,"2%","Slovak Republic"
+2018,"Basic life skills for adults",0.065026,"1%","Slovak Republic"
+2019,"Basic life skills for adults",0.069931,"2%","Slovak Republic"
+2020,"Basic life skills for adults",0.002741,"0%","Slovak Republic"
+2021,"Basic life skills for adults",0.030109,"1%","Slovak Republic"
+2022,"Basic life skills for adults",0.010336,"0%","Slovak Republic"
+2018,"Early childhood education",0.034154,"1%","Slovak Republic"
+2019,"Early childhood education",0.016985,"0%","Slovak Republic"
+2020,"Early childhood education",0.002167,"0%","Slovak Republic"
+2021,"Early childhood education",0.071084,"3%","Slovak Republic"
+2022,"Early childhood education",0.052766,"1%","Slovak Republic"
+2018,"Upper Secondary Education (modified and includes data from 11322)",0.005383,"0%","Slovak Republic"
+2019,"Upper Secondary Education (modified and includes data from 11322)",0.431807,"11%","Slovak Republic"
+2020,"Upper Secondary Education (modified and includes data from 11322)",0.007374,"0%","Slovak Republic"
+2021,"Upper Secondary Education (modified and includes data from 11322)",0.284195,"11%","Slovak Republic"
+2022,"Upper Secondary Education (modified and includes data from 11322)",0.404373,"11%","Slovak Republic"
+2018,"Vocational training",0.658966,"15%","Slovak Republic"
+2019,"Vocational training",0.282178,"7%","Slovak Republic"
+2020,"Vocational training",0.646867,"25%","Slovak Republic"
+2021,"Vocational training",0.030236,"1%","Slovak Republic"
+2022,"Vocational training",0.274166,"7%","Slovak Republic"
+2018,"Higher education",2.23252,"51%","Slovak Republic"
+2019,"Higher education",2.105959,"56%","Slovak Republic"
+2020,"Higher education",1.645196,"65%","Slovak Republic"
+2021,"Higher education",1.770195,"69%","Slovak Republic"
+2022,"Higher education",2.319153,"61%","Slovak Republic"
+2018,"Advanced technical and managerial training",0.019999,"0%","Slovak Republic"
+2019,"Advanced technical and managerial training",0.146797,"4%","Slovak Republic"
+2020,"Advanced technical and managerial training",0.004409,"0%","Slovak Republic"
+2022,"Advanced technical and managerial training",0.003856,"0%","Slovak Republic"
+2020,"Lower secondary education",0.060539,"2%","Slovak Republic"
+2021,"Lower secondary education",0.029565,"1%","Slovak Republic"
+2022,"Lower secondary education",0.06611,"2%","Slovak Republic"

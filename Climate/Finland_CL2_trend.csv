@@ -1,6 +1,6 @@
-donor,Year,Climate Funding as % of bilateral allocable ODA,Funding for projects with climate change as a principal objective,Funding for projects with a significant climate change component,Principal,Significant,Not targeted and not screened
-Finland,2019,29.95648679940206,17.789843677305296,60.49370615055364,6.8075760291208764,23.14891077028118,70.04351320059794
-Finland,2020,29.855832049894353,43.87985856518099,90.33007536987066,9.76134664017602,20.094485409718335,70.14416795010564
-Finland,2021,32.59723478771655,70.5668372569089,163.44380850469898,9.829825283390722,22.767409504325826,67.40276521228346
-Finland,2022,29.05100781128651,76.28485809993487,41.56227133153438,18.805311756302327,10.245696054984181,70.94899218871349
-Finland,2023,45.36996656137688,111.44903973201828,39.76727179678052,33.438450884157724,11.93151567721915,54.63003343862313
+"Year","climate funding as a % of bilateral allocable ODA","Funding for projects with climate change as a principal objective","Funding for projects with a significant climate change component","Principal","Significant","Not targeted and not screened"
+"2018","22%",8,126,"1%","21%","78%"
+"2019","59%",76,137,"21%","38%","41%"
+"2020","28%",51,125,"8%","20%","72%"
+"2021","33%",88,222,"9%","24%","67%"
+"2022","23%",89,47,"15%","8%","77%"

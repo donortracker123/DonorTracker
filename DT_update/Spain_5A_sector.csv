@@ -1,116 +1,111 @@
-donor,Year,Sector,Bilateral ODA for,share
-Spain,2023,Refugees in donor countries,31898.378162599984,20.469302452123692
-Spain,2023,Emergency Response,20763.75791743001,13.324177131766445
-Spain,2023,Government & civil society,20309.41700439002,13.032624955728426
-Spain,2023,Donor administration costs,13954.35484192,8.954559016370863
-Spain,2023,Unspecified,12220.493022810002,7.841933734776951
-Spain,2023,Health & populations,9595.529869809996,6.157485565326263
-Spain,2023,Education,9002.182265429996,5.776732302217186
-Spain,2023,Other multisector,6665.506556569996,4.277279208602996
-Spain,2023,"Agriculture (incl. forestry, fishing, rural development)",5744.272799029999,3.686120237570985
-Spain,2023,Financial services & business support,5156.5727936700005,3.308991058792449
-Spain,2023,Water and sanitation,5066.28366731,3.251052206033854
-Spain,2023,Environmental protection,4359.624070600001,2.7975862353810776
-Spain,2023,Other social services,2795.603492790001,1.7939486809779448
-Spain,2023,Infrastructure,2591.365872139999,1.6628886751094132
-Spain,2023,"Conflict, peace & security",1794.75145361,1.151698376107575
-Spain,2023,Food aid and commodity assistance,1050.5395429000002,0.6741349523139247
-Spain,2023,"Industry, construction & mining",919.42295936,0.5899969754146425
-Spain,2023,Energy,694.0967097799999,0.4454043215328378
-Spain,2023,Reconstruction Relief & Rehabilitation,533.5129491,0.342357152504278
-Spain,2023,Disaster Prevention & Preparedness,377.40053876,0.24217926485461194
-Spain,2023,Tourism,231.71762739,0.14869402370104098
-Spain,2023,Trade policy,110.41465016000001,0.07085347279255685
-Spain,2022,Refugees in donor countries,98387.78921206002,40.35580585707479
-Spain,2022,Health & populations,29211.90167260003,11.981871348633817
-Spain,2022,Government & civil society,23255.048065930037,9.538543476394937
-Spain,2022,Emergency Response,18948.480577250008,7.772114909644925
-Spain,2022,"Conflict, peace & security",13415.993500760005,5.5028498295607955
-Spain,2022,Donor administration costs,12174.675186340011,4.993697207017426
-Spain,2022,Unspecified,10394.787376830007,4.263639061965059
-Spain,2022,"Agriculture (incl. forestry, fishing, rural development)",7753.444169130008,3.1802370001289293
-Spain,2022,Education,7433.571562630006,3.0490345723653807
-Spain,2022,Other multisector,5902.761027779997,2.421140671677963
-Spain,2022,Water and sanitation,4178.86380522,1.7140482348183883
-Spain,2022,Other social services,3225.5809591300012,1.3230393731315955
-Spain,2022,Environmental protection,2271.8743207500006,0.9318566841892457
-Spain,2022,Financial services & business support,2267.815481820002,0.9301918666628439
-Spain,2022,"Industry, construction & mining",1605.9231896300012,0.6587029242256687
-Spain,2022,Energy,1358.6333920999996,0.5572718509240153
-Spain,2022,Debt relief,729.59015471,0.29925663412610637
-Spain,2022,Reconstruction Relief & Rehabilitation,493.53285955999996,0.20243280618454
-Spain,2022,Tourism,303.67423905,0.12455832916910939
-Spain,2022,Trade policy,140.88398163000002,0.05778650640048192
-Spain,2022,Disaster Prevention & Preparedness,137.04034718,0.056209959484528324
-Spain,2022,Food aid and commodity assistance,109.41889556000001,0.04488044442992368
-Spain,2022,Infrastructure,98.29019896999998,0.04031577718183308
-Spain,2022,General budget support,1.25478096,0.0005146746076972217
-Spain,2021,Health & populations,45975.21678616993,29.89686199049088
-Spain,2021,Refugees in donor countries,23313.187985930006,15.160149587013699
-Spain,2021,Government & civil society,15681.04126206002,10.197100943742106
-Spain,2021,Emergency Response,14732.829605410021,9.580495846076369
-Spain,2021,Donor administration costs,11535.397587509999,7.50126293657784
-Spain,2021,Education,7199.142619119996,4.681473810873616
-Spain,2021,"Agriculture (incl. forestry, fishing, rural development)",7022.697615749997,4.566734777902891
-Spain,2021,Other multisector,5575.799147489986,3.625842557187255
-Spain,2021,Unspecified,5273.597280219992,3.429326082647053
-Spain,2021,"Conflict, peace & security",3850.897492730001,2.504169831653932
-Spain,2021,Water and sanitation,3056.959679920002,1.9878862580710241
-Spain,2021,Environmental protection,2778.636181510002,1.8068974601415826
-Spain,2021,Other social services,2547.5065699900006,1.656598003595944
-Spain,2021,Infrastructure,1564.6505715699996,1.017464309502561
-Spain,2021,Financial services & business support,1178.59195741,0.766417290812838
-Spain,2021,Food aid and commodity assistance,628.9546174,0.4089979495288919
-Spain,2021,"Industry, construction & mining",531.57296315,0.3456723997863239
-Spain,2021,Reconstruction Relief & Rehabilitation,485.90047648000007,0.3159723977811942
-Spain,2021,Debt relief,314.99568683,0.20483606680000022
-Spain,2021,Energy,189.32494811000004,0.12311463089618757
-Spain,2021,Tourism,125.24022129,0.08144147811157268
-Spain,2021,Trade policy,108.00292818000001,0.07023237439823617
-Spain,2021,Disaster Prevention & Preparedness,104.50997724000001,0.06796097081403057
-Spain,2021,General budget support,4.7518537599999995,0.0030900455939655447
-Spain,2020,Refugees in donor countries,20827.243130559997,18.783084436696814
-Spain,2020,Government & civil society,14184.750979299977,12.7925416574587
-Spain,2020,Donor administration costs,11784.077102679992,10.627489862227987
-Spain,2020,Emergency Response,11651.396490209976,10.507831627505592
-Spain,2020,Other multisector,10423.252399639996,9.40022780260196
-Spain,2020,Health & populations,9987.204626689992,9.006977381199052
-Spain,2020,Education,6503.233375640006,5.864952016955051
-Spain,2020,Unspecified,5899.0924639099985,5.320106514093597
-Spain,2020,"Agriculture (incl. forestry, fishing, rural development)",5727.1997294999965,5.165084760890922
-Spain,2020,Water and sanitation,2970.1631790900005,2.6786466856842845
-Spain,2020,Financial services & business support,2702.0141666799996,2.436816045395481
-Spain,2020,"Conflict, peace & security",2558.758163089999,2.30762037630827
-Spain,2020,Other social services,2366.3796760099995,2.1341235124182263
-Spain,2020,Food aid and commodity assistance,832.7922006900001,0.7510550544652062
-Spain,2020,Environmental protection,786.5903804200001,0.709387864726246
-Spain,2020,Infrastructure,587.3443322299998,0.5296974792359264
-Spain,2020,"Industry, construction & mining",514.25420907,0.4637810280668112
-Spain,2020,Reconstruction Relief & Rehabilitation,207.91377741999997,0.1875073917537469
-Spain,2020,Energy,175.44328292000003,0.15822382138048455
-Spain,2020,Disaster Prevention & Preparedness,84.8745209,0.0765442301986525
-Spain,2020,Tourism,61.07826383000002,0.05508353551999317
-Spain,2020,Trade policy,47.92020201,0.04321691521700678
-Spain,2019,Refugees in donor countries,33035.30484054998,27.749761060327767
-Spain,2019,Other multisector,14252.732924749998,11.972340955455655
-Spain,2019,Government & civil society,13450.086055640004,11.298115034395508
-Spain,2019,Donor administration costs,11624.074741200006,9.764259726756054
-Spain,2019,Emergency Response,7473.950713300009,6.278142353212463
-Spain,2019,Education,6359.342388669995,5.341867818025816
-Spain,2019,Unspecified,6304.429776580004,5.295741049344533
-Spain,2019,Health & populations,5327.3723674200055,4.475009720323097
-Spain,2019,"Agriculture (incl. forestry, fishing, rural development)",4975.587453040006,4.179509274185536
-Spain,2019,Environmental protection,3946.9854252900013,3.3154803017271104
-Spain,2019,Other social services,2689.0979929599985,2.25885086069648
-Spain,2019,Water and sanitation,2541.25533542,2.1346625584828134
-Spain,2019,"Conflict, peace & security",2446.007177600001,2.0546538031921098
-Spain,2019,Financial services & business support,1768.6422907299996,1.4856651453902903
-Spain,2019,Infrastructure,1179.6467196900005,0.9909069937449374
-Spain,2019,Food aid and commodity assistance,548.0274282699999,0.4603447815117916
-Spain,2019,"Industry, construction & mining",461.72110337,0.3878471942932157
-Spain,2019,Energy,324.63476490999994,0.27269423429295647
-Spain,2019,Trade policy,98.85044652,0.08303468924765767
-Spain,2019,Reconstruction Relief & Rehabilitation,87.77576799,0.07373192408442493
-Spain,2019,Disaster Prevention & Preparedness,83.61746207,0.07023893389551328
-Spain,2019,Tourism,68.02544191999996,0.057141587414265754
-Spain,2019,General budget support,0.0,0.0
+"Year","Sector","Bilateral ODA for","Share","Donor"
+"2018","Refugees in donor countries",290.042106,"25.16%","Spain"
+"2019","Refugees in donor countries",328.006986,"27.75%","Spain"
+"2020","Refugees in donor countries",206.613908,"18.78%","Spain"
+"2021","Refugees in donor countries",232.078762,"15.16%","Spain"
+"2022","Refugees in donor countries",990.181524,"40.42%","Spain"
+"2018","Health & populations",57.481963,"4.99%","Spain"
+"2019","Health & populations",52.895373,"4.48%","Spain"
+"2020","Health & populations",99.076735,"9.01%","Spain"
+"2021","Health & populations",457.675287,"29.90%","Spain"
+"2022","Health & populations",293.990564,"12.00%","Spain"
+"2018","Government & civil society",127.197636,"11.03%","Spain"
+"2019","Government & civil society",133.54567,"11.30%","Spain"
+"2020","Government & civil society",140.717952,"12.79%","Spain"
+"2021","Government & civil society",156.102035,"10.20%","Spain"
+"2022","Government & civil society",233.351598,"9.53%","Spain"
+"2018","Humanitarian aid",69.916861,"6.06%","Spain"
+"2019","Humanitarian aid",75.910488,"6.42%","Spain"
+"2020","Humanitarian aid",118.490746,"10.77%","Spain"
+"2021","Humanitarian aid",152.540143,"9.96%","Spain"
+"2022","Humanitarian aid",197.044932,"8.04%","Spain"
+"2018","Conflict, peace & security",25.559152,"2.22%","Spain"
+"2019","Conflict, peace & security",24.286359,"2.05%","Spain"
+"2020","Conflict, peace & security",25.383829,"2.31%","Spain"
+"2021","Conflict, peace & security",38.335021,"2.50%","Spain"
+"2022","Conflict, peace & security",135.019489,"5.51%","Spain"
+"2018","Donor administration costs",115.668565,"10.03%","Spain"
+"2019","Donor administration costs",115.415244,"9.76%","Spain"
+"2020","Donor administration costs",116.902386,"10.63%","Spain"
+"2021","Donor administration costs",114.832891,"7.50%","Spain"
+"2022","Donor administration costs",122.526776,"5.00%","Spain"
+"2018","Unspecified",131.445818,"11.40%","Spain"
+"2019","Unspecified",62.59662,"5.30%","Spain"
+"2020","Unspecified",58.521167,"5.32%","Spain"
+"2021","Unspecified",52.497758,"3.43%","Spain"
+"2022","Unspecified",101.414651,"4.14%","Spain"
+"2018","Agriculture (incl. forestry, fishing, rural development)",67.93604,"5.89%","Spain"
+"2019","Agriculture (incl. forestry, fishing, rural development)",59.710675,"5.05%","Spain"
+"2020","Agriculture (incl. forestry, fishing, rural development)",66.851795,"6.08%","Spain"
+"2021","Agriculture (incl. forestry, fishing, rural development)",81.391383,"5.32%","Spain"
+"2022","Agriculture (incl. forestry, fishing, rural development)",90.196414,"3.68%","Spain"
+"2018","Education",64.297754,"5.58%","Spain"
+"2019","Education",63.141831,"5.34%","Spain"
+"2020","Education",64.514499,"5.86%","Spain"
+"2021","Education",71.666212,"4.68%","Spain"
+"2022","Education",74.811942,"3.05%","Spain"
+"2018","Other multisector",64.013945,"5.55%","Spain"
+"2019","Other multisector",131.206983,"11.10%","Spain"
+"2020","Other multisector",93.366642,"8.49%","Spain"
+"2021","Other multisector",44.024457,"2.88%","Spain"
+"2022","Other multisector",47.240556,"1.93%","Spain"
+"2018","Water and sanitation",58.72076,"5.09%","Spain"
+"2019","Water and sanitation",25.232078,"2.13%","Spain"
+"2020","Water and sanitation",29.465113,"2.68%","Spain"
+"2021","Water and sanitation",30.431488,"1.99%","Spain"
+"2022","Water and sanitation",42.056363,"1.72%","Spain"
+"2018","Other social services",29.421502,"2.55%","Spain"
+"2019","Other social services",26.700014,"2.26%","Spain"
+"2020","Other social services",23.475365,"2.13%","Spain"
+"2021","Other social services",25.360001,"1.66%","Spain"
+"2022","Other social services",32.462477,"1.33%","Spain"
+"2018","Environmental protection",9.706135,"0.84%","Spain"
+"2019","Environmental protection",39.189554,"3.32%","Spain"
+"2020","Environmental protection",7.803257,"0.71%","Spain"
+"2021","Environmental protection",27.660841,"1.81%","Spain"
+"2022","Environmental protection",22.864299,"0.93%","Spain"
+"2018","Financial services & business support",6.979652,"0.61%","Spain"
+"2019","Financial services & business support",17.560818,"1.49%","Spain"
+"2020","Financial services & business support",26.804977,"2.44%","Spain"
+"2021","Financial services & business support",11.732676,"0.77%","Spain"
+"2022","Financial services & business support",22.823456,"0.93%","Spain"
+"2018","Industry, construction & mining",5.215425,"0.45%","Spain"
+"2019","Industry, construction & mining",4.584421,"0.39%","Spain"
+"2020","Industry, construction & mining",5.101591,"0.46%","Spain"
+"2021","Industry, construction & mining",5.291716,"0.35%","Spain"
+"2022","Industry, construction & mining",16.162117,"0.66%","Spain"
+"2018","Energy",7.028218,"0.61%","Spain"
+"2019","Energy",3.223295,"0.27%","Spain"
+"2020","Energy",1.740459,"0.16%","Spain"
+"2021","Energy",1.884698,"0.12%","Spain"
+"2022","Energy",13.673375,"0.56%","Spain"
+"2018","Debt relief",5.577256,"0.48%","Spain"
+"2019","Debt relief",0,"0.00%","Spain"
+"2020","Debt relief",0,"0.00%","Spain"
+"2021","Debt relief",3.135727,"0.20%","Spain"
+"2022","Debt relief",7.239575,"0.30%","Spain"
+"2018","Tourism",1.584541,"0.14%","Spain"
+"2019","Tourism",0.675418,"0.06%","Spain"
+"2020","Tourism",0.605902,"0.06%","Spain"
+"2021","Tourism",1.246743,"0.08%","Spain"
+"2022","Tourism",3.056197,"0.12%","Spain"
+"2018","Trade policy",0.775448,"0.07%","Spain"
+"2019","Trade policy",0.981484,"0.08%","Spain"
+"2020","Trade policy",0.475385,"0.04%","Spain"
+"2021","Trade policy",1.07515,"0.07%","Spain"
+"2022","Trade policy",1.417868,"0.06%","Spain"
+"2018","Food aid and commodity assistance",4.356456,"0.38%","Spain"
+"2019","Food aid and commodity assistance",5.441356,"0.46%","Spain"
+"2020","Food aid and commodity assistance",8.261606,"0.75%","Spain"
+"2021","Food aid and commodity assistance",6.261131,"0.41%","Spain"
+"2022","Food aid and commodity assistance",1.101198,"0.04%","Spain"
+"2018","Infrastructure",9.964004,"0.86%","Spain"
+"2019","Infrastructure",11.712692,"0.99%","Spain"
+"2020","Infrastructure",5.82667,"0.53%","Spain"
+"2021","Infrastructure",15.575827,"1.02%","Spain"
+"2022","Infrastructure",0.989198,"0.04%","Spain"
+"2018","General budget support",0.080749,"0.01%","Spain"
+"2019","General budget support",0,"0.00%","Spain"
+"2020","General budget support",0,"0.00%","Spain"
+"2021","General budget support",0.047304,"0.00%","Spain"
+"2022","General budget support",0.012628,"0.00%","Spain"

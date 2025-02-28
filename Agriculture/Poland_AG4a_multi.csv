@@ -1,48 +1,66 @@
-Year,ODA,Share,Full Name,donor
-2023,3.0196,0.05417265425553863,food and agricultural organisation,Poland
-2023,0.7346000000000001,0.013178974637739664,international development association,Poland
-2023,0.0,0.0,united nations children’s fund,Poland
-2023,4.9115,0.08811398575178103,international finance corporation,Poland
-2023,1.8900999999999994,0.03390903888210145,european commission european development fund,Poland
-2023,0.043800000000000006,0.000785786944096103,united nations,Poland
-2023,0.030299999999999997,0.0005435923380390848,united nations industrial development organisation,Poland
-2023,45.0446,0.808115492740441,european commission development share of budget,Poland
-2023,0.0389,0.000697879272268,world organisation for animal health,Poland
-2023,0.0269,0.0004825951779950951,world health organisation assessed contributions,Poland
-2021,1.0944,0.020405651828565675,international bank for reconstruction and development,Poland
-2021,12.611899999999997,0.23515537307811343,european commission european development fund,Poland
-2021,0.0157,0.0002927345885494162,world health organisation assessed contributions,Poland
-2021,36.19360000000001,0.6748483187338951,european commission development share of budget,Poland
-2021,0.0361,0.0006731030985117149,world organisation for animal health,Poland
-2021,0.0072,0.00013424770939845837,united nations industrial development organisation,Poland
-2021,2.7141999999999995,0.050607657340179954,food and agricultural organisation,Poland
-2021,0.0002,3.7291030388460663e-06,council of europe development bank,Poland
-2021,0.9589,0.017879184519747463,international development association,Poland
-2022,48.3943,0.8307563691670687,european commission development share of budget,Poland
-2022,5.1347999999999985,0.08814607927791213,european commission european development fund,Poland
-2022,0.0387,0.0006643400459716446,world organisation for animal health,Poland
-2022,0.0277,0.00047550954194869647,world health organisation assessed contributions,Poland
-2022,0.0,0.0,council of europe development bank,Poland
-2022,0.7925000000000001,0.013604379494380578,international development association,Poland
-2022,0.0195,0.000334744984404317,united nations,Poland
-2022,1.2270999999999999,0.021064901044232687,international bank for reconstruction and development,Poland
-2022,2.6049999999999995,0.04471849663452542,food and agricultural organisation,Poland
-2022,0.0137,0.0002351798095558535,united nations industrial development organisation,Poland
-2019,17.579299999999996,0.3161136256152143,european commission european development fund,Poland
-2019,0.6537000000000001,0.01175493205444276,adaptation fund,Poland
-2019,31.07319999999999,0.5587629718741175,european commission development share of budget,Poland
-2019,0.0033,5.934109802609929e-05,united nations economic commission for europe extrabudgetary contributions only,Poland
-2019,0.0007,1.258750564189985e-05,council of europe development bank,Poland
-2019,2.1972999999999994,0.039512180209923614,international development association,Poland
-2019,0.5268,0.009472997103075488,green climate fund,Poland
-2019,1.3422999999999996,0.024137441175888806,international bank for reconstruction and development,Poland
-2019,1.9638999999999998,0.035315146185895874,food and agricultural organisation,Poland
-2019,0.2702,0.004858777177773342,asian infrastructure investment bank,Poland
-2020,1.0512999999999997,0.01972560895523508,international development association,Poland
-2020,1.1534000000000002,0.02164131776749563,international bank for reconstruction and development,Poland
-2020,0.0061,0.00011445468907727008,world health organisation assessed contributions,Poland
-2020,16.266199999999998,0.30520374810962136,european commission european development fund,Poland
-2020,0.0007,1.3134144648211322e-05,united nations industrial development organisation,Poland
-2020,32.34729999999999,0.6069344531129799,european commission development share of budget,Poland
-2020,2.4706,0.0463560253826727,food and agricultural organisation,Poland
-2020,0.0006000000000000001,1.1257838269895419e-05,council of europe development bank,Poland
+"Year","Multi_short","ODA","Share","Full Name","Donor"
+"2018","EC - Development Share of Budget","37.6","48.5%","european commission development share of budget","Poland"
+"2019","EC - Development Share of Budget","34.8","56.7%","european commission development share of budget","Poland"
+"2020","EC - Development Share of Budget","37.4","71.7%","european commission development share of budget","Poland"
+"2021","EC - Development Share of Budget","42.6","83.5%","european commission development share of budget","Poland"
+"2022","EC - Development Share of Budget","55.2","85.8%","european commission development share of budget","Poland"
+"2018","FAO","2.4","3.1%","food and agricultural organisation","Poland"
+"2019","FAO","1.7","2.8%","food and agricultural organisation","Poland"
+"2020","FAO","2.2","4.2%","food and agricultural organisation","Poland"
+"2021","FAO","2.4","4.7%","food and agricultural organisation","Poland"
+"2022","FAO","2.3","3.6%","food and agricultural organisation","Poland"
+"2018","IBRD","NA","NA%","international bank for reconstruction and development","Poland"
+"2019","IBRD","1.2","1.9%","international bank for reconstruction and development","Poland"
+"2020","IBRD","1","2%","international bank for reconstruction and development","Poland"
+"2021","IBRD","1","1.9%","international bank for reconstruction and development","Poland"
+"2022","IBRD","1.1","1.7%","international bank for reconstruction and development","Poland"
+"2018","IDA","NA","NA%","international development association","Poland"
+"2019","IDA","1.9","3.2%","international development association","Poland"
+"2020","IDA","0.9","1.8%","international development association","Poland"
+"2021","IDA","0.9","1.7%","international development association","Poland"
+"2022","IDA","0.7","1.1%","international development association","Poland"
+"2018",NA,"NA","NA%","world organisation for animal health","Poland"
+"2019",NA,"NA","NA%","world organisation for animal health","Poland"
+"2020",NA,"NA","NA%","world organisation for animal health","Poland"
+"2021",NA,"0","0.1%","world organisation for animal health","Poland"
+"2022",NA,"0","0.1%","world organisation for animal health","Poland"
+"2018","WHO - assessed contributions","NA","NA%","world health organisation assessed contributions","Poland"
+"2019","WHO - assessed contributions","NA","NA%","world health organisation assessed contributions","Poland"
+"2020","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Poland"
+"2021","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Poland"
+"2022","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Poland"
+"2018","UN","NA","NA%","united nations","Poland"
+"2019","UN","NA","NA%","united nations","Poland"
+"2020","UN","NA","NA%","united nations","Poland"
+"2021","UN","NA","NA%","united nations","Poland"
+"2022","UN","0","0%","united nations","Poland"
+"2018","UNIDO","NA","NA%","united nations industrial development organisation","Poland"
+"2019","UNIDO","NA","NA%","united nations industrial development organisation","Poland"
+"2020","UNIDO","0","0%","united nations industrial development organisation","Poland"
+"2021","UNIDO","0","0%","united nations industrial development organisation","Poland"
+"2022","UNIDO","0","0%","united nations industrial development organisation","Poland"
+"2018","CEB","0","0%","council of europe development bank","Poland"
+"2019","CEB","0","0%","council of europe development bank","Poland"
+"2020","CEB","0","0%","council of europe development bank","Poland"
+"2021","CEB","0","0%","council of europe development bank","Poland"
+"2022","CEB","0","0%","council of europe development bank","Poland"
+"2018","UNECE","0","0%","united nations economic commission for europe extrabudgetary contributions only","Poland"
+"2019","UNECE","0","0%","united nations economic commission for europe extrabudgetary contributions only","Poland"
+"2020","UNECE","NA","NA%","united nations economic commission for europe extrabudgetary contributions only","Poland"
+"2021","UNECE","NA","NA%","united nations economic commission for europe extrabudgetary contributions only","Poland"
+"2022","UNECE","NA","NA%","united nations economic commission for europe extrabudgetary contributions only","Poland"
+"2018",NA,"0.1","0.2%","asian infrastructure investment bank","Poland"
+"2019",NA,"0.2","0.4%","asian infrastructure investment bank","Poland"
+"2020",NA,"NA","NA%","asian infrastructure investment bank","Poland"
+"2021",NA,"NA","NA%","asian infrastructure investment bank","Poland"
+"2022",NA,"NA","NA%","asian infrastructure investment bank","Poland"
+"2018","Adaptation Fund","NA","NA%","adaptation fund","Poland"
+"2019","Adaptation Fund","0.6","0.9%","adaptation fund","Poland"
+"2020","Adaptation Fund","NA","NA%","adaptation fund","Poland"
+"2021","Adaptation Fund","NA","NA%","adaptation fund","Poland"
+"2022","Adaptation Fund","NA","NA%","adaptation fund","Poland"
+"2018","GCF","NA","NA%","green climate fund","Poland"
+"2019","GCF","0.5","0.8%","green climate fund","Poland"
+"2020","GCF","NA","NA%","green climate fund","Poland"
+"2021","GCF","NA","NA%","green climate fund","Poland"
+"2022","GCF","NA","NA%","green climate fund","Poland"
