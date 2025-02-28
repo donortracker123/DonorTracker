@@ -1,113 +1,111 @@
-donor,Year,Sector,Bilateral ODA for,share
-EU Institutions,2023,General budget support,2066831.2767226489,51.57041361005074
-EU Institutions,2023,Emergency Response,299821.6355688899,7.480981118133338
-EU Institutions,2023,Government & civil society,224379.7477255805,5.598597488942397
-EU Institutions,2023,Infrastructure,191955.3645412801,4.789562484151567
-EU Institutions,2023,Education,150090.03430920004,3.7449622691726003
-EU Institutions,2023,Energy,138369.50919783002,3.452518306993559
-EU Institutions,2023,Other multisector,136811.6196448501,3.4136467215328694
-EU Institutions,2023,Health & populations,111137.77123856999,2.7730472704866873
-EU Institutions,2023,Donor administration costs,107879.75755073999,2.691755142135009
-EU Institutions,2023,Other social services,96848.62373016005,2.4165124843902546
-EU Institutions,2023,"Agriculture (incl. forestry, fishing, rural development)",86521.12835075997,2.158826617977357
-EU Institutions,2023,"Conflict, peace & security",84493.34637128998,2.108230540508423
-EU Institutions,2023,Financial services & business support,75583.55027097,1.8859183105506332
-EU Institutions,2023,Water and sanitation,66574.11753971998,1.661120003318107
-EU Institutions,2023,Environmental protection,55781.08090847998,1.3918182129639023
-EU Institutions,2023,"Industry, construction & mining",37320.80797809001,0.9312078471849325
-EU Institutions,2023,Unspecified,25903.881121679988,0.6463390982107172
-EU Institutions,2023,Reconstruction Relief & Rehabilitation,25620.538885560003,0.6392693018153993
-EU Institutions,2023,Trade policy,12229.370843669998,0.3051403952038162
-EU Institutions,2023,Disaster Prevention & Preparedness,8704.222515719997,0.21718287329258015
-EU Institutions,2023,Food aid and commodity assistance,3665.29037013,0.0914542674660255
-EU Institutions,2023,Tourism,1262.2773411,0.0314956355190949
-EU Institutions,2022,General budget support,972143.1179716502,29.31164435862343
-EU Institutions,2022,Emergency Response,308630.1628725291,9.305684940031034
-EU Institutions,2022,Other multisector,276747.82883180963,8.344382412195154
-EU Institutions,2022,Infrastructure,236230.3222830899,7.122715848600858
-EU Institutions,2022,Government & civil society,230304.59510715023,6.944045852037205
-EU Institutions,2022,Financial services & business support,167908.7057619601,5.062711628592577
-EU Institutions,2022,Health & populations,167000.0419917897,5.0353139864343195
-EU Institutions,2022,Energy,147485.96387919007,4.4469338322689955
-EU Institutions,2022,Education,143628.9759947698,4.330639579834712
-EU Institutions,2022,"Agriculture (incl. forestry, fishing, rural development)",123494.85174680999,3.723564059246863
-EU Institutions,2022,Donor administration costs,110869.13880800991,3.3428789516792237
-EU Institutions,2022,Other social services,99337.11292647003,2.99517022944971
-EU Institutions,2022,Water and sanitation,96799.36915007999,2.918653262275105
-EU Institutions,2022,"Conflict, peace & security",87407.30592818992,2.635467780770954
-EU Institutions,2022,Environmental protection,55922.78515868999,1.6861599488924508
-EU Institutions,2022,"Industry, construction & mining",55640.41027271999,1.6776459018551906
-EU Institutions,2022,Trade policy,12370.052776949995,0.3729765514895454
-EU Institutions,2022,Unspecified,7996.516315560002,0.24110754683803656
-EU Institutions,2022,Reconstruction Relief & Rehabilitation,5658.432958349999,0.17061065540259826
-EU Institutions,2022,Disaster Prevention & Preparedness,5469.82640208,0.16492387101983608
-EU Institutions,2022,Food aid and commodity assistance,4476.806657189999,0.13498276351702548
-EU Institutions,2022,Tourism,1054.20830814,0.03178603894514934
-EU Institutions,2021,Emergency Response,288977.8622098484,11.869529454653083
-EU Institutions,2021,Other multisector,240790.97565756057,9.890292481666316
-EU Institutions,2021,Government & civil society,229833.4612570198,9.440221535288574
-EU Institutions,2021,General budget support,215165.42968941,8.83774412957264
-EU Institutions,2021,Financial services & business support,210122.43163155002,8.630607106930885
-EU Institutions,2021,Health & populations,190785.95563896012,7.83637716285105
-EU Institutions,2021,Infrastructure,167998.24469124002,6.900390564328603
-EU Institutions,2021,"Industry, construction & mining",124036.55761959005,5.094700205963818
-EU Institutions,2021,"Agriculture (incl. forestry, fishing, rural development)",109232.08242678,4.486618489883661
-EU Institutions,2021,Education,106356.81068396989,4.368519053544716
-EU Institutions,2021,Donor administration costs,104606.73967004994,4.29663631730808
-EU Institutions,2021,Energy,98374.85567675997,4.040666776767215
-EU Institutions,2021,"Conflict, peace & security",89278.62105771012,3.6670463758423724
-EU Institutions,2021,Other social services,64988.10715589995,2.6693333745024033
-EU Institutions,2021,Environmental protection,56012.63335758003,2.3006731255686548
-EU Institutions,2021,Water and sanitation,54283.371506459946,2.2296451086828055
-EU Institutions,2021,Debt relief,21869.077550669997,0.8982544827093806
-EU Institutions,2021,Trade policy,17246.66128614001,0.708392513408549
-EU Institutions,2021,Disaster Prevention & Preparedness,14430.426689430005,0.5927179795835728
-EU Institutions,2021,Unspecified,11058.074712360001,0.45420137897898216
-EU Institutions,2021,Reconstruction Relief & Rehabilitation,9026.638854210003,0.3707618117776711
-EU Institutions,2021,Food aid and commodity assistance,7615.078256429997,0.3127831141561531
-EU Institutions,2021,Tourism,2529.2641185899997,0.10388745603080334
-EU Institutions,2020,Government & civil society,357685.08427143015,13.910120766535762
-EU Institutions,2020,General budget support,337608.7078401,13.12936464056235
-EU Institutions,2020,Financial services & business support,292589.8635903299,11.378613525067248
-EU Institutions,2020,Emergency Response,252352.83264066,9.813823757730978
-EU Institutions,2020,Energy,167590.2562651801,6.517466918397678
-EU Institutions,2020,Education,155913.71761340994,6.063374561954905
-EU Institutions,2020,Other social services,138915.74222586,5.402335282363375
-EU Institutions,2020,Infrastructure,126253.8683154,4.909923932351664
-EU Institutions,2020,Other multisector,118926.92787507002,4.624984383972667
-EU Institutions,2020,"Agriculture (incl. forestry, fishing, rural development)",111185.78298282006,4.323936716464299
-EU Institutions,2020,Health & populations,105757.63932393002,4.112840036302015
-EU Institutions,2020,"Conflict, peace & security",96114.61440495009,3.7378295953412297
-EU Institutions,2020,Water and sanitation,73330.78046193003,2.851782355441213
-EU Institutions,2020,Donor administration costs,69265.85466096003,2.6937002567323063
-EU Institutions,2020,"Industry, construction & mining",54706.58898948,2.127500678757503
-EU Institutions,2020,Environmental protection,43931.07513764998,1.708448541580066
-EU Institutions,2020,Trade policy,17619.29097309,0.68520180469821
-EU Institutions,2020,Food aid and commodity assistance,17505.638356409992,0.6807819345583302
-EU Institutions,2020,Disaster Prevention & Preparedness,15528.379972679997,0.6038877499424066
-EU Institutions,2020,Unspecified,13814.871426899994,0.5372506105860347
-EU Institutions,2020,Reconstruction Relief & Rehabilitation,3960.6066738900004,0.1540252013996489
-EU Institutions,2020,Tourism,843.59331387,0.03280674926010912
-EU Institutions,2020,Debt relief,0.0,0.0
-EU Institutions,2019,Government & civil society,262004.37176178003,13.29500024042709
-EU Institutions,2019,Other multisector,220779.04017168016,11.203085553215685
-EU Institutions,2019,Emergency Response,217632.14454536984,11.043401278380628
-EU Institutions,2019,Financial services & business support,207492.06883085973,10.528859066142525
-EU Institutions,2019,Infrastructure,161788.41150164988,8.209698774677188
-EU Institutions,2019,Education,110620.84832262006,5.6132811645703296
-EU Institutions,2019,"Agriculture (incl. forestry, fishing, rural development)",108511.19517104987,5.506230129624832
-EU Institutions,2019,Energy,102373.9850471401,5.194807043344733
-EU Institutions,2019,"Conflict, peace & security",87328.97457326998,4.43137162231597
-EU Institutions,2019,Donor administration costs,85720.91718779998,4.349773276522401
-EU Institutions,2019,Water and sanitation,77791.17660228012,3.9473910480042207
-EU Institutions,2019,Health & populations,74102.04086084994,3.7601916503778443
-EU Institutions,2019,General budget support,62395.968536459986,3.1661854003266985
-EU Institutions,2019,Other social services,53883.867843809996,2.7342522230504946
-EU Institutions,2019,Environmental protection,45471.17489868,2.3073633357542325
-EU Institutions,2019,"Industry, construction & mining",30877.080167970013,1.5668089257308004
-EU Institutions,2019,Trade policy,18494.615435850006,0.93848020555091
-EU Institutions,2019,Unspecified,12461.839586819995,0.63235647248503
-EU Institutions,2019,Disaster Prevention & Preparedness,11209.968673829999,0.5688322496742809
-EU Institutions,2019,Food aid and commodity assistance,9711.47713581,0.49279365068339176
-EU Institutions,2019,Reconstruction Relief & Rehabilitation,8224.73110791,0.41735105915153564
-EU Institutions,2019,Tourism,1822.61293299,0.09248562998918008
+"Year","Sector","Bilateral ODA for","Share","Donor"
+"2018","General budget support",606.369909,"2.91%","EU Institutions"
+"2019","General budget support",616.145501,"3.17%","EU Institutions"
+"2020","General budget support",3335.029153,"13.13%","EU Institutions"
+"2021","General budget support",2129.257309,"8.84%","EU Institutions"
+"2022","General budget support",9625.726805,"29.31%","EU Institutions"
+"2018","Humanitarian aid",2126.14769,"10.20%","EU Institutions"
+"2019","Humanitarian aid",2340.979255,"12.03%","EU Institutions"
+"2020","Humanitarian aid",2685.35846,"10.57%","EU Institutions"
+"2021","Humanitarian aid",3091.827362,"12.83%","EU Institutions"
+"2022","Humanitarian aid",3166.105098,"9.64%","EU Institutions"
+"2018","Infrastructure",2388.982972,"11.47%","EU Institutions"
+"2019","Infrastructure",1597.622494,"8.21%","EU Institutions"
+"2020","Infrastructure",1247.18446,"4.91%","EU Institutions"
+"2021","Infrastructure",1662.495172,"6.90%","EU Institutions"
+"2022","Infrastructure",2339.04708,"7.12%","EU Institutions"
+"2018","Government & civil society",2993.022146,"14.37%","EU Institutions"
+"2019","Government & civil society",2587.231465,"13.30%","EU Institutions"
+"2020","Government & civil society",3533.351315,"13.91%","EU Institutions"
+"2021","Government & civil society",2274.410857,"9.44%","EU Institutions"
+"2022","Government & civil society",2280.373242,"6.94%","EU Institutions"
+"2018","Other multisector",1204.721071,"5.78%","EU Institutions"
+"2019","Other multisector",1859.512474,"9.56%","EU Institutions"
+"2020","Other multisector",927.894862,"3.65%","EU Institutions"
+"2021","Other multisector",1995.399844,"8.28%","EU Institutions"
+"2022","Other multisector",2274.414369,"6.93%","EU Institutions"
+"2018","Agriculture (incl. forestry, fishing, rural development)",1544.920433,"7.42%","EU Institutions"
+"2019","Agriculture (incl. forestry, fishing, rural development)",1392.151101,"7.15%","EU Institutions"
+"2020","Agriculture (incl. forestry, fishing, rural development)",1345.24735,"5.30%","EU Institutions"
+"2021","Agriculture (incl. forestry, fishing, rural development)",1468.396158,"6.09%","EU Institutions"
+"2022","Agriculture (incl. forestry, fishing, rural development)",1688.609818,"5.14%","EU Institutions"
+"2018","Financial services & business support",1754.413718,"8.42%","EU Institutions"
+"2019","Financial services & business support",2048.935331,"10.53%","EU Institutions"
+"2020","Financial services & business support",2890.315624,"11.38%","EU Institutions"
+"2021","Financial services & business support",2079.352257,"8.63%","EU Institutions"
+"2022","Financial services & business support",1662.556985,"5.06%","EU Institutions"
+"2018","Health & populations",575.390024,"2.76%","EU Institutions"
+"2019","Health & populations",731.740213,"3.76%","EU Institutions"
+"2020","Health & populations",1044.714779,"4.11%","EU Institutions"
+"2021","Health & populations",1888.000268,"7.84%","EU Institutions"
+"2022","Health & populations",1653.559786,"5.04%","EU Institutions"
+"2018","Energy",1630.771404,"7.83%","EU Institutions"
+"2019","Energy",1010.919006,"5.19%","EU Institutions"
+"2020","Energy",1655.521249,"6.52%","EU Institutions"
+"2021","Energy",973.508522,"4.04%","EU Institutions"
+"2022","Energy",1460.340108,"4.45%","EU Institutions"
+"2018","Education",1270.18648,"6.10%","EU Institutions"
+"2019","Education",1092.354824,"5.61%","EU Institutions"
+"2020","Education",1540.1759,"6.06%","EU Institutions"
+"2021","Education",1052.497274,"4.37%","EU Institutions"
+"2022","Education",1422.149975,"4.33%","EU Institutions"
+"2018","Donor administration costs",838.246056,"4.02%","EU Institutions"
+"2019","Donor administration costs",846.473876,"4.35%","EU Institutions"
+"2020","Donor administration costs",684.234853,"2.69%","EU Institutions"
+"2021","Donor administration costs",1035.17869,"4.30%","EU Institutions"
+"2022","Donor administration costs",1097.77664,"3.34%","EU Institutions"
+"2018","Other social services",556.316177,"2.67%","EU Institutions"
+"2019","Other social services",532.090513,"2.73%","EU Institutions"
+"2020","Other social services",1372.263355,"5.40%","EU Institutions"
+"2021","Other social services",643.116327,"2.67%","EU Institutions"
+"2022","Other social services",983.591705,"3.00%","EU Institutions"
+"2018","Water and sanitation",708.430897,"3.40%","EU Institutions"
+"2019","Water and sanitation",768.169569,"3.95%","EU Institutions"
+"2020","Water and sanitation",724.389744,"2.85%","EU Institutions"
+"2021","Water and sanitation",537.183269,"2.23%","EU Institutions"
+"2022","Water and sanitation",958.46409,"2.92%","EU Institutions"
+"2018","Conflict, peace & security",856.641951,"4.11%","EU Institutions"
+"2019","Conflict, peace & security",862.353066,"4.43%","EU Institutions"
+"2020","Conflict, peace & security",949.457256,"3.74%","EU Institutions"
+"2021","Conflict, peace & security",883.493034,"3.67%","EU Institutions"
+"2022","Conflict, peace & security",865.468073,"2.64%","EU Institutions"
+"2018","Environmental protection",405.710355,"1.95%","EU Institutions"
+"2019","Environmental protection",449.017155,"2.31%","EU Institutions"
+"2020","Environmental protection",433.968114,"1.71%","EU Institutions"
+"2021","Environmental protection",554.295871,"2.30%","EU Institutions"
+"2022","Environmental protection",553.722429,"1.69%","EU Institutions"
+"2018","Industry, construction & mining",749.797256,"3.60%","EU Institutions"
+"2019","Industry, construction & mining",304.903896,"1.57%","EU Institutions"
+"2020","Industry, construction & mining",540.41279,"2.13%","EU Institutions"
+"2021","Industry, construction & mining",1227.454368,"5.09%","EU Institutions"
+"2022","Industry, construction & mining",550.926493,"1.68%","EU Institutions"
+"2018","Trade policy",201.34572,"0.97%","EU Institutions"
+"2019","Trade policy",182.629983,"0.94%","EU Institutions"
+"2020","Trade policy",174.050175,"0.69%","EU Institutions"
+"2021","Trade policy",170.671381,"0.71%","EU Institutions"
+"2022","Trade policy",122.48273,"0.37%","EU Institutions"
+"2018","Unspecified",60.160116,"0.29%","EU Institutions"
+"2019","Unspecified",123.057736,"0.63%","EU Institutions"
+"2020","Unspecified",136.468636,"0.54%","EU Institutions"
+"2021","Unspecified",109.429694,"0.45%","EU Institutions"
+"2022","Unspecified",79.177938,"0.24%","EU Institutions"
+"2018","Food aid and commodity assistance",347.453978,"1.67%","EU Institutions"
+"2019","Food aid and commodity assistance",95.898548,"0.49%","EU Institutions"
+"2020","Food aid and commodity assistance",172.927453,"0.68%","EU Institutions"
+"2021","Food aid and commodity assistance",75.358108,"0.31%","EU Institutions"
+"2022","Food aid and commodity assistance",44.327334,"0.13%","EU Institutions"
+"2018","Tourism",15.540842,"0.07%","EU Institutions"
+"2019","Tourism",17.997876,"0.09%","EU Institutions"
+"2020","Tourism",8.333339,"0.03%","EU Institutions"
+"2021","Tourism",25.029368,"0.10%","EU Institutions"
+"2022","Tourism",10.438298,"0.03%","EU Institutions"
+"2018","Debt relief",0,"0.00%","EU Institutions"
+"2019","Debt relief",0,"0.00%","EU Institutions"
+"2020","Debt relief",0,"0.00%","EU Institutions"
+"2021","Debt relief",216.41438,"0.90%","EU Institutions"
+"2022","Debt relief",0,"0.00%","EU Institutions"
+"2018","Refugees in donor countries",0,"0.00%","EU Institutions"
+"2019","Refugees in donor countries",0,"0.00%","EU Institutions"
+"2020","Refugees in donor countries",0,"0.00%","EU Institutions"
+"2021","Refugees in donor countries",0,"0.00%","EU Institutions"
+"2022","Refugees in donor countries",0,"0.00%","EU Institutions"

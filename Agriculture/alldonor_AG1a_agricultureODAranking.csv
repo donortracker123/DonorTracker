@@ -1,31 +1,32 @@
-Donor,year,"ODA towards Agriculture (incl. forestry, fishing, rural development)",Ranking
-Germany,2023,2075.7907286433065,1st
-United States,2023,1952.337546723209,2nd
-Japan,2023,1837.0033614335878,3rd
-United Kingdom,2023,1183.4912583341036,4th
-France,2023,1030.0762478060044,5th
-Norway,2023,727.0685684851427,6th
-Canada,2023,472.57628902426677,7th
-Netherlands,2023,459.0623759695541,8th
-Sweden,2023,414.8659045120255,9th
-Australia,2023,392.68186062071726,10th
-Korea,2023,327.70280496031705,11th
-Italy,2023,300.49911656556225,12th
-Switzerland,2023,275.1775843575416,13th
-Spain,2023,256.4203132202452,14th
-Belgium,2023,223.17511902534852,15th
-Denmark,2023,196.41484176964906,16th
-Finland,2023,124.21723581464595,17th
-Austria,2023,118.37612559361976,18th
-Ireland,2023,110.93383896713617,19th
-New Zealand,2023,86.10409683964106,20th
-Poland,2023,57.78323496765405,21st
-Luxembourg,2023,33.066891341408706,22nd
-Czechia,2023,25.40650538744096,23rd
-Portugal,2023,20.09896847174268,24th
-Hungary,2023,10.342139601139607,25th
-Slovak Republic,2023,9.561873899793856,26th
-Iceland,2023,8.446493338437977,27th
-Slovenia,2023,6.542639302595204,28th
-Lithuania,2023,6.065895691202873,29th
-Estonia,2023,3.7859480686695264,30th
+"Donor","ODA to agriculture","Ranking"
+"Germany",2679.8,"1st"
+"France",1456.3,"2nd"
+"Japan",1113.5,"3rd"
+"United States",1043.5,"4th"
+"United Kingdom",648.9,"5th"
+"Canada",526.5,"6th"
+"Netherlands",383,"7th"
+"Italy",325.2,"8th"
+"Norway",283.6,"9th"
+"Korea",282.5,"10th"
+"Sweden",268.5,"11th"
+"Spain",261.6,"12th"
+"Switzerland",254.5,"13th"
+"Belgium",207.6,"14th"
+"Australia",157.9,"15th"
+"Austria",94,"16th"
+"Finland",83.5,"17th"
+"Ireland",82.7,"18th"
+"Denmark",77.6,"19th"
+"Poland",64.3,"20th"
+"Luxembourg",43.8,"21st"
+"New Zealand",39.1,"22nd"
+"Hungary",25.5,"23rd"
+"Portugal",24.2,"24th"
+"Greece",16.8,"25th"
+"Slovak Republic",10.7,"26th"
+"Lithuania",7.7,"27th"
+"Iceland",7.4,"28th"
+"Slovenia",6.6,"29th"
+"Estonia",3.4,"30th"
+"Czechia",3,"31th"

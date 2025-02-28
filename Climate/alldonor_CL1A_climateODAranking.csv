@@ -1,30 +1,32 @@
-Donor,year,ODA towards Climate,Ranking
-Japan,2023,16536.02698746381,1st
-Germany,2023,10253.3353309088,2nd
-United States,2023,5302.380561282457,3rd
-France,2023,5192.474491267495,4th
-Korea,2023,3068.976112272003,5th
-Netherlands,2023,2579.9723051451997,6th
-Norway,2023,1325.2580521856003,7th
-Australia,2023,1154.624563468805,8th
-Canada,2023,789.4034829489037,9th
-Sweden,2023,567.8208929952002,10th
-Switzerland,2023,506.4062776499999,11th
-Denmark,2023,488.0810836090001,12th
-Belgium,2023,318.2818689790999,13th
-New Zealand,2023,280.5884386579999,14th
-Finland,2023,174.65182909899997,15th
-Ireland,2023,152.42070940500025,16th
-Austria,2023,150.9568458318,17th
-Luxembourg,2023,42.330973549500015,18th
-Iceland,2023,29.543533772799996,19th
-Czechia,2023,11.583984351600003,20th
-Portugal,2023,11.177630865800001,21st
-Poland,2023,9.504261228000003,22nd
-Slovenia,2023,6.4329306176999985,23rd
-Lithuania,2023,4.185724662000001,24th
-Estonia,2023,2.8028915807999994,25th
-Hungary,2023,2.6442736631999995,26th
-Slovak Republic,2023,2.603044132800001,27th
-Greece,2023,0.010501857600000001,28th
-United Kingdom,2023,0.0,29th
+"donorname","sum_value","Rank"
+"Japan",15166,"1st"
+"Germany",13216,"2nd"
+"EU Institutions",8522,"3rd"
+"France",7861,"4th"
+"United States",4131,"5th"
+"Korea",2384,"6th"
+"United Kingdom",1953,"7th"
+"Netherlands",1901,"8th"
+"Norway",1451,"9th"
+"Canada",1150,"10th"
+"Australia",1066,"11th"
+"Switzerland",998,"12th"
+"Sweden",940,"13th"
+"Denmark",552,"14th"
+"Italy",399,"15th"
+"Austria",395,"16th"
+"Spain",297,"17th"
+"Belgium",251,"18th"
+"Ireland",148,"19th"
+"Finland",136,"20th"
+"New Zealand",120,"21st"
+"Luxembourg",60,"22nd"
+"Iceland",19,"23rd"
+"Poland",10,"24th"
+"Czechia",6,"25th"
+"Portugal",4,"26th"
+"Slovenia",3,"27th"
+"Lithuania",2,"28th"
+"Slovak Republic",2,"29th"
+"Estonia",0,"30th"
+"Hungary",0,"31th"

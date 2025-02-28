@@ -1,80 +1,72 @@
-donor,year,Sector,Bilateral ODA for,share
-Poland,2023,Health policy and administrative management,1.4113271832000005,24.32187459192216
-Poland,2023,Basic health care,1.0041062592,17.30409986000083
-Poland,2023,Health personnel development,0.8286534036000002,14.28046196689217
-Poland,2023,Medical services,0.7446152604,12.832204465598974
-Poland,2023,Basic health infrastructure,0.6979157856,12.027416757181916
-Poland,2023,Basic nutrition,0.3528359076,6.080539508008701
-Poland,2023,Medical education/training,0.301142358,5.189687233958554
-Poland,2023,Health education,0.0943763832,1.6264198578142917
-Poland,2023,Medical research,0.086177454,1.4851249616596631
-Poland,2023,Reproductive health care,0.06125407200000001,1.0556119623874969
-Poland,2023,"NCDs control, general",0.0581044332,1.0013331808155583
-Poland,2023,STD control including HIV/AIDS,0.0476005464,0.8203161774456578
-Poland,2023,COVID-19 control,0.0431292576,0.7432609582502835
-Poland,2023,Promotion of mental health and well-being,0.031296672,0.5393460429229557
-Poland,2023,Other prevention and treatment of NCDs,0.024111595200000002,0.4155232051407937
-Poland,2023,Research for prevention and control of NCDs,0.010724749200000001,0.18482319916830572
-Poland,2023,Population policy and administrative management,0.0048636719999999994,0.08381729045424312
-Poland,2023,Family planning,0.0004722696000000001,0.008138780377441
-Poland,2022,COVID-19 control,15.4127686284,81.89750385673163
-Poland,2022,Health personnel development,0.6973483572,3.7054400250995765
-Poland,2022,Basic health infrastructure,0.6141830904000001,3.263531895372066
-Poland,2022,Medical services,0.44638993080000006,2.3719438058608087
-Poland,2022,Medical education/training,0.43162152000000004,2.293470170811091
-Poland,2022,Basic health care,0.399232284,2.1213662714935575
-Poland,2022,Reproductive health care,0.1923547032,1.022098652551941
-Poland,2022,Health policy and administrative management,0.1784474208,0.9482007214630415
-Poland,2022,Other prevention and treatment of NCDs,0.0961432824,0.5108682956963475
-Poland,2022,Health education,0.0829784736,0.4409155827564752
-Poland,2022,Medical research,0.06879511320000001,0.36555067972925065
-Poland,2022,Basic nutrition,0.0563128632,0.29922482081562013
-Poland,2022,STD control including HIV/AIDS,0.052708576800000004,0.2800730339782537
-Poland,2022,"NCDs control, general",0.032442102,0.17238480883763818
-Poland,2022,Tuberculosis control,0.0223212,0.11860624182202158
-Poland,2022,Promotion of mental health and well-being,0.021628068,0.1149232058917588
-Poland,2022,Research for prevention and control of NCDs,0.010501537200000001,0.05580111556037111
-Poland,2022,Family planning,0.0034057452000000005,0.018096815528528452
-Poland,2021,COVID-19 control,62.254753717199996,96.26625959712142
-Poland,2021,Basic health infrastructure,0.7283724756000002,1.1263026457068004
-Poland,2021,Health policy and administrative management,0.3925664688,0.6070364644970886
-Poland,2021,Medical services,0.2576324652,0.39838425653810505
-Poland,2021,Medical education/training,0.23509862639999998,0.3635395539874441
-Poland,2021,Health personnel development,0.20591307,0.3184091152477502
-Poland,2021,Basic health care,0.172096452,0.26611753697129037
-Poland,2021,Promotion of mental health and well-being,0.1439881872,0.2226529442374854
-Poland,2021,Reproductive health care,0.0726625548,0.11236013229033573
-Poland,2021,STD control including HIV/AIDS,0.0581314536,0.08989028578342133
-Poland,2021,Health education,0.052660410000000005,0.08143025868481188
-Poland,2021,Medical research,0.0259478076,0.04012381759222398
-Poland,2021,Basic nutrition,0.023742708,0.03671401066413939
-Poland,2021,Infectious disease control,0.020312292,0.03140946285912766
-Poland,2021,Tuberculosis control,0.016833709199999998,0.02603043338973049
-Poland,2021,Family planning,0.008626556399999999,0.013339484428835995
-Poland,2020,Medical services,11.600280648000002,77.8085086414893
-Poland,2020,COVID-19 control,1.6147766976,10.831062664931924
-Poland,2020,Medical education/training,0.5238456696,3.513677948550813
-Poland,2020,Basic health infrastructure,0.3585313380000001,2.4048373963975944
-Poland,2020,Promotion of mental health and well-being,0.2213922348,1.4849812808248208
-Poland,2020,Basic health care,0.1469569068,0.9857087168529626
-Poland,2020,Personnel development for population and reproductive health,0.09554061,0.6408355628947501
-Poland,2020,Health policy and administrative management,0.0888172296,0.5957387055145269
-Poland,2020,Health personnel development,0.0749357928,0.5026294154909872
-Poland,2020,Reproductive health care,0.045973448400000005,0.3083654237043991
-Poland,2020,Tuberculosis control,0.04190864040000001,0.28110085502790566
-Poland,2020,Basic nutrition,0.0374256036,0.25103103015232775
-Poland,2020,STD control including HIV/AIDS,0.0306493572,0.20557957578064723
-Poland,2020,Health education,0.0277217556,0.18594278238705708
-Poland,2019,Medical services,13.728251103599998,87.76328650990261
-Poland,2019,Medical education/training,0.5756073576,3.679798181212573
-Poland,2019,Basic health infrastructure,0.4553430816000001,2.910961128929476
-Poland,2019,Tuberculosis control,0.166040358,1.0614788002777338
-Poland,2019,Basic health care,0.16303991880000002,1.0422973034375362
-Poland,2019,Health policy and administrative management,0.13888015680000002,0.8878464488883334
-Poland,2019,Health personnel development,0.10696554000000003,0.6838196113155813
-Poland,2019,Personnel development for population and reproductive health,0.08771409240000001,0.5607471020280641
-Poland,2019,Reproductive health care,0.0845397828,0.5404540697405881
-Poland,2019,STD control including HIV/AIDS,0.04794828720000001,0.30652843071097347
-Poland,2019,Health education,0.0411661668,0.26317103789246876
-Poland,2019,Basic nutrition,0.0375007908,0.23973866900389532
-Poland,2019,Infectious disease control,0.0093655056,0.05987270666016269
+"Year","Sector","Bilateral ODA for","Share","Donor"
+2018,"Health policy and administrative management",0.030524,"2%","Poland"
+2019,"Health policy and administrative management",0.123246,"1%","Poland"
+2020,"Health policy and administrative management",0.078849,"1%","Poland"
+2021,"Health policy and administrative management",0.349811,"1%","Poland"
+2022,"Health policy and administrative management",0.157267,"1%","Poland"
+2018,"Medical education/training",0.102104,"6%","Poland"
+2019,"Medical education/training",0.510809,"4%","Poland"
+2020,"Medical education/training",0.465054,"4%","Poland"
+2021,"Medical education/training",0.209497,"0%","Poland"
+2022,"Medical education/training",0.380394,"2%","Poland"
+2021,"Medical research",0.023122,"0%","Poland"
+2022,"Medical research",0.060628,"0%","Poland"
+2018,"Medical services",0.19893,"13%","Poland"
+2019,"Medical services",12.182795,"88%","Poland"
+2020,"Medical services",10.29839,"78%","Poland"
+2021,"Medical services",0.229575,"0%","Poland"
+2022,"Medical services",0.393409,"2%","Poland"
+2018,"Basic health care",0.410826,"26%","Poland"
+2019,"Basic health care",0.144686,"1%","Poland"
+2020,"Basic health care",0.130464,"1%","Poland"
+2021,"Basic health care",0.153357,"0%","Poland"
+2022,"Basic health care",0.351851,"2%","Poland"
+2018,"Basic health infrastructure",0.2678,"17%","Poland"
+2019,"Basic health infrastructure",0.404084,"3%","Poland"
+2020,"Basic health infrastructure",0.318292,"2%","Poland"
+2021,"Basic health infrastructure",0.649048,"1%","Poland"
+2022,"Basic health infrastructure",0.541293,"3%","Poland"
+2019,"Basic nutrition",0.033279,"0%","Poland"
+2020,"Basic nutrition",0.033225,"0%","Poland"
+2021,"Basic nutrition",0.021157,"0%","Poland"
+2022,"Basic nutrition",0.049628,"0%","Poland"
+2019,"Infectious disease control",0.008312,"0%","Poland"
+2021,"Infectious disease control",0.0181,"0%","Poland"
+2018,"Health education",0.005256,"0%","Poland"
+2019,"Health education",0.036533,"0%","Poland"
+2020,"Health education",0.024611,"0%","Poland"
+2021,"Health education",0.046925,"0%","Poland"
+2022,"Health education",0.073132,"0%","Poland"
+2019,"Tuberculosis control",0.147349,"1%","Poland"
+2020,"Tuberculosis control",0.037205,"0%","Poland"
+2021,"Tuberculosis control",0.015,"0%","Poland"
+2022,"Tuberculosis control",0.019672,"0%","Poland"
+2018,"Health personnel development",0.261558,"17%","Poland"
+2019,"Health personnel development",0.094926,"1%","Poland"
+2020,"Health personnel development",0.066526,"1%","Poland"
+2021,"Health personnel development",0.183487,"0%","Poland"
+2022,"Health personnel development",0.614586,"4%","Poland"
+2018,"Reproductive health care",0.102461,"7%","Poland"
+2019,"Reproductive health care",0.075023,"1%","Poland"
+2020,"Reproductive health care",0.040814,"0%","Poland"
+2021,"Reproductive health care",0.06475,"0%","Poland"
+2022,"Reproductive health care",0.169526,"1%","Poland"
+2021,"Family planning",0.007687,"0%","Poland"
+2022,"Family planning",0.003002,"0%","Poland"
+2018,"STD control including HIV/AIDS",0.042091,"3%","Poland"
+2019,"STD control including HIV/AIDS",0.042551,"0%","Poland"
+2020,"STD control including HIV/AIDS",0.027209,"0%","Poland"
+2021,"STD control including HIV/AIDS",0.051802,"0%","Poland"
+2022,"STD control including HIV/AIDS",0.046454,"0%","Poland"
+2018,"Personnel development for population and reproductive health",0.153402,"10%","Poland"
+2019,"Personnel development for population and reproductive health",0.07784,"1%","Poland"
+2020,"Personnel development for population and reproductive health",0.084818,"1%","Poland"
+2020,"Promotion of mental health and well-being",0.196546,"1%","Poland"
+2021,"Promotion of mental health and well-being",0.128307,"0%","Poland"
+2022,"Promotion of mental health and well-being",0.019061,"0%","Poland"
+2020,"COVID-19 control",1.433553,"11%","Poland"
+2021,"COVID-19 control",55.474838,"96%","Poland"
+2022,"COVID-19 control",13.583546,"82%","Poland"
+2022,"NCDs control, general",0.028592,"0%","Poland"
+2022,"Other prevention and treatment of NCDs",0.084732,"1%","Poland"
+2022,"Research for prevention and control of NCDs",0.009255,"0%","Poland"

@@ -1,114 +1,94 @@
-donor,year,Sector,Bilateral ODA for,share
-Austria,2023,Disaster Risk Reduction,12.286039014,33.26454001486322
-Austria,2023,Agricultural development,8.455128002999999,22.89232058160417
-Austria,2023,Rural development,6.888576956400001,18.65087222582643
-Austria,2023,Household food security programmes,2.0729531664000005,5.6125357793569375
-Austria,2023,Forestry policy and administrative management,1.7550382482,4.751778825408209
-Austria,2023,Livestock/veterinary services,1.4404213925999998,3.899951399943332
-Austria,2023,Forestry development,1.1440492560000002,3.0975216839065216
-Austria,2023,Agricultural services,0.6018859422,1.6296105673993875
-Austria,2023,Food crop production,0.4444693812,1.2034040832412494
-Austria,2023,Agricultural education/training,0.4227864678,1.1446974374613346
-Austria,2023,Food security policy and administrative management,0.3622285656,0.9807364766787241
-Austria,2023,Agricultural co-operatives,0.281670435,0.762624751995715
-Austria,2023,Agricultural policy and administrative management,0.22510353060000002,0.6094694467922588
-Austria,2023,Agricultural water resources,0.17262472320000002,0.4673826939583808
-Austria,2023,Agricultural research,0.1386786222,0.3754733785332581
-Austria,2023,Research/scientific institutions,0.0487713834,0.13204887538130486
-Austria,2023,Agricultural inputs,0.038973191399999996,0.10552019925664734
-Austria,2023,Livestock,0.036322824600000005,0.09834431186346859
-Austria,2023,Food safety and quality,0.0353518326,0.09571534395922325
-Austria,2023,Forestry education/training,0.0324377532,0.08782545278295968
-Austria,2023,Forestry research,0.0216255366,0.058551297676482296
-Austria,2023,Multisector education/training,0.010824354,0.029307017205280443
-Austria,2023,Agricultural land resources,0.0108122166,0.02927415510647737
-Austria,2023,Agricultural extension,0.0075693240000000005,0.02049399979900345
-Austria,2022,Agricultural development,8.1300487086,28.40880292153226
-Austria,2022,Disaster Risk Reduction,5.8018725018,20.27346432809704
-Austria,2022,Rural development,5.2388306532,18.306029016604672
-Austria,2022,Agricultural education/training,2.3879142827999997,8.344081159294673
-Austria,2022,Livestock,1.5999189660000002,5.590591671048243
-Austria,2022,Agricultural services,1.0037762208,3.5074920035673616
-Austria,2022,Forestry development,0.9525784608000001,3.328591836299561
-Austria,2022,Forestry policy and administrative management,0.9213014844,3.2193007987699684
-Austria,2022,Household food security programmes,0.906542406,3.1677281988265613
-Austria,2022,Agricultural policy and administrative management,0.37139119919999997,1.2977510668175543
-Austria,2022,Livestock/veterinary services,0.3506130738,1.225146130399021
-Austria,2022,Agricultural water resources,0.3094551504,1.0813281317081536
-Austria,2022,Forestry education/training,0.2668859784,0.9325788115962624
-Austria,2022,Agricultural co-operatives,0.14730831360000002,0.5147389640284585
-Austria,2022,Agricultural research,0.08888659380000001,0.3105961373834532
-Austria,2022,Food crop production,0.0565084242,0.1974572040147819
-Austria,2022,Agricultural inputs,0.0481545828,0.16826640301511553
-Austria,2022,Food safety and quality,0.011127788999999999,0.03888379713137437
-Austria,2022,Multisector education/training,0.0087025158,0.03040917282847294
-Austria,2022,Fishery development,0.008122127400000002,0.02838112351849745
-Austria,2022,Agricultural extension,0.008122127400000002,0.02838112351849745
-Austria,2022,Food security policy and administrative management,0.0,0.0
-Austria,2022,Agricultural financial services,0.0,0.0
-Austria,2021,Agricultural development,11.8473900678,39.410899717355896
-Austria,2021,Disaster Risk Reduction,5.3648102448,17.84629334819548
-Austria,2021,Rural development,3.9048366041999993,12.989622434991192
-Austria,2021,Livestock/veterinary services,2.1141706734,7.032888080658472
-Austria,2021,Forestry development,1.3759861427999998,4.5772825555689804
-Austria,2021,Agricultural water resources,1.3111746335999999,4.361684025007051
-Austria,2021,Agricultural services,1.0057082742,3.345535827940495
-Austria,2021,Forestry policy and administrative management,0.8140554179999999,2.707993596865324
-Austria,2021,Agricultural policy and administrative management,0.7552033722,2.5122195013125017
-Austria,2021,Agricultural education/training,0.640650591,2.13115429231869
-Austria,2021,Agricultural co-operatives,0.3732228432,1.2415433240068072
-Austria,2021,Food security policy and administrative management,0.2076499494,0.6907573132381124
-Austria,2021,Food crop production,0.0730980432,0.2431640752607642
-Austria,2021,Research/scientific institutions,0.06942813480000001,0.23095595253528872
-Austria,2021,Forestry education/training,0.036650534400000004,0.12191972472922268
-Austria,2021,Agricultural inputs,0.0366505344,0.12191972472922266
-Austria,2021,Agricultural extension,0.0365931576,0.12172885810813887
-Austria,2021,Agricultural research,0.030171369600000005,0.1003664785945287
-Austria,2021,Food safety and quality,0.0301548186,0.10031142091536989
-Austria,2021,Livestock,0.0274879008,0.091439793546917
-Austria,2021,Multisector education/training,0.0061084224,0.020319954121537108
-Austria,2021,Agricultural financial services,0.0,0.0
-Austria,2020,Agricultural financial services,16.4117189214,39.36645811262584
-Austria,2020,Agricultural development,13.5309191688,32.45634203430852
-Austria,2020,Rural development,3.1450574322,7.543985627554381
-Austria,2020,Agricultural water resources,2.9761886826,7.138923574670233
-Austria,2020,Forestry policy and administrative management,1.0097952678000002,2.4221754773256534
-Austria,2020,Agricultural services,0.9775881252,2.344920856029585
-Austria,2020,Agricultural education/training,0.9576110682000002,2.2970022936065733
-Austria,2020,Livestock/veterinary services,0.8885713302,2.1313980709715064
-Austria,2020,Livestock,0.4891979070000001,1.1734291214059456
-Austria,2020,Disaster Risk Reduction,0.3773914884,0.9052413273290927
-Austria,2020,Agricultural policy and administrative management,0.343571175,0.8241172258749225
-Austria,2020,Forestry development,0.16395751620000001,0.3932815766982975
-Austria,2020,Agricultural extension,0.15483460500000001,0.3713986341899591
-Austria,2020,Agricultural co-operatives,0.11497759020000001,0.27579441923033177
-Austria,2020,Food crop production,0.081243342,0.19487676063001377
-Austria,2020,Agricultural research,0.02493684,0.05981549355206182
-Austria,2020,Agricultural inputs,0.01246842,0.02990774677603091
-Austria,2020,Research/scientific institutions,0.0105606414,0.025331596848972727
-Austria,2020,Multisector education/training,0.0100045278,0.02399765840869666
-Austria,2020,Agricultural alternative development,0.0066987414,0.016068135458166693
-Austria,2020,Industrial crops/export crops,0.0023072094000000003,0.005534256505192977
-Austria,2019,Agricultural development,11.950369286399997,41.8371161354813
-Austria,2019,Disaster Risk Reduction,3.9110586767999997,13.692247674737384
-Austria,2019,Rural development,3.3328428714,11.667968656898092
-Austria,2019,Agricultural water resources,1.8656607185999998,6.5315022726789
-Austria,2019,Agricultural policy and administrative management,1.8523779894,6.485000690106973
-Austria,2019,Agricultural services,1.0122238512,3.543700265894952
-Austria,2019,Agricultural education/training,0.9378326232,3.2832635906167242
-Austria,2019,Livestock/veterinary services,0.7878651156,2.7582414861408253
-Austria,2019,Forestry policy and administrative management,0.7413126696000001,2.5952657618752
-Austria,2019,Livestock,0.6523885601999999,2.283950839042988
-Austria,2019,Agricultural research,0.5969702952,2.089936718368871
-Austria,2019,Agricultural co-operatives,0.29401417080000003,1.0293158909520508
-Austria,2019,Agricultural extension,0.1815137136,0.6354623973593838
-Austria,2019,Food crop production,0.1005329808,0.3519564870654099
-Austria,2019,Agricultural alternative development,0.0744541218,0.2606568605421093
-Austria,2019,Agricultural inputs,0.0665648118,0.23303713007282226
-Austria,2019,Fishery development,0.0560725812,0.19630481999835364
-Austria,2019,Forestry research,0.04503196080000001,0.15765264893881714
-Austria,2019,Forestry education/training,0.0384137676,0.13448297853954672
-Austria,2019,Agricultural land resources,0.031323319200000005,0.10965998721148539
-Austria,2019,Multisector education/training,0.0179258364,0.06275666310545974
-Austria,2019,Forestry development,0.012804957,0.04482894714630435
-Austria,2019,Industrial crops/export crops,0.004482010799999999,0.0156910972260481
+"Year","Sector","Bilateral ODA for","Share","Donor"
+2018,"Agricultural alternative development",0.069036,"0%","Austria"
+2018,"Agricultural co-operatives",0.096842,"0%","Austria"
+2018,"Agricultural development",9.075632,"38%","Austria"
+2018,"Agricultural education/training",0.658848,"3%","Austria"
+2018,"Agricultural extension",0.198737,"1%","Austria"
+2018,"Agricultural financial services",1.878664,"8%","Austria"
+2018,"Agricultural inputs",0.02444,"0%","Austria"
+2018,"Agricultural policy and administrative management",2.208423,"9%","Austria"
+2018,"Agricultural research",1.78508,"8%","Austria"
+2018,"Agricultural services",0.185846,"1%","Austria"
+2018,"Agricultural water resources",0.694316,"3%","Austria"
+2018,"Fishery development",0.079774,"0%","Austria"
+2018,"Food crop production",0.062704,"0%","Austria"
+2018,"Forestry development",0.897461,"4%","Austria"
+2018,"Forestry education/training",0.056484,"0%","Austria"
+2018,"Forestry policy and administrative management",1.450746,"6%","Austria"
+2018,"Forestry research",0.037656,"0%","Austria"
+2018,"Industrial crops/export crops",0.04624,"0%","Austria"
+2018,"Livestock",0.123733,"1%","Austria"
+2018,"Livestock/veterinary services",0.571923,"2%","Austria"
+2018,"Rural development",3.513681,"15%","Austria"
+2019,"Agricultural alternative development",0.071888,"0%","Austria"
+2019,"Agricultural co-operatives",0.283877,"1%","Austria"
+2019,"Agricultural development",11.538402,"49%","Austria"
+2019,"Agricultural education/training",0.905502,"4%","Austria"
+2019,"Agricultural extension",0.175257,"1%","Austria"
+2019,"Agricultural inputs",0.06427,"0%","Austria"
+2019,"Agricultural land resources",0.030243,"0%","Austria"
+2019,"Agricultural policy and administrative management",1.78852,"8%","Austria"
+2019,"Agricultural research",0.576392,"2%","Austria"
+2019,"Agricultural services",0.97733,"4%","Austria"
+2019,"Agricultural water resources",1.801343,"8%","Austria"
+2019,"Fishery development",0.054139,"0%","Austria"
+2019,"Food crop production",0.097067,"0%","Austria"
+2019,"Forestry development",0.012363,"0%","Austria"
+2019,"Forestry education/training",0.037089,"0%","Austria"
+2019,"Forestry policy and administrative management",0.715759,"3%","Austria"
+2019,"Forestry research",0.043479,"0%","Austria"
+2019,"Industrial crops/export crops",0.004327,"0%","Austria"
+2019,"Livestock",0.629897,"3%","Austria"
+2019,"Livestock/veterinary services",0.760704,"3%","Austria"
+2019,"Rural development",3.217948,"14%","Austria"
+2020,"Agricultural alternative development",0.006477,"0%","Austria"
+2020,"Agricultural co-operatives",0.11117,"0%","Austria"
+2020,"Agricultural development",13.082883,"33%","Austria"
+2020,"Agricultural education/training",0.925903,"2%","Austria"
+2020,"Agricultural extension",0.149708,"0%","Austria"
+2020,"Agricultural financial services",15.868288,"40%","Austria"
+2020,"Agricultural inputs",0.012056,"0%","Austria"
+2020,"Agricultural policy and administrative management",0.332195,"1%","Austria"
+2020,"Agricultural research",0.024111,"0%","Austria"
+2020,"Agricultural services",0.945218,"2%","Austria"
+2020,"Agricultural water resources",2.877641,"7%","Austria"
+2020,"Food crop production",0.078553,"0%","Austria"
+2020,"Forestry development",0.15853,"0%","Austria"
+2020,"Forestry policy and administrative management",0.976357,"2%","Austria"
+2020,"Industrial crops/export crops",0.00223,"0%","Austria"
+2020,"Livestock",0.473,"1%","Austria"
+2020,"Livestock/veterinary services",0.859148,"2%","Austria"
+2020,"Rural development",3.04092,"8%","Austria"
+2021,"Agricultural co-operatives",0.361281,"2%","Austria"
+2021,"Agricultural development",11.468315,"49%","Austria"
+2021,"Agricultural education/training",0.620154,"3%","Austria"
+2021,"Agricultural extension",0.035421,"0%","Austria"
+2021,"Agricultural inputs",0.035478,"0%","Austria"
+2021,"Agricultural policy and administrative management",0.731039,"3%","Austria"
+2021,"Agricultural research",0.029206,"0%","Austria"
+2021,"Agricultural services",0.973529,"4%","Austria"
+2021,"Agricultural water resources",1.269221,"5%","Austria"
+2021,"Food crop production",0.07076,"0%","Austria"
+2021,"Forestry development",1.331959,"6%","Austria"
+2021,"Forestry education/training",0.035478,"0%","Austria"
+2021,"Forestry policy and administrative management",0.788009,"3%","Austria"
+2021,"Livestock",0.026608,"0%","Austria"
+2021,"Livestock/veterinary services",2.046522,"9%","Austria"
+2021,"Rural development",3.77989,"16%","Austria"
+2022,"Agricultural co-operatives",0.143903,"1%","Austria"
+2022,"Agricultural development",7.942041,"37%","Austria"
+2022,"Agricultural education/training",2.332695,"11%","Austria"
+2022,"Agricultural extension",0.007935,"0%","Austria"
+2022,"Agricultural inputs",0.047042,"0%","Austria"
+2022,"Agricultural policy and administrative management",0.362803,"2%","Austria"
+2022,"Agricultural research",0.08683,"0%","Austria"
+2022,"Agricultural services",0.980565,"5%","Austria"
+2022,"Agricultural water resources",0.302299,"1%","Austria"
+2022,"Fishery development",0.007935,"0%","Austria"
+2022,"Food crop production",0.055202,"0%","Austria"
+2022,"Forestry development",0.930551,"4%","Austria"
+2022,"Forestry education/training",0.260714,"1%","Austria"
+2022,"Forestry policy and administrative management",0.9,"4%","Austria"
+2022,"Livestock",1.562921,"7%","Austria"
+2022,"Livestock/veterinary services",0.342506,"2%","Austria"
+2022,"Rural development",5.117686,"24%","Austria"

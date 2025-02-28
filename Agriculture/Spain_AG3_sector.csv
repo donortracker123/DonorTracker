@@ -1,172 +1,132 @@
-donor,year,Sector,Bilateral ODA for,share
-Spain,2023,Agricultural development,19.4015939353,22.90015955701722
-Spain,2023,Food crop production,12.464762798599995,14.71245392931159
-Spain,2023,Rural development,12.033020742300005,14.2028585831913
-Spain,2023,Agricultural co-operatives,7.043730491100001,8.313881460498834
-Spain,2023,Agricultural water resources,5.132358927099999,6.057844459914697
-Spain,2023,Household food security programmes,5.106562591699999,6.027396435973142
-Spain,2023,Food security policy and administrative management,3.4993680252000003,4.130386729721294
-Spain,2023,Agricultural alternative development,2.8919631427000003,3.413452400957021
-Spain,2023,Research/scientific institutions,2.7379975706,3.231723199782348
-Spain,2023,Multisector education/training,2.353653650199999,2.7780729929343586
-Spain,2023,Agricultural policy and administrative management,2.0603627018999995,2.431894759584222
-Spain,2023,Disaster Risk Reduction,1.3771535599,1.6254868729545249
-Spain,2023,Fishery development,1.2041699427,1.421310223971961
-Spain,2023,Agricultural education/training,1.1767541502,1.388950716566243
-Spain,2023,Agricultural research,0.9349506567999999,1.10354434228741
-Spain,2023,Agricultural land resources,0.8376031706,0.9886428051307901
-Spain,2023,Agricultural services,0.7795022998,0.9200649750742169
-Spain,2023,Forestry development,0.7012574653,0.8277107488937431
-Spain,2023,Fishing policy and administrative management,0.594784398,0.702038072832897
-Spain,2023,Livestock,0.5052792928000001,0.5963930831953012
-Spain,2023,Agricultural financial services,0.3811223614,0.44984772467212375
-Spain,2023,Agricultural inputs,0.25384908689999997,0.29962407278488595
-Spain,2023,Livestock/veterinary services,0.2485253793,0.2933403749669922
-Spain,2023,Fishery education/training,0.23339272960000002,0.275478951116659
-Spain,2023,Fishery research,0.1922110094,0.22687119411703505
-Spain,2023,Industrial crops/export crops,0.09917303629999999,0.117056277056277
-Spain,2023,Forestry policy and administrative management,0.096635923,0.11406166230565486
-Spain,2023,Non-agricultural alternative development,0.09073298560000001,0.10709428587432282
-Spain,2023,Food safety and quality,0.0813101967,0.0959723455841755
-Spain,2023,Fishery services,0.0754246145,0.089025453905306
-Spain,2023,Forestry education/training,0.0642055624,0.07578334173528255
-Spain,2023,Agricultural extension,0.0540679562,0.06381768570308309
-Spain,2023,Agrarian reform,0.0150469584,0.017760280385049322
-Spain,2022,Agricultural development,27.35203057989997,26.010202892896356
-Spain,2022,Rural development,12.087772059499994,11.494773774555656
-Spain,2022,Food crop production,10.729100702900002,10.20275570859524
-Spain,2022,Agricultural financial services,10.5800737699,10.061039694037818
-Spain,2022,Multisector education/training,6.7820954275999945,6.4493814305872155
-Spain,2022,Agricultural alternative development,5.5491559868,5.276927161929429
-Spain,2022,Agricultural co-operatives,4.839395558200001,4.601985946895785
-Spain,2022,Food security policy and administrative management,4.239264673899999,4.031296102961228
-Spain,2022,Agricultural water resources,3.054580282,2.9047296015326087
-Spain,2022,Fishery development,2.6804596590999994,2.548962475592178
-Spain,2022,Fishery services,2.3593266311999996,2.2435834951581892
-Spain,2022,Livestock,2.0413782825,1.9412329608901557
-Spain,2022,Household food security programmes,2.0341823827,1.9343900753775718
-Spain,2022,Agricultural education/training,1.6769852492000001,1.5947162113857902
-Spain,2022,Research/scientific institutions,1.6141138677999998,1.5349291552989053
-Spain,2022,Forestry development,1.3766491744,1.309113933383633
-Spain,2022,Industrial crops/export crops,1.0264331701,0.9760787204559142
-Spain,2022,Agricultural services,0.8848819895,0.8414717150864254
-Spain,2022,Agricultural policy and administrative management,0.7960569912,0.757004266828965
-Spain,2022,Fishing policy and administrative management,0.6309754135000001,0.6000212115010072
-Spain,2022,Disaster Risk Reduction,0.5270503064999998,0.5011944311331031
-Spain,2022,Fishery research,0.436212105,0.4148125427925324
-Spain,2022,Fishery education/training,0.3096200221,0.2944307762087003
-Spain,2022,Food safety and quality,0.3005985722,0.2858518978836835
-Spain,2022,Agricultural land resources,0.2701467044,0.25689392865240773
-Spain,2022,Livestock/veterinary services,0.2654336829,0.25241211714318595
-Spain,2022,Agricultural inputs,0.24609456660000004,0.23402173339222718
-Spain,2022,Agricultural extension,0.1952655246,0.1856862472421387
-Spain,2022,Agricultural research,0.08755047579999999,0.08325545089881004
-Spain,2022,Fuelwood/charcoal,0.08161825150000002,0.07761424787373891
-Spain,2022,Non-agricultural alternative development,0.0393323067,0.03740275423150569
-Spain,2022,Forestry policy and administrative management,0.036614048499999996,0.03481784752446084
-Spain,2022,Agrarian reform,0.0193976901,0.01844608405510097
-Spain,2022,Forestry education/training,0.007842381,0.0074576518323760015
-Spain,2022,Plant and post-harvest protection and pest control,0.0011627984,0.0011057541859345883
-Spain,2021,Agricultural development,27.12375438020001,29.45174346860314
-Spain,2021,Food crop production,12.683849419900003,13.772484224454587
-Spain,2021,Rural development,11.533755026300007,12.523679041728405
-Spain,2021,Agricultural financial services,7.8702263337,8.545715455570653
-Spain,2021,Agricultural co-operatives,5.7307391056000005,6.222599410752327
-Spain,2021,Multisector education/training,4.600483874999998,4.995336155117703
-Spain,2021,Agricultural alternative development,4.3968086713000005,4.774179829698877
-Spain,2021,Research/scientific institutions,1.7953650683999987,1.9494584225260185
-Spain,2021,Disaster Risk Reduction,1.7511429341,1.901440772138046
-Spain,2021,Agricultural policy and administrative management,1.7252771779000002,1.873354998850705
-Spain,2021,Agricultural water resources,1.6498699186,1.7914756533352019
-Spain,2021,Livestock,1.5905726237,1.7270889650730572
-Spain,2021,Agricultural education/training,1.3821258247,1.500751505850194
-Spain,2021,Fishery development,1.3465877986000003,1.4621633069819076
-Spain,2021,Household food security programmes,1.1598458466000001,1.2593935875678042
-Spain,2021,Agricultural land resources,0.9115970658000001,0.9898380051793908
-Spain,2021,Agricultural services,0.8963320827000001,0.9732628526392266
-Spain,2021,Agricultural research,0.7784121762999999,0.8452220665277838
-Spain,2021,Food security policy and administrative management,0.6220667724,0.6754577830287681
-Spain,2021,Agricultural extension,0.43400365580000005,0.4712535055393494
-Spain,2021,Non-agricultural alternative development,0.4059457209,0.440787402309304
-Spain,2021,Forestry development,0.3341125480999999,0.3627889015049385
-Spain,2021,Livestock/veterinary services,0.3040999838,0.3302004061142043
-Spain,2021,Forestry education/training,0.25718237,0.2792559274691206
-Spain,2021,Fishing policy and administrative management,0.24068950649999998,0.26134750748950025
-Spain,2021,Fishery research,0.1856041017,0.2015342092162324
-Spain,2021,Plant and post-harvest protection and pest control,0.16183723999999997,0.1757274752357351
-Spain,2021,Agricultural inputs,0.1147417354,0.1245898377036631
-Spain,2021,Industrial crops/export crops,0.0475185376,0.05159697878771505
-Spain,2021,Fishery education/training,0.038755246300000004,0.042081548007356445
-Spain,2021,Forestry research,0.0154276881,0.01675182225387306
-Spain,2021,Agrarian reform,0.0065342327999999995,0.007095055702547375
-Spain,2021,Forestry policy and administrative management,0.0003167324,0.0003439170426865593
-Spain,2021,Forestry services,0.0,0.0
-Spain,2021,Fishery services,0.0,0.0
-Spain,2021,Fuelwood/charcoal,0.0,0.0
-Spain,2020,Agricultural development,19.312278652600003,26.00450892137156
-Spain,2020,Food crop production,10.748129595,14.472649083468268
-Spain,2020,Rural development,10.116432856,13.622052228460932
-Spain,2020,Agricultural co-operatives,6.0025584174,8.082608309678541
-Spain,2020,Agricultural policy and administrative management,4.831752762000001,6.506086623205121
-Spain,2020,Agricultural water resources,4.2291661169,5.694687302064284
-Spain,2020,Agricultural alternative development,3.974652108900001,5.351977261954182
-Spain,2020,Multisector education/training,3.3956197243000017,4.572294393766769
-Spain,2020,Agricultural education/training,1.6787706653999999,2.2605104001776524
-Spain,2020,Fishery development,1.2621742752,1.6995520202555303
-Spain,2020,Research/scientific institutions,1.2089556391,1.627891678037997
-Spain,2020,Disaster Risk Reduction,1.0543349082,1.4196906548212613
-Spain,2020,Agricultural inputs,0.9775023531,1.3162335278560426
-Spain,2020,Livestock,0.9145637203,1.2314849454858219
-Spain,2020,Forestry development,0.7868858527,1.0595632211366912
-Spain,2020,Household food security programmes,0.6769883875,0.9115832926343251
-Spain,2020,Agricultural research,0.5181709523,0.6977312928356512
-Spain,2020,Agricultural land resources,0.41956195999999996,0.5649516003860716
-Spain,2020,Livestock/veterinary services,0.33846436449999995,0.45575148042003055
-Spain,2020,Fishing policy and administrative management,0.3241333081,0.43645432285979086
-Spain,2020,Food security policy and administrative management,0.310061495,0.4175062434600791
-Spain,2020,Agricultural extension,0.27508534349999997,0.37040990335033525
-Spain,2020,Agricultural services,0.24471374350000002,0.32951371717967864
-Spain,2020,Non-agricultural alternative development,0.23072545230000002,0.3106781022919362
-Spain,2020,Plant and post-harvest protection and pest control,0.1467740111,0.19763520140393095
-Spain,2020,Forestry education/training,0.07677398129999999,0.10337825574903245
-Spain,2020,Fishery education/training,0.0668381293,0.08999936055891763
-Spain,2020,Forestry policy and administrative management,0.0649041092,0.08739514984669333
-Spain,2020,Industrial crops/export crops,0.0579576904,0.07804160783823313
-Spain,2020,Forestry services,0.019063602500000002,0.02566965971247469
-Spain,2020,Fuelwood/charcoal,0.0011215798,0.0015102377321592503
-Spain,2020,Fishery research,0.0,0.0
-Spain,2020,Forestry research,0.0,0.0
-Spain,2020,Fishery services,0.0,0.0
-Spain,2019,Agricultural development,21.0615472251,31.662962911807675
-Spain,2019,Rural development,10.381870877699996,15.607627922227847
-Spain,2019,Food crop production,7.357823815999999,11.061414439675245
-Spain,2019,Agricultural policy and administrative management,5.0592555706,7.605852494177507
-Spain,2019,Multisector education/training,3.8497640897000016,5.787558543947449
-Spain,2019,Agricultural co-operatives,3.8267055371,5.7528933748613085
-Spain,2019,Agricultural water resources,2.3850144966,3.5855212697751324
-Spain,2019,Disaster Risk Reduction,1.7626017048999998,2.6498144611155316
-Spain,2019,Livestock,1.5592052691,2.34403759988597
-Spain,2019,Fishery development,0.9022447824000001,1.356393373059398
-Spain,2019,Forestry development,0.8354739044999999,1.2560131014705662
-Spain,2019,Agricultural land resources,0.8211363399,1.2344586652592309
-Spain,2019,Agricultural alternative development,0.8117276520999999,1.2203140760855944
-Spain,2019,Agricultural education/training,0.7968607539,1.1979638640480275
-Spain,2019,Agricultural inputs,0.7676790697999999,1.1540934602506634
-Spain,2019,Agricultural research,0.7464655919000001,1.1222020917391575
-Spain,2019,Research/scientific institutions,0.6805581351999999,1.023119847932458
-Spain,2019,Industrial crops/export crops,0.590673385,0.8879912421608949
-Spain,2019,Agricultural extension,0.5022584033,0.7550722188576597
-Spain,2019,Livestock/veterinary services,0.3400599582,0.5112305249561905
-Spain,2019,Forestry policy and administrative management,0.2836794216,0.4264706153334946
-Spain,2019,Agricultural services,0.2759563576,0.41486011557371943
-Spain,2019,Fishery services,0.24667813519999998,0.3708445805293583
-Spain,2019,Fishing policy and administrative management,0.2194792827,0.32995507470402646
-Spain,2019,Plant and post-harvest protection and pest control,0.1328399549,0.19970548793263854
-Spain,2019,Forestry research,0.0925043007,0.13906671769850937
-Spain,2019,Agricultural financial services,0.0823905579,0.12386218121534312
-Spain,2019,Food security policy and administrative management,0.0687005592,0.1032812658406068
-Spain,2019,Forestry services,0.054712267999999994,0.08225191121953086
-Spain,2019,Household food security programmes,0.018559217,0.02790107456316759
-Spain,2019,Fuelwood/charcoal,0.0035024963000000004,0.005265492096111523
-Spain,2019,Fishery research,0.0,0.0
-Spain,2019,Non-agricultural alternative development,0.0,0.0
+"Year","Sector","Bilateral ODA for","Share","Donor"
+2018,"Agrarian reform",0.372707,"1%","Spain"
+2018,"Agricultural alternative development",2.906205,"4%","Spain"
+2018,"Agricultural co-operatives",4.939027,"7%","Spain"
+2018,"Agricultural development",16.61135,"24%","Spain"
+2018,"Agricultural education/training",1.156566,"2%","Spain"
+2018,"Agricultural extension",0.276689,"0%","Spain"
+2018,"Agricultural inputs",1.229744,"2%","Spain"
+2018,"Agricultural land resources",0.615846,"1%","Spain"
+2018,"Agricultural policy and administrative management",5.055022,"7%","Spain"
+2018,"Agricultural research",1.070303,"2%","Spain"
+2018,"Agricultural services",0.346001,"1%","Spain"
+2018,"Agricultural water resources",2.621185,"4%","Spain"
+2018,"Fishery development",1.021038,"2%","Spain"
+2018,"Fishery education/training",0.087404,"0%","Spain"
+2018,"Fishery research",0.024816,"0%","Spain"
+2018,"Fishing policy and administrative management",0.194381,"0%","Spain"
+2018,"Food crop production",9.420304,"14%","Spain"
+2018,"Forestry development",1.300661,"2%","Spain"
+2018,"Forestry education/training",0.016633,"0%","Spain"
+2018,"Forestry services",0.010605,"0%","Spain"
+2018,"Industrial crops/export crops",0.587395,"1%","Spain"
+2018,"Livestock",1.433393,"2%","Spain"
+2018,"Livestock/veterinary services",0.656997,"1%","Spain"
+2018,"Plant and post-harvest protection and pest control",0.124745,"0%","Spain"
+2018,"Rural development",15.857023,"23%","Spain"
+2019,"Agricultural alternative development",0.805965,"1%","Spain"
+2019,"Agricultural co-operatives",3.799528,"6%","Spain"
+2019,"Agricultural development",20.911984,"35%","Spain"
+2019,"Agricultural education/training",0.791204,"1%","Spain"
+2019,"Agricultural extension",0.498693,"1%","Spain"
+2019,"Agricultural financial services",0.081806,"0%","Spain"
+2019,"Agricultural inputs",0.762227,"1%","Spain"
+2019,"Agricultural land resources",0.815306,"1%","Spain"
+2019,"Agricultural policy and administrative management",5.023327,"8%","Spain"
+2019,"Agricultural research",0.741166,"1%","Spain"
+2019,"Agricultural services",0.273997,"0%","Spain"
+2019,"Agricultural water resources",2.368073,"4%","Spain"
+2019,"Fishery development",0.895837,"2%","Spain"
+2019,"Fishery services",0.244926,"0%","Spain"
+2019,"Fishing policy and administrative management",0.217923,"0%","Spain"
+2019,"Food crop production",7.305564,"12%","Spain"
+2019,"Forestry development",0.829541,"1%","Spain"
+2019,"Forestry policy and administrative management",0.281665,"0%","Spain"
+2019,"Forestry research",0.091847,"0%","Spain"
+2019,"Forestry services",0.054324,"0%","Spain"
+2019,"Fuelwood/charcoal",0.003478,"0%","Spain"
+2019,"Industrial crops/export crops",0.586477,"1%","Spain"
+2019,"Livestock",1.54813,"3%","Spain"
+2019,"Livestock/veterinary services",0.337646,"1%","Spain"
+2019,"Plant and post-harvest protection and pest control",0.131898,"0%","Spain"
+2019,"Rural development",10.308143,"17%","Spain"
+2020,"Agricultural alternative development",3.943,"6%","Spain"
+2020,"Agricultural co-operatives",5.95476,"9%","Spain"
+2020,"Agricultural development",19.158488,"29%","Spain"
+2020,"Agricultural education/training",1.665401,"2%","Spain"
+2020,"Agricultural extension",0.272894,"0%","Spain"
+2020,"Agricultural inputs",0.969716,"1%","Spain"
+2020,"Agricultural land resources",0.41622,"1%","Spain"
+2020,"Agricultural policy and administrative management",4.793278,"7%","Spain"
+2020,"Agricultural research",0.514045,"1%","Spain"
+2020,"Agricultural services",0.242765,"0%","Spain"
+2020,"Agricultural water resources",4.195489,"6%","Spain"
+2020,"Fishery development",1.25212,"2%","Spain"
+2020,"Fishery education/training",0.066306,"0%","Spain"
+2020,"Fishing policy and administrative management",0.321553,"0%","Spain"
+2020,"Food crop production",10.662545,"16%","Spain"
+2020,"Forestry development",0.780619,"1%","Spain"
+2020,"Forestry education/training",0.076162,"0%","Spain"
+2020,"Forestry policy and administrative management",0.064388,"0%","Spain"
+2020,"Forestry services",0.018912,"0%","Spain"
+2020,"Fuelwood/charcoal",0.001113,"0%","Spain"
+2020,"Industrial crops/export crops",0.057496,"0%","Spain"
+2020,"Livestock",0.90728,"1%","Spain"
+2020,"Livestock/veterinary services",0.335769,"1%","Spain"
+2020,"Plant and post-harvest protection and pest control",0.145605,"0%","Spain"
+2020,"Rural development",10.035871,"15%","Spain"
+2021,"Agrarian reform",0.006504,"0%","Spain"
+2021,"Agricultural alternative development",4.376954,"5%","Spain"
+2021,"Agricultural co-operatives",5.704852,"7%","Spain"
+2021,"Agricultural development",27.001223,"33%","Spain"
+2021,"Agricultural education/training",1.37588,"2%","Spain"
+2021,"Agricultural extension",0.432043,"1%","Spain"
+2021,"Agricultural financial services",7.834674,"10%","Spain"
+2021,"Agricultural inputs",0.114223,"0%","Spain"
+2021,"Agricultural land resources",0.90748,"1%","Spain"
+2021,"Agricultural policy and administrative management",1.717481,"2%","Spain"
+2021,"Agricultural research",0.774896,"1%","Spain"
+2021,"Agricultural services",0.892283,"1%","Spain"
+2021,"Agricultural water resources",1.642418,"2%","Spain"
+2021,"Fishery development",1.340503,"2%","Spain"
+2021,"Fishery education/training",0.03858,"0%","Spain"
+2021,"Fishery research",0.184767,"0%","Spain"
+2021,"Fishing policy and administrative management",0.239603,"0%","Spain"
+2021,"Food crop production",12.626548,"16%","Spain"
+2021,"Forestry development",0.332604,"0%","Spain"
+2021,"Forestry education/training",0.25602,"0%","Spain"
+2021,"Forestry policy and administrative management",0.000315,"0%","Spain"
+2021,"Forestry research",0.015358,"0%","Spain"
+2021,"Industrial crops/export crops",0.047304,"0%","Spain"
+2021,"Livestock",1.583387,"2%","Spain"
+2021,"Livestock/veterinary services",0.302726,"0%","Spain"
+2021,"Plant and post-harvest protection and pest control",0.161107,"0%","Spain"
+2021,"Rural development",11.48165,"14%","Spain"
+2022,"Agrarian reform",0.019523,"0%","Spain"
+2022,"Agricultural alternative development",5.584708,"6%","Spain"
+2022,"Agricultural co-operatives",4.870403,"5%","Spain"
+2022,"Agricultural development",27.527274,"31%","Spain"
+2022,"Agricultural education/training",1.68773,"2%","Spain"
+2022,"Agricultural extension",0.196516,"0%","Spain"
+2022,"Agricultural financial services",10.647861,"12%","Spain"
+2022,"Agricultural inputs",0.247672,"0%","Spain"
+2022,"Agricultural land resources",0.271879,"0%","Spain"
+2022,"Agricultural policy and administrative management",0.801156,"1%","Spain"
+2022,"Agricultural research",0.088112,"0%","Spain"
+2022,"Agricultural services",0.89055,"1%","Spain"
+2022,"Agricultural water resources",3.074152,"3%","Spain"
+2022,"Fishery development",2.697631,"3%","Spain"
+2022,"Fishery education/training",0.311603,"0%","Spain"
+2022,"Fishery research",0.439006,"0%","Spain"
+2022,"Fishery services",2.374442,"3%","Spain"
+2022,"Fishing policy and administrative management",0.635017,"1%","Spain"
+2022,"Food crop production",10.79784,"12%","Spain"
+2022,"Forestry development",1.38547,"2%","Spain"
+2022,"Forestry education/training",0.007892,"0%","Spain"
+2022,"Forestry policy and administrative management",0.036849,"0%","Spain"
+2022,"Fuelwood/charcoal",0.082141,"0%","Spain"
+2022,"Industrial crops/export crops",1.033009,"1%","Spain"
+2022,"Livestock",2.054457,"2%","Spain"
+2022,"Livestock/veterinary services",0.267135,"0%","Spain"
+2022,"Plant and post-harvest protection and pest control",0.001171,"0%","Spain"
+2022,"Rural development",12.165215,"13%","Spain"

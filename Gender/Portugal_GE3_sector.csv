@@ -1,57 +1,71 @@
-year,Sector,Gender-related ODA to,Share,donor
-2023,Education,44.291247692000006,73.0%,Portugal
-2021,Education,37.87580516739998,79.0%,Portugal
-2020,Education,35.972100649200016,77.0%,Portugal
-2022,Education,35.406831388600004,51.0%,Portugal
-2019,Education,31.799912050600007,74.0%,Portugal
-2022,General budget support,23.148595123,33.0%,Portugal
-2023,Other social services,9.140229862000002,15.0%,Portugal
-2020,Other social services,7.3570454462,16.0%,Portugal
-2022,Other social services,7.3104471428,10.0%,Portugal
-2019,Other social services,6.923564230800001,16.0%,Portugal
-2021,Other social services,6.6764828326,14.0%,Portugal
-2023,Health & populations,2.6198594352000004,4.0%,Portugal
-2019,Health & populations,2.3489005200000004,5.0%,Portugal
-2023,Government & civil society,2.0101897694,3.0%,Portugal
-2020,Health & populations,1.9656583928,4.0%,Portugal
-2021,Health & populations,1.8502351690000003,4.0%,Portugal
-2022,Health & populations,1.7125996360000002,2.0%,Portugal
-2023,Other multisector,1.0813637132,2.0%,Portugal
-2021,Government & civil society,1.0713339454,2.0%,Portugal
-2019,Government & civil society,0.8206051588,2.0%,Portugal
-2023,"Agriculture (incl. forestry, fishing, rural development)",0.7964029648000001,1.0%,Portugal
-2020,Government & civil society,0.7306267063999999,2.0%,Portugal
-2022,"Agriculture (incl. forestry, fishing, rural development)",0.6857662503999999,1.0%,Portugal
-2022,Government & civil society,0.5492588324000001,1.0%,Portugal
-2023,Unspecified,0.43354174840000004,1.0%,Portugal
-2022,Environmental protection,0.3689299248,1.0%,Portugal
-2022,Unspecified,0.325810618,0.0%,Portugal
-2019,Unspecified,0.3160130768,1.0%,Portugal
-2020,Unspecified,0.2757421228,1.0%,Portugal
-2019,Water and sanitation,0.2657541778,1.0%,Portugal
-2023,Reconstruction Relief & Rehabilitation,0.242836384,0.0%,Portugal
-2023,Emergency Response,0.22913061219999997,0.0%,Portugal
-2020,"Agriculture (incl. forestry, fishing, rural development)",0.198812384,0.0%,Portugal
-2021,"Agriculture (incl. forestry, fishing, rural development)",0.19168930080000002,0.0%,Portugal
-2022,Other multisector,0.18519686140000002,0.0%,Portugal
-2021,Unspecified,0.18475001780000003,0.0%,Portugal
-2022,Tourism,0.1818840554,0.0%,Portugal
-2021,Other multisector,0.1465591978,0.0%,Portugal
-2019,"Agriculture (incl. forestry, fishing, rural development)",0.14464195259999998,0.0%,Portugal
-2019,Emergency Response,0.094739648,0.0%,Portugal
-2022,Energy,0.07355529920000001,0.0%,Portugal
-2020,Other multisector,0.0735101746,0.0%,Portugal
-2021,Emergency Response,0.0656045648,0.0%,Portugal
-2019,Other multisector,0.0631601322,0.0%,Portugal
-2022,Emergency Response,0.05885458500000001,0.0%,Portugal
-2023,Refugees in donor countries,0.0569538488,0.0%,Portugal
-2019,"Conflict, peace & security",0.0568437888,0.0%,Portugal
-2023,"Conflict, peace & security",0.052118913,0.0%,Portugal
-2022,"Conflict, peace & security",0.0374941402,0.0%,Portugal
-2023,Tourism,0.031791931600000004,0.0%,Portugal
-2021,Environmental protection,0.029126278400000004,0.0%,Portugal
-2023,Environmental protection,0.028783991800000002,0.0%,Portugal
-2021,Refugees in donor countries,0.0280675012,0.0%,Portugal
-2021,"Conflict, peace & security",0.0264022934,0.0%,Portugal
-2019,Environmental protection,0.020194909400000002,0.0%,Portugal
-2020,Environmental protection,0.0047799057999999995,0.0%,Portugal
+"Year","Sector","Gender-related ODA to","Share","Donor"
+"2018","Education",28.13,"73%","Portugal"
+"2019","Education",30.79,"75%","Portugal"
+"2020","Education",34.83,"78%","Portugal"
+"2021","Education",36.86,"79%","Portugal"
+"2022","Education",34.36,"76%","Portugal"
+"2018","Other social services",6.57,"17%","Portugal"
+"2019","Other social services",6.7,"16%","Portugal"
+"2020","Other social services",7.12,"16%","Portugal"
+"2021","Other social services",6.5,"14%","Portugal"
+"2022","Other social services",7.09,"16%","Portugal"
+"2018","Health & populations",2.5,"6%","Portugal"
+"2019","Health & populations",2.27,"6%","Portugal"
+"2020","Health & populations",1.9,"4%","Portugal"
+"2021","Health & populations",1.8,"4%","Portugal"
+"2022","Health & populations",1.66,"4%","Portugal"
+"2018","Government & civil society",0.7,"2%","Portugal"
+"2019","Government & civil society",0.79,"2%","Portugal"
+"2020","Government & civil society",0.7,"2%","Portugal"
+"2021","Government & civil society",1.04,"2%","Portugal"
+"2022","Government & civil society",0.53,"1%","Portugal"
+"2018","Agriculture (incl. forestry, fishing, rural development)",0.2,"1%","Portugal"
+"2019","Agriculture (incl. forestry, fishing, rural development)",0.14,"0%","Portugal"
+"2020","Agriculture (incl. forestry, fishing, rural development)",0.19,"0%","Portugal"
+"2021","Agriculture (incl. forestry, fishing, rural development)",0.13,"0%","Portugal"
+"2022","Agriculture (incl. forestry, fishing, rural development)",0.51,"1%","Portugal"
+"2018","Environmental protection",0.02,"0%","Portugal"
+"2019","Environmental protection",0.02,"0%","Portugal"
+"2020","Environmental protection",0,"0%","Portugal"
+"2021","Environmental protection",0.03,"0%","Portugal"
+"2022","Environmental protection",0.36,"1%","Portugal"
+"2018","Other multisector",0.13,"0%","Portugal"
+"2019","Other multisector",0.06,"0%","Portugal"
+"2020","Other multisector",0.07,"0%","Portugal"
+"2021","Other multisector",0.2,"0%","Portugal"
+"2022","Other multisector",0.34,"1%","Portugal"
+"2018","Tourism",0,"0%","Portugal"
+"2019","Tourism",0,"0%","Portugal"
+"2020","Tourism",0,"0%","Portugal"
+"2021","Tourism",0,"0%","Portugal"
+"2022","Tourism",0.18,"0%","Portugal"
+"2018","Energy",0,"0%","Portugal"
+"2019","Energy",0,"0%","Portugal"
+"2020","Energy",0,"0%","Portugal"
+"2021","Energy",0,"0%","Portugal"
+"2022","Energy",0.07,"0%","Portugal"
+"2018","Humanitarian aid",0,"0%","Portugal"
+"2019","Humanitarian aid",0.09,"0%","Portugal"
+"2020","Humanitarian aid",0,"0%","Portugal"
+"2021","Humanitarian aid",0.06,"0%","Portugal"
+"2022","Humanitarian aid",0.06,"0%","Portugal"
+"2018","Conflict, peace & security",0.26,"1%","Portugal"
+"2019","Conflict, peace & security",0.06,"0%","Portugal"
+"2020","Conflict, peace & security",0,"0%","Portugal"
+"2021","Conflict, peace & security",0.03,"0%","Portugal"
+"2022","Conflict, peace & security",0.04,"0%","Portugal"
+"2018","Infrastructure",0.06,"0%","Portugal"
+"2019","Infrastructure",0,"0%","Portugal"
+"2020","Infrastructure",0,"0%","Portugal"
+"2021","Infrastructure",0,"0%","Portugal"
+"2022","Infrastructure",0,"0%","Portugal"
+"2018","Unspecified",0.02,"0%","Portugal"
+"2019","Unspecified",0.01,"0%","Portugal"
+"2020","Unspecified",0.01,"0%","Portugal"
+"2021","Unspecified",0,"0%","Portugal"
+"2022","Unspecified",0,"0%","Portugal"
+"2018","Water and sanitation",0,"0%","Portugal"
+"2019","Water and sanitation",0.26,"1%","Portugal"
+"2020","Water and sanitation",0,"0%","Portugal"
+"2021","Water and sanitation",0,"0%","Portugal"
+"2022","Water and sanitation",0,"0%","Portugal"

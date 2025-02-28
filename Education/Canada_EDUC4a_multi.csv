@@ -1,55 +1,81 @@
-Year,ODA,Share,Full Name,donor
-2020,0.0226,0.00045137259209698517,food and agricultural organisation,Canada
-2020,30.7445,0.614036489279901,international development association,Canada
-2020,0.2525,0.0050429902435614495,inter american development bank inter american investment corporation and multilateral investment fund,Canada
-2020,0.0138,0.000275616892519398,united nations development programme,Canada
-2020,0.004,7.988895435344872e-05,inter american development bank fund for special operations,Canada
-2020,3.3924000000000003,0.06775382218715986,african development fund,Canada
-2020,0.6761,0.013503230509591669,united nations population fund,Canada
-2020,12.9047,0.2577357473112374,united nations relief and works agency for palestine refugees in the near east,Canada
-2020,1.1126,0.02222111265341176,asian development bank,Canada
-2020,0.9462999999999999,0.018899729376167126,united nations children’s fund,Canada
-2022,52.5299,0.7225928656714775,international development association,Canada
-2022,3.7064000000000004,0.05098464298094542,african development fund,Canada
-2022,0.0319,0.0004388112753864015,inter american development bank inter american investment corporation and multilateral investment fund,Canada
-2022,0.8343,0.011476496772880089,asian development bank,Canada
-2022,0.023799999999999998,0.00032738897662057544,caribbean development bank,Canada
-2022,12.8735,0.17708579792121756,united nations relief and works agency for palestine refugees in the near east,Canada
-2022,0.6417999999999999,0.008828497697272491,united nations population fund,Canada
-2022,0.0029,3.98919341260365e-05,adaptation fund,Canada
-2022,0.0943,0.0012971756510638767,united nations development programme,Canada
-2022,1.0633,0.01462658398490159,international bank for reconstruction and development,Canada
-2022,0.0039,5.364777347984219e-05,food and agricultural organisation,Canada
-2022,0.8904000000000001,0.012248199360628589,united nations children’s fund,Canada
-2019,1.173,0.017580882551311298,asian development bank,Canada
-2019,0.0432,0.0006474800735009787,food and agricultural organisation,Canada
-2019,0.6431,0.009638760075659244,united nations population fund,Canada
-2019,0.0146,0.0002188242840998678,united nations development programme,Canada
-2019,0.5306,0.007952614050917113,inter american development bank inter american investment corporation and multilateral investment fund,Canada
-2019,0.402,0.006025161795078552,world food programme,Canada
-2019,10.0945,0.15129600930452844,united nations relief and works agency for palestine refugees in the near east,Canada
-2019,4.4325,0.06643415337484,african development fund,Canada
-2019,0.0,0.0,inter american development bank fund for special operations,Canada
-2019,0.8940000000000001,0.013399240409950811,united nations children’s fund,Canada
-2019,32.94290000000001,0.49374702114202307,international development association,Canada
-2019,15.549800000000001,0.2330598529380907,international bank for reconstruction and development,Canada
-2023,0.0047,4.387074372111648e-05,food and agricultural organisation,Canada
-2023,0.1376,0.001284386028941623,united nations development programme,Canada
-2023,0.6542,0.006106434157947745,united nations population fund,Canada
-2023,1.2214,0.01140079284701525,african development fund,Canada
-2023,0.023,0.00021468661820971894,caribbean development bank,Canada
-2023,0.0329,0.0003070952060478153,united nations,Canada
-2023,9.9809,0.09316372468214712,united nations relief and works agency for palestine refugees in the near east,Canada
-2023,0.9376,0.00875174666232315,asian development bank,Canada
-2023,93.2753,0.8706503791085651,international development association,Canada
-2023,0.8653000000000001,0.008076883945081296,united nations children’s fund,Canada
-2021,0.5983,0.01340391879237032,united nations population fund,Canada
-2021,0.0242,0.0005421608470255084,caribbean development bank,Canada
-2021,0.9755999999999999,0.02185669927099529,united nations children’s fund,Canada
-2021,27.822,0.6233057473530452,international development association,Canada
-2021,0.8995,0.02015180503716714,asian development bank,Canada
-2021,2.254,0.050497130132045286,african development fund,Canada
-2021,11.9526,0.2677781710808716,united nations relief and works agency for palestine refugees in the near east,Canada
-2021,0.0213,0.0004771911587455921,food and agricultural organisation,Canada
-2021,0.08330000000000001,0.0018661982874886305,inter american development bank inter american investment corporation and multilateral investment fund,Canada
-2021,0.0054,0.00012097804024536138,united nations development programme,Canada
+"Year","Multi_short","ODA","Share","Full Name","Donor"
+"2018","IDA","36.7","11.5%","international development association","Canada"
+"2019","IDA","32.7","8.5%","international development association","Canada"
+"2020","IDA","30.5","7.7%","international development association","Canada"
+"2021","IDA","27.6","8.6%","international development association","Canada"
+"2022","IDA","51.6","15.1%","international development association","Canada"
+"2018","UNRWA","10.5","3.3%","united nations relief and works agency for palestine refugees in the near east","Canada"
+"2019","UNRWA","10","2.6%","united nations relief and works agency for palestine refugees in the near east","Canada"
+"2020","UNRWA","12.8","3.2%","united nations relief and works agency for palestine refugees in the near east","Canada"
+"2021","UNRWA","11.9","3.7%","united nations relief and works agency for palestine refugees in the near east","Canada"
+"2022","UNRWA","12.6","3.7%","united nations relief and works agency for palestine refugees in the near east","Canada"
+"2018","African Development Fund","5.1","1.6%","african development fund","Canada"
+"2019","African Development Fund","4.4","1.1%","african development fund","Canada"
+"2020","African Development Fund","3.4","0.8%","african development fund","Canada"
+"2021","African Development Fund","2.2","0.7%","african development fund","Canada"
+"2022","African Development Fund","3.6","1.1%","african development fund","Canada"
+"2018","IBRD","0.6","0.2%","international bank for reconstruction and development","Canada"
+"2019","IBRD","15.4","4%","international bank for reconstruction and development","Canada"
+"2020","IBRD","0","0%","international bank for reconstruction and development","Canada"
+"2021","IBRD","0","0%","international bank for reconstruction and development","Canada"
+"2022","IBRD","1","0.3%","international bank for reconstruction and development","Canada"
+"2018","UNICEF","0.8","0.3%","united nations childrenâ€™s fund","Canada"
+"2019","UNICEF","0.9","0.2%","united nations childrenâ€™s fund","Canada"
+"2020","UNICEF","0.9","0.2%","united nations childrenâ€™s fund","Canada"
+"2021","UNICEF","1","0.3%","united nations childrenâ€™s fund","Canada"
+"2022","UNICEF","0.9","0.3%","united nations childrenâ€™s fund","Canada"
+"2018","ADB","1.2","0.4%","asian development bank","Canada"
+"2019","ADB","1.2","0.3%","asian development bank","Canada"
+"2020","ADB","1.1","0.3%","asian development bank","Canada"
+"2021","ADB","0.9","0.3%","asian development bank","Canada"
+"2022","ADB","0.8","0.2%","asian development bank","Canada"
+"2018","UNFPA","0.6","0.2%","united nations population fund","Canada"
+"2019","UNFPA","0.6","0.2%","united nations population fund","Canada"
+"2020","UNFPA","0.7","0.2%","united nations population fund","Canada"
+"2021","UNFPA","0.6","0.2%","united nations population fund","Canada"
+"2022","UNFPA","0.6","0.2%","united nations population fund","Canada"
+"2018","UNDP","0","0%","united nations development programme","Canada"
+"2019","UNDP","0","0%","united nations development programme","Canada"
+"2020","UNDP","0","0%","united nations development programme","Canada"
+"2021","UNDP","0","0%","united nations development programme","Canada"
+"2022","UNDP","0.1","0%","united nations development programme","Canada"
+"2018","IDB, IIC and MIF","0.6","0.2%","inter american development bank inter american investment corporation and multilateral investment fund","Canada"
+"2019","IDB, IIC and MIF","0.5","0.1%","inter american development bank inter american investment corporation and multilateral investment fund","Canada"
+"2020","IDB, IIC and MIF","0.3","0.1%","inter american development bank inter american investment corporation and multilateral investment fund","Canada"
+"2021","IDB, IIC and MIF","0.1","0%","inter american development bank inter american investment corporation and multilateral investment fund","Canada"
+"2022","IDB, IIC and MIF","0","0%","inter american development bank inter american investment corporation and multilateral investment fund","Canada"
+"2018","CDB","0","0%","caribbean development bank","Canada"
+"2019","CDB","0","0%","caribbean development bank","Canada"
+"2020","CDB","0","0%","caribbean development bank","Canada"
+"2021","CDB","0","0%","caribbean development bank","Canada"
+"2022","CDB","0","0%","caribbean development bank","Canada"
+"2018","FAO","0","0%","food and agricultural organisation","Canada"
+"2019","FAO","0","0%","food and agricultural organisation","Canada"
+"2020","FAO","0","0%","food and agricultural organisation","Canada"
+"2021","FAO","0","0%","food and agricultural organisation","Canada"
+"2022","FAO","0","0%","food and agricultural organisation","Canada"
+"2018","WTO - international trade centre","0","0%","world trade organisation international trade centre","Canada"
+"2019","WTO - international trade centre","0","0%","world trade organisation international trade centre","Canada"
+"2020","WTO - international trade centre","0","0%","world trade organisation international trade centre","Canada"
+"2021","WTO - international trade centre","0","0%","world trade organisation international trade centre","Canada"
+"2022","WTO - international trade centre","0","0%","world trade organisation international trade centre","Canada"
+"2018","Adaptation Fund","0","0%","adaptation fund","Canada"
+"2019","Adaptation Fund","0","0%","adaptation fund","Canada"
+"2020","Adaptation Fund","0","0%","adaptation fund","Canada"
+"2021","Adaptation Fund","0","0%","adaptation fund","Canada"
+"2022","Adaptation Fund","0","0%","adaptation fund","Canada"
+"2018","IADB Fund for special operations","0","0%","inter american development bank fund for special operations","Canada"
+"2019","IADB Fund for special operations","0","0%","inter american development bank fund for special operations","Canada"
+"2020","IADB Fund for special operations","0","0%","inter american development bank fund for special operations","Canada"
+"2021","IADB Fund for special operations","0","0%","inter american development bank fund for special operations","Canada"
+"2022","IADB Fund for special operations","0","0%","inter american development bank fund for special operations","Canada"
+"2018","UN","0","0%","united nations","Canada"
+"2019","UN","0","0%","united nations","Canada"
+"2020","UN","0","0%","united nations","Canada"
+"2021","UN","0","0%","united nations","Canada"
+"2022","UN","0","0%","united nations","Canada"
+"2018","WFP","1","0.3%","world food programme","Canada"
+"2019","WFP","0.4","0.1%","world food programme","Canada"
+"2020","WFP","0","0%","world food programme","Canada"
+"2021","WFP","0","0%","world food programme","Canada"
+"2022","WFP","0","0%","world food programme","Canada"

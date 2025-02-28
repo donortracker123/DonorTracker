@@ -1,62 +1,106 @@
-Year,ODA,Share,Full Name,donor
-2020,0.5434999999999999,0.02463623589139204,international development association,Portugal
-2020,11.0499,0.5008793799011829,european commission development share of budget,Portugal
-2020,0.0024,0.00010878926612574223,world health organisation assessed contributions,Portugal
-2020,0.4467,0.020248402157653774,green climate fund,Portugal
-2020,0.9692999999999999,0.043937264856534146,food and agricultural organisation,Portugal
-2020,9.032200000000003,0.40941933729205393,european commission european development fund,Portugal
-2020,0.012799999999999999,0.0005802094193372919,inter american development bank inter american investment corporation and multilateral investment fund,Portugal
-2020,0.0041,0.00018584832963147634,united nations conference on trade and development,Portugal
-2020,0.0001,4.532886088572594e-06,united nations development programme,Portugal
-2020,0.0,0.0,united nations children’s fund,Portugal
-2023,0.0186,0.001047326782848616,united nations,Portugal
-2023,14.854800000000001,0.8364424674118077,european commission development share of budget,Portugal
-2023,0.0,0.0,world health organisation strategic preparedness and response plan,Portugal
-2023,0.0001,5.630789155100086e-06,united nations children’s fund,Portugal
-2023,0.2459,0.013846110532391112,african development bank,Portugal
-2023,0.2183,0.012292012725583489,world organisation for animal health,Portugal
-2023,0.36300000000000004,0.020439764633013315,african development fund,Portugal
-2023,0.0009,5.0677102395900776e-05,united nations development programme,Portugal
-2023,0.026799999999999997,0.001509051493566823,inter american development bank inter american investment corporation and multilateral investment fund,Portugal
-2023,0.8843000000000002,0.04979306849855007,food and agricultural organisation,Portugal
-2023,0.0299,0.0016836059573749258,international development association,Portugal
-2023,1.0963,0.06173034150736225,european commission european development fund,Portugal
-2023,0.0206,0.0011599425659506177,world health organisation core voluntary contributions account,Portugal
-2021,0.0067,0.0003152496118195079,world health organisation assessed contributions,Portugal
-2021,0.0,0.0,united nations children’s fund,Portugal
-2021,0.0002,9.410436173716653e-06,world health organisation strategic preparedness and response plan,Portugal
-2021,0.0004,1.8820872347433306e-05,world health organisation core voluntary contributions account,Portugal
-2021,12.677499999999997,0.5965040229614642,european commission development share of budget,Portugal
-2021,0.33649999999999997,0.015833058862278267,international development association,Portugal
-2021,0.9913,0.04664282689502659,food and agricultural organisation,Portugal
-2021,0.00030000000000000003,1.4115654260574982e-05,united nations development programme,Portugal
-2021,0.4533,0.021328753587728795,african development fund,Portugal
-2021,0.191,0.008986966545899405,african development bank,Portugal
-2021,6.5911,0.31012562932291915,european commission european development fund,Portugal
-2021,0.0028,0.00013174610643203316,inter american development bank inter american investment corporation and multilateral investment fund,Portugal
-2021,0.0019,8.93991436503082e-05,united nations conference on trade and development,Portugal
-2022,0.0109,0.0004917907047044969,world health organisation assessed contributions,Portugal
-2022,0.1549,0.006988842216396934,world organisation for animal health,Portugal
-2022,14.728299999999997,0.6645175262476367,european commission development share of budget,Portugal
-2022,0.6659999999999999,0.030048863241577514,adaptation fund,Portugal
-2022,0.0076,0.0003428999408948786,united nations,Portugal
-2022,0.9433999999999999,0.042564711084240585,food and agricultural organisation,Portugal
-2022,0.0012,5.41420959307703e-05,world health organisation core voluntary contributions account,Portugal
-2022,1.6115999999999997,0.0727128348350245,african development fund,Portugal
-2022,0.9816999999999999,0.04429274631269767,international development association,Portugal
-2022,0.0001,4.511841327564192e-06,united nations children’s fund,Portugal
-2022,0.00030000000000000003,1.3535523982692578e-05,united nations development programme,Portugal
-2022,0.0043,0.00019400917708526025,inter american development bank inter american investment corporation and multilateral investment fund,Portugal
-2022,2.8238000000000003,0.12740537540775768,european commission european development fund,Portugal
-2022,0.22979999999999998,0.010368211370742512,african development bank,Portugal
-2019,11.081199999999999,0.3982805345294832,european commission development share of budget,Portugal
-2019,0.0778,0.0027962879098287004,african development bank,Portugal
-2019,9.8022,0.3523107114360268,european commission european development fund,Portugal
-2019,0.028700000000000003,0.0010315355142941351,inter american development bank inter american investment corporation and multilateral investment fund,Portugal
-2019,2.1573,0.07753768519117553,food and agricultural organisation,Portugal
-2019,0.00039999999999999996,1.4376801592949616e-05,united nations development programme,Portugal
-2019,2.7899,0.10027459691042534,african development fund,Portugal
-2019,0.0,0.0,world food programme,Portugal
-2019,1.8657,0.06705699682991526,international development association,Portugal
-2019,0.0,0.0,united nations children’s fund,Portugal
-2019,0.0194,0.0006972748772580565,asian infrastructure investment bank,Portugal
+"Year","Multi_short","ODA","Share","Full Name","Donor"
+"2018","EC - Development Share of Budget","14.7","73%","european commission development share of budget","Portugal"
+"2019","EC - Development Share of Budget","13.5","63%","european commission development share of budget","Portugal"
+"2020","EC - Development Share of Budget","13.9","82%","european commission development share of budget","Portugal"
+"2021","EC - Development Share of Budget","16.3","85.2%","european commission development share of budget","Portugal"
+"2022","EC - Development Share of Budget","18.5","76.5%","european commission development share of budget","Portugal"
+"2018","African Development Fund","1.5","7.2%","african development fund","Portugal"
+"2019","African Development Fund","2.7","12.6%","african development fund","Portugal"
+"2020","African Development Fund","NA","NA%","african development fund","Portugal"
+"2021","African Development Fund","0.4","2.3%","african development fund","Portugal"
+"2022","African Development Fund","1.6","6.5%","african development fund","Portugal"
+"2018","IDA","2","9.9%","international development association","Portugal"
+"2019","IDA","1.8","8.4%","international development association","Portugal"
+"2020","IDA","0.5","3.1%","international development association","Portugal"
+"2021","IDA","0.3","1.7%","international development association","Portugal"
+"2022","IDA","1","3.9%","international development association","Portugal"
+"2018","FAO","NA","NA%","food and agricultural organisation","Portugal"
+"2019","FAO","2.1","9.7%","food and agricultural organisation","Portugal"
+"2020","FAO","0.9","5.5%","food and agricultural organisation","Portugal"
+"2021","FAO","1","5%","food and agricultural organisation","Portugal"
+"2022","FAO","0.9","3.8%","food and agricultural organisation","Portugal"
+"2018","Adaptation Fund","NA","NA%","adaptation fund","Portugal"
+"2019","Adaptation Fund","NA","NA%","adaptation fund","Portugal"
+"2020","Adaptation Fund","NA","NA%","adaptation fund","Portugal"
+"2021","Adaptation Fund","NA","NA%","adaptation fund","Portugal"
+"2022","Adaptation Fund","0.6","2.7%","adaptation fund","Portugal"
+"2018","AfDB","0","0.2%","african development bank","Portugal"
+"2019","AfDB","0.1","0.4%","african development bank","Portugal"
+"2020","AfDB","NA","NA%","african development bank","Portugal"
+"2021","AfDB","0.2","1%","african development bank","Portugal"
+"2022","AfDB","0.2","0.9%","african development bank","Portugal"
+"2018",NA,"NA","NA%","world organisation for animal health","Portugal"
+"2019",NA,"NA","NA%","world organisation for animal health","Portugal"
+"2020",NA,"NA","NA%","world organisation for animal health","Portugal"
+"2021",NA,"NA","NA%","world organisation for animal health","Portugal"
+"2022",NA,"0.2","0.6%","world organisation for animal health","Portugal"
+"2018","WTO - international trade centre","NA","NA%","world trade organisation international trade centre","Portugal"
+"2019","WTO - international trade centre","NA","NA%","world trade organisation international trade centre","Portugal"
+"2020","WTO - international trade centre","0","0.3%","world trade organisation international trade centre","Portugal"
+"2021","WTO - international trade centre","0","0.1%","world trade organisation international trade centre","Portugal"
+"2022","WTO - international trade centre","0","0.1%","world trade organisation international trade centre","Portugal"
+"2018","WHO - assessed contributions","NA","NA%","world health organisation assessed contributions","Portugal"
+"2019","WHO - assessed contributions","NA","NA%","world health organisation assessed contributions","Portugal"
+"2020","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Portugal"
+"2021","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Portugal"
+"2022","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Portugal"
+"2018","UN","NA","NA%","united nations","Portugal"
+"2019","UN","NA","NA%","united nations","Portugal"
+"2020","UN","NA","NA%","united nations","Portugal"
+"2021","UN","NA","NA%","united nations","Portugal"
+"2022","UN","0","0%","united nations","Portugal"
+"2018","IDB, IIC and MIF","0","0.1%","inter american development bank inter american investment corporation and multilateral investment fund","Portugal"
+"2019","IDB, IIC and MIF","0","0.1%","inter american development bank inter american investment corporation and multilateral investment fund","Portugal"
+"2020","IDB, IIC and MIF","0","0.1%","inter american development bank inter american investment corporation and multilateral investment fund","Portugal"
+"2021","IDB, IIC and MIF","0","0%","inter american development bank inter american investment corporation and multilateral investment fund","Portugal"
+"2022","IDB, IIC and MIF","0","0%","inter american development bank inter american investment corporation and multilateral investment fund","Portugal"
+"2018","WHO - core voluntary contributions","NA","NA%","world health organisation core voluntary contributions account","Portugal"
+"2019","WHO - core voluntary contributions","NA","NA%","world health organisation core voluntary contributions account","Portugal"
+"2020","WHO - core voluntary contributions","NA","NA%","world health organisation core voluntary contributions account","Portugal"
+"2021","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Portugal"
+"2022","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Portugal"
+"2018","UNDP","0","0%","united nations development programme","Portugal"
+"2019","UNDP","0","0%","united nations development programme","Portugal"
+"2020","UNDP","0","0%","united nations development programme","Portugal"
+"2021","UNDP","0","0%","united nations development programme","Portugal"
+"2022","UNDP","0","0%","united nations development programme","Portugal"
+"2018","UNICEF","0","0%","united nations childrenâ€™s fund","Portugal"
+"2019","UNICEF","0","0%","united nations childrenâ€™s fund","Portugal"
+"2020","UNICEF","0","0%","united nations childrenâ€™s fund","Portugal"
+"2021","UNICEF","0","0%","united nations childrenâ€™s fund","Portugal"
+"2022","UNICEF","0","0%","united nations childrenâ€™s fund","Portugal"
+"2018","IBRD","NA","NA%","international bank for reconstruction and development","Portugal"
+"2019","IBRD","NA","NA%","international bank for reconstruction and development","Portugal"
+"2020","IBRD","NA","NA%","international bank for reconstruction and development","Portugal"
+"2021","IBRD","NA","NA%","international bank for reconstruction and development","Portugal"
+"2022","IBRD","NA","NA%","international bank for reconstruction and development","Portugal"
+"2018","WFP","0","0%","world food programme","Portugal"
+"2019","WFP","0","0%","world food programme","Portugal"
+"2020","WFP","NA","NA%","world food programme","Portugal"
+"2021","WFP","NA","NA%","world food programme","Portugal"
+"2022","WFP","NA","NA%","world food programme","Portugal"
+"2018","ADB","0.6","3%","asian development bank","Portugal"
+"2019","ADB","NA","NA%","asian development bank","Portugal"
+"2020","ADB","NA","NA%","asian development bank","Portugal"
+"2021","ADB","NA","NA%","asian development bank","Portugal"
+"2022","ADB","NA","NA%","asian development bank","Portugal"
+"2018",NA,"0","0.1%","asian infrastructure investment bank","Portugal"
+"2019",NA,"0","0.1%","asian infrastructure investment bank","Portugal"
+"2020",NA,"NA","NA%","asian infrastructure investment bank","Portugal"
+"2021",NA,"NA","NA%","asian infrastructure investment bank","Portugal"
+"2022",NA,"NA","NA%","asian infrastructure investment bank","Portugal"
+"2018","GCF","NA","NA%","green climate fund","Portugal"
+"2019","GCF","NA","NA%","green climate fund","Portugal"
+"2020","GCF","0.4","2.5%","green climate fund","Portugal"
+"2021","GCF","NA","NA%","green climate fund","Portugal"
+"2022","GCF","NA","NA%","green climate fund","Portugal"
+"2018",NA,"NA","NA%","united nations conference on trade and development","Portugal"
+"2019",NA,"NA","NA%","united nations conference on trade and development","Portugal"
+"2020",NA,"0","0%","united nations conference on trade and development","Portugal"
+"2021",NA,"0","0%","united nations conference on trade and development","Portugal"
+"2022",NA,"NA","NA%","united nations conference on trade and development","Portugal"
+"2018","WHO - strategic preparedness and response plan","NA","NA%","world health organisation strategic preparedness and response plan","Portugal"
+"2019","WHO - strategic preparedness and response plan","NA","NA%","world health organisation strategic preparedness and response plan","Portugal"
+"2020","WHO - strategic preparedness and response plan","NA","NA%","world health organisation strategic preparedness and response plan","Portugal"
+"2021","WHO - strategic preparedness and response plan","0","0%","world health organisation strategic preparedness and response plan","Portugal"
+"2022","WHO - strategic preparedness and response plan","NA","NA%","world health organisation strategic preparedness and response plan","Portugal"

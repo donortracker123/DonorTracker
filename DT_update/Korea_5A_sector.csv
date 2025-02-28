@@ -1,113 +1,106 @@
-donor,Year,Sector,Bilateral ODA for,share
-Korea,2023,Infrastructure,51285.245255999944,19.2962243513621
-Korea,2023,Health & populations,34368.93895679998,12.931414357448032
-Korea,2023,Education,24075.024523200012,9.058298778630924
-Korea,2023,"Agriculture (incl. forestry, fishing, rural development)",22684.235515199973,8.535010324226247
-Korea,2023,Energy,17855.736897599993,6.718273519315469
-Korea,2023,Government & civil society,14772.989548799975,5.5583807633370315
-Korea,2023,Water and sanitation,13310.193859199997,5.00799958321731
-Korea,2023,Unspecified,12626.233905599993,4.750657639230626
-Korea,2023,Emergency Response,12336.240873600002,4.641546908105695
-Korea,2023,Environmental protection,11567.337868800001,4.352244891297625
-Korea,2023,Donor administration costs,10633.244630399999,4.000789563292772
-Korea,2023,Other multisector,9863.606087999999,3.711210798299574
-Korea,2023,Financial services & business support,8196.185591999996,3.0838389329946834
-Korea,2023,"Industry, construction & mining",5970.9024144,2.2465695931301553
-Korea,2023,Other social services,5386.744238399999,2.0267783614706016
-Korea,2023,Food aid and commodity assistance,3970.7274096,1.4939978652979253
-Korea,2023,"Conflict, peace & security",3112.3514016,1.1710313679064206
-Korea,2023,Disaster Prevention & Preparedness,1203.6199392,0.45286554182674676
-Korea,2023,Trade policy,984.5475696000003,0.37043891849902544
-Korea,2023,Reconstruction Relief & Rehabilitation,907.0680527999998,0.3412870224450034
-Korea,2023,Tourism,540.0032399999998,0.20317780713515007
-Korea,2023,Refugees in donor countries,127.475712,0.047963111530871454
-Korea,2022,Health & populations,41883.53410079999,16.814323725698983
-Korea,2022,Infrastructure,31257.658152000004,12.548520423564812
-Korea,2022,Energy,24095.661912000007,9.673306431073698
-Korea,2022,Education,23640.26999039998,9.490487398338235
-Korea,2022,"Agriculture (incl. forestry, fishing, rural development)",18484.681924799992,7.42075454048724
-Korea,2022,Water and sanitation,17170.826601599998,6.893301707117201
-Korea,2022,Unspecified,15553.269547199994,6.243926516093141
-Korea,2022,Emergency Response,14883.765623999981,5.975151305452654
-Korea,2022,Government & civil society,12892.348728000015,5.175688483581315
-Korea,2022,Donor administration costs,10253.291630400001,4.116227735525609
-Korea,2022,Other multisector,8834.500382400001,3.546647926771963
-Korea,2022,Financial services & business support,5319.5832144,2.135569411059024
-Korea,2022,"Industry, construction & mining",5197.7293199999995,2.0866506444920065
-Korea,2022,Environmental protection,5192.821871999999,2.084680528523749
-Korea,2022,Other social services,4951.8958608,1.987959751893279
-Korea,2022,Food aid and commodity assistance,4047.6624047999994,1.6249513673524625
-Korea,2022,"Conflict, peace & security",1874.9060063999996,0.7526890274110106
-Korea,2022,Refugees in donor countries,1089.0252576,0.4371938428758183
-Korea,2022,Disaster Prevention & Preparedness,790.6945536,0.31742770704068896
-Korea,2022,Reconstruction Relief & Rehabilitation,710.1998064,0.2851127468374322
-Korea,2022,Trade policy,578.4645887999999,0.23222708085062874
-Korea,2022,Tourism,391.5805823999999,0.15720169795904554
-Korea,2021,Health & populations,58570.740143999996,26.402152237475626
-Korea,2021,Infrastructure,27747.032040000013,12.507633713644305
-Korea,2021,Water and sanitation,19017.28735200001,8.572493954778185
-Korea,2021,Education,18947.70884160002,8.541129788651533
-Korea,2021,"Agriculture (incl. forestry, fishing, rural development)",14654.795601600012,6.605997184451966
-Korea,2021,Emergency Response,13272.646161599994,5.982960496848141
-Korea,2021,Government & civil society,11762.02933919999,5.302014085390128
-Korea,2021,Other social services,11188.20255839999,5.043348034946266
-Korea,2021,Unspecified,9722.057990399999,4.382448548422548
-Korea,2021,Donor administration costs,9468.888307199999,4.268326300670066
-Korea,2021,Energy,9005.577134400006,4.059477785395807
-Korea,2021,Other multisector,6772.817116800018,3.0530081770300606
-Korea,2021,"Industry, construction & mining",4102.250947200001,1.849187047287094
-Korea,2021,Environmental protection,2862.3931056,1.2902916772393493
-Korea,2021,"Conflict, peace & security",1088.0769311999998,0.49047651972638673
-Korea,2021,Financial services & business support,989.7629616000003,0.4461591628675176
-Korea,2021,Trade policy,785.9905200000002,0.35430389500342446
-Korea,2021,Reconstruction Relief & Rehabilitation,756.2840543999998,0.34091300007397246
-Korea,2021,Disaster Prevention & Preparedness,744.3859247999999,0.33554963556350037
-Korea,2021,Tourism,302.51370240000006,0.13636523637998432
-Korea,2021,Refugees in donor countries,48.3186816,0.02178079335143927
-Korea,2021,Food aid and commodity assistance,31.0193856,0.013982724802702627
-Korea,2020,Health & populations,60236.627875200014,32.637030693157364
-Korea,2020,Infrastructure,19858.780972800003,10.759759750840983
-Korea,2020,Education,18568.78894079989,10.060824384977819
-Korea,2020,Water and sanitation,14264.8975728,7.728917045004383
-Korea,2020,Emergency Response,10980.2702016,5.949260910342592
-Korea,2020,"Agriculture (incl. forestry, fishing, rural development)",10351.557115200012,5.608615541871125
-Korea,2020,Unspecified,10054.191067200007,5.447498540836697
-Korea,2020,Donor administration costs,9144.29628,4.954505072495208
-Korea,2020,Government & civil society,7731.306979200006,4.188928100376908
-Korea,2020,Other multisector,6536.4920207999985,3.5415609776565597
-Korea,2020,Energy,5856.283238400007,3.1730145352006787
-Korea,2020,Other social services,2833.2684575999947,1.535103688145136
-Korea,2020,"Conflict, peace & security",1461.9829391999997,0.7921223969973828
-Korea,2020,"Industry, construction & mining",1383.078614399999,0.7493709522177072
-Korea,2020,Disaster Prevention & Preparedness,1208.8070064000003,0.6549482061266445
-Korea,2020,Environmental protection,1159.4384927999988,0.6281996687254967
-Korea,2020,Trade policy,922.1922863999997,0.4996564219794453
-Korea,2020,Financial services & business support,716.2164576000001,0.3880558944644945
-Korea,2020,Tourism,485.605008,0.2631074499004615
-Korea,2020,Food aid and commodity assistance,385.16123519999996,0.20868563693639633
-Korea,2020,Reconstruction Relief & Rehabilitation,295.029504,0.15985102946639707
-Korea,2020,Refugees in donor countries,131.0101632,0.07098310228010514
-Korea,2020,Debt relief,,
-Korea,2019,Infrastructure,28581.289531200036,14.530738285189912
-Korea,2019,Water and sanitation,27902.142979200027,14.185459924196838
-Korea,2019,Education,24037.92931680004,12.220892253270206
-Korea,2019,Energy,18141.207235199996,9.222996541997414
-Korea,2019,Health & populations,18052.30103040001,9.17779659423201
-Korea,2019,"Agriculture (incl. forestry, fishing, rural development)",14862.017116799989,7.555855059600807
-Korea,2019,Unspecified,12927.6966672,6.572445819715186
-Korea,2019,Government & civil society,10657.30256639999,5.418176609889969
-Korea,2019,Emergency Response,9000.155908799998,4.575682629501964
-Korea,2019,Donor administration costs,8520.349017600001,4.331748626599576
-Korea,2019,Other multisector,6604.138900800005,3.357546686681547
-Korea,2019,Other social services,4435.433553600003,2.2549760772114977
-Korea,2019,Environmental protection,3019.13388,1.5349287935500646
-Korea,2019,"Industry, construction & mining",2966.6258495999964,1.5082336912601433
-Korea,2019,Reconstruction Relief & Rehabilitation,1764.2779055999997,0.8969595469312683
-Korea,2019,"Conflict, peace & security",1685.3009040000002,0.8568076097856097
-Korea,2019,Disaster Prevention & Preparedness,1110.2294448,0.5644410648893192
-Korea,2019,Financial services & business support,665.3411855999998,0.33825970755300766
-Korea,2019,Food aid and commodity assistance,631.9969487999999,0.32130748509533
-Korea,2019,Trade policy,550.7873279999998,0.2800204835135378
-Korea,2019,Tourism,369.17233919999995,0.1876873552955231
-Korea,2019,Refugees in donor countries,135.5611824,0.06891935582315159
-Korea,2019,General budget support,74.97987839999999,0.038119798216117044
+"Year","Sector","Bilateral ODA for","Share","Donor"
+"2018","Health & populations",202.88045,"10.70%","Korea"
+"2019","Health & populations",199.025894,"9.18%","Korea"
+"2020","Health & populations",664.106434,"32.64%","Korea"
+"2021","Health & populations",647.411103,"26.40%","Korea"
+"2022","Health & populations",459.288381,"16.81%","Korea"
+"2018","Infrastructure",390.101175,"20.58%","Korea"
+"2019","Infrastructure",315.107588,"14.53%","Korea"
+"2020","Infrastructure",218.94227,"10.76%","Korea"
+"2021","Infrastructure",306.701547,"12.51%","Korea"
+"2022","Infrastructure",342.766661,"12.55%","Korea"
+"2018","Energy",73.36949,"3.87%","Korea"
+"2019","Energy",200.006085,"9.22%","Korea"
+"2020","Energy",64.565291,"3.17%","Korea"
+"2021","Energy",99.543054,"4.06%","Korea"
+"2022","Energy",264.229324,"9.67%","Korea"
+"2018","Education",226.669067,"11.96%","Korea"
+"2019","Education",265.017169,"12.22%","Korea"
+"2020","Education",204.720328,"10.06%","Korea"
+"2021","Education",209.438317,"8.54%","Korea"
+"2022","Education",259.235557,"9.49%","Korea"
+"2018","Agriculture (incl. forestry, fishing, rural development)",162.430333,"8.57%","Korea"
+"2019","Agriculture (incl. forestry, fishing, rural development)",185.361983,"8.55%","Korea"
+"2020","Agriculture (incl. forestry, fishing, rural development)",128.093018,"6.30%","Korea"
+"2021","Agriculture (incl. forestry, fishing, rural development)",179.389626,"7.32%","Korea"
+"2022","Agriculture (incl. forestry, fishing, rural development)",219.714115,"8.04%","Korea"
+"2018","Water and sanitation",159.191388,"8.40%","Korea"
+"2019","Water and sanitation",307.620008,"14.19%","Korea"
+"2020","Water and sanitation",157.269939,"7.73%","Korea"
+"2021","Water and sanitation",210.207401,"8.57%","Korea"
+"2022","Water and sanitation",188.292646,"6.89%","Korea"
+"2018","Humanitarian aid",133.258095,"7.03%","Korea"
+"2019","Humanitarian aid",130.917664,"6.04%","Korea"
+"2020","Humanitarian aid",137.636762,"6.76%","Korea"
+"2021","Humanitarian aid",163.296691,"6.66%","Korea"
+"2022","Humanitarian aid",179.671665,"6.58%","Korea"
+"2018","Unspecified",92.218065,"4.87%","Korea"
+"2019","Unspecified",142.527349,"6.57%","Korea"
+"2020","Unspecified",110.847071,"5.45%","Korea"
+"2021","Unspecified",107.462676,"4.38%","Korea"
+"2022","Unspecified",170.554762,"6.24%","Korea"
+"2018","Government & civil society",108.703672,"5.74%","Korea"
+"2019","Government & civil society",117.496361,"5.42%","Korea"
+"2020","Government & civil society",85.237329,"4.19%","Korea"
+"2021","Government & civil society",130.011465,"5.30%","Korea"
+"2022","Government & civil society",141.37552,"5.18%","Korea"
+"2018","Donor administration costs",84.414056,"4.45%","Korea"
+"2019","Donor administration costs",93.936506,"4.33%","Korea"
+"2020","Donor administration costs",100.815505,"4.95%","Korea"
+"2021","Donor administration costs",104.664266,"4.27%","Korea"
+"2022","Donor administration costs",112.436022,"4.12%","Korea"
+"2018","Other multisector",49.253323,"2.60%","Korea"
+"2019","Other multisector",51.301535,"2.37%","Korea"
+"2020","Other multisector",58.097046,"2.86%","Korea"
+"2021","Other multisector",57.460287,"2.34%","Korea"
+"2022","Other multisector",79.863797,"2.92%","Korea"
+"2018","Financial services & business support",11.203084,"0.59%","Korea"
+"2019","Financial services & business support",7.335369,"0.34%","Korea"
+"2020","Financial services & business support",7.896256,"0.39%","Korea"
+"2021","Financial services & business support",10.94034,"0.45%","Korea"
+"2022","Financial services & business support",58.33373,"2.14%","Korea"
+"2018","Industry, construction & mining",22.558735,"1.19%","Korea"
+"2019","Industry, construction & mining",32.706946,"1.51%","Korea"
+"2020","Industry, construction & mining",15.248405,"0.75%","Korea"
+"2021","Industry, construction & mining",45.344185,"1.85%","Korea"
+"2022","Industry, construction & mining",56.997494,"2.09%","Korea"
+"2018","Environmental protection",54.76804,"2.89%","Korea"
+"2019","Environmental protection",33.285857,"1.53%","Korea"
+"2020","Environmental protection",12.78278,"0.63%","Korea"
+"2021","Environmental protection",31.639426,"1.29%","Korea"
+"2022","Environmental protection",56.94368,"2.08%","Korea"
+"2018","Other social services",56.341901,"2.97%","Korea"
+"2019","Other social services",48.900422,"2.25%","Korea"
+"2020","Other social services",31.236642,"1.54%","Korea"
+"2021","Other social services",123.668692,"5.04%","Korea"
+"2022","Other social services",54.301721,"1.99%","Korea"
+"2018","Food aid and commodity assistance",13.873276,"0.73%","Korea"
+"2019","Food aid and commodity assistance",6.967741,"0.32%","Korea"
+"2020","Food aid and commodity assistance",4.246388,"0.21%","Korea"
+"2021","Food aid and commodity assistance",0.342873,"0.01%","Korea"
+"2022","Food aid and commodity assistance",44.386045,"1.62%","Korea"
+"2018","Conflict, peace & security",46.224094,"2.44%","Korea"
+"2019","Conflict, peace & security",18.580375,"0.86%","Korea"
+"2020","Conflict, peace & security",16.118302,"0.79%","Korea"
+"2021","Conflict, peace & security",12.027049,"0.49%","Korea"
+"2022","Conflict, peace & security",20.559931,"0.75%","Korea"
+"2018","Refugees in donor countries",1.817196,"0.10%","Korea"
+"2019","Refugees in donor countries",1.494557,"0.07%","Korea"
+"2020","Refugees in donor countries",1.444382,"0.07%","Korea"
+"2021","Refugees in donor countries",0.53409,"0.02%","Korea"
+"2022","Refugees in donor countries",11.942085,"0.44%","Korea"
+"2018","Trade policy",3.032188,"0.16%","Korea"
+"2019","Trade policy",6.072415,"0.28%","Korea"
+"2020","Trade policy",10.1671,"0.50%","Korea"
+"2021","Trade policy",8.687942,"0.35%","Korea"
+"2022","Trade policy",6.343352,"0.23%","Korea"
+"2018","Tourism",3.057661,"0.16%","Korea"
+"2019","Tourism",4.070113,"0.19%","Korea"
+"2020","Tourism",5.353782,"0.26%","Korea"
+"2021","Tourism",3.343834,"0.14%","Korea"
+"2022","Tourism",4.294007,"0.16%","Korea"
+"2018","General budget support",0,"0.00%","Korea"
+"2019","General budget support",0.82665,"0.04%","Korea"
+"2020","General budget support",0,"0.00%","Korea"
+"2021","General budget support",0,"0.00%","Korea"
+"2022","General budget support",0,"0.00%","Korea"

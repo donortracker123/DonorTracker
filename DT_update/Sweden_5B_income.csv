@@ -1,27 +1,36 @@
-donor,year,incomegroup_name,total_oda,share
-Sweden,2023,Part I unallocated by income,1373.4671899999996,42.38807890435045
-Sweden,2023,LDCs,1015.0309920000019,31.32598586447282
-Sweden,2023,LMICs,463.82808800000015,14.31470786877553
-Sweden,2023,UMICs,335.28636700000004,10.347640688780494
-Sweden,2023,Other LICs,52.60778699999999,1.6235866736206943
-Sweden,2022,Part I unallocated by income,1697.3271189999987,47.80970332325011
-Sweden,2022,LDCs,1049.7023240000003,29.567639688532086
-Sweden,2022,LMICs,444.6676860000001,12.525240365935707
-Sweden,2022,UMICs,299.1131159999999,8.425311288538307
-Sweden,2022,Other LICs,59.362629999999996,1.6721053337437832
-Sweden,2021,Part I unallocated by income,1613.8840860000034,45.35242109506558
-Sweden,2021,LDCs,1216.3930610000016,34.18236216475571
-Sweden,2021,UMICs,333.1875099999996,9.363039383199125
-Sweden,2021,LMICs,319.0232729999998,8.965004328211725
-Sweden,2021,Other LICs,76.02595700000002,2.136436715579177
-Sweden,2021,MADCTs,0.026202,0.000736313188686406
-Sweden,2020,Part I unallocated by income,1792.408576999999,50.1134823099717
-Sweden,2020,LDCs,1125.853271,31.477436954868075
-Sweden,2020,UMICs,314.246223,8.785927906930525
-Sweden,2020,LMICs,283.11022199999985,7.915404603628584
-Sweden,2020,Other LICs,61.081019,1.707748224601107
-Sweden,2019,Part I unallocated by income,1853.1941780000002,50.432905643859485
-Sweden,2019,LDCs,1149.0735600000005,31.270937021761853
-Sweden,2019,UMICs,303.1067039999999,8.248758810234747
-Sweden,2019,LMICs,293.805478,7.995634847943619
-Sweden,2019,Other LICs,75.39356400000001,2.0517636762003044
+Year,Income Group,ODA,Share,Donor
+2018,Countries unspecified,1925.157833,44.58%,Sweden
+2019,Countries unspecified,1649.327192,40.17%,Sweden
+2020,Countries unspecified,1616.033935,40.44%,Sweden
+2021,Countries unspecified,1328.182216,33.55%,Sweden
+2022,Countries unspecified,1531.580497,38.89%,Sweden
+2018,Low income countries,1042.505979,24.14%,Sweden
+2019,Low income countries,1082.272628,26.36%,Sweden
+2020,Low income countries,1033.957512,25.88%,Sweden
+2021,Low income countries,1148.272764,29%,Sweden
+2022,Low income countries,993.090301,25.22%,Sweden
+2018,Lower-middle income countries,636.836168,14.75%,Sweden
+2019,Lower-middle income countries,573.589647,13.97%,Sweden
+2020,Lower-middle income countries,560.93676,14.04%,Sweden
+2021,Lower-middle income countries,588.35177,14.86%,Sweden
+2022,Lower-middle income countries,692.859705,17.59%,Sweden
+2018,Upper-middle income countries,355.969512,8.24%,Sweden
+2019,Upper-middle income countries,366.252143,8.92%,Sweden
+2020,Upper-middle income countries,385.152731,9.64%,Sweden
+2021,Upper-middle income countries,411.69803,10.40%,Sweden
+2022,Upper-middle income countries,358.166353,9.09%,Sweden
+2018,Unallocated by income,354.501847,8.21%,Sweden
+2019,Unallocated by income,421.628556,10.27%,Sweden
+2020,Unallocated by income,386.80796,9.68%,Sweden
+2021,Unallocated by income,467.836706,11.82%,Sweden
+2022,Unallocated by income,351.57861,8.93%,Sweden
+2018,Countries not classified,3.325085,0.08%,Sweden
+2019,Countries not classified,12.550191,0.31%,Sweden
+2020,Countries not classified,12.98718,0.33%,Sweden
+2021,Countries not classified,14.18543,0.36%,Sweden
+2022,Countries not classified,9.917916,0.25%,Sweden
+2018,High income countries,0.014203,0%,Sweden
+2019,High income countries,0.017163,0%,Sweden
+2020,High income countries,0,0%,Sweden
+2021,High income countries,0.831849,0.02%,Sweden
+2022,High income countries,0.940639,0.02%,Sweden

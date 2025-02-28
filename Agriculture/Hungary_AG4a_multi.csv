@@ -1,46 +1,86 @@
-Year,ODA,Share,Full Name,donor
-2020,0.0016,9.57012207886977e-05,world health organisation assessed contributions,Hungary
-2020,0.0002,1.1962652598587213e-05,united nations industrial development organisation,Hungary
-2020,0.6523999999999999,0.03902217277659148,food and agricultural organisation,Hungary
-2020,0.6345999999999999,0.03795749669531722,international bank for reconstruction and development,Hungary
-2020,5.041799999999998,0.3015665093577849,european commission european development fund,Hungary
-2020,0.0738,0.004414218808878681,asian infrastructure investment bank,Hungary
-2020,9.632800000000001,0.5761691997583546,european commission development share of budget,Hungary
-2020,0.0002,1.1962652598587213e-05,council of europe development bank,Hungary
-2020,0.6812999999999999,0.04075077607708733,international development association,Hungary
-2022,0.9751000000000001,0.09354105311627639,international bank for reconstruction and development,Hungary
-2022,6.4665,0.6203294225991193,international finance corporation,Hungary
-2022,0.0073,0.0007002868298111144,world health organisation assessed contributions,Hungary
-2022,0.0121,0.0011607494028376005,united nations,Hungary
-2022,0.7866000000000002,0.07545830415471544,international development association,Hungary
-2022,0.00039999999999999996,3.837188108554051e-05,united nations children’s fund,Hungary
-2022,2.1724,0.20839768617557053,european commission european development fund,Hungary
-2022,0.0039,0.00037412584058402,food and agricultural organisation,Hungary
-2022,0.0,0.0,council of europe development bank,Hungary
-2019,0.0313,0.0020744412926486573,asian infrastructure investment bank,Hungary
-2019,0.0,0.0,world food programme,Hungary
-2019,0.0,0.0,united nations children’s fund,Hungary
-2019,8.3531,0.5536107208186422,european commission development share of budget,Hungary
-2019,0.0001,6.62760796373373e-06,council of europe development bank,Hungary
-2019,5.364000000000002,0.3555048911746773,european commission european development fund,Hungary
-2019,0.4935,0.03270724530102595,food and agricultural organisation,Hungary
-2019,0.8464000000000002,0.05609607380504229,international development association,Hungary
-2023,3.5205,0.6488204939181718,international finance corporation,Hungary
-2023,0.49610000000000004,0.09143015112421674,european commission european development fund,Hungary
-2023,0.0235,0.004330998894213048,united nations,Hungary
-2023,0.00030000000000000003,5.528934758569849e-05,united nations children’s fund,Hungary
-2023,0.0991,0.018263914485809066,european investment bank,Hungary
-2023,0.0057,0.0010504976041282713,world health organisation assessed contributions,Hungary
-2023,0.6978999999999999,0.12862145226686322,international development association,Hungary
-2023,0.5828999999999999,0.10742720235901214,international bank for reconstruction and development,Hungary
-2021,0.5802,0.0427835089556311,food and agricultural organisation,Hungary
-2021,0.5908999999999999,0.043572518858811464,international bank for reconstruction and development,Hungary
-2021,0.0046,0.00033920051912427276,world health organisation assessed contributions,Hungary
-2021,0.0888,0.006548044803964223,european investment bank,Hungary
-2021,0.0019,0.00014010456224698223,united nations industrial development organisation,Hungary
-2021,0.6762,0.0498624763112681,international development association,Hungary
-2021,0.0,0.0,council of europe development bank,Hungary
-2021,3.5606000000000004,0.2625559496508447,european commission european development fund,Hungary
-2021,0.041499999999999995,0.003060178596447243,asian infrastructure investment bank,Hungary
-2021,7.947799999999998,0.5860647578034553,european commission development share of budget,Hungary
-2021,0.0688,0.005073259938206514,world organisation for animal health,Hungary
+"Year","Multi_short","ODA","Share","Full Name","Donor"
+"2018","IFC","NA","NA%","international finance corporation","Hungary"
+"2019","IFC","NA","NA%","international finance corporation","Hungary"
+"2020","IFC","NA","NA%","international finance corporation","Hungary"
+"2021","IFC","0","0%","international finance corporation","Hungary"
+"2022","IFC","5.9","22.9%","international finance corporation","Hungary"
+"2018","IBRD","NA","NA%","international bank for reconstruction and development","Hungary"
+"2019","IBRD","NA","NA%","international bank for reconstruction and development","Hungary"
+"2020","IBRD","0.6","1.7%","international bank for reconstruction and development","Hungary"
+"2021","IBRD","0.5","1.6%","international bank for reconstruction and development","Hungary"
+"2022","IBRD","0.9","3.5%","international bank for reconstruction and development","Hungary"
+"2018","IDA","0.8","6%","international development association","Hungary"
+"2019","IDA","0.8","4.4%","international development association","Hungary"
+"2020","IDA","0.6","1.9%","international development association","Hungary"
+"2021","IDA","0.6","1.8%","international development association","Hungary"
+"2022","IDA","0.7","2.8%","international development association","Hungary"
+"2018","UN","NA","NA%","united nations","Hungary"
+"2019","UN","NA","NA%","united nations","Hungary"
+"2020","UN","NA","NA%","united nations","Hungary"
+"2021","UN","NA","NA%","united nations","Hungary"
+"2022","UN","0","0%","united nations","Hungary"
+"2018","WHO - assessed contributions","NA","NA%","world health organisation assessed contributions","Hungary"
+"2019","WHO - assessed contributions","NA","NA%","world health organisation assessed contributions","Hungary"
+"2020","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Hungary"
+"2021","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Hungary"
+"2022","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Hungary"
+"2018","FAO","1.1","8.3%","food and agricultural organisation","Hungary"
+"2019","FAO","0.4","2.6%","food and agricultural organisation","Hungary"
+"2020","FAO","0.6","1.8%","food and agricultural organisation","Hungary"
+"2021","FAO","0.5","1.6%","food and agricultural organisation","Hungary"
+"2022","FAO","0","0%","food and agricultural organisation","Hungary"
+"2018","UNICEF","0","0%","united nations childrenâ€™s fund","Hungary"
+"2019","UNICEF","0","0%","united nations childrenâ€™s fund","Hungary"
+"2020","UNICEF","NA","NA%","united nations childrenâ€™s fund","Hungary"
+"2021","UNICEF","NA","NA%","united nations childrenâ€™s fund","Hungary"
+"2022","UNICEF","0","0%","united nations childrenâ€™s fund","Hungary"
+"2018","CEB","0","0%","council of europe development bank","Hungary"
+"2019","CEB","0","0%","council of europe development bank","Hungary"
+"2020","CEB","0","0%","council of europe development bank","Hungary"
+"2021","CEB","0","0%","council of europe development bank","Hungary"
+"2022","CEB","0","0%","council of europe development bank","Hungary"
+"2018","EC - Development Share of Budget","NA","NA%","european commission development share of budget","Hungary"
+"2019","EC - Development Share of Budget","9.5","55.2%","european commission development share of budget","Hungary"
+"2020","EC - Development Share of Budget","11.3","34.5%","european commission development share of budget","Hungary"
+"2021","EC - Development Share of Budget","9.4","28.1%","european commission development share of budget","Hungary"
+"2022","EC - Development Share of Budget","NA","NA%","european commission development share of budget","Hungary"
+"2018","EIB","NA","NA%","european investment bank","Hungary"
+"2019","EIB","NA","NA%","european investment bank","Hungary"
+"2020","EIB","NA","NA%","european investment bank","Hungary"
+"2021","EIB","0.1","0.2%","european investment bank","Hungary"
+"2022","EIB","NA","NA%","european investment bank","Hungary"
+"2018","Global Green Growth Institute","NA","NA%","global green growth institute","Hungary"
+"2019","Global Green Growth Institute","NA","NA%","global green growth institute","Hungary"
+"2020","Global Green Growth Institute","NA","NA%","global green growth institute","Hungary"
+"2021","Global Green Growth Institute","NA","NA%","global green growth institute","Hungary"
+"2022","Global Green Growth Institute","NA","NA%","global green growth institute","Hungary"
+"2018","UNECE","0","0%","united nations economic commission for europe extrabudgetary contributions only","Hungary"
+"2019","UNECE","NA","NA%","united nations economic commission for europe extrabudgetary contributions only","Hungary"
+"2020","UNECE","NA","NA%","united nations economic commission for europe extrabudgetary contributions only","Hungary"
+"2021","UNECE","NA","NA%","united nations economic commission for europe extrabudgetary contributions only","Hungary"
+"2022","UNECE","NA","NA%","united nations economic commission for europe extrabudgetary contributions only","Hungary"
+"2018",NA,"0","0.1%","asian infrastructure investment bank","Hungary"
+"2019",NA,"0","0.2%","asian infrastructure investment bank","Hungary"
+"2020",NA,"0.1","0.2%","asian infrastructure investment bank","Hungary"
+"2021",NA,"0","0.1%","asian infrastructure investment bank","Hungary"
+"2022",NA,"NA","NA%","asian infrastructure investment bank","Hungary"
+"2018","WFP","0","0%","world food programme","Hungary"
+"2019","WFP","0","0%","world food programme","Hungary"
+"2020","WFP","NA","NA%","world food programme","Hungary"
+"2021","WFP","NA","NA%","world food programme","Hungary"
+"2022","WFP","NA","NA%","world food programme","Hungary"
+"2018","UNIDO","NA","NA%","united nations industrial development organisation","Hungary"
+"2019","UNIDO","NA","NA%","united nations industrial development organisation","Hungary"
+"2020","UNIDO","0","0%","united nations industrial development organisation","Hungary"
+"2021","UNIDO","0","0%","united nations industrial development organisation","Hungary"
+"2022","UNIDO","NA","NA%","united nations industrial development organisation","Hungary"
+"2018","WTO - international trade centre","NA","NA%","world trade organisation international trade centre","Hungary"
+"2019","WTO - international trade centre","NA","NA%","world trade organisation international trade centre","Hungary"
+"2020","WTO - international trade centre","0","0.1%","world trade organisation international trade centre","Hungary"
+"2021","WTO - international trade centre","NA","NA%","world trade organisation international trade centre","Hungary"
+"2022","WTO - international trade centre","NA","NA%","world trade organisation international trade centre","Hungary"
+"2018",NA,"NA","NA%","world organisation for animal health","Hungary"
+"2019",NA,"NA","NA%","world organisation for animal health","Hungary"
+"2020",NA,"NA","NA%","world organisation for animal health","Hungary"
+"2021",NA,"0.1","0.2%","world organisation for animal health","Hungary"
+"2022",NA,"NA","NA%","world organisation for animal health","Hungary"

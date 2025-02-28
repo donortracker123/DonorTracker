@@ -1,6 +1,6 @@
-donor,Year,Gender funding as % of bilateral allocable ODA,Funding for projects with gender equality as a principal objective,Funding for projects with gender equality as a significant objective,Principal,Significant,Not targeted or screened
-Portugal,2019,41.059060702316366,1.8567935671451934,33.52140287116119,2.1549487384986286,38.90411196381773,58.94093929768364
-Portugal,2020,50.234523232319845,1.5353652553152828,36.91711793567141,2.0058091230454327,48.228714109274414,49.765476767680155
-Portugal,2021,37.76836736991498,2.918696165727785,36.82806105760493,2.7734184303130487,34.994948939601926,62.23163263008502
-Portugal,2022,56.332369071362855,2.1275522442304196,55.69796292931127,2.072615486103481,54.25975358525937,43.66763092863715
-Portugal,2023,37.145763486803624,2.625137197892059,47.74506451026712,1.9359208850957073,35.20984260170791,62.85423651319638
+"Year","Gender funding as a % of bilateral allocable ODA","Funding for projects with gender equality as a principal objective","Funding for projects with gender equality as a Significant objective","Principal","Significant","Not targeted","Not screened"
+2018,"29%",2,37,"2%","28%","71%","0%"
+2019,"35%",2,39,"2%","33%","65%","0%"
+2020,"27%",2,43,"1%","26%","73%","0%"
+2021,"36%",3,43,"3%","34%","64%","0%"
+2022,"28%",2,43,"2%","27%","72%","0%"

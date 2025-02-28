@@ -1,101 +1,201 @@
-donor,year,Recipient country,share,ODA Grants,ODA Loans
-EU Institutions,2023,"Bilateral, unspecified",10.3%,4130.941862952888,0.0
-EU Institutions,2023,Türkiye,3.2%,1169.4895970291998,116.1365415696
-EU Institutions,2023,Ukraine,51.3%,830.8458169244998,19747.2552678279
-EU Institutions,2023,"Europe, regional",1.6%,640.2621468573,0.0
-EU Institutions,2023,"Africa, regional",1.6%,637.9281791648999,0.0
-EU Institutions,2023,"South of Sahara, regional",1.2%,466.6084883612998,0.0
-EU Institutions,2023,Serbia,1.4%,398.65296808440024,159.6563853498
-EU Institutions,2023,Afghanistan,0.9%,370.0760444127001,0.0
-EU Institutions,2023,West Bank and Gaza Strip,0.8%,336.01639191930025,0.0
-EU Institutions,2023,Lebanon,0.7%,295.1237310138,0.0
-EU Institutions,2023,Democratic Republic of the Congo,0.6%,257.7623620059002,0.0
-EU Institutions,2023,Morocco,0.8%,240.88205952269993,89.42729891939999
-EU Institutions,2023,Syrian Arab Republic,0.6%,226.49087661570013,0.0
-EU Institutions,2023,Yemen,0.6%,222.2587865169,0.0
-EU Institutions,2023,Moldova,0.8%,203.09321191139995,116.33118480359998
-EU Institutions,2023,Tunisia,0.6%,144.47269879560002,83.0635807977
-EU Institutions,2023,Bosnia and Herzegovina,0.8%,142.7627246355,160.07162243850001
-EU Institutions,2023,Georgia,0.8%,105.58872499680002,200.04897782700002
-EU Institutions,2023,Jordan,0.8%,81.3057018939,224.39980451700004
-EU Institutions,2023,Egypt,1.1%,80.92174590000006,347.318549334
-EU Institutions,2022,"Bilateral, unspecified",15.5%,5140.9340122716,0.0
-EU Institutions,2022,Türkiye,4.3%,1409.6014741971,19.043664588
-EU Institutions,2022,Ukraine,34.9%,1387.688981472,10193.113096440298
-EU Institutions,2022,"Europe, regional",2.3%,778.9224671468999,0.0
-EU Institutions,2022,"South of Sahara, regional",2.3%,752.7889873953002,0.0
-EU Institutions,2022,Syrian Arab Republic,1.3%,446.41675458270026,0.0
-EU Institutions,2022,Tunisia,2.6%,375.39530355150026,472.1309518643999
-EU Institutions,2022,Afghanistan,1.1%,369.7423504335001,0.0
-EU Institutions,2022,West Bank and Gaza Strip,1.0%,334.08270513720015,0.0
-EU Institutions,2022,"Africa, regional",1.6%,317.7533110086,207.22066416269996
-EU Institutions,2022,Yemen,0.8%,262.62701328509996,0.0
-EU Institutions,2022,Egypt,1.4%,250.20176071679984,204.15791083589997
-EU Institutions,2022,Serbia,2.0%,249.80821486649984,411.7886967006
-EU Institutions,2022,Democratic Republic of the Congo,0.7%,230.17623518340002,0.0
-EU Institutions,2022,Ethiopia,0.8%,223.67067669810007,36.9152364609
-EU Institutions,2022,Moldova,0.9%,194.09044308749992,113.1344483211
-EU Institutions,2022,Morocco,1.6%,152.51471782829998,394.30553682420003
-EU Institutions,2022,Georgia,0.9%,112.73252818410002,172.68959983499994
-EU Institutions,2022,"South America, regional",0.9%,55.83545608949999,246.7245578688
-EU Institutions,2022,India,1.5%,18.688440142799994,471.53805149699997
-EU Institutions,2021,"Bilateral, unspecified",12.2%,2967.4132035588004,0.0
-EU Institutions,2021,Türkiye,8.8%,1989.7540024671007,163.26162603359998
-EU Institutions,2021,"South of Sahara, regional",3.4%,826.5477797252997,10.0358748855
-EU Institutions,2021,Syrian Arab Republic,2.3%,561.4781263821003,0.0
-EU Institutions,2021,"Europe, regional",2.1%,501.42296835899975,0.0
-EU Institutions,2021,"Africa, regional",2.3%,404.93418389370015,157.82662380240004
-EU Institutions,2021,Somalia,1.5%,365.74079817959995,0.0
-EU Institutions,2021,Afghanistan,1.5%,353.9129975757,0.0
-EU Institutions,2021,Serbia,2.3%,280.62008020889994,269.3899901088
-EU Institutions,2021,Ukraine,5.1%,271.8277591977,962.9373082715998
-EU Institutions,2021,Morocco,1.6%,214.78696744050004,182.5960420755
-EU Institutions,2021,Moldova,1.5%,206.24623025039995,147.00800132999998
-EU Institutions,2021,Egypt,9.2%,167.1840815256,2070.5547019581004
-EU Institutions,2021,Albania,1.6%,158.94241358850007,230.64108902459995
-EU Institutions,2021,Jordan,2.8%,141.35756299649984,540.3215702736
-EU Institutions,2021,Tunisia,2.3%,139.81972067549998,411.40873611809997
-EU Institutions,2021,Georgia,1.3%,125.33855302170005,183.0346183197
-EU Institutions,2021,North Macedonia,1.3%,117.42684110549997,188.96077914659998
-EU Institutions,2021,Bosnia and Herzegovina,1.7%,96.05690526060006,306.36545973209996
-EU Institutions,2021,"North of Sahara, regional",1.0%,95.73590252429999,146.82277197180002
-EU Institutions,2020,"Bilateral, unspecified",9.4%,2419.9107503336963,0.0
-EU Institutions,2020,Türkiye,6.0%,1225.1785362336,329.99269656059994
-EU Institutions,2020,"Africa, regional",6.2%,1109.3067151110001,481.95782262989974
-EU Institutions,2020,"South of Sahara, regional",3.6%,916.1309540042997,0.0
-EU Institutions,2020,"Europe, regional",2.4%,607.9766503869001,0.0
-EU Institutions,2020,Morocco,4.5%,550.4152200246001,611.1884321244
-EU Institutions,2020,Afghanistan,1.5%,395.5776560433,0.0
-EU Institutions,2020,Tunisia,1.9%,357.15340874969996,130.1570039619
-EU Institutions,2020,Syrian Arab Republic,1.3%,328.3832377395002,0.0
-EU Institutions,2020,Iraq,1.1%,291.9909493574999,0.0
-EU Institutions,2020,West Bank and Gaza Strip,1.1%,291.87436220999996,0.0
-EU Institutions,2020,Bangladesh,1.2%,283.1991247854,16.5174174504
-EU Institutions,2020,Serbia,1.7%,272.59284137400005,167.23716900660003
-EU Institutions,2020,Ukraine,6.9%,271.11214712340006,1509.3411754436997
-EU Institutions,2020,Georgia,2.0%,253.50905320919998,262.7632038024
-EU Institutions,2020,Egypt,3.8%,133.69758372450002,831.4084421109001
-EU Institutions,2020,Jordan,2.0%,117.52882838100001,391.3937368317
-EU Institutions,2020,Moldova,1.2%,82.74713834880001,216.4032199818
-EU Institutions,2020,India,1.3%,17.5426206795,319.7864865762
-EU Institutions,2020,Brazil,1.1%,14.244957150300001,280.4991098409
-EU Institutions,2019,"Bilateral, unspecified",10.9%,2152.1727824526024,0.0
-EU Institutions,2019,"South of Sahara, regional",7.8%,1541.232889250398,0.0
-EU Institutions,2019,Türkiye,8.2%,1304.7154288731,304.89595111259996
-EU Institutions,2019,"Europe, regional",3.3%,651.4590939443997,0.0
-EU Institutions,2019,Syrian Arab Republic,2.5%,492.76685415960026,0.0
-EU Institutions,2019,Afghanistan,2.3%,462.1146488459998,0.0
-EU Institutions,2019,"Africa, regional",2.9%,420.5133640341,157.2101094456
-EU Institutions,2019,Ukraine,2.5%,303.8035254669003,181.1041795746
-EU Institutions,2019,West Bank and Gaza Strip,1.3%,264.63298138289997,0.0
-EU Institutions,2019,Iraq,1.3%,258.1531823295,0.0
-EU Institutions,2019,Democratic Republic of the Congo,1.2%,237.14743290479993,0.0
-EU Institutions,2019,Yemen,1.2%,231.65237349180006,0.0
-EU Institutions,2019,Mali,1.2%,230.6272528215002,0.0
-EU Institutions,2019,Serbia,2.3%,224.41167777599995,225.37768960440002
-EU Institutions,2019,Tunisia,2.1%,224.2236772665,194.41449398159995
-EU Institutions,2019,Ethiopia,1.1%,210.39789938759998,15.428062774799999
-EU Institutions,2019,Morocco,3.0%,200.45034720989997,390.344154858
-EU Institutions,2019,Georgia,1.2%,109.55451842730001,121.38767123129999
-EU Institutions,2019,Egypt,3.9%,104.52340362239998,663.0169707242999
-EU Institutions,2019,Bosnia and Herzegovina,1.1%,96.83013468690002,128.5090803441
+"Year","Recipient country","ODA Grants","ODA Loans","Share","Donor"
+"2018","Ukraine",327.326103,71.652111,"2%","EU Institutions"
+"2019","Ukraine",299.998825,178.836116,"2%","EU Institutions"
+"2020","Ukraine",267.815039,1490.985479,"7%","EU Institutions"
+"2021","Ukraine",268.998247,952.913905,"5%","EU Institutions"
+"2022","Ukraine",1374.027635,10092.765165,"35%","EU Institutions"
+"2018","Türkiye",650.8253,1370.377258,"10%","EU Institutions"
+"2019","Türkiye",1288.375776,301.077574,"8%","EU Institutions"
+"2020","Türkiye",1210.278656,325.979526,"6%","EU Institutions"
+"2021","Türkiye",1969.042263,161.562204,"9%","EU Institutions"
+"2022","Türkiye",1395.7244,18.856186,"4%","EU Institutions"
+"2018","Tunisia",173.91758,273.277148,"2%","EU Institutions"
+"2019","Tunisia",221.415596,191.979737,"2%","EU Institutions"
+"2020","Tunisia",352.809934,128.574113,"2%","EU Institutions"
+"2021","Tunisia",138.36431,407.1263,"2%","EU Institutions"
+"2022","Tunisia",371.699655,467.482976,"3%","EU Institutions"
+"2018","Serbia",254.418272,473.71674,"3%","EU Institutions"
+"2019","Serbia",221.601254,222.555162,"2%","EU Institutions"
+"2020","Serbia",269.277735,165.203333,"2%","EU Institutions"
+"2021","Serbia",277.699059,266.585858,"2%","EU Institutions"
+"2022","Serbia",247.348931,407.734768,"2%","EU Institutions"
+"2018","Morocco",223.270403,179.999356,"2%","EU Institutions"
+"2019","Morocco",197.940006,385.455666,"3%","EU Institutions"
+"2020","Morocco",543.721397,603.75553,"5%","EU Institutions"
+"2021","Morocco",212.551209,180.695364,"2%","EU Institutions"
+"2022","Morocco",151.013259,390.423727,"2%","EU Institutions"
+"2018","India",24.058653,402.648599,"2%","EU Institutions"
+"2019","India",23.779245,191.78549,"1%","EU Institutions"
+"2020","India",17.329275,315.897435,"1%","EU Institutions"
+"2021","India",19.19795,162.886708,"1%","EU Institutions"
+"2022","India",18.504455,466.89591,"1%","EU Institutions"
+"2018","Egypt",109.829931,294.672745,"2%","EU Institutions"
+"2019","Egypt",103.214403,654.713652,"4%","EU Institutions"
+"2020","Egypt",132.071631,821.297354,"4%","EU Institutions"
+"2021","Egypt",165.443828,2049.001893,"9%","EU Institutions"
+"2022","Egypt",247.738608,202.148044,"1%","EU Institutions"
+"2018","Syrian Arab Republic",603.726592,0,"3%","EU Institutions"
+"2019","Syrian Arab Republic",486.595671,0,"3%","EU Institutions"
+"2020","Syrian Arab Republic",324.389643,0,"1%","EU Institutions"
+"2021","Syrian Arab Republic",555.6336,0,"2%","EU Institutions"
+"2022","Syrian Arab Republic",442.021919,0,"1%","EU Institutions"
+"2018","Afghanistan",488.17151,0,"2%","EU Institutions"
+"2019","Afghanistan",456.327341,0,"2%","EU Institutions"
+"2020","Afghanistan",390.766878,0,"2%","EU Institutions"
+"2021","Afghanistan",350.229046,0,"1%","EU Institutions"
+"2022","Afghanistan",366.102355,0,"1%","EU Institutions"
+"2018","West Bank and Gaza Strip",310.910162,2.88109,"2%","EU Institutions"
+"2019","West Bank and Gaza Strip",261.318837,0,"1%","EU Institutions"
+"2020","West Bank and Gaza Strip",288.324766,0,"1%","EU Institutions"
+"2021","West Bank and Gaza Strip",221.570791,5.688269,"1%","EU Institutions"
+"2022","West Bank and Gaza Strip",330.79377,0,"1%","EU Institutions"
+"2018","Moldova",52.89804,74.525698,"1%","EU Institutions"
+"2019","Moldova",127.388519,67.826546,"1%","EU Institutions"
+"2020","Moldova",81.740821,213.771455,"1%","EU Institutions"
+"2021","Moldova",204.099369,145.477767,"1%","EU Institutions"
+"2022","Moldova",192.179693,112.020677,"1%","EU Institutions"
+"2018","Georgia",158.839274,148.291108,"1%","EU Institutions"
+"2019","Georgia",108.182507,119.867469,"1%","EU Institutions"
+"2020","Georgia",250.426035,259.567637,"2%","EU Institutions"
+"2021","Georgia",124.033875,181.129375,"1%","EU Institutions"
+"2022","Georgia",111.622709,170.989525,"1%","EU Institutions"
+"2018","Yemen",170.228686,0,"1%","EU Institutions"
+"2019","Yemen",228.75127,0,"1%","EU Institutions"
+"2020","Yemen",213.093114,0,"1%","EU Institutions"
+"2021","Yemen",195.379622,0,"1%","EU Institutions"
+"2022","Yemen",260.041538,0,"1%","EU Institutions"
+"2018","Ethiopia",272.815312,16.675059,"1%","EU Institutions"
+"2019","Ethiopia",207.762964,15.234848,"1%","EU Institutions"
+"2020","Ethiopia",164.641372,56.966042,"1%","EU Institutions"
+"2021","Ethiopia",151.868445,18.634106,"1%","EU Institutions"
+"2022","Ethiopia",221.468715,36.551817,"1%","EU Institutions"
+"2018","Democratic Republic of the Congo",230.9049,0,"1%","EU Institutions"
+"2019","Democratic Republic of the Congo",234.177498,0,"1%","EU Institutions"
+"2020","Democratic Republic of the Congo",212.084297,0,"1%","EU Institutions"
+"2021","Democratic Republic of the Congo",224.810703,0,"1%","EU Institutions"
+"2022","Democratic Republic of the Congo",227.910216,0,"1%","EU Institutions"
+"2018","Jordan",169.08006,20.398968,"1%","EU Institutions"
+"2019","Jordan",157.066369,26.236837,"1%","EU Institutions"
+"2020","Jordan",116.099512,386.633842,"2%","EU Institutions"
+"2021","Jordan",139.88615,534.697256,"3%","EU Institutions"
+"2022","Jordan",164.025546,58.102391,"1%","EU Institutions"
+"2018","Bosnia and Herzegovina",75.993741,72.690005,"1%","EU Institutions"
+"2019","Bosnia and Herzegovina",95.617476,126.899693,"1%","EU Institutions"
+"2020","Bosnia and Herzegovina",164.501908,111.5175,"1%","EU Institutions"
+"2021","Bosnia and Herzegovina",95.057042,303.176443,"2%","EU Institutions"
+"2022","Bosnia and Herzegovina",98.829873,101.24539,"1%","EU Institutions"
+"2018","China (People's Republic of)",12.000606,194.482336,"1%","EU Institutions"
+"2019","China (People's Republic of)",14.731343,92.54875,"1%","EU Institutions"
+"2020","China (People's Republic of)",20.789075,174.569498,"1%","EU Institutions"
+"2021","China (People's Republic of)",18.942111,106.773888,"1%","EU Institutions"
+"2022","China (People's Republic of)",15.993257,183.910593,"1%","EU Institutions"
+"2018","Sudan",176.574073,0,"1%","EU Institutions"
+"2019","Sudan",61.389496,0,"0%","EU Institutions"
+"2020","Sudan",110.570932,0,"0%","EU Institutions"
+"2021","Sudan",161.828679,0,"1%","EU Institutions"
+"2022","Sudan",197.170568,0,"1%","EU Institutions"
+"2018","Niger",253.44175,0,"1%","EU Institutions"
+"2019","Niger",182.719928,7.37646,"1%","EU Institutions"
+"2020","Niger",230.485671,20.97065,"1%","EU Institutions"
+"2021","Niger",164.160271,0,"1%","EU Institutions"
+"2022","Niger",178.000033,6.78687,"1%","EU Institutions"
+"2018","Mozambique",69.382127,0,"0%","EU Institutions"
+"2019","Mozambique",92.586888,23.587459,"1%","EU Institutions"
+"2020","Mozambique",177.456922,17.292034,"1%","EU Institutions"
+"2021","Mozambique",133.305461,0,"1%","EU Institutions"
+"2022","Mozambique",174.953378,0,"1%","EU Institutions"
+"2018","Bangladesh",163.65477,15.005678,"1%","EU Institutions"
+"2019","Bangladesh",95.560153,80.935744,"1%","EU Institutions"
+"2020","Bangladesh",279.755038,16.316542,"1%","EU Institutions"
+"2021","Bangladesh",210.812937,23.71334,"1%","EU Institutions"
+"2022","Bangladesh",118.601022,46.646155,"1%","EU Institutions"
+"2018","Lebanon",215.416945,0,"1%","EU Institutions"
+"2019","Lebanon",146.202816,0,"1%","EU Institutions"
+"2020","Lebanon",142.00166,6.036457,"1%","EU Institutions"
+"2021","Lebanon",160.966632,0,"1%","EU Institutions"
+"2022","Lebanon",161.049522,0,"0%","EU Institutions"
+"2018","Albania",101.004966,131.29968,"1%","EU Institutions"
+"2019","Albania",87.39097,0,"0%","EU Institutions"
+"2020","Albania",114.439343,26.560409,"1%","EU Institutions"
+"2021","Albania",157.287952,228.240303,"2%","EU Institutions"
+"2022","Albania",140.15423,11.311449,"0%","EU Institutions"
+"2018","Kenya",116.437347,0,"1%","EU Institutions"
+"2019","Kenya",108.189293,0,"1%","EU Institutions"
+"2020","Kenya",135.488874,31.909917,"1%","EU Institutions"
+"2021","Kenya",108.001131,36.793992,"1%","EU Institutions"
+"2022","Kenya",135.935706,14.513721,"0%","EU Institutions"
+"2018","Somalia",282.580924,0,"1%","EU Institutions"
+"2019","Somalia",181.696115,0,"1%","EU Institutions"
+"2020","Somalia",175.720326,0,"1%","EU Institutions"
+"2021","Somalia",361.933742,0,"2%","EU Institutions"
+"2022","Somalia",147.496107,0,"0%","EU Institutions"
+"2018","Kosovo",157.534464,0,"1%","EU Institutions"
+"2019","Kosovo",163.156,8.60587,"1%","EU Institutions"
+"2020","Kosovo",206.41269,60.364567,"1%","EU Institutions"
+"2021","Kosovo",140.954908,59.129612,"1%","EU Institutions"
+"2022","Kosovo",117.134674,26.92125,"0%","EU Institutions"
+"2018","Nigeria",294.904909,23.989077,"2%","EU Institutions"
+"2019","Nigeria",204.938058,0,"1%","EU Institutions"
+"2020","Nigeria",182.681807,0,"1%","EU Institutions"
+"2021","Nigeria",156.1057,0,"1%","EU Institutions"
+"2022","Nigeria",134.946678,0,"0%","EU Institutions"
+"2018","Mali",236.485408,12.504731,"1%","EU Institutions"
+"2019","Mali",227.738986,0,"1%","EU Institutions"
+"2020","Mali",158.918669,7.062654,"1%","EU Institutions"
+"2021","Mali",125.675677,2.601703,"1%","EU Institutions"
+"2022","Mali",131.721024,0,"0%","EU Institutions"
+"2018","Argentina",3.857585,76.506448,"0%","EU Institutions"
+"2019","Argentina",6.553369,16.941269,"0%","EU Institutions"
+"2020","Argentina",5.381791,20.383907,"0%","EU Institutions"
+"2021","Argentina",6.810618,27.471617,"0%","EU Institutions"
+"2022","Argentina",13.623827,116.038504,"0%","EU Institutions"
+"2018","Pakistan",144.124539,0,"1%","EU Institutions"
+"2019","Pakistan",122.855217,0,"1%","EU Institutions"
+"2020","Pakistan",142.545312,0,"1%","EU Institutions"
+"2021","Pakistan",117.256787,0,"0%","EU Institutions"
+"2022","Pakistan",129.371027,0,"0%","EU Institutions"
+"2018","Madagascar",78.594793,16.900144,"0%","EU Institutions"
+"2019","Madagascar",64.109974,17.703503,"0%","EU Institutions"
+"2020","Madagascar",68.903546,47.801493,"0%","EU Institutions"
+"2021","Madagascar",45.499881,39.003075,"0%","EU Institutions"
+"2022","Madagascar",71.823446,57.048164,"0%","EU Institutions"
+"2018","Uganda",100.369865,13.755205,"1%","EU Institutions"
+"2019","Uganda",131.961216,29.628779,"1%","EU Institutions"
+"2020","Uganda",158.935752,22.817806,"1%","EU Institutions"
+"2021","Uganda",169.938846,8.522942,"1%","EU Institutions"
+"2022","Uganda",124.612777,0,"0%","EU Institutions"
+"2018","Chad",179.497044,0,"1%","EU Institutions"
+"2019","Chad",99.8886,0,"1%","EU Institutions"
+"2020","Chad",175.552829,0,"1%","EU Institutions"
+"2021","Chad",87.645832,0,"0%","EU Institutions"
+"2022","Chad",121.013525,0,"0%","EU Institutions"
+"2018","North Macedonia",114.394986,39.389904,"1%","EU Institutions"
+"2019","North Macedonia",60.345628,54.08666,"1%","EU Institutions"
+"2020","North Macedonia",104.6323,170.235322,"1%","EU Institutions"
+"2021","North Macedonia",116.204533,186.993851,"1%","EU Institutions"
+"2022","North Macedonia",70.572845,49.632378,"0%","EU Institutions"
+"2018","Tanzania",156.225212,18.757097,"1%","EU Institutions"
+"2019","Tanzania",103.046301,0,"1%","EU Institutions"
+"2020","Tanzania",105.112531,8.451039,"0%","EU Institutions"
+"2021","Tanzania",138.461924,8.278146,"1%","EU Institutions"
+"2022","Tanzania",92.654186,21.34018,"0%","EU Institutions"
+"2018","Senegal",58.779589,71.900955,"1%","EU Institutions"
+"2019","Senegal",55.759721,43.916982,"1%","EU Institutions"
+"2020","Senegal",178.012126,51.108264,"1%","EU Institutions"
+"2021","Senegal",41.916048,97.846501,"1%","EU Institutions"
+"2022","Senegal",43.643564,69.531479,"0%","EU Institutions"
+"2018","Burundi",51.884559,0,"0%","EU Institutions"
+"2019","Burundi",76.50137,44.873462,"1%","EU Institutions"
+"2020","Burundi",59.767765,0,"0%","EU Institutions"
+"2021","Burundi",60.670875,7.095553,"0%","EU Institutions"
+"2022","Burundi",89.8017,22.622899,"0%","EU Institutions"
+"2018","Burkina Faso",200.881931,7.61038,"1%","EU Institutions"
+"2019","Burkina Faso",166.321818,0,"1%","EU Institutions"
+"2020","Burkina Faso",250.909232,0,"1%","EU Institutions"
+"2021","Burkina Faso",109.506576,0,"0%","EU Institutions"
+"2022","Burkina Faso",110.730373,0,"0%","EU Institutions"
+"2018","Zambia",37.805491,14.454219,"0%","EU Institutions"
+"2019","Zambia",59.284706,48.033046,"1%","EU Institutions"
+"2020","Zambia",62.550249,0,"0%","EU Institutions"
+"2021","Zambia",58.802882,28.913198,"0%","EU Institutions"
+"2022","Zambia",71.614156,30.638192,"0%","EU Institutions"

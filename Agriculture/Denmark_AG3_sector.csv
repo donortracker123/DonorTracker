@@ -1,81 +1,52 @@
-donor,year,Sector,Bilateral ODA for,share
-Denmark,2023,Research/scientific institutions,74.1383668935,50.36412005399094
-Denmark,2023,Agricultural development,50.5646068375,34.349851985611714
-Denmark,2023,Disaster Risk Reduction,5.8340700215000005,3.9632354377093315
-Denmark,2023,Food safety and quality,5.3950638490000005,3.6650071316017208
-Denmark,2023,Agricultural policy and administrative management,4.7303697735,3.213463165631335
-Denmark,2023,Forestry policy and administrative management,1.6851397815000002,1.1447592632454249
-Denmark,2023,Agricultural land resources,1.451591512,0.9861038520681509
-Denmark,2023,Household food security programmes,0.9145022075000001,0.6212451244621067
-Denmark,2023,Multisector education/training,0.8128909635000001,0.5522179647594555
-Denmark,2023,Rural development,0.66580976,0.45230187945640943
-Denmark,2023,Fishery education/training,0.4168968055,0.2832088383129487
-Denmark,2023,Agricultural services,0.30309192900000004,0.20589822704727037
-Denmark,2023,Livestock/veterinary services,0.136601052,0.09279664592979639
-Denmark,2023,Food crop production,0.0970261145,0.06591236203071395
-Denmark,2023,Forestry development,0.0358546405,0.024356989428007025
-Denmark,2023,Agricultural research,0.022847762,0.015521078714695817
-Denmark,2022,Research/scientific institutions,38.53855460000001,46.63029183084294
-Denmark,2022,Agricultural development,28.3219281835,34.26853420207877
-Denmark,2022,Disaster Risk Reduction,6.7555920390000015,8.174028100905717
-Denmark,2022,Rural development,2.342739196,2.8346317999439017
-Denmark,2022,Agricultural policy and administrative management,1.99318098,2.4116786873238234
-Denmark,2022,Agricultural land resources,1.429581272,1.7297429185179571
-Denmark,2022,Fishery education/training,0.885768527,1.0717486770660016
-Denmark,2022,Livestock/veterinary services,0.8265866735000001,1.0001407216447782
-Denmark,2022,Forestry policy and administrative management,0.7657651785,0.9265488578378736
-Denmark,2022,Food safety and quality,0.324843225,0.3930488451952003
-Denmark,2022,Food crop production,0.230868806,0.27934311263500944
-Denmark,2022,Agricultural services,0.16082748850000003,0.19459558878154024
-Denmark,2022,Agricultural co-operatives,0.070800954,0.08566665722647746
-Denmark,2022,Multisector education/training,0.0,0.0
-Denmark,2022,Forestry development,0.0,0.0
-Denmark,2021,Agricultural development,40.573161562500005,43.301611105196535
-Denmark,2021,Research/scientific institutions,29.7237923325,31.722647350783152
-Denmark,2021,Agricultural policy and administrative management,6.430736676000001,6.863188569496291
-Denmark,2021,Food crop production,4.976277561500001,5.310920505607043
-Denmark,2021,Agricultural land resources,4.6347142415,4.946387856908801
-Denmark,2021,Rural development,3.5662597110000003,3.8060822760378787
-Denmark,2021,Forestry policy and administrative management,1.1817162315,1.2611838644688165
-Denmark,2021,Food security policy and administrative management,1.081433087,1.154156914723822
-Denmark,2021,Livestock/veterinary services,0.571815111,0.6102683302718477
-Denmark,2021,Fishery education/training,0.421295819,0.4496269704415709
-Denmark,2021,Agricultural services,0.2091933725,0.22326113403377978
-Denmark,2021,Food safety and quality,0.1377349435,0.1469972940079093
-Denmark,2021,Forestry development,0.0971292875,0.10366100329083336
-Denmark,2021,Multisector education/training,0.074412009,0.0794160413235454
-Denmark,2021,Agricultural education/training,0.019293351,0.020590783408168244
-Denmark,2021,Agricultural co-operatives,0.0,0.0
-Denmark,2020,Agricultural development,57.53729408700001,58.40488906558154
-Denmark,2020,Research/scientific institutions,22.376944152500002,22.714362251330872
-Denmark,2020,Food crop production,5.906540962,5.995604679033144
-Denmark,2020,Rural development,3.7466435405,3.803138535161335
-Denmark,2020,Disaster Risk Reduction,3.1780753445,3.225996996955063
-Denmark,2020,Agricultural policy and administrative management,2.7625612595,2.8042174464096936
-Denmark,2020,Forestry policy and administrative management,1.0533133870000002,1.069196118712272
-Denmark,2020,Forestry development,0.9648162405,0.9793645389348554
-Denmark,2020,Livestock/veterinary services,0.540662934,0.5488154975518119
-Denmark,2020,Multisector education/training,0.33176795400000003,0.33677062601494456
-Denmark,2020,Agricultural education/training,0.0476608685,0.048379538552903605
-Denmark,2020,Food security policy and administrative management,0.03960224800000001,0.04019940349802165
-Denmark,2020,Food safety and quality,0.028602185499999995,0.0290334729442572
-Denmark,2020,Agricultural extension,3.1356500000000004e-05,3.182931927969634e-05
-Denmark,2020,Fishery development,0.0,0.0
-Denmark,2020,Agricultural land resources,0.0,0.0
-Denmark,2020,Agricultural services,0.0,0.0
-Denmark,2020,Non-agricultural alternative development,0.0,0.0
-Denmark,2020,Fishery education/training,0.0,0.0
-Denmark,2019,Agricultural development,44.64450469500001,47.01848413027502
-Denmark,2019,Research/scientific institutions,28.472603246500007,29.986638961258553
-Denmark,2019,Agricultural policy and administrative management,9.696194494,10.211791351585045
-Denmark,2019,Food crop production,4.982290929,5.247225130573255
-Denmark,2019,Rural development,3.9490740240000006,4.159066733862111
-Denmark,2019,Forestry development,1.4479814685,1.524978139251805
-Denmark,2019,Livestock,0.6199068785000001,0.6528705364327836
-Denmark,2019,Forestry policy and administrative management,0.369413961,0.38905761372968756
-Denmark,2019,Agricultural extension,0.3286859135,0.34616384509862225
-Denmark,2019,Livestock/veterinary services,0.27064907800000004,0.2850408906035365
-Denmark,2019,Multisector education/training,0.1084196505,0.1141848845960013
-Denmark,2019,Fishery development,0.04127122300000001,0.04346582758437167
-Denmark,2019,Agricultural services,0.019970044500000003,0.021031955149214493
-Denmark,2019,Forestry research,0.0,0.0
+"Year","Sector","Bilateral ODA for","Share","Donor"
+2018,"Agricultural development",76.464589,"64%","Denmark"
+2018,"Agricultural financial services",6.777722,"6%","Denmark"
+2018,"Agricultural inputs",1.877272,"2%","Denmark"
+2018,"Agricultural policy and administrative management",7.963959,"7%","Denmark"
+2018,"Fishery development",0.041754,"0%","Denmark"
+2018,"Food crop production",9.116541,"8%","Denmark"
+2018,"Forestry development",1.338875,"1%","Denmark"
+2018,"Livestock",4.369474,"4%","Denmark"
+2018,"Livestock/veterinary services",0.334133,"0%","Denmark"
+2018,"Rural development",11.117668,"9%","Denmark"
+2019,"Agricultural development",45.768203,"67%","Denmark"
+2019,"Agricultural extension",0.336959,"0%","Denmark"
+2019,"Agricultural policy and administrative management",9.940245,"15%","Denmark"
+2019,"Agricultural services",0.020473,"0%","Denmark"
+2019,"Fishery development",0.04231,"0%","Denmark"
+2019,"Food crop production",5.107693,"8%","Denmark"
+2019,"Forestry development",1.484427,"2%","Denmark"
+2019,"Forestry policy and administrative management",0.378713,"1%","Denmark"
+2019,"Livestock",0.63551,"1%","Denmark"
+2019,"Livestock/veterinary services",0.277461,"0%","Denmark"
+2019,"Rural development",4.048469,"6%","Denmark"
+2020,"Agricultural development",59.179037,"79%","Denmark"
+2020,"Agricultural education/training",0.049021,"0%","Denmark"
+2020,"Agricultural extension",0.000032,"0%","Denmark"
+2020,"Agricultural policy and administrative management",2.841388,"4%","Denmark"
+2020,"Food crop production",6.075075,"8%","Denmark"
+2020,"Forestry development",0.992346,"1%","Denmark"
+2020,"Forestry policy and administrative management",1.083368,"1%","Denmark"
+2020,"Livestock/veterinary services",0.55609,"1%","Denmark"
+2020,"Rural development",3.853549,"5%","Denmark"
+2021,"Agricultural development",41.765499,"65%","Denmark"
+2021,"Agricultural education/training",0.01986,"0%","Denmark"
+2021,"Agricultural land resources",4.770916,"7%","Denmark"
+2021,"Agricultural policy and administrative management",6.619718,"10%","Denmark"
+2021,"Agricultural services",0.215341,"0%","Denmark"
+2021,"Fishery education/training",0.433676,"1%","Denmark"
+2021,"Food crop production",5.122517,"8%","Denmark"
+2021,"Forestry development",0.099984,"0%","Denmark"
+2021,"Forestry policy and administrative management",1.216444,"2%","Denmark"
+2021,"Livestock/veterinary services",0.588619,"1%","Denmark"
+2021,"Rural development",3.671063,"6%","Denmark"
+2022,"Agricultural co-operatives",0.072689,"0%","Denmark"
+2022,"Agricultural development",29.07703,"76%","Denmark"
+2022,"Agricultural land resources",1.467695,"4%","Denmark"
+2022,"Agricultural policy and administrative management",2.046321,"5%","Denmark"
+2022,"Agricultural services",0.165116,"0%","Denmark"
+2022,"Fishery education/training",0.909384,"2%","Denmark"
+2022,"Food crop production",0.237023,"1%","Denmark"
+2022,"Forestry policy and administrative management",0.786181,"2%","Denmark"
+2022,"Livestock/veterinary services",0.848625,"2%","Denmark"
+2022,"Rural development",2.405199,"6%","Denmark"

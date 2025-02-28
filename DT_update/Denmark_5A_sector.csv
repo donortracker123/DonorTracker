@@ -1,113 +1,111 @@
-donor,Year,Sector,Bilateral ODA for,share
-Denmark,2023,Emergency Response,33018.55664345003,15.53267903213733
-Denmark,2023,Government & civil society,30201.393400149984,14.207421453139096
-Denmark,2023,Refugees in donor countries,27654.624438000006,13.009363485758733
-Denmark,2023,Unspecified,21319.760159600006,10.029299438408597
-Denmark,2023,Donor administration costs,15586.562582499999,7.332273073672352
-Denmark,2023,Other multisector,14629.837431650001,6.882207831554202
-Denmark,2023,Energy,9294.599458199998,4.3723907036722975
-Denmark,2023,Environmental protection,8551.413893050001,4.02277933302862
-Denmark,2023,Education,7827.124260550001,3.6820570383077533
-Denmark,2023,Water and sanitation,7489.9932324,3.5234629450354418
-Denmark,2023,Reconstruction Relief & Rehabilitation,7279.6842765500005,3.424528835223285
-Denmark,2023,Health & populations,5982.387176850001,2.8142508125780994
-Denmark,2023,"Agriculture (incl. forestry, fishing, rural development)",5944.402620800001,2.7963820146268747
-Denmark,2023,"Conflict, peace & security",5855.7472757,2.7546765265647593
-Denmark,2023,Debt relief,3537.7835584,1.6642537434688465
-Denmark,2023,Other social services,3184.6419013500004,1.4981278866948233
-Denmark,2023,Financial services & business support,2547.57411615,1.1984367301103278
-Denmark,2023,Food aid and commodity assistance,1226.591429,0.5770164691316725
-Denmark,2023,"Industry, construction & mining",932.9061465500001,0.4388602414679971
-Denmark,2023,Infrastructure,250.21242855000003,0.11770560974202104
-Denmark,2023,Disaster Prevention & Preparedness,145.1591512,0.06828616188510361
-Denmark,2023,Trade policy,106.55596175000001,0.05012634473081301
-Denmark,2023,General budget support,7.2579171,0.003414289060952168
-Denmark,2022,Emergency Response,40434.93280470003,19.413885023102402
-Denmark,2022,Refugees in donor countries,36082.62319305,17.32422559931586
-Denmark,2022,Government & civil society,26374.02548374999,12.662870019123147
-Denmark,2022,Unspecified,22688.5757714,10.893387742014678
-Denmark,2022,Donor administration costs,14846.3697424,7.128136371130995
-Denmark,2022,Health & populations,11695.481899499995,5.615311443284409
-Denmark,2022,Education,7759.1997091,3.725397832397227
-Denmark,2022,Other multisector,6845.992120449998,3.2869426180926546
-Denmark,2022,Environmental protection,6294.12237335,3.0219752971457874
-Denmark,2022,Other social services,4922.9217456999995,2.3636254624279047
-Denmark,2022,"Conflict, peace & security",4882.959201399999,2.3444383836705818
-Denmark,2022,Energy,4690.5797911,2.2520719199889037
-Denmark,2022,Reconstruction Relief & Rehabilitation,4204.397460900001,2.0186428722801937
-Denmark,2022,Financial services & business support,3953.0727869499997,1.8979752221792179
-Denmark,2022,Water and sanitation,3758.9913256,1.8047915585890406
-Denmark,2022,"Agriculture (incl. forestry, fishing, rural development)",3468.5308063000007,1.6653337498503216
-Denmark,2022,Debt relief,2710.17294345,1.3012260010667192
-Denmark,2022,Food aid and commodity assistance,1431.7129071000002,0.6874033870361789
-Denmark,2022,"Industry, construction & mining",997.2043693500001,0.478784299323627
-Denmark,2022,Trade policy,181.46218965000003,0.08712481613165966
-Denmark,2022,Infrastructure,55.09043715000001,0.02645038184849492
-Denmark,2022,General budget support,0.0,0.0
-Denmark,2021,Emergency Response,39138.78770234998,19.610499975754344
-Denmark,2021,Government & civil society,30833.33642060004,15.449051404632485
-Denmark,2021,Health & populations,18801.536941249997,9.420515079172711
-Denmark,2021,Unspecified,16852.592295349998,8.44399584659378
-Denmark,2021,Donor administration costs,16561.82589845,8.298307266182915
-Denmark,2021,Energy,10105.427062849998,5.063326914418161
-Denmark,2021,"Conflict, peace & security",9067.214865100002,4.543130416927214
-Denmark,2021,Other social services,9057.5366308,4.5382811350601076
-Denmark,2021,Water and sanitation,8313.76925085,4.16561629174917
-Denmark,2021,Education,7403.359268900001,3.709455128436362
-Denmark,2021,Refugees in donor countries,6139.451379599999,3.0761737447366517
-Denmark,2021,Environmental protection,6088.519724700001,3.050654425518658
-Denmark,2021,"Agriculture (incl. forestry, fishing, rural development)",5911.5333214,2.9619753411275207
-Denmark,2021,Financial services & business support,5795.10046675,2.9036366283739383
-Denmark,2021,Other multisector,4094.276872,2.0514385143888023
-Denmark,2021,Debt relief,3808.0189329,1.9080088979563294
-Denmark,2021,"Industry, construction & mining",1032.8590362999998,0.5175142945243205
-Denmark,2021,Food aid and commodity assistance,404.66837740000005,0.2027591979992464
-Denmark,2021,Trade policy,94.94009805,0.0475697613494516
-Denmark,2021,Infrastructure,69.07938100000001,0.03461224220146929
-Denmark,2021,General budget support,6.94040725,0.0034774928963800843
-Denmark,2021,Reconstruction Relief & Rehabilitation,0.0,0.0
-Denmark,2020,Emergency Response,37273.61659910001,20.86440672440367
-Denmark,2020,Government & civil society,27205.106555200007,15.22842321026983
-Denmark,2020,Unspecified,22110.18661845,12.376473453637095
-Denmark,2020,Donor administration costs,16642.4200943,9.315817819895905
-Denmark,2020,Education,11310.843447400002,6.331396296229221
-Denmark,2020,Health & populations,10556.774344550002,5.909296003966502
-Denmark,2020,"Conflict, peace & security",8436.470472149998,4.72242747846501
-Denmark,2020,"Agriculture (incl. forestry, fishing, rural development)",6881.2881095,3.8518932962324213
-Denmark,2020,Energy,6873.308992899999,3.8474268787169312
-Denmark,2020,Other social services,6693.096410350001,3.74655046901353
-Denmark,2020,Refugees in donor countries,5965.24771395,3.3391274008725293
-Denmark,2020,Other multisector,3930.706397800001,2.2002656162937266
-Denmark,2020,Environmental protection,3500.85662675,1.9596514427338807
-Denmark,2020,Financial services & business support,3055.6050486500003,1.7104159011421023
-Denmark,2020,Water and sanitation,2926.3444521500005,1.6380605488879254
-Denmark,2020,Food aid and commodity assistance,1554.96873385,0.8704146006470638
-Denmark,2020,"Industry, construction & mining",1371.9654228000004,0.7679760432425767
-Denmark,2020,Reconstruction Relief & Rehabilitation,1032.9312574,0.5781971227676272
-Denmark,2020,Debt relief,810.58787915,0.4537374352041205
-Denmark,2020,Trade policy,341.0019375,0.19088040729542383
-Denmark,2020,General budget support,101.49219045000001,0.056811614597939715
-Denmark,2020,Infrastructure,72.08444635,0.04035023548496151
-Denmark,2019,Emergency Response,42785.14910985002,21.58432940694178
-Denmark,2019,Government & civil society,28859.089405649993,14.558885619789223
-Denmark,2019,Unspecified,21086.57866,10.637795340955035
-Denmark,2019,Donor administration costs,15218.208976950002,7.677309589334718
-Denmark,2019,"Conflict, peace & security",11474.991791549994,5.788924613417954
-Denmark,2019,Health & populations,11145.555041599997,5.622729765962439
-Denmark,2019,Energy,9633.643030550003,4.859997660085497
-Denmark,2019,Education,9478.230405,4.781594817658644
-Denmark,2019,Financial services & business support,8883.734328350001,4.481682361665966
-Denmark,2019,Other social services,6635.792710050001,3.3476367082925007
-Denmark,2019,"Agriculture (incl. forestry, fishing, rural development)",6242.0868685,3.149019273265353
-Denmark,2019,Refugees in donor countries,5887.937656300001,2.970357438157389
-Denmark,2019,Other multisector,5279.2726899499985,2.663297035062076
-Denmark,2019,Water and sanitation,4215.1124827,2.126447568999203
-Denmark,2019,Environmental protection,3842.3515693500017,1.9383964692327529
-Denmark,2019,Reconstruction Relief & Rehabilitation,2164.5375766,1.0919698315666722
-Denmark,2019,Food aid and commodity assistance,2029.6433297000003,1.023918137912048
-Denmark,2019,"Industry, construction & mining",1526.9308641999999,0.7703088440781318
-Denmark,2019,Debt relief,701.8104611000001,0.3540506107557937
-Denmark,2019,Trade policy,601.7002831000001,0.30354684709257174
-Denmark,2019,Infrastructure,511.59738035000004,0.2580915717472789
-Denmark,2019,General budget support,19.2484404,0.009710488026973774
-Denmark,2019,Disaster Prevention & Preparedness,0.0,0.0
+"Year","Sector","Bilateral ODA for","Share","Donor"
+"2018","Humanitarian aid",384.425873,"19.39%","Denmark"
+"2019","Humanitarian aid",460.810616,"22.68%","Denmark"
+"2020","Humanitarian aid",393.995716,"21.44%","Denmark"
+"2021","Humanitarian aid",402.889743,"19.61%","Denmark"
+"2022","Humanitarian aid",458.294747,"21.43%","Denmark"
+"2018","Refugees in donor countries",71.8608,"3.63%","Denmark"
+"2019","Refugees in donor countries",60.361355,"2.97%","Denmark"
+"2020","Refugees in donor countries",61.354576,"3.34%","Denmark"
+"2021","Refugees in donor countries",63.198742,"3.08%","Denmark"
+"2022","Refugees in donor countries",370.446337,"17.32%","Denmark"
+"2018","Government & civil society",246.745683,"12.45%","Denmark"
+"2019","Government & civil society",295.854661,"14.56%","Denmark"
+"2020","Government & civil society",279.813678,"15.23%","Denmark"
+"2021","Government & civil society",317.394508,"15.45%","Denmark"
+"2022","Government & civil society",270.77738,"12.66%","Denmark"
+"2018","Unspecified",170.29908,"8.59%","Denmark"
+"2019","Unspecified",216.173239,"10.64%","Denmark"
+"2020","Unspecified",227.410678,"12.38%","Denmark"
+"2021","Unspecified",173.478472,"8.44%","Denmark"
+"2022","Unspecified",232.934827,"10.89%","Denmark"
+"2018","Donor administration costs",162.564986,"8.20%","Denmark"
+"2019","Donor administration costs",156.012484,"7.68%","Denmark"
+"2020","Donor administration costs",171.172875,"9.32%","Denmark"
+"2021","Donor administration costs",170.485354,"8.30%","Denmark"
+"2022","Donor administration costs",152.421935,"7.13%","Denmark"
+"2018","Health & populations",141.377841,"7.13%","Denmark"
+"2019","Health & populations",114.260861,"5.62%","Denmark"
+"2020","Health & populations",108.579971,"5.91%","Denmark"
+"2021","Health & populations",193.540659,"9.42%","Denmark"
+"2022","Health & populations",120.07299,"5.62%","Denmark"
+"2018","Education",135.471355,"6.83%","Denmark"
+"2019","Education",97.167954,"4.78%","Denmark"
+"2020","Education",116.335819,"6.33%","Denmark"
+"2021","Education",76.209248,"3.71%","Denmark"
+"2022","Education",79.6607,"3.73%","Denmark"
+"2018","Other multisector",39.434148,"1.99%","Denmark"
+"2019","Other multisector",50.07304,"2.46%","Denmark"
+"2020","Other multisector",36.575086,"1.99%","Denmark"
+"2021","Other multisector",38.474907,"1.87%","Denmark"
+"2022","Other multisector",67.879954,"3.17%","Denmark"
+"2018","Environmental protection",46.655414,"2.35%","Denmark"
+"2019","Environmental protection",39.390634,"1.94%","Denmark"
+"2020","Environmental protection",36.007487,"1.96%","Denmark"
+"2021","Environmental protection",62.674461,"3.05%","Denmark"
+"2022","Environmental protection",64.61932,"3.02%","Denmark"
+"2018","Other social services",58.542755,"2.95%","Denmark"
+"2019","Other social services",68.02814,"3.35%","Denmark"
+"2020","Other social services",68.840742,"3.75%","Denmark"
+"2021","Other social services",93.237152,"4.54%","Denmark"
+"2022","Other social services",50.541725,"2.36%","Denmark"
+"2018","Conflict, peace & security",112.081641,"5.65%","Denmark"
+"2019","Conflict, peace & security",117.638152,"5.79%","Denmark"
+"2020","Conflict, peace & security",86.771932,"4.72%","Denmark"
+"2021","Conflict, peace & security",93.33677,"4.54%","Denmark"
+"2022","Conflict, peace & security",50.131456,"2.34%","Denmark"
+"2018","Energy",85.48332,"4.31%","Denmark"
+"2019","Energy",98.761196,"4.86%","Denmark"
+"2020","Energy",70.694293,"3.85%","Denmark"
+"2021","Energy",104.024003,"5.06%","Denmark"
+"2022","Energy",48.15637,"2.25%","Denmark"
+"2018","Financial services & business support",67.477159,"3.40%","Denmark"
+"2019","Financial services & business support",91.073359,"4.48%","Denmark"
+"2020","Financial services & business support",31.427926,"1.71%","Denmark"
+"2021","Financial services & business support",59.654038,"2.90%","Denmark"
+"2022","Financial services & business support",40.584668,"1.90%","Denmark"
+"2018","Water and sanitation",40.714441,"2.05%","Denmark"
+"2019","Water and sanitation",43.212054,"2.13%","Denmark"
+"2020","Water and sanitation",30.098434,"1.64%","Denmark"
+"2021","Water and sanitation",85.580893,"4.17%","Denmark"
+"2022","Water and sanitation",38.592107,"1.80%","Denmark"
+"2018","Agriculture (incl. forestry, fishing, rural development)",119.401987,"6.02%","Denmark"
+"2019","Agriculture (incl. forestry, fishing, rural development)",68.040463,"3.35%","Denmark"
+"2020","Agriculture (incl. forestry, fishing, rural development)",74.629906,"4.06%","Denmark"
+"2021","Agriculture (incl. forestry, fishing, rural development)",64.523637,"3.14%","Denmark"
+"2022","Agriculture (incl. forestry, fishing, rural development)",38.015263,"1.78%","Denmark"
+"2018","Debt relief",3.280997,"0.17%","Denmark"
+"2019","Debt relief",7.19475,"0.35%","Denmark"
+"2020","Debt relief",8.337169,"0.45%","Denmark"
+"2021","Debt relief",39.199268,"1.91%","Denmark"
+"2022","Debt relief",27.824297,"1.30%","Denmark"
+"2018","Food aid and commodity assistance",22.914754,"1.16%","Denmark"
+"2019","Food aid and commodity assistance",20.807289,"1.02%","Denmark"
+"2020","Food aid and commodity assistance",15.993376,"0.87%","Denmark"
+"2021","Food aid and commodity assistance",4.165606,"0.20%","Denmark"
+"2022","Food aid and commodity assistance",14.698842,"0.69%","Denmark"
+"2018","Industry, construction & mining",27.214231,"1.37%","Denmark"
+"2019","Industry, construction & mining",15.653633,"0.77%","Denmark"
+"2020","Industry, construction & mining",14.111127,"0.77%","Denmark"
+"2021","Industry, construction & mining",10.632123,"0.52%","Denmark"
+"2022","Industry, construction & mining",10.237913,"0.48%","Denmark"
+"2018","Trade policy",7.183032,"0.36%","Denmark"
+"2019","Trade policy",6.16845,"0.30%","Denmark"
+"2020","Trade policy",3.507318,"0.19%","Denmark"
+"2021","Trade policy",0.977301,"0.05%","Denmark"
+"2022","Trade policy",1.863001,"0.09%","Denmark"
+"2018","Infrastructure",24.621818,"1.24%","Denmark"
+"2019","Infrastructure",5.244743,"0.26%","Denmark"
+"2020","Infrastructure",0.741412,"0.04%","Denmark"
+"2021","Infrastructure",0.711095,"0.03%","Denmark"
+"2022","Infrastructure",0.565592,"0.03%","Denmark"
+"2018","General budget support",14.424747,"0.73%","Denmark"
+"2019","General budget support",0.197329,"0.01%","Denmark"
+"2020","General budget support",1.043881,"0.06%","Denmark"
+"2021","General budget support",0.071444,"0.00%","Denmark"
+"2022","General budget support",0,"0.00%","Denmark"
+"2018","Tourism",0,"0.00%","Denmark"
+"2019","Tourism",0,"0.00%","Denmark"
+"2020","Tourism",0,"0.00%","Denmark"
+"2021","Tourism",0,"0.00%","Denmark"
+"2022","Tourism",0,"0.00%","Denmark"

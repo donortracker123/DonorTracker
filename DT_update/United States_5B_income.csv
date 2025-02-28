@@ -1,29 +1,36 @@
-donor,year,incomegroup_name,total_oda,share
-United States,2023,Part I unallocated by income,21101.53482800003,36.84467880019952
-United States,2023,LMICs,16700.859158000094,29.160807324184812
-United States,2023,LDCs,13168.134385000083,22.992435657779836
-United States,2023,UMICs,5496.063514999979,9.596491275457735
-United States,2023,Other LICs,805.0020460000001,1.4055869423780951
-United States,2022,Part I unallocated by income,22731.15208999993,43.0575737373559
-United States,2022,LMICs,13543.221426999953,25.653704349236556
-United States,2022,LDCs,11884.288482000047,22.511337111454257
-United States,2022,UMICs,3945.600166000025,7.473794967057927
-United States,2022,Other LICs,688.1971329999998,1.3035898348953636
-United States,2021,Part I unallocated by income,16360.57507799997,39.2379729719176
-United States,2021,LDCs,13304.304338999831,31.9080430593066
-United States,2021,UMICs,5698.387142999687,13.666583212054062
-United States,2021,LMICs,5470.84366999995,13.120860057401273
-United States,2021,Other LICs,861.6600629999995,2.066540699320451
-United States,2021,MADCTs,0.0,0.0
-United States,2020,LDCs,11587.843121999967,34.14780245855689
-United States,2020,Part I unallocated by income,10859.015525000003,32.0000463535878
-United States,2020,UMICs,5457.5584180000005,16.082684655100287
-United States,2020,LMICs,5256.219136999994,15.489365094043828
-United States,2020,Other LICs,773.6345640000001,2.279796161239735
-United States,2020,MADCTs,0.103594,0.00030527747145416977
-United States,2019,Part I unallocated by income,12330.77737300001,36.796298375281026
-United States,2019,LDCs,11043.245016999988,32.95417039696371
-United States,2019,UMICs,4755.586588000002,14.191155816720343
-United States,2019,LMICs,4721.885938999988,14.090589640028158
-United States,2019,Other LICs,659.4230759999998,1.9677857710067659
-United States,2019,MADCTs,0.0,0.0
+Year,Income Group,ODA,Share,Donor
+2018,Countries unspecified,10554.09122,31.94%,United States
+2019,Countries unspecified,10412.62873,33.29%,United States
+2020,Countries unspecified,9249.942473,29.20%,United States
+2021,Countries unspecified,12491.78218,32.07%,United States
+2022,Countries unspecified,18573.91354,37.61%,United States
+2018,Lower-middle income countries,8994.886307,27.22%,United States
+2019,Lower-middle income countries,7942.962139,25.40%,United States
+2020,Lower-middle income countries,8738.076584,27.59%,United States
+2021,Lower-middle income countries,9094.34574,23.35%,United States
+2022,Lower-middle income countries,15340.00598,31.06%,United States
+2018,Low income countries,8208.589163,24.84%,United States
+2019,Low income countries,8361.003666,26.73%,United States
+2020,Low income countries,8831.875742,27.88%,United States
+2021,Low income countries,10481.62864,26.91%,United States
+2022,Low income countries,9370.083245,18.98%,United States
+2018,Upper-middle income countries,3958.190792,11.98%,United States
+2019,Upper-middle income countries,3401.563775,10.88%,United States
+2020,Upper-middle income countries,3862.878968,12.20%,United States
+2021,Upper-middle income countries,3944.92649,10.13%,United States
+2022,Upper-middle income countries,3253.321369,6.59%,United States
+2018,Unallocated by income,1297.234985,3.93%,United States
+2019,Unallocated by income,1095.027498,3.50%,United States
+2020,Unallocated by income,885.751541,2.80%,United States
+2021,Unallocated by income,2792.61352,7.17%,United States
+2022,Unallocated by income,2688.384572,5.44%,United States
+2018,Countries not classified,16.311919,0.05%,United States
+2019,Countries not classified,45.909453,0.15%,United States
+2020,Countries not classified,95.043104,0.30%,United States
+2021,Countries not classified,104.93862,0.27%,United States
+2022,Countries not classified,116.290083,0.24%,United States
+2018,High income countries,16.427354,0.05%,United States
+2019,High income countries,14.855433,0.05%,United States
+2020,High income countries,10.429469,0.03%,United States
+2021,High income countries,42.83634,0.11%,United States
+2022,High income countries,39.088628,0.08%,United States
