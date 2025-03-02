@@ -1,81 +1,93 @@
-"Year","Sector","Gender-related ODA to","Share","Donor"
-"2018","Government & civil society",428.46,"21%","Netherlands"
-"2019","Government & civil society",567.25,"28%","Netherlands"
-"2020","Government & civil society",538.6,"26%","Netherlands"
-"2021","Government & civil society",582,"25%","Netherlands"
-"2022","Government & civil society",610.86,"23%","Netherlands"
-"2018","Health & populations",383.49,"19%","Netherlands"
-"2019","Health & populations",315.93,"16%","Netherlands"
-"2020","Health & populations",336.64,"16%","Netherlands"
-"2021","Health & populations",444.53,"19%","Netherlands"
-"2022","Health & populations",454.09,"17%","Netherlands"
-"2018","Humanitarian aid",239.04,"12%","Netherlands"
-"2019","Humanitarian aid",155.98,"8%","Netherlands"
-"2020","Humanitarian aid",149.61,"7%","Netherlands"
-"2021","Humanitarian aid",205.61,"9%","Netherlands"
-"2022","Humanitarian aid",342.34,"13%","Netherlands"
-"2018","Agriculture (incl. forestry, fishing, rural development)",195.45,"10%","Netherlands"
-"2019","Agriculture (incl. forestry, fishing, rural development)",209.55,"10%","Netherlands"
-"2020","Agriculture (incl. forestry, fishing, rural development)",230.18,"11%","Netherlands"
-"2021","Agriculture (incl. forestry, fishing, rural development)",249.24,"11%","Netherlands"
-"2022","Agriculture (incl. forestry, fishing, rural development)",199.98,"8%","Netherlands"
-"2018","Financial services & business support",134.35,"7%","Netherlands"
-"2019","Financial services & business support",161.74,"8%","Netherlands"
-"2020","Financial services & business support",122.34,"6%","Netherlands"
-"2021","Financial services & business support",154.34,"7%","Netherlands"
-"2022","Financial services & business support",176.24,"7%","Netherlands"
-"2018","Water and sanitation",167.9,"8%","Netherlands"
-"2019","Water and sanitation",151.43,"7%","Netherlands"
-"2020","Water and sanitation",171.12,"8%","Netherlands"
-"2021","Water and sanitation",172.95,"7%","Netherlands"
-"2022","Water and sanitation",159.1,"6%","Netherlands"
-"2018","Other social services",51.16,"3%","Netherlands"
-"2019","Other social services",78.97,"4%","Netherlands"
-"2020","Other social services",61.38,"3%","Netherlands"
-"2021","Other social services",102.55,"4%","Netherlands"
-"2022","Other social services",122.67,"5%","Netherlands"
-"2018","Environmental protection",6.73,"0%","Netherlands"
-"2019","Environmental protection",59.6,"3%","Netherlands"
-"2020","Environmental protection",41.26,"2%","Netherlands"
-"2021","Environmental protection",89.68,"4%","Netherlands"
-"2022","Environmental protection",118.53,"5%","Netherlands"
-"2018","Conflict, peace & security",92.06,"5%","Netherlands"
-"2019","Conflict, peace & security",83.06,"4%","Netherlands"
-"2020","Conflict, peace & security",67.56,"3%","Netherlands"
-"2021","Conflict, peace & security",95.14,"4%","Netherlands"
-"2022","Conflict, peace & security",85.9,"3%","Netherlands"
-"2018","Other multisector",47.4,"2%","Netherlands"
-"2019","Other multisector",63.42,"3%","Netherlands"
-"2020","Other multisector",80.84,"4%","Netherlands"
-"2021","Other multisector",73.85,"3%","Netherlands"
-"2022","Other multisector",70.72,"3%","Netherlands"
-"2018","Unspecified",0.76,"0%","Netherlands"
-"2019","Unspecified",1.86,"0%","Netherlands"
-"2020","Unspecified",8.45,"0%","Netherlands"
-"2021","Unspecified",10.38,"0%","Netherlands"
-"2022","Unspecified",53.36,"2%","Netherlands"
-"2018","Trade policy",60.34,"3%","Netherlands"
-"2019","Trade policy",62.04,"3%","Netherlands"
-"2020","Trade policy",84.43,"4%","Netherlands"
-"2021","Trade policy",60.13,"3%","Netherlands"
-"2022","Trade policy",51.67,"2%","Netherlands"
-"2018","Education",142.04,"7%","Netherlands"
-"2019","Education",30.01,"1%","Netherlands"
-"2020","Education",65.18,"3%","Netherlands"
-"2021","Education",22.21,"1%","Netherlands"
-"2022","Education",49.08,"2%","Netherlands"
-"2018","Food aid and commodity assistance",7.28,"0%","Netherlands"
-"2019","Food aid and commodity assistance",11.66,"1%","Netherlands"
-"2020","Food aid and commodity assistance",26.44,"1%","Netherlands"
-"2021","Food aid and commodity assistance",14.51,"1%","Netherlands"
-"2022","Food aid and commodity assistance",46.92,"2%","Netherlands"
-"2018","Energy",15.25,"1%","Netherlands"
-"2019","Energy",36.7,"2%","Netherlands"
-"2020","Energy",30.92,"1%","Netherlands"
-"2021","Energy",33.93,"1%","Netherlands"
-"2022","Energy",38.4,"1%","Netherlands"
-"2018","Industry, construction & mining",29.89,"1%","Netherlands"
-"2019","Industry, construction & mining",33.93,"2%","Netherlands"
-"2020","Industry, construction & mining",63.63,"3%","Netherlands"
-"2021","Industry, construction & mining",51.91,"2%","Netherlands"
-"2022","Industry, construction & mining",26.63,"1%","Netherlands"
+year,Sector,Gender-related ODA to,Share,donor
+2023,Government & civil society,678.0797710124003,24.0%,Netherlands
+2022,Government & civil society,634.0800821627998,23.0%,Netherlands
+2021,Government & civil society,603.0227155344,24.0%,Netherlands
+2019,Government & civil society,590.3094134888003,28.0%,Netherlands
+2020,Government & civil society,560.4356070947999,25.0%,Netherlands
+2022,Health & populations,471.34988418160003,17.0%,Netherlands
+2021,Health & populations,460.59098489839994,19.0%,Netherlands
+2023,Health & populations,420.55618100759983,15.0%,Netherlands
+2023,Emergency Response,418.2272936572,15.0%,Netherlands
+2020,Health & populations,350.2824987391998,16.0%,Netherlands
+2022,Emergency Response,344.8208662128,13.0%,Netherlands
+2019,Health & populations,328.7738225304001,15.0%,Netherlands
+2023,"Agriculture (incl. forestry, fishing, rural development)",324.04527837600006,12.0%,Netherlands
+2021,"Agriculture (incl. forestry, fishing, rural development)",298.35625806959985,12.0%,Netherlands
+2022,"Agriculture (incl. forestry, fishing, rural development)",252.02248391359996,9.0%,Netherlands
+2020,"Agriculture (incl. forestry, fishing, rural development)",240.8913513864001,11.0%,Netherlands
+2019,"Agriculture (incl. forestry, fishing, rural development)",228.89481215799995,11.0%,Netherlands
+2021,Emergency Response,213.03284881719998,9.0%,Netherlands
+2022,Financial services & business support,182.9427335124,7.0%,Netherlands
+2021,Water and sanitation,179.2020283396,7.0%,Netherlands
+2020,Water and sanitation,178.0533142752,8.0%,Netherlands
+2023,Water and sanitation,175.29172854040002,6.0%,Netherlands
+2019,Financial services & business support,168.3177865828,8.0%,Netherlands
+2022,Water and sanitation,165.15337250119998,6.0%,Netherlands
+2021,Financial services & business support,159.9109966012,6.0%,Netherlands
+2019,Water and sanitation,157.58656338040004,7.0%,Netherlands
+2019,Emergency Response,136.38315838200003,6.0%,Netherlands
+2020,Emergency Response,130.4451216004,6.0%,Netherlands
+2022,Other social services,127.33289676279999,5.0%,Netherlands
+2020,Financial services & business support,127.30452541399998,6.0%,Netherlands
+2022,Environmental protection,123.0401234152,4.0%,Netherlands
+2023,Financial services & business support,106.48026661000002,4.0%,Netherlands
+2021,Other social services,106.2493416208,4.0%,Netherlands
+2023,"Conflict, peace & security",103.34808868440001,4.0%,Netherlands
+2021,"Conflict, peace & security",98.5734019104,4.0%,Netherlands
+2023,Other social services,98.00294334520001,3.0%,Netherlands
+2021,Environmental protection,92.9153374128,4.0%,Netherlands
+2022,"Conflict, peace & security",89.1663519292,3.0%,Netherlands
+2020,Trade policy,87.8504325324,4.0%,Netherlands
+2019,"Conflict, peace & security",86.43921286119998,4.0%,Netherlands
+2020,Other multisector,82.7369714592,4.0%,Netherlands
+2023,Environmental protection,82.53965108999999,3.0%,Netherlands
+2019,Other social services,82.177598556,4.0%,Netherlands
+2023,Other multisector,81.4473254676,3.0%,Netherlands
+2023,Trade policy,80.5416781996,3.0%,Netherlands
+2020,"Conflict, peace & security",70.29767342880001,3.0%,Netherlands
+2023,Energy,69.2570183584,2.0%,Netherlands
+2020,Education,67.81787539999999,3.0%,Netherlands
+2020,"Industry, construction & mining",66.2118294956,3.0%,Netherlands
+2019,Trade policy,64.5666179308,3.0%,Netherlands
+2020,Other social services,63.8709460132,3.0%,Netherlands
+2021,Trade policy,62.299616054,3.0%,Netherlands
+2019,Environmental protection,62.0281944628,3.0%,Netherlands
+2022,Unspecified,55.389514045599995,2.0%,Netherlands
+2019,Other multisector,55.176296318400006,3.0%,Netherlands
+2021,"Industry, construction & mining",53.7893735048,2.0%,Netherlands
+2022,Trade policy,53.63149359239999,2.0%,Netherlands
+2022,Education,50.946593710799995,2.0%,Netherlands
+2022,Food aid and commodity assistance,48.70834061400001,2.0%,Netherlands
+2020,Environmental protection,42.9325385504,2.0%,Netherlands
+2020,Donor administration costs,41.9509989176,2.0%,Netherlands
+2023,Donor administration costs,41.934625908,1.0%,Netherlands
+2021,Donor administration costs,41.2145368404,2.0%,Netherlands
+2022,Donor administration costs,40.2103160204,1.0%,Netherlands
+2022,Energy,39.8639886828,1.0%,Netherlands
+2019,Energy,38.188290168,2.0%,Netherlands
+2023,Food aid and commodity assistance,37.129184009199996,1.0%,Netherlands
+2021,Other multisector,36.408431678,1.0%,Netherlands
+2019,Donor administration costs,35.478342980799994,2.0%,Netherlands
+2019,"Industry, construction & mining",35.3141317152,2.0%,Netherlands
+2021,Energy,35.1557044172,1.0%,Netherlands
+2020,Energy,32.1733401916,1.0%,Netherlands
+2019,Education,31.2264249052,1.0%,Netherlands
+2023,Unspecified,30.963794591599996,1.0%,Netherlands
+2022,Other multisector,28.970463442800003,1.0%,Netherlands
+2022,"Industry, construction & mining",27.6452649772,1.0%,Netherlands
+2020,Food aid and commodity assistance,27.513648537599998,1.0%,Netherlands
+2019,Reconstruction Relief & Rehabilitation,25.938565234800002,1.0%,Netherlands
+2020,Reconstruction Relief & Rehabilitation,25.2320493436,1.0%,Netherlands
+2023,"Industry, construction & mining",24.720259257999995,1.0%,Netherlands
+2021,Education,23.008486266400002,1.0%,Netherlands
+2023,Education,22.173279579200003,1.0%,Netherlands
+2021,Food aid and commodity assistance,15.0345293084,1.0%,Netherlands
+2019,Food aid and commodity assistance,12.1335004028,1.0%,Netherlands
+2020,Unspecified,10.859662377600001,0.0%,Netherlands
+2021,Unspecified,10.846950009200002,0.0%,Netherlands
+2022,Reconstruction Relief & Rehabilitation,10.5306152088,0.0%,Netherlands
+2023,Reconstruction Relief & Rehabilitation,5.1360285896,0.0%,Netherlands
+2019,Unspecified,4.0364501079999995,0.0%,Netherlands
+2023,Disaster Prevention & Preparedness,0.8448698088,0.0%,Netherlands
+2022,Refugees in donor countries,0.24140146399999998,0.0%,Netherlands
+2022,Disaster Prevention & Preparedness,0.0,0.0%,Netherlands

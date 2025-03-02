@@ -1,81 +1,74 @@
-"Year","Sector","Gender-related ODA to","Share","Donor"
-"2018","Unspecified",14.07,"88%","Slovak Republic"
-"2019","Unspecified",2.9,"40%","Slovak Republic"
-"2020","Unspecified",2.04,"36%","Slovak Republic"
-"2021","Unspecified",1.17,"29%","Slovak Republic"
-"2022","Unspecified",1.04,"21%","Slovak Republic"
-"2018","Health & populations",0.81,"5%","Slovak Republic"
-"2019","Health & populations",0.22,"3%","Slovak Republic"
-"2020","Health & populations",1.27,"23%","Slovak Republic"
-"2021","Health & populations",0.46,"11%","Slovak Republic"
-"2022","Health & populations",1.01,"20%","Slovak Republic"
-"2018","Education",1.05,"7%","Slovak Republic"
-"2019","Education",0.95,"13%","Slovak Republic"
-"2020","Education",0.67,"12%","Slovak Republic"
-"2021","Education",0.26,"6%","Slovak Republic"
-"2022","Education",0.85,"17%","Slovak Republic"
-"2018","Water and sanitation",0,"0%","Slovak Republic"
-"2019","Water and sanitation",0.09,"1%","Slovak Republic"
-"2020","Water and sanitation",0.18,"3%","Slovak Republic"
-"2021","Water and sanitation",0.96,"24%","Slovak Republic"
-"2022","Water and sanitation",0.66,"13%","Slovak Republic"
-"2018","Humanitarian aid",0,"0%","Slovak Republic"
-"2019","Humanitarian aid",1.21,"17%","Slovak Republic"
-"2020","Humanitarian aid",0.1,"2%","Slovak Republic"
-"2021","Humanitarian aid",0.11,"3%","Slovak Republic"
-"2022","Humanitarian aid",0.58,"12%","Slovak Republic"
-"2018","Agriculture (incl. forestry, fishing, rural development)",0,"0%","Slovak Republic"
-"2019","Agriculture (incl. forestry, fishing, rural development)",0.35,"5%","Slovak Republic"
-"2020","Agriculture (incl. forestry, fishing, rural development)",0.43,"8%","Slovak Republic"
-"2021","Agriculture (incl. forestry, fishing, rural development)",0.48,"12%","Slovak Republic"
-"2022","Agriculture (incl. forestry, fishing, rural development)",0.31,"6%","Slovak Republic"
-"2018","Infrastructure",0,"0%","Slovak Republic"
-"2019","Infrastructure",0,"0%","Slovak Republic"
-"2020","Infrastructure",0.12,"2%","Slovak Republic"
-"2021","Infrastructure",0.05,"1%","Slovak Republic"
-"2022","Infrastructure",0.11,"2%","Slovak Republic"
-"2018","Environmental protection",0,"0%","Slovak Republic"
-"2019","Environmental protection",0,"0%","Slovak Republic"
-"2020","Environmental protection",0,"0%","Slovak Republic"
-"2021","Environmental protection",0,"0%","Slovak Republic"
-"2022","Environmental protection",0.1,"2%","Slovak Republic"
-"2018","Financial services & business support",0,"0%","Slovak Republic"
-"2019","Financial services & business support",0.11,"1%","Slovak Republic"
-"2020","Financial services & business support",0.28,"5%","Slovak Republic"
-"2021","Financial services & business support",0.06,"1%","Slovak Republic"
-"2022","Financial services & business support",0.07,"1%","Slovak Republic"
-"2018","Government & civil society",0.01,"0%","Slovak Republic"
-"2019","Government & civil society",0.58,"8%","Slovak Republic"
-"2020","Government & civil society",0.27,"5%","Slovak Republic"
-"2021","Government & civil society",0.34,"8%","Slovak Republic"
-"2022","Government & civil society",0.06,"1%","Slovak Republic"
-"2018","Industry, construction & mining",0,"0%","Slovak Republic"
-"2019","Industry, construction & mining",0.01,"0%","Slovak Republic"
-"2020","Industry, construction & mining",0.07,"1%","Slovak Republic"
-"2021","Industry, construction & mining",0.06,"1%","Slovak Republic"
-"2022","Industry, construction & mining",0.05,"1%","Slovak Republic"
-"2018","Tourism",0,"0%","Slovak Republic"
-"2019","Tourism",0,"0%","Slovak Republic"
-"2020","Tourism",0,"0%","Slovak Republic"
-"2021","Tourism",0,"0%","Slovak Republic"
-"2022","Tourism",0.05,"1%","Slovak Republic"
-"2018","Other social services",0,"0%","Slovak Republic"
-"2019","Other social services",0.82,"11%","Slovak Republic"
-"2020","Other social services",0.03,"1%","Slovak Republic"
-"2021","Other social services",0.03,"1%","Slovak Republic"
-"2022","Other social services",0.04,"1%","Slovak Republic"
-"2018","Conflict, peace & security",0.09,"1%","Slovak Republic"
-"2019","Conflict, peace & security",0.08,"1%","Slovak Republic"
-"2020","Conflict, peace & security",0,"0%","Slovak Republic"
-"2021","Conflict, peace & security",0.06,"1%","Slovak Republic"
-"2022","Conflict, peace & security",0.03,"1%","Slovak Republic"
-"2018","Food aid and commodity assistance",0,"0%","Slovak Republic"
-"2019","Food aid and commodity assistance",0,"0%","Slovak Republic"
-"2020","Food aid and commodity assistance",0.1,"2%","Slovak Republic"
-"2021","Food aid and commodity assistance",0.02,"1%","Slovak Republic"
-"2022","Food aid and commodity assistance",0.02,"0%","Slovak Republic"
-"2018","Energy",0,"0%","Slovak Republic"
-"2019","Energy",0,"0%","Slovak Republic"
-"2020","Energy",0.05,"1%","Slovak Republic"
-"2021","Energy",0.01,"0%","Slovak Republic"
-"2022","Energy",0,"0%","Slovak Republic"
+year,Sector,Gender-related ODA to,Share,donor
+2019,Unspecified,3.0891825152999997,40.0%,Slovak Republic
+2020,Unspecified,2.2908020994000005,38.0%,Slovak Republic
+2020,Health & populations,1.3576406606999998,22.0%,Slovak Republic
+2021,Unspecified,1.2497692061999996,29.0%,Slovak Republic
+2022,Unspecified,1.1238658083,21.0%,Slovak Republic
+2023,Emergency Response,1.1002073898,21.0%,Slovak Republic
+2022,Health & populations,1.0704315881999997,20.0%,Slovak Republic
+2019,Emergency Response,1.0574057907,14.0%,Slovak Republic
+2019,Education,1.040579919,13.0%,Slovak Republic
+2021,Water and sanitation,1.0251430938,24.0%,Slovak Republic
+2022,Education,0.9064638534,17.0%,Slovak Republic
+2019,Other social services,0.8705226936,11.0%,Slovak Republic
+2023,Water and sanitation,0.8445982884000001,16.0%,Slovak Republic
+2023,Unspecified,0.8091368795999999,15.0%,Slovak Republic
+2023,Education,0.7132525059,13.0%,Slovak Republic
+2022,Water and sanitation,0.7052774823,13.0%,Slovak Republic
+2020,Education,0.6489156653999999,11.0%,Slovak Republic
+2022,Emergency Response,0.6207130007999999,12.0%,Slovak Republic
+2019,Government & civil society,0.6199007712,8.0%,Slovak Republic
+2023,Health & populations,0.5675677470000001,11.0%,Slovak Republic
+2021,"Agriculture (incl. forestry, fishing, rural development)",0.5101125441,12.0%,Slovak Republic
+2021,Health & populations,0.4859297466,11.0%,Slovak Republic
+2020,"Agriculture (incl. forestry, fishing, rural development)",0.46199686589999994,8.0%,Slovak Republic
+2023,Financial services & business support,0.41117449949999996,8.0%,Slovak Republic
+2023,"Agriculture (incl. forestry, fishing, rural development)",0.3853103421,7.0%,Slovak Republic
+2019,"Agriculture (incl. forestry, fishing, rural development)",0.37207814009999995,5.0%,Slovak Republic
+2021,Government & civil society,0.3577927173,8.0%,Slovak Republic
+2022,"Agriculture (incl. forestry, fishing, rural development)",0.3322364931,6.0%,Slovak Republic
+2020,Financial services & business support,0.2959829373,5.0%,Slovak Republic
+2020,Government & civil society,0.282863421,5.0%,Slovak Republic
+2021,Education,0.24946382579999998,6.0%,Slovak Republic
+2019,Health & populations,0.23932992269999995,3.0%,Slovak Republic
+2019,Reconstruction Relief & Rehabilitation,0.23364208409999998,3.0%,Slovak Republic
+2023,Government & civil society,0.2241296259,4.0%,Slovak Republic
+2020,Water and sanitation,0.1916538303,3.0%,Slovak Republic
+2020,Infrastructure,0.1291210767,2.0%,Slovak Republic
+2021,Emergency Response,0.11959634579999998,3.0%,Slovak Republic
+2019,Financial services & business support,0.11567019749999999,1.0%,Slovak Republic
+2022,Infrastructure,0.11438379539999999,2.0%,Slovak Republic
+2023,,0.10555414559999998,2.0%,Slovak Republic
+2022,Environmental protection,0.1041003885,2.0%,Slovak Republic
+2020,Food aid and commodity assistance,0.10329931590000001,2.0%,Slovak Republic
+2019,Water and sanitation,0.0934354122,1.0%,Slovak Republic
+2019,"Conflict, peace & security",0.08261981639999999,1.0%,Slovak Republic
+2020,"Industry, construction & mining",0.0770123082,1.0%,Slovak Republic
+2022,Financial services & business support,0.0709763712,1.0%,Slovak Republic
+2022,Government & civil society,0.06714171029999999,1.0%,Slovak Republic
+2020,,0.0645610962,1.0%,Slovak Republic
+2021,Financial services & business support,0.0636194454,1.0%,Slovak Republic
+2021,"Conflict, peace & security",0.06305601689999998,1.0%,Slovak Republic
+2021,"Industry, construction & mining",0.05965536329999999,1.0%,Slovak Republic
+2020,Emergency Response,0.059291645100000005,1.0%,Slovak Republic
+2021,Infrastructure,0.058473836999999994,1.0%,Slovak Republic
+2022,"Industry, construction & mining",0.058440366,1.0%,Slovak Republic
+2023,Energy,0.051817570800000004,1.0%,Slovak Republic
+2020,Reconstruction Relief & Rehabilitation,0.0516435216,1.0%,Slovak Republic
+2020,Energy,0.051632364599999994,1.0%,Slovak Republic
+2022,Tourism,0.048651214199999994,1.0%,Slovak Republic
+2023,"Industry, construction & mining",0.0430849869,1.0%,Slovak Republic
+2023,Environmental protection,0.0427859793,1.0%,Slovak Republic
+2022,Other social services,0.03906511979999999,1.0%,Slovak Republic
+2021,Other social services,0.036398596799999995,1.0%,Slovak Republic
+2022,"Conflict, peace & security",0.03549264839999999,1.0%,Slovak Republic
+2021,,0.0315285663,1.0%,Slovak Republic
+2020,Other social services,0.0309997245,1.0%,Slovak Republic
+2021,Food aid and commodity assistance,0.0249269694,1.0%,Slovak Republic
+2023,Other social services,0.023854781699999997,0.0%,Slovak Republic
+2022,Food aid and commodity assistance,0.0168961608,0.0%,Slovak Republic
+2021,Energy,0.011310966599999998,0.0%,Slovak Republic
+2023,Disaster Prevention & Preparedness,0.010813364399999997,0.0%,Slovak Republic
+2019,"Industry, construction & mining",0.005502632399999999,0.0%,Slovak Republic
+2023,"Conflict, peace & security",0.0024199533,0.0%,Slovak Republic
+2021,Disaster Prevention & Preparedness,0.0,0.0%,Slovak Republic

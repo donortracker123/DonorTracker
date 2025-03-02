@@ -1,36 +1,30 @@
-Year,Income Group,ODA,Share,Donor
-2018,Countries unspecified,126.488792,24.18%,Austria
-2019,Countries unspecified,134.374884,26.83%,Austria
-2020,Countries unspecified,190.846379,31.75%,Austria
-2021,Countries unspecified,171.089506,23.74%,Austria
-2022,Countries unspecified,517.09841,43.83%,Austria
-2018,Upper-middle income countries,176.36972,33.72%,Austria
-2019,Upper-middle income countries,156.440842,31.24%,Austria
-2020,Upper-middle income countries,175.125578,29.13%,Austria
-2021,Upper-middle income countries,189.732467,26.32%,Austria
-2022,Upper-middle income countries,222.462176,18.86%,Austria
-2018,Lower-middle income countries,105.866003,20.24%,Austria
-2019,Lower-middle income countries,89.314207,17.84%,Austria
-2020,Lower-middle income countries,84.202494,14.01%,Austria
-2021,Lower-middle income countries,117.003276,16.23%,Austria
-2022,Lower-middle income countries,198.264065,16.81%,Austria
-2018,Unallocated by income,57.52592,11%,Austria
-2019,Unallocated by income,47.16284,9.42%,Austria
-2020,Unallocated by income,78.495416,13.06%,Austria
-2021,Unallocated by income,145.247727,20.15%,Austria
-2022,Unallocated by income,165.569778,14.03%,Austria
-2018,Low income countries,56.324183,10.77%,Austria
-2019,Low income countries,71.99208,14.38%,Austria
-2020,Low income countries,70.771036,11.77%,Austria
-2021,Low income countries,96.107929,13.33%,Austria
-2022,Low income countries,75.96564,6.44%,Austria
-2018,Countries not classified,0.446663,0.09%,Austria
-2019,Countries not classified,1.47333,0.29%,Austria
-2020,Countries not classified,1.594108,0.27%,Austria
-2021,Countries not classified,1.604306,0.22%,Austria
-2022,Countries not classified,0.36827,0.03%,Austria
-2018,High income countries,0.030253,0.01%,Austria
-2019,High income countries,0.019979,0%,Austria
-2020,High income countries,0.066938,0.01%,Austria
-2021,High income countries,0.033185,0%,Austria
-2022,High income countries,0.04328,0%,Austria
+year,incomegroup_name,total_oda,share,donor
+2023,Part I unallocated by income,440.527085,53.16063170940956,Austria
+2023,UMICs,159.134252,19.203535153631634,Austria
+2023,LMICs,142.294341,17.171377910246168,Austria
+2023,LDCs,72.41136699999993,8.738245941590376,Austria
+2023,Other LICs,14.304606999999999,1.7262092851222572,Austria
+2022,Part I unallocated by income,633.3406389999996,57.86443574893721,Austria
+2022,UMICs,200.245589,18.295206884235004,Austria
+2022,LMICs,157.14663200000004,14.35752047252709,Austria
+2022,LDCs,94.46189099999998,8.630401534193375,Austria
+2022,Other LICs,9.330117,0.8524353601073231,Austria
+2022,,,,Austria
+2021,Part I unallocated by income,296.1695720000001,43.88584038983805,Austria
+2021,UMICs,176.8717980000001,26.20852454245934,Austria
+2021,LMICs,98.46537299999997,14.590410534826537,Austria
+2021,LDCs,86.73583900000006,12.85235063388852,Austria
+2021,Other LICs,16.62104,2.4628738989875494,Austria
+2021,,,,Austria
+2020,Part I unallocated by income,252.4612280000001,44.80800552552469,Austria
+2020,UMICs,163.0559040000001,28.939928341794438,Austria
+2020,LMICs,74.16176800000002,13.16257920731765,Austria
+2020,LDCs,56.11132700000002,9.958902086385015,Austria
+2020,Other LICs,17.638618,3.130584838978202,Austria
+2020,,,,Austria
+2019,Part I unallocated by income,170.400075,36.25112797015689,Austria
+2019,UMICs,143.230664,30.471073031596628,Austria
+2019,LMICs,76.56722499999997,16.289008510088944,Austria
+2019,LDCs,66.35360500000013,14.116150043573905,Austria
+2019,Other LICs,13.502977,2.872640444583637,Austria
+2019,,,,Austria

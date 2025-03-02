@@ -57,8 +57,8 @@ ranked AS (
 )
 SELECT 
     donor, 
-    year "Year", 
     sector_percentage || '%' "ODA to Gender as % of Total ODA",
+    year "Year", 
     CASE 
         WHEN rn::TEXT LIKE '%1' AND rn != 11 THEN rn || 'st'
         WHEN rn::TEXT LIKE '%2' AND rn != 12 THEN rn || 'nd'

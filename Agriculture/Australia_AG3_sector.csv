@@ -1,104 +1,131 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Agricultural co-operatives",0.029857,"0%","Australia"
-2018,"Agricultural development",30.974496,"17%","Australia"
-2018,"Agricultural education/training",1.00184,"1%","Australia"
-2018,"Agricultural extension",0.000556,"0%","Australia"
-2018,"Agricultural inputs",0.060321,"0%","Australia"
-2018,"Agricultural land resources",0.088738,"0%","Australia"
-2018,"Agricultural policy and administrative management",20.519933,"11%","Australia"
-2018,"Agricultural research",79.873524,"43%","Australia"
-2018,"Agricultural services",4.863831,"3%","Australia"
-2018,"Agricultural water resources",1.727788,"1%","Australia"
-2018,"Fishery development",1.186325,"1%","Australia"
-2018,"Fishery education/training",0.024155,"0%","Australia"
-2018,"Fishery research",0.189625,"0%","Australia"
-2018,"Fishing policy and administrative management",7.808143,"4%","Australia"
-2018,"Food crop production",3.512151,"2%","Australia"
-2018,"Forestry development",0.025038,"0%","Australia"
-2018,"Forestry policy and administrative management",0.063036,"0%","Australia"
-2018,"Fuelwood/charcoal",0.023864,"0%","Australia"
-2018,"Industrial crops/export crops",0.016348,"0%","Australia"
-2018,"Livestock",1.785027,"1%","Australia"
-2018,"Livestock/veterinary services",0.123739,"0%","Australia"
-2018,"Rural development",30.811156,"17%","Australia"
-2019,"Agricultural alternative development",0.004471,"0%","Australia"
-2019,"Agricultural co-operatives",0.012858,"0%","Australia"
-2019,"Agricultural development",30.741415,"18%","Australia"
-2019,"Agricultural education/training",0.338728,"0%","Australia"
-2019,"Agricultural extension",0.007967,"0%","Australia"
-2019,"Agricultural financial services",0.003588,"0%","Australia"
-2019,"Agricultural inputs",0.030305,"0%","Australia"
-2019,"Agricultural land resources",0.222885,"0%","Australia"
-2019,"Agricultural policy and administrative management",7.948328,"5%","Australia"
-2019,"Agricultural research",73.988047,"43%","Australia"
-2019,"Agricultural services",9.166341,"5%","Australia"
-2019,"Agricultural water resources",2.652852,"2%","Australia"
-2019,"Fishery development",2.270572,"1%","Australia"
-2019,"Fishery education/training",0.015125,"0%","Australia"
-2019,"Fishery research",0.481323,"0%","Australia"
-2019,"Fishery services",0.014813,"0%","Australia"
-2019,"Fishing policy and administrative management",9.406839,"5%","Australia"
-2019,"Food crop production",2.634061,"2%","Australia"
-2019,"Forestry development",0.002425,"0%","Australia"
-2019,"Forestry education/training",0.060646,"0%","Australia"
-2019,"Forestry policy and administrative management",0.020547,"0%","Australia"
-2019,"Industrial crops/export crops",0.158708,"0%","Australia"
-2019,"Livestock",1.877734,"1%","Australia"
-2019,"Livestock/veterinary services",0.361533,"0%","Australia"
-2019,"Plant and post-harvest protection and pest control",0.079591,"0%","Australia"
-2019,"Rural development",30.916715,"18%","Australia"
-2020,"Agricultural development",24.278123,"15%","Australia"
-2020,"Agricultural land resources",0.041209,"0%","Australia"
-2020,"Agricultural policy and administrative management",9.877788,"6%","Australia"
-2020,"Agricultural research",70.092273,"45%","Australia"
-2020,"Agricultural services",11.908966,"8%","Australia"
-2020,"Agricultural water resources",0.851663,"1%","Australia"
-2020,"Fishery development",1.519497,"1%","Australia"
-2020,"Fishing policy and administrative management",7.465213,"5%","Australia"
-2020,"Food crop production",3.051252,"2%","Australia"
-2020,"Livestock",2.131038,"1%","Australia"
-2020,"Livestock/veterinary services",0.545105,"0%","Australia"
-2020,"Plant and post-harvest protection and pest control",1.341953,"1%","Australia"
-2020,"Rural development",23.644632,"15%","Australia"
-2021,"Agricultural alternative development",0.289941,"0%","Australia"
-2021,"Agricultural co-operatives",0.33347,"0%","Australia"
-2021,"Agricultural development",32.775878,"23%","Australia"
-2021,"Agricultural education/training",0.689716,"0%","Australia"
-2021,"Agricultural extension",0.794545,"1%","Australia"
-2021,"Agricultural financial services",0.045717,"0%","Australia"
-2021,"Agricultural inputs",0.159181,"0%","Australia"
-2021,"Agricultural policy and administrative management",11.971321,"8%","Australia"
-2021,"Agricultural research",63.620629,"44%","Australia"
-2021,"Agricultural services",7.560248,"5%","Australia"
-2021,"Agricultural water resources",1.637782,"1%","Australia"
-2021,"Fishery development",2.964971,"2%","Australia"
-2021,"Fishery education/training",0.031949,"0%","Australia"
-2021,"Fishing policy and administrative management",10.102364,"7%","Australia"
-2021,"Food crop production",3.082224,"2%","Australia"
-2021,"Forestry development",0.155444,"0%","Australia"
-2021,"Forestry policy and administrative management",0.094431,"0%","Australia"
-2021,"Industrial crops/export crops",0.137157,"0%","Australia"
-2021,"Livestock",0.159858,"0%","Australia"
-2021,"Livestock/veterinary services",0.370045,"0%","Australia"
-2021,"Plant and post-harvest protection and pest control",1.113172,"1%","Australia"
-2021,"Rural development",6.016152,"4%","Australia"
-2022,"Agricultural alternative development",0.148629,"0%","Australia"
-2022,"Agricultural co-operatives",0.080284,"0%","Australia"
-2022,"Agricultural development",28.544097,"21%","Australia"
-2022,"Agricultural education/training",0.42897,"0%","Australia"
-2022,"Agricultural extension",0.330837,"0%","Australia"
-2022,"Agricultural inputs",0.011883,"0%","Australia"
-2022,"Agricultural land resources",0.010916,"0%","Australia"
-2022,"Agricultural policy and administrative management",20.242544,"15%","Australia"
-2022,"Agricultural research",61.648112,"46%","Australia"
-2022,"Agricultural services",2.894843,"2%","Australia"
-2022,"Agricultural water resources",2.774871,"2%","Australia"
-2022,"Fishery development",3.028516,"2%","Australia"
-2022,"Fishing policy and administrative management",7.645122,"6%","Australia"
-2022,"Food crop production",1.815547,"1%","Australia"
-2022,"Forestry development",1.04428,"1%","Australia"
-2022,"Forestry policy and administrative management",0.255726,"0%","Australia"
-2022,"Livestock",0.067409,"0%","Australia"
-2022,"Livestock/veterinary services",0.834871,"1%","Australia"
-2022,"Plant and post-harvest protection and pest control",0.776968,"1%","Australia"
-2022,"Rural development",2.528954,"2%","Australia"
+year,Sector,Bilateral ODA for,share,donor
+2023,Multisector education/training,193.40150117159988,53.03396855319347,Australia
+2023,Agricultural research,58.4299784028,16.022490096539695,Australia
+2023,Agricultural development,25.642853836799997,7.0317050062002755,Australia
+2023,Fishing policy and administrative management,14.0614723992,3.855893984861574,Australia
+2023,Agricultural policy and administrative management,12.9515255964,3.5515277649572954,Australia
+2023,Fishery research,11.959694241600001,3.2795508022042337,Australia
+2023,Forestry policy and administrative management,9.372589810800001,2.570122932225412,Australia
+2023,Disaster Risk Reduction,8.815221251999999,2.4172830295314265,Australia
+2023,Household food security programmes,3.9031181316,1.0703011248449932,Australia
+2023,Rural development,3.8501329032,1.0557716774532893,Australia
+2023,Agricultural inputs,3.1733121336000005,0.8701759545986544,Australia
+2023,Food security policy and administrative management,2.4602310527999998,0.6746370400300958,Australia
+2023,Agricultural water resources,2.4399384575999994,0.6690724665951429,Australia
+2023,Livestock/veterinary services,2.2144423523999994,0.6072376138168619,Australia
+2023,Research/scientific institutions,2.0263279704,0.5556534629237437,Australia
+2023,Agricultural services,1.8064101456000001,0.495348269147706,Australia
+2023,Food crop production,1.5377396784,0.4216742747767204,Australia
+2023,Agricultural education/training,1.3450076591999998,0.3688238895236237,Australia
+2023,Forestry development,0.8915215475999999,0.2444703140021736,Australia
+2023,Agricultural extension,0.8900130996000001,0.24405667200192285,Australia
+2023,Fishery development,0.8516201208,0.23352866669685535,Australia
+2023,Plant and post-harvest protection and pest control,0.7781874827999999,0.21339219313859362,Australia
+2023,Livestock,0.5844471851999999,0.16026532086427667,Australia
+2023,Agricultural co-operatives,0.5565150948,0.15260586840436952,Australia
+2023,Agricultural land resources,0.43258021319999995,0.11862082395744801,Australia
+2023,Non-agricultural alternative development,0.102882108,0.028212017214473816,Australia
+2023,Agricultural financial services,0.0680756628,0.018667500191581563,Australia
+2023,Agricultural alternative development,0.045928272,0.012594310376057185,Australia
+2023,Forestry education/training,0.030184838399999997,0.008277194131334382,Australia
+2023,Industrial crops/export crops,0.0244368576,0.006701000404062924,Australia
+2023,Fuelwood/charcoal,0.013665347999999997,0.0037472699627983446,Australia
+2023,Forestry services,0.0132118212,0.0036229052298282043,Australia
+2022,Multisector education/training,113.72325728519994,43.752922092605544,Australia
+2022,Agricultural research,60.3503736276,23.218691221322036,Australia
+2022,Agricultural development,27.943221158399997,10.750638062483917,Australia
+2022,Agricultural policy and administrative management,19.816419847199995,7.6240014085644665,Australia
+2022,Fishing policy and administrative management,7.484154828000003,2.8793902930275714,Australia
+2022,Research/scientific institutions,6.318349798799999,2.430868347425564,Australia
+2022,Disaster Risk Reduction,4.8444522048000005,1.8638134798267876,Australia
+2022,Fishery development,2.964763243199997,1.1406378809344175,Australia
+2022,Agricultural services,2.8339063715999995,1.0902931172943955,Australia
+2022,Agricultural water resources,2.7164538467999995,1.045105428427318,Australia
+2022,Rural development,2.4757234092000004,0.9524888402898771,Australia
+2022,Household food security programmes,2.3284552188,0.8958301249566435,Australia
+2022,Food crop production,1.7773268711999997,0.6837936758502269,Australia
+2022,Forestry development,1.0222980348000001,0.39331028093801507,Australia
+2022,Livestock/veterinary services,0.8172969744,0.3144399105432514,Australia
+2022,Plant and post-harvest protection and pest control,0.7606140636000001,0.29263220788490285,Australia
+2022,Agricultural education/training,0.4199410068,0.16156454354743408,Australia
+2022,Food security policy and administrative management,0.41298329040000004,0.15888769071311712,Australia
+2022,Agricultural extension,0.323874702,0.12460480769412499,Australia
+2022,Forestry policy and administrative management,0.25034282399999996,0.09631477620664602,Australia
+2022,Agricultural alternative development,0.14550171839999998,0.055979097868523,Australia
+2022,Agricultural co-operatives,0.07859311799999999,0.03023725006614339,Australia
+2022,Livestock,0.06598963799999999,0.02538829399770446,Australia
+2022,Non-agricultural alternative development,0.0249013008,0.009580315407029107,Australia
+2022,Agricultural inputs,0.0116329128,0.004475548270412689,Australia
+2022,Agricultural land resources,0.0106861632,0.004111303853933102,Australia
+2021,Multisector education/training,128.96532147360003,43.89475125190581,Australia
+2021,Agricultural research,62.92930564440003,21.418674308360824,Australia
+2021,Agricultural development,32.4197261772,11.034406768756057,Australia
+2021,Research/scientific institutions,12.491485675200002,4.25161314851521,Australia
+2021,Agricultural policy and administrative management,11.841233438400003,4.030292720207867,Australia
+2021,Fishing policy and administrative management,9.992580794399995,3.401083665926019,Australia
+2021,Agricultural services,7.478091264,2.545249778170207,Australia
+2021,Household food security programmes,6.188490289199998,2.1063200460821196,Australia
+2021,Rural development,5.950780717199999,2.0254130052287156,Australia
+2021,Disaster Risk Reduction,3.5459742119999986,1.2069109292553122,Australia
+2021,Food crop production,3.0487311996,1.0376688563348468,Australia
+2021,Fishery development,2.9327563584000003,0.9981955564757419,Australia
+2021,Agricultural water resources,1.6199838359999998,0.5513791358856464,Australia
+2021,Plant and post-harvest protection and pest control,1.1010717696,0.37476176451807974,Australia
+2021,Agricultural extension,0.7859103395999999,0.2674931405502263,Australia
+2021,Agricultural education/training,0.6822224028,0.23220182237527795,Australia
+2021,Livestock/veterinary services,0.36602193,0.12457954887803988,Australia
+2021,Agricultural co-operatives,0.32984795759999996,0.11226734353362604,Australia
+2021,Agricultural alternative development,0.2867916912,0.09761267449648746,Australia
+2021,Livestock,0.15812107679999998,0.05381823000565539,Australia
+2021,Agricultural inputs,0.15745120679999997,0.0535902324580578,Australia
+2021,Forestry development,0.1537545168,0.05233202376946377,Australia
+2021,Industrial crops/export crops,0.13566802679999998,0.04617608998432914,Australia
+2021,Forestry policy and administrative management,0.09340468799999999,0.03179130248871717,Australia
+2021,Non-agricultural alternative development,0.074241444,0.025268883756703487,Australia
+2021,Agricultural financial services,0.045221683199999994,0.015391692220631793,Australia
+2021,Fishery education/training,0.03160198559999999,0.010756079860292284,Australia
+2020,Multisector education/training,185.6277878412001,53.30891880087227,Australia
+2020,Agricultural research,69.39849230399996,19.929982650559687,Australia
+2020,Agricultural development,24.037812567600003,6.90322183558534,Australia
+2020,Rural development,23.4105959196,6.723096641250797,Australia
+2020,Agricultural services,11.7910904436,3.3861863589590335,Australia
+2020,Agricultural policy and administrative management,9.780008714400003,2.808640325304015,Australia
+2020,Fishing policy and administrative management,7.391306876399996,2.12264867608837,Australia
+2020,Research/scientific institutions,6.463948772399999,1.856328323729496,Australia
+2020,Food crop production,3.0210511788000005,0.8675908594121803,Australia
+2020,Livestock,2.1099446172,0.6059376539512239,Australia
+2020,Fishery development,1.5044605367999988,0.432053657095768,Australia
+2020,Plant and post-harvest protection and pest control,1.3286697779999999,0.3815697538192299,Australia
+2020,Agricultural water resources,0.8432333483999999,0.24216125518070822,Australia
+2020,Food security policy and administrative management,0.8002356336,0.2298130948456988,Australia
+2020,Livestock/veterinary services,0.5397097932,0.1549948198830421,Australia
+2020,Disaster Risk Reduction,0.1223549808,0.0351381213567519,Australia
+2020,Agricultural land resources,0.04080054119999999,0.011717172106382739,Australia
+2019,Multisector education/training,215.60368138319984,54.07734661325693,Australia
+2019,Agricultural research,73.19502072119998,18.358649910387303,Australia
+2019,Rural development,30.585342260399997,7.671363235032525,Australia
+2019,Agricultural development,30.4119213528,7.627866099593532,Australia
+2019,Research/scientific institutions,11.5316651748,2.892352536306347,Australia
+2019,Fishing policy and administrative management,9.306011679599997,2.3341179332198543,Australia
+2019,Agricultural services,9.068094696,2.2744440023074657,Australia
+2019,Agricultural policy and administrative management,7.863131547600001,1.9722172062982881,Australia
+2019,Agricultural water resources,2.6244176784,0.6582519535023793,Australia
+2019,Food crop production,2.6058280415999993,0.6535893325944296,Australia
+2019,Fishery development,2.2462289244000004,0.5633952970478696,Australia
+2019,Livestock,1.8576080616000001,0.46592207690638765,Australia
+2019,Fishery research,0.47616542879999996,0.11943099845638429,Australia
+2019,Livestock/veterinary services,0.3576589752,0.08970741244838394,Australia
+2019,Agricultural education/training,0.335098746,0.08404889434564998,Australia
+2019,Agricultural land resources,0.22049639399999998,0.05530452842369874,Australia
+2019,Industrial crops/export crops,0.157007604,0.0393803787020428,Australia
+2019,Plant and post-harvest protection and pest control,0.07873701599999999,0.019748683687630844,Australia
+2019,Forestry education/training,0.059996534399999996,0.015048228144938369,Australia
+2019,Agricultural inputs,0.029980404000000002,0.0075196336551969735,Australia
+2019,Forestry policy and administrative management,0.0203273292,0.005098465943707368,Australia
+2019,Fishery education/training,0.014962414799999999,0.0037528472896194887,Australia
+2019,Fishery services,0.0146537784,0.00367543563563848,Australia
+2019,Agricultural co-operatives,0.012718598400000001,0.003190057097815439,Australia
+2019,Agricultural extension,0.0078816408,0.0019768596653285124,Australia
+2019,Agricultural alternative development,0.0044231268,0.0011094010990139987,Australia
+2019,Agricultural financial services,0.0035498147999999995,0.0008903584768169338,Australia
+2019,Forestry development,0.0023986308,0.0006016204748298935,Australia

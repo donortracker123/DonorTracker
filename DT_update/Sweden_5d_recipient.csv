@@ -1,201 +1,101 @@
-"Year","Recipient country","ODA Grants","ODA Loans","Share","Donor"
-"2018","Ukraine",40.000797,0,"1%","Sweden"
-"2019","Ukraine",43.50256,0,"1%","Sweden"
-"2020","Ukraine",35.463344,0,"1%","Sweden"
-"2021","Ukraine",37.198729,0,"1%","Sweden"
-"2022","Ukraine",228.5041,0,"6%","Sweden"
-"2018","Afghanistan",159.827825,0,"4%","Sweden"
-"2019","Afghanistan",159.895734,0,"4%","Sweden"
-"2020","Afghanistan",131.930069,0,"3%","Sweden"
-"2021","Afghanistan",115.863378,0,"3%","Sweden"
-"2022","Afghanistan",104.105936,0,"3%","Sweden"
-"2018","Democratic Republic of the Congo",86.734981,0,"2%","Sweden"
-"2019","Democratic Republic of the Congo",88.696254,0,"2%","Sweden"
-"2020","Democratic Republic of the Congo",83.277477,0,"2%","Sweden"
-"2021","Democratic Republic of the Congo",115.537284,0,"3%","Sweden"
-"2022","Democratic Republic of the Congo",95.74367,0,"2%","Sweden"
-"2018","Somalia",117.163558,0,"3%","Sweden"
-"2019","Somalia",103.086537,0,"3%","Sweden"
-"2020","Somalia",104.245962,0,"3%","Sweden"
-"2021","Somalia",111.731063,0,"3%","Sweden"
-"2022","Somalia",90.511676,0,"2%","Sweden"
-"2018","Ethiopia",87.331321,0,"2%","Sweden"
-"2019","Ethiopia",93.166728,0,"2%","Sweden"
-"2020","Ethiopia",65.70839,0,"2%","Sweden"
-"2021","Ethiopia",85.65036,0,"2%","Sweden"
-"2022","Ethiopia",85.871397,0,"2%","Sweden"
-"2018","South Sudan",41.479628,0,"1%","Sweden"
-"2019","South Sudan",65.155632,0,"2%","Sweden"
-"2020","South Sudan",80.345208,0,"2%","Sweden"
-"2021","South Sudan",85.720265,0,"2%","Sweden"
-"2022","South Sudan",82.541338,0,"2%","Sweden"
-"2018","Mozambique",86.705493,0,"2%","Sweden"
-"2019","Mozambique",102.631738,0,"2%","Sweden"
-"2020","Mozambique",89.632528,0,"2%","Sweden"
-"2021","Mozambique",91.70201,0,"2%","Sweden"
-"2022","Mozambique",80.095802,0,"2%","Sweden"
-"2018","Tanzania",138.846377,0,"3%","Sweden"
-"2019","Tanzania",82.048063,0,"2%","Sweden"
-"2020","Tanzania",80.661263,0,"2%","Sweden"
-"2021","Tanzania",83.475772,0,"2%","Sweden"
-"2022","Tanzania",66.55487,0,"2%","Sweden"
-"2018","Uganda",65.766638,0,"2%","Sweden"
-"2019","Uganda",65.649735,0,"2%","Sweden"
-"2020","Uganda",81.101806,0,"2%","Sweden"
-"2021","Uganda",80.138775,0,"2%","Sweden"
-"2022","Uganda",65.93905,0,"2%","Sweden"
-"2018","Syrian Arab Republic",80.621063,0,"2%","Sweden"
-"2019","Syrian Arab Republic",79.092326,0,"2%","Sweden"
-"2020","Syrian Arab Republic",64.365961,0,"2%","Sweden"
-"2021","Syrian Arab Republic",83.761042,0,"2%","Sweden"
-"2022","Syrian Arab Republic",65.111625,0,"2%","Sweden"
-"2018","Burkina Faso",34.041112,0,"1%","Sweden"
-"2019","Burkina Faso",56.776677,0,"1%","Sweden"
-"2020","Burkina Faso",49.662791,0,"1%","Sweden"
-"2021","Burkina Faso",53.618549,0,"1%","Sweden"
-"2022","Burkina Faso",56.069225,0,"1%","Sweden"
-"2018","Kenya",60.330586,0,"1%","Sweden"
-"2019","Kenya",56.816633,0,"1%","Sweden"
-"2020","Kenya",58.489565,0,"1%","Sweden"
-"2021","Kenya",57.35683,0,"1%","Sweden"
-"2022","Kenya",53.320991,0,"1%","Sweden"
-"2018","Sudan",42.031665,0,"1%","Sweden"
-"2019","Sudan",49.442252,0,"1%","Sweden"
-"2020","Sudan",73.373412,0,"2%","Sweden"
-"2021","Sudan",81.537428,0,"2%","Sweden"
-"2022","Sudan",51.194279,0,"1%","Sweden"
-"2018","Yemen",46.324499,0,"1%","Sweden"
-"2019","Yemen",44.001679,0,"1%","Sweden"
-"2020","Yemen",56.039497,0,"1%","Sweden"
-"2021","Yemen",51.404818,0,"1%","Sweden"
-"2022","Yemen",51.094541,0,"1%","Sweden"
-"2018","West Bank and Gaza Strip",67.320617,0,"2%","Sweden"
-"2019","West Bank and Gaza Strip",59.408389,0,"1%","Sweden"
-"2020","West Bank and Gaza Strip",63.887429,0,"2%","Sweden"
-"2021","West Bank and Gaza Strip",70.328331,0,"2%","Sweden"
-"2022","West Bank and Gaza Strip",49.843736,0,"1%","Sweden"
-"2018","Zambia",64.155641,0,"1%","Sweden"
-"2019","Zambia",66.135643,0,"2%","Sweden"
-"2020","Zambia",62.344695,0,"2%","Sweden"
-"2021","Zambia",62.03894,0,"2%","Sweden"
-"2022","Zambia",47.887116,0,"1%","Sweden"
-"2018","Mali",51.943314,0,"1%","Sweden"
-"2019","Mali",52.612017,0,"1%","Sweden"
-"2020","Mali",38.311582,0,"1%","Sweden"
-"2021","Mali",52.931587,0,"1%","Sweden"
-"2022","Mali",41.000132,0,"1%","Sweden"
-"2018","Moldova",17.522885,0,"0%","Sweden"
-"2019","Moldova",18.975684,0,"0%","Sweden"
-"2020","Moldova",16.674714,0,"0%","Sweden"
-"2021","Moldova",17.282614,0,"0%","Sweden"
-"2022","Moldova",40.413518,0,"1%","Sweden"
-"2018","Bangladesh",59.153473,0,"1%","Sweden"
-"2019","Bangladesh",60.461247,0,"1%","Sweden"
-"2020","Bangladesh",62.832093,0,"2%","Sweden"
-"2021","Bangladesh",54.617643,0,"1%","Sweden"
-"2022","Bangladesh",40.144106,0,"1%","Sweden"
-"2018","Colombia",36.004011,0,"1%","Sweden"
-"2019","Colombia",35.964353,0,"1%","Sweden"
-"2020","Colombia",39.220137,0,"1%","Sweden"
-"2021","Colombia",55.961936,0,"1%","Sweden"
-"2022","Colombia",38.972026,0,"1%","Sweden"
-"2018","Myanmar",49.299514,0,"1%","Sweden"
-"2019","Myanmar",39.378224,0,"1%","Sweden"
-"2020","Myanmar",45.871026,0,"1%","Sweden"
-"2021","Myanmar",41.710295,0,"1%","Sweden"
-"2022","Myanmar",38.463386,0,"1%","Sweden"
-"2018","Zimbabwe",46.7348,0,"1%","Sweden"
-"2019","Zimbabwe",56.504768,0,"1%","Sweden"
-"2020","Zimbabwe",51.775807,0,"1%","Sweden"
-"2021","Zimbabwe",48.262179,0,"1%","Sweden"
-"2022","Zimbabwe",37.9745,0,"1%","Sweden"
-"2018","Liberia",43.841388,0,"1%","Sweden"
-"2019","Liberia",40.218842,0,"1%","Sweden"
-"2020","Liberia",39.47746,0,"1%","Sweden"
-"2021","Liberia",45.279716,0,"1%","Sweden"
-"2022","Liberia",36.515023,0,"1%","Sweden"
-"2018","Rwanda",34.886766,0,"1%","Sweden"
-"2019","Rwanda",30.439392,0,"1%","Sweden"
-"2020","Rwanda",25.091202,0,"1%","Sweden"
-"2021","Rwanda",30.48786,0,"1%","Sweden"
-"2022","Rwanda",34.296967,0,"1%","Sweden"
-"2018","Iraq",49.718115,0,"1%","Sweden"
-"2019","Iraq",41.681568,0,"1%","Sweden"
-"2020","Iraq",47.405374,0,"1%","Sweden"
-"2021","Iraq",45.294667,0,"1%","Sweden"
-"2022","Iraq",32.943747,0,"1%","Sweden"
-"2018","Nigeria",26.733616,0,"1%","Sweden"
-"2019","Nigeria",22.613965,0,"1%","Sweden"
-"2020","Nigeria",24.464794,0,"1%","Sweden"
-"2021","Nigeria",29.689329,0,"1%","Sweden"
-"2022","Nigeria",27.562356,0,"1%","Sweden"
-"2018","Bosnia and Herzegovina",23.27779,0,"1%","Sweden"
-"2019","Bosnia and Herzegovina",28.587713,0,"1%","Sweden"
-"2020","Bosnia and Herzegovina",27.807203,0,"1%","Sweden"
-"2021","Bosnia and Herzegovina",29.284302,0,"1%","Sweden"
-"2022","Bosnia and Herzegovina",24.481102,0,"1%","Sweden"
-"2018","Bolivia",32.906989,0,"1%","Sweden"
-"2019","Bolivia",31.221477,0,"1%","Sweden"
-"2020","Bolivia",26.51093,0,"1%","Sweden"
-"2021","Bolivia",31.839659,0,"1%","Sweden"
-"2022","Bolivia",22.581206,0,"1%","Sweden"
-"2018","Guatemala",35.213224,0,"1%","Sweden"
-"2019","Guatemala",31.100865,0,"1%","Sweden"
-"2020","Guatemala",33.198866,0,"1%","Sweden"
-"2021","Guatemala",38.974592,0,"1%","Sweden"
-"2022","Guatemala",21.061936,0,"1%","Sweden"
-"2018","Georgia",16.172404,0,"0%","Sweden"
-"2019","Georgia",17.191914,0,"0%","Sweden"
-"2020","Georgia",17.898458,0,"0%","Sweden"
-"2021","Georgia",18.869752,0,"0%","Sweden"
-"2022","Georgia",19.991325,0,"1%","Sweden"
-"2018","Kosovo",17.867024,0,"0%","Sweden"
-"2019","Kosovo",19.072757,0,"0%","Sweden"
-"2020","Kosovo",17.673631,0,"0%","Sweden"
-"2021","Kosovo",17.590977,0,"0%","Sweden"
-"2022","Kosovo",17.623913,0,"0%","Sweden"
-"2018","Türkiye",16.800915,0,"0%","Sweden"
-"2019","Türkiye",27.56673,0,"1%","Sweden"
-"2020","Türkiye",34.374215,0,"1%","Sweden"
-"2021","Türkiye",21.023234,0,"1%","Sweden"
-"2022","Türkiye",17.434084,0,"0%","Sweden"
-"2018","Cambodia",27.277125,0,"1%","Sweden"
-"2019","Cambodia",28.250012,0,"1%","Sweden"
-"2020","Cambodia",29.226745,0,"1%","Sweden"
-"2021","Cambodia",23.963589,0,"1%","Sweden"
-"2022","Cambodia",17.303492,0,"0%","Sweden"
-"2018","Albania",12.513317,0,"0%","Sweden"
-"2019","Albania",15.937467,0,"0%","Sweden"
-"2020","Albania",14.6189,0,"0%","Sweden"
-"2021","Albania",14.808786,0,"0%","Sweden"
-"2022","Albania",15.639784,0,"0%","Sweden"
-"2018","Serbia",15.952259,0,"0%","Sweden"
-"2019","Serbia",18.77108,0,"0%","Sweden"
-"2020","Serbia",16.270719,0,"0%","Sweden"
-"2021","Serbia",17.191591,0,"0%","Sweden"
-"2022","Serbia",14.688498,0,"0%","Sweden"
-"2018","Pakistan",7.734733,0,"0%","Sweden"
-"2019","Pakistan",7.392125,0,"0%","Sweden"
-"2020","Pakistan",5.713311,0,"0%","Sweden"
-"2021","Pakistan",5.568789,0,"0%","Sweden"
-"2022","Pakistan",13.391667,0,"0%","Sweden"
-"2018","Central African Republic",26.363767,0,"1%","Sweden"
-"2019","Central African Republic",20.805407,0,"1%","Sweden"
-"2020","Central African Republic",20.590055,0,"1%","Sweden"
-"2021","Central African Republic",19.479248,0,"0%","Sweden"
-"2022","Central African Republic",12.962712,0,"0%","Sweden"
-"2018","Cameroon",9.644862,0,"0%","Sweden"
-"2019","Cameroon",10.887743,0,"0%","Sweden"
-"2020","Cameroon",10.967819,0,"0%","Sweden"
-"2021","Cameroon",13.277052,0,"0%","Sweden"
-"2022","Cameroon",12.258861,0,"0%","Sweden"
-"2018","Lebanon",11.25635,0,"0%","Sweden"
-"2019","Lebanon",12.272184,0,"0%","Sweden"
-"2020","Lebanon",9.826833,0,"0%","Sweden"
-"2021","Lebanon",10.981794,0,"0%","Sweden"
-"2022","Lebanon",11.738241,0,"0%","Sweden"
-"2018","Niger",7.320348,0,"0%","Sweden"
-"2019","Niger",6.819392,0,"0%","Sweden"
-"2020","Niger",5.551657,0,"0%","Sweden"
-"2021","Niger",11.774387,0,"0%","Sweden"
-"2022","Niger",11.292945,0,"0%","Sweden"
+year,Recipient country,ODA Grants,ODA Loans,share,donor
+2023,"Bilateral, unspecified",1095.461390556,0.0,33.6%,Sweden
+2023,Ukraine,245.01410715599982,0.0,7.5%,Sweden
+2023,Democratic Republic of the Congo,92.0945690262,0.0,2.8%,Sweden
+2023,Afghanistan,87.16274311680003,0.0,2.7%,Sweden
+2023,Mozambique,78.59516041260002,0.0,2.4%,Sweden
+2023,Ethiopia,77.9892700392001,0.0,2.4%,Sweden
+2023,"Africa, regional",76.60658521620002,0.0,2.3%,Sweden
+2023,Somalia,74.3262100074,0.0,2.3%,Sweden
+2023,Sudan,59.99987302919999,0.0,1.8%,Sweden
+2023,Tanzania,56.16508283099999,0.0,1.7%,Sweden
+2023,Syrian Arab Republic,52.93395527939999,0.0,1.6%,Sweden
+2023,Moldova,49.870455616799994,0.0,1.5%,Sweden
+2023,South Sudan,49.6903186494,0.0,1.5%,Sweden
+2023,Kenya,46.16547829920001,0.0,1.4%,Sweden
+2023,Uganda,45.752891020199975,0.0,1.4%,Sweden
+2023,Mali,44.69523898320001,0.0,1.4%,Sweden
+2023,Türkiye,42.00415205219998,0.0,1.3%,Sweden
+2023,West Bank and Gaza Strip,41.9111258436,0.0,1.3%,Sweden
+2023,"Middle East, regional",40.12285789979999,0.0,1.2%,Sweden
+2023,Zambia,39.82529538,0.0,1.2%,Sweden
+2022,"Bilateral, unspecified",1269.4307071445999,119.4574435002,38.9%,Sweden
+2022,Ukraine,207.30561911280006,0.0,5.8%,Sweden
+2022,Afghanistan,94.4479520946,0.0,2.6%,Sweden
+2022,"Africa, regional",89.38062726840003,0.0,2.5%,Sweden
+2022,Democratic Republic of the Congo,86.86146067559999,0.0,2.4%,Sweden
+2022,Somalia,82.11484499400001,0.0,2.3%,Sweden
+2022,Ethiopia,77.90504908679995,0.0,2.2%,Sweden
+2022,South Sudan,74.88391346280002,0.0,2.1%,Sweden
+2022,Mozambique,72.66525856199999,0.0,2.0%,Sweden
+2022,Tanzania,60.380530563600004,0.0,1.7%,Sweden
+2022,Uganda,59.821833988799995,0.0,1.7%,Sweden
+2022,Syrian Arab Republic,59.07117357180001,0.0,1.7%,Sweden
+2022,"South of Sahara, regional",53.20243258199998,0.0,1.5%,Sweden
+2022,Burkina Faso,50.8676380524,0.0,1.4%,Sweden
+2022,Kenya,48.37435897320002,0.0,1.4%,Sweden
+2022,Sudan,46.44494733060001,0.0,1.3%,Sweden
+2022,Yemen,46.354465801799996,0.0,1.3%,Sweden
+2022,West Bank and Gaza Strip,45.21969759060001,0.0,1.3%,Sweden
+2022,Zambia,43.44458772420001,0.0,1.2%,Sweden
+2022,"Middle East, regional",42.30759078000001,0.0,1.2%,Sweden
+2021,"Bilateral, unspecified",1095.2817637320006,105.456169494,33.5%,Sweden
+2021,"South of Sahara, regional",106.55898984900001,0.0,3.0%,Sweden
+2021,Afghanistan,104.7969243594,0.0,2.9%,Sweden
+2021,Democratic Republic of the Congo,104.50197494100001,0.0,2.9%,Sweden
+2021,Somalia,101.05930490760005,0.0,2.8%,Sweden
+2021,"Africa, regional",87.6128767488,0.0,2.4%,Sweden
+2021,Mozambique,82.94327863379998,0.0,2.3%,Sweden
+2021,South Sudan,77.53287079980002,0.0,2.2%,Sweden
+2021,Ethiopia,77.46964219799999,0.0,2.2%,Sweden
+2021,Syrian Arab Republic,75.76077752100002,0.0,2.1%,Sweden
+2021,Tanzania,75.50274859919999,0.0,2.1%,Sweden
+2021,Sudan,73.74954169440002,0.0,2.1%,Sweden
+2021,Uganda,72.4844766204,0.0,2.0%,Sweden
+2021,West Bank and Gaza Strip,63.61105942619999,0.0,1.8%,Sweden
+2021,"Middle East, regional",59.51379592080001,0.0,1.7%,Sweden
+2021,Zambia,56.1134104362,0.0,1.6%,Sweden
+2021,Kenya,51.878511851399985,0.0,1.4%,Sweden
+2021,Colombia,50.6168447148,0.0,1.4%,Sweden
+2021,Bangladesh,49.400952634800014,0.0,1.4%,Sweden
+2021,Burkina Faso,48.497285421,0.0,1.4%,Sweden
+2020,"Bilateral, unspecified",1368.5011319771995,86.5783139832,40.4%,Sweden
+2020,Afghanistan,118.84447551599999,0.0,3.3%,Sweden
+2020,Somalia,93.906241182,0.0,2.6%,Sweden
+2020,"South of Sahara, regional",84.19601473920002,0.0,2.3%,Sweden
+2020,Mozambique,80.74224732600001,0.0,2.2%,Sweden
+2020,Democratic Republic of the Congo,75.0175297794,0.0,2.1%,Sweden
+2020,Uganda,73.0576473822,0.0,2.0%,Sweden
+2020,Tanzania,72.6608021022,0.0,2.0%,Sweden
+2020,South Sudan,72.376101837,0.0,2.0%,Sweden
+2020,"Africa, regional",70.07245724699999,0.0,1.9%,Sweden
+2020,Sudan,66.09580592940002,0.0,1.8%,Sweden
+2020,Ethiopia,59.19105123360002,0.0,1.6%,Sweden
+2020,Syrian Arab Republic,57.981766869,0.0,1.6%,Sweden
+2020,West Bank and Gaza Strip,57.55069770840003,0.0,1.6%,Sweden
+2020,Bangladesh,56.600035923600004,0.0,1.6%,Sweden
+2020,Zambia,56.160982566,0.0,1.6%,Sweden
+2020,"Middle East, regional",55.825028485199994,0.0,1.6%,Sweden
+2020,Kenya,52.6882231278,0.0,1.5%,Sweden
+2020,Yemen,50.481173737800006,0.0,1.4%,Sweden
+2020,"Asia, regional",48.2733364932,0.0,1.3%,Sweden
+2019,"Bilateral, unspecified",1418.6645256186005,66.25158279480002,40.2%,Sweden
+2019,Afghanistan,144.0207546336,0.0,3.9%,Sweden
+2019,"South of Sahara, regional",127.77190049520003,0.0,3.5%,Sweden
+2019,Somalia,92.8517596812,0.0,2.5%,Sweden
+2019,Mozambique,92.4421125186,0.0,2.5%,Sweden
+2019,Ethiopia,83.91683649960004,0.0,2.3%,Sweden
+2019,Democratic Republic of the Congo,79.89019314120003,0.0,2.2%,Sweden
+2019,Tanzania,73.90206350280002,0.0,2.0%,Sweden
+2019,"Africa, regional",73.51341271560001,0.0,2.0%,Sweden
+2019,Syrian Arab Republic,71.23977502200002,0.0,1.9%,Sweden
+2019,"Middle East, regional",61.93438409340003,0.0,1.7%,Sweden
+2019,Zambia,59.569482047399994,0.0,1.6%,Sweden
+2019,Uganda,59.13180919620003,0.0,1.6%,Sweden
+2019,South Sudan,58.68676492379999,0.0,1.6%,Sweden
+2019,Bangladesh,54.45845594279999,0.0,1.5%,Sweden
+2019,West Bank and Gaza Strip,53.51013156060001,0.0,1.4%,Sweden
+2019,Kenya,51.17569926300002,0.0,1.4%,Sweden
+2019,Burkina Faso,51.139702458,0.0,1.4%,Sweden
+2019,Zimbabwe,50.89478834700001,0.0,1.4%,Sweden
+2019,"Europe, regional",48.821291883,0.0,1.3%,Sweden

@@ -15,11 +15,11 @@ WITH base AS (
 )
 
 SELECT 
-    b.donor_name AS donor,
-    b.year,
+    b.year AS year,
     b.region_name AS "Region",
+    b.bilateral_oda * dfl.deflator AS "Bilateral ODA",
     round(b.share,1) || '%' AS share,
-    b.bilateral_oda * dfl.deflator AS "Bilateral ODA"
+    b.donor_name AS donor,
 FROM base b
 LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor_name AND dfl.year = {{latest_year}}
-ORDER BY 1, 2 DESC, 5 DESC
+ORDER BY donor_name, year DESC, "Bilateral ODA" DESC

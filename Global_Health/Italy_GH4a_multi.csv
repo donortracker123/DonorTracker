@@ -1,111 +1,99 @@
-"Year","Multi_short","ODA","Share","Full Name","Donor"
-"2018","EC - Development Share of Budget","57.4","18.1%","european commission development share of budget","Italy"
-"2019","EC - Development Share of Budget","53.8","16.6%","european commission development share of budget","Italy"
-"2020","EC - Development Share of Budget","53.3","16.5%","european commission development share of budget","Italy"
-"2021","EC - Development Share of Budget","93.9","9.2%","european commission development share of budget","Italy"
-"2022","EC - Development Share of Budget","148.3","19.4%","european commission development share of budget","Italy"
-"2018","Global Fund","52.1","16.4%","global fund to fight aids tuberculosis and malaria","Italy"
-"2019","Global Fund","63.1","19.5%","global fund to fight aids tuberculosis and malaria","Italy"
-"2020","Global Fund","59.9","18.5%","global fund to fight aids tuberculosis and malaria","Italy"
-"2021","Global Fund","61.3","6%","global fund to fight aids tuberculosis and malaria","Italy"
-"2022","Global Fund","58.8","7.7%","global fund to fight aids tuberculosis and malaria","Italy"
-"2018","IDA","30.4","9.6%","international development association","Italy"
-"2019","IDA","32.5","10%","international development association","Italy"
-"2020","IDA","27.5","8.5%","international development association","Italy"
-"2021","IDA","25.3","2.5%","international development association","Italy"
-"2022","IDA","33.3","4.4%","international development association","Italy"
-"2018","Gavi","31.1","9.8%","global alliance for vaccines and immunization","Italy"
-"2019","Gavi","31.4","9.7%","global alliance for vaccines and immunization","Italy"
-"2020","Gavi","31.2","9.6%","global alliance for vaccines and immunization","Italy"
-"2021","Gavi","444.5","43.8%","global alliance for vaccines and immunization","Italy"
-"2022","Gavi","27","3.5%","global alliance for vaccines and immunization","Italy"
-"2018","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Italy"
-"2019","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Italy"
-"2020","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Italy"
-"2021","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Italy"
-"2022","WHO - core voluntary contributions","14","1.8%","world health organisation core voluntary contributions account","Italy"
-"2018","IBRD","0","0%","international bank for reconstruction and development","Italy"
-"2019","IBRD","0","0%","international bank for reconstruction and development","Italy"
-"2020","IBRD","3.3","1%","international bank for reconstruction and development","Italy"
-"2021","IBRD","4.8","0.5%","international bank for reconstruction and development","Italy"
-"2022","IBRD","5.7","0.7%","international bank for reconstruction and development","Italy"
-"2018","African Development Fund","1.7","0.5%","african development fund","Italy"
-"2019","African Development Fund","1.4","0.4%","african development fund","Italy"
-"2020","African Development Fund","2.2","0.7%","african development fund","Italy"
-"2021","African Development Fund","1.2","0.1%","african development fund","Italy"
-"2022","African Development Fund","1.8","0.2%","african development fund","Italy"
-"2018","UNFPA","2.4","0.8%","united nations population fund","Italy"
-"2019","UNFPA","1.8","0.5%","united nations population fund","Italy"
-"2020","UNFPA","0.9","0.3%","united nations population fund","Italy"
-"2021","UNFPA","0.9","0.1%","united nations population fund","Italy"
-"2022","UNFPA","1.6","0.2%","united nations population fund","Italy"
-"2018","UNRWA","1.4","0.4%","united nations relief and works agency for palestine refugees in the near east","Italy"
-"2019","UNRWA","1.3","0.4%","united nations relief and works agency for palestine refugees in the near east","Italy"
-"2020","UNRWA","1.2","0.4%","united nations relief and works agency for palestine refugees in the near east","Italy"
-"2021","UNRWA","1.2","0.1%","united nations relief and works agency for palestine refugees in the near east","Italy"
-"2022","UNRWA","1.2","0.2%","united nations relief and works agency for palestine refugees in the near east","Italy"
-"2018","UNICEF","1.2","0.4%","united nations childrenâ€™s fund","Italy"
-"2019","UNICEF","1.2","0.4%","united nations childrenâ€™s fund","Italy"
-"2020","UNICEF","1.1","0.4%","united nations childrenâ€™s fund","Italy"
-"2021","UNICEF","1.2","0.1%","united nations childrenâ€™s fund","Italy"
-"2022","UNICEF","1.2","0.2%","united nations childrenâ€™s fund","Italy"
-"2018","FAO","1.4","0.4%","food and agricultural organisation","Italy"
-"2019","FAO","1.3","0.4%","food and agricultural organisation","Italy"
-"2020","FAO","0.7","0.2%","food and agricultural organisation","Italy"
-"2021","FAO","0.7","0.1%","food and agricultural organisation","Italy"
-"2022","FAO","1","0.1%","food and agricultural organisation","Italy"
-"2018","GEF Fund","0","0%","global environment facility trust fund","Italy"
-"2019","GEF Fund","0","0%","global environment facility trust fund","Italy"
-"2020","GEF Fund","0.2","0.1%","global environment facility trust fund","Italy"
-"2021","GEF Fund","0.8","0.1%","global environment facility trust fund","Italy"
-"2022","GEF Fund","0.3","0%","global environment facility trust fund","Italy"
-"2018","UNDP","0.1","0%","united nations development programme","Italy"
-"2019","UNDP","0.1","0%","united nations development programme","Italy"
-"2020","UNDP","0.1","0%","united nations development programme","Italy"
-"2021","UNDP","0.2","0%","united nations development programme","Italy"
-"2022","UNDP","0.3","0%","united nations development programme","Italy"
-"2018","WFP","0.7","0.2%","world food programme","Italy"
-"2019","WFP","0.4","0.1%","world food programme","Italy"
-"2020","WFP","0.3","0.1%","world food programme","Italy"
-"2021","WFP","0.3","0%","world food programme","Italy"
-"2022","WFP","0.2","0%","world food programme","Italy"
-"2018","UN","0","0%","united nations","Italy"
-"2019","UN","0","0%","united nations","Italy"
-"2020","UN","0","0%","united nations","Italy"
-"2021","UN","0.1","0%","united nations","Italy"
-"2022","UN","0.2","0%","united nations","Italy"
-"2018","IDB, IIC and MIF","0.3","0.1%","inter american development bank inter american investment corporation and multilateral investment fund","Italy"
-"2019","IDB, IIC and MIF","0.4","0.1%","inter american development bank inter american investment corporation and multilateral investment fund","Italy"
-"2020","IDB, IIC and MIF","0.3","0.1%","inter american development bank inter american investment corporation and multilateral investment fund","Italy"
-"2021","IDB, IIC and MIF","0.1","0%","inter american development bank inter american investment corporation and multilateral investment fund","Italy"
-"2022","IDB, IIC and MIF","0.1","0%","inter american development bank inter american investment corporation and multilateral investment fund","Italy"
-"2018","IFC","0","0%","international finance corporation","Italy"
-"2019","IFC","0","0%","international finance corporation","Italy"
-"2020","IFC","0","0%","international finance corporation","Italy"
-"2021","IFC","0","0%","international finance corporation","Italy"
-"2022","IFC","0","0%","international finance corporation","Italy"
-"2018","AfDB","0.1","0%","african development bank","Italy"
-"2019","AfDB","0","0%","african development bank","Italy"
-"2020","AfDB","0","0%","african development bank","Italy"
-"2021","AfDB","0","0%","african development bank","Italy"
-"2022","AfDB","0","0%","african development bank","Italy"
-"2018","CEB","0","0%","council of europe development bank","Italy"
-"2019","CEB","0","0%","council of europe development bank","Italy"
-"2020","CEB","0","0%","council of europe development bank","Italy"
-"2021","CEB","0","0%","council of europe development bank","Italy"
-"2022","CEB","0","0%","council of europe development bank","Italy"
-"2018","WHO - assessed contributions","12.9","4.1%","world health organisation assessed contributions","Italy"
-"2019","WHO - assessed contributions","12.4","3.8%","world health organisation assessed contributions","Italy"
-"2020","WHO - assessed contributions","11.1","3.4%","world health organisation assessed contributions","Italy"
-"2021","WHO - assessed contributions","13.4","1.3%","world health organisation assessed contributions","Italy"
-"2022","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Italy"
-"2018","CDB","0","0%","caribbean development bank","Italy"
-"2019","CDB","0","0%","caribbean development bank","Italy"
-"2020","CDB","0","0%","caribbean development bank","Italy"
-"2021","CDB","0","0%","caribbean development bank","Italy"
-"2022","CDB","0","0%","caribbean development bank","Italy"
-"2018","Genetic Engineering Center","0","0%","international centre for genetic engineering and biotechnology","Italy"
-"2019","Genetic Engineering Center","0","0%","international centre for genetic engineering and biotechnology","Italy"
-"2020","Genetic Engineering Center","0","0%","international centre for genetic engineering and biotechnology","Italy"
-"2021","Genetic Engineering Center","1.2","0.1%","international centre for genetic engineering and biotechnology","Italy"
-"2022","Genetic Engineering Center","0","0%","international centre for genetic engineering and biotechnology","Italy"
+Year,ODA,Share,Full Name,donor
+2019,0.0807,0.0003449426997600788,united nations development programme,Italy
+2019,1.3467,0.0057563114469256285,african development fund,Italy
+2019,62.370000000000005,0.2665932612643881,global fund to fight aids tuberculosis and malaria,Italy
+2019,1.2553999999999998,0.005366060288461003,food and agricultural organisation,Italy
+2019,0.0155,6.625293489815641e-05,council of europe development bank,Italy
+2019,32.0966,0.13719315808078497,international development association,Italy
+2019,0.0201,8.591509622277056e-05,united nations,Italy
+2019,1.2594,0.005383157820047625,united nations relief and works agency for palestine refugees in the near east,Italy
+2019,0.0262,0.00011198883189236761,global environment facility trust fund,Italy
+2019,36.5207,0.15610345545387747,european commission development share of budget,Italy
+2019,0.004,1.709753158662101e-05,international bank for reconstruction and development,Italy
+2019,12.216,0.05221586146554056,world health organisation assessed contributions,Italy
+2019,52.0237,0.22236921350072383,european commission european development fund,Italy
+2019,1.1372999999999998,0.004861255668366017,united nations children’s fund,Italy
+2019,1.7570000000000001,0.007510090749423278,united nations population fund,Italy
+2019,31.0206,0.13259392208398393,global alliance for vaccines and immunization,Italy
+2019,0.43570000000000003,0.0018623486280726935,inter american development bank inter american investment corporation and multilateral investment fund,Italy
+2019,0.3663,0.001565706455044819,world food programme,Italy
+2020,36.9416,0.16553640164364167,european commission development share of budget,Italy
+2020,0.7402,0.0033168580813127627,food and agricultural organisation,Italy
+2020,1.1846,0.0053082276183775996,united nations relief and works agency for palestine refugees in the near east,Italy
+2020,2.1314,0.009550866407065688,african development fund,Italy
+2020,0.259,0.0011605866563901724,inter american development bank inter american investment corporation and multilateral investment fund,Italy
+2020,0.0078,3.4952030578545725e-05,council of europe development bank,Italy
+2020,0.0019,8.513956166568832e-06,african development bank,Italy
+2020,0.19840000000000002,0.0008890362649722402,global environment facility trust fund,Italy
+2020,0.0187,8.379525279728272e-05,united nations,Italy
+2020,27.156499999999994,0.12168907928285601,international development association,Italy
+2020,3.2326,0.01448537616002653,international bank for reconstruction and development,Italy
+2020,1.1251,0.0050416063594771535,united nations children’s fund,Italy
+2020,59.16839999999999,0.26513534949790063,global fund to fight aids tuberculosis and malaria,Italy
+2020,0.2536,0.0011363890967588713,world food programme,Italy
+2020,0.14609999999999998,0.0006546784189135295,united nations development programme,Italy
+2020,10.956900000000001,0.049098192800777915,world health organisation assessed contributions,Italy
+2020,47.9254,0.21475513413961994,european commission european development fund,Italy
+2020,30.8399,0.13819450356914006,global alliance for vaccines and immunization,Italy
+2020,0.8749,0.00392045276322688,united nations population fund,Italy
+2021,86.90359999999998,0.13055000436400518,european commission development share of budget,Italy
+2021,13.1817,0.01980206795259353,world health organisation assessed contributions,Italy
+2021,0.0836,0.00012558720656947277,inter american development bank inter american investment corporation and multilateral investment fund,Italy
+2021,0.001,1.502239313031971e-06,african development bank,Italy
+2021,0.0018,2.704030763457548e-06,caribbean development bank,Italy
+2021,0.11850000000000001,0.00017801535859428858,united nations,Italy
+2021,4.707,0.007071040446441488,international bank for reconstruction and development,Italy
+2021,1.1551,0.0017352366304832299,united nations children’s fund,Italy
+2021,0.7196000000000001,0.0010810114096578066,food and agricultural organisation,Italy
+2021,0.7843,0.0011782062932109748,global environment facility trust fund,Italy
+2021,0.1792,0.0002692012848953292,united nations development programme,Italy
+2021,1.1997,0.0018022365038444556,international centre for genetic engineering and biotechnology,Italy
+2021,0.0174,2.6138964046756293e-05,council of europe development bank,Italy
+2021,1.202,0.0018056916542644292,african development fund,Italy
+2021,0.8355999999999999,0.0012552711699695149,united nations population fund,Italy
+2021,1.1757,0.0017661827603316883,united nations relief and works agency for palestine refugees in the near east,Italy
+2021,436.1645,0.6552234588489331,global alliance for vaccines and immunization,Italy
+2021,24.789800000000003,0.03724021212219996,international development association,Italy
+2021,0.2648,0.00039779297009086593,world food programme,Italy
+2021,32.02049999999999,0.048102453922940214,european commission european development fund,Italy
+2021,60.167500000000004,0.09038598386685112,global fund to fight aids tuberculosis and malaria,Italy
+2022,0.0465,0.00015087414533041275,international finance corporation,Italy
+2022,152.7337,0.4955605688312185,european commission development share of budget,Italy
+2022,0.18080000000000002,0.0005866246338868522,united nations,Italy
+2022,1.7978,0.005833151365054108,african development fund,Italy
+2022,0.044500000000000005,0.00014438493477856706,african development bank,Italy
+2022,0.26359999999999995,0.0008552779507332643,global environment facility trust fund,Italy
+2022,57.8052,0.18755505689577578,global fund to fight aids tuberculosis and malaria,Italy
+2022,1.1611999999999998,0.003767635646401618,united nations children’s fund,Italy
+2022,11.886299999999999,0.038566351691201824,european commission european development fund,Italy
+2022,1.5808,0.005129072020178848,united nations population fund,Italy
+2022,5.5702,0.018073100307945483,international bank for reconstruction and development,Italy
+2022,0.2287,0.0007420412266035568,world food programme,Italy
+2022,0.09439999999999998,0.0003062907380471174,inter american development bank inter american investment corporation and multilateral investment fund,Italy
+2022,0.0156,5.061584230439653e-05,council of europe development bank,Italy
+2022,0.9522,0.0030895131437337423,food and agricultural organisation,Italy
+2022,32.76220000000001,0.10630040697083977,international development association,Italy
+2022,0.26269999999999993,0.0008523578059849337,united nations development programme,Italy
+2022,1.2263,0.003978859449864197,united nations relief and works agency for palestine refugees in the near east,Italy
+2022,25.8625,0.08391360394855484,global alliance for vaccines and immunization,Italy
+2022,13.7287,0.04454421245156209,world health organisation core voluntary contributions account,Italy
+2023,1.6552999999999998,0.005374703146115427,united nations population fund,Italy
+2023,20.387999999999998,0.06619914682716205,global alliance for vaccines and immunization,Italy
+2023,8.981900000000001,0.02916392568603526,world health organisation assessed contributions,Italy
+2023,2.7848999999999995,0.009042476162397664,european commission european development fund,Italy
+2023,165.3956,0.537033922354648,european commission development share of budget,Italy
+2023,0.0302,9.8058379153438e-05,international finance corporation,Italy
+2023,1.0777,0.003499255470650998,international centre for genetic engineering and biotechnology,Italy
+2023,0.1115,0.0003620367309804085,united nations development programme,Italy
+2023,35.489,0.11523158337007817,international development association,Italy
+2023,0.29410000000000003,0.0009549327585770238,united nations,Italy
+2023,0.0108,3.5067234929044054e-05,council of europe development bank,Italy
+2023,0.2011,0.0006529649022435888,world food programme,Italy
+2023,1.6895,0.0054857493900574,african development fund,Italy
+2023,0.7413,0.0024069760419352182,food and agricultural organisation,Italy
+2023,0.27969999999999995,0.0009081764453382982,global environment facility trust fund,Italy
+2023,0.0061,1.9806493802515625e-05,green climate fund,Italy
+2023,62.9325,0.2043397002011171,global fund to fight aids tuberculosis and malaria,Italy
+2023,0.10969999999999999,0.0003561921918255678,african development bank,Italy
+2023,0.32250000000000006,0.0010471465985756212,united nations children’s fund,Italy
+2023,5.4784,0.017788179614377307,international bank for reconstruction and development,Italy

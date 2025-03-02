@@ -1,6 +1,6 @@
-"Year","climate funding as a % of bilateral allocable ODA","Funding for projects with climate change as a principal objective","Funding for projects with a significant climate change component","Principal","Significant","Not targeted and not screened"
-"2018","NA%",NA,NA,"NA%","NA%","NA%"
-"2019","NA%",NA,NA,"NA%","NA%","NA%"
-"2020","NA%",NA,0,"NA%","2%","NA%"
-"2021","NA%",1,NA,"6%","NA%","NA%"
-"2022","NA%",NA,0,"NA%","2%","NA%"
+donor,Year,Climate Funding as % of bilateral allocable ODA,Funding for projects with climate change as a principal objective,Funding for projects with a significant climate change component,Principal,Significant,Not targeted and not screened
+Estonia,2019,0.0,0.0,0.0,0.0,0.0,100.0
+Estonia,2020,3.8008828209469234,0.0,0.3071897353361946,0.0,3.8008828209469234,96.19911717905308
+Estonia,2021,7.695401389195373,1.252858547925608,0.0,7.695401389195373,0.0,92.30459861080463
+Estonia,2022,3.924082874579659,0.0,0.1730159155937053,0.0,3.924082874579659,96.07591712542035
+Estonia,2023,20.84438765792595,1.8077190629470672,0.43312678826895573,16.815434628956453,4.0289530289694975,79.15561234207405

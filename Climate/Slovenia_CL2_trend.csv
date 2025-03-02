@@ -1,6 +1,6 @@
-"Year","climate funding as a % of bilateral allocable ODA","Funding for projects with climate change as a principal objective","Funding for projects with a significant climate change component","Principal","Significant","Not targeted and not screened"
-"2018","45%",2,7,"10%","36%","55%"
-"2019","27%",0,3,"3%","24%","73%"
-"2020","14%",0,1,"1%","13%","86%"
-"2021","7%",0,1,"1%","5%","93%"
-"2022","13%",1,2,"3%","10%","87%"
+donor,Year,Climate Funding as % of bilateral allocable ODA,Funding for projects with climate change as a principal objective,Funding for projects with a significant climate change component,Principal,Significant,Not targeted and not screened
+Slovenia,2019,31.31962805765868,0.31671363595826274,2.2563595826273075,3.8550606361890525,27.464567421469624,68.68037194234132
+Slovenia,2020,17.46837434885097,0.08510835637206814,0.9663016141978062,1.4140103964554318,16.054363952395537,82.53162565114903
+Slovenia,2021,7.703608132337528,0.2801667707125658,1.2030286274859538,1.4551656618497588,6.248442470487769,92.29639186766248
+Slovenia,2022,19.604344908034445,0.5669285650584144,2.0774181753322036,4.203027900183931,15.401317007850515,80.39565509196555
+Slovenia,2023,36.25364659476849,2.842754838134309,2.273653794702577,20.143080166789947,16.110566427978547,63.7463534052315

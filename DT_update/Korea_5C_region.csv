@@ -1,46 +1,66 @@
-"Year","Region","Bilateral ODA","Share","Donor"
-"2018","Asia",768.034785,"41%","Korea"
-"2019","Asia",1016.023651,"47%","Korea"
-"2020","Asia",990.766756,"49%","Korea"
-"2021","Asia",1059.261774,"43%","Korea"
-"2022","Asia",1094.266947,"40%","Korea"
-"2018","sub-Saharan Africa",410.356116,"22%","Korea"
-"2019","sub-Saharan Africa",455.372391,"21%","Korea"
-"2020","sub-Saharan Africa",435.497443,"21%","Korea"
-"2021","sub-Saharan Africa",480.20035,"20%","Korea"
-"2022","sub-Saharan Africa",591.000013,"22%","Korea"
-"2018","Developing countries, unspecified",257.397597,"14%","Korea"
-"2019","Developing countries, unspecified",206.747578,"10%","Korea"
-"2020","Developing countries, unspecified",237.249538,"12%","Korea"
-"2021","Developing countries, unspecified",322.737115,"13%","Korea"
-"2022","Developing countries, unspecified",390.501702,"14%","Korea"
-"2018","Latin America and the Caribbeans",222.291317,"12%","Korea"
-"2019","Latin America and the Caribbeans",232.944443,"11%","Korea"
-"2020","Latin America and the Caribbeans",190.241255,"9%","Korea"
-"2021","Latin America and the Caribbeans",333.545982,"14%","Korea"
-"2022","Latin America and the Caribbeans",320.720341,"12%","Korea"
-"2018","MENA region",173.782103,"9%","Korea"
-"2019","MENA region",177.070527,"8%","Korea"
-"2020","MENA region",92.050092,"5%","Korea"
-"2021","MENA region",164.12705,"7%","Korea"
-"2022","MENA region",162.526076,"6%","Korea"
-"2018","Europe",1.970304,"0%","Korea"
-"2019","Europe",7.950731,"0%","Korea"
-"2020","Europe",11.432738,"1%","Korea"
-"2021","Europe",11.060771,"0%","Korea"
-"2022","Europe",96.89923,"4%","Korea"
-"2018","Asia, regional",35.826188,"2%","Korea"
-"2019","Asia, regional",47.030184,"2%","Korea"
-"2020","Asia, regional",46.820762,"2%","Korea"
-"2021","Asia, regional",36.653578,"1%","Korea"
-"2022","Asia, regional",50.13987,"2%","Korea"
-"2018","Oceania",15.964724,"1%","Korea"
-"2019","Oceania",16.882533,"1%","Korea"
-"2020","Oceania",16.406215,"1%","Korea"
-"2021","Oceania",17.793143,"1%","Korea"
-"2022","Oceania",17.870446,"1%","Korea"
-"2018","Africa, regional",9.742155,"1%","Korea"
-"2019","Africa, regional",8.536549,"0%","Korea"
-"2020","Africa, regional",14.360231,"1%","Korea"
-"2021","Africa, regional",26.735101,"1%","Korea"
-"2022","Africa, regional",7.60587,"0%","Korea"
+year,Region,Bilateral ODA,share,donor
+2023,Far East Asia,72530.69604479993,27.3%,Korea
+2023,South & Central Asia,52649.58242879987,19.8%,Korea
+2023,South of Sahara,42221.07681119993,15.9%,Korea
+2023,Regional and Unspecified,39871.91930399998,15.0%,Korea
+2023,South America,15509.905790400002,5.8%,Korea
+2023,Caribbean & Central America,12948.832209600001,4.9%,Korea
+2023,Middle East,7870.048099200001,3.0%,Korea
+2023,Europe,7569.133992000001,2.8%,Korea
+2023,North of Sahara,6109.844328,2.3%,Korea
+2023,Asia,5157.7442783999995,1.9%,Korea
+2023,Oceania,2138.5421568000006,0.8%,Korea
+2023,Africa,719.0288783999999,0.3%,Korea
+2023,America,482.2991712,0.2%,Korea
+2022,Far East Asia,66458.80936800002,26.7%,Korea
+2022,South of Sahara,53894.613225600064,21.6%,Korea
+2022,Regional and Unspecified,35610.72107039999,14.3%,Korea
+2022,South & Central Asia,33329.84286240001,13.4%,Korea
+2022,Caribbean & Central America,15469.434086399991,6.2%,Korea
+2022,South America,13288.130049599993,5.3%,Korea
+2022,Europe,8836.4570112,3.5%,Korea
+2022,North of Sahara,7463.500329599998,3.0%,Korea
+2022,Middle East,7357.615977600001,3.0%,Korea
+2022,Asia,4572.366623999999,1.8%,Korea
+2022,Oceania,1629.6463008000007,0.7%,Korea
+2022,Africa,693.596232,0.3%,Korea
+2022,America,489.6389232,0.2%,Korea
+2021,Far East Asia,54572.93674560041,24.6%,Korea
+2021,South of Sahara,43443.3220704,19.6%,Korea
+2021,South & Central Asia,41257.58888160009,18.6%,Korea
+2021,Regional and Unspecified,29197.755619199994,13.2%,Korea
+2021,South America,17876.215123200014,8.1%,Korea
+2021,Caribbean & Central America,11929.87565280002,5.4%,Korea
+2021,North of Sahara,7798.140302400017,3.5%,Korea
+2021,Middle East,7050.297643199997,3.2%,Korea
+2021,Asia,3316.0186080000008,1.5%,Korea
+2021,Africa,2418.7022495999995,1.1%,Korea
+2021,Oceania,1609.7306400000002,0.7%,Korea
+2021,Europe,1000.6591391999999,0.5%,Korea
+2021,America,369.53612640000006,0.2%,Korea
+2020,Far East Asia,52365.48811200002,28.4%,Korea
+2020,South of Sahara,39501.04142880014,21.4%,Korea
+2020,South & Central Asia,37500.29750880003,20.3%,Korea
+2020,Regional and Unspecified,21519.309772799996,11.7%,Korea
+2020,South America,11728.189166400012,6.4%,Korea
+2020,Middle East,6440.507337600002,3.5%,Korea
+2020,Caribbean & Central America,5205.54384,2.8%,Korea
+2020,Asia,4246.796736,2.3%,Korea
+2020,North of Sahara,1908.7370063999986,1.0%,Korea
+2020,Oceania,1488.0970943999996,0.8%,Korea
+2020,Africa,1302.5200608,0.7%,Korea
+2020,Europe,1036.9857456,0.6%,Korea
+2020,America,321.7686192,0.2%,Korea
+2019,South & Central Asia,48580.2472175999,24.7%,Korea
+2019,Far East Asia,43576.43088959993,22.2%,Korea
+2019,South of Sahara,41303.76768000004,21.0%,Korea
+2019,Regional and Unspecified,18752.682412799993,9.5%,Korea
+2019,Caribbean & Central America,10472.600980799993,5.3%,Korea
+2019,South America,10073.619763200002,5.1%,Korea
+2019,Middle East,8493.726527999997,4.3%,Korea
+2019,North of Sahara,7567.149945599998,3.8%,Korea
+2019,Asia,4265.791487999999,2.2%,Korea
+2019,Oceania,1531.2993695999992,0.8%,Korea
+2019,Africa,774.2928816,0.4%,Korea
+2019,Europe,721.1575727999998,0.4%,Korea
+2019,America,582.6039407999999,0.3%,Korea

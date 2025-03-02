@@ -1,91 +1,98 @@
-"Year","Sector","Gender-related ODA to","Share","Donor"
-"2018","Government & civil society",718.73,"25%","Sweden"
-"2019","Government & civil society",809.94,"27%","Sweden"
-"2020","Government & civil society",719.31,"26%","Sweden"
-"2021","Government & civil society",671.08,"26%","Sweden"
-"2022","Government & civil society",542.97,"25%","Sweden"
-"2018","Humanitarian aid",479.31,"17%","Sweden"
-"2019","Humanitarian aid",507,"17%","Sweden"
-"2020","Humanitarian aid",519.21,"19%","Sweden"
-"2021","Humanitarian aid",423.56,"16%","Sweden"
-"2022","Humanitarian aid",472.19,"22%","Sweden"
-"2018","Health & populations",258.88,"9%","Sweden"
-"2019","Health & populations",254.46,"8%","Sweden"
-"2020","Health & populations",319.57,"11%","Sweden"
-"2021","Health & populations",309.83,"12%","Sweden"
-"2022","Health & populations",211.44,"10%","Sweden"
-"2018","Other social services",122.52,"4%","Sweden"
-"2019","Other social services",123.91,"4%","Sweden"
-"2020","Other social services",175.92,"6%","Sweden"
-"2021","Other social services",180.49,"7%","Sweden"
-"2022","Other social services",166.1,"8%","Sweden"
-"2018","Conflict, peace & security",169.72,"6%","Sweden"
-"2019","Conflict, peace & security",177.52,"6%","Sweden"
-"2020","Conflict, peace & security",157.02,"6%","Sweden"
-"2021","Conflict, peace & security",169.37,"6%","Sweden"
-"2022","Conflict, peace & security",160.64,"7%","Sweden"
-"2018","Agriculture (incl. forestry, fishing, rural development)",191.43,"7%","Sweden"
-"2019","Agriculture (incl. forestry, fishing, rural development)",204.3,"7%","Sweden"
-"2020","Agriculture (incl. forestry, fishing, rural development)",171.28,"6%","Sweden"
-"2021","Agriculture (incl. forestry, fishing, rural development)",196.35,"8%","Sweden"
-"2022","Agriculture (incl. forestry, fishing, rural development)",128.29,"6%","Sweden"
-"2018","Other multisector",205.65,"7%","Sweden"
-"2019","Other multisector",186.53,"6%","Sweden"
-"2020","Other multisector",135.82,"5%","Sweden"
-"2021","Other multisector",136.51,"5%","Sweden"
-"2022","Other multisector",106.87,"5%","Sweden"
-"2018","Education",154,"5%","Sweden"
-"2019","Education",139.07,"5%","Sweden"
-"2020","Education",142.97,"5%","Sweden"
-"2021","Education",108.73,"4%","Sweden"
-"2022","Education",99.08,"5%","Sweden"
-"2018","Environmental protection",146.98,"5%","Sweden"
-"2019","Environmental protection",150.33,"5%","Sweden"
-"2020","Environmental protection",126.31,"5%","Sweden"
-"2021","Environmental protection",127.15,"5%","Sweden"
-"2022","Environmental protection",93.93,"4%","Sweden"
-"2018","Energy",83.78,"3%","Sweden"
-"2019","Energy",107.69,"4%","Sweden"
-"2020","Energy",82.27,"3%","Sweden"
-"2021","Energy",72.08,"3%","Sweden"
-"2022","Energy",57.37,"3%","Sweden"
-"2018","Water and sanitation",142.48,"5%","Sweden"
-"2019","Water and sanitation",80.93,"3%","Sweden"
-"2020","Water and sanitation",78.89,"3%","Sweden"
-"2021","Water and sanitation",71.59,"3%","Sweden"
-"2022","Water and sanitation",48.26,"2%","Sweden"
-"2018","Financial services & business support",59.27,"2%","Sweden"
-"2019","Financial services & business support",79.21,"3%","Sweden"
-"2020","Financial services & business support",60.86,"2%","Sweden"
-"2021","Financial services & business support",47.82,"2%","Sweden"
-"2022","Financial services & business support",39.93,"2%","Sweden"
-"2018","Industry, construction & mining",58.29,"2%","Sweden"
-"2019","Industry, construction & mining",64.16,"2%","Sweden"
-"2020","Industry, construction & mining",44.38,"2%","Sweden"
-"2021","Industry, construction & mining",58.34,"2%","Sweden"
-"2022","Industry, construction & mining",24.8,"1%","Sweden"
-"2018","Trade policy",27.98,"1%","Sweden"
-"2019","Trade policy",23.57,"1%","Sweden"
-"2020","Trade policy",5.99,"0%","Sweden"
-"2021","Trade policy",17.67,"1%","Sweden"
-"2022","Trade policy",11.26,"1%","Sweden"
-"2018","Unspecified",55.49,"2%","Sweden"
-"2019","Unspecified",52.37,"2%","Sweden"
-"2020","Unspecified",16.75,"1%","Sweden"
-"2021","Unspecified",4.06,"0%","Sweden"
-"2022","Unspecified",10.56,"0%","Sweden"
-"2018","Infrastructure",24.29,"1%","Sweden"
-"2019","Infrastructure",35.57,"1%","Sweden"
-"2020","Infrastructure",28.8,"1%","Sweden"
-"2021","Infrastructure",17.41,"1%","Sweden"
-"2022","Infrastructure",6.55,"0%","Sweden"
-"2018","Food aid and commodity assistance",0,"0%","Sweden"
-"2019","Food aid and commodity assistance",0.39,"0%","Sweden"
-"2020","Food aid and commodity assistance",0.34,"0%","Sweden"
-"2021","Food aid and commodity assistance",0,"0%","Sweden"
-"2022","Food aid and commodity assistance",0,"0%","Sweden"
-"2018","Tourism",0.06,"0%","Sweden"
-"2019","Tourism",0,"0%","Sweden"
-"2020","Tourism",0,"0%","Sweden"
-"2021","Tourism",0,"0%","Sweden"
-"2022","Tourism",0,"0%","Sweden"
+year,Sector,Gender-related ODA to,Share,donor
+2019,Government & civil society,729.5294130461999,27.0%,Sweden
+2020,Government & civil society,647.9615836511994,26.0%,Sweden
+2021,Government & civil society,606.9869915382017,26.0%,Sweden
+2022,Government & civil society,492.5977764318,25.0%,Sweden
+2023,Government & civil society,477.0830075778003,26.0%,Sweden
+2020,Emergency Response,455.5069221221998,18.0%,Sweden
+2019,Emergency Response,436.79688769079985,16.0%,Sweden
+2022,Emergency Response,420.4709334774003,21.0%,Sweden
+2021,Emergency Response,371.23098894179975,16.0%,Sweden
+2023,Emergency Response,344.1434460047999,18.0%,Sweden
+2020,Health & populations,287.874539433,11.0%,Sweden
+2021,Health & populations,280.2369310415999,12.0%,Sweden
+2019,"Agriculture (incl. forestry, fishing, rural development)",255.1680979848001,9.0%,Sweden
+2021,"Agriculture (incl. forestry, fishing, rural development)",246.13912428299992,10.0%,Sweden
+2019,Health & populations,229.19267872800003,8.0%,Sweden
+2020,"Agriculture (incl. forestry, fishing, rural development)",213.00348621240005,8.0%,Sweden
+2022,Health & populations,191.82093865740018,10.0%,Sweden
+2023,Health & populations,178.06232990519936,10.0%,Sweden
+2022,"Agriculture (incl. forestry, fishing, rural development)",176.61445338420023,9.0%,Sweden
+2023,"Agriculture (incl. forestry, fishing, rural development)",175.80659150339972,9.0%,Sweden
+2021,Other social services,163.2508797582,7.0%,Sweden
+2019,"Conflict, peace & security",159.89096363760007,6.0%,Sweden
+2020,Other social services,158.47324594920002,6.0%,Sweden
+2021,"Conflict, peace & security",153.1936471338,6.0%,Sweden
+2022,Other social services,150.690972159,8.0%,Sweden
+2022,"Conflict, peace & security",145.73525704919996,7.0%,Sweden
+2020,"Conflict, peace & security",141.44342263739998,6.0%,Sweden
+2019,Environmental protection,135.40425954120002,5.0%,Sweden
+2020,Education,128.78789585220008,5.0%,Sweden
+2019,Education,125.26081972560009,5.0%,Sweden
+2023,Other social services,122.34456737100022,7.0%,Sweden
+2023,"Conflict, peace & security",122.23860042420004,7.0%,Sweden
+2021,Environmental protection,115.00330299119992,5.0%,Sweden
+2020,Environmental protection,113.78198246220003,5.0%,Sweden
+2019,Other social services,111.604011246,4.0%,Sweden
+2021,Education,97.89981477119997,4.0%,Sweden
+2019,Energy,96.9982354224,4.0%,Sweden
+2019,Other multisector,96.85738352160004,4.0%,Sweden
+2023,Education,94.30091608860008,5.0%,Sweden
+2022,Education,89.23171268700003,5.0%,Sweden
+2022,Environmental protection,85.21557808140003,4.0%,Sweden
+2023,Environmental protection,81.91880503560004,4.0%,Sweden
+2019,Water and sanitation,72.896709717,3.0%,Sweden
+2023,Energy,72.40049212500001,4.0%,Sweden
+2020,Water and sanitation,71.06101755479999,3.0%,Sweden
+2019,Financial services & business support,70.6876600014,3.0%,Sweden
+2020,Energy,68.70307136940002,3.0%,Sweden
+2021,Energy,65.19193244459998,3.0%,Sweden
+2021,Water and sanitation,64.75394465280002,3.0%,Sweden
+2020,Other multisector,63.6362697672,3.0%,Sweden
+2019,"Industry, construction & mining",57.7885493016,2.0%,Sweden
+2021,Other multisector,54.92507918040002,2.0%,Sweden
+2020,Financial services & business support,54.15569539380002,2.0%,Sweden
+2019,Unspecified,52.1286340536,2.0%,Sweden
+2022,Energy,51.54738954300002,3.0%,Sweden
+2023,Water and sanitation,44.85426989940001,2.0%,Sweden
+2022,Water and sanitation,43.78708210500001,2.0%,Sweden
+2023,Financial services & business support,43.55216459100002,2.0%,Sweden
+2021,Financial services & business support,42.66286490699998,2.0%,Sweden
+2021,"Industry, construction & mining",41.80091877,2.0%,Sweden
+2020,"Industry, construction & mining",39.97967865840002,2.0%,Sweden
+2022,Other multisector,36.735828714000014,2.0%,Sweden
+2022,Financial services & business support,35.618609637000006,2.0%,Sweden
+2019,Infrastructure,32.0408230428,1.0%,Sweden
+2020,Infrastructure,25.939245360599998,1.0%,Sweden
+2023,"Industry, construction & mining",25.586361964800002,1.0%,Sweden
+2023,Reconstruction Relief & Rehabilitation,25.3123817544,1.0%,Sweden
+2022,"Industry, construction & mining",22.0313849184,1.0%,Sweden
+2019,Trade policy,21.232842462,1.0%,Sweden
+2020,Unspecified,19.2622068054,1.0%,Sweden
+2023,Other multisector,18.3053659464,1.0%,Sweden
+2019,Reconstruction Relief & Rehabilitation,18.211663571399995,1.0%,Sweden
+2021,Trade policy,15.981770422799988,1.0%,Sweden
+2021,Infrastructure,15.749364384,1.0%,Sweden
+2022,Unspecified,12.341739290400001,1.0%,Sweden
+2021,,11.415628785600001,0.0%,Sweden
+2023,Infrastructure,11.277490606200006,1.0%,Sweden
+2022,Trade policy,10.218535540200003,1.0%,Sweden
+2023,Unspecified,9.569339325000001,1.0%,Sweden
+2023,Trade policy,9.123030259200002,0.0%,Sweden
+2022,Reconstruction Relief & Rehabilitation,7.864282108800001,0.0%,Sweden
+2021,Unspecified,7.1638189974,0.0%,Sweden
+2021,Disaster Prevention & Preparedness,6.956973457199999,0.0%,Sweden
+2020,Reconstruction Relief & Rehabilitation,6.147000568800001,0.0%,Sweden
+2020,Disaster Prevention & Preparedness,6.058317119400001,0.0%,Sweden
+2022,Infrastructure,5.939690164199999,0.0%,Sweden
+2023,,5.881396973400002,0.0%,Sweden
+2020,,5.411144372400001,0.0%,Sweden
+2020,Trade policy,5.391939033000001,0.0%,Sweden
+2021,Reconstruction Relief & Rehabilitation,4.91533731,0.0%,Sweden
+2019,Donor administration costs,2.6500631508000003,0.0%,Sweden
+2023,Disaster Prevention & Preparedness,2.300973129,0.0%,Sweden
+2019,Disaster Prevention & Preparedness,1.6513945578000002,0.0%,Sweden
+2022,,1.617652647,0.0%,Sweden
+2019,Food aid and commodity assistance,0.3506375574,0.0%,Sweden
+2020,Food aid and commodity assistance,0.304390593,0.0%,Sweden
+2022,Disaster Prevention & Preparedness,0.0514540494,0.0%,Sweden

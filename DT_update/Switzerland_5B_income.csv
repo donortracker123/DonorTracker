@@ -1,36 +1,27 @@
-Year,Income Group,ODA,Share,Donor
-2018,Countries unspecified,947.571169,37.30%,Switzerland
-2019,Countries unspecified,986.571143,37.43%,Switzerland
-2020,Countries unspecified,1325.817281,44.27%,Switzerland
-2021,Countries unspecified,1268.748543,42.32%,Switzerland
-2022,Countries unspecified,1997.249016,52.20%,Switzerland
-2018,Lower-middle income countries,636.099287,25.04%,Switzerland
-2019,Lower-middle income countries,628.56039,23.84%,Switzerland
-2020,Lower-middle income countries,664.214542,22.18%,Switzerland
-2021,Lower-middle income countries,686.906557,22.91%,Switzerland
-2022,Lower-middle income countries,831.941101,21.75%,Switzerland
-2018,Low income countries,411.63557,16.20%,Switzerland
-2019,Low income countries,440.440792,16.71%,Switzerland
-2020,Low income countries,457.315852,15.27%,Switzerland
-2021,Low income countries,484.259607,16.15%,Switzerland
-2022,Low income countries,455.636533,11.91%,Switzerland
-2018,Upper-middle income countries,362.593102,14.27%,Switzerland
-2019,Upper-middle income countries,397.274942,15.07%,Switzerland
-2020,Upper-middle income countries,361.191096,12.06%,Switzerland
-2021,Upper-middle income countries,370.271833,12.35%,Switzerland
-2022,Upper-middle income countries,358.066109,9.36%,Switzerland
-2018,Unallocated by income,179.37292,7.06%,Switzerland
-2019,Unallocated by income,175.13394,6.64%,Switzerland
-2020,Unallocated by income,174.277195,5.82%,Switzerland
-2021,Unallocated by income,172.130266,5.74%,Switzerland
-2022,Unallocated by income,172.189055,4.50%,Switzerland
-2018,Countries not classified,2.535199,0.10%,Switzerland
-2019,Countries not classified,7.276246,0.28%,Switzerland
-2020,Countries not classified,11.370881,0.38%,Switzerland
-2021,Countries not classified,15.219454,0.51%,Switzerland
-2022,Countries not classified,10.50704,0.27%,Switzerland
-2018,High income countries,0.937997,0.04%,Switzerland
-2019,High income countries,0.783728,0.03%,Switzerland
-2020,High income countries,0.745675,0.02%,Switzerland
-2021,High income countries,0.313715,0.01%,Switzerland
-2022,High income countries,0.257831,0.01%,Switzerland
+year,incomegroup_name,total_oda,share,donor
+2023,Part I unallocated by income,2326.33584,59.32943135738803,Switzerland
+2023,LDCs,663.213943999999,16.91419849586744,Switzerland
+2023,LMICs,525.4426969999982,13.40056576865627,Switzerland
+2023,UMICs,360.0521400000004,9.182547230674436,Switzerland
+2023,Other LICs,46.003983,1.1732571474138254,Switzerland
+2022,Part I unallocated by income,2120.319631000009,56.487318516461826,Switzerland
+2022,LDCs,673.7397229999999,17.949062855369846,Switzerland
+2022,LMICs,563.0966690000005,15.001427347234502,Switzerland
+2022,UMICs,359.10187899999994,9.566813381511746,Switzerland
+2022,Other LICs,37.362709999999964,0.9953778994220813,Switzerland
+2021,Part I unallocated by income,1409.9289350000001,47.98419831200041,Switzerland
+2021,LDCs,710.3293530000022,24.174682634757794,Switzerland
+2021,LMICs,412.7915209999995,14.04855926669542,Switzerland
+2021,UMICs,362.19215299999985,12.326507858073276,Switzerland
+2021,Other LICs,43.07728599999998,1.4660519284730884,Switzerland
+2020,Part I unallocated by income,1462.9851089999981,49.881393301327506,Switzerland
+2020,LDCs,662.074492999997,22.573844379512337,Switzerland
+2020,LMICs,393.5422679999996,13.41807003368784,Switzerland
+2020,UMICs,365.6861379999996,12.468297839948503,Switzerland
+2020,Other LICs,48.63950700000001,1.6583944455238306,Switzerland
+2020,,,,Switzerland
+2019,Part I unallocated by income,1132.7052910000011,43.86940692475994,Switzerland
+2019,LDCs,649.5489040000025,25.156874796577526,Switzerland
+2019,LMICs,380.9262170000015,14.75318192177709,Switzerland
+2019,UMICs,371.81104100000084,14.40015331997564,Switzerland
+2019,Other LICs,47.00217399999999,1.8203830369097915,Switzerland

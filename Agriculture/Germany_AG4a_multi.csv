@@ -1,121 +1,89 @@
-"Year","Multi_short","ODA","Share","Full Name","Donor"
-"2018","EC - Development Share of Budget","236.7","16.7%","european commission development share of budget","Germany"
-"2019","EC - Development Share of Budget","218.3","15.3%","european commission development share of budget","Germany"
-"2020","EC - Development Share of Budget","211.8","11.2%","european commission development share of budget","Germany"
-"2021","EC - Development Share of Budget","240.4","11.8%","european commission development share of budget","Germany"
-"2022","EC - Development Share of Budget","280.1","10.5%","european commission development share of budget","Germany"
-"2018","GCF","22.3","1.6%","green climate fund","Germany"
-"2019","GCF","0","0%","green climate fund","Germany"
-"2020","GCF","33","1.7%","green climate fund","Germany"
-"2021","GCF","228.8","11.2%","green climate fund","Germany"
-"2022","GCF","244.9","9.1%","green climate fund","Germany"
-"2018","IDA","98.1","6.9%","international development association","Germany"
-"2019","IDA","92.2","6.5%","international development association","Germany"
-"2020","IDA","84","4.4%","international development association","Germany"
-"2021","IDA","76.3","3.7%","international development association","Germany"
-"2022","IDA","64.1","2.4%","international development association","Germany"
-"2018","Adaptation Fund","45.8","3.2%","adaptation fund","Germany"
-"2019","Adaptation Fund","19.8","1.4%","adaptation fund","Germany"
-"2020","Adaptation Fund","35.4","1.9%","adaptation fund","Germany"
-"2021","Adaptation Fund","32.8","1.6%","adaptation fund","Germany"
-"2022","Adaptation Fund","38.6","1.4%","adaptation fund","Germany"
-"2018","African Development Fund","24.2","1.7%","african development fund","Germany"
-"2019","African Development Fund","27.7","1.9%","african development fund","Germany"
-"2020","African Development Fund","26.2","1.4%","african development fund","Germany"
-"2021","African Development Fund","24.2","1.2%","african development fund","Germany"
-"2022","African Development Fund","22.5","0.8%","african development fund","Germany"
-"2018","GEF Fund","9.4","0.7%","global environment facility trust fund","Germany"
-"2019","GEF Fund","4.3","0.3%","global environment facility trust fund","Germany"
-"2020","GEF Fund","4.4","0.2%","global environment facility trust fund","Germany"
-"2021","GEF Fund","9.7","0.5%","global environment facility trust fund","Germany"
-"2022","GEF Fund","20.4","0.8%","global environment facility trust fund","Germany"
-"2018","IFC","0","0%","international finance corporation","Germany"
-"2019","IFC","0","0%","international finance corporation","Germany"
-"2020","IFC","0","0%","international finance corporation","Germany"
-"2021","IFC","0","0%","international finance corporation","Germany"
-"2022","IFC","16.7","0.6%","international finance corporation","Germany"
-"2018","FAO","18","1.3%","food and agricultural organisation","Germany"
-"2019","FAO","18.3","1.3%","food and agricultural organisation","Germany"
-"2020","FAO","17.8","0.9%","food and agricultural organisation","Germany"
-"2021","FAO","15.8","0.8%","food and agricultural organisation","Germany"
-"2022","FAO","16.6","0.6%","food and agricultural organisation","Germany"
-"2018","AfDB","2","0.1%","african development bank","Germany"
-"2019","AfDB","1","0.1%","african development bank","Germany"
-"2020","AfDB","4.3","0.2%","african development bank","Germany"
-"2021","AfDB","5","0.2%","african development bank","Germany"
-"2022","AfDB","6.5","0.2%","african development bank","Germany"
-"2018","IBRD","0","0%","international bank for reconstruction and development","Germany"
-"2019","IBRD","6.1","0.4%","international bank for reconstruction and development","Germany"
-"2020","IBRD","5.4","0.3%","international bank for reconstruction and development","Germany"
-"2021","IBRD","4.7","0.2%","international bank for reconstruction and development","Germany"
-"2022","IBRD","5.6","0.2%","international bank for reconstruction and development","Germany"
-"2018","UNDP","0","0%","united nations development programme","Germany"
-"2019","UNDP","0.2","0%","united nations development programme","Germany"
-"2020","UNDP","0.4","0%","united nations development programme","Germany"
-"2021","UNDP","0.5","0%","united nations development programme","Germany"
-"2022","UNDP","0.5","0%","united nations development programme","Germany"
-"2018","UNICEF","0","0%","united nations childrenâ€™s fund","Germany"
-"2019","UNICEF","0","0%","united nations childrenâ€™s fund","Germany"
-"2020","UNICEF","0","0%","united nations childrenâ€™s fund","Germany"
-"2021","UNICEF","0","0%","united nations childrenâ€™s fund","Germany"
-"2022","UNICEF","0.2","0%","united nations childrenâ€™s fund","Germany"
-"2018","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Germany"
-"2019","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Germany"
-"2020","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Germany"
-"2021","WHO - assessed contributions","0.1","0%","world health organisation assessed contributions","Germany"
-"2022","WHO - assessed contributions","0.2","0%","world health organisation assessed contributions","Germany"
-"2018","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Germany"
-"2019","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Germany"
-"2020","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Germany"
-"2021","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Germany"
-"2022","WHO - core voluntary contributions","0.2","0%","world health organisation core voluntary contributions account","Germany"
-"2018","World organisation for animal health","0","0%","world organisation for animal health","Germany"
-"2019","World organisation for animal health","0","0%","world organisation for animal health","Germany"
-"2020","World organisation for animal health","0","0%","world organisation for animal health","Germany"
-"2021","World organisation for animal health","0.2","0%","world organisation for animal health","Germany"
-"2022","World organisation for animal health","0.2","0%","world organisation for animal health","Germany"
-"2018","UN","0","0%","united nations","Germany"
-"2019","UN","0","0%","united nations","Germany"
-"2020","UN","0","0%","united nations","Germany"
-"2021","UN","0","0%","united nations","Germany"
-"2022","UN","0.1","0%","united nations","Germany"
-"2018","UNIDO","0","0%","united nations industrial development organisation","Germany"
-"2019","UNIDO","0","0%","united nations industrial development organisation","Germany"
-"2020","UNIDO","0","0%","united nations industrial development organisation","Germany"
-"2021","UNIDO","0.1","0%","united nations industrial development organisation","Germany"
-"2022","UNIDO","0.1","0%","united nations industrial development organisation","Germany"
-"2018","WTO - international trade centre","0","0%","world trade organisation international trade centre","Germany"
-"2019","WTO - international trade centre","0","0%","world trade organisation international trade centre","Germany"
-"2020","WTO - international trade centre","0","0%","world trade organisation international trade centre","Germany"
-"2021","WTO - international trade centre","0","0%","world trade organisation international trade centre","Germany"
-"2022","WTO - international trade centre","0","0%","world trade organisation international trade centre","Germany"
-"2018","WHO - strategic preparedness and response plan","0","0%","world health organisation strategic preparedness and response plan","Germany"
-"2019","WHO - strategic preparedness and response plan","0","0%","world health organisation strategic preparedness and response plan","Germany"
-"2020","WHO - strategic preparedness and response plan","0","0%","world health organisation strategic preparedness and response plan","Germany"
-"2021","WHO - strategic preparedness and response plan","0","0%","world health organisation strategic preparedness and response plan","Germany"
-"2022","WHO - strategic preparedness and response plan","0","0%","world health organisation strategic preparedness and response plan","Germany"
-"2018","CDB","0","0%","caribbean development bank","Germany"
-"2019","CDB","0","0%","caribbean development bank","Germany"
-"2020","CDB","0","0%","caribbean development bank","Germany"
-"2021","CDB","0","0%","caribbean development bank","Germany"
-"2022","CDB","0","0%","caribbean development bank","Germany"
-"2018","CEB","0","0%","council of europe development bank","Germany"
-"2019","CEB","0","0%","council of europe development bank","Germany"
-"2020","CEB","0","0%","council of europe development bank","Germany"
-"2021","CEB","0","0%","council of europe development bank","Germany"
-"2022","CEB","0","0%","council of europe development bank","Germany"
-"2018","GEF-Least Developed Countries Fund","3.3","0.2%","global environment facility least developed countries fund","Germany"
-"2019","GEF-Least Developed Countries Fund","0","0%","global environment facility least developed countries fund","Germany"
-"2020","GEF-Least Developed Countries Fund","0","0%","global environment facility least developed countries fund","Germany"
-"2021","GEF-Least Developed Countries Fund","0","0%","global environment facility least developed countries fund","Germany"
-"2022","GEF-Least Developed Countries Fund","0","0%","global environment facility least developed countries fund","Germany"
-"2018","WFP","0","0%","world food programme","Germany"
-"2019","WFP","0","0%","world food programme","Germany"
-"2020","WFP","0","0%","world food programme","Germany"
-"2021","WFP","0","0%","world food programme","Germany"
-"2022","WFP","0","0%","world food programme","Germany"
-"2018","AIIB","0.7","0.1%","asian infrastructure investment bank","Germany"
-"2019","AIIB","1.3","0.1%","asian infrastructure investment bank","Germany"
-"2020","AIIB","0","0%","asian infrastructure investment bank","Germany"
-"2021","AIIB","0","0%","asian infrastructure investment bank","Germany"
-"2022","AIIB","0","0%","asian infrastructure investment bank","Germany"
+Year,ODA,Share,Full Name,donor
+2019,94.40160000000003,0.18086250410238638,international development association,Germany
+2019,20.2895,0.038872326072708165,adaptation fund,Germany
+2019,177.2501,0.33959061009981173,european commission development share of budget,Germany
+2019,6.2124999999999995,0.011902428631888388,international bank for reconstruction and development,Germany
+2019,0.0026,4.981298099462344e-06,council of europe development bank,Germany
+2019,0.1913,0.000366508587087364,united nations development programme,Germany
+2019,28.318300000000004,0.054254574603847895,african development fund,Germany
+2019,1.3607999999999998,0.002607134789903214,asian infrastructure investment bank,Germany
+2019,0.018,3.4485909919354686e-05,world food programme,Germany
+2019,1.0162,0.001946921203336013,african development bank,Germany
+2019,169.7853,0.32528892007947846,european commission european development fund,Germany
+2019,4.3671999999999995,0.00836704809998921,global environment facility trust fund,Germany
+2019,0.0085,1.628501301747305e-05,united nations children’s fund,Germany
+2019,18.730399999999996,0.03588527150852672,food and agricultural organisation,Germany
+2020,5.4735000000000005,0.01016291297104085,international bank for reconstruction and development,Germany
+2020,36.246900000000004,0.06730137757742223,adaptation fund,Germany
+2020,4.5181,0.008388975444315275,global environment facility trust fund,Germany
+2020,18.168299999999995,0.03373396395939735,food and agricultural organisation,Germany
+2020,0.0422,7.835478713399541e-05,world health organisation assessed contributions,Germany
+2020,156.70950000000005,0.29097013067238997,european commission european development fund,Germany
+2020,166.1866,0.30856672197920476,european commission development share of budget,Germany
+2020,0.006,1.1140491061705508e-05,united nations industrial development organisation,Germany
+2020,0.0253,4.6975737310191556e-05,united nations children’s fund,Germany
+2020,4.3694999999999995,0.008113062615687035,african development bank,Germany
+2020,0.3961,0.000735458084923592,united nations development programme,Germany
+2020,33.726000000000006,0.06262070025784668,green climate fund,Germany
+2020,85.9408,0.15957045237263678,international development association,Germany
+2020,0.0024000000000000002,4.456196424682203e-06,council of europe development bank,Germany
+2020,26.764699999999994,0.04969531685320489,african development fund,Germany
+2021,33.5214,0.04758543798777651,adaptation fund,Germany
+2021,0.0007,9.93687811113007e-07,council of europe development bank,Germany
+2021,234.1238,0.3323513805020849,green climate fund,Germany
+2021,0.0015,2.1293310238135867e-06,caribbean development bank,Germany
+2021,5.093800000000001,0.007230924246067766,african development bank,Germany
+2021,0.5551,0.0007879944342126146,united nations development programme,Germany
+2021,9.8832,0.014029736249702959,global environment facility trust fund,Germany
+2021,0.1624,0.00023053557217821762,world organisation for animal health,Germany
+2021,0.0615,8.730257197635705e-05,united nations industrial development organisation,Germany
+2021,78.10669999999999,0.11087667965180042,international development association,Germany
+2021,0.03,4.258662047627173e-05,united nations children’s fund,Germany
+2021,0.1135,0.00016111938080189472,world health organisation assessed contributions,Germany
+2021,16.1902,0.02298286342783115,food and agricultural organisation,Germany
+2021,186.19120000000004,0.2643084656807202,european commission development share of budget,Germany
+2021,110.8052,0.1572939666399128,european commission european development fund,Germany
+2021,4.7936,0.006804774130501872,international bank for reconstruction and development,Germany
+2021,24.8128,0.03522310988512117,african development fund,Germany
+2022,23.070999999999994,0.03206210133436209,african development fund,Germany
+2022,65.8691,0.0915392379612167,international development association,Germany
+2022,0.1778,0.0002470912234948455,world health organisation assessed contributions,Germany
+2022,0.1607,0.00022332710694950323,world health organisation core voluntary contributions account,Germany
+2022,0.0152,2.1123659151415363e-05,world health organisation strategic preparedness and response plan,Germany
+2022,6.659200000000002,0.009254386251388502,african development bank,Germany
+2022,0.0002,2.779428835712548e-07,council of europe development bank,Germany
+2022,5.7932999999999995,0.00805103253696675,international bank for reconstruction and development,Germany
+2022,222.22360000000003,0.3088273409079255,european commission development share of budget,Germany
+2022,17.052400000000002,0.02369796613905233,food and agricultural organisation,Germany
+2022,0.1037,0.0001441133851316956,united nations industrial development organisation,Germany
+2022,0.1564,0.00021735133495272125,world organisation for animal health,Germany
+2022,47.9828,0.06668238896911402,european commission european development fund,Germany
+2022,0.17919999999999997,0.0002490368236798442,united nations children’s fund,Germany
+2022,251.5847,0.3496308849020453,green climate fund,Germany
+2022,0.5597000000000001,0.0007778231596741567,united nations development programme,Germany
+2022,17.204,0.023908646844799337,international finance corporation,Germany
+2022,20.963199999999997,0.029132861284404638,global environment facility trust fund,Germany
+2022,39.6931,0.05516207335941087,adaptation fund,Germany
+2022,0.1215,0.00016885030176953727,united nations,Germany
+2022,0.0015,2.084571626784411e-06,caribbean development bank,Germany
+2023,0.0014,1.8358469575032903e-06,caribbean development bank,Germany
+2023,0.3217,0.00042185140444914886,united nations,Germany
+2023,0.8552000000000001,0.0011214402271834385,united nations development programme,Germany
+2023,14.519100000000002,0.019039175400490018,food and agricultural organisation,Germany
+2023,0.1692,0.0002218752180068262,world organisation for animal health,Germany
+2023,0.0132,1.7309414170745307e-05,world health organisation strategic preparedness and response plan,Germany
+2023,204.0742,0.2676064279820842,green climate fund,Germany
+2023,0.1439,0.00018869884084623105,world health organisation core voluntary contributions account,Germany
+2023,18.726400000000005,0.024556288903564018,european commission european development fund,Germany
+2023,0.36869999999999997,0.00048348340945104506,united nations industrial development organisation,Germany
+2023,42.903,0.056259530012688325,african development fund,Germany
+2023,0.17,0.00022292427341111384,world health organisation assessed contributions,Germany
+2023,0.1532,0.00020089410992107432,united nations children’s fund,Germany
+2023,16.2123,0.021259501163664707,international finance corporation,Germany
+2023,258.7531,0.33930792241396046,european commission development share of budget,Germany
+2023,5.329100000000001,0.006988151443736276,international bank for reconstruction and development,Germany
+2023,0.0,0.0,council of europe development bank,Germany
+2023,31.7246,0.04160107884857777,global environment facility trust fund,Germany
+2023,126.28679999999999,0.1656023125377332,international development association,Germany
+2023,34.5841,0.045350796259278243,adaptation fund,Germany
+2023,7.2816,0.009548502289825685,african development bank,Germany

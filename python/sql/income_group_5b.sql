@@ -24,11 +24,11 @@ deflated AS (
 )
 
 SELECT
-    donor,
     year,
     incomegroup_name,
     sum(usd_disbursement_defl) AS "total_oda", 
-    sum(usd_disbursement_defl) * 100 / sum(sum(usd_disbursement_defl)) OVER (PARTITION BY donor, year) AS share
+    sum(usd_disbursement_defl) * 100 / sum(sum(usd_disbursement_defl)) OVER (PARTITION BY donor, year) AS share,
+    donor,
 FROM deflated
-GROUP BY 1,2,3
-ORDER BY 1, 2 DESC, 4 DESC
+GROUP BY donor, year, incomegroup_name
+ORDER BY donor, year DESC, "total_oda" DESC

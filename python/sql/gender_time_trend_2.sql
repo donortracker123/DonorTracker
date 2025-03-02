@@ -61,15 +61,15 @@ allocable_totals AS (
 )
 
 SELECT 
-    ct.donor_name AS donor,
     ct.year AS "Year",
     100 * (ct.gender_principal + ct.gender_significant) / (alt.allocable_oda) AS "Gender funding as % of bilateral allocable ODA",
     gender_principal * (100 / dfl.deflator) AS "Funding for projects with gender equality as a principal objective",
     gender_significant * (100 / dfl.deflator) AS "Funding for projects with gender equality as a significant objective",
     100 * gender_principal / alt.allocable_oda AS "Principal",
     100 * gender_significant / alt.allocable_oda AS "Significant",
-    100 - ("Principal" + "Significant") AS "Not targeted or screened"
+    100 - ("Principal" + "Significant") AS "Not targeted or screened",
+    ct.donor_name AS donor,
 FROM crs_totals ct
 LEFT JOIN allocable_totals alt USING (donor_name, year)
 LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = ct.donor_name AND dfl.year = {{latest_year}}
-ORDER BY 1,2
+ORDER BY donor, year

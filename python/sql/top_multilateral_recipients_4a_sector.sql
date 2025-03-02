@@ -21,3 +21,4 @@ SELECT
     mapped_name AS "Full Name",
     donor
 FROM one_campaign_totals
+ORDER BY donor, year

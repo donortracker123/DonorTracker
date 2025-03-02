@@ -1,6 +1,6 @@
-"Year","Climate funding as a % of bilateral allocable ODA","Funding for projects with climate change as a principal objective","Funding for projects with a significant climate change component","Principal","Significant","Not targeted and not screened"
-"2018","13%",46,299,"2%","12%","87%"
-"2019","28%",11,642,"0%","27%","72%"
-"2020","33%",18,862,"1%","32%","67%"
-"2021","39%",66,1019,"2%","37%","61%"
-"2022","44%",67,999,"3%","41%","56%"
+donor,Year,Climate Funding as % of bilateral allocable ODA,Funding for projects with climate change as a principal objective,Funding for projects with a significant climate change component,Principal,Significant,Not targeted and not screened
+Australia,2019,31.843010731010303,10.87671402660218,641.5436205159205,0.5308653074249783,31.312145423585324,68.15698926898969
+Australia,2020,39.5846651255774,17.678954050785983,867.0325433293033,0.7910098127391905,38.793655312838204,60.415334874422605
+Australia,2021,44.968376704029964,66.69967251108423,1022.9581831922599,2.7525851200126055,42.21579158401736,55.031623295970036
+Australia,2022,52.640033975915664,55.114055824264376,987.9491525594508,2.7814285345519667,49.8586054413637,47.359966024084336
+Australia,2023,55.77123337591467,111.64874244256343,1060.728234582829,5.311250726443368,50.4599826494713,44.22876662408533

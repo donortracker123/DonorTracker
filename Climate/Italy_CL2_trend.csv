@@ -1,6 +1,6 @@
-"Year","Climate funding as a % of bilateral allocable ODA","Funding for projects with climate change as a principal objective","Funding for projects with a significant climate change component","Principal","Significant","Not targeted and not screened"
-"2018","16%",65,128,"6%","11%","84%"
-"2019","21%",57,196,"5%","16%","79%"
-"2020","51%",182,416,"16%","35%","49%"
-"2021","37%",310,149,"25%","12%","63%"
-"2022","18%",142,257,"7%","12%","82%"
+donor,Year,Climate Funding as % of bilateral allocable ODA,Funding for projects with climate change as a principal objective,Funding for projects with a significant climate change component,Principal,Significant,Not targeted and not screened
+Italy,2019,25.15094563567716,49.29616332244517,168.82837330844615,5.684115794218681,19.46682984145848,74.84905436432284
+Italy,2020,51.75927777222942,85.19735044330372,358.1668707419502,9.946119051429665,41.813158720799755,48.240722227770576
+Italy,2021,35.71475405403885,178.59825384974332,127.17172375174997,20.860755397763512,14.853998656275335,64.28524594596115
+Italy,2022,18.780735403430363,52.521236584227736,220.48566028931398,3.6130495553240465,15.167685848106315,81.21926459656964
+Italy,2023,0.0,0.0,0.0,0.0,0.0,100.0

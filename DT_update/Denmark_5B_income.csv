@@ -1,36 +1,26 @@
-Year,Income Group,ODA,Share,Donor
-2018,Countries unspecified,1024.797703,51.70%,Denmark
-2019,Countries unspecified,1028.631292,50.62%,Denmark
-2020,Countries unspecified,866.780905,47.17%,Denmark
-2021,Countries unspecified,883.851738,43.02%,Denmark
-2022,Countries unspecified,1089.196181,50.94%,Denmark
-2018,Low income countries,425.929967,21.49%,Denmark
-2019,Low income countries,568.740175,27.99%,Denmark
-2020,Low income countries,469.318158,25.54%,Denmark
-2021,Low income countries,607.148515,29.55%,Denmark
-2022,Low income countries,420.467635,19.66%,Denmark
-2018,Lower-middle income countries,301.934065,15.23%,Denmark
-2019,Lower-middle income countries,245.955781,12.10%,Denmark
-2020,Lower-middle income countries,251.239984,13.67%,Denmark
-2021,Lower-middle income countries,277.5806,13.51%,Denmark
-2022,Lower-middle income countries,404.124186,18.90%,Denmark
-2018,Unallocated by income,116.191057,5.86%,Denmark
-2019,Unallocated by income,125.977889,6.20%,Denmark
-2020,Unallocated by income,195.105245,10.62%,Denmark
-2021,Unallocated by income,238.191497,11.59%,Denmark
-2022,Unallocated by income,146.255022,6.84%,Denmark
-2018,Upper-middle income countries,113.32327,5.72%,Denmark
-2019,Upper-middle income countries,62.819265,3.09%,Denmark
-2020,Upper-middle income countries,54.388853,2.96%,Denmark
-2021,Upper-middle income countries,47.09975,2.29%,Denmark
-2022,Upper-middle income countries,78.249414,3.66%,Denmark
-2018,High income countries,0,0%,Denmark
-2019,High income countries,0,0%,Denmark
-2020,High income countries,0,0%,Denmark
-2021,High income countries,0,0%,Denmark
-2022,High income countries,0.026986,0%,Denmark
-2018,Countries not classified,0,0%,Denmark
-2019,Countries not classified,0,0%,Denmark
-2020,Countries not classified,0.610257,0.03%,Denmark
-2021,Countries not classified,0.587324,0.03%,Denmark
-2022,Countries not classified,0,0%,Denmark
+year,incomegroup_name,total_oda,share,donor
+2023,Part I unallocated by income,1201.4208870000004,57.167519470462324,Denmark
+2023,LDCs,458.1832729999997,21.801852676020292,Denmark
+2023,LMICs,303.44617700000003,14.438957587296258,Denmark
+2023,UMICs,85.84700399999994,4.084880099683876,Denmark
+2023,Other LICs,52.68218899999999,2.506790166537261,Denmark
+2022,Part I unallocated by income,1189.6864410000014,57.77688540603248,Denmark
+2022,LDCs,425.0514559999997,20.64253942773078,Denmark
+2022,LMICs,310.6592610000001,15.087105227519121,Denmark
+2022,UMICs,79.698354,3.870534711849679,Denmark
+2022,Other LICs,54.00897699999999,2.622935226867934,Denmark
+2021,Part I unallocated by income,1077.6180020000018,54.61501052198937,Denmark
+2021,LDCs,612.0311560000009,31.018494459714226,Denmark
+2021,LMICs,152.12796000000006,7.710032795172967,Denmark
+2021,Other LICs,74.14029400000001,3.757521616563881,Denmark
+2021,UMICs,57.19948699999997,2.8989406065595658,Denmark
+2020,Part I unallocated by income,1020.6893999999991,57.791504158434336,Denmark
+2020,LDCs,501.1972869999996,28.377824924856196,Denmark
+2020,LMICs,143.16748500000003,8.106152865631891,Denmark
+2020,UMICs,53.20918200000001,3.0127075512098913,Denmark
+2020,Other LICs,47.894864,2.711810499867687,Denmark
+2019,Part I unallocated by income,1113.4566530000004,56.8178390376613,Denmark
+2019,LDCs,571.5810929999997,29.166831462674356,Denmark
+2019,LMICs,126.36634,6.448263923479721,Denmark
+2019,Other LICs,88.42048500000001,4.511950124709474,Denmark
+2019,UMICs,59.870961,3.0551154514751424,Denmark

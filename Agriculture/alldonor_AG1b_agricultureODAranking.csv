@@ -1,32 +1,31 @@
-"Donor","ODA for agriculture as a % of total ODA","Ranking"
-"Korea","8.4%","1st"
-"Iceland","7.8%","2nd"
-"Luxembourg","7.8%","3rd"
-"Belgium","7.3%","4th"
-"New Zealand","7.2%","5th"
-"France","6.5%","6th"
-"Hungary","6.4%","7th"
-"Germany","6.3%","8th"
-"Slovak Republic","5.9%","9th"
-"Norway","5.9%","10th"
-"Canada","5.9%","11th"
-"Spain","5.6%","12th"
-"Netherlands","5.5%","13th"
-"Switzerland","5.4%","14th"
-"Australia","5.0%","15th"
-"Finland","4.8%","16th"
-"Austria","4.7%","17th"
-"Greece","4.5%","18th"
-"Sweden","4.4%","19th"
-"Italy","4.3%","20th"
-"Japan","4.2%","21st"
-"Portugal","4.0%","22nd"
-"United Kingdom","3.8%","23rd"
-"Slovenia","3.7%","24th"
-"Lithuania","3.3%","25th"
-"Ireland","3.2%","26th"
-"Denmark","2.7%","27th"
-"United States","1.8%","28th"
-"Poland","1.8%","29th"
-"Estonia","1.7%","30th"
-"Czechia","0.3%","31th"
+donor,"ODA to Agriculture (incl. forestry, fishing, rural development) as % of Total ODA",Year,Rank
+Australia,11.9%,2023,1st
+New Zealand,11.8%,2023,2nd
+Korea,9.5%,2023,3rd
+Norway,9.5%,2023,4th
+Belgium,8.6%,2023,5th
+Iceland,8.2%,2023,6th
+Finland,8.2%,2023,7th
+Sweden,7.6%,2023,8th
+Netherlands,7.4%,2023,9th
+Austria,7.3%,2023,10th
+Spain,7.3%,2023,11th
+Japan,7.2%,2023,12th
+United Kingdom,7.1%,2023,13th
+Luxembourg,6.9%,2023,14th
+Denmark,6.6%,2023,15th
+France,6.6%,2023,16th
+Slovak Republic,6.1%,2023,17th
+Switzerland,5.9%,2023,18th
+Italy,5.3%,2023,19th
+Germany,5.3%,2023,20th
+Canada,5.0%,2023,21st
+Hungary,4.9%,2023,22nd
+Slovenia,4.5%,2023,23rd
+Ireland,4.4%,2023,24th
+Estonia,3.9%,2023,25th
+Portugal,3.8%,2023,26th
+Czechia,3.7%,2023,27th
+Lithuania,3.2%,2023,28th
+United States,3.2%,2023,29th
+Poland,2.6%,2023,30th

@@ -1,81 +1,92 @@
-"Year","Sector","Gender-related ODA to","Share","Donor"
-"2018","Humanitarian aid",230.55,"22%","Norway"
-"2019","Humanitarian aid",325.64,"26%","Norway"
-"2020","Humanitarian aid",433.93,"28%","Norway"
-"2021","Humanitarian aid",387.19,"29%","Norway"
-"2022","Humanitarian aid",399.21,"33%","Norway"
-"2018","Government & civil society",202.54,"19%","Norway"
-"2019","Government & civil society",241.45,"20%","Norway"
-"2020","Government & civil society",258.37,"17%","Norway"
-"2021","Government & civil society",231.85,"18%","Norway"
-"2022","Government & civil society",202.58,"17%","Norway"
-"2018","Education",284.93,"27%","Norway"
-"2019","Education",297.96,"24%","Norway"
-"2020","Education",347.23,"22%","Norway"
-"2021","Education",299.84,"23%","Norway"
-"2022","Education",170.74,"14%","Norway"
-"2018","Health & populations",144.54,"14%","Norway"
-"2019","Health & populations",142.57,"12%","Norway"
-"2020","Health & populations",195.21,"13%","Norway"
-"2021","Health & populations",136.97,"10%","Norway"
-"2022","Health & populations",126.81,"10%","Norway"
-"2018","Conflict, peace & security",69.47,"7%","Norway"
-"2019","Conflict, peace & security",86.48,"7%","Norway"
-"2020","Conflict, peace & security",95.11,"6%","Norway"
-"2021","Conflict, peace & security",81.24,"6%","Norway"
-"2022","Conflict, peace & security",72.85,"6%","Norway"
-"2018","Agriculture (incl. forestry, fishing, rural development)",34.28,"3%","Norway"
-"2019","Agriculture (incl. forestry, fishing, rural development)",27.54,"2%","Norway"
-"2020","Agriculture (incl. forestry, fishing, rural development)",30.7,"2%","Norway"
-"2021","Agriculture (incl. forestry, fishing, rural development)",45.01,"3%","Norway"
-"2022","Agriculture (incl. forestry, fishing, rural development)",62.32,"5%","Norway"
-"2018","Energy",8.5,"1%","Norway"
-"2019","Energy",22.89,"2%","Norway"
-"2020","Energy",42.33,"3%","Norway"
-"2021","Energy",24.13,"2%","Norway"
-"2022","Energy",48.2,"4%","Norway"
-"2018","Other multisector",25.06,"2%","Norway"
-"2019","Other multisector",31.23,"3%","Norway"
-"2020","Other multisector",58.58,"4%","Norway"
-"2021","Other multisector",26.7,"2%","Norway"
-"2022","Other multisector",43.15,"4%","Norway"
-"2018","Other social services",11.42,"1%","Norway"
-"2019","Other social services",16.28,"1%","Norway"
-"2020","Other social services",41.1,"3%","Norway"
-"2021","Other social services",42.15,"3%","Norway"
-"2022","Other social services",38.13,"3%","Norway"
-"2018","Environmental protection",24.35,"2%","Norway"
-"2019","Environmental protection",16.71,"1%","Norway"
-"2020","Environmental protection",15.43,"1%","Norway"
-"2021","Environmental protection",17.88,"1%","Norway"
-"2022","Environmental protection",32.06,"3%","Norway"
-"2018","Financial services & business support",7.83,"1%","Norway"
-"2019","Financial services & business support",15.32,"1%","Norway"
-"2020","Financial services & business support",9,"1%","Norway"
-"2021","Financial services & business support",14.96,"1%","Norway"
-"2022","Financial services & business support",9.38,"1%","Norway"
-"2018","Water and sanitation",3.27,"0%","Norway"
-"2019","Water and sanitation",2.71,"0%","Norway"
-"2020","Water and sanitation",5.49,"0%","Norway"
-"2021","Water and sanitation",2.44,"0%","Norway"
-"2022","Water and sanitation",4.9,"0%","Norway"
-"2018","Industry, construction & mining",4.57,"0%","Norway"
-"2019","Industry, construction & mining",6.89,"1%","Norway"
-"2020","Industry, construction & mining",12.98,"1%","Norway"
-"2021","Industry, construction & mining",6.33,"0%","Norway"
-"2022","Industry, construction & mining",4.86,"0%","Norway"
-"2018","Infrastructure",0,"0%","Norway"
-"2019","Infrastructure",0,"0%","Norway"
-"2020","Infrastructure",0.56,"0%","Norway"
-"2021","Infrastructure",3.54,"0%","Norway"
-"2022","Infrastructure",3.01,"0%","Norway"
-"2018","Unspecified",0.29,"0%","Norway"
-"2019","Unspecified",0.17,"0%","Norway"
-"2020","Unspecified",0,"0%","Norway"
-"2021","Unspecified",1.16,"0%","Norway"
-"2022","Unspecified",0,"0%","Norway"
-"2018","Tourism",0.21,"0%","Norway"
-"2019","Tourism",0,"0%","Norway"
-"2020","Tourism",0.01,"0%","Norway"
-"2021","Tourism",0.01,"0%","Norway"
-"2022","Tourism",0,"0%","Norway"
+year,Sector,Gender-related ODA to,Share,donor
+2023,Emergency Response,513.6263198271998,29.0%,Norway
+2020,Emergency Response,402.1802881356,28.0%,Norway
+2021,Emergency Response,359.0964744048001,29.0%,Norway
+2022,Emergency Response,347.48611147800017,32.0%,Norway
+2020,Education,324.7789328988001,22.0%,Norway
+2019,Emergency Response,308.33993778679985,26.0%,Norway
+2019,Education,283.6954244064003,24.0%,Norway
+2021,Education,280.01845624039976,23.0%,Norway
+2023,Other multisector,247.557469734,14.0%,Norway
+2020,Government & civil society,243.26118373360003,17.0%,Norway
+2019,Government & civil society,229.8950188352002,20.0%,Norway
+2021,Government & civil society,217.93752317159996,18.0%,Norway
+2023,Government & civil society,216.40644257999986,12.0%,Norway
+2023,"Agriculture (incl. forestry, fishing, rural development)",214.10045467479978,12.0%,Norway
+2020,Health & populations,183.79647643320004,13.0%,Norway
+2022,Government & civil society,179.464407464,17.0%,Norway
+2023,Education,158.4461432952,9.0%,Norway
+2022,Education,150.68354006800004,14.0%,Norway
+2023,Health & populations,138.7089051392,8.0%,Norway
+2019,Health & populations,135.74144227640002,12.0%,Norway
+2021,Health & populations,128.7514938112,10.0%,Norway
+2022,Health & populations,112.34484987320006,10.0%,Norway
+2020,"Conflict, peace & security",89.54995399480006,6.0%,Norway
+2023,"Conflict, peace & security",82.71148490279997,5.0%,Norway
+2019,"Conflict, peace & security",82.34026062159998,7.0%,Norway
+2021,"Conflict, peace & security",76.36772065119995,6.0%,Norway
+2022,"Agriculture (incl. forestry, fishing, rural development)",73.3170776192,7.0%,Norway
+2022,"Conflict, peace & security",64.53623977000002,6.0%,Norway
+2021,"Agriculture (incl. forestry, fishing, rural development)",58.29500808679999,5.0%,Norway
+2023,Environmental protection,54.814224600799996,3.0%,Norway
+2020,"Agriculture (incl. forestry, fishing, rural development)",47.20703347360002,3.0%,Norway
+2023,Energy,46.4379804948,3.0%,Norway
+2023,Other social services,43.8522516308,2.0%,Norway
+2021,Other social services,39.620206463999985,3.0%,Norway
+2020,Other social services,38.6953767724,3.0%,Norway
+2020,Energy,37.4169087976,3.0%,Norway
+2019,"Agriculture (incl. forestry, fishing, rural development)",37.28558167239998,3.0%,Norway
+2020,Other multisector,36.85688570920001,3.0%,Norway
+2022,Energy,36.7652274712,3.0%,Norway
+2022,Other social services,33.779153752800006,3.0%,Norway
+2022,Environmental protection,28.404563992800004,3.0%,Norway
+2019,Energy,21.791054428800003,2.0%,Norway
+2021,Energy,21.2906882356,2.0%,Norway
+2022,Other multisector,20.1205521436,2.0%,Norway
+2019,Other multisector,18.668488237200002,2.0%,Norway
+2021,Environmental protection,16.803000223999998,1.0%,Norway
+2019,Environmental protection,15.909628240800004,1.0%,Norway
+2019,Other social services,15.497531193200004,1.0%,Norway
+2019,Financial services & business support,14.5881844064,1.0%,Norway
+2020,Environmental protection,14.527395897600002,1.0%,Norway
+2021,Financial services & business support,14.057585735199995,1.0%,Norway
+2023,"Industry, construction & mining",13.5745378288,1.0%,Norway
+2020,"Industry, construction & mining",12.2208545036,1.0%,Norway
+2023,,11.514253784800001,1.0%,Norway
+2023,Financial services & business support,10.7678141904,1.0%,Norway
+2021,Other multisector,9.1116894748,1.0%,Norway
+2020,Financial services & business support,8.4751716064,1.0%,Norway
+2022,Financial services & business support,8.311766766799998,1.0%,Norway
+2019,"Industry, construction & mining",6.562254366,1.0%,Norway
+2022,,6.5087909612,1.0%,Norway
+2021,"Industry, construction & mining",5.950388921599999,0.0%,Norway
+2020,Reconstruction Relief & Rehabilitation,5.3252791636,0.0%,Norway
+2020,Water and sanitation,5.1659868936,0.0%,Norway
+2023,Water and sanitation,4.5985935352,0.0%,Norway
+2020,,4.5800229184,0.0%,Norway
+2023,Reconstruction Relief & Rehabilitation,4.378145680000001,0.0%,Norway
+2022,Water and sanitation,4.3431428512,0.0%,Norway
+2022,"Industry, construction & mining",4.303055152000001,0.0%,Norway
+2022,Reconstruction Relief & Rehabilitation,4.2707524288,0.0%,Norway
+2023,Infrastructure,3.9371744192,0.0%,Norway
+2021,Infrastructure,3.3255594407999993,0.0%,Norway
+2021,,3.2232387420000004,0.0%,Norway
+2021,Reconstruction Relief & Rehabilitation,3.2029033664,0.0%,Norway
+2023,Food aid and commodity assistance,2.8411992568,0.0%,Norway
+2022,Infrastructure,2.6633092704,0.0%,Norway
+2019,Water and sanitation,2.5766800612,0.0%,Norway
+2021,Water and sanitation,2.2898086228,0.0%,Norway
+2022,Disaster Prevention & Preparedness,1.9044055024000002,0.0%,Norway
+2023,Trade policy,1.8941322904,0.0%,Norway
+2023,Disaster Prevention & Preparedness,1.7615429807999998,0.0%,Norway
+2019,Reconstruction Relief & Rehabilitation,1.7141695952,0.0%,Norway
+2021,Disaster Prevention & Preparedness,1.6520523848000002,0.0%,Norway
+2021,Unspecified,1.4569787884,0.0%,Norway
+2020,Disaster Prevention & Preparedness,1.0473732616,0.0%,Norway
+2020,Infrastructure,0.5290178612,0.0%,Norway
+2019,Unspecified,0.32153346920000003,0.0%,Norway
+2023,Unspecified,0.314141848,0.0%,Norway
+2022,Unspecified,0.2833608084,0.0%,Norway
+2020,Unspecified,0.1665549628,0.0%,Norway
+2020,Tourism,0.009942268399999999,0.0%,Norway
+2021,Tourism,0.0074359660000000005,0.0%,Norway

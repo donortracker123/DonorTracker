@@ -1,32 +1,32 @@
-"Donor","Global health ODA as a % of total ODA from","Ranking"
-"United States","27.6%","1st"
-"Australia","18.1%","2nd"
-"Canada","18.0%","3rd"
-"Korea","15.4%","4th"
-"Slovak Republic","14.5%","5th"
-"Luxembourg","14.3%","6th"
-"Hungary","13.4%","7th"
-"United Kingdom","12.2%","8th"
-"New Zealand","12.2%","9th"
-"Japan","11.9%","10th"
-"Iceland","10.9%","11th"
-"Norway","10.6%","12th"
-"Spain","10.4%","13th"
-"Netherlands","10.3%","14th"
-"Germany","10.3%","15th"
-"Italy","10.1%","16th"
-"Greece","10.1%","17th"
-"Belgium"," 9.4%","18th"
-"Sweden"," 9.3%","19th"
-"France"," 9.1%","20th"
-"Portugal"," 8.2%","21st"
-"Denmark"," 7.0%","22nd"
-"Switzerland"," 6.5%","23rd"
-"Ireland"," 6.1%","24th"
-"Slovenia"," 6.0%","25th"
-"Finland"," 5.6%","26th"
-"Austria"," 5.0%","27th"
-"Lithuania"," 2.8%","28th"
-"Poland"," 2.0%","29th"
-"Estonia"," 1.5%","30th"
-"Czechia"," 1.2%","31th"
+donor,ODA to Health & populations as % of Total ODA,Year,Rank
+Hungary,27.0%,2023,1st
+United Kingdom,16.0%,2023,2nd
+United States,14.9%,2023,3rd
+Slovak Republic,13.8%,2023,4th
+Luxembourg,13.4%,2023,5th
+Australia,13.3%,2023,6th
+Korea,13.3%,2023,7th
+Canada,13.1%,2023,8th
+Iceland,11.0%,2023,9th
+France,9.9%,2023,10th
+Sweden,9.8%,2023,11th
+Netherlands,9.5%,2023,12th
+Belgium,9.5%,2023,13th
+Lithuania,9.2%,2023,14th
+Spain,8.4%,2023,15th
+Norway,7.8%,2023,16th
+Japan,7.1%,2023,17th
+Portugal,6.9%,2023,18th
+Italy,6.8%,2023,19th
+Finland,6.2%,2023,20th
+Switzerland,6.0%,2023,21st
+Greece,6.0%,2023,22nd
+Slovenia,5.8%,2023,23rd
+Ireland,5.7%,2023,24th
+New Zealand,5.5%,2023,25th
+Germany,5.1%,2023,26th
+Austria,5.0%,2023,27th
+Estonia,4.7%,2023,28th
+Denmark,4.6%,2023,29th
+Czechia,4.6%,2023,30th
+Poland,3.3%,2023,31st

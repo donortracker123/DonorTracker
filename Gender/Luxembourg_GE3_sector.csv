@@ -1,86 +1,73 @@
-"Year","Sector","Gender-related ODA to","Share","Donor"
-"2018","Education",40.59,"35%","Luxembourg"
-"2019","Education",37.09,"29%","Luxembourg"
-"2020","Education",2.23,"11%","Luxembourg"
-"2021","Education",37.24,"31%","Luxembourg"
-"2022","Education",29.23,"23%","Luxembourg"
-"2018","Agriculture (incl. forestry, fishing, rural development)",24.2,"21%","Luxembourg"
-"2019","Agriculture (incl. forestry, fishing, rural development)",29.06,"22%","Luxembourg"
-"2020","Agriculture (incl. forestry, fishing, rural development)",4.56,"23%","Luxembourg"
-"2021","Agriculture (incl. forestry, fishing, rural development)",25.35,"21%","Luxembourg"
-"2022","Agriculture (incl. forestry, fishing, rural development)",28.72,"22%","Luxembourg"
-"2018","Health & populations",13.78,"12%","Luxembourg"
-"2019","Health & populations",25.05,"19%","Luxembourg"
-"2020","Health & populations",2.1,"10%","Luxembourg"
-"2021","Health & populations",21.61,"18%","Luxembourg"
-"2022","Health & populations",21.27,"16%","Luxembourg"
-"2018","Water and sanitation",23.14,"20%","Luxembourg"
-"2019","Water and sanitation",21.56,"17%","Luxembourg"
-"2020","Water and sanitation",1.29,"6%","Luxembourg"
-"2021","Water and sanitation",14.45,"12%","Luxembourg"
-"2022","Water and sanitation",15.78,"12%","Luxembourg"
-"2018","Food aid and commodity assistance",0,"0%","Luxembourg"
-"2019","Food aid and commodity assistance",0,"0%","Luxembourg"
-"2020","Food aid and commodity assistance",0,"0%","Luxembourg"
-"2021","Food aid and commodity assistance",0,"0%","Luxembourg"
-"2022","Food aid and commodity assistance",14.44,"11%","Luxembourg"
-"2018","Other social services",0.31,"0%","Luxembourg"
-"2019","Other social services",2.02,"2%","Luxembourg"
-"2020","Other social services",2.74,"14%","Luxembourg"
-"2021","Other social services",8.96,"8%","Luxembourg"
-"2022","Other social services",8.83,"7%","Luxembourg"
-"2018","Government & civil society",10.68,"9%","Luxembourg"
-"2019","Government & civil society",12.65,"10%","Luxembourg"
-"2020","Government & civil society",6.19,"31%","Luxembourg"
-"2021","Government & civil society",8.97,"8%","Luxembourg"
-"2022","Government & civil society",6.95,"5%","Luxembourg"
-"2018","Financial services & business support",0.5,"0%","Luxembourg"
-"2019","Financial services & business support",0.04,"0%","Luxembourg"
-"2020","Financial services & business support",0.32,"2%","Luxembourg"
-"2021","Financial services & business support",0.59,"0%","Luxembourg"
-"2022","Financial services & business support",2.36,"2%","Luxembourg"
-"2018","Other multisector",0.47,"0%","Luxembourg"
-"2019","Other multisector",0.27,"0%","Luxembourg"
-"2020","Other multisector",0.39,"2%","Luxembourg"
-"2021","Other multisector",0.69,"1%","Luxembourg"
-"2022","Other multisector",0.75,"1%","Luxembourg"
-"2018","Energy",0.39,"0%","Luxembourg"
-"2019","Energy",1.94,"1%","Luxembourg"
-"2020","Energy",0,"0%","Luxembourg"
-"2021","Energy",0.88,"1%","Luxembourg"
-"2022","Energy",0.39,"0%","Luxembourg"
-"2018","Unspecified",0.23,"0%","Luxembourg"
-"2019","Unspecified",0,"0%","Luxembourg"
-"2020","Unspecified",0.04,"0%","Luxembourg"
-"2021","Unspecified",0.06,"0%","Luxembourg"
-"2022","Unspecified",0.28,"0%","Luxembourg"
-"2018","Humanitarian aid",0.12,"0%","Luxembourg"
-"2019","Humanitarian aid",0.27,"0%","Luxembourg"
-"2020","Humanitarian aid",0.25,"1%","Luxembourg"
-"2021","Humanitarian aid",0.26,"0%","Luxembourg"
-"2022","Humanitarian aid",0.21,"0%","Luxembourg"
-"2018","Conflict, peace & security",0.33,"0%","Luxembourg"
-"2019","Conflict, peace & security",0,"0%","Luxembourg"
-"2020","Conflict, peace & security",0,"0%","Luxembourg"
-"2021","Conflict, peace & security",0,"0%","Luxembourg"
-"2022","Conflict, peace & security",0.09,"0%","Luxembourg"
-"2018","Infrastructure",0,"0%","Luxembourg"
-"2019","Infrastructure",0,"0%","Luxembourg"
-"2020","Infrastructure",0,"0%","Luxembourg"
-"2021","Infrastructure",0,"0%","Luxembourg"
-"2022","Infrastructure",0.03,"0%","Luxembourg"
-"2018","Environmental protection",0,"0%","Luxembourg"
-"2019","Environmental protection",0,"0%","Luxembourg"
-"2020","Environmental protection",0,"0%","Luxembourg"
-"2021","Environmental protection",0,"0%","Luxembourg"
-"2022","Environmental protection",0,"0%","Luxembourg"
-"2018","Industry, construction & mining",0.01,"0%","Luxembourg"
-"2019","Industry, construction & mining",0.01,"0%","Luxembourg"
-"2020","Industry, construction & mining",0,"0%","Luxembourg"
-"2021","Industry, construction & mining",0,"0%","Luxembourg"
-"2022","Industry, construction & mining",0,"0%","Luxembourg"
-"2018","Tourism",0.52,"0%","Luxembourg"
-"2019","Tourism",0.1,"0%","Luxembourg"
-"2020","Tourism",0,"0%","Luxembourg"
-"2021","Tourism",0,"0%","Luxembourg"
-"2022","Tourism",0,"0%","Luxembourg"
+year,Sector,Gender-related ODA to,Share,donor
+2023,Education,40.754944611,30.0%,Luxembourg
+2021,Education,39.196476849,31.0%,Luxembourg
+2019,Education,38.46349806149999,29.0%,Luxembourg
+2022,"Agriculture (incl. forestry, fishing, rural development)",30.887493732000003,23.0%,Luxembourg
+2022,Education,30.713036589,23.0%,Luxembourg
+2019,"Agriculture (incl. forestry, fishing, rural development)",30.264552873000003,22.0%,Luxembourg
+2021,"Agriculture (incl. forestry, fishing, rural development)",27.339088448999988,22.0%,Luxembourg
+2023,"Agriculture (incl. forestry, fishing, rural development)",26.119337297999998,19.0%,Luxembourg
+2019,Health & populations,25.9770769455,19.0%,Luxembourg
+2021,Health & populations,22.745637691500004,18.0%,Luxembourg
+2019,Water and sanitation,22.358287644,17.0%,Luxembourg
+2022,Health & populations,22.347455818500002,16.0%,Luxembourg
+2023,Health & populations,20.851884864000002,16.0%,Luxembourg
+2023,Other social services,18.203073889499997,14.0%,Luxembourg
+2022,Water and sanitation,16.5767665125,12.0%,Luxembourg
+2021,Water and sanitation,15.211814958,12.0%,Luxembourg
+2022,Food aid and commodity assistance,15.175010824500001,11.0%,Luxembourg
+2019,Government & civil society,13.1176371375,10.0%,Luxembourg
+2023,Water and sanitation,11.5365049035,9.0%,Luxembourg
+2023,Government & civil society,11.177723949,8.0%,Luxembourg
+2021,Government & civil society,9.438171112500001,8.0%,Luxembourg
+2021,Other social services,9.428450443500001,8.0%,Luxembourg
+2022,Other social services,9.280279897500003,7.0%,Luxembourg
+2022,Government & civil society,7.297012659000001,5.0%,Luxembourg
+2020,Government & civil society,6.4139475,31.0%,Luxembourg
+2020,"Agriculture (incl. forestry, fishing, rural development)",4.890094993499997,23.0%,Luxembourg
+2020,Other social services,2.8440691455000002,14.0%,Luxembourg
+2022,Financial services & business support,2.476985166,2.0%,Luxembourg
+2020,Education,2.3106081479999996,11.0%,Luxembourg
+2020,Health & populations,2.1743772405,10.0%,Luxembourg
+2019,Other social services,2.0968113839999996,2.0%,Luxembourg
+2019,Energy,2.0088060059999995,1.0%,Luxembourg
+2023,Energy,1.9441638915000001,1.0%,Luxembourg
+2023,Financial services & business support,1.8795897615,1.0%,Luxembourg
+2020,Water and sanitation,1.3354317930000004,6.0%,Luxembourg
+2023,Food aid and commodity assistance,1.3197485490000003,1.0%,Luxembourg
+2021,Energy,0.9301405245000001,1.0%,Luxembourg
+2021,Financial services & business support,0.6256178880000002,0.0%,Luxembourg
+2022,Energy,0.4084809675,0.0%,Luxembourg
+2020,Financial services & business support,0.33352749899999995,2.0%,Luxembourg
+2022,Unspecified,0.294767418,0.0%,Luxembourg
+2020,Other multisector,0.2409515565,1.0%,Luxembourg
+2019,Disaster Prevention & Preparedness,0.1870966875,0.0%,Luxembourg
+2021,Disaster Prevention & Preparedness,0.15892881450000002,0.0%,Luxembourg
+2020,Disaster Prevention & Preparedness,0.15782434500000003,1.0%,Luxembourg
+2019,Other multisector,0.155577513,0.0%,Luxembourg
+2022,Disaster Prevention & Preparedness,0.15230757,0.0%,Luxembourg
+2023,Disaster Prevention & Preparedness,0.13280047650000001,0.0%,Luxembourg
+2019,Tourism,0.10698419849999999,0.0%,Luxembourg
+2019,Reconstruction Relief & Rehabilitation,0.097081866,0.0%,Luxembourg
+2022,"Conflict, peace & security",0.096613776,0.0%,Luxembourg
+2022,Other multisector,0.0789946455,0.0%,Luxembourg
+2023,Other multisector,0.0769551105,0.0%,Luxembourg
+2021,Reconstruction Relief & Rehabilitation,0.07094461199999999,0.0%,Luxembourg
+2023,"Conflict, peace & security",0.068113782,0.0%,Luxembourg
+2022,Reconstruction Relief & Rehabilitation,0.06799007250000001,0.0%,Luxembourg
+2021,Unspecified,0.066718428,0.0%,Luxembourg
+2021,Other multisector,0.0634473705,0.0%,Luxembourg
+2020,Reconstruction Relief & Rehabilitation,0.06122282850000001,0.0%,Luxembourg
+2023,Reconstruction Relief & Rehabilitation,0.0592813695,0.0%,Luxembourg
+2023,Infrastructure,0.051146634,0.0%,Luxembourg
+2019,Financial services & business support,0.04326711899999999,0.0%,Luxembourg
+2021,Emergency Response,0.042395579999999995,0.0%,Luxembourg
+2020,Unspecified,0.03868206600000001,0.0%,Luxembourg
+2020,Emergency Response,0.0380523735,0.0%,Luxembourg
+2023,,0.035360855999999996,0.0%,Luxembourg
+2022,Infrastructure,0.0328253685,0.0%,Luxembourg
+2023,"Industry, construction & mining",0.0124277895,0.0%,Luxembourg
+2019,"Industry, construction & mining",0.006972312,0.0%,Luxembourg
+2021,"Industry, construction & mining",0.0034237440000000007,0.0%,Luxembourg
+2023,Environmental protection,0.002380572,0.0%,Luxembourg
+2022,Environmental protection,0.0016750935,0.0%,Luxembourg

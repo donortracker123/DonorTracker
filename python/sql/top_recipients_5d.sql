@@ -36,13 +36,13 @@ transformed AS (
 )
 
 SELECT 
-    t.donor_name AS donor,
-    t.year,
+    t.year AS year,
     t.recipient_name AS "Recipient country",
-    round(t.share,1) || '%' AS share,
     (t.grants / 100) * dfl.deflator AS "ODA Grants",
     (t.loans / 100) * dfl.deflator AS "ODA Loans",
+    round(t.share,1) || '%' AS share,
+    t.donor_name AS donor,
 FROM transformed t
 LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = t.donor_name AND dfl.year = {{latest_year}}
 QUALIFY row_number() OVER (PARTITION BY t.donor_name, t.year ORDER BY share DESC) <= 20
-ORDER BY 1, 2 DESC, 5 DESC
+ORDER BY donor, year DESC, t.share DESC

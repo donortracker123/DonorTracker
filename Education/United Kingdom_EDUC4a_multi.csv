@@ -1,86 +1,62 @@
-"Year","Multi_short","ODA","Share","Full Name","Donor"
-"2018","EC - Development Share of Budget","112.3","7.6%","european commission development share of budget","United Kingdom"
-"2019","EC - Development Share of Budget","111","7.8%","european commission development share of budget","United Kingdom"
-"2020","EC - Development Share of Budget","118.1","11.6%","european commission development share of budget","United Kingdom"
-"2021","EC - Development Share of Budget","64.6","8.2%","european commission development share of budget","United Kingdom"
-"2022","EC - Development Share of Budget","48","8.6%","european commission development share of budget","United Kingdom"
-"2018","IDA","258.6","17.5%","international development association","United Kingdom"
-"2019","IDA","84.6","5.9%","international development association","United Kingdom"
-"2020","IDA","85.6","8.4%","international development association","United Kingdom"
-"2021","IDA","75.3","9.5%","international development association","United Kingdom"
-"2022","IDA","18.2","3.3%","international development association","United Kingdom"
-"2018","UNRWA","40.5","2.7%","united nations relief and works agency for palestine refugees in the near east","United Kingdom"
-"2019","UNRWA","40.1","2.8%","united nations relief and works agency for palestine refugees in the near east","United Kingdom"
-"2020","UNRWA","35.2","3.5%","united nations relief and works agency for palestine refugees in the near east","United Kingdom"
-"2021","UNRWA","9","1.1%","united nations relief and works agency for palestine refugees in the near east","United Kingdom"
-"2022","UNRWA","10.3","1.8%","united nations relief and works agency for palestine refugees in the near east","United Kingdom"
-"2018","African Development Fund","12.6","0.9%","african development fund","United Kingdom"
-"2019","African Development Fund","12.1","0.8%","african development fund","United Kingdom"
-"2020","African Development Fund","8","0.8%","african development fund","United Kingdom"
-"2021","African Development Fund","4.3","0.5%","african development fund","United Kingdom"
-"2022","African Development Fund","4.6","0.8%","african development fund","United Kingdom"
-"2018","IBRD","2.4","0.2%","international bank for reconstruction and development","United Kingdom"
-"2019","IBRD","4.7","0.3%","international bank for reconstruction and development","United Kingdom"
-"2020","IBRD","3.5","0.3%","international bank for reconstruction and development","United Kingdom"
-"2021","IBRD","2.6","0.3%","international bank for reconstruction and development","United Kingdom"
-"2022","IBRD","2.7","0.5%","international bank for reconstruction and development","United Kingdom"
-"2018","UNICEF","4.2","0.3%","united nations childrenâ€™s fund","United Kingdom"
-"2019","UNICEF","4.4","0.3%","united nations childrenâ€™s fund","United Kingdom"
-"2020","UNICEF","4.5","0.4%","united nations childrenâ€™s fund","United Kingdom"
-"2021","UNICEF","2.5","0.3%","united nations childrenâ€™s fund","United Kingdom"
-"2022","UNICEF","0.8","0.1%","united nations childrenâ€™s fund","United Kingdom"
-"2018","UNFPA","1.3","0.1%","united nations population fund","United Kingdom"
-"2019","UNFPA","1.4","0.1%","united nations population fund","United Kingdom"
-"2020","UNFPA","1.4","0.1%","united nations population fund","United Kingdom"
-"2021","UNFPA","0.5","0.1%","united nations population fund","United Kingdom"
-"2022","UNFPA","0.6","0.1%","united nations population fund","United Kingdom"
-"2018","AfDB","0.3","0%","african development bank","United Kingdom"
-"2019","AfDB","0","0%","african development bank","United Kingdom"
-"2020","AfDB","0.5","0%","african development bank","United Kingdom"
-"2021","AfDB","0.1","0%","african development bank","United Kingdom"
-"2022","AfDB","0.2","0%","african development bank","United Kingdom"
-"2018","CDB","0","0%","caribbean development bank","United Kingdom"
-"2019","CDB","0","0%","caribbean development bank","United Kingdom"
-"2020","CDB","0","0%","caribbean development bank","United Kingdom"
-"2021","CDB","0","0%","caribbean development bank","United Kingdom"
-"2022","CDB","0","0%","caribbean development bank","United Kingdom"
-"2018","FAO","0","0%","food and agricultural organisation","United Kingdom"
-"2019","FAO","0","0%","food and agricultural organisation","United Kingdom"
-"2020","FAO","0","0%","food and agricultural organisation","United Kingdom"
-"2021","FAO","0","0%","food and agricultural organisation","United Kingdom"
-"2022","FAO","0","0%","food and agricultural organisation","United Kingdom"
-"2018","Adaptation Fund","0","0%","adaptation fund","United Kingdom"
-"2019","Adaptation Fund","0","0%","adaptation fund","United Kingdom"
-"2020","Adaptation Fund","0","0%","adaptation fund","United Kingdom"
-"2021","Adaptation Fund","0","0%","adaptation fund","United Kingdom"
-"2022","Adaptation Fund","0","0%","adaptation fund","United Kingdom"
-"2018","UN","0","0%","united nations","United Kingdom"
-"2019","UN","0","0%","united nations","United Kingdom"
-"2020","UN","0","0%","united nations","United Kingdom"
-"2021","UN","0","0%","united nations","United Kingdom"
-"2022","UN","0","0%","united nations","United Kingdom"
-"2018","UNDP","0","0%","united nations development programme","United Kingdom"
-"2019","UNDP","0","0%","united nations development programme","United Kingdom"
-"2020","UNDP","0","0%","united nations development programme","United Kingdom"
-"2021","UNDP","0","0%","united nations development programme","United Kingdom"
-"2022","UNDP","0","0%","united nations development programme","United Kingdom"
-"2018","WFP","2.7","0.2%","world food programme","United Kingdom"
-"2019","WFP","1.1","0.1%","world food programme","United Kingdom"
-"2020","WFP","0","0%","world food programme","United Kingdom"
-"2021","WFP","0","0%","world food programme","United Kingdom"
-"2022","WFP","0","0%","world food programme","United Kingdom"
-"2018","IDB, IIC and MIF","0","0%","inter american development bank inter american investment corporation and multilateral investment fund","United Kingdom"
-"2019","IDB, IIC and MIF","0","0%","inter american development bank inter american investment corporation and multilateral investment fund","United Kingdom"
-"2020","IDB, IIC and MIF","0","0%","inter american development bank inter american investment corporation and multilateral investment fund","United Kingdom"
-"2021","IDB, IIC and MIF","0","0%","inter american development bank inter american investment corporation and multilateral investment fund","United Kingdom"
-"2022","IDB, IIC and MIF","0","0%","inter american development bank inter american investment corporation and multilateral investment fund","United Kingdom"
-"2018","Strategic Climate Fund","0","0%","strategic climate fund","United Kingdom"
-"2019","Strategic Climate Fund","0","0%","strategic climate fund","United Kingdom"
-"2020","Strategic Climate Fund","0","0%","strategic climate fund","United Kingdom"
-"2021","Strategic Climate Fund","0","0%","strategic climate fund","United Kingdom"
-"2022","Strategic Climate Fund","0","0%","strategic climate fund","United Kingdom"
-"2018","IFC","0","0%","international finance corporation","United Kingdom"
-"2019","IFC","0","0%","international finance corporation","United Kingdom"
-"2020","IFC","0","0%","international finance corporation","United Kingdom"
-"2021","IFC","0","0%","international finance corporation","United Kingdom"
-"2022","IFC","0","0%","international finance corporation","United Kingdom"
+Year,ODA,Share,Full Name,donor
+2019,0.0337,9.934289245822368e-05,united nations development programme,United Kingdom
+2019,0.0326,9.610024611685731e-05,inter american development bank inter american investment corporation and multilateral investment fund,United Kingdom
+2019,0.0348,0.00010258553879959002,food and agricultural organisation,United Kingdom
+2019,1.3864,0.004086913534245736,united nations population fund,United Kingdom
+2019,63.3382,0.18671216590793657,european commission european development fund,United Kingdom
+2019,40.367,0.11899627714721409,united nations relief and works agency for palestine refugees in the near east,United Kingdom
+2019,12.1729,0.035884008771653146,african development fund,United Kingdom
+2019,4.7734,0.014071316405343764,international bank for reconstruction and development,United Kingdom
+2019,126.38399999999999,0.37256237746113174,european commission development share of budget,United Kingdom
+2019,1.0815,0.00318811092562519,world food programme,United Kingdom
+2019,85.1705,0.25107073656122075,international development association,United Kingdom
+2019,4.4541,0.013130064608254425,united nations children’s fund,United Kingdom
+2020,132.1902,0.4398734587897525,european commission development share of budget,United Kingdom
+2020,0.0306,0.00010182394639668013,united nations development programme,United Kingdom
+2020,1.3956,0.004643970574876039,united nations population fund,United Kingdom
+2020,0.0362,0.00012045839410326213,food and agricultural organisation,United Kingdom
+2020,86.8655,0.2890518959385888,international development association,United Kingdom
+2020,27.593,0.09181791349423513,european commission european development fund,United Kingdom
+2020,8.1316,0.027058549101936086,african development fund,United Kingdom
+2020,0.0215,7.15429688734844e-05,inter american development bank inter american investment corporation and multilateral investment fund,United Kingdom
+2020,0.5043,0.0016780985675766598,african development bank,United Kingdom
+2020,3.5108,0.011682467680047864,international bank for reconstruction and development,United Kingdom
+2020,35.7247,0.11887679535416597,united nations relief and works agency for palestine refugees in the near east,United Kingdom
+2020,4.5146999999999995,0.015023025189447443,united nations children’s fund,United Kingdom
+2021,4.3872,0.02164677740706421,african development fund,United Kingdom
+2021,2.643,0.013040762373922024,international bank for reconstruction and development,United Kingdom
+2021,0.0162,7.993202817159924e-05,inter american development bank inter american investment corporation and multilateral investment fund,United Kingdom
+2021,0.0051,2.516378664661458e-05,united nations development programme,United Kingdom
+2021,2.5198,0.012432884233752826,united nations children’s fund,United Kingdom
+2021,0.5349,0.002639237152406694,united nations population fund,United Kingdom
+2021,0.0109,5.3781426362372334e-05,caribbean development bank,United Kingdom
+2021,0.1492,0.000736164111308803,african development bank,United Kingdom
+2021,0.0354,0.00017466628378238355,food and agricultural organisation,United Kingdom
+2021,76.78380000000001,0.3788570904149656,international development association,United Kingdom
+2021,31.6567,0.15619655779134975,european commission european development fund,United Kingdom
+2021,74.7173,0.3686608227472736,european commission development share of budget,United Kingdom
+2021,9.2127,0.04545616024299336,united nations relief and works agency for palestine refugees in the near east,United Kingdom
+2022,0.0109,0.00010931438818040685,caribbean development bank,United Kingdom
+2022,0.0038,3.810960321885743e-05,adaptation fund,United Kingdom
+2022,0.585,0.005866873127113578,united nations population fund,United Kingdom
+2022,0.0073,7.32105535520156e-05,food and agricultural organisation,United Kingdom
+2022,18.459600000000002,0.18512842936284757,international development association,United Kingdom
+2022,4.7158,0.04729401759460207,african development fund,United Kingdom
+2022,2.7260999999999997,0.027339628772349273,international bank for reconstruction and development,United Kingdom
+2022,52.38150000000002,0.5253258371075213,european commission development share of budget,United Kingdom
+2022,0.2041,0.0020468868465707375,african development bank,United Kingdom
+2022,0.7812,0.007834532114360903,united nations children’s fund,United Kingdom
+2022,9.401,0.09428115259486282,european commission european development fund,United Kingdom
+2022,10.4361,0.10466200793482054,united nations relief and works agency for palestine refugees in the near east,United Kingdom
+2023,0.7996,0.003035715980599664,african development bank,United Kingdom
+2023,2.2836999999999996,0.008670165814026328,african development fund,United Kingdom
+2023,2.1868,0.008302280773355859,international bank for reconstruction and development,United Kingdom
+2023,3.5831,0.013603394109663153,united nations children’s fund,United Kingdom
+2023,0.8332000000000002,0.0031632798337114065,european commission european development fund,United Kingdom
+2023,12.7223,0.048300762156056914,united nations relief and works agency for palestine refugees in the near east,United Kingdom
+2023,0.5627,0.002136314885296937,united nations population fund,United Kingdom
+2023,0.122,0.00046317827617953856,united nations development programme,United Kingdom
+2023,0.0075,2.84740743552995e-05,food and agricultural organisation,United Kingdom
+2023,41.162499999999994,0.15627521142000209,european commission development share of budget,United Kingdom
+2023,0.0562,0.0002133657305023776,united nations,United Kingdom
+2023,199.07789999999997,0.7558078569462504,international development association,United Kingdom

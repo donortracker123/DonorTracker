@@ -1,91 +1,113 @@
-"Year","Sector","Gender-related ODA to","Share","Donor"
-"2018","Health & populations",601.39,"22%","Canada"
-"2019","Health & populations",549.48,"22%","Canada"
-"2020","Health & populations",510.37,"17%","Canada"
-"2021","Health & populations",1223.78,"33%","Canada"
-"2022","Health & populations",1015.02,"29%","Canada"
-"2018","Humanitarian aid",697.23,"26%","Canada"
-"2019","Humanitarian aid",621.8,"25%","Canada"
-"2020","Humanitarian aid",643.87,"21%","Canada"
-"2021","Humanitarian aid",765.3,"20%","Canada"
-"2022","Humanitarian aid",928.95,"27%","Canada"
-"2018","Government & civil society",251.31,"9%","Canada"
-"2019","Government & civil society",334.19,"13%","Canada"
-"2020","Government & civil society",615.07,"20%","Canada"
-"2021","Government & civil society",338.66,"9%","Canada"
-"2022","Government & civil society",323.4,"9%","Canada"
-"2018","Energy",223.53,"8%","Canada"
-"2019","Energy",101.95,"4%","Canada"
-"2020","Energy",233.64,"8%","Canada"
-"2021","Energy",296.27,"8%","Canada"
-"2022","Energy",315.19,"9%","Canada"
-"2018","Education",237.99,"9%","Canada"
-"2019","Education",304.56,"12%","Canada"
-"2020","Education",336.04,"11%","Canada"
-"2021","Education",270.48,"7%","Canada"
-"2022","Education",261.96,"8%","Canada"
-"2018","Agriculture (incl. forestry, fishing, rural development)",209.6,"8%","Canada"
-"2019","Agriculture (incl. forestry, fishing, rural development)",156.54,"6%","Canada"
-"2020","Agriculture (incl. forestry, fishing, rural development)",319.71,"10%","Canada"
-"2021","Agriculture (incl. forestry, fishing, rural development)",345.14,"9%","Canada"
-"2022","Agriculture (incl. forestry, fishing, rural development)",252.14,"7%","Canada"
-"2018","Conflict, peace & security",86.49,"3%","Canada"
-"2019","Conflict, peace & security",85.09,"3%","Canada"
-"2020","Conflict, peace & security",96.84,"3%","Canada"
-"2021","Conflict, peace & security",87.46,"2%","Canada"
-"2022","Conflict, peace & security",83.92,"2%","Canada"
-"2018","Other multisector",70.29,"3%","Canada"
-"2019","Other multisector",27.63,"1%","Canada"
-"2020","Other multisector",69.62,"2%","Canada"
-"2021","Other multisector",64.93,"2%","Canada"
-"2022","Other multisector",54.47,"2%","Canada"
-"2018","Financial services & business support",104.82,"4%","Canada"
-"2019","Financial services & business support",68.51,"3%","Canada"
-"2020","Financial services & business support",64,"2%","Canada"
-"2021","Financial services & business support",133.41,"4%","Canada"
-"2022","Financial services & business support",54.21,"2%","Canada"
-"2018","Other social services",64.94,"2%","Canada"
-"2019","Other social services",55.01,"2%","Canada"
-"2020","Other social services",27.47,"1%","Canada"
-"2021","Other social services",65.81,"2%","Canada"
-"2022","Other social services",51.6,"1%","Canada"
-"2018","Industry, construction & mining",65.87,"2%","Canada"
-"2019","Industry, construction & mining",57.84,"2%","Canada"
-"2020","Industry, construction & mining",50.84,"2%","Canada"
-"2021","Industry, construction & mining",34.23,"1%","Canada"
-"2022","Industry, construction & mining",34.1,"1%","Canada"
-"2018","Water and sanitation",39.25,"1%","Canada"
-"2019","Water and sanitation",27.78,"1%","Canada"
-"2020","Water and sanitation",27.07,"1%","Canada"
-"2021","Water and sanitation",45.76,"1%","Canada"
-"2022","Water and sanitation",33.57,"1%","Canada"
-"2018","Environmental protection",19.77,"1%","Canada"
-"2019","Environmental protection",109.51,"4%","Canada"
-"2020","Environmental protection",36.64,"1%","Canada"
-"2021","Environmental protection",54.61,"1%","Canada"
-"2022","Environmental protection",29.5,"1%","Canada"
-"2018","Food aid and commodity assistance",15.93,"1%","Canada"
-"2019","Food aid and commodity assistance",5.77,"0%","Canada"
-"2020","Food aid and commodity assistance",21.43,"1%","Canada"
-"2021","Food aid and commodity assistance",14.73,"0%","Canada"
-"2022","Food aid and commodity assistance",12.04,"0%","Canada"
-"2018","Unspecified",16.63,"1%","Canada"
-"2019","Unspecified",7.35,"0%","Canada"
-"2020","Unspecified",8.28,"0%","Canada"
-"2021","Unspecified",7.07,"0%","Canada"
-"2022","Unspecified",9.17,"0%","Canada"
-"2018","Trade policy",7.48,"0%","Canada"
-"2019","Trade policy",7.91,"0%","Canada"
-"2020","Trade policy",5.25,"0%","Canada"
-"2021","Trade policy",7.61,"0%","Canada"
-"2022","Trade policy",5.35,"0%","Canada"
-"2018","Infrastructure",6.51,"0%","Canada"
-"2019","Infrastructure",5.76,"0%","Canada"
-"2020","Infrastructure",10.48,"0%","Canada"
-"2021","Infrastructure",7.4,"0%","Canada"
-"2022","Infrastructure",3.87,"0%","Canada"
-"2018","Tourism",1.28,"0%","Canada"
-"2019","Tourism",0.7,"0%","Canada"
-"2020","Tourism",0.91,"0%","Canada"
-"2021","Tourism",1.45,"0%","Canada"
-"2022","Tourism",2.09,"0%","Canada"
+year,Sector,Gender-related ODA to,Share,donor
+2021,Health & populations,1233.8127354391947,32.0%,Canada
+2022,Health & populations,1033.5361410504988,29.0%,Canada
+2022,Emergency Response,938.657029069402,26.0%,Canada
+2021,Emergency Response,760.0424842678999,20.0%,Canada
+2023,Health & populations,653.6587458275033,24.0%,Canada
+2023,Emergency Response,647.8534500412993,24.0%,Canada
+2020,Emergency Response,638.0152671686004,20.0%,Canada
+2020,Government & civil society,620.5941476281009,20.0%,Canada
+2019,Emergency Response,604.0283252543007,24.0%,Canada
+2019,Health & populations,553.6723787132973,22.0%,Canada
+2020,Health & populations,514.9518622023999,16.0%,Canada
+2021,"Agriculture (incl. forestry, fishing, rural development)",388.17766432229945,10.0%,Canada
+2020,"Agriculture (incl. forestry, fishing, rural development)",374.34430084329995,12.0%,Canada
+2023,Government & civil society,342.8080857787001,13.0%,Canada
+2021,Government & civil society,341.43892818469953,9.0%,Canada
+2019,Government & civil society,336.74599505180026,13.0%,Canada
+2020,Education,333.9415904815996,11.0%,Canada
+2022,Government & civil society,329.2991273444989,9.0%,Canada
+2022,Energy,320.9409135643002,9.0%,Canada
+2023,Education,320.226856007898,12.0%,Canada
+2019,Education,300.50637565360023,12.0%,Canada
+2021,Energy,291.07890978139994,8.0%,Canada
+2022,"Agriculture (incl. forestry, fishing, rural development)",284.4966803995986,8.0%,Canada
+2021,Education,264.28968331120006,7.0%,Canada
+2022,Education,263.1102174610993,7.0%,Canada
+2023,"Agriculture (incl. forestry, fishing, rural development)",253.2112076657994,9.0%,Canada
+2020,Energy,235.73521321249996,8.0%,Canada
+2019,"Agriculture (incl. forestry, fishing, rural development)",166.50149284419987,7.0%,Canada
+2021,Financial services & business support,134.49913500750012,4.0%,Canada
+2019,Environmental protection,110.34589974980003,4.0%,Canada
+2023,"Conflict, peace & security",107.69050346169975,4.0%,Canada
+2019,Energy,102.72785267040001,4.0%,Canada
+2020,"Conflict, peace & security",97.7055694606,3.0%,Canada
+2021,"Conflict, peace & security",88.1796668789,2.0%,Canada
+2023,Environmental protection,87.83718800060024,3.0%,Canada
+2019,"Conflict, peace & security",85.74040844059999,3.0%,Canada
+2022,"Conflict, peace & security",85.44880781869992,2.0%,Canada
+2019,Financial services & business support,69.03679518420003,3.0%,Canada
+2021,Other social services,66.35235379150006,2.0%,Canada
+2020,Financial services & business support,64.57178280990001,2.0%,Canada
+2019,"Industry, construction & mining",58.280759463200006,2.0%,Canada
+2019,Other social services,55.43230572299999,2.0%,Canada
+2022,Financial services & business support,55.20031310210008,2.0%,Canada
+2021,Environmental protection,55.055512443599994,1.0%,Canada
+2022,Other social services,52.53778592730007,1.0%,Canada
+2020,"Industry, construction & mining",51.29865054410001,2.0%,Canada
+2023,Financial services & business support,46.96932914740009,2.0%,Canada
+2021,Water and sanitation,46.13039658919999,1.0%,Canada
+2020,Environmental protection,36.96983254930001,1.0%,Canada
+2022,"Industry, construction & mining",34.72677849050006,1.0%,Canada
+2021,"Industry, construction & mining",34.50739701999997,1.0%,Canada
+2023,Other social services,34.23752406629997,1.0%,Canada
+2022,Water and sanitation,34.18480473040007,1.0%,Canada
+2022,Environmental protection,30.035244968699995,1.0%,Canada
+2019,Water and sanitation,27.99606726790001,1.0%,Canada
+2020,Other social services,27.71394161269999,1.0%,Canada
+2022,Other multisector,27.69942980410003,1.0%,Canada
+2020,Water and sanitation,27.3125081457,1.0%,Canada
+2023,"Industry, construction & mining",27.021002263699906,1.0%,Canada
+2021,Other multisector,25.255874862500015,1.0%,Canada
+2023,Energy,23.942889238900076,1.0%,Canada
+2023,Water and sanitation,22.70112653270003,1.0%,Canada
+2023,Reconstruction Relief & Rehabilitation,22.0681624239,1.0%,Canada
+2020,Food aid and commodity assistance,21.6190601367,1.0%,Canada
+2023,Food aid and commodity assistance,21.016833753599997,1.0%,Canada
+2023,Other multisector,20.44136016020002,1.0%,Canada
+2019,Other multisector,19.073404883899997,1.0%,Canada
+2020,Other multisector,18.4781736262,1.0%,Canada
+2023,Unspecified,17.137888260900027,1.0%,Canada
+2021,,16.027519052300004,0.0%,Canada
+2022,Unspecified,15.038246969899998,0.0%,Canada
+2021,Food aid and commodity assistance,14.847458391900002,0.0%,Canada
+2020,General budget support,13.048230486900001,0.0%,Canada
+2019,Disaster Prevention & Preparedness,12.368777411499998,0.0%,Canada
+2020,Unspecified,12.3411094539,0.0%,Canada
+2022,Food aid and commodity assistance,12.263099448199998,0.0%,Canada
+2019,Unspecified,11.929841594600001,0.0%,Canada
+2021,Unspecified,10.763201768900002,0.0%,Canada
+2020,Infrastructure,10.571283149,0.0%,Canada
+2023,Disaster Prevention & Preparedness,10.530067385699997,0.0%,Canada
+2023,Trade policy,10.52358307439996,0.0%,Canada
+2019,Reconstruction Relief & Rehabilitation,10.1477674717,0.0%,Canada
+2022,Refugees in donor countries,8.8215885845,0.0%,Canada
+2021,General budget support,8.0430434339,0.0%,Canada
+2019,Trade policy,7.968783956200003,0.0%,Canada
+2021,Trade policy,7.675215283800003,0.0%,Canada
+2021,Disaster Prevention & Preparedness,7.5454518985000005,0.0%,Canada
+2020,Reconstruction Relief & Rehabilitation,7.5094663637,0.0%,Canada
+2022,General budget support,7.5032633419999994,0.0%,Canada
+2021,Infrastructure,7.461175385600008,0.0%,Canada
+2023,General budget support,7.411365638999999,0.0%,Canada
+2023,,6.876335239200001,0.0%,Canada
+2019,,6.3821650839,0.0%,Canada
+2019,Food aid and commodity assistance,5.8107262382,0.0%,Canada
+2019,Infrastructure,5.808702515800001,0.0%,Canada
+2023,Infrastructure,5.60352324,0.0%,Canada
+2022,Trade policy,5.446703311299983,0.0%,Canada
+2020,Trade policy,5.2998808838,0.0%,Canada
+2020,,5.120583181300001,0.0%,Canada
+2019,General budget support,4.3761785792,0.0%,Canada
+2022,Disaster Prevention & Preparedness,4.202280074299999,0.0%,Canada
+2020,Disaster Prevention & Preparedness,4.123584425200001,0.0%,Canada
+2021,Reconstruction Relief & Rehabilitation,3.9887656406999996,0.0%,Canada
+2022,Infrastructure,3.9363666623999967,0.0%,Canada
+2022,,3.6284268261999992,0.0%,Canada
+2022,Reconstruction Relief & Rehabilitation,3.0310458517999996,0.0%,Canada
+2022,Tourism,2.1276862547999995,0.0%,Canada
+2023,Tourism,1.9047163884999994,0.0%,Canada
+2021,Tourism,1.4662357138000002,0.0%,Canada
+2020,Tourism,0.9201891147000001,0.0%,Canada
+2019,Tourism,0.7038109966999999,0.0%,Canada
+2023,Donor administration costs,0.5706731129000001,0.0%,Canada

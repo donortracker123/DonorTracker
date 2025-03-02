@@ -1,71 +1,43 @@
-"Year","Multi_short","ODA","Share","Full Name","Donor"
-"2018","EC - Development Share of Budget","6.7","82.3%","european commission development share of budget","Slovak Republic"
-"2019","EC - Development Share of Budget","6.2","74.9%","european commission development share of budget","Slovak Republic"
-"2020","EC - Development Share of Budget","6.1","81.7%","european commission development share of budget","Slovak Republic"
-"2021","EC - Development Share of Budget","6.9","82.2%","european commission development share of budget","Slovak Republic"
-"2022","EC - Development Share of Budget","8.1","75.2%","european commission development share of budget","Slovak Republic"
-"2018","IFC","NA","NA%","international finance corporation","Slovak Republic"
-"2019","IFC","NA","NA%","international finance corporation","Slovak Republic"
-"2020","IFC","NA","NA%","international finance corporation","Slovak Republic"
-"2021","IFC","0","0%","international finance corporation","Slovak Republic"
-"2022","IFC","1.1","10.5%","international finance corporation","Slovak Republic"
-"2018","GCF","NA","NA%","green climate fund","Slovak Republic"
-"2019","GCF","0.3","3.9%","green climate fund","Slovak Republic"
-"2020","GCF","NA","NA%","green climate fund","Slovak Republic"
-"2021","GCF","0.2","2.9%","green climate fund","Slovak Republic"
-"2022","GCF","0.5","4.7%","green climate fund","Slovak Republic"
-"2018","FAO","0.6","7%","food and agricultural organisation","Slovak Republic"
-"2019","FAO","0.3","3.3%","food and agricultural organisation","Slovak Republic"
-"2020","FAO","0.4","5.6%","food and agricultural organisation","Slovak Republic"
-"2021","FAO","0.4","5%","food and agricultural organisation","Slovak Republic"
-"2022","FAO","0.4","3.6%","food and agricultural organisation","Slovak Republic"
-"2018","IBRD","NA","NA%","international bank for reconstruction and development","Slovak Republic"
-"2019","IBRD","0.2","2.6%","international bank for reconstruction and development","Slovak Republic"
-"2020","IBRD","0.2","2.5%","international bank for reconstruction and development","Slovak Republic"
-"2021","IBRD","0.2","2.1%","international bank for reconstruction and development","Slovak Republic"
-"2022","IBRD","0.2","1.8%","international bank for reconstruction and development","Slovak Republic"
-"2018","WTO - international trade centre","NA","NA%","world trade organisation international trade centre","Slovak Republic"
-"2019","WTO - international trade centre","NA","NA%","world trade organisation international trade centre","Slovak Republic"
-"2020","WTO - international trade centre","0","0.3%","world trade organisation international trade centre","Slovak Republic"
-"2021","WTO - international trade centre","0","0.2%","world trade organisation international trade centre","Slovak Republic"
-"2022","WTO - international trade centre","0","0.1%","world trade organisation international trade centre","Slovak Republic"
-"2018","WHO - assessed contributions","NA","NA%","world health organisation assessed contributions","Slovak Republic"
-"2019","WHO - assessed contributions","NA","NA%","world health organisation assessed contributions","Slovak Republic"
-"2020","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Slovak Republic"
-"2021","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Slovak Republic"
-"2022","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Slovak Republic"
-"2018","UNDP","0","0%","united nations development programme","Slovak Republic"
-"2019","UNDP","0","0%","united nations development programme","Slovak Republic"
-"2020","UNDP","NA","NA%","united nations development programme","Slovak Republic"
-"2021","UNDP","0","0%","united nations development programme","Slovak Republic"
-"2022","UNDP","0","0%","united nations development programme","Slovak Republic"
-"2018","UN","NA","NA%","united nations","Slovak Republic"
-"2019","UN","NA","NA%","united nations","Slovak Republic"
-"2020","UN","NA","NA%","united nations","Slovak Republic"
-"2021","UN","NA","NA%","united nations","Slovak Republic"
-"2022","UN","0","0%","united nations","Slovak Republic"
-"2018","EIB","NA","NA%","european investment bank","Slovak Republic"
-"2019","EIB","NA","NA%","european investment bank","Slovak Republic"
-"2020","EIB","NA","NA%","european investment bank","Slovak Republic"
-"2021","EIB","NA","NA%","european investment bank","Slovak Republic"
-"2022","EIB","NA","NA%","european investment bank","Slovak Republic"
-"2018","WFP","0","0%","world food programme","Slovak Republic"
-"2019","WFP","0","0%","world food programme","Slovak Republic"
-"2020","WFP","NA","NA%","world food programme","Slovak Republic"
-"2021","WFP","NA","NA%","world food programme","Slovak Republic"
-"2022","WFP","NA","NA%","world food programme","Slovak Republic"
-"2018","IDA","0.7","9%","international development association","Slovak Republic"
-"2019","IDA","NA","NA%","international development association","Slovak Republic"
-"2020","IDA","NA","NA%","international development association","Slovak Republic"
-"2021","IDA","NA","NA%","international development association","Slovak Republic"
-"2022","IDA","NA","NA%","international development association","Slovak Republic"
-"2018","UNICEF","0","0%","united nations childrenâ€™s fund","Slovak Republic"
-"2019","UNICEF","0","0%","united nations childrenâ€™s fund","Slovak Republic"
-"2020","UNICEF","0","0%","united nations childrenâ€™s fund","Slovak Republic"
-"2021","UNICEF","0","0%","united nations childrenâ€™s fund","Slovak Republic"
-"2022","UNICEF","NA","NA%","united nations childrenâ€™s fund","Slovak Republic"
-"2018","WHO - core voluntary contributions","NA","NA%","world health organisation core voluntary contributions account","Slovak Republic"
-"2019","WHO - core voluntary contributions","NA","NA%","world health organisation core voluntary contributions account","Slovak Republic"
-"2020","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Slovak Republic"
-"2021","WHO - core voluntary contributions","NA","NA%","world health organisation core voluntary contributions account","Slovak Republic"
-"2022","WHO - core voluntary contributions","NA","NA%","world health organisation core voluntary contributions account","Slovak Republic"
+Year,ODA,Share,Full Name,donor
+2019,3.139599999999999,0.33915589115381695,european commission european development fund,Slovak Republic
+2019,0.0,0.0,world food programme,Slovak Republic
+2019,0.2278,0.024608138617925702,international bank for reconstruction and development,Slovak Republic
+2019,0.0,0.0,united nations children’s fund,Slovak Republic
+2019,0.3431,0.03706344319495307,green climate fund,Slovak Republic
+2019,5.2556,0.5677371963141805,european commission development share of budget,Slovak Republic
+2019,0.0002,2.160503829493038e-05,united nations development programme,Slovak Republic
+2019,0.2908,0.03141372568082877,food and agricultural organisation,Slovak Republic
+2020,0.1977,0.023233403452692942,international bank for reconstruction and development,Slovak Republic
+2020,0.0011,0.00012927032775904014,world health organisation assessed contributions,Slovak Republic
+2020,0.4467999999999999,0.05250725676612648,food and agricultural organisation,Slovak Republic
+2020,0.0,0.0,united nations children’s fund,Slovak Republic
+2020,2.8840000000000003,0.3389232956882471,european commission european development fund,Slovak Republic
+2020,4.979699999999999,0.5852067737651746,european commission development share of budget,Slovak Republic
+2020,0.0,0.0,world health organisation core voluntary contributions account,Slovak Republic
+2021,5.554799999999999,0.6686971072241149,european commission development share of budget,Slovak Republic
+2021,1.8612000000000004,0.22405470151319995,european commission european development fund,Slovak Republic
+2021,0.4446,0.053521771057795334,food and agricultural organisation,Slovak Republic
+2021,0.25689999999999996,0.03092609758152861,green climate fund,Slovak Republic
+2021,0.0,0.0,united nations children’s fund,Slovak Republic
+2021,0.0032,0.00038522192394274647,world health organisation assessed contributions,Slovak Republic
+2021,0.00030000000000000003,3.6114555369632485e-05,united nations development programme,Slovak Republic
+2021,0.1859,0.02237898614404893,international bank for reconstruction and development,Slovak Republic
+2022,0.5405000000000001,0.054506766704987816,green climate fund,Slovak Republic
+2022,1.1986,0.12087291502793412,international finance corporation,Slovak Republic
+2022,0.0041,0.00041346483531998153,united nations development programme,Slovak Republic
+2022,0.9112,0.09189003852282127,european commission european development fund,Slovak Republic
+2022,0.0,0.0,united nations,Slovak Republic
+2022,0.4164,0.041991892055424467,food and agricultural organisation,Slovak Republic
+2022,0.20829999999999999,0.021006030535890768,international bank for reconstruction and development,Slovak Republic
+2022,6.632599999999998,0.6688650894495874,european commission development share of budget,Slovak Republic
+2022,0.0045,0.000453802868034126,world health organisation assessed contributions,Slovak Republic
+2023,1.0158,0.11211549286447471,international finance corporation,Slovak Republic
+2023,6.499599999999998,0.7173713894683399,european commission development share of budget,Slovak Republic
+2023,0.008199999999999999,0.0009050472942397052,united nations,Slovak Republic
+2023,0.35040000000000004,0.03867421608556009,european commission european development fund,Slovak Republic
+2023,0.19299999999999998,0.021301722901007694,international bank for reconstruction and development,Slovak Republic
+2023,0.3967,0.04378442214937696,food and agricultural organisation,Slovak Republic
+2023,0.33830000000000005,0.037338719468450285,international development association,Slovak Republic
+2023,0.215,0.023729898568480078,green climate fund,Slovak Republic
+2023,0.0389,0.004293456066576162,world organisation for animal health,Slovak Republic
+2023,0.0044,0.00048563513349447605,world health organisation assessed contributions,Slovak Republic

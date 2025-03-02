@@ -1,106 +1,109 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Health policy and administrative management",39.287237,"29%","Switzerland"
-2019,"Health policy and administrative management",41.408564,"28%","Switzerland"
-2020,"Health policy and administrative management",58.850028,"21%","Switzerland"
-2021,"Health policy and administrative management",74.989251,"16%","Switzerland"
-2022,"Health policy and administrative management",40.552144,"18%","Switzerland"
-2018,"Medical education/training",0.401717,"0%","Switzerland"
-2019,"Medical education/training",0.38612,"0%","Switzerland"
-2020,"Medical education/training",0.381687,"0%","Switzerland"
-2021,"Medical education/training",0.963698,"0%","Switzerland"
-2022,"Medical education/training",0.514097,"0%","Switzerland"
-2019,"Medical research",0.301716,"0%","Switzerland"
-2020,"Medical research",0.069423,"0%","Switzerland"
-2021,"Medical research",0.512497,"0%","Switzerland"
-2022,"Medical research",0.777497,"0%","Switzerland"
-2018,"Medical services",6.637971,"5%","Switzerland"
-2019,"Medical services",7.523387,"5%","Switzerland"
-2020,"Medical services",11.019716,"4%","Switzerland"
-2021,"Medical services",5.518031,"1%","Switzerland"
-2022,"Medical services",4.871137,"2%","Switzerland"
-2018,"Basic health care",38.63085,"28%","Switzerland"
-2019,"Basic health care",39.566084,"27%","Switzerland"
-2020,"Basic health care",59.357757,"22%","Switzerland"
-2021,"Basic health care",95.145005,"21%","Switzerland"
-2022,"Basic health care",50.847399,"23%","Switzerland"
-2018,"Basic health infrastructure",1.967933,"1%","Switzerland"
-2019,"Basic health infrastructure",4.188934,"3%","Switzerland"
-2020,"Basic health infrastructure",6.638599,"2%","Switzerland"
-2021,"Basic health infrastructure",3.855686,"1%","Switzerland"
-2022,"Basic health infrastructure",4.633435,"2%","Switzerland"
-2018,"Basic nutrition",12.916148,"9%","Switzerland"
-2019,"Basic nutrition",9.596088,"7%","Switzerland"
-2020,"Basic nutrition",8.782662,"3%","Switzerland"
-2021,"Basic nutrition",8.157132,"2%","Switzerland"
-2022,"Basic nutrition",9.838722,"4%","Switzerland"
-2018,"Infectious disease control",10.87753,"8%","Switzerland"
-2019,"Infectious disease control",10.8564,"7%","Switzerland"
-2020,"Infectious disease control",68.126622,"25%","Switzerland"
-2021,"Infectious disease control",93.428161,"20%","Switzerland"
-2022,"Infectious disease control",18.271852,"8%","Switzerland"
-2018,"Health education",2.936573,"2%","Switzerland"
-2019,"Health education",5.318746,"4%","Switzerland"
-2020,"Health education",11.108679,"4%","Switzerland"
-2021,"Health education",9.459055,"2%","Switzerland"
-2022,"Health education",9.35674,"4%","Switzerland"
-2018,"Malaria control",3.680793,"3%","Switzerland"
-2019,"Malaria control",4.928648,"3%","Switzerland"
-2020,"Malaria control",3.909976,"1%","Switzerland"
-2021,"Malaria control",3.229126,"1%","Switzerland"
-2022,"Malaria control",3.175601,"1%","Switzerland"
-2018,"Tuberculosis control",0.360209,"0%","Switzerland"
-2019,"Tuberculosis control",0.448773,"0%","Switzerland"
-2020,"Tuberculosis control",0.345988,"0%","Switzerland"
-2021,"Tuberculosis control",0.18616,"0%","Switzerland"
-2022,"Tuberculosis control",0.270385,"0%","Switzerland"
-2018,"Health personnel development",0.086477,"0%","Switzerland"
-2019,"Health personnel development",0.06528,"0%","Switzerland"
-2020,"Health personnel development",0.657757,"0%","Switzerland"
-2021,"Health personnel development",0.111468,"0%","Switzerland"
-2022,"Health personnel development",0.055167,"0%","Switzerland"
-2018,"Population policy and administrative management",0.181187,"0%","Switzerland"
-2019,"Population policy and administrative management",0.005486,"0%","Switzerland"
-2021,"Population policy and administrative management",0.046363,"0%","Switzerland"
-2022,"Population policy and administrative management",0.09427,"0%","Switzerland"
-2018,"Reproductive health care",10.269662,"8%","Switzerland"
-2019,"Reproductive health care",11.683484,"8%","Switzerland"
-2020,"Reproductive health care",11.840104,"4%","Switzerland"
-2021,"Reproductive health care",11.330803,"2%","Switzerland"
-2022,"Reproductive health care",14.670098,"7%","Switzerland"
-2018,"Family planning",0.021922,"0%","Switzerland"
-2020,"Family planning",0.219286,"0%","Switzerland"
-2021,"Family planning",0.40395,"0%","Switzerland"
-2022,"Family planning",0.506556,"0%","Switzerland"
-2018,"STD control including HIV/AIDS",6.431733,"5%","Switzerland"
-2019,"STD control including HIV/AIDS",6.854418,"5%","Switzerland"
-2020,"STD control including HIV/AIDS",7.500055,"3%","Switzerland"
-2021,"STD control including HIV/AIDS",8.069842,"2%","Switzerland"
-2022,"STD control including HIV/AIDS",6.118753,"3%","Switzerland"
-2018,"Personnel development for population and reproductive health",0.094759,"0%","Switzerland"
-2019,"Personnel development for population and reproductive health",0.073508,"0%","Switzerland"
-2020,"Personnel development for population and reproductive health",0.148244,"0%","Switzerland"
-2021,"Personnel development for population and reproductive health",0.285436,"0%","Switzerland"
-2022,"Personnel development for population and reproductive health",0.654048,"0%","Switzerland"
-2018,"NCDs control, general",0.091854,"0%","Switzerland"
-2019,"NCDs control, general",0.267798,"0%","Switzerland"
-2020,"NCDs control, general",2.713782,"1%","Switzerland"
-2021,"NCDs control, general",3.813963,"1%","Switzerland"
-2022,"NCDs control, general",4.147447,"2%","Switzerland"
-2018,"Control of harmful use of alcohol and drugs",0.059972,"0%","Switzerland"
-2019,"Control of harmful use of alcohol and drugs",0.14318,"0%","Switzerland"
-2020,"Control of harmful use of alcohol and drugs",0.039781,"0%","Switzerland"
-2021,"Control of harmful use of alcohol and drugs",0.205909,"0%","Switzerland"
-2022,"Control of harmful use of alcohol and drugs",0.348254,"0%","Switzerland"
-2018,"Promotion of mental health and well-being",1.033157,"1%","Switzerland"
-2019,"Promotion of mental health and well-being",3.057556,"2%","Switzerland"
-2020,"Promotion of mental health and well-being",5.265251,"2%","Switzerland"
-2021,"Promotion of mental health and well-being",5.375022,"1%","Switzerland"
-2022,"Promotion of mental health and well-being",7.173059,"3%","Switzerland"
-2018,"Other prevention and treatment of NCDs",0.080123,"0%","Switzerland"
-2019,"Other prevention and treatment of NCDs",0.265512,"0%","Switzerland"
-2020,"Other prevention and treatment of NCDs",0.168702,"0%","Switzerland"
-2021,"Other prevention and treatment of NCDs",0.399547,"0%","Switzerland"
-2022,"Other prevention and treatment of NCDs",0.397389,"0%","Switzerland"
-2020,"COVID-19 control",17.546512,"6%","Switzerland"
-2021,"COVID-19 control",134.066678,"29%","Switzerland"
-2022,"COVID-19 control",44.302885,"20%","Switzerland"
+year,Sector,Bilateral ODA for,share,donor
+2023,Health policy and administrative management,48.833665187999976,23.16929392601845,Switzerland
+2023,Basic health care,45.91282445399994,21.783491381470473,Switzerland
+2023,COVID-19 control,26.558570100000004,12.600801404783258,Switzerland
+2023,Health education,12.943328184,6.141004856414235,Switzerland
+2023,Basic nutrition,11.901945564000002,5.6469174288304425,Switzerland
+2023,Reproductive health care,11.681124720000001,5.542148249209562,Switzerland
+2023,Medical services,10.647847578000002,5.051906492465135,Switzerland
+2023,Promotion of mental health and well-being,9.328800516000001,4.42608025222546,Switzerland
+2023,"NCDs control, general",8.196331956,3.88877679921611,Switzerland
+2023,Infectious disease control,7.497806651999998,3.5573591589298252,Switzerland
+2023,Basic health infrastructure,5.568474125999999,2.641980962273266,Switzerland
+2023,STD control including HIV/AIDS,5.250483132,2.491109083673763,Switzerland
+2023,Malaria control,2.780523708,1.3192286675779863,Switzerland
+2023,Medical research,1.2123430139999998,0.5752001518293473,Switzerland
+2023,Medical education/training,0.55606887,0.26382871411636116,Switzerland
+2023,Health personnel development,0.394095708,0.18698001181115737,Switzerland
+2023,Family planning,0.35513958,0.1684971480658944,Switzerland
+2023,Population policy and administrative management,0.337827774,0.16028350446449677,Switzerland
+2023,Personnel development for population and reproductive health,0.30977811599999994,0.14697525147499976,Switzerland
+2023,Tuberculosis control,0.196285314,0.09312821628109874,Switzerland
+2023,Control of harmful use of alcohol and drugs,0.18781467599999999,0.08910929407226302,Switzerland
+2023,Other prevention and treatment of NCDs,0.07396638,0.03509359357455513,Switzerland
+2023,Research for prevention and control of NCDs,0.04385142,0.020805451221854017,Switzerland
+2022,Basic health care,53.848274291999985,22.94796710324065,Switzerland
+2022,COVID-19 control,46.917520308000014,19.994358719004754,Switzerland
+2022,Health policy and administrative management,42.94542044999999,18.301609637058533,Switzerland
+2022,Infectious disease control,19.350205374,8.246278682128033,Switzerland
+2022,Reproductive health care,15.535885782000003,6.620769198874893,Switzerland
+2022,Basic nutrition,10.419374484000002,4.440318023909258,Switzerland
+2022,Health education,9.908950613999997,4.222795915142086,Switzerland
+2022,Promotion of mental health and well-being,7.596394482000001,3.2372775723673115,Switzerland
+2022,STD control including HIV/AIDS,6.479865156000001,2.7614577140759935,Switzerland
+2022,Medical services,5.1586088760000015,2.198391468276272,Switzerland
+2022,Basic health infrastructure,4.906887977999999,2.091118153347395,Switzerland
+2022,"NCDs control, general",4.39221966,1.8717872316822075,Switzerland
+2022,Malaria control,3.363017274,1.433182600298252,Switzerland
+2022,Medical research,0.8233831740000002,0.3508927674794775,Switzerland
+2022,Personnel development for population and reproductive health,0.692646228,0.29517794327327496,Switzerland
+2022,Medical education/training,0.544436376,0.23201686981660052,Switzerland
+2022,Family planning,0.536451186,0.2286139032435315,Switzerland
+2022,Other prevention and treatment of NCDs,0.420843678,0.17934663655109143,Switzerland
+2022,Control of harmful use of alcohol and drugs,0.36880408200000003,0.15716945533636584,Switzerland
+2022,Tuberculosis control,0.286342362,0.1220275893672687,Switzerland
+2022,Population policy and administrative management,0.09983367000000001,0.0425450918358612,Switzerland
+2022,Health personnel development,0.05842345200000001,0.024897723690895355,Switzerland
+2021,COVID-19 control,141.344485284,29.173292978859497,Switzerland
+2021,Basic health care,100.30993637400006,20.70382269707639,Switzerland
+2021,Infectious disease control,98.49990913800002,20.330235749206114,Switzerland
+2021,Health policy and administrative management,79.06005053999999,16.317877649719275,Switzerland
+2021,Reproductive health care,11.945892570000002,2.465614580847327,Switzerland
+2021,Health education,9.972542154000003,2.0583179698741434,Switzerland
+2021,Basic nutrition,8.599943304000002,1.77501559473699,Switzerland
+2021,STD control including HIV/AIDS,8.507906874,1.7560194115344872,Switzerland
+2021,Medical services,5.817580908000001,1.2007401061052598,Switzerland
+2021,Promotion of mental health and well-being,5.666806344,1.1696204588088417,Switzerland
+2021,Basic health infrastructure,4.06499334,0.8390086208645081,Switzerland
+2021,"NCDs control, general",4.021004448,0.8299293785328892,Switzerland
+2021,Malaria control,3.4044178260000004,0.7026668105288477,Switzerland
+2021,Medical education/training,1.016008296,0.20970261152109515,Switzerland
+2021,Medical research,0.5403186600000001,0.11152097330470882,Switzerland
+2021,Family planning,0.425877516,0.08790049022721463,Switzerland
+2021,Other prevention and treatment of NCDs,0.421234614,0.08694220211257062,Switzerland
+2021,Personnel development for population and reproductive health,0.300931578,0.062111833185035464,Switzerland
+2021,Control of harmful use of alcohol and drugs,0.21708439800000004,0.04480589908597047,Switzerland
+2021,Tuberculosis control,0.196267056,0.040509230447028775,Switzerland
+2021,Health personnel development,0.11751815399999999,0.02425557339635958,Switzerland
+2021,Population policy and administrative management,0.048882036000000004,0.010089180025423914,Switzerland
+2020,Infectious disease control,71.94942840600004,24.801221461291405,Switzerland
+2020,Basic health care,62.68850468999997,21.608948428619335,Switzerland
+2020,Health policy and administrative management,62.152295154000036,21.42411511240523,Switzerland
+2020,COVID-19 control,18.53108168399999,6.387729144542279,Switzerland
+2020,Reproductive health care,12.504491784000002,4.310342373338725,Switzerland
+2020,Health education,11.73202695,4.044071023537478,Switzerland
+2020,Medical services,11.638066986000009,4.0116826929101785,Switzerland
+2020,Basic nutrition,9.275490377999995,3.197294212384201,Switzerland
+2020,STD control including HIV/AIDS,7.920906804,2.7303644820043016,Switzerland
+2020,Basic health infrastructure,7.011113886,2.4167556578186904,Switzerland
+2020,Promotion of mental health and well-being,5.560706958,1.9167952797134546,Switzerland
+2020,Malaria control,4.129378566000001,1.4234113401842594,Switzerland
+2020,"NCDs control, general",2.8660613640000006,0.9879414497792903,Switzerland
+2020,Health personnel development,0.6946642740000002,0.23945322266499738,Switzerland
+2020,Medical education/training,0.40310334600000003,0.13895114356599758,Switzerland
+2020,Tuberculosis control,0.365402724,0.12595560633706718,Switzerland
+2020,Family planning,0.23159091600000004,0.07983020467832308,Switzerland
+2020,Other prevention and treatment of NCDs,0.178166934,0.06141476986139333,Switzerland
+2020,Personnel development for population and reproductive health,0.15656235000000002,0.05396759364006857,Switzerland
+2020,Medical research,0.07331875800000001,0.025273234196717963,Switzerland
+2020,Control of harmful use of alcohol and drugs,0.042011658,0.014481566526623645,Switzerland
+2019,Health policy and administrative management,43.74816563999999,28.180648804835492,Switzerland
+2019,Basic health care,41.80160078400007,26.92675713234413,Switzerland
+2019,Reproductive health care,12.343607657999998,7.951210463478898,Switzerland
+2019,Infectious disease control,11.469794813999995,7.38833856890502,Switzerland
+2019,Basic nutrition,10.138272168,6.530630102420135,Switzerland
+2019,Medical services,7.948465644000006,5.120052819907555,Switzerland
+2019,STD control including HIV/AIDS,7.241698464000001,4.664784412764254,Switzerland
+2019,Health education,5.619252845999998,3.6196761322927626,Switzerland
+2019,Malaria control,5.207118234,3.354197098116529,Switzerland
+2019,Basic health infrastructure,4.425616764000001,2.850788140407081,Switzerland
+2019,Promotion of mental health and well-being,3.2303127600000003,2.0808257463509703,Switzerland
+2019,Tuberculosis control,0.47412804000000003,0.30541248046177505,Switzerland
+2019,Medical education/training,0.40793204999999993,0.2627719281280154,Switzerland
+2019,Medical research,0.318762126,0.20533257551890174,Switzerland
+2019,"NCDs control, general",0.28293026400000004,0.1822512621821415,Switzerland
+2019,Other prevention and treatment of NCDs,0.28051269,0.18069396708514637,Switzerland
+2019,Control of harmful use of alcohol and drugs,0.151268604,0.09744059761500287,Switzerland
+2019,Personnel development for population and reproductive health,0.07766201400000002,0.05002646190973456,Switzerland
+2019,Health personnel development,0.068971206,0.044428224715205744,Switzerland
+2019,Population policy and administrative management,0.005795304,0.00373308056125524,Switzerland

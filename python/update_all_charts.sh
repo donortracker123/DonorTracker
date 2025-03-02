@@ -37,7 +37,7 @@ python chart_update.py subsector_split_3_sector -ly $LY -crs $CRS -s gh -country
 python chart_update.py ranking_absolute_1a_sector -ly $LY -dac1 $DAC1 -crs $CRS -im $IM -s gh -f "Global_Health" -o "alldonor_GH1a_healthODAranking"
 python chart_update.py ranking_relative_1b_sector -ly $LY -dac1 $DAC1 -crs $CRS -im $IM -s gh -f "Global_Health" -o "alldonor_GH1b_healthODAranking"
 python chart_update.py time_trend_channels_2_sector -ly $LY -dac1 $DAC1 -crs $CRS -im $IM -s gh -country  -f "Global_Health" -o "GH2_trend"
-python chart_update.py top_multilateral_recipients_4a_sector -ly $LY -dac1 $DAC1 -crs $CRS -im $IM -s gh -country  -f "Global_Health" -o "GHa_multi"
+python chart_update.py top_multilateral_recipients_4a_sector -ly $LY -dac1 $DAC1 -crs $CRS -im $IM -s gh -country  -f "Global_Health" -o "GH4a_multi"
 
 python chart_update.py gender_ranking_absolute_1a -ly $LY -crs $CRS -f "Gender" -o "alldonor_GE1a_genderODAranking"
 python chart_update.py gender_ranking_relative_1b -ly $LY -crs $CRS -rf $RF -f "Gender" -o "alldonor_GE1b_genderODArelative"

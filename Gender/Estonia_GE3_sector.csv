@@ -1,61 +1,38 @@
-"Year","Sector","Gender-related ODA to","Share","Donor"
-"2018","Education",0.21,"12%","Estonia"
-"2019","Education",0.07,"6%","Estonia"
-"2020","Education",0.07,"5%","Estonia"
-"2021","Education",0.01,"1%","Estonia"
-"2022","Education",0.56,"61%","Estonia"
-"2018","Humanitarian aid",0.08,"4%","Estonia"
-"2019","Humanitarian aid",0.1,"9%","Estonia"
-"2020","Humanitarian aid",0.51,"37%","Estonia"
-"2021","Humanitarian aid",0.43,"25%","Estonia"
-"2022","Humanitarian aid",0.12,"13%","Estonia"
-"2018","Agriculture (incl. forestry, fishing, rural development)",0,"0%","Estonia"
-"2019","Agriculture (incl. forestry, fishing, rural development)",0,"0%","Estonia"
-"2020","Agriculture (incl. forestry, fishing, rural development)",0,"0%","Estonia"
-"2021","Agriculture (incl. forestry, fishing, rural development)",0,"0%","Estonia"
-"2022","Agriculture (incl. forestry, fishing, rural development)",0.08,"9%","Estonia"
-"2018","Financial services & business support",0.38,"22%","Estonia"
-"2019","Financial services & business support",0.43,"40%","Estonia"
-"2020","Financial services & business support",0.32,"23%","Estonia"
-"2021","Financial services & business support",0.9,"52%","Estonia"
-"2022","Financial services & business support",0.05,"5%","Estonia"
-"2018","Government & civil society",0.69,"40%","Estonia"
-"2019","Government & civil society",0.35,"33%","Estonia"
-"2020","Government & civil society",0.31,"22%","Estonia"
-"2021","Government & civil society",0.22,"13%","Estonia"
-"2022","Government & civil society",0.05,"5%","Estonia"
-"2018","Industry, construction & mining",0,"0%","Estonia"
-"2019","Industry, construction & mining",0.05,"5%","Estonia"
-"2020","Industry, construction & mining",0,"0%","Estonia"
-"2021","Industry, construction & mining",0,"0%","Estonia"
-"2022","Industry, construction & mining",0.03,"3%","Estonia"
-"2018","Health & populations",0.15,"9%","Estonia"
-"2019","Health & populations",0.04,"4%","Estonia"
-"2020","Health & populations",0.15,"11%","Estonia"
-"2021","Health & populations",0.19,"11%","Estonia"
-"2022","Health & populations",0.02,"2%","Estonia"
-"2018","Unspecified",0,"0%","Estonia"
-"2019","Unspecified",0,"0%","Estonia"
-"2020","Unspecified",0.01,"1%","Estonia"
-"2021","Unspecified",0,"0%","Estonia"
-"2022","Unspecified",0.01,"1%","Estonia"
-"2018","Conflict, peace & security",0,"0%","Estonia"
-"2019","Conflict, peace & security",0,"0%","Estonia"
-"2020","Conflict, peace & security",0.03,"2%","Estonia"
-"2021","Conflict, peace & security",0,"0%","Estonia"
-"2022","Conflict, peace & security",0,"0%","Estonia"
-"2018","Infrastructure",0.08,"5%","Estonia"
-"2019","Infrastructure",0.01,"1%","Estonia"
-"2020","Infrastructure",0,"0%","Estonia"
-"2021","Infrastructure",0,"0%","Estonia"
-"2022","Infrastructure",0,"0%","Estonia"
-"2018","Other social services",0,"0%","Estonia"
-"2019","Other social services",0,"0%","Estonia"
-"2020","Other social services",0,"0%","Estonia"
-"2021","Other social services",0,"0%","Estonia"
-"2022","Other social services",0,"0%","Estonia"
-"2018","Tourism",0.14,"8%","Estonia"
-"2019","Tourism",0.02,"2%","Estonia"
-"2020","Tourism",0,"0%","Estonia"
-"2021","Tourism",0,"0%","Estonia"
-"2022","Tourism",0,"0%","Estonia"
+year,Sector,Gender-related ODA to,Share,donor
+2021,Financial services & business support,1.0451861808,50.0%,Estonia
+2023,Education,0.9483562272,63.0%,Estonia
+2022,Education,0.6468814416,61.0%,Estonia
+2020,Emergency Response,0.5922453648,36.0%,Estonia
+2021,Emergency Response,0.5000511792,24.0%,Estonia
+2019,Financial services & business support,0.49276256639999994,40.0%,Estonia
+2019,Government & civil society,0.4056369696,33.0%,Estonia
+2020,Financial services & business support,0.372684432,23.0%,Estonia
+2020,Government & civil society,0.36112464959999996,22.0%,Estonia
+2021,Government & civil society,0.25549176960000003,12.0%,Estonia
+2021,Health & populations,0.2172346608,10.0%,Estonia
+2023,"Agriculture (incl. forestry, fishing, rural development)",0.19032036480000003,13.0%,Estonia
+2020,Health & populations,0.17333969759999998,11.0%,Estonia
+2022,Emergency Response,0.1423141632,13.0%,Estonia
+2023,Emergency Response,0.1416598992,9.0%,Estonia
+2023,Government & civil society,0.11894966879999999,8.0%,Estonia
+2019,Emergency Response,0.11426357279999999,9.0%,Estonia
+2022,"Agriculture (incl. forestry, fishing, rural development)",0.09409211040000001,9.0%,Estonia
+2023,"Industry, construction & mining",0.0843463728,6.0%,Estonia
+2020,Education,0.082336608,5.0%,Estonia
+2019,Education,0.0771282192,6.0%,Estonia
+2022,Financial services & business support,0.0576322704,5.0%,Estonia
+2022,Government & civil society,0.057631152,5.0%,Estonia
+2019,"Industry, construction & mining",0.0557041488,5.0%,Estonia
+2019,Health & populations,0.05141844,4.0%,Estonia
+2021,Donor administration costs,0.034155936,2.0%,Estonia
+2022,"Industry, construction & mining",0.030580411200000004,3.0%,Estonia
+2020,"Conflict, peace & security",0.028890508800000006,2.0%,Estonia
+2019,Tourism,0.0285661728,2.0%,Estonia
+2020,Unspecified,0.0274466544,2.0%,Estonia
+2022,Health & populations,0.024698745600000002,2.0%,Estonia
+2021,Unspecified,0.0177613104,1.0%,Estonia
+2023,Health & populations,0.0140571696,1.0%,Estonia
+2023,Financial services & business support,0.0140571696,1.0%,Estonia
+2019,Infrastructure,0.0114266928,1.0%,Estonia
+2021,Education,0.0109301232,1.0%,Estonia
+2022,Unspecified,0.010585656000000002,1.0%,Estonia
