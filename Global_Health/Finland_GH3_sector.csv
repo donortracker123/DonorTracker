@@ -1,93 +1,97 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Health policy and administrative management",1.253666,"6%","Finland"
-2019,"Health policy and administrative management",1.408637,"6%","Finland"
-2020,"Health policy and administrative management",2.530139,"6%","Finland"
-2021,"Health policy and administrative management",1.34,"3%","Finland"
-2022,"Health policy and administrative management",0.974189,"2%","Finland"
-2018,"Medical education/training",0.056667,"0%","Finland"
-2019,"Medical education/training",0.005642,"0%","Finland"
-2021,"Medical education/training",0.069181,"0%","Finland"
-2022,"Medical education/training",0.013384,"0%","Finland"
-2018,"Medical research",0.015614,"0%","Finland"
-2019,"Medical research",0.020719,"0%","Finland"
-2021,"Medical research",0.012276,"0%","Finland"
-2022,"Medical research",0.003156,"0%","Finland"
-2018,"Medical services",4.407266,"20%","Finland"
-2019,"Medical services",1.656317,"7%","Finland"
-2020,"Medical services",3.863788,"10%","Finland"
-2021,"Medical services",2.396628,"5%","Finland"
-2022,"Medical services",1.710138,"4%","Finland"
-2018,"Basic health care",3.490152,"16%","Finland"
-2019,"Basic health care",5.700426,"25%","Finland"
-2020,"Basic health care",3.547443,"9%","Finland"
-2021,"Basic health care",1.681012,"4%","Finland"
-2022,"Basic health care",2.585231,"6%","Finland"
-2018,"Basic health infrastructure",0.244615,"1%","Finland"
-2019,"Basic health infrastructure",0.122424,"1%","Finland"
-2020,"Basic health infrastructure",0.247388,"1%","Finland"
-2021,"Basic health infrastructure",0.086217,"0%","Finland"
-2022,"Basic health infrastructure",0.301658,"1%","Finland"
-2018,"Basic nutrition",0.178546,"1%","Finland"
-2019,"Basic nutrition",0.296802,"1%","Finland"
-2020,"Basic nutrition",0.252436,"1%","Finland"
-2021,"Basic nutrition",0.416433,"1%","Finland"
-2018,"Infectious disease control",0.445067,"2%","Finland"
-2019,"Infectious disease control",0.111512,"0%","Finland"
-2020,"Infectious disease control",7.993065,"20%","Finland"
-2021,"Infectious disease control",18.596283,"41%","Finland"
-2022,"Infectious disease control",0.399809,"1%","Finland"
-2018,"Health education",2.707186,"12%","Finland"
-2019,"Health education",3.110366,"14%","Finland"
-2020,"Health education",3.670235,"9%","Finland"
-2021,"Health education",3.037331,"7%","Finland"
-2022,"Health education",1.887629,"4%","Finland"
-2018,"Malaria control",0.161005,"1%","Finland"
-2019,"Malaria control",0.017359,"0%","Finland"
-2020,"Malaria control",0.017105,"0%","Finland"
-2021,"Malaria control",0.01668,"0%","Finland"
-2022,"Malaria control",0.015732,"0%","Finland"
-2018,"Tuberculosis control",0.251819,"1%","Finland"
-2019,"Tuberculosis control",0.195232,"1%","Finland"
-2020,"Tuberculosis control",0.166749,"0%","Finland"
-2021,"Tuberculosis control",0.156102,"0%","Finland"
-2022,"Tuberculosis control",0.147223,"0%","Finland"
-2018,"Health personnel development",0.823005,"4%","Finland"
-2019,"Health personnel development",0.81458,"4%","Finland"
-2020,"Health personnel development",0.858861,"2%","Finland"
-2021,"Health personnel development",0.1934,"0%","Finland"
-2022,"Health personnel development",0.292328,"1%","Finland"
-2018,"Population policy and administrative management",0.634295,"3%","Finland"
-2019,"Population policy and administrative management",1.129721,"5%","Finland"
-2020,"Population policy and administrative management",1.549325,"4%","Finland"
-2021,"Population policy and administrative management",1.869641,"4%","Finland"
-2022,"Population policy and administrative management",0.003185,"0%","Finland"
-2018,"Reproductive health care",5.425843,"24%","Finland"
-2019,"Reproductive health care",6.092849,"27%","Finland"
-2020,"Reproductive health care",11.794984,"29%","Finland"
-2021,"Reproductive health care",8.704463,"19%","Finland"
-2022,"Reproductive health care",12.022882,"26%","Finland"
-2018,"Family planning",1.487034,"7%","Finland"
-2019,"Family planning",1.26288,"6%","Finland"
-2020,"Family planning",1.035655,"3%","Finland"
-2021,"Family planning",1.13276,"2%","Finland"
-2022,"Family planning",1.612978,"4%","Finland"
-2018,"STD control including HIV/AIDS",0.644751,"3%","Finland"
-2019,"STD control including HIV/AIDS",0.004923,"0%","Finland"
-2020,"STD control including HIV/AIDS",0.000666,"0%","Finland"
-2018,"Personnel development for population and reproductive health",0.157989,"1%","Finland"
-2019,"Personnel development for population and reproductive health",0.268577,"1%","Finland"
-2020,"Personnel development for population and reproductive health",0.25346,"1%","Finland"
-2021,"Personnel development for population and reproductive health",0.331125,"1%","Finland"
-2022,"Personnel development for population and reproductive health",0.334597,"1%","Finland"
-2018,"Promotion of mental health and well-being",0.016043,"0%","Finland"
-2019,"Promotion of mental health and well-being",0.01571,"0%","Finland"
-2020,"Promotion of mental health and well-being",0.244899,"1%","Finland"
-2021,"Promotion of mental health and well-being",0.221108,"0%","Finland"
-2022,"Promotion of mental health and well-being",0.524518,"1%","Finland"
-2018,"Other prevention and treatment of NCDs",0.061406,"0%","Finland"
-2019,"Other prevention and treatment of NCDs",0.521217,"2%","Finland"
-2020,"Other prevention and treatment of NCDs",0.576646,"1%","Finland"
-2020,"COVID-19 control",1.928224,"5%","Finland"
-2021,"COVID-19 control",5.321665,"12%","Finland"
-2022,"COVID-19 control",22.982326,"50%","Finland"
-2022,"Control of harmful use of alcohol and drugs",0.028441,"0%","Finland"
+year,Sector,Bilateral ODA for,share,donor
+2023,Reproductive health care,13.345234483899999,36.66568764627544,Finland
+2023,Medical services,4.1160956265,11.308866602945207,Finland
+2023,Family planning,4.0011607602999995,10.993086021581894,Finland
+2023,Basic health care,3.6786003023000005,10.106859480239683,Finland
+2023,Health education,2.6677858437999995,7.329672818707972,Finland
+2023,COVID-19 control,2.1705576188999998,5.963551091503408,Finland
+2023,Health policy and administrative management,1.9696037647,5.411435558554067,Finland
+2023,Infectious disease control,1.3973722268,3.839244162793917,Finland
+2023,Population policy and administrative management,0.9983898518,2.7430503749839046,Finland
+2023,Promotion of mental health and well-being,0.6337516647,1.7412163578864701,Finland
+2023,Health personnel development,0.4340638070999999,1.1925791179527252,Finland
+2023,Basic health infrastructure,0.28768966709999994,0.790419942465254,Finland
+2023,Malaria control,0.25567650350000004,0.7024646009129725,Finland
+2023,Personnel development for population and reproductive health,0.1587794021,0.43624231324556134,Finland
+2023,Tuberculosis control,0.1405621624,0.38619091688955454,Finland
+2023,Basic nutrition,0.058847347900000006,0.16168157101444539,Finland
+2023,Medical education/training,0.036658017,0.10071695650424113,Finland
+2023,Control of harmful use of alcohol and drugs,0.027380131899999997,0.07522620641625773,Finland
+2023,Medical research,0.0188566862,0.051808259127042365,Finland
+2023,"NCDs control, general",0.0,0.0,Finland
+2022,COVID-19 control,23.2887232072,50.136620707506935,Finland
+2022,Reproductive health care,12.183169971499998,26.228272217488502,Finland
+2022,Basic health care,2.6196962429,5.63975601970966,Finland
+2022,Health education,1.9127951227000002,4.117919333951725,Finland
+2022,Medical services,1.7329376294999999,3.7307170456277525,Finland
+2022,Family planning,1.6344832878,3.5187617596765635,Finland
+2022,Health policy and administrative management,0.9871732079000001,2.1252143475943606,Finland
+2022,Promotion of mental health and well-being,0.5315111549,1.1442522176051133,Finland
+2022,Infectious disease control,0.4051382566,0.8721930749288578,Finland
+2022,Personnel development for population and reproductive health,0.33905710299999997,0.7299317021399266,Finland
+2022,Basic health infrastructure,0.3056790704,0.6580745313736208,Finland
+2022,Health personnel development,0.2962260092,0.6377237143841036,Finland
+2022,Tuberculosis control,0.14918555520000001,0.32117087439936637,Finland
+2022,Control of harmful use of alcohol and drugs,0.028820229900000004,0.06204500445746749,Finland
+2022,Malaria control,0.015941025100000002,0.03431828881372321,Finland
+2022,Medical education/training,0.013562714,0.029198193543395593,Finland
+2022,Population policy and administrative management,0.0032273240999999998,0.0069478744224102185,Finland
+2022,Medical research,0.0031972325,0.006883092376513621,Finland
+2022,Basic nutrition,0.0,0.0,Finland
+2021,Infectious disease control,18.728183246300002,40.79714765052749,Finland
+2021,Reproductive health care,8.7662043095,19.09614653199304,Finland
+2021,COVID-19 control,5.359410683,11.67484673118853,Finland
+2021,Health education,3.0588713231999995,6.663391925172951,Finland
+2021,Medical services,2.4136268167000003,5.25780254919475,Finland
+2021,Population policy and administrative management,1.8829023421999997,4.101681613000751,Finland
+2021,Basic health care,1.6929340714,3.687858046089949,Finland
+2021,Health policy and administrative management,1.3495061635,2.939740682988214,Finland
+2021,Family planning,1.1407972740999999,2.485092879469332,Finland
+2021,Basic nutrition,0.4193877039,0.91358685750815,Finland
+2021,Personnel development for population and reproductive health,0.3334751112,0.7264363644076521,Finland
+2021,Promotion of mental health and well-being,0.2226767653,0.4850751806948884,Finland
+2021,Health personnel development,0.19477110509999998,0.4242859773593343,Finland
+2021,Tuberculosis control,0.1572092654,0.34246192106337225,Finland
+2021,Basic health infrastructure,0.08682931179999999,0.18914745799479155,Finland
+2021,Medical education/training,0.06967172630000001,0.1517716730740444,Finland
+2021,Malaria control,0.016798635699999998,0.03659385493869083,Finland
+2021,Medical research,0.012363348800000002,0.026932103334060483,Finland
+2020,Reproductive health care,11.834928482299999,29.101100628660742,Finland
+2020,Infectious disease control,8.0201325237,19.72083599630089,Finland
+2020,Medical services,3.8768706306000005,9.532901066037061,Finland
+2020,Health education,3.6826626683000008,9.055359907910763,Finland
+2020,Basic health care,3.5594558361999993,8.752404598595378,Finland
+2020,Health policy and administrative management,2.5387079256,6.242470744133004,Finland
+2020,COVID-19 control,1.9347544678,4.7573996364578575,Finland
+2020,Population policy and administrative management,1.5545718199,3.8225622599282723,Finland
+2020,Family planning,1.0391639698,2.555217405838634,Finland
+2020,Health personnel development,0.8617675396000001,2.119014400967403,Finland
+2020,Other prevention and treatment of NCDs,0.5785980607,1.4227243040091773,Finland
+2020,Personnel development for population and reproductive health,0.2543159333,0.6253416383126963,Finland
+2020,Basic nutrition,0.2532906695,0.6228206002633878,Finland
+2020,Basic health infrastructure,0.2482256084,0.6103660380763951,Finland
+2020,Promotion of mental health and well-being,0.2457280056,0.6042246414028177,Finland
+2020,Tuberculosis control,0.1673135948,0.41141015478882936,Finland
+2020,Malaria control,0.017162959000000002,0.042202282649325594,Finland
+2020,STD control including HIV/AIDS,0.0006684634,0.0016436956673688491,Finland
+2020,Medical education/training,0.0,0.0,Finland
+2020,Medical research,0.0,0.0,Finland
+2019,Reproductive health care,6.122817379800001,26.77481235138052,Finland
+2019,Basic health care,5.7284658871,25.050330538095697,Finland
+2019,Health education,3.1256703763999996,13.668419717445921,Finland
+2019,Medical services,1.6644620443,7.2786196513317245,Finland
+2019,Health policy and administrative management,1.4155636736999997,6.190197973205983,Finland
+2019,Family planning,1.2690895865999998,5.549673202798676,Finland
+2019,Population policy and administrative management,1.1352776149,4.964519308701517,Finland
+2019,Health personnel development,0.8185893177,3.57965524932544,Finland
+2019,Other prevention and treatment of NCDs,0.5237808378,2.2904706731269466,Finland
+2019,Basic nutrition,0.298261491,1.3042844425696107,Finland
+2019,Personnel development for population and reproductive health,0.269900158,1.1802615749898464,Finland
+2019,Tuberculosis control,0.19619078380000002,0.8579337085318803,Finland
+2019,Basic health infrastructure,0.12302520779999998,0.5379838477956027,Finland
+2019,Infectious disease control,0.1120611184,0.49003836484566876,Finland
+2019,Medical research,0.0208212378,0.09105036136757698,Finland
+2019,Malaria control,0.0174445304,0.0762841677360643,Finland
+2019,Promotion of mental health and well-being,0.015787343,0.06903735978578021,Finland
+2019,Medical education/training,0.005670117200000001,0.02479517428385136,Finland
+2019,STD control including HIV/AIDS,0.0049468441,0.02163233268168457,Finland

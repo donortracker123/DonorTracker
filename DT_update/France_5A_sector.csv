@@ -1,111 +1,121 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-"2018","Government & civil society",647.795298,"6.42%","France"
-"2019","Government & civil society",576.351997,"5.42%","France"
-"2020","Government & civil society",1208.690365,"8.78%","France"
-"2021","Government & civil society",824.874199,"6.44%","France"
-"2022","Government & civil society",1761.742596,"12.18%","France"
-"2018","Refugees in donor countries",847.360545,"8.40%","France"
-"2019","Refugees in donor countries",1330.935754,"12.52%","France"
-"2020","Refugees in donor countries",1286.942107,"9.35%","France"
-"2021","Refugees in donor countries",1156.48431,"9.03%","France"
-"2022","Refugees in donor countries",1683.257944,"11.64%","France"
-"2018","Education",1344.648212,"13.33%","France"
-"2019","Education",1450.224797,"13.64%","France"
-"2020","Education",1637.270161,"11.90%","France"
-"2021","Education",1502.255337,"11.73%","France"
-"2022","Education",1670.370921,"11.55%","France"
-"2018","Energy",714.105965,"7.08%","France"
-"2019","Energy",1072.419049,"10.09%","France"
-"2020","Energy",825.800246,"6.00%","France"
-"2021","Energy",682.03603,"5.33%","France"
-"2022","Energy",1135.651276,"7.85%","France"
-"2018","Financial services & business support",462.063904,"4.58%","France"
-"2019","Financial services & business support",165.618351,"1.56%","France"
-"2020","Financial services & business support",572.776484,"4.16%","France"
-"2021","Financial services & business support",1148.96911,"8.97%","France"
-"2022","Financial services & business support",1063.17597,"7.35%","France"
-"2018","Health & populations",257.025863,"2.55%","France"
-"2019","Health & populations",338.605479,"3.19%","France"
-"2020","Health & populations",521.73086,"3.79%","France"
-"2021","Health & populations",1120.017812,"8.75%","France"
-"2022","Health & populations",972.596572,"6.72%","France"
-"2018","Infrastructure",774.675145,"7.68%","France"
-"2019","Infrastructure",1051.236221,"9.89%","France"
-"2020","Infrastructure",1012.930087,"7.36%","France"
-"2021","Infrastructure",664.167516,"5.19%","France"
-"2022","Infrastructure",842.63763,"5.82%","France"
-"2018","Unspecified",612.183149,"6.07%","France"
-"2019","Unspecified",128.337536,"1.21%","France"
-"2020","Unspecified",484.006447,"3.52%","France"
-"2021","Unspecified",68.822171,"0.54%","France"
-"2022","Unspecified",816.187535,"5.64%","France"
-"2018","Donor administration costs",664.92643,"6.59%","France"
-"2019","Donor administration costs",743.77007,"7.00%","France"
-"2020","Donor administration costs",713.766314,"5.19%","France"
-"2021","Donor administration costs",743.713507,"5.81%","France"
-"2022","Donor administration costs",776.340199,"5.37%","France"
-"2018","Water and sanitation",711.322624,"7.05%","France"
-"2019","Water and sanitation",650.548508,"6.12%","France"
-"2020","Water and sanitation",662.527583,"4.81%","France"
-"2021","Water and sanitation",653.862245,"5.11%","France"
-"2022","Water and sanitation",703.646503,"4.86%","France"
-"2018","Agriculture (incl. forestry, fishing, rural development)",665.638953,"6.60%","France"
-"2019","Agriculture (incl. forestry, fishing, rural development)",610.170445,"5.74%","France"
-"2020","Agriculture (incl. forestry, fishing, rural development)",947.599125,"6.89%","France"
-"2021","Agriculture (incl. forestry, fishing, rural development)",753.972186,"5.89%","France"
-"2022","Agriculture (incl. forestry, fishing, rural development)",599.413191,"4.14%","France"
-"2018","Other multisector",411.202875,"4.08%","France"
-"2019","Other multisector",806.623134,"7.59%","France"
-"2020","Other multisector",786.758504,"5.72%","France"
-"2021","Other multisector",1194.951762,"9.33%","France"
-"2022","Other multisector",580.5185,"4.01%","France"
-"2018","Environmental protection",491.759273,"4.88%","France"
-"2019","Environmental protection",484.228691,"4.56%","France"
-"2020","Environmental protection",956.830773,"6.95%","France"
-"2021","Environmental protection",840.719447,"6.57%","France"
-"2022","Environmental protection",575.151966,"3.98%","France"
-"2018","Humanitarian aid",114.685662,"1.14%","France"
-"2019","Humanitarian aid",171.663063,"1.61%","France"
-"2020","Humanitarian aid",130.699282,"0.95%","France"
-"2021","Humanitarian aid",92.903559,"0.73%","France"
-"2022","Humanitarian aid",340.928953,"2.36%","France"
-"2018","Industry, construction & mining",153.866664,"1.53%","France"
-"2019","Industry, construction & mining",215.347406,"2.03%","France"
-"2020","Industry, construction & mining",504.791773,"3.67%","France"
-"2021","Industry, construction & mining",479.175272,"3.74%","France"
-"2022","Industry, construction & mining",306.579439,"2.12%","France"
-"2018","Other social services",302.916364,"3.00%","France"
-"2019","Other social services",170.580342,"1.60%","France"
-"2020","Other social services",777.024457,"5.65%","France"
-"2021","Other social services",362.555964,"2.83%","France"
-"2022","Other social services",286.864679,"1.98%","France"
-"2018","General budget support",437.406047,"4.34%","France"
-"2019","General budget support",539.856147,"5.08%","France"
-"2020","General budget support",183.764419,"1.34%","France"
-"2021","General budget support",122.434347,"0.96%","France"
-"2022","General budget support",144.653661,"1.00%","France"
-"2018","Trade policy",220.528295,"2.19%","France"
-"2019","Trade policy",5.237559,"0.05%","France"
-"2020","Trade policy",36.440348,"0.26%","France"
-"2021","Trade policy",160.617709,"1.25%","France"
-"2022","Trade policy",127.142379,"0.88%","France"
-"2018","Debt relief",183.635916,"1.82%","France"
-"2019","Debt relief",68.797996,"0.65%","France"
-"2020","Debt relief",468.252486,"3.40%","France"
-"2021","Debt relief",138.364475,"1.08%","France"
-"2022","Debt relief",49.586661,"0.34%","France"
-"2018","Food aid and commodity assistance",47.39459,"0.47%","France"
-"2019","Food aid and commodity assistance",21.779696,"0.20%","France"
-"2020","Food aid and commodity assistance",26.975211,"0.20%","France"
-"2021","Food aid and commodity assistance",66.829292,"0.52%","France"
-"2022","Food aid and commodity assistance",23.765264,"0.16%","France"
-"2018","Conflict, peace & security",16.319924,"0.16%","France"
-"2019","Conflict, peace & security",14.750103,"0.14%","France"
-"2020","Conflict, peace & security",15.30683,"0.11%","France"
-"2021","Conflict, peace & security",26.728951,"0.21%","France"
-"2022","Conflict, peace & security",4.181725,"0.03%","France"
-"2018","Tourism",5.307668,"0.05%","France"
-"2019","Tourism",12.746307,"0.12%","France"
-"2020","Tourism",1.976312,"0.01%","France"
-"2021","Tourism",1.043592,"0.01%","France"
-"2022","Tourism",2.005832,"0.01%","France"
+Year,Sector,Bilateral ODA for,share,donor
+2023,Education,170270.52702549993,15.374543521896037,France
+2023,Refugees in donor countries,128185.52361825002,11.574486472639322,France
+2023,Other multisector,98453.43832625008,8.889833718553938,France
+2023,Infrastructure,90155.50177650002,8.14057318089813,France
+2023,Government & civil society,84213.41105925028,7.604033276198542,France
+2023,Donor administration costs,75015.33105225016,6.7734944633109375,France
+2023,Energy,72886.79095125003,6.581298356370913,France
+2023,Health & populations,66641.95118050002,6.017421785833932,France
+2023,Environmental protection,63526.68396800017,5.736129349746377,France
+2023,Water and sanitation,50915.93676050006,4.597444427743974,France
+2023,Financial services & business support,47999.567123749985,4.33411140887433,France
+2023,Unspecified,39563.839581999964,3.572409060880368,France
+2023,Emergency Response,36570.97140225005,3.3021686212183017,France
+2023,"Agriculture (incl. forestry, fishing, rural development)",35431.37353249998,3.1992688572250385,France
+2023,Other social services,20988.59715475002,1.8951612240615252,France
+2023,General budget support,8404.561933750001,0.7588882555908134,France
+2023,Reconstruction Relief & Rehabilitation,7598.6713185,0.686120522064076,France
+2023,"Industry, construction & mining",4629.39189625,0.418010024589571,France
+2023,Food aid and commodity assistance,4345.971205000001,0.39241860939428946,France
+2023,Trade policy,898.1145274999993,0.08109507342176674,France
+2023,"Conflict, peace & security",358.44476099999997,0.03236569871757547,France
+2023,Disaster Prevention & Preparedness,229.76159925000002,0.020746278108368876,France
+2023,Tourism,179.64184924999998,0.016220725206508486,France
+2023,Debt relief,19.459453,0.0017570874553996345,France
+2022,Government & civil society,173565.65182950062,12.178169273874667,France
+2022,Refugees in donor countries,165833.39687174998,11.635638486523119,France
+2022,Education,164563.77711250167,11.546556089294143,France
+2022,Energy,111883.57016100001,7.8502690020981625,France
+2022,Financial services & business support,104743.35415475006,7.349278407129755,France
+2022,Health & populations,95819.53678075023,6.723142086929317,France
+2022,Infrastructure,83016.07112399998,5.824791690888322,France
+2022,Unspecified,80410.22657125002,5.641953579025228,France
+2022,Donor administration costs,76484.49312425,5.366505954810723,France
+2022,Other multisector,71304.20290550013,5.003032822271198,France
+2022,Water and sanitation,69322.76167275004,4.864005736645008,France
+2022,Environmental protection,56663.57129124998,3.9757783615215243,France
+2022,"Agriculture (incl. forestry, fishing, rural development)",44941.843987500004,3.153327733862239,France
+2022,"Industry, construction & mining",30203.99521324997,2.1192520673133504,France
+2022,Other social services,28261.70594874996,1.9829720649477538,France
+2022,Emergency Response,24003.53718474998,1.6841992406123374,France
+2022,General budget support,14251.177449999997,0.9999285544619895,France
+2022,Trade policy,12525.978256249999,0.8788805960025693,France
+2022,Reconstruction Relief & Rehabilitation,9184.141737,0.6444018821092174,France
+2022,Debt relief,4885.243261,0.3427712727110072,France
+2022,Food aid and commodity assistance,2341.3369767500003,0.16427903637323896,France
+2022,"Conflict, peace & security",411.97990675,0.02890641661499435,France
+2022,Disaster Prevention & Preparedness,400.40430125000006,0.02809421856923658,France
+2022,Tourism,197.61275650000002,0.013865425410887307,France
+2021,Education,148876.7202437497,11.731329829898517,France
+2021,Other multisector,135462.88652899995,10.67433376406969,France
+2021,Refugees in donor countries,114610.07449375,9.031153987769741,France
+2021,Financial services & business support,113865.30117900002,8.972466629601628,France
+2021,Health & populations,110996.16610500007,8.746381786890725,France
+2021,Environmental protection,83317.09943550004,6.56530028568612,France
+2021,Government & civil society,81746.80231124985,6.4415625148287345,France
+2021,Donor administration costs,73703.60106874992,5.807766670122264,France
+2021,Energy,67591.23331800003,5.326118484910498,France
+2021,Infrastructure,65820.42396100002,5.186580559848572,France
+2021,Water and sanitation,64799.1508104998,5.10610530384265,France
+2021,"Agriculture (incl. forestry, fishing, rural development)",57679.65482849997,4.5450964674662755,France
+2021,"Industry, construction & mining",47487.29499924999,3.74194917414753,France
+2021,Other social services,35930.07435449997,2.831252276214174,France
+2021,Trade policy,15917.559547499997,1.2542870425479589,France
+2021,Debt relief,13712.2160715,1.0805082834322801,France
+2021,General budget support,12133.506406749999,0.9561076131830422,France
+2021,Emergency Response,7915.573409999997,0.6237389050044111,France
+2021,Unspecified,6820.424180999994,0.5374422912872139,France
+2021,Food aid and commodity assistance,6622.92757675,0.5218797654541067,France
+2021,"Conflict, peace & security",2648.8967685000002,0.2087302946071615,France
+2021,Reconstruction Relief & Rehabilitation,1226.4025705000001,0.09663923973617287,France
+2021,Tourism,103.42205000000001,0.008149549360355371,France
+2021,Disaster Prevention & Preparedness,64.96634575,0.005119280090189068,France
+2020,Education,162411.78670575068,11.896292662705202,France
+2020,Refugees in donor countries,127660.40676525001,9.350833403925797,France
+2020,Government & civil society,119898.0947877501,8.782261769461467,France
+2020,Infrastructure,100479.31834900005,7.359880719707058,France
+2020,Environmental protection,94914.45149450004,6.952266924717782,France
+2020,Other multisector,91834.01859075007,6.726632245769085,France
+2020,Energy,81916.65695325001,6.000208142724545,France
+2020,"Agriculture (incl. forestry, fishing, rural development)",80208.52683600009,5.875091510533302,France
+2020,Other social services,77078.25357550001,5.6458061392159085,France
+2020,Donor administration costs,70803.26184974994,5.186177318305133,France
+2020,Water and sanitation,65720.54958824994,4.813880246709755,France
+2020,Financial services & business support,56817.535590999985,4.1617547930114105,France
+2020,Health & populations,51753.97275450002,3.79086037308771,France
+2020,"Industry, construction & mining",50073.67782575002,3.6677826049187963,France
+2020,Unspecified,48011.84050874996,3.516757727701242,France
+2020,Debt relief,46449.100208749995,3.402290567763613,France
+2020,General budget support,18228.823591750002,1.3352197198419506,France
+2020,Emergency Response,11050.677435000012,0.8094368983581768,France
+2020,Trade policy,3614.7616152499995,0.2647730374325372,France
+2020,Food aid and commodity assistance,2675.8523175000014,0.19600007448246887,France
+2020,Reconstruction Relief & Rehabilitation,1638.7942602499986,0.12003793892875853,France
+2020,"Conflict, peace & security",1518.3865945000005,0.11121835224943506,France
+2020,Disaster Prevention & Preparedness,275.4634502500001,0.02017706897092158,France
+2020,Tourism,196.043781,0.01435975947795362,France
+2019,Education,143945.3135537497,13.64297431449216,France
+2019,Refugees in donor countries,132105.01396299998,12.520764086146157,France
+2019,Energy,106445.35872924996,10.088770931036894,France
+2019,Infrastructure,104342.80912850003,9.889493653508397,France
+2019,Other multisector,92167.09680450003,8.735493384962313,France
+2019,Donor administration costs,73824.56752100016,6.997009166897333,France
+2019,Water and sanitation,64571.64957949999,6.120028050295344,France
+2019,Government & civil society,57207.107531250054,5.422025069012082,France
+2019,General budget support,53584.63342824999,5.078691063048152,France
+2019,"Agriculture (incl. forestry, fishing, rural development)",48459.925904,4.592977069334002,France
+2019,Environmental protection,48063.20231925002,4.555376055844416,France
+2019,Health & populations,33609.045619000055,3.1854274015207675,France
+2019,"Industry, construction & mining",21374.7875815,2.0258782363431385,France
+2019,Other social services,16931.333137999984,1.6047326405356699,France
+2019,Financial services & business support,16438.821401499998,1.558052934161303,France
+2019,Emergency Response,13808.419253750002,1.3087463881365304,France
+2019,Unspecified,12738.430788749993,1.207334089365531,France
+2019,Debt relief,6828.70011,0.6472164873037849,France
+2019,Reconstruction Relief & Rehabilitation,2814.2595767500006,0.26673234558329023,France
+2019,Food aid and commodity assistance,2161.7930937500005,0.20489230891330754,France
+2019,"Conflict, peace & security",1464.0541874999997,0.13876140307707063,France
+2019,Tourism,1265.16353975,0.11991077201687474,France
+2019,Trade policy,519.8653207499999,0.049272248209311156,France
+2019,Disaster Prevention & Preparedness,416.12544875,0.0394399002561684,France

@@ -1,96 +1,76 @@
-"Year","Multi_short","ODA","Share","Full Name","Donor"
-"2018","UNRWA","42.3","14.2%","united nations relief and works agency for palestine refugees in the near east","Sweden"
-"2019","UNRWA","29.9","11.4%","united nations relief and works agency for palestine refugees in the near east","Sweden"
-"2020","UNRWA","36.9","14%","united nations relief and works agency for palestine refugees in the near east","Sweden"
-"2021","UNRWA","27.7","12.5%","united nations relief and works agency for palestine refugees in the near east","Sweden"
-"2022","UNRWA","34.7","15.8%","united nations relief and works agency for palestine refugees in the near east","Sweden"
-"2018","EC - Development Share of Budget","25","8.4%","european commission development share of budget","Sweden"
-"2019","EC - Development Share of Budget","24","9.2%","european commission development share of budget","Sweden"
-"2020","EC - Development Share of Budget","27.2","10.3%","european commission development share of budget","Sweden"
-"2021","EC - Development Share of Budget","27.4","12.3%","european commission development share of budget","Sweden"
-"2022","EC - Development Share of Budget","33.3","15.1%","european commission development share of budget","Sweden"
-"2018","IDA","31.4","10.5%","international development association","Sweden"
-"2019","IDA","30","11.5%","international development association","Sweden"
-"2020","IDA","25.5","9.7%","international development association","Sweden"
-"2021","IDA","29.2","13.2%","international development association","Sweden"
-"2022","IDA","30.1","13.7%","international development association","Sweden"
-"2018","UNICEF","5.7","1.9%","united nations childrenâ€™s fund","Sweden"
-"2019","UNICEF","4.5","1.7%","united nations childrenâ€™s fund","Sweden"
-"2020","UNICEF","5.3","2%","united nations childrenâ€™s fund","Sweden"
-"2021","UNICEF","5.4","2.5%","united nations childrenâ€™s fund","Sweden"
-"2022","UNICEF","6.3","2.9%","united nations childrenâ€™s fund","Sweden"
-"2018","UNFPA","4","1.4%","united nations population fund","Sweden"
-"2019","UNFPA","3.2","1.2%","united nations population fund","Sweden"
-"2020","UNFPA","3.7","1.4%","united nations population fund","Sweden"
-"2021","UNFPA","3.1","1.4%","united nations population fund","Sweden"
-"2022","UNFPA","3.9","1.8%","united nations population fund","Sweden"
-"2018","African Development Fund","5.1","1.7%","african development fund","Sweden"
-"2019","African Development Fund","4.4","1.7%","african development fund","Sweden"
-"2020","African Development Fund","3.4","1.3%","african development fund","Sweden"
-"2021","African Development Fund","1.9","0.8%","african development fund","Sweden"
-"2022","African Development Fund","1.2","0.5%","african development fund","Sweden"
-"2018","IBRD","0","0%","international bank for reconstruction and development","Sweden"
-"2019","IBRD","1.2","0.5%","international bank for reconstruction and development","Sweden"
-"2020","IBRD","0.8","0.3%","international bank for reconstruction and development","Sweden"
-"2021","IBRD","0.7","0.3%","international bank for reconstruction and development","Sweden"
-"2022","IBRD","0.7","0.3%","international bank for reconstruction and development","Sweden"
-"2018","UNDP","0","0%","united nations development programme","Sweden"
-"2019","UNDP","0","0%","united nations development programme","Sweden"
-"2020","UNDP","0","0%","united nations development programme","Sweden"
-"2021","UNDP","0","0%","united nations development programme","Sweden"
-"2022","UNDP","0.2","0.1%","united nations development programme","Sweden"
-"2018","EIB","0","0%","european investment bank","Sweden"
-"2019","EIB","0","0%","european investment bank","Sweden"
-"2020","EIB","0","0%","european investment bank","Sweden"
-"2021","EIB","0","0%","european investment bank","Sweden"
-"2022","EIB","0.1","0%","european investment bank","Sweden"
-"2018","AfDB","0.2","0.1%","african development bank","Sweden"
-"2019","AfDB","0","0%","african development bank","Sweden"
-"2020","AfDB","0.2","0.1%","african development bank","Sweden"
-"2021","AfDB","0","0%","african development bank","Sweden"
-"2022","AfDB","0.1","0%","african development bank","Sweden"
-"2018","SDG Fund","0","0%","joint sustainable development goals fund","Sweden"
-"2019","SDG Fund","0","0%","joint sustainable development goals fund","Sweden"
-"2020","SDG Fund","0","0%","joint sustainable development goals fund","Sweden"
-"2021","SDG Fund","0","0%","joint sustainable development goals fund","Sweden"
-"2022","SDG Fund","0","0%","joint sustainable development goals fund","Sweden"
-"2018","UNIDO","0","0%","united nations industrial development organisation","Sweden"
-"2019","UNIDO","0","0%","united nations industrial development organisation","Sweden"
-"2020","UNIDO","0","0%","united nations industrial development organisation","Sweden"
-"2021","UNIDO","0","0%","united nations industrial development organisation","Sweden"
-"2022","UNIDO","0","0%","united nations industrial development organisation","Sweden"
-"2018","IDB, IIC and MIF","0","0%","inter american development bank inter american investment corporation and multilateral investment fund","Sweden"
-"2019","IDB, IIC and MIF","0.2","0.1%","inter american development bank inter american investment corporation and multilateral investment fund","Sweden"
-"2020","IDB, IIC and MIF","0","0%","inter american development bank inter american investment corporation and multilateral investment fund","Sweden"
-"2021","IDB, IIC and MIF","0","0%","inter american development bank inter american investment corporation and multilateral investment fund","Sweden"
-"2022","IDB, IIC and MIF","0","0%","inter american development bank inter american investment corporation and multilateral investment fund","Sweden"
-"2018","Adaptation Fund","0","0%","adaptation fund","Sweden"
-"2019","Adaptation Fund","0","0%","adaptation fund","Sweden"
-"2020","Adaptation Fund","0","0%","adaptation fund","Sweden"
-"2021","Adaptation Fund","0","0%","adaptation fund","Sweden"
-"2022","Adaptation Fund","0","0%","adaptation fund","Sweden"
-"2018","FAO","0","0%","food and agricultural organisation","Sweden"
-"2019","FAO","0","0%","food and agricultural organisation","Sweden"
-"2020","FAO","0","0%","food and agricultural organisation","Sweden"
-"2021","FAO","0","0%","food and agricultural organisation","Sweden"
-"2022","FAO","0","0%","food and agricultural organisation","Sweden"
-"2018","UN","0","0%","united nations","Sweden"
-"2019","UN","0","0%","united nations","Sweden"
-"2020","UN","0","0%","united nations","Sweden"
-"2021","UN","0","0%","united nations","Sweden"
-"2022","UN","0","0%","united nations","Sweden"
-"2018","WFP","5.2","1.7%","world food programme","Sweden"
-"2019","WFP","1.5","0.6%","world food programme","Sweden"
-"2020","WFP","0","0%","world food programme","Sweden"
-"2021","WFP","0","0%","world food programme","Sweden"
-"2022","WFP","0","0%","world food programme","Sweden"
-"2018","IFC","0","0%","international finance corporation","Sweden"
-"2019","IFC","0","0%","international finance corporation","Sweden"
-"2020","IFC","0","0%","international finance corporation","Sweden"
-"2021","IFC","0","0%","international finance corporation","Sweden"
-"2022","IFC","0","0%","international finance corporation","Sweden"
-"2018","Strategic Climate Fund","0","0%","strategic climate fund","Sweden"
-"2019","Strategic Climate Fund","0","0%","strategic climate fund","Sweden"
-"2020","Strategic Climate Fund","0","0%","strategic climate fund","Sweden"
-"2021","Strategic Climate Fund","0","0%","strategic climate fund","Sweden"
-"2022","Strategic Climate Fund","0","0%","strategic climate fund","Sweden"
+Year,ODA,Share,Full Name,donor
+2019,1.3876,0.01386010246247554,world food programme,Sweden
+2019,2.8865,0.0288319297765463,united nations population fund,Sweden
+2019,0.0289,0.00028866889677539863,united nations development programme,Sweden
+2019,24.490199999999998,0.24462141923214073,european commission development share of budget,Sweden
+2019,3.9912,0.03986627338442806,african development fund,Sweden
+2019,0.0063,6.29278217884087e-05,food and agricultural organisation,Sweden
+2019,0.1645,0.0016431153466973383,inter american development bank inter american investment corporation and multilateral investment fund,Sweden
+2019,4.0726,0.04067934079610687,united nations children’s fund,Sweden
+2019,26.9345,0.2690364152317292,united nations relief and works agency for palestine refugees in the near east,Sweden
+2019,27.0155,0.2698454872261516,international development association,Sweden
+2019,8.0466,0.08037381123850942,european commission european development fund,Sweden
+2019,0.0040999999999999995,4.0953026878170736e-05,african development bank,Sweden
+2019,1.0862,0.010849555559772942,international bank for reconstruction and development,Sweden
+2020,33.201,0.3202238412972147,united nations relief and works agency for palestine refugees in the near east,Sweden
+2020,22.951700000000002,0.22136928219937002,international development association,Sweden
+2020,0.1589,0.0015325914394785525,african development bank,Sweden
+2020,3.0734,0.0296429611711352,african development fund,Sweden
+2020,0.0379,0.0003655457240795289,united nations industrial development organisation,Sweden
+2020,0.0207,0.0001996516223864445,inter american development bank inter american investment corporation and multilateral investment fund,Sweden
+2020,26.978600000000004,0.26020875650796776,european commission development share of budget,Sweden
+2020,4.804099999999999,0.046335572903706185,united nations children’s fund,Sweden
+2020,0.0067,6.462153961300378e-05,food and agricultural organisation,Sweden
+2020,8.2892,0.07994938300897178,european commission european development fund,Sweden
+2020,0.0011,1.0609506503627488e-05,strategic climate fund,Sweden
+2020,0.7546999999999998,0.007279085962079693,international bank for reconstruction and development,Sweden
+2020,0.0271,0.00026137966022573173,united nations development programme,Sweden
+2020,3.3755,0.032556717457267806,united nations population fund,Sweden
+2021,2.7758,0.029555097716661604,united nations population fund,Sweden
+2021,0.0111,0.0001181863191350039,united nations development programme,Sweden
+2021,26.431200000000004,0.2814239854343347,international development association,Sweden
+2021,0.0027,2.874802357337933e-05,adaptation fund,Sweden
+2021,0.0361,0.0003843717225922199,african development bank,Sweden
+2021,1.6935000000000002,0.018031399230191814,african development fund,Sweden
+2021,0.021,0.00022359573890406143,united nations industrial development organisation,Sweden
+2021,4.2196,0.04492783713712274,european commission european development fund,Sweden
+2021,25.0742,0.266975441734677,united nations relief and works agency for palestine refugees in the near east,Sweden
+2021,0.005,5.32370806914432e-05,inter american development bank inter american investment corporation and multilateral investment fund,Sweden
+2021,4.927,0.05245981931334812,united nations children’s fund,Sweden
+2021,0.6628000000000001,0.00705710741645771,international bank for reconstruction and development,Sweden
+2021,28.052100000000003,0.2986823822528868,european commission development share of budget,Sweden
+2021,0.0012,1.2776899365946367e-05,strategic climate fund,Sweden
+2021,0.0062,6.601398005738957e-05,food and agricultural organisation,Sweden
+2022,0.0060999999999999995,5.8467481057973846e-05,inter american development bank inter american investment corporation and multilateral investment fund,Sweden
+2022,31.4621,0.30155897308099655,united nations relief and works agency for palestine refugees in the near east,Sweden
+2022,27.264300000000006,0.2613237612801503,international development association,Sweden
+2022,0.0761,0.0007294057882806246,african development bank,Sweden
+2022,1.0909,0.010456094276416996,african development fund,Sweden
+2022,0.0034,3.2588432065100176e-05,adaptation fund,Sweden
+2022,0.0143,0.00013706311133262724,united nations industrial development organisation,Sweden
+2022,0.215,0.00206073908646957,united nations development programme,Sweden
+2022,5.724300000000001,0.05486645931478029,united nations children’s fund,Sweden
+2022,0.6721,0.00644196623263348,international bank for reconstruction and development,Sweden
+2022,0.0012,1.1501799552388297e-05,food and agricultural organisation,Sweden
+2022,1.7602,0.01687122297676157,european commission european development fund,Sweden
+2022,0.0258,0.0002472886903763484,joint sustainable development goals fund,Sweden
+2022,3.5589,0.0341114620224956,united nations population fund,Sweden
+2022,32.37470000000001,0.310306091640588,european commission development share of budget,Sweden
+2022,0.0821,0.0007869147860425662,european investment bank,Sweden
+2023,17.0704,0.1514950354811341,united nations relief and works agency for palestine refugees in the near east,Sweden
+2023,30.2655,0.2685978650971427,european commission development share of budget,Sweden
+2023,0.1241,0.0011013528624524759,european investment bank,Sweden
+2023,2.4547,0.02178477736875175,united nations population fund,Sweden
+2023,0.0076,6.744787876421287e-05,united nations industrial development organisation,Sweden
+2023,4.832100000000001,0.04288353881270435,united nations children’s fund,Sweden
+2023,0.37289999999999995,0.0033093834198914436,european commission european development fund,Sweden
+2023,0.1775,0.0015752629579799714,united nations development programme,Sweden
+2023,0.0015,1.3312081335042013e-05,food and agricultural organisation,Sweden
+2023,0.5862999999999998,0.00520324885782342,international bank for reconstruction and development,Sweden
+2023,56.0792,0.49768724773605866,international development association,Sweden
+2023,0.0036,3.194899520410083e-05,adaptation fund,Sweden
+2023,0.1401,0.001243348396692924,african development fund,Sweden
+2023,0.2999,0.0026615287949193996,african development bank,Sweden
+2023,0.0158,0.00014022059006244255,joint sustainable development goals fund,Sweden
+2023,0.2375,0.002107746211381652,asian development bank,Sweden
+2023,0.0109,9.673445770130528e-05,united nations,Sweden

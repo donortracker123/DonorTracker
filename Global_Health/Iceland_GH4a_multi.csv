@@ -1,71 +1,50 @@
-"Year","Multi_short","ODA","Share","Full Name","Donor"
-"2018","IDA","0.6","18.1%","international development association","Iceland"
-"2019","IDA","0.3","6.7%","international development association","Iceland"
-"2020","IDA","0.3","3%","international development association","Iceland"
-"2021","IDA","0.4","2.7%","international development association","Iceland"
-"2022","IDA","0.9","8.9%","international development association","Iceland"
-"2018","UNFPA","0.1","4.3%","united nations population fund","Iceland"
-"2019","UNFPA","0.1","2%","united nations population fund","Iceland"
-"2020","UNFPA","0.1","1.1%","united nations population fund","Iceland"
-"2021","UNFPA","0.2","1%","united nations population fund","Iceland"
-"2022","UNFPA","0.4","4.1%","united nations population fund","Iceland"
-"2018","UNICEF","0.2","5.3%","united nations childrenâ€™s fund","Iceland"
-"2019","UNICEF","0.2","3.5%","united nations childrenâ€™s fund","Iceland"
-"2020","UNICEF","0.2","1.5%","united nations childrenâ€™s fund","Iceland"
-"2021","UNICEF","0.2","1.1%","united nations childrenâ€™s fund","Iceland"
-"2022","UNICEF","0.2","1.7%","united nations childrenâ€™s fund","Iceland"
-"2018","IBRD","0","0%","international bank for reconstruction and development","Iceland"
-"2019","IBRD","0","0%","international bank for reconstruction and development","Iceland"
-"2020","IBRD","0.1","1.2%","international bank for reconstruction and development","Iceland"
-"2021","IBRD","0.1","0.7%","international bank for reconstruction and development","Iceland"
-"2022","IBRD","0.1","1.4%","international bank for reconstruction and development","Iceland"
-"2018","UNRWA","0","1.1%","united nations relief and works agency for palestine refugees in the near east","Iceland"
-"2019","UNRWA","0","0.7%","united nations relief and works agency for palestine refugees in the near east","Iceland"
-"2020","UNRWA","0","0.3%","united nations relief and works agency for palestine refugees in the near east","Iceland"
-"2021","UNRWA","0","0.2%","united nations relief and works agency for palestine refugees in the near east","Iceland"
-"2022","UNRWA","0","0.4%","united nations relief and works agency for palestine refugees in the near east","Iceland"
-"2018","WFP","0","0.6%","world food programme","Iceland"
-"2019","WFP","0","0.2%","world food programme","Iceland"
-"2020","WFP","0","0.1%","world food programme","Iceland"
-"2021","WFP","0","0%","world food programme","Iceland"
-"2022","WFP","0","0.3%","world food programme","Iceland"
-"2018","UNDP","0","0%","united nations development programme","Iceland"
-"2019","UNDP","0","0%","united nations development programme","Iceland"
-"2020","UNDP","0","0%","united nations development programme","Iceland"
-"2021","UNDP","0","0%","united nations development programme","Iceland"
-"2022","UNDP","0","0.2%","united nations development programme","Iceland"
-"2018","FAO","0","0.1%","food and agricultural organisation","Iceland"
-"2019","FAO","0","0.1%","food and agricultural organisation","Iceland"
-"2020","FAO","0","0%","food and agricultural organisation","Iceland"
-"2021","FAO","0","0%","food and agricultural organisation","Iceland"
-"2022","FAO","0","0%","food and agricultural organisation","Iceland"
-"2018","UN","0","0%","united nations","Iceland"
-"2019","UN","0","0%","united nations","Iceland"
-"2020","UN","0","0%","united nations","Iceland"
-"2021","UN","0","0%","united nations","Iceland"
-"2022","UN","0","0%","united nations","Iceland"
-"2018","IFC","0","0%","international finance corporation","Iceland"
-"2019","IFC","0","0%","international finance corporation","Iceland"
-"2020","IFC","0","0%","international finance corporation","Iceland"
-"2021","IFC","0","0%","international finance corporation","Iceland"
-"2022","IFC","0","0%","international finance corporation","Iceland"
-"2018","GCF","0","0%","green climate fund","Iceland"
-"2019","GCF","0","0%","green climate fund","Iceland"
-"2020","GCF","0","0%","green climate fund","Iceland"
-"2021","GCF","0","0%","green climate fund","Iceland"
-"2022","GCF","0","0%","green climate fund","Iceland"
-"2018","GEF-Least Developed Countries Fund","0","0%","global environment facility least developed countries fund","Iceland"
-"2019","GEF-Least Developed Countries Fund","0","0%","global environment facility least developed countries fund","Iceland"
-"2020","GEF-Least Developed Countries Fund","0","0%","global environment facility least developed countries fund","Iceland"
-"2021","GEF-Least Developed Countries Fund","0","0%","global environment facility least developed countries fund","Iceland"
-"2022","GEF-Least Developed Countries Fund","0","0%","global environment facility least developed countries fund","Iceland"
-"2018","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Iceland"
-"2019","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Iceland"
-"2020","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Iceland"
-"2021","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Iceland"
-"2022","WHO - assessed contributions","0","0%","world health organisation assessed contributions","Iceland"
-"2018","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Iceland"
-"2019","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Iceland"
-"2020","WHO - core voluntary contributions","0.2","1.6%","world health organisation core voluntary contributions account","Iceland"
-"2021","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Iceland"
-"2022","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Iceland"
+Year,ODA,Share,Full Name,donor
+2019,0.006600000000000001,0.009192200557103066,food and agricultural organisation,Iceland
+2019,0.19089999999999996,0.26587743732590524,united nations children’s fund,Iceland
+2019,0.0002,0.0002785515320334262,united nations,Iceland
+2019,0.10799999999999998,0.15041782729805012,united nations population fund,Iceland
+2019,0.0361,0.05027855153203343,united nations relief and works agency for palestine refugees in the near east,Iceland
+2019,0.3627,0.5051532033426185,international development association,Iceland
+2019,0.0121,0.016852367688022285,world food programme,Iceland
+2019,0.0014000000000000002,0.0019498607242339836,united nations development programme,Iceland
+2020,0.0332,0.030214779759737895,united nations relief and works agency for palestine refugees in the near east,Iceland
+2020,0.14959999999999998,0.13614852566436111,international bank for reconstruction and development,Iceland
+2020,0.3745,0.34082635602475425,international development association,Iceland
+2020,0.0057,0.005187477247906807,food and agricultural organisation,Iceland
+2020,0.0002,0.00018201674554058975,united nations,Iceland
+2020,0.014,0.012741172187841281,world food programme,Iceland
+2020,0.19760000000000003,0.1798325445941027,world health organisation core voluntary contributions account,Iceland
+2020,0.18430000000000002,0.16772843101565346,united nations children’s fund,Iceland
+2020,0.1373,0.12495449581361485,united nations population fund,Iceland
+2020,0.0024,0.0021842009464870765,united nations development programme,Iceland
+2021,0.17919999999999997,0.1851048445408532,united nations children’s fund,Iceland
+2021,0.0313,0.032331370726164654,united nations relief and works agency for palestine refugees in the near east,Iceland
+2021,0.0051,0.005268050821196158,food and agricultural organisation,Iceland
+2021,0.0009,0.0009296560272699101,united nations,Iceland
+2021,0.1696,0.17518851358330753,united nations population fund,Iceland
+2021,0.0033,0.003408738766656337,united nations development programme,Iceland
+2021,0.0077,0.007953723788864787,world food programme,Iceland
+2021,0.4502,0.46503460386323725,international development association,Iceland
+2021,0.12080000000000003,0.1247804978824502,international bank for reconstruction and development,Iceland
+2022,0.9551,0.5237729640800658,international development association,Iceland
+2022,0.0048000000000000004,0.0026323005209761448,food and agricultural organisation,Iceland
+2022,0.14850000000000005,0.0814367973676995,international bank for reconstruction and development,Iceland
+2022,0.0022,0.0012064710721140664,united nations,Iceland
+2022,0.4334,0.23767480120647105,united nations population fund,Iceland
+2022,0.025899999999999996,0.014203454894433778,united nations development programme,Iceland
+2022,0.0001,5.4839594187003014e-05,green climate fund,Iceland
+2022,0.0007,0.0003838771593090211,international finance corporation,Iceland
+2022,0.0338,0.018535782835207015,world food programme,Iceland
+2022,0.17700000000000005,0.09706608171099536,united nations children’s fund,Iceland
+2022,0.042,0.023032629558541268,united nations relief and works agency for palestine refugees in the near east,Iceland
+2023,0.9322999999999999,0.43154045547120906,united nations population fund,Iceland
+2023,0.0002,9.257544899092762e-05,green climate fund,Iceland
+2023,0.2313,0.1070635067580078,united nations children’s fund,Iceland
+2023,0.0149,0.006896870949824108,united nations development programme,Iceland
+2023,0.0005,0.00023143862247731905,international finance corporation,Iceland
+2023,0.0031,0.001434919459359378,united nations,Iceland
+2023,0.14429999999999998,0.06679318644695427,international bank for reconstruction and development,Iceland
+2023,0.5065,0.2344473245695242,international development association,Iceland
+2023,0.0068,0.003147565265691539,food and agricultural organisation,Iceland
+2023,0.2888,0.13367894834289948,united nations relief and works agency for palestine refugees in the near east,Iceland
+2023,0.0317,0.014673208665062028,world food programme,Iceland

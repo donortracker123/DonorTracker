@@ -1,134 +1,171 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Agrarian reform",0.092507,"0%","Canada"
-2018,"Agricultural alternative development",43.666724,"19%","Canada"
-2018,"Agricultural co-operatives",14.297614,"6%","Canada"
-2018,"Agricultural development",27.907916,"12%","Canada"
-2018,"Agricultural education/training",17.537171,"8%","Canada"
-2018,"Agricultural extension",19.955545,"9%","Canada"
-2018,"Agricultural financial services",7.30279,"3%","Canada"
-2018,"Agricultural inputs",4.012862,"2%","Canada"
-2018,"Agricultural land resources",7.41831,"3%","Canada"
-2018,"Agricultural policy and administrative management",23.188794,"10%","Canada"
-2018,"Agricultural research",5.925532,"3%","Canada"
-2018,"Agricultural services",16.083756,"7%","Canada"
-2018,"Agricultural water resources",10.76987,"5%","Canada"
-2018,"Fishery development",0.609379,"0%","Canada"
-2018,"Fishery education/training",0.000293,"0%","Canada"
-2018,"Fishery research",0.534332,"0%","Canada"
-2018,"Fishing policy and administrative management",0.128096,"0%","Canada"
-2018,"Food crop production",17.331623,"7%","Canada"
-2018,"Forestry development",1.288487,"1%","Canada"
-2018,"Forestry education/training",0.766643,"0%","Canada"
-2018,"Forestry policy and administrative management",0.45313,"0%","Canada"
-2018,"Industrial crops/export crops",1.109016,"0%","Canada"
-2018,"Livestock",2.158599,"1%","Canada"
-2018,"Livestock/veterinary services",1.963401,"1%","Canada"
-2018,"Plant and post-harvest protection and pest control",0.179618,"0%","Canada"
-2018,"Rural development",8.837408,"4%","Canada"
-2019,"Agrarian reform",0.00254,"0%","Canada"
-2019,"Agricultural alternative development",0.644319,"0%","Canada"
-2019,"Agricultural co-operatives",13.195576,"7%","Canada"
-2019,"Agricultural development",32.538867,"18%","Canada"
-2019,"Agricultural education/training",15.810775,"9%","Canada"
-2019,"Agricultural extension",16.218494,"9%","Canada"
-2019,"Agricultural financial services",7.14085,"4%","Canada"
-2019,"Agricultural inputs",4.601719,"3%","Canada"
-2019,"Agricultural land resources",6.182659,"4%","Canada"
-2019,"Agricultural policy and administrative management",14.502286,"8%","Canada"
-2019,"Agricultural research",8.151838,"5%","Canada"
-2019,"Agricultural services",3.570677,"2%","Canada"
-2019,"Agricultural water resources",13.645603,"8%","Canada"
-2019,"Fishery development",1.745315,"1%","Canada"
-2019,"Fishery education/training",0.217151,"0%","Canada"
-2019,"Fishery research",1.333182,"1%","Canada"
-2019,"Fishing policy and administrative management",0.656222,"0%","Canada"
-2019,"Food crop production",16.358125,"9%","Canada"
-2019,"Forestry development",3.518705,"2%","Canada"
-2019,"Forestry education/training",0.611404,"0%","Canada"
-2019,"Forestry policy and administrative management",0.013936,"0%","Canada"
-2019,"Industrial crops/export crops",1.430139,"1%","Canada"
-2019,"Livestock",1.000281,"1%","Canada"
-2019,"Livestock/veterinary services",1.384753,"1%","Canada"
-2019,"Plant and post-harvest protection and pest control",0.637457,"0%","Canada"
-2019,"Rural development",11.088641,"6%","Canada"
-2020,"Agrarian reform",0.000365,"0%","Canada"
-2020,"Agricultural alternative development",0.414898,"0%","Canada"
-2020,"Agricultural co-operatives",29.232173,"9%","Canada"
-2020,"Agricultural development",40.917131,"12%","Canada"
-2020,"Agricultural education/training",28.201369,"9%","Canada"
-2020,"Agricultural extension",17.488594,"5%","Canada"
-2020,"Agricultural financial services",8.432059,"3%","Canada"
-2020,"Agricultural inputs",6.623552,"2%","Canada"
-2020,"Agricultural land resources",16.092316,"5%","Canada"
-2020,"Agricultural policy and administrative management",12.4572,"4%","Canada"
-2020,"Agricultural research",7.480774,"2%","Canada"
-2020,"Agricultural services",9.82746,"3%","Canada"
-2020,"Agricultural water resources",16.465186,"5%","Canada"
-2020,"Fishery development",2.775165,"1%","Canada"
-2020,"Fishery education/training",0.577634,"0%","Canada"
-2020,"Fishery research",1.12893,"0%","Canada"
-2020,"Fishing policy and administrative management",1.357415,"0%","Canada"
-2020,"Food crop production",24.174659,"7%","Canada"
-2020,"Forestry development",45.600126,"14%","Canada"
-2020,"Forestry education/training",0.585595,"0%","Canada"
-2020,"Forestry policy and administrative management",17.800165,"5%","Canada"
-2020,"Forestry research",0.140529,"0%","Canada"
-2020,"Industrial crops/export crops",1.227775,"0%","Canada"
-2020,"Livestock",1.100983,"0%","Canada"
-2020,"Livestock/veterinary services",0.87794,"0%","Canada"
-2020,"Plant and post-harvest protection and pest control",0.845713,"0%","Canada"
-2020,"Rural development",36.556721,"11%","Canada"
-2021,"Agricultural alternative development",4.507379,"1%","Canada"
-2021,"Agricultural co-operatives",26.043311,"7%","Canada"
-2021,"Agricultural development",59.940217,"17%","Canada"
-2021,"Agricultural education/training",25.098422,"7%","Canada"
-2021,"Agricultural extension",11.983363,"3%","Canada"
-2021,"Agricultural financial services",3.161624,"1%","Canada"
-2021,"Agricultural inputs",7.183559,"2%","Canada"
-2021,"Agricultural land resources",32.984306,"9%","Canada"
-2021,"Agricultural policy and administrative management",12.186573,"3%","Canada"
-2021,"Agricultural research",4.87783,"1%","Canada"
-2021,"Agricultural services",6.999898,"2%","Canada"
-2021,"Agricultural water resources",20.22046,"6%","Canada"
-2021,"Fishery development",5.068294,"1%","Canada"
-2021,"Fishery education/training",0.011966,"0%","Canada"
-2021,"Fishery research",0.517553,"0%","Canada"
-2021,"Fishing policy and administrative management",0.963756,"0%","Canada"
-2021,"Food crop production",28.871465,"8%","Canada"
-2021,"Forestry development",43.633788,"12%","Canada"
-2021,"Forestry education/training",0.926932,"0%","Canada"
-2021,"Forestry policy and administrative management",14.862375,"4%","Canada"
-2021,"Forestry services",2.116491,"1%","Canada"
-2021,"Fuelwood/charcoal",0.717989,"0%","Canada"
-2021,"Industrial crops/export crops",0.774736,"0%","Canada"
-2021,"Livestock",1.316808,"0%","Canada"
-2021,"Livestock/veterinary services",0.501766,"0%","Canada"
-2021,"Plant and post-harvest protection and pest control",0.504164,"0%","Canada"
-2021,"Rural development",36.568896,"10%","Canada"
-2022,"Agricultural co-operatives",15.361602,"6%","Canada"
-2022,"Agricultural development",36.195456,"14%","Canada"
-2022,"Agricultural education/training",16.225181,"6%","Canada"
-2022,"Agricultural extension",10.132095,"4%","Canada"
-2022,"Agricultural financial services",58.917243,"23%","Canada"
-2022,"Agricultural inputs",40.638877,"16%","Canada"
-2022,"Agricultural land resources",7.300088,"3%","Canada"
-2022,"Agricultural policy and administrative management",10.676915,"4%","Canada"
-2022,"Agricultural research",5.77628,"2%","Canada"
-2022,"Agricultural services",11.421003,"4%","Canada"
-2022,"Agricultural water resources",6.582515,"3%","Canada"
-2022,"Fishery development",4.041315,"2%","Canada"
-2022,"Fishery education/training",0.824499,"0%","Canada"
-2022,"Fishery research",0.283699,"0%","Canada"
-2022,"Fishery services",0.017274,"0%","Canada"
-2022,"Fishing policy and administrative management",0.440983,"0%","Canada"
-2022,"Food crop production",13.967542,"5%","Canada"
-2022,"Forestry development",5.788659,"2%","Canada"
-2022,"Forestry education/training",0.899219,"0%","Canada"
-2022,"Forestry policy and administrative management",1.16827,"0%","Canada"
-2022,"Forestry research",0.242829,"0%","Canada"
-2022,"Fuelwood/charcoal",0.257909,"0%","Canada"
-2022,"Industrial crops/export crops",1.077818,"0%","Canada"
-2022,"Livestock",4.692839,"2%","Canada"
-2022,"Livestock/veterinary services",1.083617,"0%","Canada"
-2022,"Plant and post-harvest protection and pest control",0.459881,"0%","Canada"
-2022,"Rural development",3.696658,"1%","Canada"
+year,Sector,Bilateral ODA for,share,donor
+2023,Research/scientific institutions,57.64415226339993,19.015940750319047,Canada
+2023,Disaster Risk Reduction,29.80432085760004,9.831998169421817,Canada
+2023,Agricultural development,27.541249332299984,9.08544483575151,Canada
+2023,Household food security programmes,24.2241944661,7.991198215331246,Canada
+2023,Food crop production,20.29427109359998,6.694775472165961,Canada
+2023,Agricultural co-operatives,20.250761062,6.680422165707934,Canada
+2023,Agricultural education/training,15.343354376099995,5.061542346808331,Canada
+2023,Agricultural services,10.7176357838,3.5355872026179975,Canada
+2023,Agricultural financial services,10.441153501199995,3.4443798468326148,Canada
+2023,Rural development,9.8652452763,3.254396366248529,Canada
+2023,Agricultural extension,9.746610410799981,3.2152605045055713,Canada
+2023,Agricultural water resources,9.253792985000004,3.052687431578497,Canada
+2023,Agricultural policy and administrative management,8.793192008699993,2.900742081860494,Canada
+2023,Agricultural inputs,7.246337523499997,2.3904580012564525,Canada
+2023,Food security policy and administrative management,7.192494005899999,2.3726958328444376,Canada
+2023,Agricultural land resources,6.822186991200003,2.250537105992388,Canada
+2023,Fishery development,6.3808631428,2.1049509914715276,Canada
+2023,Forestry development,6.3592595155,2.097824279036733,Canada
+2023,Multisector education/training,2.8973522256999997,0.955793017910306,Canada
+2023,Forestry policy and administrative management,2.8165674152999984,0.9291433213188348,Canada
+2023,Agricultural research,2.0950146630999993,0.6911138969052725,Canada
+2023,Livestock,1.0641302772000003,0.35104060875753224,Canada
+2023,Fishing policy and administrative management,1.0181003596,0.3358560297247093,Canada
+2023,Livestock/veterinary services,0.8671894659,0.2860727906536585,Canada
+2023,Industrial crops/export crops,0.8481740935999998,0.27979990470072114,Canada
+2023,Forestry education/training,0.7898270123000002,0.26055207821027393,Canada
+2023,Plant and post-harvest protection and pest control,0.5915207744000002,0.19513382636238638,Canada
+2023,Fishery education/training,0.5782581650999999,0.19075869058987951,Canada
+2023,Fuelwood/charcoal,0.4235527919,0.1397237096765583,Canada
+2023,Non-agricultural alternative development,0.3898458982,0.12860431129339442,Canada
+2023,Fishery research,0.2440714698,0.08051551504049022,Canada
+2023,Forestry research,0.21492869520000002,0.07090175105344713,Canada
+2023,Food safety and quality,0.1863191988,0.06146390754153391,Canada
+2023,Forestry services,0.1111699474,0.03667329728980558,Canada
+2023,Fishery services,0.07885094439999998,0.026011743220120752,Canada
+2023,Agricultural alternative development,0.0,0.0,Canada
+2022,Agricultural financial services,59.99197009430001,18.593130121197422,Canada
+2022,Agricultural inputs,41.380173164400006,12.824832104596485,Canada
+2022,Research/scientific institutions,39.8977466947,12.36538814563141,Canada
+2022,Agricultural development,36.85570027080001,11.422575884167275,Canada
+2022,Agricultural education/training,16.52115006920004,5.120350148621841,Canada
+2022,Agricultural co-operatives,15.641829012599992,4.847824829016996,Canada
+2022,Food crop production,14.222312766599996,4.407878445700284,Canada
+2022,Agricultural services,11.629340305600003,3.60424632139645,Canada
+2022,Agricultural policy and administrative management,10.871672117500001,3.369424507945558,Canada
+2022,Agricultural extension,10.316923121400002,3.1974928268742784,Canada
+2022,Agricultural land resources,7.433256416100004,2.3037667133039266,Canada
+2022,Agricultural water resources,6.702591052900001,2.07731380382829,Canada
+2022,Forestry development,5.8942516688,1.8267876196233823,Canada
+2022,Agricultural research,5.881644425200004,1.82288029468713,Canada
+2022,Disaster Risk Reduction,5.7460989759,1.7808711029201372,Canada
+2022,Food security policy and administrative management,5.4161677625,1.678616518312428,Canada
+2022,Household food security programmes,5.0282449866,1.5583887838681794,Canada
+2022,Livestock,4.7784471246999995,1.4809696868956514,Canada
+2022,Fishery development,4.115031463300001,1.2753592744110913,Canada
+2022,Rural development,3.7640787357999987,1.1665895554213717,Canada
+2022,Multisector education/training,3.1803539807999996,0.9856775048982922,Canada
+2022,Forestry policy and administrative management,1.1895844620999998,0.3686843199050307,Canada
+2022,Livestock/veterinary services,1.1033877570000001,0.34196963539936137,Canada
+2022,Industrial crops/export crops,1.0974757919000002,0.3401373579094991,Canada
+2022,Forestry education/training,0.9156259723000001,0.28377719249028854,Canada
+2022,Fishery education/training,0.8395390888999997,0.2601958144933857,Canada
+2022,Non-agricultural alternative development,0.5084075112,0.1575692046031654,Canada
+2022,Plant and post-harvest protection and pest control,0.46827490819999995,0.14513102815207635,Canada
+2022,Fishing policy and administrative management,0.4490270813,0.13916560728759325,Canada
+2022,Fishery research,0.28887465219999997,0.08953004858196129,Canada
+2022,Fuelwood/charcoal,0.262615096,0.08139150363029474,Canada
+2022,Forestry research,0.24726137199999998,0.0766329703177827,Canada
+2022,Fishery services,0.0175884136,0.005451123911686804,Canada
+2022,Food safety and quality,,,Canada
+2022,Agricultural alternative development,,,Canada
+2022,Forestry services,,,Canada
+2021,Agricultural development,60.43144700300005,14.20041767385641,Canada
+2021,Forestry development,43.99139526489999,10.337270043960338,Canada
+2021,Rural development,36.8686005244,8.66352788923043,Canada
+2021,Agricultural land resources,33.25462788150001,7.814302468754845,Canada
+2021,Disaster Risk Reduction,30.205315786300005,7.097763191321483,Canada
+2021,Food crop production,29.10808514610001,6.839931645857756,Canada
+2021,Agricultural co-operatives,26.256752094299998,6.169914258042738,Canada
+2021,Agricultural education/training,25.304111145400014,5.946058963514921,Canada
+2021,Research/scientific institutions,24.836538484500007,5.836186911678616,Canada
+2021,Agricultural water resources,20.386182470399998,4.790424856792828,Canada
+2021,Forestry policy and administrative management,14.984181741400004,3.521041606339326,Canada
+2021,Agricultural policy and administrative management,12.2864513685,2.8871183765227926,Canada
+2021,Agricultural extension,12.0815719396,2.838975007342559,Canada
+2021,Agricultural inputs,7.2424297468,1.7018544562240332,Canada
+2021,Agricultural services,7.0572640307,1.6583434923484175,Canada
+2021,Household food security programmes,6.947732009199999,1.632605229720276,Canada
+2021,Fishery development,5.109829714299999,1.2007277631750257,Canada
+2021,Agricultural research,4.9178124477,1.155606795176744,Canada
+2021,Agricultural alternative development,4.544321391,1.0678424065079324,Canada
+2021,Multisector education/training,4.021659919999999,0.9450253707043095,Canada
+2021,Food security policy and administrative management,3.6453471770000014,0.8565979311573254,Canada
+2021,Agricultural financial services,3.1875346792,0.7490193606036739,Canada
+2021,Forestry services,2.133835558,0.5014170216612913,Canada
+2021,Livestock,1.3276009624000005,0.31196486440839055,Canada
+2021,Fishing policy and administrative management,0.9716563212,0.22832360105158164,Canada
+2021,Forestry education/training,0.9345280474,0.21959905412085653,Canada
+2021,Industrial crops/export crops,0.7810845706,0.18354230605423283,Canada
+2021,Fuelwood/charcoal,0.7238733914,0.17009859949838094,Canada
+2021,Fishery research,0.5217951381,0.12261346151184732,Canada
+2021,Plant and post-harvest protection and pest control,0.5082912839000001,0.11944027305853526,Canada
+2021,Livestock/veterinary services,0.505881765,0.11887407488738518,Canada
+2021,Non-agricultural alternative development,0.47124993639999996,0.110736152409623,Canada
+2021,Fishery education/training,0.012064198400000002,0.002834892505085398,Canada
+2021,Fishery services,0.0,0.0,Canada
+2020,Forestry development,46.0095563351,10.94902776368263,Canada
+2020,Disaster Risk Reduction,45.890994722100004,10.920813312254554,Canada
+2020,Agricultural development,41.284514189700005,9.824595759649423,Canada
+2020,Rural development,36.884956342600006,8.777620199507437,Canada
+2020,Agricultural co-operatives,29.494635658499995,7.01892411986281,Canada
+2020,Research/scientific institutions,28.996941569599983,6.900486411889742,Canada
+2020,Agricultural education/training,28.454579082899993,6.771418835545219,Canada
+2020,Food crop production,24.391720003499998,5.80456845915191,Canada
+2020,Forestry policy and administrative management,17.959982511099998,4.273989206004825,Canada
+2020,Agricultural extension,17.645618919000004,4.199179188870015,Canada
+2020,Agricultural water resources,16.613023354699997,3.953449423083267,Canada
+2020,Agricultural land resources,16.2368043749,3.8639194996679436,Canada
+2020,Agricultural policy and administrative management,12.569055606700003,2.9910946716963167,Canada
+2020,Agricultural services,9.9156967148,2.3596671490565426,Canada
+2020,Agricultural financial services,8.5077738978,2.024619666742633,Canada
+2020,Multisector education/training,8.2711233946,1.968303259104302,Canada
+2020,Agricultural research,7.547951273799999,1.7962078889405189,Canada
+2020,Agricultural inputs,6.6830228684,1.5903783639751212,Canada
+2020,Food security policy and administrative management,4.174068094800001,0.9933151088136379,Canada
+2020,Fishery development,2.8000816960000003,0.6663435745129079,Canada
+2020,Fishing policy and administrative management,1.3696039459000002,0.32592862925453353,Canada
+2020,Industrial crops/export crops,1.2388033051999998,0.2948016208543412,Canada
+2020,Fishery research,1.1390675847000002,0.2710672217475124,Canada
+2020,Livestock,1.1108683022999999,0.2643565566051497,Canada
+2020,Non-agricultural alternative development,0.9556296509,0.22741396381430015,Canada
+2020,Livestock/veterinary services,0.8858268553000002,0.2108027897912199,Canada
+2020,Plant and post-harvest protection and pest control,0.8533027452999999,0.20306293286268437,Canada
+2020,Household food security programmes,0.5962480024000001,0.14189086903534293,Canada
+2020,Forestry education/training,0.5908527116000001,0.14060693601212282,Canada
+2020,Fishery education/training,0.5828203308,0.13869544702172412,Canada
+2020,Agricultural alternative development,0.418623387,0.09962102336755548,Canada
+2020,Forestry research,0.14179144580000003,0.033742522214510864,Canada
+2020,Agrarian reform,0.0003682159,8.762540726900543e-05,Canada
+2019,Multisector education/training,37.55638875759997,16.724944967823536,Canada
+2019,Agricultural development,32.787291582,14.6011282099631,Canada
+2019,Food crop production,16.4830099342,7.340360539797563,Canada
+2019,Agricultural extension,16.342313369099998,7.277704294447479,Canada
+2019,Agricultural education/training,15.931485024799997,7.094750563352949,Canada
+2019,Agricultural policy and administrative management,14.613011323899995,6.507596131881877,Canada
+2019,Agricultural water resources,13.749779446400002,6.123174036913101,Canada
+2019,Agricultural co-operatives,13.2963220539,5.921236359045163,Canada
+2019,Rural development,11.173300518300003,4.975793532324267,Canada
+2019,Agricultural research,8.214069464100005,3.6579624477646813,Canada
+2019,Agricultural financial services,7.195361597100002,3.2043024027632523,Canada
+2019,Agricultural land resources,6.229860439299999,2.7743368425812394,Canada
+2019,Research/scientific institutions,5.292130769299992,2.3567387282718135,Canada
+2019,Agricultural inputs,4.6368510189,2.064923723514435,Canada
+2019,Agricultural services,3.597938159,1.6022658114254968,Canada
+2019,Forestry development,3.545567505,1.57894364614139,Canada
+2019,Disaster Risk Reduction,2.2300639488,0.993111905916663,Canada
+2019,Non-agricultural alternative development,1.9146845887000001,0.8526643651346036,Canada
+2019,Fishery development,1.7586401598,0.7831732726141647,Canada
+2019,Industrial crops/export crops,1.4410612713000002,0.6417462182882818,Canada
+2019,Livestock/veterinary services,1.3953282705000003,0.6213799917447715,Canada
+2019,Fishery research,1.3433590401999997,0.5982365920319392,Canada
+2019,Livestock,1.0079182621,0.4488551222134091,Canada
+2019,Fishing policy and administrative management,0.6612317602,0.29446560668280863,Canada
+2019,Agricultural alternative development,0.6492378842000001,0.28912438718096545,Canada
+2019,Plant and post-harvest protection and pest control,0.6423199181000001,0.286043617007386,Canada
+2019,Forestry education/training,0.6160720823,0.27435469739072993,Canada
+2019,Fishery education/training,0.2188091243,0.09744202473765806,Canada
+2019,Forestry policy and administrative management,0.0140420159,0.006253315372801334,Canada
+2019,Food security policy and administrative management,0.0131288014,0.005846634571968807,Canada
+2019,Agrarian reform,0.0025599307,0.0011400111005155662,Canada

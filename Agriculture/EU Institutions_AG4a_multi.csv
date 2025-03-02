@@ -1,21 +1,9 @@
-"Year","Multi_short","ODA","Share","Full Name","Donor"
-"2018","FAO","0.1","0%","food and agricultural organisation","EU Institutions"
-"2019","FAO","0.2","0%","food and agricultural organisation","EU Institutions"
-"2020","FAO","0.2","0%","food and agricultural organisation","EU Institutions"
-"2021","FAO","0.2","0%","food and agricultural organisation","EU Institutions"
-"2022","FAO","0.2","0%","food and agricultural organisation","EU Institutions"
-"2018","UN","0","0%","united nations","EU Institutions"
-"2019","UN","0","0%","united nations","EU Institutions"
-"2020","UN","0","0%","united nations","EU Institutions"
-"2021","UN","0","0%","united nations","EU Institutions"
-"2022","UN","0","0%","united nations","EU Institutions"
-"2018","ILO","0","0%","international labour organisation regular budget supplementary account","EU Institutions"
-"2019","ILO","0","0%","international labour organisation regular budget supplementary account","EU Institutions"
-"2020","ILO","0","0%","international labour organisation regular budget supplementary account","EU Institutions"
-"2021","ILO","0","0%","international labour organisation regular budget supplementary account","EU Institutions"
-"2022","ILO","0","0%","international labour organisation regular budget supplementary account","EU Institutions"
-"2018","UNECE","0","0%","united nations economic commission for europe extrabudgetary contributions only","EU Institutions"
-"2019","UNECE","0","0%","united nations economic commission for europe extrabudgetary contributions only","EU Institutions"
-"2020","UNECE","0","0%","united nations economic commission for europe extrabudgetary contributions only","EU Institutions"
-"2021","UNECE","0","0%","united nations economic commission for europe extrabudgetary contributions only","EU Institutions"
-"2022","UNECE","0","0%","united nations economic commission for europe extrabudgetary contributions only","EU Institutions"
+Year,ODA,Share,Full Name,donor
+2019,0.22469999999999993,1.0,food and agricultural organisation,EU Institutions
+2020,0.22849999999999998,1.0,food and agricultural organisation,EU Institutions
+2021,0.21890000000000004,1.0,food and agricultural organisation,EU Institutions
+2022,0.0007,0.0028340080971659912,united nations,EU Institutions
+2022,0.24630000000000005,0.997165991902834,food and agricultural organisation,EU Institutions
+2023,0.18740000000000004,0.0033440220698318893,food and agricultural organisation,EU Institutions
+2023,28.819999999999997,0.5142727644213182,adaptation fund,EU Institutions
+2023,27.0329,0.4823832135088499,cgiar fund,EU Institutions

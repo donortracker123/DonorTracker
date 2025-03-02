@@ -1,46 +1,67 @@
-"Year","Region","Bilateral ODA","Share","Donor"
-"2018","Developing countries, unspecified",947.571169,"37%","Switzerland"
-"2019","Developing countries, unspecified",986.571143,"37%","Switzerland"
-"2020","Developing countries, unspecified",1325.817281,"44%","Switzerland"
-"2021","Developing countries, unspecified",1268.748543,"42%","Switzerland"
-"2022","Developing countries, unspecified",1997.249016,"52%","Switzerland"
-"2018","sub-Saharan Africa",530.036216,"21%","Switzerland"
-"2019","sub-Saharan Africa",550.739168,"21%","Switzerland"
-"2020","sub-Saharan Africa",578.472791,"19%","Switzerland"
-"2021","sub-Saharan Africa",584.681957,"20%","Switzerland"
-"2022","sub-Saharan Africa",591.15217,"15%","Switzerland"
-"2018","Europe",189.14754,"7%","Switzerland"
-"2019","Europe",206.294268,"8%","Switzerland"
-"2020","Europe",194.459696,"6%","Switzerland"
-"2021","Europe",207.887579,"7%","Switzerland"
-"2022","Europe",403.19978,"11%","Switzerland"
-"2018","Asia",435.195902,"17%","Switzerland"
-"2019","Asia",400.542426,"15%","Switzerland"
-"2020","Asia",395.926136,"13%","Switzerland"
-"2021","Asia",445.116805,"15%","Switzerland"
-"2022","Asia",361.73743,"9%","Switzerland"
-"2018","MENA region",193.309053,"8%","Switzerland"
-"2019","MENA region",216.825211,"8%","Switzerland"
-"2020","MENA region",228.260297,"8%","Switzerland"
-"2021","MENA region",228.994991,"8%","Switzerland"
-"2022","MENA region",226.589924,"6%","Switzerland"
-"2018","Latin America and the Caribbeans",210.185605,"8%","Switzerland"
-"2019","Latin America and the Caribbeans",241.570221,"9%","Switzerland"
-"2020","Latin America and the Caribbeans",237.49731,"8%","Switzerland"
-"2021","Latin America and the Caribbeans",230.12207,"8%","Switzerland"
-"2022","Latin America and the Caribbeans",213.930037,"6%","Switzerland"
-"2018","Africa, regional",28.370939,"1%","Switzerland"
-"2019","Africa, regional",22.132102,"1%","Switzerland"
-"2020","Africa, regional",25.861399,"1%","Switzerland"
-"2021","Africa, regional",26.360361,"1%","Switzerland"
-"2022","Africa, regional",27.177126,"1%","Switzerland"
-"2018","Asia, regional",6.486678,"0%","Switzerland"
-"2019","Asia, regional",10.859345,"0%","Switzerland"
-"2020","Asia, regional",7.940477,"0%","Switzerland"
-"2021","Asia, regional",5.482702,"0%","Switzerland"
-"2022","Asia, regional",4.187353,"0%","Switzerland"
-"2018","Oceania",0.442142,"0%","Switzerland"
-"2019","Oceania",0.507297,"0%","Switzerland"
-"2020","Oceania",0.697135,"0%","Switzerland"
-"2021","Oceania",0.454967,"0%","Switzerland"
-"2022","Oceania",0.623849,"0%","Switzerland"
+year,Region,Bilateral ODA,share,donor
+2023,Regional and Unspecified,229065.90709499986,54.4%,Switzerland
+2023,South of Sahara,63727.21659420015,15.1%,Switzerland
+2023,Europe,34983.102890999995,8.3%,Switzerland
+2023,South & Central Asia,27106.931301599907,6.4%,Switzerland
+2023,Middle East,25861.36656779997,6.1%,Switzerland
+2023,South America,10274.514867600004,2.4%,Switzerland
+2023,Far East Asia,9321.679681199992,2.2%,Switzerland
+2023,North of Sahara,9164.770107,2.2%,Switzerland
+2023,Caribbean & Central America,6642.944860199998,1.6%,Switzerland
+2023,Africa,3315.902182799999,0.8%,Switzerland
+2023,America,995.3757894000004,0.2%,Switzerland
+2023,Asia,604.3113390000003,0.1%,Switzerland
+2023,Oceania,56.5967928,0.0%,Switzerland
+2022,Regional and Unspecified,209487.20768400008,52.0%,Switzerland
+2022,South of Sahara,62604.03265679996,15.5%,Switzerland
+2022,Europe,42699.55575180002,10.6%,Switzerland
+2022,South & Central Asia,29369.327767199946,7.3%,Switzerland
+2022,Middle East,16152.21120720002,4.0%,Switzerland
+2022,Caribbean & Central America,10922.535214200005,2.7%,Switzerland
+2022,South America,10680.119774400022,2.6%,Switzerland
+2022,Far East Asia,8939.28670679999,2.2%,Switzerland
+2022,North of Sahara,7844.055122999998,1.9%,Switzerland
+2022,Africa,2878.104448200001,0.7%,Switzerland
+2022,America,1052.9024514000002,0.3%,Switzerland
+2022,Asia,443.4480486,0.1%,Switzerland
+2022,Oceania,66.06689519999999,0.0%,Switzerland
+2021,Regional and Unspecified,133284.41181540006,42.2%,Switzerland
+2021,South of Sahara,61642.136454599975,19.5%,Switzerland
+2021,South & Central Asia,32620.31577899993,10.3%,Switzerland
+2021,Europe,21917.276414999993,6.9%,Switzerland
+2021,Middle East,16831.318483800005,5.3%,Switzerland
+2021,Far East Asia,14307.676566000007,4.5%,Switzerland
+2021,South America,12078.655831799995,3.8%,Switzerland
+2021,Caribbean & Central America,11067.269709599994,3.5%,Switzerland
+2021,North of Sahara,7311.280346400001,2.3%,Switzerland
+2021,Africa,2776.3937484000003,0.9%,Switzerland
+2021,America,1115.4920568000002,0.4%,Switzerland
+2021,Asia,575.2935774000001,0.2%,Switzerland
+2021,Oceania,47.96645099999999,0.0%,Switzerland
+2020,Regional and Unspecified,139317.4035072,44.2%,Switzerland
+2020,South of Sahara,61093.27369499995,19.4%,Switzerland
+2020,South & Central Asia,29138.558353799996,9.3%,Switzerland
+2020,Europe,20537.14474379998,6.5%,Switzerland
+2020,Middle East,16904.468731200017,5.4%,Switzerland
+2020,South America,12929.981693400021,4.1%,Switzerland
+2020,Far East Asia,12675.724114800014,4.0%,Switzerland
+2020,Caribbean & Central America,11227.58848200002,3.6%,Switzerland
+2020,North of Sahara,7202.400374399998,2.3%,Switzerland
+2020,Africa,2432.0331545999993,0.8%,Switzerland
+2020,America,924.8321399999999,0.3%,Switzerland
+2020,Asia,539.381058,0.2%,Switzerland
+2020,Oceania,73.62506280000001,0.0%,Switzerland
+2020,,0.0,0.0%,Switzerland
+2019,Regional and Unspecified,103479.9931158002,37.3%,Switzerland
+2019,South of Sahara,58185.62307720033,21.0%,Switzerland
+2019,South & Central Asia,28822.400677800033,10.4%,Switzerland
+2019,Europe,21794.999366999982,7.9%,Switzerland
+2019,Middle East,17053.3196538,6.1%,Switzerland
+2019,South America,13792.122090600029,5.0%,Switzerland
+2019,Far East Asia,13384.808127599998,4.8%,Switzerland
+2019,Caribbean & Central America,10740.6925152,3.9%,Switzerland
+2019,North of Sahara,5854.275621600001,2.1%,Switzerland
+2019,Africa,2118.0215454000017,0.8%,Switzerland
+2019,Asia,1037.1722178,0.4%,Switzerland
+2019,America,989.0914932,0.4%,Switzerland
+2019,Oceania,53.5960368,0.0%,Switzerland

@@ -1,54 +1,56 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Education policy and administrative management",26.368647,"44%","Portugal"
-2019,"Education policy and administrative management",25.963156,"38%","Portugal"
-2020,"Education policy and administrative management",24.502102,"39%","Portugal"
-2021,"Education policy and administrative management",25.955987,"38%","Portugal"
-2022,"Education policy and administrative management",23.415211,"36%","Portugal"
-2018,"Education facilities and training",0.008189,"0%","Portugal"
-2019,"Education facilities and training",2.902123,"4%","Portugal"
-2020,"Education facilities and training",2.012022,"3%","Portugal"
-2021,"Education facilities and training",0.977289,"1%","Portugal"
-2022,"Education facilities and training",0.193406,"0%","Portugal"
-2018,"Teacher training",1.798412,"3%","Portugal"
-2019,"Teacher training",0.674802,"1%","Portugal"
-2020,"Teacher training",1.86237,"3%","Portugal"
-2021,"Teacher training",2.184702,"3%","Portugal"
-2022,"Teacher training",2.02206,"3%","Portugal"
-2018,"Educational research",0.069154,"0%","Portugal"
-2021,"Educational research",0.023557,"0%","Portugal"
-2022,"Educational research",0.020636,"0%","Portugal"
-2018,"Primary education",0.038082,"0%","Portugal"
-2019,"Primary education",0.03261,"0%","Portugal"
-2020,"Primary education",2.148104,"3%","Portugal"
-2021,"Primary education",2.084791,"3%","Portugal"
-2022,"Primary education",2.09034,"3%","Portugal"
-2019,"Basic life skills for adults",0.036695,"0%","Portugal"
-2020,"Basic life skills for adults",0.059983,"0%","Portugal"
-2021,"Basic life skills for adults",0.073962,"0%","Portugal"
-2022,"Basic life skills for adults",0.056186,"0%","Portugal"
-2019,"Early childhood education",0.047117,"0%","Portugal"
-2020,"Early childhood education",0.054398,"0%","Portugal"
-2021,"Early childhood education",0.002132,"0%","Portugal"
-2022,"Early childhood education",0.015296,"0%","Portugal"
-2018,"Upper Secondary Education (modified and includes data from 11322)",2.181052,"4%","Portugal"
-2019,"Upper Secondary Education (modified and includes data from 11322)",1.782369,"3%","Portugal"
-2020,"Upper Secondary Education (modified and includes data from 11322)",1.524505,"2%","Portugal"
-2021,"Upper Secondary Education (modified and includes data from 11322)",1.138754,"2%","Portugal"
-2022,"Upper Secondary Education (modified and includes data from 11322)",1.477389,"2%","Portugal"
-2018,"Vocational training",1.166114,"2%","Portugal"
-2019,"Vocational training",1.222319,"2%","Portugal"
-2020,"Vocational training",1.500521,"2%","Portugal"
-2021,"Vocational training",1.649781,"2%","Portugal"
-2022,"Vocational training",1.550691,"2%","Portugal"
-2018,"Higher education",28.443868,"47%","Portugal"
-2019,"Higher education",35.712022,"52%","Portugal"
-2020,"Higher education",28.820671,"46%","Portugal"
-2021,"Higher education",33.931141,"49%","Portugal"
-2022,"Higher education",33.993782,"52%","Portugal"
-2018,"Advanced technical and managerial training",0.275691,"0%","Portugal"
-2019,"Advanced technical and managerial training",0.745111,"1%","Portugal"
-2020,"Advanced technical and managerial training",0.393375,"1%","Portugal"
-2021,"Advanced technical and managerial training",0.543046,"1%","Portugal"
-2022,"Advanced technical and managerial training",0.308873,"0%","Portugal"
-2021,"School feeding",0.098547,"0%","Portugal"
-2022,"School feeding",0.097663,"0%","Portugal"
+year,Sector,Bilateral ODA for,share,donor
+2023,Higher education,32.9550379758,48.56524575752648,Portugal
+2023,Education policy and administrative management,26.355000618,38.83888960749592,Portugal
+2023,Vocational training,3.046399166399999,4.4894235685719375,Portugal
+2023,Primary education,2.05256397,3.024826544253871,Portugal
+2023,Advanced technical and managerial training,1.1525395152,1.6984767197674469,Portugal
+2023,Upper Secondary Education (modified and includes data from 11322),0.9473667638,1.3961173323558471,Portugal
+2023,Teacher training,0.5648422278,0.8323978150921805,Portugal
+2023,Education facilities and training,0.2556550722,0.3767542741012354,Portugal
+2023,School feeding,0.2101881856,0.3097505424356832,Portugal
+2023,Early childhood education,0.18254771720000001,0.2690172821164297,Portugal
+2023,Basic life skills for youth,0.135104153,0.19910055628294804,Portugal
+2022,Higher education,35.028823714999994,52.10450839606022,Portugal
+2022,Education policy and administrative management,24.128163241600003,35.890045707275874,Portugal
+2022,Primary education,2.1539875618,3.2040031921128245,Portugal
+2022,Teacher training,2.0836273044,3.099344050479205,Portugal
+2022,Vocational training,1.5979061100000007,2.376845794252528,Portugal
+2022,Upper Secondary Education (modified and includes data from 11322),1.5223708313999997,2.2644889366533634,Portugal
+2022,Advanced technical and managerial training,0.3182781116,0.4734308143793859,Portugal
+2022,Education facilities and training,0.19929334620000003,0.2964439204365912,Portugal
+2022,School feeding,0.10063556220000001,0.14969290828189435,Portugal
+2022,Basic life skills for adults,0.057897063000000006,0.08612044839801233,Portugal
+2022,Educational research,0.0212646926,0.03163070399197787,Portugal
+2022,Early childhood education,0.0157616926,0.02344512767812821,Portugal
+2021,Higher education,34.86910024059999,49.41642054044968,Portugal
+2021,Education policy and administrative management,26.673494447200003,37.80162406804633,Portugal
+2021,Teacher training,2.2450941292,3.181743000992699,Portugal
+2021,Primary education,2.1424213564000003,3.0362353485517217,Portugal
+2021,Vocational training,1.695386252,2.4026980744911586,Portugal
+2021,Upper Secondary Education (modified and includes data from 11322),1.1702327608000003,1.6584515757183533,Portugal
+2021,Education facilities and training,1.0043052042,1.423299367613835,Portugal
+2021,Advanced technical and managerial training,0.5580570288000001,0.7908773277902086,Portugal
+2021,School feeding,0.1012706084,0.14352050780061898,Portugal
+2021,Basic life skills for adults,0.0760063354,0.10771602960639624,Portugal
+2021,Educational research,0.024208797600000005,0.034308660525381084,Portugal
+2021,Early childhood education,0.0021912946,0.0031054984136221916,Portugal
+2020,Higher education,29.763936323800017,45.835815232026405,Portugal
+2020,Education policy and administrative management,25.304028873199996,38.9676546623447,Portugal
+2020,Primary education,2.2184089816,3.4163016303854086,Portugal
+2020,Education facilities and training,2.0778744682000005,3.199881533263566,Portugal
+2020,Teacher training,1.9233238138,2.9618768835424647,Portugal
+2020,Upper Secondary Education (modified and includes data from 11322),1.574402797,2.424546098977283,Portugal
+2020,Vocational training,1.5496326934,2.386400677634613,Portugal
+2020,Advanced technical and managerial training,0.4062490696,0.6256147402613074,Portugal
+2020,Basic life skills for adults,0.06194617040000001,0.09539575645831506,Portugal
+2020,Early childhood education,0.0561779258,0.08651278510592308,Portugal
+2019,Higher education,36.880826447600015,51.667949971970195,Portugal
+2019,Education policy and administrative management,26.8128975438,37.56335153890708,Portugal
+2019,Education facilities and training,2.997103292399999,4.198772041959686,Portugal
+2019,Upper Secondary Education (modified and includes data from 11322),1.8407028724,2.57872051917139,Portugal
+2019,Vocational training,1.2623254658,1.768446515372017,Portugal
+2019,Advanced technical and managerial training,0.7694965966,1.0780211694338908,Portugal
+2019,Teacher training,0.6968889140000001,0.9763019165454669,Portugal
+2019,Early childhood education,0.0486586266,0.06816798122584317,Portugal
+2019,Basic life skills for adults,0.03789585919999999,0.053089953395495056,Portugal
+2019,Primary education,0.0336761588,0.04717839201891723,Portugal

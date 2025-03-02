@@ -1,38 +1,38 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Education policy and administrative management",0.294241,"8%","Estonia"
-2019,"Education policy and administrative management",0.263508,"10%","Estonia"
-2020,"Education policy and administrative management",0.126314,"6%","Estonia"
-2021,"Education policy and administrative management",1.182591,"37%","Estonia"
-2022,"Education policy and administrative management",0.254675,"12%","Estonia"
-2018,"Education facilities and training",0.659147,"19%","Estonia"
-2019,"Education facilities and training",0.824087,"30%","Estonia"
-2020,"Education facilities and training",0.320163,"15%","Estonia"
-2021,"Education facilities and training",0.577105,"18%","Estonia"
-2022,"Education facilities and training",0.422061,"21%","Estonia"
-2019,"Educational research",0.004972,"0%","Estonia"
-2021,"Educational research",0.050852,"2%","Estonia"
-2022,"Educational research",0.018484,"1%","Estonia"
-2021,"Basic life skills for adults",0.047304,"1%","Estonia"
-2022,"Basic life skills for adults",0.050319,"2%","Estonia"
-2018,"Vocational training",0.050111,"1%","Estonia"
-2019,"Vocational training",0.038532,"1%","Estonia"
-2020,"Vocational training",0.283896,"13%","Estonia"
-2021,"Vocational training",0.380795,"12%","Estonia"
-2022,"Vocational training",0.373796,"18%","Estonia"
-2018,"Higher education",2.438727,"69%","Estonia"
-2019,"Higher education",1.558682,"56%","Estonia"
-2020,"Higher education",1.084301,"51%","Estonia"
-2021,"Higher education",0.916508,"29%","Estonia"
-2022,"Higher education",0.652092,"32%","Estonia"
-2018,"Advanced technical and managerial training",0.011564,"0%","Estonia"
-2019,"Advanced technical and managerial training",0.06712,"2%","Estonia"
-2020,"Advanced technical and managerial training",0.007504,"0%","Estonia"
-2022,"Advanced technical and managerial training",0.269052,"13%","Estonia"
-2018,"Teacher training",0.008995,"0%","Estonia"
-2020,"Teacher training",0.033767,"2%","Estonia"
-2018,"Primary education",0.038547,"1%","Estonia"
-2019,"Primary education",0.003729,"0%","Estonia"
-2020,"Primary education",0.100051,"5%","Estonia"
-2018,"Upper Secondary Education (modified and includes data from 11322)",0.05782,"2%","Estonia"
-2019,"Upper Secondary Education (modified and includes data from 11322)",0.006215,"0%","Estonia"
-2020,"Upper Secondary Education (modified and includes data from 11322)",0.186345,"9%","Estonia"
+year,Sector,Bilateral ODA for,share,donor
+2023,Education facilities and training,3.036467184000001,59.504081877315095,Estonia
+2023,Education policy and administrative management,0.7764178848000001,15.215060986528016,Estonia
+2023,Higher education,0.7018060655999996,13.752931633677992,Estonia
+2023,Teacher training,0.32440981439999994,6.357291875103691,Estonia
+2023,Vocational training,0.1308460896,2.564123356876991,Estonia
+2023,Early childhood education,0.0681262176,1.3350343621109206,Estonia
+2023,Advanced technical and managerial training,0.05298755520000001,1.0383698001787964,Estonia
+2023,Basic life skills for adults,0.0118953024,0.2331061082084866,Estonia
+2022,Higher education,0.746856336,31.95776037733501,Estonia
+2022,Education facilities and training,0.48339820320000004,20.684465271377036,Estonia
+2022,Vocational training,0.42811792800000004,18.31903874517731,Estonia
+2022,Advanced technical and managerial training,0.30815051520000003,13.185668849857532,Estonia
+2022,Education policy and administrative management,0.2916854304,12.481132770738157,Estonia
+2022,Basic life skills for adults,0.057632270400000005,2.4660677009306076,Estonia
+2022,Educational research,0.021170193600000005,0.9058662845843372,Estonia
+2021,Education policy and administrative management,1.3662575712000002,37.4812343466147,Estonia
+2021,Higher education,1.0588519104000005,29.04801951597271,Estonia
+2021,Education facilities and training,0.6667341600000001,18.290855124707026,Estonia
+2021,Vocational training,0.4399360608,12.068988263968807,Estonia
+2021,Educational research,0.0587473152,1.6116447840151147,Estonia
+2021,Basic life skills for adults,0.054650616000000006,1.4992579647216453,Estonia
+2020,Higher education,1.2523876752,50.613022490598794,Estonia
+2020,Education facilities and training,0.36979336799999996,14.94454187156494,Estonia
+2020,Vocational training,0.32790369599999997,13.251645212612091,Estonia
+2020,Upper Secondary Education (modified and includes data from 11322),0.215230488,8.698157723459646,Estonia
+2020,Education policy and administrative management,0.14589416160000002,5.8960532976569295,Estonia
+2020,Primary education,0.1155597984,4.670143910905409,Estonia
+2020,Teacher training,0.0390019632,1.5761950390512007,Estonia
+2020,Advanced technical and managerial training,0.0086664816,0.35024045415099797,Estonia
+2019,Higher education,1.7910862848000002,56.3342191954777,Estonia
+2019,Education facilities and training,0.9469627008000001,29.784385492497723,Estonia
+2019,Education policy and administrative management,0.3028000896,9.523832974825918,Estonia
+2019,Advanced technical and managerial training,0.0771282192,2.4258786656137157,Estonia
+2019,Vocational training,0.044277456,1.3926386086980989,Estonia
+2019,Upper Secondary Education (modified and includes data from 11322),0.007140984000000001,0.22460210953617993,Estonia
+2019,Educational research,0.0057127872,0.17968168762894393,Estonia
+2019,Primary education,0.004284590400000001,0.13476126572170796,Estonia

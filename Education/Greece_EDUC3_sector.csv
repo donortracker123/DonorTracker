@@ -1,13 +1,11 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2022,"Education facilities and training",0.043831,"2%","Greece"
-2018,"Primary education",1.48249,"65%","Greece"
-2019,"Primary education",1.540451,"81%","Greece"
-2021,"Primary education",0.029565,"2%","Greece"
-2018,"Higher education",0.767094,"34%","Greece"
-2019,"Higher education",0.358354,"19%","Greece"
-2020,"Higher education",0.0276,"100%","Greece"
-2021,"Higher education",1.786308,"98%","Greece"
-2022,"Higher education",1.772319,"98%","Greece"
-2018,"Advanced technical and managerial training",0.02387,"1%","Greece"
-2019,"Advanced technical and managerial training",0.010891,"1%","Greece"
-2021,"Advanced technical and managerial training",0.000709,"0%","Greece"
+year,Sector,Bilateral ODA for,share,donor
+2023,Higher education,1.6672730449999997,100.0,Greece
+2022,Higher education,1.8468589359999998,97.58661147399432,Greece
+2022,Education facilities and training,0.045674177,2.4133885260056744,Greece
+2021,Higher education,1.8561577271999998,98.33346371722955,Greece
+2021,Primary education,0.030720539399999996,1.6274786362151241,Greece
+2021,Advanced technical and managerial training,0.0007372582,0.039057646555334155,Greece
+2020,Higher education,0.0286824928,100.0,Greece
+2019,Primary education,1.6006831026000001,80.66458958482438,Greece
+2019,Higher education,0.3723675094000001,18.76503367323935,Greece
+2019,Advanced technical and managerial training,0.011318379200000001,0.5703767419362605,Greece
