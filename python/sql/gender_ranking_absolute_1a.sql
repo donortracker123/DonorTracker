@@ -37,12 +37,12 @@ ranked AS (
 SELECT 
     donor "Donor", 
     total_oda total_gender,
+    Year,
     CASE 
         WHEN rn::TEXT LIKE '%1' AND rn != 11 THEN rn || 'st'
         WHEN rn::TEXT LIKE '%2' AND rn != 12 THEN rn || 'nd'
         WHEN rn::TEXT LIKE '%3' AND rn != 13 THEN rn || 'rd'
         ELSE rn || 'th'
     END AS "Rank",
-    Year
 FROM ranked
 ORDER BY rn

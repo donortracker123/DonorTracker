@@ -37,8 +37,8 @@ ranked AS (
 
 SELECT 
     donor "Donor", 
-    Year, 
     total_oda "ODA towards Climate",
+    Year, 
     CASE 
         WHEN rn::TEXT LIKE '%1' AND rn != 11 THEN rn || 'st'
         WHEN rn::TEXT LIKE '%2' AND rn != 12 THEN rn || 'nd'

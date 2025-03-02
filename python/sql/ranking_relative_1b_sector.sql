@@ -83,9 +83,8 @@ ranked AS (
 
 SELECT 
     donor, 
-    year "Year", 
-    total_oda_dac1 "Total ODA (DAC1)",
     sector_percentage || '%' "ODA to {{sector}} as % of Total ODA",
+    year "Year",
     CASE 
         WHEN rn::TEXT LIKE '%1' AND rn != 11 THEN rn || 'st'
         WHEN rn::TEXT LIKE '%2' AND rn != 12 THEN rn || 'nd'
@@ -93,3 +92,4 @@ SELECT
         ELSE rn || 'th'
     END AS "Rank"
 FROM ranked
+ORDER BY sector_percentage DESC
