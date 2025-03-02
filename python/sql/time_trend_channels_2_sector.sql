@@ -70,16 +70,16 @@ dac1_totals AS (
 
 SELECT 
     t.year,
-    (t.earmarked * 100) / dfl.deflator AS "Bilateral as earmarked funding through multilaterals",
+    (t.earmarked + t.bilateral + oct.sector_multilateral_oda) * 100 / d1t.total_oda AS "ODA to {{sector}} as % of Total ODA",
     (t.bilateral * 100) / dfl.deflator AS "Bilateral funding",
+    (t.earmarked * 100) / dfl.deflator AS "Bilateral as earmarked funding through multilaterals",
     oct.sector_multilateral_oda AS "Multilateral as core contributions to organizations",
     t.earmarked * 100 / (t.earmarked + t.bilateral + oct.sector_multilateral_oda) AS "Earmarked",
     t.bilateral * 100 / (t.earmarked + t.bilateral + oct.sector_multilateral_oda) AS "Bilateral",
     oct.sector_multilateral_oda * 100 / (t.earmarked + t.bilateral + oct.sector_multilateral_oda) AS "Multilateral",
-    (t.earmarked + t.bilateral + oct.sector_multilateral_oda) * 100 / d1t.total_oda AS "ODA to {{sector}} as % of Total ODA",
     t.donor_name AS donor,
 FROM transformed t 
 LEFT JOIN one_campaign_totals oct USING(donor_name, year)
 LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = t.donor_name AND dfl.year = {{latest_year}}
 LEFT JOIN dac1_totals d1t USING(donor_name, year)
-ORDER BY year
+ORDER BY donor, year
