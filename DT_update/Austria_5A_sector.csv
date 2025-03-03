@@ -1,111 +1,112 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-"2018","Refugees in donor countries",65.690252,"12.56%","Austria"
-"2019","Refugees in donor countries",33.934607,"6.78%","Austria"
-"2020","Refugees in donor countries",32.643442,"5.43%","Austria"
-"2021","Refugees in donor countries",63.121804,"8.76%","Austria"
-"2022","Refugees in donor countries",401.047337,"33.99%","Austria"
-"2018","Education",170.219198,"32.54%","Austria"
-"2019","Education",176.352755,"35.22%","Austria"
-"2020","Education",173.404593,"28.85%","Austria"
-"2021","Education",187.637028,"26.03%","Austria"
-"2022","Education",195.641654,"16.58%","Austria"
-"2018","Humanitarian aid",28.243591,"5.40%","Austria"
-"2019","Humanitarian aid",41.913181,"8.37%","Austria"
-"2020","Humanitarian aid",58.903923,"9.80%","Austria"
-"2021","Humanitarian aid",115.15976,"15.98%","Austria"
-"2022","Humanitarian aid",167.816012,"14.22%","Austria"
-"2018","Industry, construction & mining",16.573376,"3.17%","Austria"
-"2019","Industry, construction & mining",9.006932,"1.80%","Austria"
-"2020","Industry, construction & mining",11.752706,"1.96%","Austria"
-"2021","Industry, construction & mining",27.808415,"3.86%","Austria"
-"2022","Industry, construction & mining",86.325417,"7.32%","Austria"
-"2018","Energy",20.61363,"3.94%","Austria"
-"2019","Energy",13.47167,"2.69%","Austria"
-"2020","Energy",71.26414,"11.86%","Austria"
-"2021","Energy",75.25753,"10.44%","Austria"
-"2022","Energy",51.514935,"4.37%","Austria"
-"2018","Health & populations",7.306637,"1.40%","Austria"
-"2019","Health & populations",9.078037,"1.81%","Austria"
-"2020","Health & populations",8.033743,"1.34%","Austria"
-"2021","Health & populations",46.692557,"6.48%","Austria"
-"2022","Health & populations",47.638555,"4.04%","Austria"
-"2018","Government & civil society",26.261783,"5.02%","Austria"
-"2019","Government & civil society",40.122359,"8.01%","Austria"
-"2020","Government & civil society",28.248898,"4.70%","Austria"
-"2021","Government & civil society",27.85369,"3.86%","Austria"
-"2022","Government & civil society",38.664686,"3.28%","Austria"
-"2018","Donor administration costs",35.942951,"6.87%","Austria"
-"2019","Donor administration costs",38.423673,"7.67%","Austria"
-"2020","Donor administration costs",37.637771,"6.26%","Austria"
-"2021","Donor administration costs",38.006069,"5.27%","Austria"
-"2022","Donor administration costs",38.350481,"3.25%","Austria"
-"2018","Other social services",23.170646,"4.43%","Austria"
-"2019","Other social services",14.757156,"2.95%","Austria"
-"2020","Other social services",15.770308,"2.62%","Austria"
-"2021","Other social services",17.21783,"2.39%","Austria"
-"2022","Other social services",28.851131,"2.45%","Austria"
-"2018","Financial services & business support",5.723966,"1.09%","Austria"
-"2019","Financial services & business support",12.280115,"2.45%","Austria"
-"2020","Financial services & business support",37.042218,"6.16%","Austria"
-"2021","Financial services & business support",18.229265,"2.53%","Austria"
-"2022","Financial services & business support",25.029552,"2.12%","Austria"
-"2018","Unspecified",31.355157,"5.99%","Austria"
-"2019","Unspecified",25.408044,"5.07%","Austria"
-"2020","Unspecified",20.983456,"3.49%","Austria"
-"2021","Unspecified",24.040848,"3.34%","Austria"
-"2022","Unspecified",24.72053,"2.10%","Austria"
-"2018","Agriculture (incl. forestry, fishing, rural development)",23.716266,"4.53%","Austria"
-"2019","Agriculture (incl. forestry, fishing, rural development)",23.785796,"4.75%","Austria"
-"2020","Agriculture (incl. forestry, fishing, rural development)",39.924388,"6.64%","Austria"
-"2021","Agriculture (incl. forestry, fishing, rural development)",23.60287,"3.27%","Austria"
-"2022","Agriculture (incl. forestry, fishing, rural development)",21.383628,"1.81%","Austria"
-"2018","Other multisector",20.953774,"4.01%","Austria"
-"2019","Other multisector",27.364748,"5.46%","Austria"
-"2020","Other multisector",18.9508,"3.15%","Austria"
-"2021","Other multisector",14.161763,"1.96%","Austria"
-"2022","Other multisector",20.019002,"1.70%","Austria"
-"2018","Water and sanitation",19.329048,"3.70%","Austria"
-"2019","Water and sanitation",16.066051,"3.21%","Austria"
-"2020","Water and sanitation",16.615351,"2.76%","Austria"
-"2021","Water and sanitation",23.825357,"3.31%","Austria"
-"2022","Water and sanitation",11.820134,"1.00%","Austria"
-"2018","Conflict, peace & security",3.916044,"0.75%","Austria"
-"2019","Conflict, peace & security",8.334787,"1.66%","Austria"
-"2020","Conflict, peace & security",4.813872,"0.80%","Austria"
-"2021","Conflict, peace & security",8.616794,"1.20%","Austria"
-"2022","Conflict, peace & security",8.540837,"0.72%","Austria"
-"2018","Environmental protection",4.699741,"0.90%","Austria"
-"2019","Environmental protection",5.674231,"1.13%","Austria"
-"2020","Environmental protection",5.623425,"0.94%","Austria"
-"2021","Environmental protection",8.06365,"1.12%","Austria"
-"2022","Environmental protection",8.165563,"0.69%","Austria"
-"2018","Infrastructure",3.659065,"0.70%","Austria"
-"2019","Infrastructure",3.667725,"0.73%","Austria"
-"2020","Infrastructure",0.516994,"0.09%","Austria"
-"2021","Infrastructure",0.256078,"0.04%","Austria"
-"2022","Infrastructure",2.794644,"0.24%","Austria"
-"2018","Tourism",1.130201,"0.22%","Austria"
-"2019","Tourism",1.031426,"0.21%","Austria"
-"2020","Tourism",0.719356,"0.12%","Austria"
-"2021","Tourism",0.337282,"0.05%","Austria"
-"2022","Tourism",1.183013,"0.10%","Austria"
-"2018","Trade policy",0.071778,"0.01%","Austria"
-"2019","Trade policy",0.018161,"0.00%","Austria"
-"2020","Trade policy",0.081274,"0.01%","Austria"
-"2021","Trade policy",0,"0.00%","Austria"
-"2022","Trade policy",0.226708,"0.02%","Austria"
-"2018","Debt relief",13.770995,"2.63%","Austria"
-"2019","Debt relief",0.086708,"0.02%","Austria"
-"2020","Debt relief",15.57932,"2.59%","Austria"
-"2021","Debt relief",0.042862,"0.01%","Austria"
-"2022","Debt relief",0.0378,"0.00%","Austria"
-"2018","Food aid and commodity assistance",0.703435,"0.13%","Austria"
-"2019","Food aid and commodity assistance",0,"0.00%","Austria"
-"2020","Food aid and commodity assistance",2.591971,"0.43%","Austria"
-"2021","Food aid and commodity assistance",0.886944,"0.12%","Austria"
-"2022","Food aid and commodity assistance",0,"0.00%","Austria"
-"2018","General budget support",0,"0.00%","Austria"
-"2019","General budget support",0,"0.00%","Austria"
-"2020","General budget support",0,"0.00%","Austria"
-"2021","General budget support",0,"0.00%","Austria"
-"2022","General budget support",0,"0.00%","Austria"
+Year,Sector,Bilateral ODA for,share,donor
+2023,Refugees in donor countries,28730.124077939996,31.42114737140785,Austria
+2023,Education,23481.333584640004,25.680725952961655,Austria
+2023,Emergency Response,11434.97191878,12.506035020008145,Austria
+2023,Donor administration costs,4194.642959100002,4.587536560258735,Austria
+2023,Other multisector,3574.1997046800016,3.9089791380965475,Austria
+2023,Unspecified,2986.6683344400003,3.2664163103289083,Austria
+2023,Government & civil society,2430.651392279998,2.6583197273411723,Austria
+2023,Energy,2041.43962104,2.2326522157898077,Austria
+2023,Reconstruction Relief & Rehabilitation,1852.5086319599998,2.0260248989427243,Austria
+2023,Disaster Prevention & Preparedness,1625.11885656,1.7773365318402377,Austria
+2023,Water and sanitation,1572.3843913800004,1.719662663204027,Austria
+2023,"Agriculture (incl. forestry, fishing, rural development)",1522.9596848399997,1.6656085636195987,Austria
+2023,Other social services,1519.2111040200002,1.6615088698605567,Austria
+2023,Financial services & business support,1298.4109437599998,1.4200273379208104,Austria
+2023,Health & populations,1289.31594858,1.4100804548820263,Austria
+2023,Environmental protection,772.6099485599999,0.8449768956257238,Austria
+2023,"Conflict, peace & security",615.7116545400002,0.6733826343078528,Austria
+2023,"Industry, construction & mining",200.98000674000002,0.2198049125493677,Austria
+2023,Debt relief,189.88366464000003,0.207669225301314,Austria
+2023,Tourism,47.746655819999994,0.05221887329627152,Austria
+2023,Infrastructure,33.131571120000004,0.03623485843582352,Austria
+2023,Trade policy,21.62542626,0.02365098402087007,Austria
+2022,Refugees in donor countries,41054.07735036,33.9936409740852,Austria
+2022,Education,20027.281009499984,16.583010610956702,Austria
+2022,Emergency Response,14169.731164380002,11.732835932239414,Austria
+2022,"Industry, construction & mining",8836.88774166,7.317129225792977,Austria
+2022,Energy,5273.43758046,4.366517417491879,Austria
+2022,Health & populations,4876.62316254,4.037946719361336,Austria
+2022,Government & civil society,3957.9941129399995,3.27730251260038,Austria
+2022,Donor administration costs,3925.8300029400007,3.250669951886375,Austria
+2022,Other social services,2953.4079965400006,2.445484043584106,Austria
+2022,Reconstruction Relief & Rehabilitation,2742.5448360000005,2.270884904188399,Austria
+2022,Other multisector,2573.1718326,2.130640489019935,Austria
+2022,Financial services & business support,2562.20414694,2.1215590142260705,Austria
+2022,Unspecified,2530.5723171,2.0953671926986313,Austria
+2022,"Agriculture (incl. forestry, fishing, rural development)",1665.0985694399992,1.3787366958207834,Austria
+2022,Water and sanitation,1209.9934053,1.001900031749667,Austria
+2022,"Conflict, peace & security",874.3014993600001,0.7239400612686674,Austria
+2022,Environmental protection,835.8857456399999,0.6921310078447663,Austria
+2022,Infrastructure,286.0796214,0.2368799536494405,Austria
+2022,Disaster Prevention & Preparedness,266.57272314000005,0.2207278309185023,Austria
+2022,Tourism,121.10212223999999,0.10027510859625346,Austria
+2022,Trade policy,23.20748118,0.01921628335264101,Austria
+2022,Debt relief,3.8695134600000003,0.0032040386678541875,Austria
+2021,Education,19383.92124047999,26.03110706714014,Austria
+2021,Emergency Response,10457.71106202,14.04389715349037,Austria
+2021,Energy,7774.510498559999,10.440566316374953,Austria
+2021,Refugees in donor countries,6520.8242187000005,8.75696260303093,Austria
+2021,Health & populations,4823.594089559995,6.47771380393059,Austria
+2021,Donor administration costs,3926.2326336,5.272626770805554,Austria
+2021,Government & civil society,2877.4393479000023,3.8641785021270594,Austria
+2021,"Industry, construction & mining",2872.759938839999,3.857894417666506,Austria
+2021,Unspecified,2483.5503744000016,3.3352160742189207,Austria
+2021,Water and sanitation,2461.28806566,3.305319515355356,Austria
+2021,"Agriculture (incl. forestry, fishing, rural development)",2047.8213556199983,2.750065701422559,Austria
+2021,Financial services & business support,1883.1821589,2.528967993477059,Austria
+2021,Other multisector,1853.47046574,2.48906748747527,Austria
+2021,Other social services,1778.6963579399992,2.3886516437538834,Austria
+2021,Reconstruction Relief & Rehabilitation,1235.5930576800001,1.6593059152920235,Austria
+2021,"Conflict, peace & security",890.1615502799998,1.195418116639868,Austria
+2021,Environmental protection,833.01944346,1.1186806865698862,Austria
+2021,Disaster Prevention & Preparedness,203.32451106,0.27304909316922704,Austria
+2021,Food aid and commodity assistance,91.62611532,0.12304678648095807,Austria
+2021,Tourism,34.8431652,0.046791676081778796,Austria
+2021,Infrastructure,26.4545667,0.0355264370732373,Austria
+2021,Debt relief,4.42783386,0.005946238423857435,Austria
+2020,Education,17934.305215680022,28.84778680438346,Austria
+2020,Energy,7370.466824519997,11.855583645171725,Austria
+2020,Emergency Response,5166.73747638,8.310828850091973,Austria
+2020,Donor administration costs,3892.672281240001,6.261462527712793,Austria
+2020,Financial services & business support,3831.07784508,6.16238630807054,Austria
+2020,"Agriculture (incl. forestry, fishing, rural development)",3814.658591040001,6.1359755196772,Austria
+2020,Refugees in donor countries,3376.13598414,5.430600735395432,Austria
+2020,Government & civil society,2921.6316213000005,4.699518889559159,Austria
+2020,Other multisector,2274.4847627999998,3.65856668200933,Austria
+2020,Unspecified,2170.2040839,3.490828553515039,Austria
+2020,Water and sanitation,1718.4359323800004,2.7641479732902203,Austria
+2020,Other social services,1631.0369424600003,2.6235644715704955,Austria
+2020,Debt relief,1611.28553076,2.591793822696457,Austria
+2020,"Industry, construction & mining",1215.5193428400003,1.9551938275364653,Austria
+2020,Health & populations,830.8863505800001,1.3365018612066264,Austria
+2020,Environmental protection,581.60037456,0.9355190183775554,Austria
+2020,Reconstruction Relief & Rehabilitation,579.5317202399999,0.9321915352061887,Austria
+2020,"Conflict, peace & security",497.87261712000003,0.8008407876242116,Austria
+2020,Disaster Prevention & Preparedness,345.84671682,0.5563032542290232,Austria
+2020,Food aid and commodity assistance,268.07367816,0.43120334032596414,Austria
+2020,Tourism,74.39917248,0.11967296420544457,Austria
+2020,Infrastructure,53.46999162,0.08600784363462964,Austria
+2020,Trade policy,8.4057012,0.013520784510065324,Austria
+2019,Education,18264.932515619992,35.21574132377394,Austria
+2019,Emergency Response,4220.32746294,8.137011188484498,Austria
+2019,Government & civil society,4155.4906858800005,8.012002504917804,Austria
+2019,Donor administration costs,3979.556535060001,7.672792297598589,Austria
+2019,Refugees in donor countries,3514.6225044000003,6.776375267733292,Austria
+2019,Other multisector,3167.464176,6.107035926847521,Austria
+2019,Unspecified,2631.5229348000007,5.073713296243711,Austria
+2019,"Agriculture (incl. forestry, fishing, rural development)",2130.2209504799985,4.107176957288695,Austria
+2019,Water and sanitation,1663.9680258000008,3.208217031050692,Austria
+2019,Other social services,1528.4058465599996,2.946846087943164,Austria
+2019,Energy,1395.2670647399998,2.6901475812979374,Austria
+2019,Financial services & business support,1271.85685038,2.452206259483767,Austria
+2019,Health & populations,940.2168499199996,1.8127870632273386,Austria
+2019,"Industry, construction & mining",932.8519859400003,1.7985872218327625,Austria
+2019,"Conflict, peace & security",863.2375972200002,1.6643670541163118,Austria
+2019,Environmental protection,587.68286706,1.1330831805209265,Austria
+2019,Infrastructure,379.86806970000004,0.7324054259864559,Austria
+2019,Tourism,106.82522964000005,0.20596460735005864,Austria
+2019,Reconstruction Relief & Rehabilitation,94.17110742,0.1815668005474412,Austria
+2019,Disaster Prevention & Preparedness,26.4678075,0.05103131158740034,Austria
+2019,Debt relief,8.9805726,0.017315011777377858,Austria
+2019,Trade policy,1.88096598,0.0036266003903300203,Austria

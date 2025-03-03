@@ -1,46 +1,58 @@
-"Year","Region","Bilateral ODA","Share","Donor"
-"2018","sub-Saharan Africa",165.462255,"42%","Luxembourg"
-"2019","sub-Saharan Africa",182.322377,"42%","Luxembourg"
-"2020","sub-Saharan Africa",151.222163,"44%","Luxembourg"
-"2021","sub-Saharan Africa",171.998212,"47%","Luxembourg"
-"2022","sub-Saharan Africa",180.413198,"45%","Luxembourg"
-"2018","Developing countries, unspecified",87.799484,"22%","Luxembourg"
-"2019","Developing countries, unspecified",121.139439,"28%","Luxembourg"
-"2020","Developing countries, unspecified",88.473514,"26%","Luxembourg"
-"2021","Developing countries, unspecified",88.006984,"24%","Luxembourg"
-"2022","Developing countries, unspecified",93.708653,"24%","Luxembourg"
-"2018","Asia",63.930333,"16%","Luxembourg"
-"2019","Asia",60.075253,"14%","Luxembourg"
-"2020","Asia",54.108845,"16%","Luxembourg"
-"2021","Asia",48.576378,"13%","Luxembourg"
-"2022","Asia",53.533261,"13%","Luxembourg"
-"2018","Europe",13.618122,"3%","Luxembourg"
-"2019","Europe",13.296083,"3%","Luxembourg"
-"2020","Europe",5.746082,"2%","Luxembourg"
-"2021","Europe",11.344628,"3%","Luxembourg"
-"2022","Europe",21.215109,"5%","Luxembourg"
-"2018","Latin America and the Caribbeans",33.056814,"8%","Luxembourg"
-"2019","Latin America and the Caribbeans",19.932773,"5%","Luxembourg"
-"2020","Latin America and the Caribbeans",14.777419,"4%","Luxembourg"
-"2021","Latin America and the Caribbeans",11.9081,"3%","Luxembourg"
-"2022","Latin America and the Caribbeans",17.683152,"4%","Luxembourg"
-"2018","MENA region",23.045634,"6%","Luxembourg"
-"2019","MENA region",22.715482,"5%","Luxembourg"
-"2020","MENA region",17.583411,"5%","Luxembourg"
-"2021","MENA region",20.553819,"6%","Luxembourg"
-"2022","MENA region",14.97118,"4%","Luxembourg"
-"2018","Africa, regional",9.622349,"2%","Luxembourg"
-"2019","Africa, regional",10.612633,"2%","Luxembourg"
-"2020","Africa, regional",12.227123,"4%","Luxembourg"
-"2021","Africa, regional",10.855495,"3%","Luxembourg"
-"2022","Africa, regional",10.288321,"3%","Luxembourg"
-"2018","Asia, regional",0.001756,"0%","Luxembourg"
-"2019","Asia, regional",0.244653,"0%","Luxembourg"
-"2020","Asia, regional",2.532382,"1%","Luxembourg"
-"2021","Asia, regional",1.976393,"1%","Luxembourg"
-"2022","Asia, regional",5.305466,"1%","Luxembourg"
-"2018","Oceania",0.000451,"0%","Luxembourg"
-"2019","Oceania",0,"0%","Luxembourg"
-"2020","Oceania",0,"0%","Luxembourg"
-"2021","Oceania",0,"0%","Luxembourg"
-"2022","Oceania",0,"0%","Luxembourg"
+year,Region,Bilateral ODA,share,donor
+2023,South of Sahara,16765.882674,39.4%,Luxembourg
+2023,Regional and Unspecified,11119.661173800005,26.1%,Luxembourg
+2023,Far East Asia,3225.3152993999993,7.6%,Luxembourg
+2023,Europe,2983.3441983000007,7.0%,Luxembourg
+2023,Middle East,2703.834285299999,6.4%,Luxembourg
+2023,South & Central Asia,1825.5278183999994,4.3%,Luxembourg
+2023,Caribbean & Central America,1501.9394304,3.5%,Luxembourg
+2023,Africa,1381.8348921,3.2%,Luxembourg
+2023,Asia,550.93602315,1.3%,Luxembourg
+2023,South America,399.53197830000005,0.9%,Luxembourg
+2023,North of Sahara,118.05709035000002,0.3%,Luxembourg
+2022,South of Sahara,18954.402585150012,45.4%,Luxembourg
+2022,Regional and Unspecified,9845.130564600006,23.6%,Luxembourg
+2022,Far East Asia,3185.4822892499988,7.6%,Luxembourg
+2022,South & Central Asia,2438.777654099999,5.8%,Luxembourg
+2022,Europe,2228.88219735,5.3%,Luxembourg
+2022,Middle East,1448.2807133999997,3.5%,Luxembourg
+2022,Caribbean & Central America,1345.7618705999996,3.2%,Luxembourg
+2022,Africa,1080.9018372,2.6%,Luxembourg
+2022,Asia,557.3977827000001,1.3%,Luxembourg
+2022,South America,511.439592,1.2%,Luxembourg
+2022,North of Sahara,124.60756409999998,0.3%,Luxembourg
+2022,America,0.60862845,0.0%,Luxembourg
+2021,South of Sahara,18101.94427095002,47.1%,Luxembourg
+2021,Regional and Unspecified,9262.289638499991,24.1%,Luxembourg
+2021,Far East Asia,2586.0051102,6.7%,Luxembourg
+2021,South & Central Asia,2526.4139096999997,6.6%,Luxembourg
+2021,Middle East,2058.5659791000007,5.4%,Luxembourg
+2021,Europe,1193.9649645000004,3.1%,Luxembourg
+2021,Africa,1142.4862095000003,3.0%,Luxembourg
+2021,Caribbean & Central America,799.3157221499997,2.1%,Luxembourg
+2021,South America,389.72315235,1.0%,Luxembourg
+2021,Asia,208.0053762,0.5%,Luxembourg
+2021,North of Sahara,104.61934094999998,0.3%,Luxembourg
+2021,America,64.2293037,0.2%,Luxembourg
+2020,South of Sahara,15678.961422299999,43.6%,Luxembourg
+2020,Regional and Unspecified,9173.077591350002,25.5%,Luxembourg
+2020,Far East Asia,3461.3649505500016,9.6%,Luxembourg
+2020,South & Central Asia,2148.7290291,6.0%,Luxembourg
+2020,Middle East,1678.0567325999996,4.7%,Luxembourg
+2020,Africa,1267.7283699,3.5%,Luxembourg
+2020,Caribbean & Central America,1037.95602855,2.9%,Luxembourg
+2020,Europe,595.76366505,1.7%,Luxembourg
+2020,South America,494.18991824999995,1.4%,Luxembourg
+2020,Asia,262.5614886,0.7%,Luxembourg
+2020,North of Sahara,145.0200774,0.4%,Luxembourg
+2019,South of Sahara,18906.91864395,42.4%,Luxembourg
+2019,Regional and Unspecified,12562.218261,28.1%,Luxembourg
+2019,Far East Asia,4064.6501531999993,9.1%,Luxembourg
+2019,South & Central Asia,2165.18294985,4.9%,Luxembourg
+2019,Middle East,2043.3873807,4.6%,Luxembourg
+2019,Caribbean & Central America,1415.8514382,3.2%,Luxembourg
+2019,Europe,1378.8101391000002,3.1%,Luxembourg
+2019,Africa,1100.5353149999999,2.5%,Luxembourg
+2019,South America,651.1861897499996,1.5%,Luxembourg
+2019,North of Sahara,312.21892770000005,0.7%,Luxembourg
+2019,Asia,25.370700900000003,0.1%,Luxembourg

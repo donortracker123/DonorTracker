@@ -1,86 +1,99 @@
-"Year","Sector","Gender-related ODA to","Share","Donor"
-"2018","Health & populations",2727.54,"45%","United States"
-"2019","Health & populations",3286.92,"46%","United States"
-"2020","Health & populations",3290.52,"52%","United States"
-"2021","Health & populations",2685.3,"50%","United States"
-"2022","Health & populations",3254.46,"55%","United States"
-"2018","Government & civil society",917.58,"15%","United States"
-"2019","Government & civil society",1342.31,"19%","United States"
-"2020","Government & civil society",896.64,"14%","United States"
-"2021","Government & civil society",809.19,"15%","United States"
-"2022","Government & civil society",641.26,"11%","United States"
-"2018","Education",614.47,"10%","United States"
-"2019","Education",702.51,"10%","United States"
-"2020","Education",528.86,"8%","United States"
-"2021","Education",362.12,"7%","United States"
-"2022","Education",480.48,"8%","United States"
-"2018","Agriculture (incl. forestry, fishing, rural development)",667,"11%","United States"
-"2019","Agriculture (incl. forestry, fishing, rural development)",625.64,"9%","United States"
-"2020","Agriculture (incl. forestry, fishing, rural development)",448.3,"7%","United States"
-"2021","Agriculture (incl. forestry, fishing, rural development)",498.73,"9%","United States"
-"2022","Agriculture (incl. forestry, fishing, rural development)",421.48,"7%","United States"
-"2018","Environmental protection",254.25,"4%","United States"
-"2019","Environmental protection",286.03,"4%","United States"
-"2020","Environmental protection",243.41,"4%","United States"
-"2021","Environmental protection",214.49,"4%","United States"
-"2022","Environmental protection",229.93,"4%","United States"
-"2018","Financial services & business support",154.51,"3%","United States"
-"2019","Financial services & business support",197.44,"3%","United States"
-"2020","Financial services & business support",171.28,"3%","United States"
-"2021","Financial services & business support",181.65,"3%","United States"
-"2022","Financial services & business support",187,"3%","United States"
-"2018","Humanitarian aid",80.86,"1%","United States"
-"2019","Humanitarian aid",81.76,"1%","United States"
-"2020","Humanitarian aid",105.06,"2%","United States"
-"2021","Humanitarian aid",181.29,"3%","United States"
-"2022","Humanitarian aid",153.95,"3%","United States"
-"2018","Water and sanitation",148.38,"2%","United States"
-"2019","Water and sanitation",173.8,"2%","United States"
-"2020","Water and sanitation",186.15,"3%","United States"
-"2021","Water and sanitation",154.45,"3%","United States"
-"2022","Water and sanitation",130.08,"2%","United States"
-"2018","Energy",105.07,"2%","United States"
-"2019","Energy",59.15,"1%","United States"
-"2020","Energy",101.63,"2%","United States"
-"2021","Energy",40.18,"1%","United States"
-"2022","Energy",82.99,"1%","United States"
-"2018","Conflict, peace & security",122.47,"2%","United States"
-"2019","Conflict, peace & security",172.76,"2%","United States"
-"2020","Conflict, peace & security",111.52,"2%","United States"
-"2021","Conflict, peace & security",70.26,"1%","United States"
-"2022","Conflict, peace & security",72.45,"1%","United States"
-"2018","Trade policy",32.83,"1%","United States"
-"2019","Trade policy",42.79,"1%","United States"
-"2020","Trade policy",41.61,"1%","United States"
-"2021","Trade policy",44.85,"1%","United States"
-"2022","Trade policy",62.23,"1%","United States"
-"2018","Other multisector",19.61,"0%","United States"
-"2019","Other multisector",24.2,"0%","United States"
-"2020","Other multisector",54.08,"1%","United States"
-"2021","Other multisector",34.57,"1%","United States"
-"2022","Other multisector",53.82,"1%","United States"
-"2018","Food aid and commodity assistance",138.85,"2%","United States"
-"2019","Food aid and commodity assistance",120.38,"2%","United States"
-"2020","Food aid and commodity assistance",108.62,"2%","United States"
-"2021","Food aid and commodity assistance",73.15,"1%","United States"
-"2022","Food aid and commodity assistance",50.36,"1%","United States"
-"2018","Other social services",98.13,"2%","United States"
-"2019","Other social services",68.46,"1%","United States"
-"2020","Other social services",71.02,"1%","United States"
-"2021","Other social services",39.34,"1%","United States"
-"2022","Other social services",45.79,"1%","United States"
-"2018","Infrastructure",10.03,"0%","United States"
-"2019","Infrastructure",13.6,"0%","United States"
-"2020","Infrastructure",13.33,"0%","United States"
-"2021","Infrastructure",8.47,"0%","United States"
-"2022","Infrastructure",14.63,"0%","United States"
-"2018","Unspecified",0,"0%","United States"
-"2019","Unspecified",0,"0%","United States"
-"2020","Unspecified",1.59,"0%","United States"
-"2021","Unspecified",1.72,"0%","United States"
-"2022","Unspecified",3.26,"0%","United States"
-"2018","Industry, construction & mining",14.22,"0%","United States"
-"2019","Industry, construction & mining",3.12,"0%","United States"
-"2020","Industry, construction & mining",5.47,"0%","United States"
-"2021","Industry, construction & mining",4.19,"0%","United States"
-"2022","Industry, construction & mining",1.66,"0%","United States"
+year,Sector,Gender-related ODA to,Share,donor
+2023,Health & populations,4429.236196612802,48.0%,United States
+2020,Health & populations,3657.901747826411,52.0%,United States
+2019,Health & populations,3654.449918252,46.0%,United States
+2022,Health & populations,3610.1081019663966,55.0%,United States
+2021,Health & populations,2982.445142624805,50.0%,United States
+2019,Government & civil society,1492.4084759992,19.0%,United States
+2023,Government & civil society,1239.3576437831996,13.0%,United States
+2020,Government & civil society,996.7431127287997,14.0%,United States
+2023,"Agriculture (incl. forestry, fishing, rural development)",926.9235316791999,10.0%,United States
+2021,Government & civil society,898.7308968912004,15.0%,United States
+2019,Education,781.0657578160008,10.0%,United States
+2023,Education,715.0725145720007,8.0%,United States
+2022,Government & civil society,711.3349891007996,11.0%,United States
+2019,"Agriculture (incl. forestry, fishing, rural development)",699.1412093600001,9.0%,United States
+2020,Education,587.9028256463998,8.0%,United States
+2021,"Agriculture (incl. forestry, fishing, rural development)",562.4745128984005,9.0%,United States
+2022,Education,532.9830301448002,8.0%,United States
+2020,"Agriculture (incl. forestry, fishing, rural development)",508.0917957583998,7.0%,United States
+2022,"Agriculture (incl. forestry, fishing, rural development)",476.08530964319993,7.0%,United States
+2021,Education,402.1865805856001,7.0%,United States
+2023,Environmental protection,377.03186324320023,4.0%,United States
+2023,Energy,360.4519428576002,4.0%,United States
+2023,Financial services & business support,319.0042544472,3.0%,United States
+2019,Environmental protection,318.01816713679995,4.0%,United States
+2020,Environmental protection,270.58682525679995,4.0%,United States
+2022,Environmental protection,255.05744893120004,4.0%,United States
+2021,Environmental protection,238.22000452640012,4.0%,United States
+2023,Emergency Response,221.74725576959983,2.0%,United States
+2019,Financial services & business support,219.51713067600002,3.0%,United States
+2022,Financial services & business support,207.43917511040007,3.0%,United States
+2020,Water and sanitation,206.9296875703999,3.0%,United States
+2021,Financial services & business support,201.75362723359996,3.0%,United States
+2019,Water and sanitation,193.2302775976,2.0%,United States
+2019,"Conflict, peace & security",192.07878128320002,2.0%,United States
+2020,Financial services & business support,190.40814359839993,3.0%,United States
+2021,Emergency Response,180.92921416720012,3.0%,United States
+2023,Water and sanitation,179.20265503039997,2.0%,United States
+2021,Water and sanitation,171.5358462696,3.0%,United States
+2022,Emergency Response,159.20378661440012,2.0%,United States
+2022,Water and sanitation,144.291291504,2.0%,United States
+2019,Food aid and commodity assistance,133.84074098160002,2.0%,United States
+2020,"Conflict, peace & security",123.96894506240002,2.0%,United States
+2023,"Conflict, peace & security",123.44864573040006,1.0%,United States
+2020,Food aid and commodity assistance,120.74598618319999,2.0%,United States
+2023,Trade policy,113.91517381759996,1.0%,United States
+2020,Energy,112.84193744559998,2.0%,United States
+2023,Other multisector,106.5404380432001,1.0%,United States
+2020,Emergency Response,101.68330378079996,1.0%,United States
+2023,Other social services,96.63909957679998,1.0%,United States
+2022,Energy,92.05299473519999,1.0%,United States
+2021,Food aid and commodity assistance,81.24794817280001,1.0%,United States
+2019,Emergency Response,80.79362048639999,1.0%,United States
+2022,"Conflict, peace & security",80.3647938952,1.0%,United States
+2020,Other social services,78.94751219040006,1.0%,United States
+2021,"Conflict, peace & security",78.03202837200003,1.0%,United States
+2019,Other social services,76.119249088,1.0%,United States
+2022,Trade policy,69.02538125759999,1.0%,United States
+2019,Energy,65.25942865920003,1.0%,United States
+2022,Donor administration costs,63.732685342400025,1.0%,United States
+2022,Food aid and commodity assistance,55.8642605256,1.0%,United States
+2022,Other multisector,51.153576239999985,1.0%,United States
+2022,Other social services,50.79249144,1.0%,United States
+2020,Other multisector,50.37977255120001,1.0%,United States
+2021,Trade policy,49.808743917600005,1.0%,United States
+2019,Trade policy,47.575159465599995,1.0%,United States
+2020,Trade policy,46.258003048000006,1.0%,United States
+2021,Energy,44.608333183999996,1.0%,United States
+2021,Other social services,43.693298646399995,1.0%,United States
+2023,Food aid and commodity assistance,34.9135777648,0.0%,United States
+2023,Disaster Prevention & Preparedness,33.194965606400004,0.0%,United States
+2021,Other multisector,29.834109687200012,0.0%,United States
+2019,Other multisector,23.368512807200005,0.0%,United States
+2021,Disaster Prevention & Preparedness,20.4241682048,0.0%,United States
+2022,Infrastructure,16.230652811999995,0.0%,United States
+2019,Infrastructure,15.125240464,0.0%,United States
+2020,Disaster Prevention & Preparedness,15.104031919999999,0.0%,United States
+2020,Infrastructure,14.813032849599997,0.0%,United States
+2022,Disaster Prevention & Preparedness,11.5655637832,0.0%,United States
+2023,Infrastructure,10.284650733600001,0.0%,United States
+2019,Disaster Prevention & Preparedness,10.110475047200001,0.0%,United States
+2021,Infrastructure,9.410547440799998,0.0%,United States
+2020,"Industry, construction & mining",6.006904010400002,0.0%,United States
+2023,Donor administration costs,5.1201181328,0.0%,United States
+2021,"Industry, construction & mining",4.623033025599998,0.0%,United States
+2022,Unspecified,3.6153262816000007,0.0%,United States
+2019,"Industry, construction & mining",3.4666226376,0.0%,United States
+2021,Unspecified,1.9061552456,0.0%,United States
+2022,"Industry, construction & mining",1.8437394551999997,0.0%,United States
+2023,Unspecified,1.8176956952000003,0.0%,United States
+2020,Unspecified,1.7653539632000002,0.0%,United States
+2023,"Industry, construction & mining",1.0166653823999998,0.0%,United States
+2019,,0.5081459232000001,0.0%,United States
+2020,,0.204775548,0.0%,United States
+2021,,0.0402505792,0.0%,United States
+2022,,0.010376000000000002,0.0%,United States
+2021,Reconstruction Relief & Rehabilitation,0.0,0.0%,United States
+2023,,0.0,0.0%,United States
+2023,Tourism,0.0,0.0%,United States

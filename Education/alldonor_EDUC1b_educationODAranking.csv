@@ -1,32 +1,32 @@
-"Donor","ODA to the education sector as a % of total ODA","Ranking"
-"Hungary","38.7%","1st"
-"Portugal","13.7%","2nd"
-"Slovenia","12.4%","3rd"
-"Austria","11.9%","4th"
-"Germany"," 8.8%","5th"
-"Luxembourg"," 8.7%","6th"
-"France"," 8.7%","7th"
-"Korea"," 8.2%","8th"
-"Italy"," 8.0%","9th"
-"Australia"," 7.5%","10th"
-"New Zealand"," 7.3%","11th"
-"Belgium"," 7.0%","12th"
-"Iceland"," 6.7%","13th"
-"Slovak Republic"," 6.3%","14th"
-"Norway"," 5.3%","15th"
-"Finland"," 5.3%","16th"
-"Poland"," 5.2%","17th"
-"Lithuania"," 5.1%","18th"
-"Switzerland"," 4.4%","19th"
-"Greece"," 4.4%","20th"
-"Denmark"," 4.1%","21st"
-"Spain"," 4.1%","22nd"
-"Canada"," 3.8%","23rd"
-"Sweden"," 3.6%","24th"
-"United Kingdom"," 3.3%","25th"
-"Japan"," 3.1%","26th"
-"Ireland"," 2.9%","27th"
-"Netherlands"," 2.8%","28th"
-"Estonia"," 2.3%","29th"
-"United States"," 2.3%","30th"
-"Czechia"," 0.6%","31th"
+donor,ODA to Education as % of Total ODA,Year,Rank
+Hungary,39.3%,2023,1st
+Slovenia,16.6%,2023,2nd
+Austria,16.4%,2023,3rd
+Portugal,15.6%,2023,4th
+France,11.7%,2023,5th
+Luxembourg,11.2%,2023,6th
+Lithuania,11.1%,2023,7th
+Germany,8.3%,2023,8th
+Estonia,8.3%,2023,9th
+Poland,8.2%,2023,10th
+New Zealand,7.8%,2023,11th
+Korea,7.8%,2023,12th
+Slovak Republic,7.5%,2023,13th
+Belgium,7.4%,2023,14th
+Italy,7.2%,2023,15th
+Australia,6.3%,2023,16th
+Greece,6.0%,2023,17th
+Spain,5.9%,2023,18th
+Finland,5.7%,2023,19th
+Iceland,5.0%,2023,20th
+Canada,4.7%,2023,21st
+Switzerland,4.4%,2023,22nd
+Norway,4.3%,2023,23rd
+Denmark,4.1%,2023,24th
+Czechia,3.8%,2023,25th
+Sweden,3.8%,2023,26th
+United Kingdom,3.7%,2023,27th
+Ireland,3.3%,2023,28th
+Japan,3.1%,2023,29th
+United States,2.8%,2023,31st
+Netherlands,2.8%,2023,30th

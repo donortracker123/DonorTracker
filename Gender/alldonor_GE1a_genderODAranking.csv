@@ -1,33 +1,31 @@
-"Donor","total_gender","Rank"
-"Germany",12701.6,"1st"
-"EU Institutions",10270.6,"2nd"
-"Japan",8957,"3rd"
-"United States",5885.8,"4th"
-"United Kingdom",3997.1,"5th"
-"Canada",3470.5,"6th"
-"France",2881.7,"7th"
-"Netherlands",2606.5,"8th"
-"Sweden",2180.2,"9th"
-"Switzerland",1459,"10th"
-"Norway",1218.2,"11th"
-"Australia",1133.4,"12th"
-"Denmark",537.1,"13th"
-"Belgium",532.3,"14th"
-"Spain",530.1,"15th"
-"Korea",476.1,"16th"
-"Italy",407,"17th"
-"Ireland",366.1,"18th"
-"Finland",319.5,"19th"
-"Austria",233.7,"20th"
-"New Zealand",155.1,"21st"
-"Luxembourg",129.3,"22nd"
-"Portugal",45.2,"23rd"
-"Iceland",40.6,"24th"
-"Hungary",23.4,"25th"
-"Poland",8.8,"26th"
-"Czechia",7.6,"27th"
-"Slovak Republic",5,"28th"
-"Lithuania",4.7,"29th"
-"Slovenia",2.7,"30th"
-"Estonia",0.9,"31th"
-"Greece",0,"32th"
+Donor,total_gender,year,Rank
+Germany,10252.316869963017,2023,1st
+United States,9294.918888478427,2023,2nd
+France,3587.813927364988,2023,3rd
+United Kingdom,2989.895367052798,2023,4th
+Japan,2819.7784601325957,2023,5th
+Netherlands,2800.7192660932014,2023,6th
+Canada,2692.2424167107392,2023,7th
+Sweden,1864.0615304843948,2023,8th
+Norway,1772.2432126939982,2023,9th
+Switzerland,1524.0996076920053,2023,10th
+Australia,1366.5552474096069,2023,11th
+Denmark,891.035549110001,2023,12th
+Korea,680.4023516639938,2023,13th
+Spain,643.3877516628982,2023,14th
+Belgium,586.4418197113994,2023,15th
+Italy,515.2915461939992,2023,16th
+Ireland,416.3971612500012,2023,17th
+Finland,346.95562891989977,2023,18th
+New Zealand,322.55919475119947,2023,19th
+Austria,214.6725530441998,2023,20th
+Luxembourg,134.22543830700002,2023,21st
+Portugal,61.01445086640001,2023,22nd
+Iceland,51.611040848,2023,23rd
+Czechia,30.011178827600002,2023,24th
+Poland,15.665840520000003,2023,25th
+Slovak Republic,5.335708060200002,2023,26th
+Slovenia,3.2613616001999994,2023,27th
+Lithuania,2.8585418240000013,2023,28th
+Hungary,2.0048821650000006,2023,29th
+Estonia,1.5117468719999998,2023,30th

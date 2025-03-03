@@ -36,11 +36,11 @@ deflated AS (
 )
 
 SELECT
-    donor_name AS donor,
     year AS "Year",
     sector_renamed AS "Sector",
     sum(total_oda) AS "Bilateral ODA for", 
-    sum(total_oda) * 100 / sum(sum(total_oda)) OVER (PARTITION BY donor_name, year) AS share
+    sum(total_oda) * 100 / sum(sum(total_oda)) OVER (PARTITION BY donor_name, year) AS share,
+    donor_name AS donor,
 FROM deflated
-GROUP BY 1,2,3
-ORDER BY 1, 2 DESC, 4 DESC
+GROUP BY year, sector_renamed, donor_name
+ORDER BY donor, year DESC, 3 DESC

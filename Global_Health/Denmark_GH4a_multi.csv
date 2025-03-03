@@ -1,116 +1,90 @@
-"Year","Multi_short","ODA","Share","Full Name","Donor"
-"2018","EC - Development Share of Budget","9.7","4.4%","european commission development share of budget","Denmark"
-"2019","EC - Development Share of Budget","9.2","4.7%","european commission development share of budget","Denmark"
-"2020","EC - Development Share of Budget","9.8","5.4%","european commission development share of budget","Denmark"
-"2021","EC - Development Share of Budget","16","6%","european commission development share of budget","Denmark"
-"2022","EC - Development Share of Budget","23.3","11.4%","european commission development share of budget","Denmark"
-"2018","Global Fund","25.4","11.4%","global fund to fight aids tuberculosis and malaria","Denmark"
-"2019","Global Fund","25.2","12.9%","global fund to fight aids tuberculosis and malaria","Denmark"
-"2020","Global Fund","20.4","11.2%","global fund to fight aids tuberculosis and malaria","Denmark"
-"2021","Global Fund","19.9","7.5%","global fund to fight aids tuberculosis and malaria","Denmark"
-"2022","Global Fund","18.3","9%","global fund to fight aids tuberculosis and malaria","Denmark"
-"2018","UNFPA","19.7","8.9%","united nations population fund","Denmark"
-"2019","UNFPA","18.5","9.5%","united nations population fund","Denmark"
-"2020","UNFPA","11","6%","united nations population fund","Denmark"
-"2021","UNFPA","10.3","3.9%","united nations population fund","Denmark"
-"2022","UNFPA","15.4","7.6%","united nations population fund","Denmark"
-"2018","IDA","9.2","4.2%","international development association","Denmark"
-"2019","IDA","8.9","4.6%","international development association","Denmark"
-"2020","IDA","17","9.4%","international development association","Denmark"
-"2021","IDA","10.6","4%","international development association","Denmark"
-"2022","IDA","7.6","3.7%","international development association","Denmark"
-"2018","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Denmark"
-"2019","WHO - core voluntary contributions","3.1","1.6%","world health organisation core voluntary contributions account","Denmark"
-"2020","WHO - core voluntary contributions","3","1.7%","world health organisation core voluntary contributions account","Denmark"
-"2021","WHO - core voluntary contributions","7.5","2.8%","world health organisation core voluntary contributions account","Denmark"
-"2022","WHO - core voluntary contributions","7.2","3.5%","world health organisation core voluntary contributions account","Denmark"
-"2018","Gavi","3.9","1.7%","global alliance for vaccines and immunization","Denmark"
-"2019","Gavi","3.9","2%","global alliance for vaccines and immunization","Denmark"
-"2020","Gavi","0","0%","global alliance for vaccines and immunization","Denmark"
-"2021","Gavi","0","0%","global alliance for vaccines and immunization","Denmark"
-"2022","Gavi","3.6","1.8%","global alliance for vaccines and immunization","Denmark"
-"2018","UNRWA","1.9","0.9%","united nations relief and works agency for palestine refugees in the near east","Denmark"
-"2019","UNRWA","1.8","0.9%","united nations relief and works agency for palestine refugees in the near east","Denmark"
-"2020","UNRWA","2.5","1.4%","united nations relief and works agency for palestine refugees in the near east","Denmark"
-"2021","UNRWA","2.8","1.1%","united nations relief and works agency for palestine refugees in the near east","Denmark"
-"2022","UNRWA","2.4","1.2%","united nations relief and works agency for palestine refugees in the near east","Denmark"
-"2018","WHO - assessed contributions","2.1","0.9%","world health organisation assessed contributions","Denmark"
-"2019","WHO - assessed contributions","2","1.1%","world health organisation assessed contributions","Denmark"
-"2020","WHO - assessed contributions","1.9","1%","world health organisation assessed contributions","Denmark"
-"2021","WHO - assessed contributions","1.6","0.6%","world health organisation assessed contributions","Denmark"
-"2022","WHO - assessed contributions","1.6","0.8%","world health organisation assessed contributions","Denmark"
-"2018","IBRD","0","0%","international bank for reconstruction and development","Denmark"
-"2019","IBRD","0","0%","international bank for reconstruction and development","Denmark"
-"2020","IBRD","2.2","1.2%","international bank for reconstruction and development","Denmark"
-"2021","IBRD","0.4","0.2%","international bank for reconstruction and development","Denmark"
-"2022","IBRD","1.5","0.7%","international bank for reconstruction and development","Denmark"
-"2018","UNICEF","1.1","0.5%","united nations childrenâ€™s fund","Denmark"
-"2019","UNICEF","1.4","0.7%","united nations childrenâ€™s fund","Denmark"
-"2020","UNICEF","1.1","0.6%","united nations childrenâ€™s fund","Denmark"
-"2021","UNICEF","1.1","0.4%","united nations childrenâ€™s fund","Denmark"
-"2022","UNICEF","0.9","0.4%","united nations childrenâ€™s fund","Denmark"
-"2018","UNDP","0.3","0.1%","united nations development programme","Denmark"
-"2019","UNDP","0.2","0.1%","united nations development programme","Denmark"
-"2020","UNDP","0.7","0.4%","united nations development programme","Denmark"
-"2021","UNDP","1","0.4%","united nations development programme","Denmark"
-"2022","UNDP","0.9","0.4%","united nations development programme","Denmark"
-"2018","African Development Fund","0.2","0.1%","african development fund","Denmark"
-"2019","African Development Fund","0.6","0.3%","african development fund","Denmark"
-"2020","African Development Fund","0.5","0.3%","african development fund","Denmark"
-"2021","African Development Fund","0.5","0.2%","african development fund","Denmark"
-"2022","African Development Fund","0.6","0.3%","african development fund","Denmark"
-"2018","EIB","0.1","0%","european investment bank","Denmark"
-"2019","EIB","0.2","0.1%","european investment bank","Denmark"
-"2020","EIB","0.2","0.1%","european investment bank","Denmark"
-"2021","EIB","0.5","0.2%","european investment bank","Denmark"
-"2022","EIB","0.4","0.2%","european investment bank","Denmark"
-"2018","FAO","0.1","0.1%","food and agricultural organisation","Denmark"
-"2019","FAO","0.1","0.1%","food and agricultural organisation","Denmark"
-"2020","FAO","0.1","0.1%","food and agricultural organisation","Denmark"
-"2021","FAO","0.1","0%","food and agricultural organisation","Denmark"
-"2022","FAO","0.1","0%","food and agricultural organisation","Denmark"
-"2018","UN","0","0%","united nations","Denmark"
-"2019","UN","0","0%","united nations","Denmark"
-"2020","UN","0","0%","united nations","Denmark"
-"2021","UN","0","0%","united nations","Denmark"
-"2022","UN","0","0%","united nations","Denmark"
-"2018","AfDB","0","0%","african development bank","Denmark"
-"2019","AfDB","0","0%","african development bank","Denmark"
-"2020","AfDB","0","0%","african development bank","Denmark"
-"2021","AfDB","0","0%","african development bank","Denmark"
-"2022","AfDB","0","0%","african development bank","Denmark"
-"2018","ADB","0","0%","asian development bank","Denmark"
-"2019","ADB","0","0%","asian development bank","Denmark"
-"2020","ADB","0","0%","asian development bank","Denmark"
-"2021","ADB","0","0%","asian development bank","Denmark"
-"2022","ADB","0","0%","asian development bank","Denmark"
-"2018","GEF-Least Developed Countries Fund","0.1","0%","global environment facility least developed countries fund","Denmark"
-"2019","GEF-Least Developed Countries Fund","0","0%","global environment facility least developed countries fund","Denmark"
-"2020","GEF-Least Developed Countries Fund","0","0%","global environment facility least developed countries fund","Denmark"
-"2021","GEF-Least Developed Countries Fund","0","0%","global environment facility least developed countries fund","Denmark"
-"2022","GEF-Least Developed Countries Fund","0","0%","global environment facility least developed countries fund","Denmark"
-"2018","GEF Fund","0","0%","global environment facility trust fund","Denmark"
-"2019","GEF Fund","0","0%","global environment facility trust fund","Denmark"
-"2020","GEF Fund","0","0%","global environment facility trust fund","Denmark"
-"2021","GEF Fund","0","0%","global environment facility trust fund","Denmark"
-"2022","GEF Fund","0","0%","global environment facility trust fund","Denmark"
-"2018","UNAIDS","5.6","2.5%","joint united nations programme on hiv aids","Denmark"
-"2019","UNAIDS","4.3","2.2%","joint united nations programme on hiv aids","Denmark"
-"2020","UNAIDS","2.7","1.5%","joint united nations programme on hiv aids","Denmark"
-"2021","UNAIDS","0.3","0.1%","joint united nations programme on hiv aids","Denmark"
-"2022","UNAIDS","0","0%","joint united nations programme on hiv aids","Denmark"
-"2018","WFP","1.7","0.8%","world food programme","Denmark"
-"2019","WFP","0.9","0.5%","world food programme","Denmark"
-"2020","WFP","0","0%","world food programme","Denmark"
-"2021","WFP","0","0%","world food programme","Denmark"
-"2022","WFP","0","0%","world food programme","Denmark"
-"2018","IFC","0","0%","international finance corporation","Denmark"
-"2019","IFC","0","0%","international finance corporation","Denmark"
-"2020","IFC","0","0%","international finance corporation","Denmark"
-"2021","IFC","0","0%","international finance corporation","Denmark"
-"2022","IFC","0","0%","international finance corporation","Denmark"
-"2018","AIIB","0","0%","asian infrastructure investment bank","Denmark"
-"2019","AIIB","0","0%","asian infrastructure investment bank","Denmark"
-"2020","AIIB","0","0%","asian infrastructure investment bank","Denmark"
-"2021","AIIB","0","0%","asian infrastructure investment bank","Denmark"
-"2022","AIIB","0","0%","asian infrastructure investment bank","Denmark"
+Year,ODA,Share,Full Name,donor
+2019,7.869000000000001,0.09434075367100511,european commission european development fund,Denmark
+2019,18.054399999999998,0.21645262461275822,united nations population fund,Denmark
+2019,1.3654,0.01636966133719537,united nations children’s fund,Denmark
+2019,0.2363,0.002832980060040476,united nations development programme,Denmark
+2019,24.5323,0.29411560189137104,global fund to fight aids tuberculosis and malaria,Denmark
+2019,0.0061,7.313236718682567e-05,united nations,Denmark
+2019,0.5976,0.0071645742017782,african development fund,Denmark
+2019,8.671799999999998,0.10396545274929749,international development association,Denmark
+2019,1.9942,0.023908289613765205,world health organisation assessed contributions,Denmark
+2019,2.9829,0.03576172755435775,world health organisation core voluntary contributions account,Denmark
+2019,6.1713,0.07398717665902577,european commission development share of budget,Denmark
+2019,3.7948,0.04549552573779771,global alliance for vaccines and immunization,Denmark
+2019,0.0003,3.596673796073393e-06,african development bank,Denmark
+2019,0.1608,0.0019278171546953389,european investment bank,Denmark
+2019,1.7764,0.02129710443781592,united nations relief and works agency for palestine refugees in the near east,Denmark
+2019,4.2104,0.05047811783662472,joint united nations programme on hiv aids,Denmark
+2019,0.1171,0.001403901671733981,food and agricultural organisation,Denmark
+2019,0.8693,0.010421961769755336,world food programme,Denmark
+2020,2.6531,0.03519811293219875,joint united nations programme on hiv aids,Denmark
+2020,1.8494,0.024535596116546068,world health organisation assessed contributions,Denmark
+2020,16.5646,0.21975902207858708,international development association,Denmark
+2020,0.0006,7.960072277456278e-06,asian infrastructure investment bank,Denmark
+2020,2.4734,0.032814071285100596,united nations relief and works agency for palestine refugees in the near east,Denmark
+2020,1.0812000000000002,0.014344050243976215,united nations children’s fund,Denmark
+2020,7.1456,0.09479915410965263,european commission european development fund,Denmark
+2020,2.9187,0.03872177159368606,world health organisation core voluntary contributions account,Denmark
+2020,2.1304000000000007,0.028263563299821434,international bank for reconstruction and development,Denmark
+2020,0.0031,4.112704010019077e-05,united nations,Denmark
+2020,6.653100000000001,0.08826526144857395,european commission development share of budget,Denmark
+2020,0.6398999999999999,0.00848941708390712,united nations development programme,Denmark
+2020,10.6476,0.1412594426357391,united nations population fund,Denmark
+2020,0.14659999999999998,0.0019449109931251503,european investment bank,Denmark
+2020,0.001,1.3266787129093797e-05,african development bank,Denmark
+2020,0.1138,0.001509760375290874,food and agricultural organisation,Denmark
+2020,0.4918,0.0065246059100883295,african development fund,Denmark
+2020,19.862299999999998,0.2635089059941997,global fund to fight aids tuberculosis and malaria,Denmark
+2021,4.593600000000001,0.061858418877483015,european commission european development fund,Denmark
+2021,0.2547,0.0034298457175406913,joint united nations programme on hiv aids,Denmark
+2021,1.0884,0.01465663164103372,united nations children’s fund,Denmark
+2021,0.3973,0.005350128400388366,international bank for reconstruction and development,Denmark
+2021,7.265299999999999,0.0978361134340337,world health organisation core voluntary contributions account,Denmark
+2021,0.0005,6.7331089861419154e-06,african development bank,Denmark
+2021,10.2545,0.13808933219678454,international development association,Denmark
+2021,0.1044,0.001405873156306432,food and agricultural organisation,Denmark
+2021,19.3108,0.26004344201917856,global fund to fight aids tuberculosis and malaria,Denmark
+2021,10.012000000000002,0.13482377433850573,united nations population fund,Denmark
+2021,0.9654999999999999,0.013001633452240037,united nations development programme,Denmark
+2021,0.49440000000000006,0.0066576981654971265,european investment bank,Denmark
+2021,2.7624,0.03719908052663685,united nations relief and works agency for palestine refugees in the near east,Denmark
+2021,14.678599999999994,0.19766522712796533,european commission development share of budget,Denmark
+2021,1.5835000000000001,0.021323756159111446,world health organisation assessed contributions,Denmark
+2021,0.4783,0.006440892056143356,african development fund,Denmark
+2021,0.015700000000000002,0.00021141962216485616,united nations,Denmark
+2022,0.09540000000000001,0.0011323751271548064,food and agricultural organisation,Denmark
+2022,0.8331,0.009888697258204078,united nations development programme,Denmark
+2022,0.41400000000000003,0.004914080740483122,european investment bank,Denmark
+2022,15.0408,0.17853068985859552,united nations population fund,Denmark
+2022,3.4177999999999997,0.04056846655754399,global alliance for vaccines and immunization,Denmark
+2022,1.5606,0.01852394783477768,world health organisation assessed contributions,Denmark
+2022,6.9853,0.08291383622342209,world health organisation core voluntary contributions account,Denmark
+2022,2.3337,0.027700459478418985,united nations relief and works agency for palestine refugees in the near east,Denmark
+2022,1.4383000000000001,0.0170722761570939,international bank for reconstruction and development,Denmark
+2022,0.020399999999999998,0.0002421431089513422,african development bank,Denmark
+2022,7.433999999999999,0.08823979764432735,international development association,Denmark
+2022,0.8730999999999999,0.010363487667912591,united nations children’s fund,Denmark
+2022,1.5835000000000001,0.018795765344335805,european commission european development fund,Denmark
+2022,17.869300000000003,0.21210430670510882,global fund to fight aids tuberculosis and malaria,Denmark
+2022,0.5709,0.0067764461225647684,african development fund,Denmark
+2022,23.746900000000007,0.281870009507678,european commission development share of budget,Denmark
+2022,0.0306,0.0003632146634270133,united nations,Denmark
+2023,0.37549999999999994,0.004729892289456811,european commission european development fund,Denmark
+2023,1.9287,0.02429438950379588,joint united nations programme on hiv aids,Denmark
+2023,7.270399999999999,0.09157978402467856,world health organisation core voluntary contributions account,Denmark
+2023,2.7574,0.034732902793470605,united nations relief and works agency for palestine refugees in the near east,Denmark
+2023,0.0513,0.0006461876816221955,african development bank,Denmark
+2023,0.8405,0.010587149052698936,global environment facility trust fund,Denmark
+2023,19.999399999999998,0.25191746432426776,united nations population fund,Denmark
+2023,0.42469999999999997,0.005349627843761139,european investment bank,Denmark
+2023,0.7098,0.008940819033439268,united nations development programme,Denmark
+2023,0.045700000000000005,0.0005756486754412152,united nations,Denmark
+2023,26.794299999999996,0.3375077309491149,european commission development share of budget,Denmark
+2023,1.7335999999999998,0.021836860913454936,international bank for reconstruction and development,Denmark
+2023,9.716299999999999,0.12238895459933213,international development association,Denmark
+2023,0.21120000000000003,0.0026603282331112616,african development fund,Denmark
+2023,0.11270000000000001,0.001419597499392231,food and agricultural organisation,Denmark
+2023,3.4212,0.043094294276137535,global alliance for vaccines and immunization,Denmark
+2023,0.6127,0.007717723051265482,world food programme,Denmark
+2023,0.8054,0.010145020638957433,united nations children’s fund,Denmark
+2023,1.5779,0.019875624616601608,world health organisation assessed contributions,Denmark

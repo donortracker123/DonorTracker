@@ -1,106 +1,93 @@
-"Year","Multi_short","ODA","Share","Full Name","Donor"
-"2018","EC - Development Share of Budget","18.6","2.7%","european commission development share of budget","Netherlands"
-"2019","EC - Development Share of Budget","16.6","2.9%","european commission development share of budget","Netherlands"
-"2020","EC - Development Share of Budget","15.3","2.8%","european commission development share of budget","Netherlands"
-"2021","EC - Development Share of Budget","24.4","4%","european commission development share of budget","Netherlands"
-"2022","EC - Development Share of Budget","68","9.5%","european commission development share of budget","Netherlands"
-"2018","Global Fund","71","10.4%","global fund to fight aids tuberculosis and malaria","Netherlands"
-"2019","Global Fund","79.5","13.8%","global fund to fight aids tuberculosis and malaria","Netherlands"
-"2020","Global Fund","51.2","9.4%","global fund to fight aids tuberculosis and malaria","Netherlands"
-"2021","Global Fund","61.5","10.2%","global fund to fight aids tuberculosis and malaria","Netherlands"
-"2022","Global Fund","58.1","8.1%","global fund to fight aids tuberculosis and malaria","Netherlands"
-"2018","IDA","43.8","6.4%","international development association","Netherlands"
-"2019","IDA","37.8","6.5%","international development association","Netherlands"
-"2020","IDA","22.2","4%","international development association","Netherlands"
-"2021","IDA","5.7","1%","international development association","Netherlands"
-"2022","IDA","36.9","5.2%","international development association","Netherlands"
-"2018","WHO - strategic preparedness and response plan","0","0%","world health organisation strategic preparedness and response plan","Netherlands"
-"2019","WHO - strategic preparedness and response plan","0","0%","world health organisation strategic preparedness and response plan","Netherlands"
-"2020","WHO - strategic preparedness and response plan","0","0%","world health organisation strategic preparedness and response plan","Netherlands"
-"2021","WHO - strategic preparedness and response plan","0","0%","world health organisation strategic preparedness and response plan","Netherlands"
-"2022","WHO - strategic preparedness and response plan","32.7","4.6%","world health organisation strategic preparedness and response plan","Netherlands"
-"2018","UNFPA","21.7","3.2%","united nations population fund","Netherlands"
-"2019","UNFPA","15","2.6%","united nations population fund","Netherlands"
-"2020","UNFPA","11.9","2.2%","united nations population fund","Netherlands"
-"2021","UNFPA","11.2","1.9%","united nations population fund","Netherlands"
-"2022","UNFPA","18.3","2.6%","united nations population fund","Netherlands"
-"2018","Gavi","61.2","9%","global alliance for vaccines and immunization","Netherlands"
-"2019","Gavi","59.8","10.4%","global alliance for vaccines and immunization","Netherlands"
-"2020","Gavi","44.8","8.2%","global alliance for vaccines and immunization","Netherlands"
-"2021","Gavi","11.4","1.9%","global alliance for vaccines and immunization","Netherlands"
-"2022","Gavi","13.4","1.9%","global alliance for vaccines and immunization","Netherlands"
-"2018","WHO - assessed contributions","13.5","2%","world health organisation assessed contributions","Netherlands"
-"2019","WHO - assessed contributions","11.8","2%","world health organisation assessed contributions","Netherlands"
-"2020","WHO - assessed contributions","16.7","3.1%","world health organisation assessed contributions","Netherlands"
-"2021","WHO - assessed contributions","21.4","3.6%","world health organisation assessed contributions","Netherlands"
-"2022","WHO - assessed contributions","12.3","1.7%","world health organisation assessed contributions","Netherlands"
-"2018","UNICEF","11.3","1.7%","united nations childrenâ€™s fund","Netherlands"
-"2019","UNICEF","12","2.1%","united nations childrenâ€™s fund","Netherlands"
-"2020","UNICEF","9.6","1.8%","united nations childrenâ€™s fund","Netherlands"
-"2021","UNICEF","6.4","1.1%","united nations childrenâ€™s fund","Netherlands"
-"2022","UNICEF","5.6","0.8%","united nations childrenâ€™s fund","Netherlands"
-"2018","UNRWA","3.9","0.6%","united nations relief and works agency for palestine refugees in the near east","Netherlands"
-"2019","UNRWA","3.6","0.6%","united nations relief and works agency for palestine refugees in the near east","Netherlands"
-"2020","UNRWA","3.4","0.6%","united nations relief and works agency for palestine refugees in the near east","Netherlands"
-"2021","UNRWA","3.3","0.6%","united nations relief and works agency for palestine refugees in the near east","Netherlands"
-"2022","UNRWA","3.3","0.5%","united nations relief and works agency for palestine refugees in the near east","Netherlands"
-"2018","WFP","2","0.3%","world food programme","Netherlands"
-"2019","WFP","1.2","0.2%","world food programme","Netherlands"
-"2020","WFP","0.9","0.2%","world food programme","Netherlands"
-"2021","WFP","0.8","0.1%","world food programme","Netherlands"
-"2022","WFP","1.8","0.3%","world food programme","Netherlands"
-"2018","UNDP","1.2","0.2%","united nations development programme","Netherlands"
-"2019","UNDP","1.3","0.2%","united nations development programme","Netherlands"
-"2020","UNDP","1.6","0.3%","united nations development programme","Netherlands"
-"2021","UNDP","1.8","0.3%","united nations development programme","Netherlands"
-"2022","UNDP","1.3","0.2%","united nations development programme","Netherlands"
-"2018","African Development Fund","0","0%","african development fund","Netherlands"
-"2019","African Development Fund","0","0%","african development fund","Netherlands"
-"2020","African Development Fund","0","0%","african development fund","Netherlands"
-"2021","African Development Fund","0.1","0%","african development fund","Netherlands"
-"2022","African Development Fund","0.7","0.1%","african development fund","Netherlands"
-"2018","GEF Fund","0","0%","global environment facility trust fund","Netherlands"
-"2019","GEF Fund","0","0%","global environment facility trust fund","Netherlands"
-"2020","GEF Fund","0.1","0%","global environment facility trust fund","Netherlands"
-"2021","GEF Fund","0.4","0.1%","global environment facility trust fund","Netherlands"
-"2022","GEF Fund","0.6","0.1%","global environment facility trust fund","Netherlands"
-"2018","FAO","0.3","0.1%","food and agricultural organisation","Netherlands"
-"2019","FAO","0.4","0.1%","food and agricultural organisation","Netherlands"
-"2020","FAO","0.2","0%","food and agricultural organisation","Netherlands"
-"2021","FAO","0.2","0%","food and agricultural organisation","Netherlands"
-"2022","FAO","0.2","0%","food and agricultural organisation","Netherlands"
-"2018","AfDB","0.7","0.1%","african development bank","Netherlands"
-"2019","AfDB","0.4","0.1%","african development bank","Netherlands"
-"2020","AfDB","0","0%","african development bank","Netherlands"
-"2021","AfDB","0","0%","african development bank","Netherlands"
-"2022","AfDB","0.1","0%","african development bank","Netherlands"
-"2018","UN","0","0%","united nations","Netherlands"
-"2019","UN","0","0%","united nations","Netherlands"
-"2020","UN","0","0%","united nations","Netherlands"
-"2021","UN","0","0%","united nations","Netherlands"
-"2022","UN","0.1","0%","united nations","Netherlands"
-"2018","SDG Fund","0","0%","joint sustainable development goals fund","Netherlands"
-"2019","SDG Fund","0","0%","joint sustainable development goals fund","Netherlands"
-"2020","SDG Fund","0","0%","joint sustainable development goals fund","Netherlands"
-"2021","SDG Fund","0","0%","joint sustainable development goals fund","Netherlands"
-"2022","SDG Fund","0.1","0%","joint sustainable development goals fund","Netherlands"
-"2018","GCF","0","0%","green climate fund","Netherlands"
-"2019","GCF","0","0%","green climate fund","Netherlands"
-"2020","GCF","0","0%","green climate fund","Netherlands"
-"2021","GCF","0","0%","green climate fund","Netherlands"
-"2022","GCF","0","0%","green climate fund","Netherlands"
-"2018","ADB","0","0%","asian development bank","Netherlands"
-"2019","ADB","0.1","0%","asian development bank","Netherlands"
-"2020","ADB","0.2","0%","asian development bank","Netherlands"
-"2021","ADB","0.6","0.1%","asian development bank","Netherlands"
-"2022","ADB","0","0%","asian development bank","Netherlands"
-"2018","UNAIDS","20.9","3.1%","joint united nations programme on hiv aids","Netherlands"
-"2019","UNAIDS","8","1.4%","joint united nations programme on hiv aids","Netherlands"
-"2020","UNAIDS","15.2","2.8%","joint united nations programme on hiv aids","Netherlands"
-"2021","UNAIDS","1","0.2%","joint united nations programme on hiv aids","Netherlands"
-"2022","UNAIDS","0","0%","joint united nations programme on hiv aids","Netherlands"
-"2018","GEF-Least Developed Countries Fund","0.1","0%","global environment facility least developed countries fund","Netherlands"
-"2019","GEF-Least Developed Countries Fund","0","0%","global environment facility least developed countries fund","Netherlands"
-"2020","GEF-Least Developed Countries Fund","0","0%","global environment facility least developed countries fund","Netherlands"
-"2021","GEF-Least Developed Countries Fund","0","0%","global environment facility least developed countries fund","Netherlands"
-"2022","GEF-Least Developed Countries Fund","0","0%","global environment facility least developed countries fund","Netherlands"
+Year,ODA,Share,Full Name,donor
+2019,1.3625,0.004985216318140589,united nations development programme,Netherlands
+2019,82.7462,0.302757949727798,global fund to fight aids tuberculosis and malaria,Netherlands
+2019,12.2705,0.0448962178581608,world health organisation assessed contributions,Netherlands
+2019,8.2744,0.030274990020420174,joint united nations programme on hiv aids,Netherlands
+2019,3.7902,0.013867865606617586,united nations relief and works agency for palestine refugees in the near east,Netherlands
+2019,0.0187,6.842095056824148e-05,global environment facility trust fund,Netherlands
+2019,15.6117,0.05712124887626821,united nations population fund,Netherlands
+2019,39.288199999999996,0.14375058770669435,international development association,Netherlands
+2019,1.2119,0.004434189839232719,world food programme,Netherlands
+2019,62.192400000000006,0.22755417786739582,global alliance for vaccines and immunization,Netherlands
+2019,0.05949999999999999,0.00021770302453531375,asian development bank,Netherlands
+2019,11.8725,0.04343998586210946,european commission development share of budget,Netherlands
+2019,21.345800000000004,0.07810160035505717,european commission european development fund,Netherlands
+2019,0.4296,0.001571852425888585,african development bank,Netherlands
+2019,12.4536,0.04556615775383166,united nations children’s fund,Netherlands
+2019,0.37679999999999997,0.001378663859578256,food and agricultural organisation,Netherlands
+2019,0.0036,1.3171947702976968e-05,united nations,Netherlands
+2020,46.66020000000001,0.21595505784386512,global alliance for vaccines and immunization,Netherlands
+2020,9.980400000000001,0.04619178356082724,united nations children’s fund,Netherlands
+2020,23.068900000000003,0.10676863009362024,international development association,Netherlands
+2020,0.010499999999999999,4.85966221182203e-05,african development bank,Netherlands
+2020,3.5528,0.016443245624915535,united nations relief and works agency for palestine refugees in the near east,Netherlands
+2020,0.11560000000000001,0.0005350256682729779,global environment facility trust fund,Netherlands
+2020,19.597700000000003,0.09070304964630917,european commission european development fund,Netherlands
+2020,0.0031,1.4347574149188852e-05,united nations,Netherlands
+2020,15.796,0.07310783266470552,joint united nations programme on hiv aids,Netherlands
+2020,0.2368,0.0010959695350090065,food and agricultural organisation,Netherlands
+2020,17.401,0.08053617347420491,world health organisation assessed contributions,Netherlands
+2020,11.1396,0.05155685064267875,european commission development share of budget,Netherlands
+2020,1.6314000000000002,0.007550526602253773,united nations development programme,Netherlands
+2020,12.396700000000001,0.057375023372661114,united nations population fund,Netherlands
+2020,53.329499999999996,0.24682224373844092,global fund to fight aids tuberculosis and malaria,Netherlands
+2020,0.20529999999999998,0.0009501796686543455,asian development bank,Netherlands
+2020,0.9389,0.004345463667314004,world food programme,Netherlands
+2021,6.625600000000001,0.039635067367530676,united nations children’s fund,Netherlands
+2021,22.153299999999998,0.13252347529478342,world health organisation assessed contributions,Netherlands
+2021,0.004,2.3928439608506805e-05,african development bank,Netherlands
+2021,0.0377,0.00022552554331017663,united nations,Netherlands
+2021,11.776699999999998,0.0704495136843755,global alliance for vaccines and immunization,Netherlands
+2021,0.1355,0.000810575891738168,african development fund,Netherlands
+2021,12.8186,0.07668227399140133,european commission european development fund,Netherlands
+2021,5.925299999999999,0.035445795803071334,international development association,Netherlands
+2021,11.647300000000001,0.06967542866304033,united nations population fund,Netherlands
+2021,0.4207,0.0025166736358247033,global environment facility trust fund,Netherlands
+2021,3.4693,0.020753733883448165,united nations relief and works agency for palestine refugees in the near east,Netherlands
+2021,63.7187,0.3811722662206406,global fund to fight aids tuberculosis and malaria,Netherlands
+2021,1.8909,0.011311571613931379,united nations development programme,Netherlands
+2021,23.812500000000004,0.1424489920443921,european commission development share of budget,Netherlands
+2021,0.6711,0.004014593955317229,asian development bank,Netherlands
+2021,1.0102,0.006043127423128393,joint united nations programme on hiv aids,Netherlands
+2021,0.24029999999999999,0.0014375010094810463,food and agricultural organisation,Netherlands
+2021,0.8074,0.004829955534977099,world food programme,Netherlands
+2022,12.785399999999997,0.04720765400992197,world health organisation assessed contributions,Netherlands
+2022,13.514,0.04989787071895174,global alliance for vaccines and immunization,Netherlands
+2022,1.9062,0.007038280388076499,world food programme,Netherlands
+2022,0.6926,0.002557293566667602,african development fund,Netherlands
+2022,4.660699999999999,0.01720874693353695,european commission european development fund,Netherlands
+2022,73.9739,0.27313453446623237,european commission development share of budget,Netherlands
+2022,0.1084,0.00040024635089051124,african development bank,Netherlands
+2022,60.352900000000005,0.2228415866297042,global fund to fight aids tuberculosis and malaria,Netherlands
+2022,18.9957,0.07013800376024801,united nations population fund,Netherlands
+2022,1.3526999999999998,0.0049945870742582514,united nations development programme,Netherlands
+2022,5.847700000000001,0.021591518321978254,united nations children’s fund,Netherlands
+2022,0.062099999999999995,0.00022929242057473013,joint sustainable development goals fund,Netherlands
+2022,0.24839999999999998,0.0009171696822989205,food and agricultural organisation,Netherlands
+2022,0.0805,0.0002972309155598354,united nations,Netherlands
+2022,38.2996,0.14141397731149652,international development association,Netherlands
+2022,0.6096,0.0022508318773326167,global environment facility trust fund,Netherlands
+2022,3.4286,0.012659452386191945,united nations relief and works agency for palestine refugees in the near east,Netherlands
+2022,33.910399999999996,0.12520769240994087,world health organisation strategic preparedness and response plan,Netherlands
+2022,0.0038,1.4030776138228254e-05,green climate fund,Netherlands
+2023,1.1325999999999998,0.004451839282548718,united nations development programme,Netherlands
+2023,33.6227,0.1321586232079735,international development association,Netherlands
+2023,0.11760000000000001,0.00046224289213114015,united nations,Netherlands
+2023,0.48529999999999995,0.0019075380574085227,global environment facility trust fund,Netherlands
+2023,77.83970000000001,0.3059595922671795,european commission development share of budget,Netherlands
+2023,64.87899999999999,0.25501578740285913,global fund to fight aids tuberculosis and malaria,Netherlands
+2023,5.7971,0.022786294812699254,united nations relief and works agency for palestine refugees in the near east,Netherlands
+2023,8.2612,0.032471777044845024,joint united nations programme on hiv aids,Netherlands
+2023,23.175099999999997,0.09109290178085361,united nations population fund,Netherlands
+2023,1.0599,0.004166081984437036,european commission european development fund,Netherlands
+2023,0.0354,0.000139144544059884,international finance corporation,Netherlands
+2023,0.6715,0.0026394226366161615,african development fund,Netherlands
+2023,14.908700000000001,0.05860068542445178,global alliance for vaccines and immunization,Netherlands
+2023,1.7263,0.006785458373180162,world food programme,Netherlands
+2023,0.0064,2.5156075762238918e-05,green climate fund,Netherlands
+2023,0.1095,0.0004304047337445565,joint sustainable development goals fund,Netherlands
+2023,4.9497,0.019455473156305306,united nations children’s fund,Netherlands
+2023,3.9738,0.015619564666247658,international bank for reconstruction and development,Netherlands
+2023,0.41600000000000004,0.0016351449245455298,food and agricultural organisation,Netherlands
+2023,0.32830000000000004,0.0012904280738660996,african development bank,Netherlands
+2023,10.915899999999999,0.042906438658284966,world health organisation assessed contributions,Netherlands

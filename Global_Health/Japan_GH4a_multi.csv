@@ -1,101 +1,86 @@
-"Year","Multi_short","ODA","Share","Full Name","Donor"
-"2018","Global Fund","285.3","31.4%","global fund to fight aids tuberculosis and malaria","Japan"
-"2019","Global Fund","345.4","34.9%","global fund to fight aids tuberculosis and malaria","Japan"
-"2020","Global Fund","459.3","25.6%","global fund to fight aids tuberculosis and malaria","Japan"
-"2021","Global Fund","183.1","8.9%","global fund to fight aids tuberculosis and malaria","Japan"
-"2022","Global Fund","215.5","6.8%","global fund to fight aids tuberculosis and malaria","Japan"
-"2018","IDA","175.1","19.2%","international development association","Japan"
-"2019","IDA","171.6","17.3%","international development association","Japan"
-"2020","IDA","88.7","4.9%","international development association","Japan"
-"2021","IDA","117.1","5.7%","international development association","Japan"
-"2022","IDA","135.4","4.3%","international development association","Japan"
-"2018","Gavi","0","0%","global alliance for vaccines and immunization","Japan"
-"2019","Gavi","0.1","0%","global alliance for vaccines and immunization","Japan"
-"2020","Gavi","45.2","2.5%","global alliance for vaccines and immunization","Japan"
-"2021","Gavi","48.2","2.3%","global alliance for vaccines and immunization","Japan"
-"2022","Gavi","35.3","1.1%","global alliance for vaccines and immunization","Japan"
-"2018","WHO - assessed contributions","32.2","3.5%","world health organisation assessed contributions","Japan"
-"2019","WHO - assessed contributions","30.1","3%","world health organisation assessed contributions","Japan"
-"2020","WHO - assessed contributions","25.9","1.4%","world health organisation assessed contributions","Japan"
-"2021","WHO - assessed contributions","25.2","1.2%","world health organisation assessed contributions","Japan"
-"2022","WHO - assessed contributions","28","0.9%","world health organisation assessed contributions","Japan"
-"2018","IBRD","0","0%","international bank for reconstruction and development","Japan"
-"2019","IBRD","14.9","1.5%","international bank for reconstruction and development","Japan"
-"2020","IBRD","0","0%","international bank for reconstruction and development","Japan"
-"2021","IBRD","0","0%","international bank for reconstruction and development","Japan"
-"2022","IBRD","25","0.8%","international bank for reconstruction and development","Japan"
-"2018","WHO - core voluntary contributions","0","0%","world health organisation core voluntary contributions account","Japan"
-"2019","WHO - core voluntary contributions","9","0.9%","world health organisation core voluntary contributions account","Japan"
-"2020","WHO - core voluntary contributions","57.1","3.2%","world health organisation core voluntary contributions account","Japan"
-"2021","WHO - core voluntary contributions","15.9","0.8%","world health organisation core voluntary contributions account","Japan"
-"2022","WHO - core voluntary contributions","10","0.3%","world health organisation core voluntary contributions account","Japan"
-"2018","UNFPA","19.5","2.1%","united nations population fund","Japan"
-"2019","UNFPA","6.6","0.7%","united nations population fund","Japan"
-"2020","UNFPA","4.9","0.3%","united nations population fund","Japan"
-"2021","UNFPA","4.6","0.2%","united nations population fund","Japan"
-"2022","UNFPA","9.3","0.3%","united nations population fund","Japan"
-"2018","African Development Fund","6.7","0.7%","african development fund","Japan"
-"2019","African Development Fund","2.9","0.3%","african development fund","Japan"
-"2020","African Development Fund","2.6","0.1%","african development fund","Japan"
-"2021","African Development Fund","14.9","0.7%","african development fund","Japan"
-"2022","African Development Fund","3.7","0.1%","african development fund","Japan"
-"2018","UNICEF","3","0.3%","united nations childrenâ€™s fund","Japan"
-"2019","UNICEF","3","0.3%","united nations childrenâ€™s fund","Japan"
-"2020","UNICEF","3","0.2%","united nations childrenâ€™s fund","Japan"
-"2021","UNICEF","3.1","0.2%","united nations childrenâ€™s fund","Japan"
-"2022","UNICEF","3.5","0.1%","united nations childrenâ€™s fund","Japan"
-"2018","UNDP","0.3","0%","united nations development programme","Japan"
-"2019","UNDP","1.2","0.1%","united nations development programme","Japan"
-"2020","UNDP","2.1","0.1%","united nations development programme","Japan"
-"2021","UNDP","0.6","0%","united nations development programme","Japan"
-"2022","UNDP","3.1","0.1%","united nations development programme","Japan"
-"2018","FAO","2","0.2%","food and agricultural organisation","Japan"
-"2019","FAO","2.9","0.3%","food and agricultural organisation","Japan"
-"2020","FAO","1.6","0.1%","food and agricultural organisation","Japan"
-"2021","FAO","1.7","0.1%","food and agricultural organisation","Japan"
-"2022","FAO","1.7","0.1%","food and agricultural organisation","Japan"
-"2018","UN","0","0%","united nations","Japan"
-"2019","UN","0.1","0%","united nations","Japan"
-"2020","UN","0","0%","united nations","Japan"
-"2021","UN","0.3","0%","united nations","Japan"
-"2022","UN","0.6","0%","united nations","Japan"
-"2018","UNRWA","0.3","0%","united nations relief and works agency for palestine refugees in the near east","Japan"
-"2019","UNRWA","0.3","0%","united nations relief and works agency for palestine refugees in the near east","Japan"
-"2020","UNRWA","0.3","0%","united nations relief and works agency for palestine refugees in the near east","Japan"
-"2021","UNRWA","0.2","0%","united nations relief and works agency for palestine refugees in the near east","Japan"
-"2022","UNRWA","0.3","0%","united nations relief and works agency for palestine refugees in the near east","Japan"
-"2018","WFP","0.3","0%","world food programme","Japan"
-"2019","WFP","0.1","0%","world food programme","Japan"
-"2020","WFP","0.1","0%","world food programme","Japan"
-"2021","WFP","0.1","0%","world food programme","Japan"
-"2022","WFP","0.1","0%","world food programme","Japan"
-"2018","IFC","0","0%","international finance corporation","Japan"
-"2019","IFC","0","0%","international finance corporation","Japan"
-"2020","IFC","0","0%","international finance corporation","Japan"
-"2021","IFC","0","0%","international finance corporation","Japan"
-"2022","IFC","0.1","0%","international finance corporation","Japan"
-"2018","IDB, IIC and MIF","0.3","0%","inter american development bank inter american investment corporation and multilateral investment fund","Japan"
-"2019","IDB, IIC and MIF","3","0.3%","inter american development bank inter american investment corporation and multilateral investment fund","Japan"
-"2020","IDB, IIC and MIF","0.3","0%","inter american development bank inter american investment corporation and multilateral investment fund","Japan"
-"2021","IDB, IIC and MIF","0.1","0%","inter american development bank inter american investment corporation and multilateral investment fund","Japan"
-"2022","IDB, IIC and MIF","0.1","0%","inter american development bank inter american investment corporation and multilateral investment fund","Japan"
-"2018","AfDB","0.2","0%","african development bank","Japan"
-"2019","AfDB","0","0%","african development bank","Japan"
-"2020","AfDB","0","0%","african development bank","Japan"
-"2021","AfDB","0","0%","african development bank","Japan"
-"2022","AfDB","0.1","0%","african development bank","Japan"
-"2018","GCF","0","0%","green climate fund","Japan"
-"2019","GCF","0","0%","green climate fund","Japan"
-"2020","GCF","0","0%","green climate fund","Japan"
-"2021","GCF","0","0%","green climate fund","Japan"
-"2022","GCF","0","0%","green climate fund","Japan"
-"2018","GEF Fund","0","0%","global environment facility trust fund","Japan"
-"2019","GEF Fund","0.1","0%","global environment facility trust fund","Japan"
-"2020","GEF Fund","0.9","0.1%","global environment facility trust fund","Japan"
-"2021","GEF Fund","4.4","0.2%","global environment facility trust fund","Japan"
-"2022","GEF Fund","0","0%","global environment facility trust fund","Japan"
-"2018","UNAIDS","0.7","0.1%","joint united nations programme on hiv aids","Japan"
-"2019","UNAIDS","0.5","0.1%","joint united nations programme on hiv aids","Japan"
-"2020","UNAIDS","0.3","0%","joint united nations programme on hiv aids","Japan"
-"2021","UNAIDS","0","0%","joint united nations programme on hiv aids","Japan"
-"2022","UNAIDS","0","0%","joint united nations programme on hiv aids","Japan"
+Year,ODA,Share,Full Name,donor
+2019,0.2279,0.0004716634570509962,united nations relief and works agency for palestine refugees in the near east,Japan
+2019,0.0422,8.733741942760878e-05,united nations,Japan
+2019,0.12229999999999999,0.00025311294777243014,global environment facility trust fund,Japan
+2019,12.1433,0.025131859842068286,international bank for reconstruction and development,Japan
+2019,5.3634,0.01110013069568808,united nations population fund,Japan
+2019,0.121,0.00025042245854835693,global alliance for vaccines and immunization,Japan
+2019,2.4747,0.00512165667908776,united nations children’s fund,Japan
+2019,0.10220000000000001,0.0002115138451540668,world food programme,Japan
+2019,2.4258,0.005020452892120697,inter american development bank inter american investment corporation and multilateral investment fund,Japan
+2019,0.98,0.002028214953532147,united nations development programme,Japan
+2019,281.95619999999997,0.5835385521235721,global fund to fight aids tuberculosis and malaria,Japan
+2019,7.3553999999999995,0.015222788029806483,world health organisation core voluntary contributions account,Japan
+2019,2.3439,0.0048509520710040815,food and agricultural organisation,Japan
+2019,140.1123,0.28997741023855333,international development association,Japan
+2019,0.4438,0.0009184916289567008,joint united nations programme on hiv aids,Japan
+2019,2.3833,0.004932494590564456,african development fund,Japan
+2019,24.5858,0.05088294612709251,world health organisation assessed contributions,Japan
+2020,0.2792,0.0004940772664644348,joint united nations programme on hiv aids,Japan
+2020,2.1336,0.003775656360059162,african development fund,Japan
+2020,0.0366,6.476800842621173e-05,united nations,Japan
+2020,2.4596,0.004352551735658752,united nations children’s fund,Japan
+2020,36.8782,0.06526031607495959,global alliance for vaccines and immunization,Japan
+2020,0.765,0.0013537575531708188,global environment facility trust fund,Japan
+2020,0.0032,5.662776693002118e-06,african development bank,Japan
+2020,1.3276999999999999,0.0023495214422809096,food and agricultural organisation,Japan
+2020,0.2112,0.00037374326173813974,united nations relief and works agency for palestine refugees in the near east,Japan
+2020,1.7451000000000003,0.003088159877174374,united nations development programme,Japan
+2020,0.0534,9.449758606447284e-05,world food programme,Japan
+2020,374.8638,0.6633656217781898,global fund to fight aids tuberculosis and malaria,Japan
+2020,46.6169,0.08249409213125326,world health organisation core voluntary contributions account,Japan
+2020,21.158599999999993,0.0374426334176733,world health organisation assessed contributions,Japan
+2020,0.2099,0.00037144275870660767,inter american development bank inter american investment corporation and multilateral investment fund,Japan
+2020,72.3548,0.12804033595838427,international development association,Japan
+2020,3.9970000000000003,0.007073162013102958,united nations population fund,Japan
+2021,148.4996,0.4365188220956135,global fund to fight aids tuberculosis and malaria,Japan
+2021,1.386,0.004074186647132519,food and agricultural organisation,Japan
+2021,0.0679,0.0001995939923090174,inter american development bank inter american investment corporation and multilateral investment fund,Japan
+2021,0.0016,4.70324576869555e-06,african development bank,Japan
+2021,94.94979999999997,0.27910765318030534,international development association,Japan
+2021,0.1968,0.0005784992295495525,united nations relief and works agency for palestine refugees in the near east,Japan
+2021,2.5172,0.007399381405600273,united nations children’s fund,Japan
+2021,12.931999999999999,0.038013983925481776,world health organisation core voluntary contributions account,Japan
+2021,0.0598,0.00017578381060499615,world food programme,Japan
+2021,0.2119,0.0006228861114916168,united nations,Japan
+2021,0.5254,0.001544428329295401,united nations development programme,Japan
+2021,3.737,0.010985018398509542,united nations population fund,Japan
+2021,12.0521,0.03542749270555977,african development fund,Japan
+2021,3.5312,0.010380063411511079,global environment facility trust fund,Japan
+2021,20.4322,0.06006103637196326,world health organisation assessed contributions,Japan
+2021,0.0284,8.3482612394346e-05,joint united nations programme on hiv aids,Japan
+2021,39.0617,0.11482298452690934,global alliance for vaccines and immunization,Japan
+2022,0.07830000000000001,0.00020610762977278673,african development bank,Japan
+2022,1.4052,0.003698881754236525,food and agricultural organisation,Japan
+2022,27.7779,0.07311924813621318,global alliance for vaccines and immunization,Japan
+2022,22.558899999999998,0.059381371766044924,world health organisation assessed contributions,Japan
+2022,0.033,8.686528457856911e-05,green climate fund,Japan
+2022,109.24079999999998,0.28755252059365305,international development association,Japan
+2022,0.096,0.00025269900968311016,international finance corporation,Japan
+2022,0.2452,0.0006454353872322771,united nations relief and works agency for palestine refugees in the near east,Japan
+2022,7.4704999999999995,0.01966445783164244,united nations population fund,Japan
+2022,2.4916,0.006558592213817055,united nations development programme,Japan
+2022,173.79410000000001,0.45747496832049395,global fund to fight aids tuberculosis and malaria,Japan
+2022,20.165499999999994,0.05308126958088288,international bank for reconstruction and development,Japan
+2022,2.8568000000000002,0.00751990136315322,united nations children’s fund,Japan
+2022,8.034,0.021147748372855282,world health organisation core voluntary contributions account,Japan
+2022,0.47040000000000004,0.0012382251474472399,united nations,Japan
+2022,2.9913000000000003,0.007873943204844662,african development fund,Japan
+2022,0.106,0.0002790218231917674,world food programme,Japan
+2022,0.0831,0.0002187425802569422,inter american development bank inter american investment corporation and multilateral investment fund,Japan
+2023,2.2689,0.0037976914575291766,united nations children’s fund,Japan
+2023,10.446800000000001,0.017485884401479048,united nations population fund,Japan
+2023,0.1993,0.00033358892304004805,joint united nations programme on hiv aids,Japan
+2023,315.78369999999995,0.5285596808660391,global fund to fight aids tuberculosis and malaria,Japan
+2023,201.88499999999996,0.3379157036023085,international development association,Japan
+2023,22.970000000000002,0.03844725319734021,world health organisation assessed contributions,Japan
+2023,14.424000000000001,0.024142933396536143,global alliance for vaccines and immunization,Japan
+2023,2.2876000000000003,0.0038289915722348918,united nations development programme,Japan
+2023,0.0574,9.607628792021453e-05,green climate fund,Japan
+2023,2.4514,0.004103160491421845,global environment facility trust fund,Japan
+2023,0.012400000000000001,2.0755156275447044e-05,food and agricultural organisation,Japan
+2023,0.2017,0.0003376060500611023,african development bank,Japan
+2023,0.9606999999999999,0.0016080224704695138,international bank for reconstruction and development,Japan
+2023,20.386499999999998,0.03412298333946783,asian development bank,Japan
+2023,2.423,0.00405562448833937,african development fund,Japan
+2023,0.6835,0.0011440442995377463,united nations,Japan

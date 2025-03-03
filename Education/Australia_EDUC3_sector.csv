@@ -1,63 +1,63 @@
-"Year","Sector","Bilateral ODA for","Share","Donor"
-2018,"Education policy and administrative management",50.920615,"21%","Australia"
-2019,"Education policy and administrative management",62.88276,"31%","Australia"
-2020,"Education policy and administrative management",34.46522,"21%","Australia"
-2021,"Education policy and administrative management",39.949764,"19%","Australia"
-2022,"Education policy and administrative management",53.49891,"24%","Australia"
-2018,"Education facilities and training",20.764759,"9%","Australia"
-2019,"Education facilities and training",17.829059,"9%","Australia"
-2020,"Education facilities and training",8.359643,"5%","Australia"
-2021,"Education facilities and training",31.324439,"15%","Australia"
-2022,"Education facilities and training",38.782923,"17%","Australia"
-2018,"Teacher training",7.785841,"3%","Australia"
-2019,"Teacher training",3.832592,"2%","Australia"
-2020,"Teacher training",2.141688,"1%","Australia"
-2021,"Teacher training",5.304938,"3%","Australia"
-2022,"Teacher training",6.649327,"3%","Australia"
-2018,"Educational research",1.378165,"1%","Australia"
-2019,"Educational research",2.220746,"1%","Australia"
-2020,"Educational research",1.71829,"1%","Australia"
-2021,"Educational research",1.565222,"1%","Australia"
-2022,"Educational research",1.647176,"1%","Australia"
-2018,"Primary education",97.253479,"41%","Australia"
-2019,"Primary education",63.031748,"31%","Australia"
-2020,"Primary education",54.639874,"33%","Australia"
-2021,"Primary education",82.514478,"39%","Australia"
-2022,"Primary education",61.803495,"28%","Australia"
-2018,"Basic life skills for adults",0.421991,"0%","Australia"
-2019,"Basic life skills for adults",0.012854,"0%","Australia"
-2021,"Basic life skills for adults",1.944255,"1%","Australia"
-2022,"Basic life skills for adults",1.050987,"0%","Australia"
-2018,"Basic life skills for youth",0.150313,"0%","Australia"
-2019,"Basic life skills for youth",1.099304,"1%","Australia"
-2020,"Basic life skills for youth",0.329864,"0%","Australia"
-2021,"Basic life skills for youth",1.840265,"1%","Australia"
-2022,"Basic life skills for youth",3.432177,"2%","Australia"
-2018,"Primary education equivalent for adults",0.083617,"0%","Australia"
-2019,"Primary education equivalent for adults",0.676594,"0%","Australia"
-2020,"Primary education equivalent for adults",0.221301,"0%","Australia"
-2018,"Early childhood education",0.056723,"0%","Australia"
-2019,"Early childhood education",0.192006,"0%","Australia"
-2021,"Early childhood education",2.278308,"1%","Australia"
-2022,"Early childhood education",2.555264,"1%","Australia"
-2018,"Upper Secondary Education (modified and includes data from 11322)",2.220363,"1%","Australia"
-2019,"Upper Secondary Education (modified and includes data from 11322)",3.851352,"2%","Australia"
-2020,"Upper Secondary Education (modified and includes data from 11322)",8.657274,"5%","Australia"
-2021,"Upper Secondary Education (modified and includes data from 11322)",12.719083,"6%","Australia"
-2022,"Upper Secondary Education (modified and includes data from 11322)",7.83102,"3%","Australia"
-2018,"Vocational training",28.845419,"12%","Australia"
-2019,"Vocational training",12.984764,"6%","Australia"
-2020,"Vocational training",7.409381,"4%","Australia"
-2021,"Vocational training",13.986105,"7%","Australia"
-2022,"Vocational training",11.290996,"5%","Australia"
-2018,"Higher education",16.834129,"7%","Australia"
-2019,"Higher education",9.839126,"5%","Australia"
-2020,"Higher education",20.947346,"12%","Australia"
-2021,"Higher education",10.209486,"5%","Australia"
-2022,"Higher education",9.75863,"4%","Australia"
-2018,"Advanced technical and managerial training",11.879263,"5%","Australia"
-2019,"Advanced technical and managerial training",26.405958,"13%","Australia"
-2020,"Advanced technical and managerial training",28.865647,"17%","Australia"
-2021,"Advanced technical and managerial training",5.639316,"3%","Australia"
-2022,"Advanced technical and managerial training",25.722706,"11%","Australia"
-2022,"Lower secondary education",0.096514,"0%","Australia"
+year,Sector,Bilateral ODA for,share,donor
+2023,Primary education,57.10633711559998,29.27715393167336,Australia
+2023,Education policy and administrative management,39.490355864399994,20.245830600519533,Australia
+2023,Education facilities and training,27.15972433559999,13.924188982836352,Australia
+2023,Advanced technical and managerial training,19.229377535999998,9.858475863932476,Australia
+2023,Higher education,14.329699263599998,7.346519358889121,Australia
+2023,Teacher training,14.225437719599997,7.293066775042553,Australia
+2023,Vocational training,12.7487604132,6.5360070336803044,Australia
+2023,Basic life skills for adults,4.676061772800002,2.3973132795953926,Australia
+2023,Early childhood education,2.0980249008000005,1.0756108879626574,Australia
+2023,Basic life skills for youth,1.7727628236000006,0.9088562266884911,Australia
+2023,Upper Secondary Education (modified and includes data from 11322),1.7010261971999998,0.8720784475533969,Australia
+2023,Educational research,0.49384701960000005,0.2531844264894665,Australia
+2023,Primary education equivalent for adults,0.014849281200000002,0.007612897507102453,Australia
+2023,School feeding,0.0079997364,0.004101287629803707,Australia
+2022,Primary education,60.50248373759998,27.587935440533183,Australia
+2022,Education policy and administrative management,52.372721104800014,23.880924541058967,Australia
+2022,Education facilities and training,37.96651772519998,17.31198085102324,Australia
+2022,Advanced technical and managerial training,25.181225083199998,11.48214038487693,Australia
+2022,Vocational training,11.053311503999998,5.040091337389962,Australia
+2022,Higher education,9.553202641200002,4.356071378140276,Australia
+2022,Upper Secondary Education (modified and includes data from 11322),7.666175874000002,3.495624510308321,Australia
+2022,Teacher training,6.5093560344,2.96813755308479,Australia
+2022,Basic life skills for youth,3.359928984,1.5320611348350777,Australia
+2022,Early childhood education,2.5014732119999996,1.1406222888002164,Australia
+2022,Educational research,1.61250114,0.7352686137818847,Australia
+2022,Basic life skills for adults,1.0288647456,0.46914196616714543,Australia
+2021,Primary education,81.61784999040007,39.42861057088319,Australia
+2021,Education policy and administrative management,39.5156541252,19.089541541948027,Australia
+2021,Education facilities and training,30.9840598008,14.968030007337754,Australia
+2021,Vocational training,13.834125467999995,6.683101132052195,Australia
+2021,Upper Secondary Education (modified and includes data from 11322),12.580873128000004,6.077669863442204,Australia
+2021,Higher education,10.098545296799998,4.878486873726571,Australia
+2021,Advanced technical and managerial training,5.578029322799999,2.694679484298069,Australia
+2021,Teacher training,5.2472882052,2.5349023923119054,Australia
+2021,Early childhood education,2.253548866799999,1.0886625987080443,Australia
+2021,Basic life skills for adults,1.923129286799999,0.9290408377042056,Australia
+2021,Basic life skills for youth,1.820270004,0.8793507441082763,Australia
+2021,Educational research,1.5482144603999999,0.7479239534795594,Australia
+2020,Primary education,54.09904754759998,32.571133964898074,Australia
+2020,Education policy and administrative management,34.124075922,20.544906031956987,Australia
+2020,Advanced technical and managerial training,28.57992713519998,17.20696902489037,Australia
+2020,Higher education,20.740009808400004,12.486830517826098,Australia
+2020,Upper Secondary Education (modified and includes data from 11322),8.571583082399997,5.160648727178745,Australia
+2020,Education facilities and training,8.276901811200004,4.983231497184883,Australia
+2020,Vocational training,7.33604409,4.416774151477442,Australia
+2020,Teacher training,2.1204878748,1.2766711757777858,Australia
+2020,Educational research,1.7012832288,1.0242828010737766,Australia
+2020,Basic life skills for youth,0.32659884,0.1966336756864444,Australia
+2020,Primary education equivalent for adults,0.2191100112,0.1319184320494035,Australia
+2019,Primary education,62.356158918,30.768378086391696,Australia
+2019,Education policy and administrative management,62.2087656852,30.69564989413518,Australia
+2019,Advanced technical and managerial training,26.122930313999994,12.889828536144773,Australia
+2019,Education facilities and training,17.637957949199993,8.703091535296727,Australia
+2019,Vocational training,12.845589873599998,6.338395001100014,Australia
+2019,Higher education,9.7336735584,4.8028832020939785,Australia
+2019,Upper Secondary Education (modified and includes data from 11322),3.8100707075999987,1.8800018811531167,Australia
+2019,Teacher training,3.7915158048,1.870846341834902,Australia
+2019,Educational research,2.1969413784,1.0840360300758851,Australia
+2019,Basic life skills for youth,1.08752154,0.5366153801073189,Australia
+2019,Primary education equivalent for adults,0.6693420432,0.330273214573366,Australia
+2019,Early childhood education,0.1899473448,0.0937256531307214,Australia
+2019,Basic life skills for adults,0.012717606,0.006275243962289812,Australia

@@ -58,9 +58,8 @@ ranked AS (
 
 SELECT 
     donor, 
-    year "Year", 
-    allocable_oda "Bilateral Allocable ODA",
     sector_percentage || '%' "perc",
+    year "Year", 
     CASE 
         WHEN rn::TEXT LIKE '%1' AND rn != 11 THEN rn || 'st'
         WHEN rn::TEXT LIKE '%2' AND rn != 12 THEN rn || 'nd'

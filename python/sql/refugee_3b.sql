@@ -47,10 +47,10 @@ WITH base AS (
 
     )
     SELECT
-        donor,
         year AS "Year",
         "ODA for Development Priorities",
         "Contributions to EUI",
-        "In-donor Refugee Costs"
+        "In-donor Refugee Costs",
+        donor,
     FROM filtered f
-    ORDER BY year, donor
+    ORDER BY donor, year

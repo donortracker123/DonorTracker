@@ -1,81 +1,96 @@
-"Year","Sector","Gender-related ODA to","Share","Donor"
-"2018","Humanitarian aid",124.47,"22%","Belgium"
-"2019","Humanitarian aid",111.13,"18%","Belgium"
-"2020","Humanitarian aid",150.03,"23%","Belgium"
-"2021","Humanitarian aid",90.41,"15%","Belgium"
-"2022","Humanitarian aid",95.74,"18%","Belgium"
-"2018","Health & populations",84.84,"15%","Belgium"
-"2019","Health & populations",82.25,"13%","Belgium"
-"2020","Health & populations",90.22,"14%","Belgium"
-"2021","Health & populations",91.3,"16%","Belgium"
-"2022","Health & populations",94.32,"18%","Belgium"
-"2018","Agriculture (incl. forestry, fishing, rural development)",108.82,"19%","Belgium"
-"2019","Agriculture (incl. forestry, fishing, rural development)",107.22,"17%","Belgium"
-"2020","Agriculture (incl. forestry, fishing, rural development)",105.19,"16%","Belgium"
-"2021","Agriculture (incl. forestry, fishing, rural development)",89.03,"15%","Belgium"
-"2022","Agriculture (incl. forestry, fishing, rural development)",81.9,"15%","Belgium"
-"2018","Education",59.39,"10%","Belgium"
-"2019","Education",64.78,"10%","Belgium"
-"2020","Education",74.69,"12%","Belgium"
-"2021","Education",72.78,"12%","Belgium"
-"2022","Education",48.9,"9%","Belgium"
-"2018","Government & civil society",52.47,"9%","Belgium"
-"2019","Government & civil society",47.95,"8%","Belgium"
-"2020","Government & civil society",53.05,"8%","Belgium"
-"2021","Government & civil society",54.61,"9%","Belgium"
-"2022","Government & civil society",42.86,"8%","Belgium"
-"2018","Other social services",15.77,"3%","Belgium"
-"2019","Other social services",14.69,"2%","Belgium"
-"2020","Other social services",17.8,"3%","Belgium"
-"2021","Other social services",36.56,"6%","Belgium"
-"2022","Other social services",42.05,"8%","Belgium"
-"2018","Financial services & business support",2.09,"0%","Belgium"
-"2019","Financial services & business support",57.91,"9%","Belgium"
-"2020","Financial services & business support",21.5,"3%","Belgium"
-"2021","Financial services & business support",31.09,"5%","Belgium"
-"2022","Financial services & business support",31.81,"6%","Belgium"
-"2018","Other multisector",21.67,"4%","Belgium"
-"2019","Other multisector",17,"3%","Belgium"
-"2020","Other multisector",13.43,"2%","Belgium"
-"2021","Other multisector",18.65,"3%","Belgium"
-"2022","Other multisector",27.88,"5%","Belgium"
-"2018","Unspecified",24.52,"4%","Belgium"
-"2019","Unspecified",22.2,"4%","Belgium"
-"2020","Unspecified",29.54,"5%","Belgium"
-"2021","Unspecified",28.13,"5%","Belgium"
-"2022","Unspecified",27.22,"5%","Belgium"
-"2018","Water and sanitation",26.68,"5%","Belgium"
-"2019","Water and sanitation",22.68,"4%","Belgium"
-"2020","Water and sanitation",14.41,"2%","Belgium"
-"2021","Water and sanitation",22.68,"4%","Belgium"
-"2022","Water and sanitation",18.21,"3%","Belgium"
-"2018","Environmental protection",21.72,"4%","Belgium"
-"2019","Environmental protection",36.98,"6%","Belgium"
-"2020","Environmental protection",32.16,"5%","Belgium"
-"2021","Environmental protection",45.29,"8%","Belgium"
-"2022","Environmental protection",15.94,"3%","Belgium"
-"2018","Trade policy",2.45,"0%","Belgium"
-"2019","Trade policy",2.08,"0%","Belgium"
-"2020","Trade policy",2.53,"0%","Belgium"
-"2021","Trade policy",2.49,"0%","Belgium"
-"2022","Trade policy",2.47,"0%","Belgium"
-"2018","Industry, construction & mining",0.11,"0%","Belgium"
-"2019","Industry, construction & mining",15.04,"2%","Belgium"
-"2020","Industry, construction & mining",40.23,"6%","Belgium"
-"2021","Industry, construction & mining",0.26,"0%","Belgium"
-"2022","Industry, construction & mining",1.43,"0%","Belgium"
-"2018","Conflict, peace & security",3.07,"1%","Belgium"
-"2019","Conflict, peace & security",4.09,"1%","Belgium"
-"2020","Conflict, peace & security",0.2,"0%","Belgium"
-"2021","Conflict, peace & security",1.59,"0%","Belgium"
-"2022","Conflict, peace & security",1.13,"0%","Belgium"
-"2018","Infrastructure",6.97,"1%","Belgium"
-"2019","Infrastructure",6.33,"1%","Belgium"
-"2020","Infrastructure",3.96,"1%","Belgium"
-"2021","Infrastructure",1.4,"0%","Belgium"
-"2022","Infrastructure",0.43,"0%","Belgium"
-"2018","Energy",12.73,"2%","Belgium"
-"2019","Energy",5.51,"1%","Belgium"
-"2020","Energy",0.55,"0%","Belgium"
-"2021","Energy",0,"0%","Belgium"
-"2022","Energy",0.01,"0%","Belgium"
+year,Sector,Gender-related ODA to,Share,donor
+2023,Emergency Response,150.44878318460002,26.0%,Belgium
+2020,Emergency Response,140.22305443550002,21.0%,Belgium
+2019,"Agriculture (incl. forestry, fishing, rural development)",122.42185093510001,20.0%,Belgium
+2020,"Agriculture (incl. forestry, fishing, rural development)",116.75365592929995,18.0%,Belgium
+2022,"Agriculture (incl. forestry, fishing, rural development)",109.68227465720005,20.0%,Belgium
+2023,"Agriculture (incl. forestry, fishing, rural development)",105.85845782929998,18.0%,Belgium
+2019,Emergency Response,103.50224161179997,17.0%,Belgium
+2021,"Agriculture (incl. forestry, fishing, rural development)",102.61164175510001,17.0%,Belgium
+2022,Health & populations,95.74705435779995,18.0%,Belgium
+2021,Health & populations,91.9137118489,15.0%,Belgium
+2020,Health & populations,91.04295448820002,14.0%,Belgium
+2023,Health & populations,87.55080989880004,15.0%,Belgium
+2022,Emergency Response,84.80140542879997,16.0%,Belgium
+2019,Health & populations,83.07638050580003,13.0%,Belgium
+2021,Emergency Response,82.70908371709999,14.0%,Belgium
+2020,Education,75.37450926880001,11.0%,Belgium
+2021,Education,73.26716884030003,12.0%,Belgium
+2019,Education,65.42973251599999,10.0%,Belgium
+2019,Financial services & business support,58.4860039221,9.0%,Belgium
+2021,Government & civil society,54.97577978259999,9.0%,Belgium
+2020,Government & civil society,53.539275014800005,8.0%,Belgium
+2022,Education,49.639574538,9.0%,Belgium
+2019,Government & civil society,48.4262711227,8.0%,Belgium
+2023,Other social services,47.18894930680002,8.0%,Belgium
+2021,Environmental protection,45.5980515316,8.0%,Belgium
+2023,Education,45.356521528700014,8.0%,Belgium
+2022,Government & civil society,43.51084439430003,8.0%,Belgium
+2022,Other social services,42.68140240310001,8.0%,Belgium
+2023,Government & civil society,41.69586325910001,7.0%,Belgium
+2020,"Industry, construction & mining",40.5954846004,6.0%,Belgium
+2019,Environmental protection,37.35076610040001,6.0%,Belgium
+2021,Other social services,36.80325753929999,6.0%,Belgium
+2020,Environmental protection,32.45828439620001,5.0%,Belgium
+2022,Financial services & business support,32.2891057358,6.0%,Belgium
+2021,Financial services & business support,31.296893269599998,5.0%,Belgium
+2021,Unspecified,31.1066095061,5.0%,Belgium
+2023,Unspecified,31.027753759199996,5.0%,Belgium
+2020,Unspecified,30.015682760500006,5.0%,Belgium
+2022,Unspecified,29.747133393299986,5.0%,Belgium
+2019,Unspecified,25.443789935100003,4.0%,Belgium
+2023,Financial services & business support,24.168743856599995,4.0%,Belgium
+2019,Water and sanitation,22.907034800599998,4.0%,Belgium
+2021,Water and sanitation,22.8323934459,4.0%,Belgium
+2020,Financial services & business support,21.693945205299997,3.0%,Belgium
+2023,Environmental protection,19.428892213900003,3.0%,Belgium
+2022,Water and sanitation,18.480362104599998,3.0%,Belgium
+2020,Other social services,17.960675801900003,3.0%,Belgium
+2022,Environmental protection,16.176121252699996,3.0%,Belgium
+2019,"Industry, construction & mining",15.1927513126,2.0%,Belgium
+2019,Other social services,14.8343162938,2.0%,Belgium
+2020,Water and sanitation,14.538288918400001,2.0%,Belgium
+2023,Other multisector,13.5946627708,2.0%,Belgium
+2022,Reconstruction Relief & Rehabilitation,11.678670929399999,2.0%,Belgium
+2023,Water and sanitation,10.4775980181,2.0%,Belgium
+2020,Disaster Prevention & Preparedness,10.4351023622,2.0%,Belgium
+2019,Infrastructure,6.389401313000001,1.0%,Belgium
+2021,Reconstruction Relief & Rehabilitation,6.077740488299999,1.0%,Belgium
+2021,Other multisector,5.784619995799999,1.0%,Belgium
+2019,Energy,5.5615202078,1.0%,Belgium
+2019,Disaster Prevention & Preparedness,4.7912261741,1.0%,Belgium
+2019,"Conflict, peace & security",4.1301620874000005,1.0%,Belgium
+2020,Infrastructure,3.9996356684000007,1.0%,Belgium
+2019,Reconstruction Relief & Rehabilitation,3.9479211632,1.0%,Belgium
+2023,Reconstruction Relief & Rehabilitation,3.3721178015000004,1.0%,Belgium
+2019,Other multisector,3.0400756544,0.0%,Belgium
+2020,Other multisector,2.9441880754,0.0%,Belgium
+2020,Trade policy,2.5503316354,0.0%,Belgium
+2021,Trade policy,2.5094599424,0.0%,Belgium
+2022,Trade policy,2.5078691216,0.0%,Belgium
+2021,Disaster Prevention & Preparedness,2.2322583489,0.0%,Belgium
+2023,"Conflict, peace & security",2.1444852388999998,0.0%,Belgium
+2019,Trade policy,2.0968440047,0.0%,Belgium
+2022,Other multisector,1.7580013124999996,0.0%,Belgium
+2021,"Conflict, peace & security",1.5964902372999998,0.0%,Belgium
+2022,"Industry, construction & mining",1.4528096119,0.0%,Belgium
+2023,"Industry, construction & mining",1.4522536798999999,0.0%,Belgium
+2021,Infrastructure,1.4060129667,0.0%,Belgium
+2023,,1.1722595971999998,0.0%,Belgium
+2022,"Conflict, peace & security",1.1456774948,0.0%,Belgium
+2020,Reconstruction Relief & Rehabilitation,0.7426749042999998,0.0%,Belgium
+2022,Disaster Prevention & Preparedness,0.7026894952,0.0%,Belgium
+2020,Energy,0.5529288981,0.0%,Belgium
+2023,Disaster Prevention & Preparedness,0.4788573737,0.0%,Belgium
+2023,Donor administration costs,0.4368267763,0.0%,Belgium
+2022,Infrastructure,0.433883544,0.0%,Belgium
+2023,Infrastructure,0.37746927519999995,0.0%,Belgium
+2021,"Industry, construction & mining",0.2619198781,0.0%,Belgium
+2020,"Conflict, peace & security",0.20291731819999997,0.0%,Belgium
+2022,Donor administration costs,0.1817405854,0.0%,Belgium
+2019,Donor administration costs,0.1633424435,0.0%,Belgium
+2023,Energy,0.15591326760000002,0.0%,Belgium
+2020,Donor administration costs,0.0976932889,0.0%,Belgium
+2023,Trade policy,0.054601075199999995,0.0%,Belgium
+2021,Donor administration costs,0.0349210824,0.0%,Belgium
+2022,Energy,0.0092594751,0.0%,Belgium

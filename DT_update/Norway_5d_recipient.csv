@@ -1,201 +1,101 @@
-"Year","Recipient country","ODA Grants","ODA Loans","Share","Donor"
-"2018","Ukraine",24.101005,0,"1%","Norway"
-"2019","Ukraine",29.993029,0,"1%","Norway"
-"2020","Ukraine",31.00111,0,"1%","Norway"
-"2021","Ukraine",18.519854,0,"1%","Norway"
-"2022","Ukraine",511.138183,0,"13%","Norway"
-"2018","Ethiopia",68.389386,0,"2%","Norway"
-"2019","Ethiopia",91.578191,0,"2%","Norway"
-"2020","Ethiopia",101.88085,0,"3%","Norway"
-"2021","Ethiopia",88.625955,0,"3%","Norway"
-"2022","Ethiopia",85.492138,0,"2%","Norway"
-"2018","Syrian Arab Republic",131.220272,0,"4%","Norway"
-"2019","Syrian Arab Republic",156.702282,0,"4%","Norway"
-"2020","Syrian Arab Republic",129.371713,0,"3%","Norway"
-"2021","Syrian Arab Republic",104.483795,0,"3%","Norway"
-"2022","Syrian Arab Republic",80.177968,0,"2%","Norway"
-"2018","Indonesia",50.68894,0,"1%","Norway"
-"2019","Indonesia",55.599959,0,"1%","Norway"
-"2020","Indonesia",75.465603,0,"2%","Norway"
-"2021","Indonesia",30.51841,0,"1%","Norway"
-"2022","Indonesia",76.356786,0,"2%","Norway"
-"2018","Afghanistan",103.840391,0,"3%","Norway"
-"2019","Afghanistan",91.811051,0,"2%","Norway"
-"2020","Afghanistan",101.849402,0,"3%","Norway"
-"2021","Afghanistan",81.427373,0,"2%","Norway"
-"2022","Afghanistan",72.189944,0,"2%","Norway"
-"2018","South Sudan",80.984886,0,"2%","Norway"
-"2019","South Sudan",79.584382,0,"2%","Norway"
-"2020","South Sudan",87.28796,0,"2%","Norway"
-"2021","South Sudan",72.170962,0,"2%","Norway"
-"2022","South Sudan",65.589223,0,"2%","Norway"
-"2018","West Bank and Gaza Strip",83.469446,0,"2%","Norway"
-"2019","West Bank and Gaza Strip",81.136445,0,"2%","Norway"
-"2020","West Bank and Gaza Strip",85.643702,0,"2%","Norway"
-"2021","West Bank and Gaza Strip",81.070716,0,"2%","Norway"
-"2022","West Bank and Gaza Strip",64.451668,0,"2%","Norway"
-"2018","Somalia",70.931905,0,"2%","Norway"
-"2019","Somalia",74.34353,0,"2%","Norway"
-"2020","Somalia",83.545113,0,"2%","Norway"
-"2021","Somalia",61.302052,0,"2%","Norway"
-"2022","Somalia",62.207521,0,"2%","Norway"
-"2018","Colombia",53.776551,0,"2%","Norway"
-"2019","Colombia",87.978614,0,"2%","Norway"
-"2020","Colombia",71.410821,0,"2%","Norway"
-"2021","Colombia",72.176402,0,"2%","Norway"
-"2022","Colombia",52.791216,0,"1%","Norway"
-"2018","Mozambique",44.668937,0,"1%","Norway"
-"2019","Mozambique",66.82608,0,"2%","Norway"
-"2020","Mozambique",62.826491,0,"2%","Norway"
-"2021","Mozambique",60.341668,0,"2%","Norway"
-"2022","Mozambique",47.728005,0,"1%","Norway"
-"2018","Malawi",62.505738,0,"2%","Norway"
-"2019","Malawi",65.29972,0,"2%","Norway"
-"2020","Malawi",68.542687,0,"2%","Norway"
-"2021","Malawi",53.757463,0,"2%","Norway"
-"2022","Malawi",46.801957,0,"1%","Norway"
-"2018","Tanzania",53.435335,0,"2%","Norway"
-"2019","Tanzania",54.880203,0,"1%","Norway"
-"2020","Tanzania",60.075846,0,"1%","Norway"
-"2021","Tanzania",45.798281,0,"1%","Norway"
-"2022","Tanzania",43.539799,0,"1%","Norway"
-"2018","Lebanon",68.870125,0,"2%","Norway"
-"2019","Lebanon",58.494095,0,"2%","Norway"
-"2020","Lebanon",72.343009,0,"2%","Norway"
-"2021","Lebanon",54.075103,0,"2%","Norway"
-"2022","Lebanon",41.931828,0,"1%","Norway"
-"2018","Uganda",38.347823,0,"1%","Norway"
-"2019","Uganda",41.167363,0,"1%","Norway"
-"2020","Uganda",42.934909,0,"1%","Norway"
-"2021","Uganda",33.416784,0,"1%","Norway"
-"2022","Uganda",37.226402,0,"1%","Norway"
-"2018","Nepal",37.008012,0,"1%","Norway"
-"2019","Nepal",38.125178,0,"1%","Norway"
-"2020","Nepal",42.152727,0,"1%","Norway"
-"2021","Nepal",39.793881,0,"1%","Norway"
-"2022","Nepal",31.76012,0,"1%","Norway"
-"2018","Moldova",2.940499,0,"0%","Norway"
-"2019","Moldova",2.312118,0,"0%","Norway"
-"2020","Moldova",1.706648,0,"0%","Norway"
-"2021","Moldova",1.089933,0,"0%","Norway"
-"2022","Moldova",28.575405,0,"1%","Norway"
-"2018","Brazil",89.534036,0,"3%","Norway"
-"2019","Brazil",16.845059,0,"0%","Norway"
-"2020","Brazil",22.429143,0,"1%","Norway"
-"2021","Brazil",25.657946,0,"1%","Norway"
-"2022","Brazil",28.025602,0,"1%","Norway"
-"2018","Myanmar",33.123939,0,"1%","Norway"
-"2019","Myanmar",36.394306,0,"1%","Norway"
-"2020","Myanmar",39.140302,0,"1%","Norway"
-"2021","Myanmar",32.588373,0,"1%","Norway"
-"2022","Myanmar",26.940522,0,"1%","Norway"
-"2018","Yemen",31.186946,0,"1%","Norway"
-"2019","Yemen",29.120224,0,"1%","Norway"
-"2020","Yemen",36.184951,0,"1%","Norway"
-"2021","Yemen",25.168835,0,"1%","Norway"
-"2022","Yemen",26.83216,0,"1%","Norway"
-"2018","Democratic Republic of the Congo",34.805144,0,"1%","Norway"
-"2019","Democratic Republic of the Congo",28.212204,0,"1%","Norway"
-"2020","Democratic Republic of the Congo",40.042759,0,"1%","Norway"
-"2021","Democratic Republic of the Congo",30.462181,0,"1%","Norway"
-"2022","Democratic Republic of the Congo",26.324862,0,"1%","Norway"
-"2018","Sudan",14.121154,0,"0%","Norway"
-"2019","Sudan",14.031563,0,"0%","Norway"
-"2020","Sudan",36.821873,0,"1%","Norway"
-"2021","Sudan",27.099407,0,"1%","Norway"
-"2022","Sudan",25.028453,0,"1%","Norway"
-"2018","Mali",32.060018,0,"1%","Norway"
-"2019","Mali",34.198858,0,"1%","Norway"
-"2020","Mali",35.977769,0,"1%","Norway"
-"2021","Mali",27.771931,0,"1%","Norway"
-"2022","Mali",23.228312,0,"1%","Norway"
-"2018","Nigeria",23.538165,0,"1%","Norway"
-"2019","Nigeria",24.248122,0,"1%","Norway"
-"2020","Nigeria",23.227254,0,"1%","Norway"
-"2021","Nigeria",17.807816,0,"1%","Norway"
-"2022","Nigeria",19.84944,0,"1%","Norway"
-"2018","Jordan",34.47087,0,"1%","Norway"
-"2019","Jordan",29.201286,0,"1%","Norway"
-"2020","Jordan",31.638206,0,"1%","Norway"
-"2021","Jordan",22.425735,0,"1%","Norway"
-"2022","Jordan",17.929757,0,"0%","Norway"
-"2018","Iraq",31.271582,0,"1%","Norway"
-"2019","Iraq",36.892572,0,"1%","Norway"
-"2020","Iraq",32.482477,0,"1%","Norway"
-"2021","Iraq",25.925909,0,"1%","Norway"
-"2022","Iraq",17.686054,0,"0%","Norway"
-"2018","Niger",18.958462,0,"1%","Norway"
-"2019","Niger",19.175378,0,"0%","Norway"
-"2020","Niger",28.774521,0,"1%","Norway"
-"2021","Niger",18.082735,0,"1%","Norway"
-"2022","Niger",15.981646,0,"0%","Norway"
-"2018","Ecuador",10.510889,0,"0%","Norway"
-"2019","Ecuador",16.695471,0,"0%","Norway"
-"2020","Ecuador",1.62731,0,"0%","Norway"
-"2021","Ecuador",2.357474,0,"0%","Norway"
-"2022","Ecuador",15.819674,0,"0%","Norway"
-"2018","Bangladesh",15.743354,0,"0%","Norway"
-"2019","Bangladesh",16.466937,0,"0%","Norway"
-"2020","Bangladesh",19.181527,0,"0%","Norway"
-"2021","Bangladesh",17.897849,0,"1%","Norway"
-"2022","Bangladesh",13.690613,0,"0%","Norway"
-"2018","Pakistan",10.630323,0,"0%","Norway"
-"2019","Pakistan",8.602599,0,"0%","Norway"
-"2020","Pakistan",9.341083,0,"0%","Norway"
-"2021","Pakistan",12.374979,0,"0%","Norway"
-"2022","Pakistan",12.801358,0,"0%","Norway"
-"2018","Kenya",15.845231,0,"0%","Norway"
-"2019","Kenya",15.268628,0,"0%","Norway"
-"2020","Kenya",13.193993,0,"0%","Norway"
-"2021","Kenya",10.74828,0,"0%","Norway"
-"2022","Kenya",10.985352,0,"0%","Norway"
-"2018","India",13.083614,0,"0%","Norway"
-"2019","India",15.926379,0,"0%","Norway"
-"2020","India",12.306046,0,"0%","Norway"
-"2021","India",10.657749,0,"0%","Norway"
-"2022","India",10.380304,0,"0%","Norway"
-"2018","Zambia",10.477124,0,"0%","Norway"
-"2019","Zambia",8.687106,0,"0%","Norway"
-"2020","Zambia",6.899886,0,"0%","Norway"
-"2021","Zambia",5.927503,0,"0%","Norway"
-"2022","Zambia",10.334745,0,"0%","Norway"
-"2018","China (People's Republic of)",12.42793,0,"0%","Norway"
-"2019","China (People's Republic of)",13.16063,0,"0%","Norway"
-"2020","China (People's Republic of)",12.299268,0,"0%","Norway"
-"2021","China (People's Republic of)",9.013158,0,"0%","Norway"
-"2022","China (People's Republic of)",9.480841,0,"0%","Norway"
-"2018","Ghana",4.401235,0,"0%","Norway"
-"2019","Ghana",4.588872,0,"0%","Norway"
-"2020","Ghana",3.369264,0,"0%","Norway"
-"2021","Ghana",5.996467,0,"0%","Norway"
-"2022","Ghana",8.704703,0,"0%","Norway"
-"2018","Liberia",11.533463,0,"0%","Norway"
-"2019","Liberia",5.61037,0,"0%","Norway"
-"2020","Liberia",18.291396,0,"0%","Norway"
-"2021","Liberia",3.169826,0,"0%","Norway"
-"2022","Liberia",7.672027,0,"0%","Norway"
-"2018","Madagascar",10.720335,0,"0%","Norway"
-"2019","Madagascar",10.494854,0,"0%","Norway"
-"2020","Madagascar",11.68562,0,"0%","Norway"
-"2021","Madagascar",8.995387,0,"0%","Norway"
-"2022","Madagascar",7.47461,0,"0%","Norway"
-"2018","Peru",8.616688,0,"0%","Norway"
-"2019","Peru",11.385952,0,"0%","Norway"
-"2020","Peru",12.253316,0,"0%","Norway"
-"2021","Peru",11.268536,0,"0%","Norway"
-"2022","Peru",7.449534,0,"0%","Norway"
-"2018","Burkina Faso",3.155729,0,"0%","Norway"
-"2019","Burkina Faso",6.8366,0,"0%","Norway"
-"2020","Burkina Faso",9.667279,0,"0%","Norway"
-"2021","Burkina Faso",7.771097,0,"0%","Norway"
-"2022","Burkina Faso",7.245556,0,"0%","Norway"
-"2018","Haiti",9.531671,0,"0%","Norway"
-"2019","Haiti",3.11208,0,"0%","Norway"
-"2020","Haiti",8.883255,0,"0%","Norway"
-"2021","Haiti",5.787602,0,"0%","Norway"
-"2022","Haiti",7.028184,0,"0%","Norway"
-"2018","Rwanda",3.293908,0,"0%","Norway"
-"2019","Rwanda",10.076152,0,"0%","Norway"
-"2020","Rwanda",5.03437,0,"0%","Norway"
-"2021","Rwanda",6.150226,0,"0%","Norway"
-"2022","Rwanda",6.890427,0,"0%","Norway"
+year,Recipient country,ODA Grants,ODA Loans,share,donor
+2023,"Bilateral, unspecified",1649.9424822095984,0.0,38.4%,Norway
+2023,Ukraine,752.6648266435999,0.0,17.5%,Norway
+2023,"South of Sahara, regional",116.42242157159998,0.0,2.7%,Norway
+2023,West Bank and Gaza Strip,114.93946904839997,0.0,2.7%,Norway
+2023,Syrian Arab Republic,99.30969919800003,0.0,2.3%,Norway
+2023,Ethiopia,81.74110735319998,0.0,1.9%,Norway
+2023,Afghanistan,80.6784499172,0.0,1.9%,Norway
+2023,South Sudan,78.2207223184,0.0,1.8%,Norway
+2023,Moldova,75.65279871280002,0.0,1.8%,Norway
+2023,"Africa, regional",73.0071715208,0.0,1.7%,Norway
+2023,Somalia,72.07020613560002,0.0,1.7%,Norway
+2023,Indonesia,69.65843781599999,0.0,1.6%,Norway
+2023,Mozambique,58.051009858000015,0.0,1.4%,Norway
+2023,Malawi,52.734955234,0.0,1.2%,Norway
+2023,Tanzania,51.152653113599996,0.0,1.2%,Norway
+2023,Sudan,49.38863503600001,0.0,1.1%,Norway
+2023,Lebanon,43.14738200160001,0.0,1.0%,Norway
+2023,Colombia,42.98827121679999,0.0,1.0%,Norway
+2023,Uganda,41.4434503068,0.0,1.0%,Norway
+2023,"Eastern Africa, regional",38.0928754716,0.0,0.9%,Norway
+2022,"Bilateral, unspecified",1591.0552731336018,0.0,47.0%,Norway
+2022,Ukraine,452.8191180516,0.0,13.4%,Norway
+2022,Ethiopia,75.73778634320003,0.0,2.2%,Norway
+2022,Syrian Arab Republic,71.02994364480001,0.0,2.1%,Norway
+2022,Indonesia,67.64474948120001,0.0,2.0%,Norway
+2022,Afghanistan,63.9533257316,0.0,1.9%,Norway
+2022,South Sudan,58.10572477160002,0.0,1.7%,Norway
+2022,West Bank and Gaza Strip,57.09795962839998,0.0,1.7%,Norway
+2022,Somalia,55.10986152800001,0.0,1.6%,Norway
+2022,Colombia,46.76791976720003,0.0,1.4%,Norway
+2022,"South of Sahara, regional",43.72464618400001,0.0,1.3%,Norway
+2022,Mozambique,42.2824079356,0.0,1.2%,Norway
+2022,Malawi,41.46201846000002,0.0,1.2%,Norway
+2022,"Africa, regional",41.1206636864,0.0,1.2%,Norway
+2022,Tanzania,38.572055526,0.0,1.1%,Norway
+2022,Lebanon,37.147556018799996,0.0,1.1%,Norway
+2022,Uganda,32.9789953604,0.0,1.0%,Norway
+2022,Nepal,28.136404417599994,0.0,0.8%,Norway
+2022,"Middle Africa, regional",25.7880992552,0.0,0.8%,Norway
+2022,Moldova,25.315052743600003,0.0,0.7%,Norway
+2021,"Bilateral, unspecified",1730.0588814955963,0.0,52.4%,Norway
+2021,Syrian Arab Republic,98.21205453600002,0.0,3.0%,Norway
+2021,Ethiopia,83.3060977564,0.0,2.5%,Norway
+2021,Afghanistan,76.5396183412,0.0,2.3%,Norway
+2021,West Bank and Gaza Strip,76.20436918959999,0.0,2.3%,Norway
+2021,Colombia,67.84394468040003,0.0,2.1%,Norway
+2021,South Sudan,67.83883599520003,0.0,2.1%,Norway
+2021,Somalia,57.62233196120002,0.0,1.7%,Norway
+2021,Mozambique,56.719603225200025,0.0,1.7%,Norway
+2021,"Middle Africa, regional",54.70372064399999,0.0,1.7%,Norway
+2021,Lebanon,50.829193109200006,0.0,1.5%,Norway
+2021,Malawi,50.53062039200001,0.0,1.5%,Norway
+2021,"Africa, regional",46.899818447600005,0.0,1.4%,Norway
+2021,"South of Sahara, regional",45.16165667319999,0.0,1.4%,Norway
+2021,Tanzania,43.04919193880004,0.0,1.3%,Norway
+2021,Nepal,37.405208340000016,0.0,1.1%,Norway
+2021,Uganda,31.410913139199987,0.0,1.0%,Norway
+2021,Myanmar,30.63222009360002,0.0,0.9%,Norway
+2021,Indonesia,28.686517264400003,0.0,0.9%,Norway
+2021,Democratic Republic of the Congo,28.633659905200002,0.0,0.9%,Norway
+2020,"Bilateral, unspecified",1865.6989696256026,0.0,49.3%,Norway
+2020,Syrian Arab Republic,121.80500242880001,0.0,3.2%,Norway
+2020,Ethiopia,95.92202090440003,0.0,2.5%,Norway
+2020,Afghanistan,95.89241582320001,0.0,2.5%,Norway
+2020,South Sudan,82.1826468844,0.0,2.2%,Norway
+2020,West Bank and Gaza Strip,80.63455102879999,0.0,2.1%,Norway
+2020,Somalia,78.65871262320002,0.0,2.1%,Norway
+2020,Indonesia,71.0517580016,0.0,1.9%,Norway
+2020,Lebanon,68.11180041160002,0.0,1.8%,Norway
+2020,Colombia,67.23413634199999,0.0,1.8%,Norway
+2020,Malawi,64.53375235520001,0.0,1.7%,Norway
+2020,Mozambique,59.15187772999999,0.0,1.6%,Norway
+2020,Tanzania,56.5621217012,0.0,1.5%,Norway
+2020,"Africa, regional",51.66166407920001,0.0,1.4%,Norway
+2020,"Middle Africa, regional",51.2476150392,0.0,1.4%,Norway
+2020,Uganda,40.4237227432,0.0,1.1%,Norway
+2020,Nepal,39.687294398000006,0.0,1.0%,Norway
+2020,Democratic Republic of the Congo,37.700729478000014,0.0,1.0%,Norway
+2020,"South of Sahara, regional",37.62671061600001,0.0,1.0%,Norway
+2020,Myanmar,36.85105518920001,0.0,1.0%,Norway
+2019,"Bilateral, unspecified",1700.5671168624003,0.0,46.3%,Norway
+2019,Syrian Arab Republic,149.20132087639996,0.0,4.1%,Norway
+2019,"South of Sahara, regional",136.7307353468,0.0,3.7%,Norway
+2019,Afghanistan,87.41628094920003,0.0,2.4%,Norway
+2019,Ethiopia,87.19456844600002,0.0,2.4%,Norway
+2019,Colombia,83.76728778240005,0.0,2.3%,Norway
+2019,West Bank and Gaza Strip,77.25263591680002,0.0,2.1%,Norway
+2019,South Sudan,75.7748700928,0.0,2.1%,Norway
+2019,Somalia,70.78487949840002,0.0,1.9%,Norway
+2019,"Africa, regional",70.69006128279997,0.0,1.9%,Norway
+2019,"Middle East, regional",63.8678379904,0.0,1.7%,Norway
+2019,Mozambique,63.62728058959999,0.0,1.7%,Norway
+2019,Malawi,62.17398241960001,0.0,1.7%,Norway
+2019,Lebanon,55.69412479800001,0.0,1.5%,Norway
+2019,Indonesia,52.93852414440001,0.0,1.4%,Norway
+2019,Guyana,52.4226192048,0.0,1.4%,Norway
+2019,Tanzania,52.25321549920001,0.0,1.4%,Norway
+2019,Uganda,39.19677767759999,0.0,1.1%,Norway
+2019,Nepal,36.30022132879999,0.0,1.0%,Norway
+2019,Iraq,35.1266132032,0.0,1.0%,Norway

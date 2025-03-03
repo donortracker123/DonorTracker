@@ -1,46 +1,66 @@
-"Year","Region","Bilateral ODA","Share","Donor"
-"2018","Developing countries, unspecified",1424.041103,"61%","Italy"
-"2019","Developing countries, unspecified",703.214302,"44%","Italy"
-"2020","Developing countries, unspecified",422.155733,"29%","Italy"
-"2021","Developing countries, unspecified",950.122889,"35%","Italy"
-"2022","Developing countries, unspecified",2141.041314,"54%","Italy"
-"2018","Europe",98.680696,"4%","Italy"
-"2019","Europe",81.068372,"5%","Italy"
-"2020","Europe",66.283154,"5%","Italy"
-"2021","Europe",50.488311,"2%","Italy"
-"2022","Europe",508.11337,"13%","Italy"
-"2018","sub-Saharan Africa",313.943063,"14%","Italy"
-"2019","sub-Saharan Africa",301.339112,"19%","Italy"
-"2020","sub-Saharan Africa",271.833042,"19%","Italy"
-"2021","sub-Saharan Africa",983.728719,"37%","Italy"
-"2022","sub-Saharan Africa",401.692963,"10%","Italy"
-"2018","MENA region",211.901898,"9%","Italy"
-"2019","MENA region",256.279615,"16%","Italy"
-"2020","MENA region",305.366098,"21%","Italy"
-"2021","MENA region",269.016176,"10%","Italy"
-"2022","MENA region",381.540094,"10%","Italy"
-"2018","Asia",177.343671,"8%","Italy"
-"2019","Asia",107.690842,"7%","Italy"
-"2020","Asia",130.523175,"9%","Italy"
-"2021","Asia",146.865294,"5%","Italy"
-"2022","Asia",195.872876,"5%","Italy"
-"2018","Latin America and the Caribbeans",64.09914,"3%","Italy"
-"2019","Latin America and the Caribbeans",74.630723,"5%","Italy"
-"2020","Latin America and the Caribbeans",179.129678,"12%","Italy"
-"2021","Latin America and the Caribbeans",178.597341,"7%","Italy"
-"2022","Latin America and the Caribbeans",163.591131,"4%","Italy"
-"2018","Africa, regional",27.268484,"1%","Italy"
-"2019","Africa, regional",50.978741,"3%","Italy"
-"2020","Africa, regional",84.456773,"6%","Italy"
-"2021","Africa, regional",106.379918,"4%","Italy"
-"2022","Africa, regional",142.571937,"4%","Italy"
-"2018","Oceania",0.856403,"0%","Italy"
-"2019","Oceania",2.868167,"0%","Italy"
-"2020","Oceania",0.044854,"0%","Italy"
-"2021","Oceania",0.760578,"0%","Italy"
-"2022","Oceania",1.243081,"0%","Italy"
-"2018","Asia, regional",0.089548,"0%","Italy"
-"2019","Asia, regional",4.872698,"0%","Italy"
-"2020","Asia, regional",1.222283,"0%","Italy"
-"2021","Asia, regional",2.310387,"0%","Italy"
-"2022","Asia, regional",0.090289,"0%","Italy"
+year,Region,Bilateral ODA,share,donor
+2023,Regional and Unspecified,189185.45620155006,67.5%,Italy
+2023,South of Sahara,33697.98570404999,12.0%,Italy
+2023,Middle East,16659.64428320001,5.9%,Italy
+2023,Europe,9762.48675335001,3.5%,Italy
+2023,North of Sahara,8732.718785300009,3.1%,Italy
+2023,South & Central Asia,6560.749068400004,2.3%,Italy
+2023,Caribbean & Central America,5752.221098700002,2.1%,Italy
+2023,South America,4902.229400650005,1.7%,Italy
+2023,Africa,2552.7353853000004,0.9%,Italy
+2023,Far East Asia,1603.6500814500002,0.6%,Italy
+2023,America,796.75722075,0.3%,Italy
+2023,Oceania,141.05772465000004,0.1%,Italy
+2023,Asia,30.545464799999994,0.0%,Italy
+2022,Regional and Unspecified,210468.77588780006,54.6%,Italy
+2022,Europe,49975.09002199999,13.0%,Italy
+2022,South of Sahara,39524.72609179996,10.2%,Italy
+2022,Middle East,22332.257217900016,5.8%,Italy
+2022,South & Central Asia,17393.43202055004,4.5%,Italy
+2022,South America,14081.56374405,3.7%,Italy
+2022,Africa,14022.551095850002,3.6%,Italy
+2022,North of Sahara,13837.22113420001,3.6%,Italy
+2022,Far East Asia,1870.878216899999,0.5%,Italy
+2022,Caribbean & Central America,1714.096551199999,0.4%,Italy
+2022,America,292.52432175,0.1%,Italy
+2022,Oceania,122.26232885000002,0.0%,Italy
+2022,Asia,8.88027055,0.0%,Italy
+2021,South of Sahara,96522.51840559999,36.6%,Italy
+2021,Regional and Unspecified,93225.14580970007,35.3%,Italy
+2021,Middle East,16496.489335500017,6.3%,Italy
+2021,South & Central Asia,13298.949358950009,5.0%,Italy
+2021,America,11650.243452550001,4.4%,Italy
+2021,Africa,10437.895313300001,4.0%,Italy
+2021,North of Sahara,9899.11971875,3.8%,Italy
+2021,Europe,4953.864985650001,1.9%,Italy
+2021,South America,3229.9386006000004,1.2%,Italy
+2021,Caribbean & Central America,2643.618836650001,1.0%,Italy
+2021,Far East Asia,1111.3341911499997,0.4%,Italy
+2021,Asia,226.69307615,0.1%,Italy
+2021,Oceania,74.62718910000002,0.0%,Italy
+2020,Regional and Unspecified,41724.53016420003,28.9%,Italy
+2020,South of Sahara,26867.109985550018,18.6%,Italy
+2020,North of Sahara,16301.24928465001,11.3%,Italy
+2020,Middle East,13880.166318450025,9.6%,Italy
+2020,America,11972.0831571,8.3%,Italy
+2020,South & Central Asia,9440.500360450013,6.5%,Italy
+2020,Africa,8347.438673100001,5.8%,Italy
+2020,Europe,6551.216254350005,4.5%,Italy
+2020,Far East Asia,3459.9942580500006,2.4%,Italy
+2020,South America,3188.104133249998,2.2%,Italy
+2020,Caribbean & Central America,2544.4222597000007,1.8%,Italy
+2020,Asia,120.8064818,0.1%,Italy
+2020,Oceania,4.4332241,0.0%,Italy
+2019,Regional and Unspecified,69479.00641069996,44.4%,Italy
+2019,South of Sahara,29772.914800100072,19.0%,Italy
+2019,Middle East,14686.11079450001,9.4%,Italy
+2019,North of Sahara,10634.837334750006,6.8%,Italy
+2019,South & Central Asia,9143.383268250001,5.8%,Italy
+2019,Europe,8009.719338549998,5.1%,Italy
+2019,Africa,5036.8033716499995,3.2%,Italy
+2019,South America,4263.809985049999,2.7%,Italy
+2019,Caribbean & Central America,2935.8450671,1.9%,Italy
+2019,Far East Asia,1496.6881297000002,1.0%,Italy
+2019,Asia,481.43255765,0.3%,Italy
+2019,Oceania,283.3806765,0.2%,Italy
+2019,America,174.01395730000002,0.1%,Italy
