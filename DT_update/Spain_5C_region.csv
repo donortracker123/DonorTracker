@@ -1,7 +1,7 @@
 year,Region,Bilateral ODA,share,donor
 2023,Regional and Unspecified,65720.68914907998,42.2%,Spain
 2023,Caribbean & Central America,20785.33194961002,13.3%,Spain
-2023,South America,19182.622726079993,12.3%,Spain
+2023,South America,19182.622726079997,12.3%,Spain
 2023,South of Sahara,16611.598341509994,10.7%,Spain
 2023,Middle East,10819.562079619996,6.9%,Spain
 2023,North of Sahara,7251.672687659999,4.7%,Spain
@@ -12,7 +12,6 @@ year,Region,Bilateral ODA,share,donor
 2023,Africa,1263.96695889,0.8%,Spain
 2023,Asia,470.49144522000006,0.3%,Spain
 2023,Oceania,6.88621795,0.0%,Spain
-2023,,0.0,0.0%,Spain
 2022,Regional and Unspecified,143792.45032719025,59.0%,Spain
 2022,South America,21236.96512604004,8.7%,Spain
 2022,South of Sahara,20712.79599968004,8.5%,Spain
@@ -26,7 +25,6 @@ year,Region,Bilateral ODA,share,donor
 2022,Far East Asia,1319.1759110200003,0.5%,Spain
 2022,Asia,879.7781505899998,0.4%,Spain
 2022,Oceania,11.348565279999999,0.0%,Spain
-2022,,0.0,0.0%,Spain
 2021,Regional and Unspecified,64324.2664360299,41.8%,Spain
 2021,South America,24904.88848069001,16.2%,Spain
 2021,South of Sahara,23343.009751500016,15.2%,Spain
@@ -40,7 +38,6 @@ year,Region,Bilateral ODA,share,donor
 2021,Africa,540.28060934,0.4%,Spain
 2021,Asia,236.10675747,0.2%,Spain
 2021,Oceania,5.9398172,0.0%,Spain
-2021,,0.0,0.0%,Spain
 2020,Regional and Unspecified,33107.845563160015,29.9%,Spain
 2020,South America,23118.858557429976,20.8%,Spain
 2020,Caribbean & Central America,16557.76381274998,14.9%,Spain
@@ -54,7 +51,6 @@ year,Region,Bilateral ODA,share,donor
 2020,Africa,276.8476555900001,0.2%,Spain
 2020,Oceania,50.73434768999999,0.0%,Spain
 2020,Asia,32.49142921,0.0%,Spain
-2020,,0.0,0.0%,Spain
 2019,Regional and Unspecified,34492.03448726003,29.0%,Spain
 2019,South America,22156.39144797,18.6%,Spain
 2019,South of Sahara,15665.726382759978,13.2%,Spain
@@ -67,4 +63,3 @@ year,Region,Bilateral ODA,share,donor
 2019,Far East Asia,947.3216602999997,0.8%,Spain
 2019,Africa,299.32817156,0.3%,Spain
 2019,Oceania,1.6880101399999998,0.0%,Spain
-2019,,0.0,0.0%,Spain

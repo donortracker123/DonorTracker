@@ -25,7 +25,6 @@ year,Region,Bilateral ODA,share,donor
 2022,Africa,11531.414927250002,0.8%,France
 2022,Asia,214.9622005,0.0%,France
 2022,America,20.1555005,0.0%,France
-2022,,0.0,0.0%,France
 2021,South of Sahara,325216.0937570016,25.6%,France
 2021,Regional and Unspecified,320051.26650949987,25.2%,France
 2021,South America,134201.821659,10.6%,France
@@ -39,7 +38,6 @@ year,Region,Bilateral ODA,share,donor
 2021,Africa,11885.768162999999,0.9%,France
 2021,America,306.26122474999994,0.0%,France
 2021,Asia,215.22037675,0.0%,France
-2021,,0.0,0.0%,France
 2020,South of Sahara,409585.91881349543,30.0%,France
 2020,Regional and Unspecified,291264.4656825,21.3%,France
 2020,North of Sahara,128596.39298825023,9.4%,France
@@ -53,10 +51,9 @@ year,Region,Bilateral ODA,share,donor
 2020,Africa,8884.978789500003,0.7%,France
 2020,Asia,425.9569302500001,0.0%,France
 2020,America,45.8259055,0.0%,France
-2020,,0.0,0.0%,France
 2019,South of Sahara,310467.0054935012,29.4%,France
 2019,Regional and Unspecified,267852.24109175004,25.4%,France
-2019,North of Sahara,111104.99112899984,10.5%,France
+2019,North of Sahara,111104.99112899977,10.5%,France
 2019,South & Central Asia,102263.00133725005,9.7%,France
 2019,Far East Asia,70632.13288874982,6.7%,France
 2019,South America,70414.27002125005,6.7%,France
@@ -67,4 +64,3 @@ year,Region,Bilateral ODA,share,donor
 2019,Africa,14077.383698749994,1.3%,France
 2019,Asia,743.6599635,0.1%,France
 2019,America,90.78808425,0.0%,France
-2019,,0.0,0.0%,France

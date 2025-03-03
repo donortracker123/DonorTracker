@@ -1,69 +1,69 @@
-Year,ODA,Share,Full Name,donor
-2019,1.5915000000000001,0.2594893367247115,united nations population fund,New Zealand
-2019,0.1132,0.01845692297658645,world food programme,New Zealand
-2019,0.148,0.024130959368681933,food and agricultural organisation,New Zealand
-2019,0.4474,0.07294723798343444,united nations relief and works agency for palestine refugees in the near east,New Zealand
-2019,0.9892999999999998,0.1613024196178178,world health organisation assessed contributions,New Zealand
-2019,0.08559999999999998,0.01395682514837279,asian development bank,New Zealand
-2019,0.4639,0.07563751385899695,joint united nations programme on hiv aids,New Zealand
-2019,0.6812999999999999,0.11108393660731757,united nations children’s fund,New Zealand
-2019,0.0021,0.00034239874779886525,united nations,New Zealand
-2019,0.3604,0.058762147003195736,global fund to fight aids tuberculosis and malaria,New Zealand
-2019,0.001,0.00016304702276136442,global environment facility trust fund,New Zealand
-2019,1.1715999999999998,0.1910258918672145,international development association,New Zealand
-2019,0.0779,0.012701363073110287,united nations development programme,New Zealand
-2020,0.24359999999999998,0.02413338749145524,asian development bank,New Zealand
-2020,0.1046,0.010362694300518137,united nations relief and works agency for palestine refugees in the near east,New Zealand
-2020,0.09490000000000001,0.009401717869208138,food and agricultural organisation,New Zealand
-2020,0.9895999999999999,0.09803940994065724,world health organisation assessed contributions,New Zealand
-2020,1.2288,0.12173689059729145,international development association,New Zealand
-2020,0.0733,0.007261811589177624,world food programme,New Zealand
-2020,0.0022,0.0002179534174105153,united nations,New Zealand
-2020,0.14029999999999998,0.013899483846679678,united nations development programme,New Zealand
-2020,0.2947,0.029195850959490392,joint united nations programme on hiv aids,New Zealand
-2020,1.2614,0.12496656396437456,united nations population fund,New Zealand
-2020,0.6699999999999999,0.06637672257502056,united nations children’s fund,New Zealand
-2020,4.6314,0.45883157154320936,global alliance for vaccines and immunization,New Zealand
-2020,0.3529,0.03496170954735039,global fund to fight aids tuberculosis and malaria,New Zealand
-2020,0.0062,0.0006142323581569067,global environment facility trust fund,New Zealand
-2021,1.3281999999999998,0.06894797495821177,international development association,New Zealand
-2021,0.6738,0.03497752260716992,united nations children’s fund,New Zealand
-2021,0.0282,0.0014638856300418402,joint united nations programme on hiv aids,New Zealand
-2021,0.7224999999999998,0.03750558041507905,international bank for reconstruction and development,New Zealand
-2021,0.0973,0.005050924532023796,food and agricultural organisation,New Zealand
-2021,0.1021,0.005300096554158577,united nations relief and works agency for palestine refugees in the near east,New Zealand
-2021,0.0277,0.001437930211069467,global environment facility trust fund,New Zealand
-2021,0.4142,0.02150146907671384,asian development bank,New Zealand
-2021,1.0278999999999998,0.05335915032340451,global fund to fight aids tuberculosis and malaria,New Zealand
-2021,1.1843000000000001,0.061478005377962816,united nations population fund,New Zealand
-2021,12.513700000000002,0.6495966527891694,global alliance for vaccines and immunization,New Zealand
-2021,0.1129,0.005860733603961835,world food programme,New Zealand
-2021,0.011000000000000001,0.0005710192173922072,united nations,New Zealand
-2021,0.8878000000000003,0.0460864419273456,world health organisation assessed contributions,New Zealand
-2021,0.1322,0.006862612776295436,united nations development programme,New Zealand
-2022,1.8232000000000002,0.2599409743509318,united nations population fund,New Zealand
-2022,0.08249999999999999,0.011762357604185975,food and agricultural organisation,New Zealand
-2022,0.5013,0.07147236202398097,asian development bank,New Zealand
-2022,0.0854,0.012175822295727059,world food programme,New Zealand
-2022,1.4528,0.2071315530589259,international development association,New Zealand
-2022,0.32489999999999997,0.046322302855757856,global fund to fight aids tuberculosis and malaria,New Zealand
-2022,0.101,0.014399977188154953,united nations relief and works agency for palestine refugees in the near east,New Zealand
-2022,0.0181,0.0025805899713426204,united nations,New Zealand
-2022,0.2777,0.03959280856584783,united nations development programme,New Zealand
-2022,0.5953999999999999,0.08488857839433127,united nations children’s fund,New Zealand
-2022,0.8431000000000001,0.12020416601320238,world health organisation assessed contributions,New Zealand
-2022,0.9084999999999998,0.1295285076776116,international bank for reconstruction and development,New Zealand
-2023,0.2039,0.02292531003699081,joint united nations programme on hiv aids,New Zealand
-2023,0.089,0.010006633611045522,united nations relief and works agency for palestine refugees in the near east,New Zealand
-2023,0.17149999999999996,0.019282445666228165,united nations development programme,New Zealand
-2023,0.1734,0.019496070428711165,global environment facility trust fund,New Zealand
-2023,0.9535,0.10720590054080793,world health organisation assessed contributions,New Zealand
-2023,0.511,0.05745381769937373,united nations children’s fund,New Zealand
-2023,2.2557000000000005,0.25361756670152125,united nations population fund,New Zealand
-2023,0.0806,0.009062187292699654,world food programme,New Zealand
-2023,0.40599999999999997,0.04564823872005036,asian development bank,New Zealand
-2023,2.6064,0.2930482004924612,international development association,New Zealand
-2023,0.4911,0.055216379397578154,global fund to fight aids tuberculosis and malaria,New Zealand
-2023,0.0245,0.002754635095175453,united nations,New Zealand
-2023,0.8279999999999997,0.09309542280837854,international bank for reconstruction and development,New Zealand
-2023,0.0995,0.01118719150897786,food and agricultural organisation,New Zealand
+Year,Multi_short,ODA,Share,Full Name,donor
+2019,ADB,0.08559999999999998,0.013956825148372787,asian development bank,New Zealand
+2020,ADB,0.24359999999999998,0.024133387491455233,asian development bank,New Zealand
+2021,ADB,0.4142,0.02150146907671384,asian development bank,New Zealand
+2022,ADB,0.5013,0.07147236202398097,asian development bank,New Zealand
+2023,ADB,0.40599999999999997,0.045648238720050346,asian development bank,New Zealand
+2019,FAO,0.148,0.024130959368681926,food and agricultural organisation,New Zealand
+2020,FAO,0.09490000000000001,0.009401717869208136,food and agricultural organisation,New Zealand
+2021,FAO,0.0973,0.005050924532023796,food and agricultural organisation,New Zealand
+2022,FAO,0.08249999999999999,0.011762357604185975,food and agricultural organisation,New Zealand
+2023,FAO,0.0995,0.011187191508977857,food and agricultural organisation,New Zealand
+2020,GAVI,4.6314,0.4588315715432093,global alliance for vaccines and immunization,New Zealand
+2021,GAVI,12.513700000000002,0.6495966527891694,global alliance for vaccines and immunization,New Zealand
+2019,GEF-TF,0.001,0.00016304702276136437,global environment facility trust fund,New Zealand
+2020,GEF-TF,0.0062,0.0006142323581569066,global environment facility trust fund,New Zealand
+2021,GEF-TF,0.0277,0.001437930211069467,global environment facility trust fund,New Zealand
+2023,GEF-TF,0.1734,0.01949607042871116,global environment facility trust fund,New Zealand
+2019,GFATM,0.3604,0.058762147003195715,global fund to fight aids tuberculosis and malaria,New Zealand
+2020,GFATM,0.3529,0.03496170954735038,global fund to fight aids tuberculosis and malaria,New Zealand
+2021,GFATM,1.0278999999999998,0.05335915032340451,global fund to fight aids tuberculosis and malaria,New Zealand
+2022,GFATM,0.32489999999999997,0.046322302855757856,global fund to fight aids tuberculosis and malaria,New Zealand
+2023,GFATM,0.4911,0.05521637939757815,global fund to fight aids tuberculosis and malaria,New Zealand
+2021,IBRD,0.7224999999999998,0.03750558041507905,international bank for reconstruction and development,New Zealand
+2022,IBRD,0.9084999999999998,0.1295285076776116,international bank for reconstruction and development,New Zealand
+2023,IBRD,0.8279999999999997,0.09309542280837853,international bank for reconstruction and development,New Zealand
+2019,IDA,1.1715999999999998,0.19102589186721444,international development association,New Zealand
+2020,IDA,1.2288,0.12173689059729143,international development association,New Zealand
+2021,IDA,1.3281999999999998,0.06894797495821177,international development association,New Zealand
+2022,IDA,1.4528,0.2071315530589259,international development association,New Zealand
+2023,IDA,2.6064,0.29304820049246116,international development association,New Zealand
+2019,UN,0.0021,0.00034239874779886515,united nations,New Zealand
+2020,UN,0.0022,0.00021795341741051528,united nations,New Zealand
+2021,UN,0.011000000000000001,0.0005710192173922072,united nations,New Zealand
+2022,UN,0.0181,0.0025805899713426204,united nations,New Zealand
+2023,UN,0.0245,0.0027546350951754522,united nations,New Zealand
+2019,UNAIDS,0.4639,0.07563751385899693,joint united nations programme on hiv aids,New Zealand
+2020,UNAIDS,0.2947,0.02919585095949039,joint united nations programme on hiv aids,New Zealand
+2021,UNAIDS,0.0282,0.0014638856300418402,joint united nations programme on hiv aids,New Zealand
+2023,UNAIDS,0.2039,0.022925310036990804,joint united nations programme on hiv aids,New Zealand
+2019,UNDP,0.0779,0.012701363073110284,united nations development programme,New Zealand
+2020,UNDP,0.14029999999999998,0.013899483846679677,united nations development programme,New Zealand
+2021,UNDP,0.1322,0.006862612776295436,united nations development programme,New Zealand
+2022,UNDP,0.2777,0.03959280856584783,united nations development programme,New Zealand
+2023,UNDP,0.17149999999999996,0.01928244566622816,united nations development programme,New Zealand
+2019,UNFPA,1.5915000000000001,0.2594893367247114,united nations population fund,New Zealand
+2020,UNFPA,1.2614,0.12496656396437454,united nations population fund,New Zealand
+2021,UNFPA,1.1843000000000001,0.061478005377962816,united nations population fund,New Zealand
+2022,UNFPA,1.8232000000000002,0.2599409743509318,united nations population fund,New Zealand
+2023,UNFPA,2.2557000000000005,0.2536175667015212,united nations population fund,New Zealand
+2019,UNRWA,0.4474,0.07294723798343442,united nations relief and works agency for palestine refugees in the near east,New Zealand
+2020,UNRWA,0.1046,0.010362694300518135,united nations relief and works agency for palestine refugees in the near east,New Zealand
+2021,UNRWA,0.1021,0.005300096554158577,united nations relief and works agency for palestine refugees in the near east,New Zealand
+2022,UNRWA,0.101,0.014399977188154953,united nations relief and works agency for palestine refugees in the near east,New Zealand
+2023,UNRWA,0.089,0.01000663361104552,united nations relief and works agency for palestine refugees in the near east,New Zealand
+2019,WFP,0.1132,0.018456922976586444,world food programme,New Zealand
+2020,WFP,0.0733,0.0072618115891776224,world food programme,New Zealand
+2021,WFP,0.1129,0.005860733603961835,world food programme,New Zealand
+2022,WFP,0.0854,0.012175822295727059,world food programme,New Zealand
+2023,WFP,0.0806,0.009062187292699652,world food programme,New Zealand
+2019,WHO-AC,0.9892999999999998,0.16130241961781774,world health organisation assessed contributions,New Zealand
+2020,WHO-AC,0.9895999999999999,0.09803940994065723,world health organisation assessed contributions,New Zealand
+2021,WHO-AC,0.8878000000000003,0.0460864419273456,world health organisation assessed contributions,New Zealand
+2022,WHO-AC,0.8431000000000001,0.12020416601320238,world health organisation assessed contributions,New Zealand
+2023,WHO-AC,0.9535,0.1072059005408079,world health organisation assessed contributions,New Zealand
+2019,,0.6812999999999999,0.11108393660731752,united nations children’s fund,New Zealand
+2020,,0.6699999999999999,0.06637672257502056,united nations children’s fund,New Zealand
+2021,,0.6738,0.03497752260716992,united nations children’s fund,New Zealand
+2022,,0.5953999999999999,0.08488857839433127,united nations children’s fund,New Zealand
+2023,,0.511,0.05745381769937372,united nations children’s fund,New Zealand

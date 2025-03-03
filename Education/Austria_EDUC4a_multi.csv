@@ -1,61 +1,61 @@
-Year,ODA,Share,Full Name,donor
-2019,0.0121,0.00021881244518386572,united nations population fund,Austria
-2019,4.1638,0.07529679828566778,international bank for reconstruction and development,Austria
-2019,16.1746,0.29249617982404585,international development association,Austria
-2019,0.0008,1.4466938524553107e-05,united nations development programme,Austria
-2019,7.3182,0.13233993688798068,european commission european development fund,Austria
-2019,0.0582,0.0010524697776612385,inter american development bank inter american investment corporation and multilateral investment fund,Austria
-2019,0.0054,9.765183504073348e-05,food and agricultural organisation,Austria
-2019,0.2954,0.005341917050191235,united nations relief and works agency for palestine refugees in the near east,Austria
-2019,0.08530000000000001,0.0015425373201804753,united nations children’s fund,Austria
-2019,24.689100000000003,0.44646961490818016,european commission development share of budget,Austria
-2019,2.4956,0.04512961472734341,african development fund,Austria
-2020,0.0462,0.0009079135870643931,united nations industrial development organisation,Austria
-2020,0.0006,1.1791085546290818e-05,united nations development programme,Austria
-2020,26.121700000000004,0.5133386655242416,european commission development share of budget,Austria
-2020,0.0839,0.001648786795556333,united nations children’s fund,Austria
-2020,1.9203999999999999,0.037739334471828145,african development fund,Austria
-2020,0.0521,0.0010238592616029195,african development bank,Austria
-2020,0.0054,0.00010611976991661738,food and agricultural organisation,Austria
-2020,7.535499999999999,0.14808620855679075,european commission european development fund,Austria
-2020,14.788199999999998,0.29061488545942976,international development association,Austria
-2020,0.0124,0.00024368243462334358,united nations population fund,Austria
-2020,0.023500000000000004,0.00046181751722972384,inter american development bank inter american investment corporation and multilateral investment fund,Austria
-2020,0.296,0.0058169355361701374,united nations relief and works agency for palestine refugees in the near east,Austria
-2021,0.0056,0.00012119716831473171,inter american development bank inter american investment corporation and multilateral investment fund,Austria
-2021,0.0117,0.0002532155123718502,united nations population fund,Austria
-2021,0.0915,0.001980275160856777,united nations children’s fund,Austria
-2021,0.8325,0.018017257611073957,african development fund,Austria
-2021,0.0054,0.00011686869801777702,food and agricultural organisation,Austria
-2021,3.9091000000000005,0.08460211618912818,european commission european development fund,Austria
-2021,24.8774,0.5384054348273049,european commission development share of budget,Austria
-2021,0.012199999999999999,0.0002640366881142369,african development bank,Austria
-2021,16.1356,0.3492123266177116,international development association,Austria
-2021,0.0002,4.328470296954704e-06,united nations development programme,Austria
-2021,0.2905,0.0062871031063267075,united nations relief and works agency for palestine refugees in the near east,Austria
-2021,0.034,0.0007358399504822997,united nations industrial development organisation,Austria
-2022,0.001,2.098768023170399e-05,food and agricultural organisation,Austria
-2022,1.7766,0.03728671269964531,european commission european development fund,Austria
-2022,0.0223,0.00046802526916699897,united nations industrial development organisation,Austria
-2022,28.3003,0.5939576468612925,european commission development share of budget,Austria
-2022,0.1019,0.0021386446156106366,united nations children’s fund,Austria
-2022,0.016,0.00033580288370726384,united nations population fund,Austria
-2022,0.5325000000000001,0.011175939723382376,african development fund,Austria
-2022,0.022,0.0004617289650974878,african development bank,Austria
-2022,16.5853,0.3480869729468802,international development association,Austria
-2022,0.005999999999999999,0.00012592608139022393,inter american development bank inter american investment corporation and multilateral investment fund,Austria
-2022,0.2794,0.005863957856738095,united nations relief and works agency for palestine refugees in the near east,Austria
-2022,0.0037,7.765441685730476e-05,united nations development programme,Austria
-2023,0.0086,0.00014098545554695798,united nations,Austria
-2023,28.057500000000005,0.4599650487219505,european commission development share of budget,Austria
-2023,0.35609999999999997,0.005837781479101365,european commission european development fund,Austria
-2023,0.0011,1.8033023383913233e-05,food and agricultural organisation,Austria
-2023,0.5664,0.00928536767695314,african development fund,Austria
-2023,0.233,0.0038197222258652573,united nations relief and works agency for palestine refugees in the near east,Austria
-2023,0.015799999999999998,0.00025901979042348093,united nations population fund,Austria
-2023,0.08619999999999998,0.0014131332869939275,african development bank,Austria
-2023,0.004999999999999999,8.19682881086965e-05,united nations development programme,Austria
-2023,0.10910000000000002,0.001788548046531758,united nations children’s fund,Austria
-2023,31.5492,0.5172067830397775,international development association,Austria
-2023,0.0008,1.3114926097391442e-05,adaptation fund,Austria
-2023,0.0104,0.0001704940392660887,united nations industrial development organisation,Austria
+Year,Multi_short,ODA,Share,Full Name,donor
+2019,ADF,2.4956,0.04512961472734341,african development fund,Austria
+2020,ADF,1.9203999999999999,0.037739334471828145,african development fund,Austria
+2021,ADF,0.8325,0.018017257611073957,african development fund,Austria
+2022,ADF,0.5325000000000001,0.011175939723382376,african development fund,Austria
+2023,ADF,0.5664,0.00928536767695314,african development fund,Austria
+2023,AF,0.0008,1.3114926097391442e-05,adaptation fund,Austria
+2020,AfDB,0.0521,0.0010238592616029195,african development bank,Austria
+2021,AfDB,0.012199999999999999,0.0002640366881142369,african development bank,Austria
+2022,AfDB,0.022,0.0004617289650974878,african development bank,Austria
+2023,AfDB,0.08619999999999998,0.0014131332869939275,african development bank,Austria
+2019,EC-DSB,24.689100000000003,0.44646961490818016,european commission development share of budget,Austria
+2020,EC-DSB,26.121700000000004,0.5133386655242416,european commission development share of budget,Austria
+2021,EC-DSB,24.8774,0.5384054348273049,european commission development share of budget,Austria
+2022,EC-DSB,28.3003,0.5939576468612925,european commission development share of budget,Austria
+2023,EC-DSB,28.057500000000005,0.4599650487219505,european commission development share of budget,Austria
+2019,EC-EDF,7.3182,0.13233993688798068,european commission european development fund,Austria
+2020,EC-EDF,7.535499999999999,0.14808620855679075,european commission european development fund,Austria
+2021,EC-EDF,3.9091000000000005,0.08460211618912818,european commission european development fund,Austria
+2022,EC-EDF,1.7766,0.03728671269964531,european commission european development fund,Austria
+2023,EC-EDF,0.35609999999999997,0.005837781479101365,european commission european development fund,Austria
+2019,FAO,0.0054,9.765183504073348e-05,food and agricultural organisation,Austria
+2020,FAO,0.0054,0.00010611976991661738,food and agricultural organisation,Austria
+2021,FAO,0.0054,0.00011686869801777702,food and agricultural organisation,Austria
+2022,FAO,0.001,2.098768023170399e-05,food and agricultural organisation,Austria
+2023,FAO,0.0011,1.8033023383913233e-05,food and agricultural organisation,Austria
+2019,IBRD,4.1638,0.07529679828566778,international bank for reconstruction and development,Austria
+2019,IDA,16.1746,0.29249617982404585,international development association,Austria
+2020,IDA,14.788199999999998,0.29061488545942976,international development association,Austria
+2021,IDA,16.1356,0.3492123266177116,international development association,Austria
+2022,IDA,16.5853,0.3480869729468802,international development association,Austria
+2023,IDA,31.5492,0.5172067830397775,international development association,Austria
+2019,IDB-IIC-MIF,0.0582,0.0010524697776612385,inter american development bank inter american investment corporation and multilateral investment fund,Austria
+2020,IDB-IIC-MIF,0.023500000000000004,0.00046181751722972384,inter american development bank inter american investment corporation and multilateral investment fund,Austria
+2021,IDB-IIC-MIF,0.0056,0.00012119716831473171,inter american development bank inter american investment corporation and multilateral investment fund,Austria
+2022,IDB-IIC-MIF,0.005999999999999999,0.00012592608139022393,inter american development bank inter american investment corporation and multilateral investment fund,Austria
+2023,UN,0.0086,0.00014098545554695798,united nations,Austria
+2019,UNDP,0.0008,1.4466938524553107e-05,united nations development programme,Austria
+2020,UNDP,0.0006,1.1791085546290818e-05,united nations development programme,Austria
+2021,UNDP,0.0002,4.328470296954704e-06,united nations development programme,Austria
+2022,UNDP,0.0037,7.765441685730476e-05,united nations development programme,Austria
+2023,UNDP,0.004999999999999999,8.19682881086965e-05,united nations development programme,Austria
+2019,UNFPA,0.0121,0.00021881244518386572,united nations population fund,Austria
+2020,UNFPA,0.0124,0.00024368243462334358,united nations population fund,Austria
+2021,UNFPA,0.0117,0.0002532155123718502,united nations population fund,Austria
+2022,UNFPA,0.016,0.00033580288370726384,united nations population fund,Austria
+2023,UNFPA,0.015799999999999998,0.00025901979042348093,united nations population fund,Austria
+2020,UNIDO,0.0462,0.0009079135870643931,united nations industrial development organisation,Austria
+2021,UNIDO,0.034,0.0007358399504822997,united nations industrial development organisation,Austria
+2022,UNIDO,0.0223,0.00046802526916699897,united nations industrial development organisation,Austria
+2023,UNIDO,0.0104,0.0001704940392660887,united nations industrial development organisation,Austria
+2019,UNRWA,0.2954,0.005341917050191235,united nations relief and works agency for palestine refugees in the near east,Austria
+2020,UNRWA,0.296,0.0058169355361701374,united nations relief and works agency for palestine refugees in the near east,Austria
+2021,UNRWA,0.2905,0.0062871031063267075,united nations relief and works agency for palestine refugees in the near east,Austria
+2022,UNRWA,0.2794,0.005863957856738095,united nations relief and works agency for palestine refugees in the near east,Austria
+2023,UNRWA,0.233,0.0038197222258652573,united nations relief and works agency for palestine refugees in the near east,Austria
+2019,,0.08530000000000001,0.0015425373201804753,united nations children’s fund,Austria
+2020,,0.0839,0.001648786795556333,united nations children’s fund,Austria
+2021,,0.0915,0.001980275160856777,united nations children’s fund,Austria
+2022,,0.1019,0.0021386446156106366,united nations children’s fund,Austria
+2023,,0.10910000000000002,0.001788548046531758,united nations children’s fund,Austria

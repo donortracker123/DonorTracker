@@ -1,15 +1,15 @@
 year,Sector,Bilateral ODA for,share,donor
 2023,Population policy and administrative management,13.037058625500002,21.792401996228882,Denmark
-2023,Family planning,12.5924618925,21.049225869614318,Denmark
+2023,Family planning,12.5924618925,21.04922586961432,Denmark
 2023,Infectious disease control,10.3062999375,17.227738079845807,Denmark
-2023,Health policy and administrative management,5.465246776500001,9.135561799892901,Denmark
-2023,Basic health infrastructure,4.7902525965,8.007259401459011,Denmark
-2023,Basic health care,4.1370360115,6.915359854188404,Denmark
+2023,Health policy and administrative management,5.465246776500001,9.135561799892903,Denmark
+2023,Basic health infrastructure,4.7902525965,8.007259401459013,Denmark
+2023,Basic health care,4.1370360115,6.915359854188405,Denmark
 2023,Promotion of mental health and well-being,3.1030665505000004,5.1870038811729104,Denmark
-2023,Reproductive health care,3.0973364030000003,5.177425518337797,Denmark
-2023,Other prevention and treatment of NCDs,1.451591512,2.4264419354488003,Denmark
-2023,"NCDs control, general",1.117725707,1.8683606960867642,Denmark
-2023,STD control including HIV/AIDS,0.725795756,1.2132209677244001,Denmark
+2023,Reproductive health care,3.0973364030000003,5.177425518337798,Denmark
+2023,Other prevention and treatment of NCDs,1.451591512,2.4264419354488007,Denmark
+2023,"NCDs control, general",1.117725707,1.8683606960867645,Denmark
+2023,STD control including HIV/AIDS,0.725795756,1.2132209677244004,Denmark
 2023,COVID-19 control,0.0,0.0,Denmark
 2022,COVID-19 control,28.484785752500002,24.35537585990173,Denmark
 2022,Basic health care,24.083325434000002,20.59199068576182,Denmark
@@ -23,17 +23,17 @@ year,Sector,Bilateral ODA for,share,donor
 2022,Health policy and administrative management,0.4270654150000001,0.3651541840428634,Denmark
 2022,Health education,0.09773214150000001,0.08356401415505435,Denmark
 2022,Basic health infrastructure,0.028820669500000003,0.024642566888357226,Denmark
-2021,COVID-19 control,106.50754529100001,56.648318498540235,Denmark
-2021,Family planning,22.864589314000003,12.161021402370457,Denmark
-2021,Reproductive health care,21.759982762,11.57351275589564,Denmark
+2021,COVID-19 control,106.50754529100001,56.64831849854023,Denmark
+2021,Family planning,22.864589314000003,12.161021402370455,Denmark
+2021,Reproductive health care,21.759982762,11.573512755895639,Denmark
 2021,Health policy and administrative management,15.699540052000001,8.350136534612597,Denmark
-2021,Population policy and administrative management,11.850075513500002,6.302716395222614,Denmark
+2021,Population policy and administrative management,11.850075513500002,6.302716395222612,Denmark
 2021,Basic health care,3.9235660170000006,2.086832597388257,Denmark
 2021,Basic health infrastructure,1.9287271885000004,1.025834853037164,Denmark
-2021,Other prevention and treatment of NCDs,1.54490441,0.821690489893157,Denmark
-2021,Promotion of mental health and well-being,0.8496974255000002,0.4519297694412364,Denmark
-2021,STD control including HIV/AIDS,0.772452205,0.4108452449465785,Denmark
-2021,Health education,0.31428923400000003,0.16716145865206317,Denmark
+2021,Other prevention and treatment of NCDs,1.54490441,0.8216904898931569,Denmark
+2021,Promotion of mental health and well-being,0.8496974255000002,0.45192976944123636,Denmark
+2021,STD control including HIV/AIDS,0.772452205,0.4108452449465784,Denmark
+2021,Health education,0.31428923400000003,0.16716145865206314,Denmark
 2021,Health personnel development,0.0,0.0,Denmark
 2020,Health policy and administrative management,36.36641802850001,34.44841846721332,Denmark
 2020,Family planning,17.320512296500002,16.407011963310385,Denmark
@@ -44,16 +44,16 @@ year,Sector,Bilateral ODA for,share,donor
 2020,Health education,3.2257372245,3.055608767620676,Denmark
 2020,Basic health care,3.0223619999999998,2.86295974637396,Denmark
 2020,Reproductive health care,2.2778888965000004,2.1577508641889027,Denmark
+2020,Other prevention and treatment of NCDs,1.589038178,1.505230789384402,Denmark
 2020,Medical research,1.589038178,1.505230789384402,Denmark
 2020,STD control including HIV/AIDS,1.589038178,1.505230789384402,Denmark
-2020,Other prevention and treatment of NCDs,1.589038178,1.505230789384402,Denmark
-2019,Reproductive health care,47.7789034695,42.868123921301894,Denmark
-2019,Health policy and administrative management,36.30287155250001,32.571613900790126,Denmark
-2019,Family planning,9.753169254500001,8.750725484820613,Denmark
-2019,Population policy and administrative management,7.8650649175,7.056683034756185,Denmark
-2019,Medical services,4.906614545000001,4.4023061450833145,Denmark
-2019,Other prevention and treatment of NCDs,1.6968266525,1.522424541592333,Denmark
-2019,STD control including HIV/AIDS,1.6355388560000002,1.4674359867188902,Denmark
-2019,Basic health care,1.2112095485,1.086719812498566,Denmark
-2019,Health education,0.24533022150000003,0.2201148534858266,Denmark
-2019,Medical education/training,0.06002139850000001,0.053852318952240914,Denmark
+2019,Reproductive health care,47.7789034695,42.86812392130191,Denmark
+2019,Health policy and administrative management,36.30287155250001,32.57161390079013,Denmark
+2019,Family planning,9.753169254500001,8.750725484820615,Denmark
+2019,Population policy and administrative management,7.8650649175,7.056683034756187,Denmark
+2019,Medical services,4.906614545000001,4.402306145083316,Denmark
+2019,Other prevention and treatment of NCDs,1.6968266525,1.5224245415923332,Denmark
+2019,STD control including HIV/AIDS,1.6355388560000002,1.4674359867188904,Denmark
+2019,Basic health care,1.2112095485,1.0867198124985662,Denmark
+2019,Health education,0.24533022150000003,0.22011485348582666,Denmark
+2019,Medical education/training,0.06002139850000001,0.05385231895224093,Denmark

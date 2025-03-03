@@ -1,58 +1,58 @@
-Year,ODA,Share,Full Name,donor
-2019,0.0403,0.007449856733524356,global environment facility trust fund,Slovenia
-2019,0.23519999999999994,0.04347906460855901,food and agricultural organisation,Slovenia
-2019,1.7804999999999995,0.32914317404566035,european commission european development fund,Slovenia
-2019,0.0,0.0,united nations children’s fund,Slovenia
-2019,0.024500000000000004,0.004529069230058232,european investment bank,Slovenia
-2019,0.1864,0.03445789814215732,green climate fund,Slovenia
-2019,0.1723,0.031851372585266664,international development association,Slovenia
-2019,2.8698,0.5305111378131067,european commission development share of budget,Slovenia
-2019,0.10050000000000002,0.018578426841667443,international bank for reconstruction and development,Slovenia
-2020,0.0877,0.01758642817036978,international bank for reconstruction and development,Slovenia
-2020,0.23469999999999996,0.04706424961899414,food and agricultural organisation,Slovenia
-2020,1.6557999999999995,0.33203657656212393,european commission european development fund,Slovenia
-2020,0.0006,0.00012031763856581375,world health organisation assessed contributions,Slovenia
-2020,2.7883,0.5591361193550974,european commission development share of budget,Slovenia
-2020,0.19270000000000004,0.038642014919387194,international development association,Slovenia
-2020,0.0,0.0,united nations children’s fund,Slovenia
-2020,0.027,0.005414293735461619,european investment bank,Slovenia
-2021,0.0012,0.00023969319271332687,international centre for genetic engineering and biotechnology,Slovenia
-2021,0.0,0.0,united nations children’s fund,Slovenia
-2021,0.0808,0.016139341642697345,international bank for reconstruction and development,Slovenia
-2021,0.0007,0.00013982102908277402,united nations industrial development organisation,Slovenia
-2021,0.0014,0.00027964205816554804,world health organisation assessed contributions,Slovenia
-2021,0.15570000000000003,0.031100191754554172,international development association,Slovenia
-2021,3.024,0.6040268456375838,european commission development share of budget,Slovenia
-2021,0.2262,0.045182166826462124,global environment facility trust fund,Slovenia
-2021,0.0342,0.006831255992329817,world organisation for animal health,Slovenia
-2021,0.2129,0.04252556727388941,food and agricultural organisation,Slovenia
-2021,0.030700000000000005,0.006132150846915947,european investment bank,Slovenia
-2021,1.2386000000000001,0.2474033237456056,european commission european development fund,Slovenia
-2022,0.0012000000000000001,0.00020603688060162777,international centre for genetic engineering and biotechnology,Slovenia
-2022,0.0369,0.006335634078500053,world organisation for animal health,Slovenia
-2022,0.1497,0.025703100855053063,global environment facility trust fund,Slovenia
-2022,0.48779999999999996,0.08375399196456167,european commission european development fund,Slovenia
-2022,0.4604,0.07904948319082451,international finance corporation,Slovenia
-2022,0.0016,0.0002747158408021703,united nations,Slovenia
-2022,0.044,0.0075546856220596835,european investment bank,Slovenia
-2022,0.1754,0.03011572404793792,international development association,Slovenia
-2022,0.0,0.0,united nations children’s fund,Slovenia
-2022,0.2679,0.045997733594313396,food and agricultural organisation,Slovenia
-2022,0.0012000000000000001,0.00020603688060162777,united nations industrial development organisation,Slovenia
-2022,0.0919,0.01577899110607466,international bank for reconstruction and development,Slovenia
-2022,0.0228,0.003914700731430927,adaptation fund,Slovenia
-2022,0.0026,0.00044641324130352674,world health organisation assessed contributions,Slovenia
-2022,4.080799999999999,0.7006627519659353,european commission development share of budget,Slovenia
-2023,0.19259999999999997,0.03195884841948063,international development association,Slovenia
-2023,0.0389,0.00645482452501452,world organisation for animal health,Slovenia
-2023,0.2376,0.039425869078237794,food and agricultural organisation,Slovenia
-2023,4.617799999999999,0.7662490666224177,european commission development share of budget,Slovenia
-2023,0.38730000000000003,0.06426615780303661,international finance corporation,Slovenia
-2023,0.0359,0.005957023147764044,european investment bank,Slovenia
-2023,0.0041,0.0006803285489089855,united nations,Slovenia
-2023,0.0025,0.0004148344810420643,world health organisation assessed contributions,Slovenia
-2023,0.24140000000000003,0.040056417489421736,global environment facility trust fund,Slovenia
-2023,0.1794,0.029768522359578536,european commission european development fund,Slovenia
-2023,0.0053,0.0008794490998091764,international centre for genetic engineering and biotechnology,Slovenia
-2023,0.0,0.0,united nations children’s fund,Slovenia
-2023,0.08370000000000002,0.013888658425288317,international bank for reconstruction and development,Slovenia
+Year,Multi_short,ODA,Share,Full Name,donor
+2022,AF,0.0228,0.003914700731430927,adaptation fund,Slovenia
+2019,EC-DSB,2.8698,0.5305111378131067,european commission development share of budget,Slovenia
+2020,EC-DSB,2.7883,0.5591361193550974,european commission development share of budget,Slovenia
+2021,EC-DSB,3.024,0.6040268456375838,european commission development share of budget,Slovenia
+2022,EC-DSB,4.080799999999999,0.7006627519659353,european commission development share of budget,Slovenia
+2023,EC-DSB,4.617799999999999,0.7662490666224177,european commission development share of budget,Slovenia
+2019,EC-EDF,1.7804999999999995,0.32914317404566035,european commission european development fund,Slovenia
+2020,EC-EDF,1.6557999999999995,0.33203657656212393,european commission european development fund,Slovenia
+2021,EC-EDF,1.2386000000000001,0.2474033237456056,european commission european development fund,Slovenia
+2022,EC-EDF,0.48779999999999996,0.08375399196456167,european commission european development fund,Slovenia
+2023,EC-EDF,0.1794,0.029768522359578536,european commission european development fund,Slovenia
+2019,EIB,0.024500000000000004,0.004529069230058232,european investment bank,Slovenia
+2020,EIB,0.027,0.005414293735461619,european investment bank,Slovenia
+2021,EIB,0.030700000000000005,0.006132150846915947,european investment bank,Slovenia
+2022,EIB,0.044,0.0075546856220596835,european investment bank,Slovenia
+2023,EIB,0.0359,0.005957023147764044,european investment bank,Slovenia
+2019,FAO,0.23519999999999994,0.04347906460855901,food and agricultural organisation,Slovenia
+2020,FAO,0.23469999999999996,0.04706424961899414,food and agricultural organisation,Slovenia
+2021,FAO,0.2129,0.04252556727388941,food and agricultural organisation,Slovenia
+2022,FAO,0.2679,0.045997733594313396,food and agricultural organisation,Slovenia
+2023,FAO,0.2376,0.039425869078237794,food and agricultural organisation,Slovenia
+2019,GCF,0.1864,0.03445789814215732,green climate fund,Slovenia
+2019,GEF-TF,0.0403,0.007449856733524356,global environment facility trust fund,Slovenia
+2021,GEF-TF,0.2262,0.045182166826462124,global environment facility trust fund,Slovenia
+2022,GEF-TF,0.1497,0.025703100855053063,global environment facility trust fund,Slovenia
+2023,GEF-TF,0.24140000000000003,0.040056417489421736,global environment facility trust fund,Slovenia
+2019,IBRD,0.10050000000000002,0.018578426841667443,international bank for reconstruction and development,Slovenia
+2020,IBRD,0.0877,0.01758642817036978,international bank for reconstruction and development,Slovenia
+2021,IBRD,0.0808,0.016139341642697345,international bank for reconstruction and development,Slovenia
+2022,IBRD,0.0919,0.01577899110607466,international bank for reconstruction and development,Slovenia
+2023,IBRD,0.08370000000000002,0.013888658425288317,international bank for reconstruction and development,Slovenia
+2021,ICGEB,0.0012,0.00023969319271332687,international centre for genetic engineering and biotechnology,Slovenia
+2022,ICGEB,0.0012000000000000001,0.00020603688060162777,international centre for genetic engineering and biotechnology,Slovenia
+2023,ICGEB,0.0053,0.0008794490998091764,international centre for genetic engineering and biotechnology,Slovenia
+2019,IDA,0.1723,0.031851372585266664,international development association,Slovenia
+2020,IDA,0.19270000000000004,0.038642014919387194,international development association,Slovenia
+2021,IDA,0.15570000000000003,0.031100191754554172,international development association,Slovenia
+2022,IDA,0.1754,0.03011572404793792,international development association,Slovenia
+2023,IDA,0.19259999999999997,0.03195884841948063,international development association,Slovenia
+2022,IFC,0.4604,0.07904948319082451,international finance corporation,Slovenia
+2023,IFC,0.38730000000000003,0.06426615780303661,international finance corporation,Slovenia
+2022,UN,0.0016,0.0002747158408021703,united nations,Slovenia
+2023,UN,0.0041,0.0006803285489089855,united nations,Slovenia
+2021,UNIDO,0.0007,0.00013982102908277402,united nations industrial development organisation,Slovenia
+2022,UNIDO,0.0012000000000000001,0.00020603688060162777,united nations industrial development organisation,Slovenia
+2020,WHO-AC,0.0006,0.00012031763856581375,world health organisation assessed contributions,Slovenia
+2021,WHO-AC,0.0014,0.00027964205816554804,world health organisation assessed contributions,Slovenia
+2022,WHO-AC,0.0026,0.00044641324130352674,world health organisation assessed contributions,Slovenia
+2023,WHO-AC,0.0025,0.0004148344810420643,world health organisation assessed contributions,Slovenia
+2021,WOAH,0.0342,0.006831255992329817,world organisation for animal health,Slovenia
+2022,WOAH,0.0369,0.006335634078500053,world organisation for animal health,Slovenia
+2023,WOAH,0.0389,0.00645482452501452,world organisation for animal health,Slovenia
+2019,,0.0,0.0,united nations children’s fund,Slovenia
+2020,,0.0,0.0,united nations children’s fund,Slovenia
+2021,,0.0,0.0,united nations children’s fund,Slovenia
+2022,,0.0,0.0,united nations children’s fund,Slovenia
+2023,,0.0,0.0,united nations children’s fund,Slovenia
