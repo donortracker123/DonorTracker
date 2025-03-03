@@ -55,14 +55,14 @@ allocable_totals AS (
 )
 
 SELECT 
-    ct.donor_name AS donor,
     ct.year AS "Year",
     100 * (ct.climate_principal + ct.climate_significant) / (alt.allocable_oda) AS "Climate Funding as % of bilateral allocable ODA",
     climate_principal * (100 / dfl.deflator) AS "Funding for projects with climate change as a principal objective",
     climate_significant * (100 / dfl.deflator) AS "Funding for projects with a significant climate change component",
     100 * climate_principal / alt.allocable_oda AS "Principal",
     100 * climate_significant / alt.allocable_oda AS "Significant",
-    100 - ("Principal" + "Significant") AS "Not targeted and not screened"
+    100 - ("Principal" + "Significant") AS "Not targeted and not screened",
+    ct.donor_name AS donor,
 FROM crs_totals ct
 LEFT JOIN allocable_totals alt USING (donor_name, year)
 LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = ct.donor_name AND dfl.year = {{latest_year}}
