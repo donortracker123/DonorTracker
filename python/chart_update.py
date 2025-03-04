@@ -109,7 +109,11 @@ def main(query_name, dac1_file, crs_file, imputed_multilateral_file, riomarkers_
 
             click.echo(f"Saving result to: {csv_path}")
 
-            data = result[(result["donor"] == donor) | (result["donor"] == 'DAC Average')]
+            # Force capital 'Donor'
+            if 'donor' in result.columns:
+                result.rename(columns={'donor': 'Donor'}, inplace=True)
+
+            data = result[(result["Donor"] == donor) | (result["Donor"] == 'DAC Average')]
 
             data.to_csv(csv_path, index=False)
         return #Stop execution
