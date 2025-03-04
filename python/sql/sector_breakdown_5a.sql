@@ -29,17 +29,16 @@ deflated AS (
         ms.donor_name,
         ms.year,
         ms.sector_renamed,
-        ms.usd_disbursement_defl * dfl.deflator AS total_oda
+        ms.usd_disbursement_defl * dfl.deflator / 100 AS total_oda
     FROM mapped_sectors ms
     INNER JOIN "{{deflator_file}}" dfl ON dfl.donor = ms.donor_name AND dfl.year = {{latest_year}}
-
 )
 
 SELECT
     year AS "Year",
     sector_renamed AS "Sector",
-    sum(total_oda) AS "Bilateral ODA for", 
-    sum(total_oda) * 100 / sum(sum(total_oda)) OVER (PARTITION BY donor_name, year) AS share,
+    round(sum(total_oda),2) AS "Bilateral ODA for", 
+    round(sum(total_oda) * 100 / sum(sum(total_oda)) OVER (PARTITION BY donor_name, year), 2) || '%' AS "Share",
     donor_name AS donor,
 FROM deflated
 GROUP BY year, sector_renamed, donor_name
