@@ -1,27 +1,27 @@
-Year,ODA,Share,Full Name,donor
-2019,0.0178,0.0011826299564154353,food and agricultural organisation,Australia
-2019,13.175699999999999,0.875391995322632,international bank for reconstruction and development,Australia
-2019,1.0462000000000002,0.0695094078877432,united nations children’s fund,Australia
-2019,0.0044,0.0002923354948442649,united nations development programme,Australia
-2019,0.8071,0.05362363133836505,asian development bank,Australia
-2020,0.004,0.00025244397321569443,united nations development programme,Australia
-2020,1.1053,0.06975658089882676,united nations children’s fund,Australia
-2020,0.0187,0.0011801755747833716,food and agricultural organisation,Australia
-2020,0.7472999999999999,0.047162845296022105,international bank for reconstruction and development,Australia
-2020,12.541500000000001,0.791506522521158,international development association,Australia
-2020,0.7746,0.04888577541321922,asian development bank,Australia
-2020,0.6537,0.04125565632277486,united nations population fund,Australia
-2021,0.3889,0.03272990464648506,united nations population fund,Australia
-2021,0.0219,0.0018431085414194464,food and agricultural organisation,Australia
-2021,1.1679,0.09829070618830006,united nations children’s fund,Australia
-2021,0.0016,0.00013465633179320156,united nations development programme,Australia
-2021,10.301799999999998,0.8670016242920023,international bank for reconstruction and development,Australia
-2022,0.0033,0.00036727062280194093,food and agricultural organisation,Australia
-2022,8.953800000000001,0.9965053643769755,international bank for reconstruction and development,Australia
-2022,0.0281,0.003127365000222588,united nations development programme,Australia
-2023,0.3703,0.03671789786812097,united nations population fund,Australia
-2023,0.0036,0.0003569657907783837,food and agricultural organisation,Australia
-2023,7.8271999999999995,0.7761229548834903,international bank for reconstruction and development,Australia
-2023,0.0251,0.0024888448190381754,united nations,Australia
-2023,1.8193000000000001,0.18039662865642042,united nations children’s fund,Australia
-2023,0.03949999999999999,0.003916707982151709,united nations development programme,Australia
+Year,Multi_short,ODA,Share,Full Name,donor
+2019,ADB,0.8071,0.05362363133836505,asian development bank,Australia
+2020,ADB,0.7746,0.04888577541321922,asian development bank,Australia
+2019,FAO,0.0178,0.0011826299564154353,food and agricultural organisation,Australia
+2020,FAO,0.0187,0.0011801755747833716,food and agricultural organisation,Australia
+2021,FAO,0.0219,0.0018431085414194464,food and agricultural organisation,Australia
+2022,FAO,0.0033,0.00036727062280194093,food and agricultural organisation,Australia
+2023,FAO,0.0036,0.0003569657907783837,food and agricultural organisation,Australia
+2019,IBRD,13.175699999999999,0.875391995322632,international bank for reconstruction and development,Australia
+2020,IBRD,0.7472999999999999,0.047162845296022105,international bank for reconstruction and development,Australia
+2021,IBRD,10.301799999999998,0.8670016242920023,international bank for reconstruction and development,Australia
+2022,IBRD,8.953800000000001,0.9965053643769755,international bank for reconstruction and development,Australia
+2023,IBRD,7.8271999999999995,0.7761229548834903,international bank for reconstruction and development,Australia
+2020,IDA,12.541500000000001,0.791506522521158,international development association,Australia
+2023,UN,0.0251,0.0024888448190381754,united nations,Australia
+2019,UNDP,0.0044,0.0002923354948442649,united nations development programme,Australia
+2020,UNDP,0.004,0.00025244397321569443,united nations development programme,Australia
+2021,UNDP,0.0016,0.00013465633179320156,united nations development programme,Australia
+2022,UNDP,0.0281,0.003127365000222588,united nations development programme,Australia
+2023,UNDP,0.03949999999999999,0.003916707982151709,united nations development programme,Australia
+2020,UNFPA,0.6537,0.04125565632277486,united nations population fund,Australia
+2021,UNFPA,0.3889,0.03272990464648506,united nations population fund,Australia
+2023,UNFPA,0.3703,0.03671789786812097,united nations population fund,Australia
+2019,,1.0462000000000002,0.0695094078877432,united nations children’s fund,Australia
+2020,,1.1053,0.06975658089882676,united nations children’s fund,Australia
+2021,,1.1679,0.09829070618830006,united nations children’s fund,Australia
+2023,,1.8193000000000001,0.18039662865642042,united nations children’s fund,Australia

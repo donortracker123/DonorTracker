@@ -25,7 +25,6 @@ year,Region,Bilateral ODA,share,donor
 2022,Oceania,12078.22414797,0.4%,EU Institutions
 2022,America,8457.21440748,0.3%,EU Institutions
 2022,Asia,6992.9557672500005,0.2%,EU Institutions
-2022,,0.0,0.0%,EU Institutions
 2021,Europe,629557.3887214506,25.9%,EU Institutions
 2021,South of Sahara,489926.63688327,20.1%,EU Institutions
 2021,North of Sahara,355914.3208719602,14.6%,EU Institutions
@@ -39,13 +38,12 @@ year,Region,Bilateral ODA,share,donor
 2021,Oceania,16268.046096510001,0.7%,EU Institutions
 2021,America,7147.375919369999,0.3%,EU Institutions
 2021,Asia,6714.882303389997,0.3%,EU Institutions
-2021,,0.0,0.0%,EU Institutions
 2020,Europe,607152.5890729198,23.6%,EU Institutions
 2020,South of Sahara,596992.3791138001,23.2%,EU Institutions
 2020,North of Sahara,295750.51644573,11.5%,EU Institutions
 2020,Regional and Unspecified,241991.07503336965,9.4%,EU Institutions
 2020,South & Central Asia,240036.43862988002,9.3%,EU Institutions
-2020,Middle East,185377.29346701002,7.2%,EU Institutions
+2020,Middle East,185377.2934670101,7.2%,EU Institutions
 2020,Africa,159126.45377408998,6.2%,EU Institutions
 2020,South America,78607.28218095002,3.1%,EU Institutions
 2020,Caribbean & Central America,69609.46340889002,2.7%,EU Institutions
@@ -53,7 +51,6 @@ year,Region,Bilateral ODA,share,donor
 2020,Oceania,14828.754432329999,0.6%,EU Institutions
 2020,Asia,10076.06429208,0.4%,EU Institutions
 2020,America,6112.108989810001,0.2%,EU Institutions
-2020,,0.0,0.0%,EU Institutions
 2019,South of Sahara,572447.5173005383,29.0%,EU Institutions
 2019,Europe,425240.4387858299,21.6%,EU Institutions
 2019,Regional and Unspecified,215217.2782452602,10.9%,EU Institutions
@@ -67,4 +64,3 @@ year,Region,Bilateral ODA,share,donor
 2019,Oceania,15868.39828184999,0.8%,EU Institutions
 2019,America,5242.992514289999,0.3%,EU Institutions
 2019,Asia,3747.885995700001,0.2%,EU Institutions
-2019,,0.0,0.0%,EU Institutions

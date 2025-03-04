@@ -1,34 +1,34 @@
 year,Sector,Bilateral ODA for,share,donor
-2023,Forestry development,42.9947738341,62.8668417274268,Finland
-2023,Research/scientific institutions,6.986855760500001,10.216161549368184,Finland
-2023,Agricultural development,3.1528538382000004,4.61009433380541,Finland
-2023,Rural development,2.6059046178000003,3.810346666693486,Finland
-2023,Agricultural alternative development,2.5356461053,3.707614860209629,Finland
-2023,Disaster Risk Reduction,2.1328130802,3.118593503119558,Finland
-2023,Household food security programmes,1.6022551841999997,2.34281318610311,Finland
-2023,Forestry policy and administrative management,1.1494486090999998,1.680720639697562,Finland
-2023,Agricultural financial services,0.910818997,1.3317970678873148,Finland
-2023,Agricultural co-operatives,0.49772151219999994,0.7277670456541875,Finland
-2023,Forestry education/training,0.4677255605,0.6839070464072138,Finland
-2023,Fishery research,0.4617932165,0.6752327890949248,Finland
-2023,Forestry research,0.46086467569999995,0.6738750792547404,Finland
-2023,Food crop production,0.35318510919999996,0.5164263090727136,Finland
-2023,Industrial crops/export crops,0.344785254,0.5041440635740089,Finland
-2023,Agricultural water resources,0.3108913654,0.45458451156042784,Finland
-2023,Agricultural extension,0.2873844523,0.42021276696048293,Finland
-2023,Agricultural land resources,0.27433222079999997,0.40112782945002123,Finland
-2023,Fishery development,0.2742301243,0.40097854422453805,Finland
-2023,Multisector education/training,0.2164177125,0.31644539243880077,Finland
-2023,Agricultural education/training,0.15642043560000002,0.22871753682772228,Finland
-2023,Agricultural inputs,0.1052442963,0.15388792469839513,Finland
-2023,Food security policy and administrative management,0.027034078500000003,0.039529156284533996,Finland
-2023,Fishery services,0.0201624467,0.029481474897799332,Finland
-2023,Fishery education/training,0.0201624467,0.029481474897799332,Finland
-2023,Agrarian reform,0.019383289199999997,0.02834219291384834,Finland
-2023,Forestry services,0.017334910999999998,0.025347059863626842,Finland
-2023,Fuelwood/charcoal,0.0031510204,0.0046074134854404165,Finland
-2023,Agricultural services,0.0005029596000000001,0.0007354261634331907,Finland
-2023,Food safety and quality,0.00012681459999999998,0.0001854279642844369,Finland
+2023,Forestry development,42.9947738341,62.866841727426795,Finland
+2023,Research/scientific institutions,6.986855760500001,10.216161549368183,Finland
+2023,Agricultural development,3.1528538382000004,4.610094333805409,Finland
+2023,Rural development,2.6059046178000003,3.8103466666934853,Finland
+2023,Agricultural alternative development,2.5356461053,3.7076148602096284,Finland
+2023,Disaster Risk Reduction,2.1328130802,3.1185935031195577,Finland
+2023,Household food security programmes,1.6022551841999997,2.3428131861031094,Finland
+2023,Forestry policy and administrative management,1.1494486090999998,1.6807206396975618,Finland
+2023,Agricultural financial services,0.910818997,1.3317970678873146,Finland
+2023,Agricultural co-operatives,0.49772151219999994,0.7277670456541874,Finland
+2023,Forestry education/training,0.4677255605,0.6839070464072137,Finland
+2023,Fishery research,0.4617932165,0.6752327890949247,Finland
+2023,Forestry research,0.46086467569999995,0.6738750792547402,Finland
+2023,Food crop production,0.35318510919999996,0.5164263090727135,Finland
+2023,Industrial crops/export crops,0.344785254,0.5041440635740088,Finland
+2023,Agricultural water resources,0.3108913654,0.4545845115604278,Finland
+2023,Agricultural extension,0.2873844523,0.4202127669604829,Finland
+2023,Agricultural land resources,0.27433222079999997,0.4011278294500211,Finland
+2023,Fishery development,0.2742301243,0.40097854422453794,Finland
+2023,Multisector education/training,0.2164177125,0.3164453924388007,Finland
+2023,Agricultural education/training,0.15642043560000002,0.22871753682772222,Finland
+2023,Agricultural inputs,0.1052442963,0.1538879246983951,Finland
+2023,Food security policy and administrative management,0.027034078500000003,0.03952915628453399,Finland
+2023,Fishery education/training,0.0201624467,0.029481474897799325,Finland
+2023,Fishery services,0.0201624467,0.029481474897799325,Finland
+2023,Agrarian reform,0.019383289199999997,0.028342192913848333,Finland
+2023,Forestry services,0.017334910999999998,0.025347059863626835,Finland
+2023,Fuelwood/charcoal,0.0031510204,0.004607413485440416,Finland
+2023,Agricultural services,0.0005029596000000001,0.0007354261634331904,Finland
+2023,Food safety and quality,0.00012681459999999998,0.00018542796428443686,Finland
 2022,Forestry development,11.001613625200001,19.25529022608345,Finland
 2022,Agricultural development,9.4663616872,16.56825515618845,Finland
 2022,Research/scientific institutions,7.8219449473,13.690157210003862,Finland
@@ -58,7 +58,7 @@ year,Sector,Bilateral ODA for,share,donor
 2022,Livestock/veterinary services,0.0,0.0,Finland
 2022,Forestry services,0.0,0.0,Finland
 2022,Fishing policy and administrative management,,,Finland
-2021,Forestry development,8.3916219233,27.29351714830922,Finland
+2021,Forestry development,8.391621923300002,27.293517148309228,Finland
 2021,Research/scientific institutions,5.7748112499,18.782413139915707,Finland
 2021,Agricultural development,5.0761509293,16.51003985910893,Finland
 2021,Rural development,2.8051239062,9.123587565881902,Finland
@@ -86,31 +86,31 @@ year,Sector,Bilateral ODA for,share,donor
 2021,Agricultural services,0.00029769190000000003,0.0009682346335221427,Finland
 2021,Agricultural policy and administrative management,0.0,0.0,Finland
 2020,Forestry development,19.8668923783,39.88875548993977,Finland
-2020,Research/scientific institutions,9.349786828800001,18.772506217652136,Finland
-2020,Rural development,4.4919676527,9.018974681867242,Finland
-2020,Forestry policy and administrative management,4.4882900293,9.01159074794374,Finland
-2020,Agricultural development,3.5874625182,7.2029088643026284,Finland
-2020,Disaster Risk Reduction,2.8021136715000003,5.626085095199236,Finland
-2020,Agricultural alternative development,0.7589466918,1.5238135105707638,Finland
-2020,Agricultural co-operatives,0.7249324368,1.4555196740193845,Finland
+2020,Research/scientific institutions,9.349786828800001,18.772506217652133,Finland
+2020,Rural development,4.4919676527,9.01897468186724,Finland
+2020,Forestry policy and administrative management,4.4882900293,9.011590747943739,Finland
+2020,Agricultural development,3.5874625182,7.202908864302628,Finland
+2020,Disaster Risk Reduction,2.8021136715000003,5.626085095199235,Finland
+2020,Agricultural alternative development,0.7589466918,1.5238135105707635,Finland
+2020,Agricultural co-operatives,0.7249324368,1.4555196740193843,Finland
 2020,Forestry research,0.5622894882,1.1289650883633775,Finland
-2020,Agricultural financial services,0.4926220607,0.9890867959639098,Finland
-2020,Food crop production,0.4624401859,0.9284876141089673,Finland
-2020,Agricultural inputs,0.3864374018999999,0.7758891900674652,Finland
-2020,Agricultural policy and administrative management,0.3122239934,0.6268834749630264,Finland
+2020,Agricultural financial services,0.4926220607,0.9890867959639096,Finland
+2020,Food crop production,0.4624401859,0.9284876141089672,Finland
+2020,Agricultural inputs,0.3864374018999999,0.775889190067465,Finland
+2020,Agricultural policy and administrative management,0.3122239934,0.6268834749630263,Finland
 2020,Industrial crops/export crops,0.30787898129999997,0.6181595577062419,Finland
-2020,Fishery research,0.2400783077,0.48202933463030484,Finland
-2020,Agricultural extension,0.1920349189,0.385567796899093,Finland
-2020,Fishery development,0.16511260919999998,0.3315131713240977,Finland
-2020,Agricultural land resources,0.143880836,0.2888840075039067,Finland
-2020,Agricultural water resources,0.1164372968,0.23378285710340055,Finland
-2020,Household food security programmes,0.1055118966,0.21184683364743465,Finland
+2020,Fishery research,0.2400783077,0.4820293346303048,Finland
+2020,Agricultural extension,0.1920349189,0.38556779689909293,Finland
+2020,Fishery development,0.16511260919999998,0.33151317132409763,Finland
+2020,Agricultural land resources,0.143880836,0.28888400750390664,Finland
+2020,Agricultural water resources,0.1164372968,0.2337828571034005,Finland
+2020,Household food security programmes,0.1055118966,0.21184683364743462,Finland
 2020,Multisector education/training,0.06570823270000001,0.131929019291876,Finland
-2020,Fuelwood/charcoal,0.0632751119,0.12704379825072837,Finland
-2020,Agricultural education/training,0.052127248800000005,0.10466111368366814,Finland
-2020,Forestry education/training,0.0395220925,0.07935247517146825,Finland
-2020,Plant and post-harvest protection and pest control,0.0189824261,0.03811292369690397,Finland
-2020,Fishery services,0.008791046,0.017650666129234813,Finland
+2020,Fuelwood/charcoal,0.0632751119,0.12704379825072834,Finland
+2020,Agricultural education/training,0.052127248800000005,0.10466111368366812,Finland
+2020,Forestry education/training,0.0395220925,0.07935247517146823,Finland
+2020,Plant and post-harvest protection and pest control,0.0189824261,0.038112923696903965,Finland
+2020,Fishery services,0.008791046,0.01765066612923481,Finland
 2020,Food security policy and administrative management,0.0,0.0,Finland
 2019,Forestry development,28.439778577099997,41.03270108513638,Finland
 2019,Research/scientific institutions,12.8642374531,18.560426153468796,Finland

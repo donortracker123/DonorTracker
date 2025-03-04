@@ -10,6 +10,7 @@ WITH base AS (
     AND flow_name IN (
         'ODA Loans','Equity Investment','ODA Grants'
     )
+    AND incomegroup_name IS NOT NULL 
 ), 
 
 deflated AS (

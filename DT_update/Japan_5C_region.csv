@@ -1,10 +1,10 @@
 year,Region,Bilateral ODA,share,donor
 2023,South & Central Asia,703894.8266103211,34.5%,Japan
-2023,Far East Asia,373350.98382578,18.3%,Japan
-2023,Regional and Unspecified,313425.5141359798,15.4%,Japan
+2023,Far East Asia,373350.9838257799,18.3%,Japan
+2023,Regional and Unspecified,313425.51413597976,15.4%,Japan
 2023,Middle East,156394.7101938,7.7%,Japan
 2023,South of Sahara,153058.65597197987,7.5%,Japan
-2023,Europe,112978.02741780001,5.5%,Japan
+2023,Europe,112978.02741780003,5.5%,Japan
 2023,North of Sahara,72495.42913957995,3.6%,Japan
 2023,South America,48407.64175525997,2.4%,Japan
 2023,Caribbean & Central America,39641.41111112002,1.9%,Japan
@@ -12,7 +12,6 @@ year,Region,Bilateral ODA,share,donor
 2023,Oceania,24088.6862612,1.2%,Japan
 2023,Asia,6517.426294319998,0.3%,Japan
 2023,America,1226.4392721999998,0.1%,Japan
-2023,,0.0,0.0%,Japan
 2022,South & Central Asia,708109.5452784799,37.2%,Japan
 2022,Far East Asia,360399.10007111996,19.0%,Japan
 2022,Regional and Unspecified,254844.18808283965,13.4%,Japan
@@ -26,7 +25,6 @@ year,Region,Bilateral ODA,share,donor
 2022,Africa,17176.156233140002,0.9%,Japan
 2022,Asia,11420.735773519995,0.6%,Japan
 2022,America,1519.7694042800001,0.1%,Japan
-2022,,0.0,0.0%,Japan
 2021,South & Central Asia,561625.5597480827,38.9%,Japan
 2021,Far East Asia,283753.78893821925,19.7%,Japan
 2021,Regional and Unspecified,180232.2387912401,12.5%,Japan
@@ -40,7 +38,6 @@ year,Region,Bilateral ODA,share,donor
 2021,Europe,16286.41741837994,1.1%,Japan
 2021,Africa,3206.1789056199996,0.2%,Japan
 2021,America,2599.9101709599995,0.2%,Japan
-2021,,0.0,0.0%,Japan
 2020,South & Central Asia,479128.05956698186,36.1%,Japan
 2020,Far East Asia,321097.7042437804,24.2%,Japan
 2020,Regional and Unspecified,186166.4108521799,14.0%,Japan
@@ -54,7 +51,6 @@ year,Region,Bilateral ODA,share,donor
 2020,Europe,10820.835471179997,0.8%,Japan
 2020,America,1328.4902631599998,0.1%,Japan
 2020,Africa,739.0064373399999,0.1%,Japan
-2020,,0.0,0.0%,Japan
 2019,South & Central Asia,478725.0994711595,40.2%,Japan
 2019,Far East Asia,246943.90612716036,20.7%,Japan
 2019,Regional and Unspecified,156980.07916961992,13.2%,Japan
@@ -68,4 +64,3 @@ year,Region,Bilateral ODA,share,donor
 2019,Asia,12895.707241539994,1.1%,Japan
 2019,Africa,9080.3789158,0.8%,Japan
 2019,America,1057.6953733599998,0.1%,Japan
-2019,,0.0,0.0%,Japan

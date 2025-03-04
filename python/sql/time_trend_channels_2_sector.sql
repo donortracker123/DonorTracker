@@ -27,9 +27,10 @@ transformed AS (
                 ELSE 0
             END
         ) AS earmarked,
+        --Public sector; NGOs and civil society; Public-private partnerships; Teaching Institutions, research
         sum(
             CASE
-                WHEN channel_name_mapped != 'Multilateral Organisations' THEN usd_disbursement_defl
+                WHEN channel_name_mapped IN ('Public Sector', 'NGOs & Civil Society', 'Public-Private Partnerships (PPP)', 'Teaching institutions, research institutes or think-thanks') THEN usd_disbursement_defl
                 ELSE 0
             END
         ) AS bilateral
@@ -66,7 +67,6 @@ dac1_totals AS (
     AND "Aid type" = 'I. Official Development Assistance (ODA) (I.A + I.B)'
     GROUP BY 1,2
 )
-
 
 SELECT 
     t.year,
