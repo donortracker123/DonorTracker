@@ -3,7 +3,7 @@ import duckdb
 import pandas as pd
 from pathlib import Path
 from jinja2 import Template
-from config import DAC_COUNTRIES, SECTOR_MAPPING, projection_file, deflator_file, dt_sector_file, dt_regions_file, dt_channels_file, dt_multilaterals_file
+from config import DAC_COUNTRIES, SECTOR_MAPPING, projection_file, deflator_file, dt_sector_file, dt_regions_file, dt_channels_file
 
 pd.options.display.max_colwidth=100
 
@@ -83,7 +83,6 @@ def main(query_name, dac1_file, crs_file, imputed_multilateral_file, riomarkers_
                                 dt_sector_file=dt_sector_file, 
                                 dt_regions_file=dt_regions_file,
                                 dt_channels_file=dt_channels_file,
-                                dt_multilaterals_file=dt_multilaterals_file,
                                 sector=SECTOR_MAPPING.get(sector))
 
     # Run query

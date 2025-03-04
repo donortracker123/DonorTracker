@@ -1,17 +1,17 @@
 year,Sector,Bilateral ODA for,share,donor
 2023,Education policy and administrative management,11.2932968775,20.781774385890664,Finland
-2023,Primary education,10.7181894424,19.723469349412934,Finland
-2023,Teacher training,6.2624681966,11.52411050309403,Finland
-2023,Vocational training,5.657176737299999,10.410261227605599,Finland
-2023,School feeding,4.661135105,8.57735869206231,Finland
-2023,Higher education,4.1135894261,7.569772431973831,Finland
-2023,Basic life skills for adults,3.3319278751000003,6.131369264571809,Finland
-2023,Upper Secondary Education (modified and includes data from 11322),3.1122742408999993,5.727165574675022,Finland
+2023,Primary education,10.7181894424,19.723469349412937,Finland
+2023,Teacher training,6.2624681966,11.524110503094033,Finland
+2023,Vocational training,5.657176737299999,10.4102612276056,Finland
+2023,School feeding,4.661135105,8.577358692062312,Finland
+2023,Higher education,4.113589426099999,7.56977243197383,Finland
+2023,Basic life skills for adults,3.3319278751000003,6.13136926457181,Finland
+2023,Upper Secondary Education (modified and includes data from 11322),3.1122742408999993,5.7271655746750225,Finland
 2023,Education facilities and training,2.4743699354,4.553302574305203,Finland
 2023,Early childhood education,1.2066183502999999,2.220403005234836,Finland
-2023,Advanced technical and managerial training,0.7156943156000001,1.3170111400946505,Finland
+2023,Advanced technical and managerial training,0.7156943156000001,1.3170111400946507,Finland
 2023,Basic life skills for youth,0.551944426,1.0156807758711048,Finland
-2023,Educational research,0.24362804180000003,0.4483210752079992,Finland
+2023,Educational research,0.24362804180000003,0.44832107520799924,Finland
 2022,Primary education,21.833021637899996,35.83076906145215,Finland
 2022,Education policy and administrative management,11.736445123699998,19.261001147899243,Finland
 2022,Teacher training,6.2068406499,10.18621598128877,Finland
@@ -25,30 +25,30 @@ year,Sector,Bilateral ODA for,share,donor
 2022,Basic life skills for youth,0.3389700523,0.5562930254979527,Finland
 2022,Advanced technical and managerial training,0.2925505352,0.4801126861597187,Finland
 2022,Educational research,0.10068219479999999,0.16523230409008682,Finland
-2021,Primary education,33.17175683140001,33.194626546467944,Finland
-2021,Education policy and administrative management,29.867748587600005,29.88834040923281,Finland
-2021,Teacher training,7.721809774800001,7.727133447895039,Finland
-2021,School feeding,5.954901953,5.959007460936006,Finland
-2021,Upper Secondary Education (modified and includes data from 11322),5.8059001715,5.809902952640291,Finland
-2021,Vocational training,5.1384222714000005,5.141964871023015,Finland
-2021,Basic life skills for adults,4.7236106400999995,4.726867254755051,Finland
-2021,Education facilities and training,2.7634663848,2.7653716106564845,Finland
-2021,Higher education,2.2689055652999994,2.270469824439429,Finland
-2021,Basic life skills for youth,1.3333211815000001,1.3342404175739266,Finland
-2021,Advanced technical and managerial training,0.5884369392,0.5888426272436977,Finland
-2021,Early childhood education,0.47569983450000003,0.4760277978251918,Finland
-2021,Educational research,0.1171240301,0.1172047793111319,Finland
-2020,Education policy and administrative management,24.1406819599,33.710806173103705,Finland
-2020,Primary education,16.8350304155,23.508964999329166,Finland
-2020,Teacher training,8.702319842699998,12.152192633203855,Finland
-2020,Upper Secondary Education (modified and includes data from 11322),7.4549950805,10.410389176148122,Finland
-2020,Basic life skills for adults,4.666771906499999,6.516826801141406,Finland
-2020,Vocational training,4.222678999,5.896681523039885,Finland
-2020,Education facilities and training,2.2079281620000004,3.0832202021863453,Finland
-2020,Higher education,1.6959281856000001,2.3682473611653463,Finland
-2020,Advanced technical and managerial training,0.8001754079,1.117390060687119,Finland
-2020,Early childhood education,0.6934523244,0.9683585963713791,Finland
-2020,Educational research,0.19114614200000002,0.26692247362365945,Finland
+2021,Primary education,33.17175683140001,33.19462654646794,Finland
+2021,Education policy and administrative management,29.867748587600005,29.888340409232804,Finland
+2021,Teacher training,7.721809774800001,7.727133447895037,Finland
+2021,School feeding,5.954901953,5.959007460936005,Finland
+2021,Upper Secondary Education (modified and includes data from 11322),5.8059001715,5.809902952640289,Finland
+2021,Vocational training,5.1384222714000005,5.1419648710230135,Finland
+2021,Basic life skills for adults,4.7236106400999995,4.726867254755049,Finland
+2021,Education facilities and training,2.7634663848,2.7653716106564836,Finland
+2021,Higher education,2.2689055652999994,2.2704698244394286,Finland
+2021,Basic life skills for youth,1.3333211815000001,1.3342404175739264,Finland
+2021,Advanced technical and managerial training,0.5884369392,0.5888426272436976,Finland
+2021,Early childhood education,0.47569983450000003,0.4760277978251916,Finland
+2021,Educational research,0.1171240301,0.11720477931113187,Finland
+2020,Education policy and administrative management,24.1406819599,33.71080617310371,Finland
+2020,Primary education,16.8350304155,23.508964999329173,Finland
+2020,Teacher training,8.702319842699998,12.152192633203859,Finland
+2020,Upper Secondary Education (modified and includes data from 11322),7.4549950805,10.410389176148124,Finland
+2020,Basic life skills for adults,4.666771906499999,6.5168268011414066,Finland
+2020,Vocational training,4.222678999,5.896681523039886,Finland
+2020,Education facilities and training,2.2079281620000004,3.083220202186346,Finland
+2020,Higher education,1.6959281856000001,2.368247361165347,Finland
+2020,Advanced technical and managerial training,0.8001754079,1.1173900606871192,Finland
+2020,Early childhood education,0.6934523244,0.9683585963713793,Finland
+2020,Educational research,0.19114614200000002,0.2669224736236595,Finland
 2019,Primary education,17.875755924400003,31.13256585880071,Finland
 2019,Education policy and administrative management,11.831164882900001,20.60525560211114,Finland
 2019,Teacher training,7.810549903200001,13.602918963718468,Finland
