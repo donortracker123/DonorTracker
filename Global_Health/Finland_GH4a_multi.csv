@@ -1,86 +1,86 @@
-Year,Multi_short,ODA,Share,Full Name,donor
-2019,ADB,0.0607,0.0018518123049419287,asian development bank,Finland
-2020,ADB,0.1738,0.0033859869236224217,asian development bank,Finland
-2019,ADF,0.3028,0.00923770619335117,african development fund,Finland
-2020,ADF,0.5645,0.010997638770914022,african development fund,Finland
-2021,ADF,2.1762,0.049620243928577126,african development fund,Finland
-2022,ADF,0.6507,0.011870296894239978,african development fund,Finland
-2023,ADF,1.6950999999999998,0.026409144659046115,african development fund,Finland
-2020,AIIB,1.7941,0.034952814382456766,asian infrastructure investment bank,Finland
-2021,AfDB,0.0002,4.560265042604276e-06,african development bank,Finland
-2022,AfDB,0.009,0.00016418114653167328,african development bank,Finland
-2023,AfDB,0.0221,0.0003443113072768092,african development bank,Finland
-2019,EC-DSB,4.8616,0.1483158270462221,european commission development share of budget,Finland
-2020,EC-DSB,5.306900000000001,0.1033894936994927,european commission development share of budget,Finland
-2021,EC-DSB,12.1347,0.2766872410624505,european commission development share of budget,Finland
-2022,EC-DSB,19.3334,0.35268664203949474,european commission development share of budget,Finland
-2023,EC-DSB,20.540900000000004,0.32002100143177425,european commission development share of budget,Finland
-2019,EC-EDF,6.4714,0.1974269876474662,european commission european development fund,Finland
-2020,EC-EDF,5.9589,0.1160918151851188,european commission european development fund,Finland
-2021,EC-EDF,3.960300000000001,0.09030008824112859,european commission european development fund,Finland
-2022,EC-EDF,1.4380999999999997,0.026234322980799925,european commission european development fund,Finland
-2023,EC-EDF,0.33550000000000013,0.005226988397799526,european commission european development fund,Finland
-2019,FAO,0.17690000000000003,0.005396797310448554,food and agricultural organisation,Finland
-2020,FAO,0.0886,0.0017261130116970457,food and agricultural organisation,Finland
-2021,FAO,0.08330000000000001,0.0018993503902446811,food and agricultural organisation,Finland
-2022,FAO,0.0731,0.0013335157568294797,food and agricultural organisation,Finland
-2023,FAO,0.08510000000000001,0.001325832228473143,food and agricultural organisation,Finland
-2020,GAVI,2.8512,0.05554732978499567,global alliance for vaccines and immunization,Finland
-2022,GCF,0.0023,4.195740411364984e-05,green climate fund,Finland
-2023,GCF,0.0051,7.945645552541751e-05,green climate fund,Finland
-2019,GEF-TF,0.0040999999999999995,0.00012508122652820275,global environment facility trust fund,Finland
-2020,GEF-TF,0.043699999999999996,0.0008513672529476398,global environment facility trust fund,Finland
-2021,GEF-TF,0.2043,0.004658310741020268,global environment facility trust fund,Finland
-2022,GEF-TF,0.2011,0.0036685365075021666,global environment facility trust fund,Finland
-2023,GEF-TF,0.18779999999999997,0.0029258671269947853,global environment facility trust fund,Finland
-2020,IBRD,0.6763000000000001,0.013175736228111877,international bank for reconstruction and development,Finland
-2021,IBRD,0.9140999999999999,0.02084269137722284,international bank for reconstruction and development,Finland
-2022,IBRD,1.3016999999999999,0.023746066493364346,international bank for reconstruction and development,Finland
-2023,IBRD,1.1581000000000001,0.018042847283134513,international bank for reconstruction and development,Finland
-2019,IDA,6.11,0.18640153514324853,international development association,Finland
-2020,IDA,5.877700000000002,0.11450986962586601,international development association,Finland
-2021,IDA,6.553699999999999,0.14943304504857818,international development association,Finland
-2022,IDA,8.444799999999999,0.1540529940256305,international development association,Finland
-2023,IDA,15.8407,0.24679330883166295,international development association,Finland
-2022,IFC,0.0085,0.00015505997172435813,international finance corporation,Finland
-2023,IFC,0.0058,9.03622435387101e-05,international finance corporation,Finland
-2019,UN,0.0027,8.237056381125548e-05,united nations,Finland
-2020,UN,0.0024,4.675701160353171e-05,united nations,Finland
-2021,UN,0.011000000000000001,0.0002508145773432352,united nations,Finland
-2022,UN,0.0246,0.00044876180051990703,united nations,Finland
-2023,UN,0.0347,0.0005406154915160759,united nations,Finland
-2019,UNDP,0.0167,0.0005094771909807283,united nations development programme,Finland
-2020,UNDP,0.0605,0.001178666334172362,united nations development programme,Finland
-2021,UNDP,0.09190000000000001,0.002095441787076665,united nations development programme,Finland
-2022,UNDP,0.0876,0.00159802982624162,united nations development programme,Finland
-2023,UNDP,0.0754,0.0011747091660032313,united nations development programme,Finland
-2019,UNFPA,9.101299999999998,0.27765896756125164,united nations population fund,Finland
-2020,UNFPA,11.958399999999997,0.23297460314986396,united nations population fund,Finland
-2021,UNFPA,11.3201,0.2581132815439233,united nations population fund,Finland
-2022,UNFPA,17.439799999999998,0.3181429288092306,united nations population fund,Finland
-2023,UNFPA,19.8644,0.309481336301785,united nations population fund,Finland
-2019,UNRWA,0.9594,0.02926900700759945,united nations relief and works agency for palestine refugees in the near east,Finland
-2020,UNRWA,1.6234,0.03162722193215557,united nations relief and works agency for palestine refugees in the near east,Finland
-2021,UNRWA,1.4197,0.03237104140492645,united nations relief and works agency for palestine refugees in the near east,Finland
-2022,UNRWA,1.23,0.02243809002599535,united nations relief and works agency for palestine refugees in the near east,Finland
-2023,UNRWA,0.7834,0.012205134756590602,united nations relief and works agency for palestine refugees in the near east,Finland
-2019,WFP,0.2591,0.007904523364257886,world food programme,Finland
-2020,WFP,0.2106,0.004102927768209908,world food programme,Finland
-2021,WFP,0.1744,0.003976551117150929,world food programme,Finland
-2022,WFP,0.198,0.0036119852236968127,world food programme,Finland
-2023,WFP,0.1892,0.002947678703021371,world food programme,Finland
-2019,WHO-AC,1.5476,0.04721358687196259,world health organisation assessed contributions,Finland
-2020,WHO-AC,6.4898,0.12643485579358338,world health organisation assessed contributions,Finland
-2021,WHO-AC,1.2338,0.02813227504782578,world health organisation assessed contributions,Finland
-2022,WHO-AC,1.1728999999999998,0.021396451862999953,world health organisation assessed contributions,Finland
-2023,WHO-AC,1.1738000000000002,0.018287448528575504,world health organisation assessed contributions,Finland
-2019,WHO-CVCA,1.5411000000000001,0.04701528736649105,world health organisation core voluntary contributions account,Finland
-2020,WHO-CVCA,6.3004999999999995,0.12274689650335481,world health organisation core voluntary contributions account,Finland
-2021,WHO-CVCA,2.2136,0.05047301349154413,world health organisation core voluntary contributions account,Finland
-2022,WHO-CVCA,1.9939999999999996,0.03637524513157294,world health organisation core voluntary contributions account,Finland
-2023,WHO-CVCA,1.1391,0.017746833037059425,world health organisation core voluntary contributions account,Finland
-2019,,1.3633,0.04159103320143874,united nations children’s fund,Finland
-2020,,1.3478999999999999,0.026259906641833496,united nations children’s fund,Finland
-2021,,1.3657999999999997,0.031142049975944594,united nations children’s fund,Finland
-2022,,1.2079,0.02203493409951202,united nations children’s fund,Finland
-2023,,1.0499,0.016357124050222712,united nations children’s fund,Finland
+Year,ODA,Share,Full Name,donor
+2019,6.4714,0.1974269876474662,european commission european development fund,Finland
+2019,0.2591,0.007904523364257886,world food programme,Finland
+2019,0.17690000000000003,0.005396797310448554,food and agricultural organisation,Finland
+2019,0.0027,8.237056381125548e-05,united nations,Finland
+2019,1.3633,0.04159103320143874,united nations children’s fund,Finland
+2019,1.5411000000000001,0.04701528736649105,world health organisation core voluntary contributions account,Finland
+2019,1.5476,0.04721358687196259,world health organisation assessed contributions,Finland
+2019,0.0607,0.0018518123049419287,asian development bank,Finland
+2019,0.9594,0.02926900700759945,united nations relief and works agency for palestine refugees in the near east,Finland
+2019,0.0040999999999999995,0.00012508122652820275,global environment facility trust fund,Finland
+2019,9.101299999999998,0.27765896756125164,united nations population fund,Finland
+2019,0.3028,0.00923770619335117,african development fund,Finland
+2019,0.0167,0.0005094771909807283,united nations development programme,Finland
+2019,6.11,0.18640153514324853,international development association,Finland
+2019,4.8616,0.1483158270462221,european commission development share of budget,Finland
+2020,0.0024,4.675701160353171e-05,united nations,Finland
+2020,6.4898,0.12643485579358338,world health organisation assessed contributions,Finland
+2020,0.043699999999999996,0.0008513672529476398,global environment facility trust fund,Finland
+2020,0.2106,0.004102927768209908,world food programme,Finland
+2020,1.7941,0.034952814382456766,asian infrastructure investment bank,Finland
+2020,0.5645,0.010997638770914022,african development fund,Finland
+2020,1.6234,0.03162722193215557,united nations relief and works agency for palestine refugees in the near east,Finland
+2020,0.1738,0.0033859869236224217,asian development bank,Finland
+2020,11.958399999999997,0.23297460314986396,united nations population fund,Finland
+2020,5.877700000000002,0.11450986962586601,international development association,Finland
+2020,0.0605,0.001178666334172362,united nations development programme,Finland
+2020,1.3478999999999999,0.026259906641833496,united nations children’s fund,Finland
+2020,0.6763000000000001,0.013175736228111877,international bank for reconstruction and development,Finland
+2020,5.306900000000001,0.1033894936994927,european commission development share of budget,Finland
+2020,0.0886,0.0017261130116970457,food and agricultural organisation,Finland
+2020,6.3004999999999995,0.12274689650335481,world health organisation core voluntary contributions account,Finland
+2020,2.8512,0.05554732978499567,global alliance for vaccines and immunization,Finland
+2020,5.9589,0.1160918151851188,european commission european development fund,Finland
+2021,0.09190000000000001,0.002095441787076665,united nations development programme,Finland
+2021,6.553699999999999,0.14943304504857818,international development association,Finland
+2021,0.1744,0.003976551117150929,world food programme,Finland
+2021,2.2136,0.05047301349154413,world health organisation core voluntary contributions account,Finland
+2021,12.1347,0.2766872410624505,european commission development share of budget,Finland
+2021,2.1762,0.049620243928577126,african development fund,Finland
+2021,11.3201,0.2581132815439233,united nations population fund,Finland
+2021,1.4197,0.03237104140492645,united nations relief and works agency for palestine refugees in the near east,Finland
+2021,1.2338,0.02813227504782578,world health organisation assessed contributions,Finland
+2021,0.08330000000000001,0.0018993503902446811,food and agricultural organisation,Finland
+2021,1.3657999999999997,0.031142049975944594,united nations children’s fund,Finland
+2021,0.9140999999999999,0.02084269137722284,international bank for reconstruction and development,Finland
+2021,0.0002,4.560265042604276e-06,african development bank,Finland
+2021,3.960300000000001,0.09030008824112859,european commission european development fund,Finland
+2021,0.011000000000000001,0.0002508145773432352,united nations,Finland
+2021,0.2043,0.004658310741020268,global environment facility trust fund,Finland
+2022,0.0731,0.0013335157568294795,food and agricultural organisation,Finland
+2022,1.3016999999999999,0.023746066493364342,international bank for reconstruction and development,Finland
+2022,1.2079,0.022034934099512016,united nations children’s fund,Finland
+2022,1.23,0.022438090025995346,united nations relief and works agency for palestine refugees in the near east,Finland
+2022,1.1728999999999998,0.02139645186299995,world health organisation assessed contributions,Finland
+2022,0.6507,0.011870296894239976,african development fund,Finland
+2022,19.3334,0.3526866420394947,european commission development share of budget,Finland
+2022,0.0023,4.1957404113649836e-05,green climate fund,Finland
+2022,0.198,0.0036119852236968122,world food programme,Finland
+2022,17.439799999999998,0.31814292880923056,united nations population fund,Finland
+2022,0.2011,0.003668536507502166,global environment facility trust fund,Finland
+2022,0.0085,0.0001550599717243581,international finance corporation,Finland
+2022,8.444799999999999,0.15405299402563047,international development association,Finland
+2022,0.009,0.00016418114653167325,african development bank,Finland
+2022,1.4380999999999997,0.02623432298079992,european commission european development fund,Finland
+2022,0.0246,0.0004487618005199069,united nations,Finland
+2022,0.0876,0.0015980298262416198,united nations development programme,Finland
+2022,1.9939999999999996,0.036375245131572934,world health organisation core voluntary contributions account,Finland
+2023,0.0051,7.94564555254175e-05,green climate fund,Finland
+2023,0.33550000000000013,0.005226988397799524,european commission european development fund,Finland
+2023,1.1391,0.01774683303705942,world health organisation core voluntary contributions account,Finland
+2023,1.1581000000000001,0.01804284728313451,international bank for reconstruction and development,Finland
+2023,1.1738000000000002,0.0182874485285755,world health organisation assessed contributions,Finland
+2023,0.0058,9.036224353871007e-05,international finance corporation,Finland
+2023,0.7834,0.012205134756590599,united nations relief and works agency for palestine refugees in the near east,Finland
+2023,0.08510000000000001,0.0013258322284731428,food and agricultural organisation,Finland
+2023,0.1892,0.0029476787030213703,world food programme,Finland
+2023,0.18779999999999997,0.0029258671269947844,global environment facility trust fund,Finland
+2023,0.0221,0.0003443113072768091,african development bank,Finland
+2023,1.0499,0.01635712405022271,united nations children’s fund,Finland
+2023,15.8407,0.2467933088316629,international development association,Finland
+2023,0.0347,0.0005406154915160758,united nations,Finland
+2023,1.6950999999999998,0.026409144659046112,african development fund,Finland
+2023,19.8644,0.3094813363017849,united nations population fund,Finland
+2023,0.0754,0.001174709166003231,united nations development programme,Finland
+2023,20.540900000000004,0.3200210014317742,european commission development share of budget,Finland

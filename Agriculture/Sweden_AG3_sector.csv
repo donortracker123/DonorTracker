@@ -55,8 +55,8 @@ year,Sector,Bilateral ODA for,share,donor
 2022,Agricultural financial services,0.37933438140000003,0.16093151968698202,Sweden
 2022,Agricultural land resources,0.3061122012,0.1298672204508041,Sweden
 2022,Agricultural alternative development,0.102899043,0.04365462287707652,Sweden
-2022,Industrial crops/export crops,0.0,0.0,Sweden
 2022,Livestock/veterinary services,0.0,0.0,Sweden
+2022,Industrial crops/export crops,0.0,0.0,Sweden
 2021,Agricultural development,66.67665600960001,22.665794218386736,Sweden
 2021,Research/scientific institutions,61.47364511340001,20.89710362490056,Sweden
 2021,Rural development,33.78182675400003,11.483658289898537,Sweden
@@ -82,50 +82,50 @@ year,Sector,Bilateral ODA for,share,donor
 2021,Plant and post-harvest protection and pest control,0.42993416700000003,0.14615009119942182,Sweden
 2021,Agricultural alternative development,0.15818470199999998,0.05377267125562821,Sweden
 2021,Agricultural services,0.07625687939999999,0.02592245681858848,Sweden
-2020,Agricultural development,57.632609431800006,21.61622301028031,Sweden
-2020,Research/scientific institutions,46.2710155986,17.354837859200117,Sweden
-2020,Rural development,40.516524594,15.196504892977515,Sweden
-2020,Disaster Risk Reduction,32.0916462048,12.036591574963614,Sweden
-2020,Agricultural research,29.424820768200004,11.036347200548287,Sweden
-2020,Forestry development,11.876807475000001,4.454625975830049,Sweden
-2020,Forestry policy and administrative management,10.021293172800002,3.758679508186876,Sweden
-2020,Agricultural policy and administrative management,8.0430063714,3.016684844072967,Sweden
-2020,Agricultural co-operatives,6.493374856800001,2.43546562228862,Sweden
-2020,Agricultural financial services,5.4525806946,2.0450956747932474,Sweden
-2020,Multisector education/training,5.186223455400001,1.9451932490708255,Sweden
-2020,Agricultural water resources,4.107825586800001,1.5407193053904913,Sweden
-2020,Food crop production,2.1644579502,0.8118217482979603,Sweden
-2020,Food security policy and administrative management,2.142813582,0.8037036100678757,Sweden
-2020,Livestock,1.8084120678,0.6782798651222904,Sweden
-2020,Agricultural education/training,1.4068980198,0.5276842684818327,Sweden
-2020,Forestry research,0.6620453892,0.24831290682421664,Sweden
-2020,Fishery research,0.4050780084,0.15193232880590604,Sweden
-2020,Agricultural services,0.31086649619999995,0.11659648200096744,Sweden
-2020,Fishery development,0.2943668286000001,0.11040796307126062,Sweden
-2020,Plant and post-harvest protection and pest control,0.24856158600000006,0.09322782236891608,Sweden
-2020,Fishing policy and administrative management,0.029105341200000003,0.010916520219581697,Sweden
-2020,Livestock/veterinary services,0.0270557118,0.010147767136290266,Sweden
-2019,Agricultural development,62.88644650860001,21.91129757084622,Sweden
-2019,Research/scientific institutions,58.91999906520001,20.529282604877768,Sweden
-2019,Rural development,34.327602714600005,11.96064270972168,Sweden
-2019,Disaster Risk Reduction,27.379612611000006,9.539779596420235,Sweden
-2019,Agricultural research,26.890172782200004,9.369245843485183,Sweden
-2019,Forestry development,17.893537342200002,6.234580630126327,Sweden
-2019,Forestry policy and administrative management,15.3742329,5.356788476660477,Sweden
-2019,Agricultural policy and administrative management,10.378847348999999,3.616264319772425,Sweden
-2019,Agricultural water resources,6.1423961976,2.1401729363932565,Sweden
-2019,Multisector education/training,5.097874064399999,1.7762338596837717,Sweden
-2019,Agricultural co-operatives,3.9481215228000006,1.3756297316004793,Sweden
-2019,Agricultural financial services,3.8471131296000003,1.3404357417436097,Sweden
-2019,Fishing policy and administrative management,2.8697115797999997,0.9998832476390918,Sweden
-2019,Fishery development,2.2677564546,0.790146196098909,Sweden
-2019,Agricultural land resources,2.1013561296,0.7321679314745609,Sweden
-2019,Food crop production,1.8987507162000004,0.6615748585798378,Sweden
-2019,Food security policy and administrative management,1.7004568697999998,0.5924840494124936,Sweden
-2019,Livestock,1.6562897208000003,0.5770950491060038,Sweden
-2019,Agricultural services,0.8756264322,0.30509135723241754,Sweden
-2019,Fishery research,0.522283203,0.18197725126069378,Sweden
-2019,Agricultural inputs,0.026479159199999998,0.009226037864576531,Sweden
-2019,Livestock/veterinary services,,,Sweden
+2020,Agricultural development,57.632609431800006,21.616223010280315,Sweden
+2020,Research/scientific institutions,46.2710155986,17.35483785920012,Sweden
+2020,Rural development,40.516524594,15.196504892977519,Sweden
+2020,Disaster Risk Reduction,32.0916462048,12.036591574963616,Sweden
+2020,Agricultural research,29.424820768200004,11.036347200548288,Sweden
+2020,Forestry development,11.876807475000001,4.45462597583005,Sweden
+2020,Forestry policy and administrative management,10.021293172800002,3.758679508186877,Sweden
+2020,Agricultural policy and administrative management,8.0430063714,3.0166848440729677,Sweden
+2020,Agricultural co-operatives,6.493374856800001,2.4354656222886204,Sweden
+2020,Agricultural financial services,5.4525806946,2.045095674793248,Sweden
+2020,Multisector education/training,5.186223455400001,1.9451932490708257,Sweden
+2020,Agricultural water resources,4.107825586800001,1.5407193053904917,Sweden
+2020,Food crop production,2.1644579502,0.8118217482979604,Sweden
+2020,Food security policy and administrative management,2.142813582,0.8037036100678759,Sweden
+2020,Livestock,1.8084120678,0.6782798651222905,Sweden
+2020,Agricultural education/training,1.4068980198,0.5276842684818328,Sweden
+2020,Forestry research,0.6620453892,0.24831290682421667,Sweden
+2020,Fishery research,0.4050780084,0.15193232880590607,Sweden
+2020,Agricultural services,0.31086649619999995,0.11659648200096745,Sweden
+2020,Fishery development,0.2943668286000001,0.11040796307126063,Sweden
+2020,Plant and post-harvest protection and pest control,0.24856158600000006,0.09322782236891611,Sweden
+2020,Fishing policy and administrative management,0.029105341200000003,0.010916520219581699,Sweden
+2020,Livestock/veterinary services,0.0270557118,0.010147767136290268,Sweden
+2019,Agricultural development,62.88644650860001,21.911297570846216,Sweden
+2019,Research/scientific institutions,58.91999906520001,20.529282604877764,Sweden
+2019,Rural development,34.327602714600005,11.960642709721679,Sweden
+2019,Disaster Risk Reduction,27.379612611000006,9.539779596420233,Sweden
+2019,Agricultural research,26.890172782200004,9.369245843485182,Sweden
+2019,Forestry development,17.893537342200002,6.234580630126326,Sweden
+2019,Forestry policy and administrative management,15.3742329,5.356788476660476,Sweden
+2019,Agricultural policy and administrative management,10.378847348999999,3.6162643197724242,Sweden
+2019,Agricultural water resources,6.1423961976,2.140172936393256,Sweden
+2019,Multisector education/training,5.097874064399999,1.7762338596837712,Sweden
+2019,Agricultural co-operatives,3.9481215228000006,1.375629731600479,Sweden
+2019,Agricultural financial services,3.8471131296000003,1.3404357417436092,Sweden
+2019,Fishing policy and administrative management,2.8697115797999997,0.9998832476390915,Sweden
+2019,Fishery development,2.2677564546,0.7901461960989089,Sweden
+2019,Agricultural land resources,2.1013561296,0.7321679314745607,Sweden
+2019,Food crop production,1.8987507162000004,0.6615748585798377,Sweden
+2019,Food security policy and administrative management,1.7004568697999998,0.5924840494124934,Sweden
+2019,Livestock,1.6562897208000003,0.5770950491060037,Sweden
+2019,Agricultural services,0.8756264322,0.3050913572324174,Sweden
+2019,Fishery research,0.522283203,0.18197725126069372,Sweden
+2019,Agricultural inputs,0.026479159199999998,0.00922603786457653,Sweden
 2019,Forestry research,,,Sweden
 2019,Agricultural alternative development,,,Sweden
+2019,Livestock/veterinary services,,,Sweden

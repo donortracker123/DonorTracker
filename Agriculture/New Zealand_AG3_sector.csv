@@ -24,30 +24,30 @@ year,Sector,Bilateral ODA for,share,donor
 2023,Forestry development,0.037090710799999996,0.048579162551042096,New Zealand
 2023,Agricultural financial services,0.014734174399999998,0.01929792764265394,New Zealand
 2023,Food safety and quality,0.014548613199999998,0.01905489084169928,New Zealand
-2023,Forestry education/training,,,New Zealand
 2023,Forestry policy and administrative management,,,New Zealand
-2022,Household food security programmes,5.496445767999999,13.740874309626363,New Zealand
-2022,Fishing policy and administrative management,4.064231116,10.160400245438845,New Zealand
-2022,Plant and post-harvest protection and pest control,3.7860297683999997,9.464909029570585,New Zealand
-2022,Industrial crops/export crops,3.3013213596,8.25315918189342,New Zealand
-2022,Food crop production,3.0678740928,7.6695512129582815,New Zealand
-2022,Agricultural services,3.0120560535999994,7.530008553350437,New Zealand
-2022,Fishery development,2.9600097251999995,7.399895005976683,New Zealand
-2022,Fishery research,2.863752672,7.159256577933484,New Zealand
-2022,Agricultural research,2.7277158083999997,6.819170361657841,New Zealand
-2022,Agricultural development,2.1974116296,5.493433080816462,New Zealand
-2022,Disaster Risk Reduction,1.8328320560000002,4.58200007335178,New Zealand
-2022,Fishery education/training,1.2113947736,3.0284340146291946,New Zealand
-2022,Livestock,1.1199172028,2.7997440837959235,New Zealand
-2022,Agricultural co-operatives,0.9320944116000001,2.330195310771007,New Zealand
-2022,Agricultural education/training,0.387387198,0.9684510721213292,New Zealand
-2022,Agricultural extension,0.345656432,0.8641259801157223,New Zealand
-2022,Rural development,0.21741108839999998,0.543518223470165,New Zealand
-2022,Research/scientific institutions,0.1584487608,0.39611498021949615,New Zealand
-2022,Agricultural policy and administrative management,0.14105726799999999,0.35263700796097464,New Zealand
-2022,Fishery services,0.085009584,0.21252024638508626,New Zealand
-2022,Multisector education/training,0.054172593199999994,0.13542911648859554,New Zealand
-2022,Food safety and quality,0.0384696048,0.09617233146833064,New Zealand
+2023,Forestry education/training,,,New Zealand
+2022,Household food security programmes,5.496445767999999,13.740874309626365,New Zealand
+2022,Fishing policy and administrative management,4.064231116,10.160400245438847,New Zealand
+2022,Plant and post-harvest protection and pest control,3.7860297683999997,9.464909029570586,New Zealand
+2022,Industrial crops/export crops,3.3013213596,8.253159181893421,New Zealand
+2022,Food crop production,3.0678740928,7.669551212958282,New Zealand
+2022,Agricultural services,3.0120560535999994,7.530008553350438,New Zealand
+2022,Fishery development,2.9600097251999995,7.399895005976685,New Zealand
+2022,Fishery research,2.863752672,7.159256577933486,New Zealand
+2022,Agricultural research,2.7277158083999997,6.819170361657842,New Zealand
+2022,Agricultural development,2.1974116296,5.493433080816464,New Zealand
+2022,Disaster Risk Reduction,1.8328320560000002,4.5820000733517805,New Zealand
+2022,Fishery education/training,1.2113947736,3.028434014629195,New Zealand
+2022,Livestock,1.1199172028,2.799744083795924,New Zealand
+2022,Agricultural co-operatives,0.9320944116000001,2.3301953107710074,New Zealand
+2022,Agricultural education/training,0.387387198,0.9684510721213293,New Zealand
+2022,Agricultural extension,0.345656432,0.8641259801157224,New Zealand
+2022,Rural development,0.21741108839999998,0.5435182234701651,New Zealand
+2022,Research/scientific institutions,0.1584487608,0.39611498021949626,New Zealand
+2022,Agricultural policy and administrative management,0.14105726799999999,0.3526370079609747,New Zealand
+2022,Fishery services,0.085009584,0.2125202463850863,New Zealand
+2022,Multisector education/training,0.054172593199999994,0.13542911648859557,New Zealand
+2022,Food safety and quality,0.0384696048,0.09617233146833065,New Zealand
 2021,Agricultural development,11.173738866399997,27.23842759156231,New Zealand
 2021,Fishing policy and administrative management,6.1193993211999995,14.91737164321832,New Zealand
 2021,Agricultural research,5.153374890399999,12.562476220599263,New Zealand
@@ -63,9 +63,9 @@ year,Sector,Bilateral ODA for,share,donor
 2021,Fishery education/training,0.44199242559999996,1.0774530195015577,New Zealand
 2021,Agricultural co-operatives,0.049706822,0.12117122907937557,New Zealand
 2021,Forestry development,0.0018105032,0.0044134967630025225,New Zealand
+2021,Rural development,0.0,0.0,New Zealand
 2021,Household food security programmes,0.0,0.0,New Zealand
 2021,Agricultural policy and administrative management,0.0,0.0,New Zealand
-2021,Rural development,0.0,0.0,New Zealand
 2020,Fishing policy and administrative management,11.736881226400001,27.54508462360193,New Zealand
 2020,Agricultural development,10.254311826,24.065668004600607,New Zealand
 2020,Food crop production,3.2420658248,7.608748506249925,New Zealand
@@ -84,23 +84,23 @@ year,Sector,Bilateral ODA for,share,donor
 2020,Agricultural water resources,0.08836711399999998,0.20738725953862894,New Zealand
 2020,Agricultural policy and administrative management,0.0204250596,0.047935220973236325,New Zealand
 2020,Fishery education/training,0.0141180292,0.03313335983649236,New Zealand
-2019,Agricultural development,16.6394911716,30.47768719432733,New Zealand
-2019,Fishing policy and administrative management,9.6041648428,17.591447287836026,New Zealand
-2019,Fishery development,6.0723272632,11.12236479834615,New Zealand
-2019,Food crop production,5.689887680399999,10.421870182549153,New Zealand
-2019,Plant and post-harvest protection and pest control,3.2654291075999997,5.981116001103924,New Zealand
+2019,Agricultural development,16.6394911716,30.477687194327327,New Zealand
+2019,Fishing policy and administrative management,9.6041648428,17.591447287836022,New Zealand
+2019,Fishery development,6.0723272632,11.122364798346148,New Zealand
+2019,Food crop production,5.689887680399999,10.421870182549151,New Zealand
+2019,Plant and post-harvest protection and pest control,3.2654291075999997,5.981116001103923,New Zealand
 2019,Agricultural co-operatives,2.3376548888,4.28176040567505,New Zealand
-2019,Agricultural education/training,2.0773350795999996,3.804946203037286,New Zealand
-2019,Industrial crops/export crops,2.0739601212,3.7987644679500603,New Zealand
-2019,Agricultural extension,1.6730351571999997,3.0644111445717237,New Zealand
-2019,Livestock/veterinary services,1.5382541635999998,2.8175398358088346,New Zealand
+2019,Agricultural education/training,2.0773350795999996,3.8049462030372854,New Zealand
+2019,Industrial crops/export crops,2.0739601212,3.7987644679500594,New Zealand
+2019,Agricultural extension,1.6730351571999997,3.0644111445717233,New Zealand
+2019,Livestock/veterinary services,1.5382541635999998,2.817539835808834,New Zealand
 2019,Agricultural services,1.09342706,2.002773255553135,New Zealand
-2019,Agricultural research,0.976948962,1.7894264050260436,New Zealand
-2019,Fishery services,0.605452364,1.1089754831297314,New Zealand
-2019,Agricultural water resources,0.2763641892,0.5062018557711445,New Zealand
-2019,Forestry development,0.21220102199999996,0.3886775325119925,New Zealand
-2019,Forestry services,0.1825184064,0.33430943531258334,New Zealand
+2019,Agricultural research,0.976948962,1.7894264050260433,New Zealand
+2019,Fishery services,0.605452364,1.1089754831297312,New Zealand
+2019,Agricultural water resources,0.2763641892,0.5062018557711444,New Zealand
+2019,Forestry development,0.21220102199999996,0.38867753251199244,New Zealand
+2019,Forestry services,0.1825184064,0.3343094353125833,New Zealand
 2019,Agricultural policy and administrative management,0.10973843319999999,0.20100215840575977,New Zealand
-2019,Disaster Risk Reduction,0.09033037199999999,0.16545342604358607,New Zealand
+2019,Disaster Risk Reduction,0.09033037199999999,0.16545342604358604,New Zealand
 2019,Livestock,0.07208283719999999,0.13203036929463827,New Zealand
 2019,Research/scientific institutions,0.0050460344,0.009242557745846449,New Zealand

@@ -1,34 +1,34 @@
-Year,Multi_short,ODA,Share,Full Name,donor
-2020,AIIB,0.0559,0.005178035495942792,asian infrastructure investment bank,Greece
-2021,AIIB,0.0504,0.0033863685228983026,asian infrastructure investment bank,Greece
-2022,AIIB,0.0626,0.003172318731883324,asian infrastructure investment bank,Greece
-2023,AIIB,0.0356,0.0019367930841253697,asian infrastructure investment bank,Greece
-2019,EC-DSB,3.8639000000000006,0.3610143045342851,european commission development share of budget,Greece
-2020,EC-DSB,4.1675,0.3860369039238209,european commission development share of budget,Greece
-2021,EC-DSB,8.868899999999996,0.5959000752526338,european commission development share of budget,Greece
-2022,EC-DSB,16.232799999999997,0.822613666308556,european commission development share of budget,Greece
-2023,EC-DSB,17.993299999999998,0.9789128932750845,european commission development share of budget,Greece
-2019,EC-EDF,6.5001000000000015,0.6073213801866785,european commission european development fund,Greece
-2020,EC-EDF,6.134799999999999,0.5682685538552744,european commission european development fund,Greece
-2021,EC-EDF,4.116999999999999,0.2766206192216728,european commission european development fund,Greece
-2022,EC-EDF,1.4526999999999999,0.07361705146656396,european commission european development fund,Greece
-2023,EC-EDF,0.3362000000000001,0.018290725698959256,european commission european development fund,Greece
-2019,FAO,0.09930000000000001,0.009277859271786152,food and agricultural organisation,Greece
-2020,FAO,0.07869999999999999,0.007290007039905147,food and agricultural organisation,Greece
-2021,FAO,0.0753,0.005059395828854012,food and agricultural organisation,Greece
-2022,FAO,0.0667,0.0033800904060162567,food and agricultural organisation,Greece
-2021,GAVI,1.7716,0.11903354117394113,global alliance for vaccines and immunization,Greece
-2020,GEF-TF,0.0001,9.26303308755419e-06,global environment facility trust fund,Greece
-2020,GFATM,0.0626,0.005798658712808923,global fund to fight aids tuberculosis and malaria,Greece
-2019,IDA,0.2361,0.022059441833521754,international development association,Greece
-2020,IDA,0.29039999999999994,0.026899848086257363,international development association,Greece
-2019,UN,0.0024,0.00022423829055676493,united nations,Greece
-2022,UN,0.0072,0.0003648673301846634,united nations,Greece
-2023,UN,0.0095,0.0005168408511008711,united nations,Greece
-2019,UNECE-EXB,0.0011,0.00010277588317185061,united nations economic commission for europe extrabudgetary contributions only,Greece
-2022,UNFPA,0.016,0.000810816289299252,united nations population fund,Greece
-2020,UNRWA,0.0056,0.0005187298529030347,united nations relief and works agency for palestine refugees in the near east,Greece
-2022,UNRWA,0.0107,0.0005422333934688747,united nations relief and works agency for palestine refugees in the near east,Greece
-2023,UNRWA,0.0063,0.00034274709073005136,united nations relief and works agency for palestine refugees in the near east,Greece
-2022,WHO-AC,1.8320999999999998,0.09284353272657248,world health organisation assessed contributions,Greece
-2022,,0.05240000000000001,0.002655423347455051,united nations children’s fund,Greece
+Year,ODA,Share,Full Name,donor
+2019,0.09930000000000001,0.009277859271786152,food and agricultural organisation,Greece
+2019,0.2361,0.022059441833521754,international development association,Greece
+2019,6.5001000000000015,0.6073213801866785,european commission european development fund,Greece
+2019,0.0024,0.00022423829055676493,united nations,Greece
+2019,3.8639000000000006,0.3610143045342851,european commission development share of budget,Greece
+2019,0.0011,0.00010277588317185061,united nations economic commission for europe extrabudgetary contributions only,Greece
+2020,4.1675,0.3860369039238209,european commission development share of budget,Greece
+2020,0.0056,0.0005187298529030347,united nations relief and works agency for palestine refugees in the near east,Greece
+2020,0.0001,9.26303308755419e-06,global environment facility trust fund,Greece
+2020,0.0559,0.005178035495942792,asian infrastructure investment bank,Greece
+2020,0.29039999999999994,0.026899848086257363,international development association,Greece
+2020,6.134799999999999,0.5682685538552744,european commission european development fund,Greece
+2020,0.07869999999999999,0.007290007039905147,food and agricultural organisation,Greece
+2020,0.0626,0.005798658712808923,global fund to fight aids tuberculosis and malaria,Greece
+2021,0.0504,0.003386368522898302,asian infrastructure investment bank,Greece
+2021,8.868899999999996,0.5959000752526338,european commission development share of budget,Greece
+2021,0.0753,0.005059395828854011,food and agricultural organisation,Greece
+2021,1.7716,0.11903354117394112,global alliance for vaccines and immunization,Greece
+2021,4.116999999999999,0.27662061922167275,european commission european development fund,Greece
+2022,1.8320999999999998,0.09284353272657248,world health organisation assessed contributions,Greece
+2022,1.4526999999999999,0.07361705146656396,european commission european development fund,Greece
+2022,0.0072,0.0003648673301846634,united nations,Greece
+2022,0.0626,0.003172318731883324,asian infrastructure investment bank,Greece
+2022,0.016,0.000810816289299252,united nations population fund,Greece
+2022,0.0107,0.0005422333934688747,united nations relief and works agency for palestine refugees in the near east,Greece
+2022,16.232799999999997,0.822613666308556,european commission development share of budget,Greece
+2022,0.0667,0.0033800904060162567,food and agricultural organisation,Greece
+2022,0.05240000000000001,0.002655423347455051,united nations children’s fund,Greece
+2023,0.0356,0.0019367930841253697,asian infrastructure investment bank,Greece
+2023,17.993299999999998,0.9789128932750845,european commission development share of budget,Greece
+2023,0.3362000000000001,0.018290725698959256,european commission european development fund,Greece
+2023,0.0095,0.0005168408511008711,united nations,Greece
+2023,0.0063,0.00034274709073005136,united nations relief and works agency for palestine refugees in the near east,Greece

@@ -1,69 +1,69 @@
-Year,Multi_short,ODA,Share,Full Name,donor
-2019,ADB,0.6464,0.03568786369709484,asian development bank,Korea
-2020,ADB,0.29109999999999997,0.019615902964959568,asian development bank,Korea
-2021,ADB,0.9081000000000001,0.04196473132590252,asian development bank,Korea
-2022,ADB,0.5496,0.031022629133951613,asian development bank,Korea
-2023,ADB,0.639,0.018423268097473213,asian development bank,Korea
-2019,ADF,1.3721,0.0757538950785641,african development fund,Korea
-2020,ADF,1.0347,0.06972371967654986,african development fund,Korea
-2021,ADF,0.5543,0.025615076064252573,african development fund,Korea
-2022,ADF,0.3681,0.020777710669955582,african development fund,Korea
-2023,ADF,0.40249999999999997,0.011604640703024988,african development fund,Korea
-2023,AF,0.0002,5.766281094670803e-06,adaptation fund,Korea
-2019,AfDB,0.1491,0.008231838609586697,african development bank,Korea
-2020,AfDB,0.001,6.738544474393532e-05,african development bank,Korea
-2021,AfDB,0.0115,0.0005314331133662359,african development bank,Korea
-2022,AfDB,0.0737,0.004160057800531722,african development bank,Korea
-2023,AfDB,0.2045,0.005896022419300895,african development bank,Korea
-2021,CABEI,3.4246,0.15825616000295753,central american bank for economic integration,Korea
-2022,CABEI,0.6022,0.03399167988439895,central american bank for economic integration,Korea
-2023,CABEI,1.7005,0.049027805007438495,central american bank for economic integration,Korea
-2021,EBRD,0.0012,5.5453890090389834e-05,european bank for reconstruction and development,Korea
-2022,EBRD,0.0004,2.2578332703021555e-05,european bank for reconstruction and development,Korea
-2019,FAO,0.0083,0.0004582445369521769,food and agricultural organisation,Korea
-2020,FAO,0.0164,0.0011051212938005392,food and agricultural organisation,Korea
-2021,FAO,0.019,0.0008780199264311724,food and agricultural organisation,Korea
-2022,FAO,0.003,0.00016933749527266165,food and agricultural organisation,Korea
-2023,FAO,0.0044,0.00012685818408275765,food and agricultural organisation,Korea
-2019,IBRD,3.5424000000000007,0.19557655996378215,international bank for reconstruction and development,Korea
-2020,IBRD,2.6245,0.1768530997304582,international bank for reconstruction and development,Korea
-2021,IBRD,4.544,0.20998539714227615,international bank for reconstruction and development,Korea
-2022,IBRD,3.193,0.18023154080186957,international bank for reconstruction and development,Korea
-2023,IBRD,2.7863,0.0803329450704063,international bank for reconstruction and development,Korea
-2019,IDA,10.8893,0.6012002694257037,international development association,Korea
-2020,IDA,10.0677,0.6784164420485176,international development association,Korea
-2021,IDA,11.381200000000002,0.5259431782472874,international development association,Korea
-2022,IDA,12.279899999999998,0.6931491693995858,international development association,Korea
-2023,IDA,27.546400000000002,0.7942014277311991,international development association,Korea
-2019,IDB-IIC-MIF,1.165,0.06431986572882965,inter american development bank inter american investment corporation and multilateral investment fund,Korea
-2020,IDB-IIC-MIF,0.3685,0.02483153638814016,inter american development bank inter american investment corporation and multilateral investment fund,Korea
-2021,IDB-IIC-MIF,0.3792,0.01752342926856319,inter american development bank inter american investment corporation and multilateral investment fund,Korea
-2022,IDB-IIC-MIF,0.21860000000000002,0.01233905882220128,inter american development bank inter american investment corporation and multilateral investment fund,Korea
-2023,IDB-IIC-MIF,0.07310000000000001,0.0021075757401021787,inter american development bank inter american investment corporation and multilateral investment fund,Korea
-2020,ILO-RBSA,0.0658,0.004433962264150943,international labour organisation regular budget supplementary account,Korea
-2023,UN,0.0325,0.0009370206778840054,united nations,Korea
-2019,UNDP,0.0033,0.00018219361107737155,united nations development programme,Korea
-2020,UNDP,0.0026,0.0001752021563342318,united nations development programme,Korea
-2021,UNDP,0.0013,6.007504759792232e-05,united nations development programme,Korea
-2022,UNDP,0.027000000000000003,0.001524037457453955,united nations development programme,Korea
-2023,UNDP,0.0488,0.0014069725870996758,united nations development programme,Korea
-2019,UNFPA,0.0004,2.208407406998443e-05,united nations population fund,Korea
-2020,UNFPA,0.0089,0.0005997304582210243,united nations population fund,Korea
-2021,UNFPA,0.0083,0.0003835560731251964,united nations population fund,Korea
-2022,UNFPA,0.008799999999999999,0.0004967233194664741,united nations population fund,Korea
-2023,UNFPA,0.0089,0.0002565995087128507,united nations population fund,Korea
-2020,UNIDO,0.082,0.005525606469002696,united nations industrial development organisation,Korea
-2021,UNIDO,0.0591,0.0027311040869516996,united nations industrial development organisation,Korea
-2022,UNIDO,0.0393,0.0022183211880718676,united nations industrial development organisation,Korea
-2023,UNIDO,0.0189,0.0005449135634463908,united nations industrial development organisation,Korea
-2019,UNRWA,0.1099,0.006067599350728222,united nations relief and works agency for palestine refugees in the near east,Korea
-2020,UNRWA,0.0936,0.006307277628032345,united nations relief and works agency for palestine refugees in the near east,Korea
-2021,UNRWA,0.1023,0.004727444130205734,united nations relief and works agency for palestine refugees in the near east,Korea
-2022,UNRWA,0.0937,0.005288974435682799,united nations relief and works agency for palestine refugees in the near east,Korea
-2023,UNRWA,0.9302,0.026818973371313903,united nations relief and works agency for palestine refugees in the near east,Korea
-2019,WFP,0.0017000000000000001,9.385731479743384e-05,world food programme,Korea
-2019,,0.2247,0.012405728608813754,united nations children’s fund,Korea
-2020,,0.18319999999999997,0.012345013477088947,united nations children’s fund,Korea
-2021,,0.24549999999999997,0.011344941680992253,united nations children’s fund,Korea
-2022,,0.2588,0.014608181258854944,united nations children’s fund,Korea
-2023,,0.2882,0.008309211057420626,united nations children’s fund,Korea
+Year,ODA,Share,Full Name,donor
+2019,0.0083,0.0004582445369521769,food and agricultural organisation,Korea
+2019,0.2247,0.012405728608813754,united nations children’s fund,Korea
+2019,0.1491,0.008231838609586697,african development bank,Korea
+2019,0.0004,2.208407406998443e-05,united nations population fund,Korea
+2019,0.0017000000000000001,9.385731479743384e-05,world food programme,Korea
+2019,10.8893,0.6012002694257037,international development association,Korea
+2019,0.0033,0.00018219361107737155,united nations development programme,Korea
+2019,1.3721,0.0757538950785641,african development fund,Korea
+2019,0.1099,0.006067599350728222,united nations relief and works agency for palestine refugees in the near east,Korea
+2019,1.165,0.06431986572882965,inter american development bank inter american investment corporation and multilateral investment fund,Korea
+2019,3.5424000000000007,0.19557655996378215,international bank for reconstruction and development,Korea
+2019,0.6464,0.03568786369709484,asian development bank,Korea
+2020,0.0936,0.006307277628032345,united nations relief and works agency for palestine refugees in the near east,Korea
+2020,10.0677,0.6784164420485176,international development association,Korea
+2020,1.0347,0.06972371967654986,african development fund,Korea
+2020,2.6245,0.1768530997304582,international bank for reconstruction and development,Korea
+2020,0.0026,0.0001752021563342318,united nations development programme,Korea
+2020,0.0658,0.004433962264150943,international labour organisation regular budget supplementary account,Korea
+2020,0.18319999999999997,0.012345013477088947,united nations children’s fund,Korea
+2020,0.3685,0.02483153638814016,inter american development bank inter american investment corporation and multilateral investment fund,Korea
+2020,0.29109999999999997,0.019615902964959568,asian development bank,Korea
+2020,0.082,0.005525606469002696,united nations industrial development organisation,Korea
+2020,0.0164,0.0011051212938005392,food and agricultural organisation,Korea
+2020,0.0089,0.0005997304582210243,united nations population fund,Korea
+2020,0.001,6.738544474393532e-05,african development bank,Korea
+2021,0.5543,0.025615076064252573,african development fund,Korea
+2021,3.4246,0.15825616000295753,central american bank for economic integration,Korea
+2021,0.24549999999999997,0.011344941680992253,united nations children’s fund,Korea
+2021,0.3792,0.01752342926856319,inter american development bank inter american investment corporation and multilateral investment fund,Korea
+2021,0.0115,0.0005314331133662359,african development bank,Korea
+2021,0.0012,5.5453890090389834e-05,european bank for reconstruction and development,Korea
+2021,0.0083,0.0003835560731251964,united nations population fund,Korea
+2021,0.0013,6.007504759792232e-05,united nations development programme,Korea
+2021,0.1023,0.004727444130205734,united nations relief and works agency for palestine refugees in the near east,Korea
+2021,0.9081000000000001,0.04196473132590252,asian development bank,Korea
+2021,11.381200000000002,0.5259431782472874,international development association,Korea
+2021,0.0591,0.0027311040869516996,united nations industrial development organisation,Korea
+2021,0.019,0.0008780199264311724,food and agricultural organisation,Korea
+2021,4.544,0.20998539714227615,international bank for reconstruction and development,Korea
+2022,0.027000000000000003,0.0015240374574539547,united nations development programme,Korea
+2022,0.21860000000000002,0.012339058822201278,inter american development bank inter american investment corporation and multilateral investment fund,Korea
+2022,0.0937,0.005288974435682798,united nations relief and works agency for palestine refugees in the near east,Korea
+2022,0.0393,0.002218321188071867,united nations industrial development organisation,Korea
+2022,0.003,0.00016933749527266162,food and agricultural organisation,Korea
+2022,0.0737,0.004160057800531721,african development bank,Korea
+2022,0.0004,2.257833270302155e-05,european bank for reconstruction and development,Korea
+2022,0.008799999999999999,0.000496723319466474,united nations population fund,Korea
+2022,0.2588,0.01460818125885494,united nations children’s fund,Korea
+2022,12.279899999999998,0.6931491693995857,international development association,Korea
+2022,0.5496,0.031022629133951606,asian development bank,Korea
+2022,0.6022,0.03399167988439894,central american bank for economic integration,Korea
+2022,0.3681,0.02077771066995558,african development fund,Korea
+2022,3.193,0.1802315408018695,international bank for reconstruction and development,Korea
+2023,0.0089,0.0002565995087128508,united nations population fund,Korea
+2023,0.07310000000000001,0.0021075757401021796,inter american development bank inter american investment corporation and multilateral investment fund,Korea
+2023,0.0189,0.0005449135634463911,united nations industrial development organisation,Korea
+2023,0.2045,0.005896022419300898,african development bank,Korea
+2023,1.7005,0.049027805007438516,central american bank for economic integration,Korea
+2023,0.2882,0.00830921105742063,united nations children’s fund,Korea
+2023,0.0488,0.0014069725870996764,united nations development programme,Korea
+2023,27.546400000000002,0.7942014277311994,international development association,Korea
+2023,0.639,0.01842326809747322,asian development bank,Korea
+2023,0.0325,0.0009370206778840058,united nations,Korea
+2023,0.9302,0.026818973371313913,united nations relief and works agency for palestine refugees in the near east,Korea
+2023,0.40249999999999997,0.011604640703024994,african development fund,Korea
+2023,2.7863,0.08033294507040632,international bank for reconstruction and development,Korea
+2023,0.0044,0.0001268581840827577,food and agricultural organisation,Korea
+2023,0.0002,5.766281094670805e-06,adaptation fund,Korea
