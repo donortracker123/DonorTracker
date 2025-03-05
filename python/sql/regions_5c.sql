@@ -18,8 +18,8 @@ WITH base AS (
 SELECT 
     b.year AS year,
     b.region_name AS "Region",
-    b.bilateral_oda * dfl.deflator AS "Bilateral ODA",
-    round(b.share,1) || '%' AS share,
+    b.bilateral_oda * (dfl.deflator / 100) AS "Bilateral ODA",
+    round(b.share,1) || '%' AS "Share",
     b.donor_name AS donor,
 FROM base b
 LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor_name AND dfl.year = {{latest_year}}
