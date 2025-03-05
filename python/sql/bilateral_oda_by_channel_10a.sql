@@ -1,5 +1,5 @@
 WITH base AS (
-    SELECT
+    SELECT DISTINCT --Data quality issue in the channels mapping file (duplicates)
         crs.donor_name,
         crs.channel_name,
         crs.usd_disbursement_defl,
