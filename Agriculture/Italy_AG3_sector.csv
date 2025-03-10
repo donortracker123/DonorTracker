@@ -1,173 +1,139 @@
-year,Sector,Bilateral ODA for,share,donor
-2023,Agricultural development,33.76698955399999,36.59001629367874,Italy
-2023,Rural development,8.654154048,9.37766859903018,Italy
-2023,Agricultural policy and administrative management,6.377333341500001,6.910498506316023,Italy
-2023,Household food security programmes,4.5230447305,4.901185523849224,Italy
-2023,Agricultural education/training,4.4738328785,4.84785940593627,Italy
-2023,Food crop production,4.0825360795000005,4.423848961410922,Italy
-2023,Disaster Risk Reduction,3.984572049,4.317694829238223,Italy
-2023,Agricultural water resources,3.7348182569999997,4.047060833155338,Italy
-2023,Agricultural extension,2.5854437800000007,2.801595027750527,Italy
-2023,Agricultural co-operatives,2.164007829,2.3449257031377457,Italy
-2023,Food safety and quality,2.0534097420000004,2.225081267526804,Italy
-2023,Agricultural services,2.0311343285,2.200943559259681,Italy
-2023,Food security policy and administrative management,1.7051250960000002,1.8476789275403387,Italy
-2023,Agricultural land resources,1.4942099645000002,1.619130626371033,Italy
-2023,Forestry research,1.3890058085,1.505131071390073,Italy
-2023,Agricultural inputs,1.3303711855,1.441594409126689,Italy
-2023,Fishery development,1.2299973515,1.3328290062871593,Italy
-2023,Livestock/veterinary services,1.2185194435,1.3203915090069909,Italy
-2023,Industrial crops/export crops,1.073587282,1.1633425620677786,Italy
-2023,Agricultural research,0.949524726,1.0289079854166394,Italy
-2023,Research/scientific institutions,0.7504743140000002,0.8132163316878961,Italy
-2023,Livestock,0.733758914,0.7951034715711459,Italy
-2023,Multisector education/training,0.6019333405,0.6522568646927085,Italy
-2023,Agricultural alternative development,0.420964491,0.4561584490710261,Italy
-2023,Forestry development,0.415919869,0.45069208077425316,Italy
-2023,Fishery education/training,0.28118303000000006,0.30469081742548165,Italy
-2023,Fishery research,0.05514796200000001,0.05975850541595416,Italy
-2023,Plant and post-harvest protection and pest control,0.0540668185,0.05858697491224898,Italy
-2023,Agricultural financial services,0.045156224499999995,0.04893142717308921,Italy
-2023,Agrarian reform,0.036746021000000004,0.03981810415665524,Italy
-2023,Fishing policy and administrative management,0.031007067000000003,0.0335993555165711,Italy
-2023,Fishery services,0.014489894500000001,0.015701295343513406,Italy
-2023,Forestry policy and administrative management,0.011030021,0.011952165515501515,Italy
-2023,Forestry education/training,0.009418485,0.01020590002732255,Italy
-2023,Non-agricultural alternative development,0.001793691,0.001943649220220472,Italy
-2023,Fuelwood/charcoal,0.0,0.0,Italy
-2022,Agricultural development,35.976838296000004,35.09314888535885,Italy
-2022,Agricultural co-operatives,6.167675079499998,6.016180134024606,Italy
-2022,Food crop production,4.85676662,4.737471166721478,Italy
-2022,Agricultural water resources,4.0138293565,3.9152387446936805,Italy
-2022,Agricultural education/training,4.007791454000001,3.909349149570162,Italy
-2022,Agricultural extension,3.896297593000001,3.8005938823150203,Italy
-2022,Rural development,3.8909347354999997,3.7953627512425756,Italy
-2022,Agricultural land resources,3.6775658690000004,3.58723480686962,Italy
-2022,Disaster Risk Reduction,3.6264242455000004,3.537349361323839,Italy
-2022,Agricultural research,3.5310693175000005,3.4443366107945987,Italy
-2022,Household food security programmes,3.382631208,3.2995445466869557,Italy
-2022,Agricultural policy and administrative management,3.3159999805000004,3.2345499641215483,Italy
-2022,Food safety and quality,2.9014709185,2.8302028680708218,Italy
-2022,Agricultural inputs,2.6733024939999988,2.6076388832637813,Italy
-2022,Food security policy and administrative management,2.6426993825000005,2.5777874677672705,Italy
-2022,Agricultural services,2.3204200415000007,2.2634241876108323,Italy
-2022,Fishery development,2.3114408715,2.2546655705504772,Italy
-2022,Livestock,1.7536844045000002,1.710609125757802,Italy
-2022,Agricultural financial services,1.319770836,1.287353659630839,Italy
-2022,Livestock/veterinary services,1.252116326,1.2213609291784806,Italy
-2022,Plant and post-harvest protection and pest control,1.1401949365000001,1.1121886346909904,Italy
-2022,Fishing policy and administrative management,0.8933063355,0.871364292048456,Italy
-2022,Industrial crops/export crops,0.7597417175,0.741080385866205,Italy
-2022,Forestry development,0.7229399784999999,0.7051825980911545,Italy
-2022,Multisector education/training,0.5849629235,0.5705946364131351,Italy
-2022,Research/scientific institutions,0.33980479499999994,0.33145826113963084,Italy
-2022,Forestry policy and administrative management,0.19935793250000003,0.19446115717949747,Italy
-2022,Agricultural alternative development,0.15535678499999997,0.15154079804066178,Italy
-2022,Fishery education/training,0.077107283,0.07521331752949931,Italy
-2022,Fuelwood/charcoal,0.056341613,0.054957709101138556,Italy
-2022,Forestry research,0.030167011,0.02942602681589622,Italy
-2022,Fishery services,0.027719705000000004,0.027038833335484666,Italy
-2022,Fishery research,0.012395112000000002,0.012090654195009145,Italy
-2022,Agrarian reform,0.0,0.0,Italy
-2021,Agricultural development,51.568631250999985,54.36637584631882,Italy
-2021,Agricultural education/training,4.808081946000001,5.068934036737055,Italy
-2021,Agricultural water resources,4.0939947005000015,4.316105531614327,Italy
-2021,Rural development,3.9651489685,4.180269552993694,Italy
-2021,Food security policy and administrative management,3.4810441970000006,3.6699007237675954,Italy
-2021,Agricultural co-operatives,2.8945565290000004,3.051594435347331,Italy
-2021,Household food security programmes,2.6575535869999998,2.8017334111378616,Italy
-2021,Agricultural policy and administrative management,2.2251079735,2.3458263958401266,Italy
-2021,Food crop production,2.1393343985,2.2553993609740033,Italy
-2021,Research/scientific institutions,1.7824959680000003,1.8792014329245303,Italy
-2021,Livestock,1.6539856155,1.7437190290935685,Italy
-2021,Food safety and quality,1.4290391915,1.5065686232015711,Italy
-2021,Forestry research,1.3664678775,1.4406026378418946,Italy
-2021,Disaster Risk Reduction,1.3069524814999998,1.3778583627063048,Italy
-2021,Agricultural services,1.1160829720000003,1.1766336406350113,Italy
-2021,Industrial crops/export crops,1.0726347185,1.1308281960780289,Italy
-2021,Fishery education/training,1.0082097095,1.0629079475038814,Italy
-2021,Agricultural land resources,0.8750833350000001,0.9225590893793127,Italy
-2021,Non-agricultural alternative development,0.8136938855000001,0.8578390880228508,Italy
-2021,Fishing policy and administrative management,0.7212427225000001,0.7603721870569691,Italy
-2021,Agricultural extension,0.7019000045000001,0.7399800717115195,Italy
-2021,Agricultural inputs,0.6867843539999999,0.7240443542742127,Italy
-2021,Agricultural research,0.6702178925000001,0.7065791152228058,Italy
-2021,Multisector education/training,0.49908648450000004,0.5261633426739208,Italy
-2021,Agricultural alternative development,0.4145729935,0.43706475494087166,Italy
-2021,Livestock/veterinary services,0.22043755200000004,0.23239691478997818,Italy
-2021,Fishery development,0.1967584735,0.20743317908096565,Italy
-2021,Forestry development,0.18522270449999997,0.19527156187461106,Italy
-2021,Fishery services,0.11603487800000001,0.12233009943438089,Italy
-2021,Fishery research,0.06590689350000001,0.06948252951380836,Italy
-2021,Agricultural financial services,0.05715595300000001,0.06025682565682365,Italy
-2021,Forestry policy and administrative management,0.037279628,0.0393021536172661,Italy
-2021,Agrarian reform,0.023206547,0.024465568034109826,Italy
-2021,Fuelwood/charcoal,0.0,0.0,Italy
+year,Sub-Sector,Bilateral ODA for,Share,Donor
+2023,Agricultural development,33.77,42.9%,Italy
+2023,Rural development,8.65,11.0%,Italy
+2023,Agricultural policy and administrative management,6.38,8.1%,Italy
+2023,Agricultural education/training,4.47,5.7%,Italy
+2023,Food crop production,4.08,5.2%,Italy
+2023,Agricultural water resources,3.73,4.7%,Italy
+2023,Agricultural extension,2.59,3.3%,Italy
+2023,Agricultural co-operatives,2.16,2.8%,Italy
+2023,Agricultural services,2.03,2.6%,Italy
+2023,Agricultural land resources,1.49,1.9%,Italy
+2023,Forestry research,1.39,1.8%,Italy
+2023,Agricultural inputs,1.33,1.7%,Italy
+2023,Fishery development,1.23,1.6%,Italy
+2023,Livestock/veterinary services,1.22,1.5%,Italy
+2023,Industrial crops/export crops,1.07,1.4%,Italy
+2023,Agricultural research,0.95,1.2%,Italy
+2023,Livestock,0.73,0.9%,Italy
+2023,Agricultural alternative development,0.42,0.5%,Italy
+2023,Forestry development,0.42,0.5%,Italy
+2023,Fishery education/training,0.28,0.4%,Italy
+2023,Fishery research,0.06,0.1%,Italy
+2023,Plant and post-harvest protection and pest control,0.05,0.1%,Italy
+2023,Agricultural financial services,0.05,0.1%,Italy
+2023,Agrarian reform,0.04,0.0%,Italy
+2023,Fishing policy and administrative management,0.03,0.0%,Italy
+2023,Forestry policy and administrative management,0.01,0.0%,Italy
+2023,Fishery services,0.01,0.0%,Italy
+2023,Forestry education/training,0.01,0.0%,Italy
+2023,Fuelwood/charcoal,0.0,0.0%,Italy
+2022,Agricultural development,35.98,40.4%,Italy
+2022,Agricultural co-operatives,6.17,6.9%,Italy
+2022,Food crop production,4.86,5.5%,Italy
+2022,Agricultural education/training,4.01,4.5%,Italy
+2022,Agricultural water resources,4.01,4.5%,Italy
+2022,Agricultural extension,3.9,4.4%,Italy
+2022,Rural development,3.89,4.4%,Italy
+2022,Agricultural land resources,3.68,4.1%,Italy
+2022,Agricultural research,3.53,4.0%,Italy
+2022,Agricultural policy and administrative management,3.32,3.7%,Italy
+2022,Agricultural inputs,2.67,3.0%,Italy
+2022,Agricultural services,2.32,2.6%,Italy
+2022,Fishery development,2.31,2.6%,Italy
+2022,Livestock,1.75,2.0%,Italy
+2022,Agricultural financial services,1.32,1.5%,Italy
+2022,Livestock/veterinary services,1.25,1.4%,Italy
+2022,Plant and post-harvest protection and pest control,1.14,1.3%,Italy
+2022,Fishing policy and administrative management,0.89,1.0%,Italy
+2022,Industrial crops/export crops,0.76,0.9%,Italy
+2022,Forestry development,0.72,0.8%,Italy
+2022,Forestry policy and administrative management,0.2,0.2%,Italy
+2022,Agricultural alternative development,0.16,0.2%,Italy
+2022,Fishery education/training,0.08,0.1%,Italy
+2022,Fuelwood/charcoal,0.06,0.1%,Italy
+2022,Fishery services,0.03,0.0%,Italy
+2022,Forestry research,0.03,0.0%,Italy
+2022,Fishery research,0.01,0.0%,Italy
+2022,Agrarian reform,0.0,0.0%,Italy
+2021,Agricultural development,51.57,62.2%,Italy
+2021,Agricultural education/training,4.81,5.8%,Italy
+2021,Agricultural water resources,4.09,4.9%,Italy
+2021,Rural development,3.97,4.8%,Italy
+2021,Agricultural co-operatives,2.89,3.5%,Italy
+2021,Agricultural policy and administrative management,2.23,2.7%,Italy
+2021,Food crop production,2.14,2.6%,Italy
+2021,Livestock,1.65,2.0%,Italy
+2021,Forestry research,1.37,1.6%,Italy
+2021,Agricultural services,1.12,1.3%,Italy
+2021,Industrial crops/export crops,1.07,1.3%,Italy
+2021,Fishery education/training,1.01,1.2%,Italy
+2021,Agricultural land resources,0.88,1.1%,Italy
+2021,Fishing policy and administrative management,0.72,0.9%,Italy
+2021,Agricultural extension,0.7,0.8%,Italy
+2021,Agricultural inputs,0.69,0.8%,Italy
+2021,Agricultural research,0.67,0.8%,Italy
+2021,Agricultural alternative development,0.41,0.5%,Italy
+2021,Livestock/veterinary services,0.22,0.3%,Italy
+2021,Fishery development,0.2,0.2%,Italy
+2021,Forestry development,0.19,0.2%,Italy
+2021,Fishery services,0.12,0.1%,Italy
+2021,Fishery research,0.07,0.1%,Italy
+2021,Agricultural financial services,0.06,0.1%,Italy
+2021,Forestry policy and administrative management,0.04,0.0%,Italy
+2021,Agrarian reform,0.02,0.0%,Italy
+2021,Fuelwood/charcoal,0.0,0.0%,Italy
 2021,Forestry education/training,,,Italy
-2020,Agricultural development,58.891081167500005,43.399831313342766,Italy
-2020,Agrarian reform,19.8580848555,14.634432172903724,Italy
-2020,Rural development,13.889886644999999,10.236163531110849,Italy
-2020,Agricultural water resources,8.1230147125,5.986262457563013,Italy
-2020,Agricultural financial services,4.237690351000001,3.1229694334950815,Italy
-2020,Agricultural research,4.219937739,3.109886631296563,Italy
-2020,Agricultural co-operatives,2.7531838905000003,2.0289611610705833,Italy
-2020,Multisector education/training,2.6478275815000005,1.9513187414078963,Italy
-2020,Food crop production,2.6346824195,1.9416314033241555,Italy
-2020,Disaster Risk Reduction,2.3662609545,1.7438179811397914,Italy
-2020,Agricultural education/training,2.251437943,1.6591990671854635,Italy
-2020,Agricultural inputs,1.9358822644999998,1.4266500471069312,Italy
-2020,Agricultural services,1.8402208875,1.3561523156559887,Italy
-2020,Research/scientific institutions,1.721699058,1.2688075546960307,Italy
-2020,Livestock,1.5213124854999998,1.121132503201843,Italy
-2020,Agricultural policy and administrative management,1.2769890555,0.9410781479805798,Italy
-2020,Household food security programmes,1.1345759905000001,0.8361267211212774,Italy
-2020,Forestry policy and administrative management,0.9484714415,0.698976818740081,Italy
-2020,Forestry development,0.7360412090000001,0.5424261819784304,Italy
-2020,Agricultural land resources,0.657909572,0.4848470070199876,Italy
-2020,Fishing policy and administrative management,0.5958065035000001,0.43908009896688177,Italy
-2020,Livestock/veterinary services,0.5116937535,0.37709313780176823,Italy
-2020,Agricultural extension,0.272536025,0.20084565060314177,Italy
-2020,Fishery development,0.251965368,0.1856860877948889,Italy
-2020,Non-agricultural alternative development,0.09228079450000001,0.06800640836207737,Italy
-2020,Fishery education/training,0.08591179850000001,0.06331277145551133,Italy
-2020,Food security policy and administrative management,0.0772412205,0.056922981777191586,Italy
-2020,Fishery research,0.0513537805,0.03784521130904964,Italy
-2020,Industrial crops/export crops,0.039626213,0.02920257067271629,Italy
-2020,Agricultural alternative development,0.032587529500000004,0.024015407005281503,Italy
-2020,Food safety and quality,0.023221548,0.01711313913847568,Italy
-2020,Plant and post-harvest protection and pest control,0.012516191500000001,0.009223817749932372,Italy
-2020,Forestry education/training,0.0013318745,0.0009815260220157466,Italy
+2020,Agricultural development,58.89,46.1%,Italy
+2020,Agrarian reform,19.86,15.6%,Italy
+2020,Rural development,13.89,10.9%,Italy
+2020,Agricultural water resources,8.12,6.4%,Italy
+2020,Agricultural financial services,4.24,3.3%,Italy
+2020,Agricultural research,4.22,3.3%,Italy
+2020,Agricultural co-operatives,2.75,2.2%,Italy
+2020,Food crop production,2.63,2.1%,Italy
+2020,Agricultural education/training,2.25,1.8%,Italy
+2020,Agricultural inputs,1.94,1.5%,Italy
+2020,Agricultural services,1.84,1.4%,Italy
+2020,Livestock,1.52,1.2%,Italy
+2020,Agricultural policy and administrative management,1.28,1.0%,Italy
+2020,Forestry policy and administrative management,0.95,0.7%,Italy
+2020,Forestry development,0.74,0.6%,Italy
+2020,Agricultural land resources,0.66,0.5%,Italy
+2020,Fishing policy and administrative management,0.6,0.5%,Italy
+2020,Livestock/veterinary services,0.51,0.4%,Italy
+2020,Agricultural extension,0.27,0.2%,Italy
+2020,Fishery development,0.25,0.2%,Italy
+2020,Fishery education/training,0.09,0.1%,Italy
+2020,Fishery research,0.05,0.0%,Italy
+2020,Industrial crops/export crops,0.04,0.0%,Italy
+2020,Agricultural alternative development,0.03,0.0%,Italy
+2020,Plant and post-harvest protection and pest control,0.01,0.0%,Italy
+2020,Forestry education/training,0.0,0.0%,Italy
 2020,Forestry research,,,Italy
-2019,Agricultural development,27.048435966000003,28.956785518709676,Italy
-2019,Rural development,14.027895845000003,15.017606628829197,Italy
-2019,Research/scientific institutions,11.625388188499999,12.445594738612076,Italy
-2019,Agricultural education/training,4.275154277,4.576779434274641,Italy
-2019,Agricultural land resources,3.6522645395000004,3.909942928338945,Italy
-2019,Agricultural research,3.1663457185000006,3.3897410543049658,Italy
-2019,Agricultural co-operatives,3.118819336,3.338861540744087,Italy
-2019,Agricultural policy and administrative management,3.012197585500001,3.2247173009537065,Italy
-2019,Disaster Risk Reduction,2.6724174350000003,2.8609646257930796,Italy
-2019,Food crop production,2.4899538430000003,2.6656276715544385,Italy
-2019,Agricultural services,2.1869475725000003,2.341243385648899,Italy
-2019,Livestock/veterinary services,2.0319293815,2.1752881890553564,Italy
-2019,Agricultural water resources,1.854417191,1.985251972775566,Italy
-2019,Industrial crops/export crops,1.7414639470000002,1.8643295333316796,Italy
-2019,Agricultural inputs,1.562622025,1.6728697689439183,Italy
-2019,Agricultural financial services,1.484867556,1.589629485299262,Italy
-2019,Livestock,1.4461253305,1.54815387777315,Italy
-2019,Household food security programmes,1.3371794965,1.4315215833121893,Italy
-2019,Agricultural extension,1.0849591115,1.1615062818333202,Italy
-2019,Agricultural alternative development,0.9661501200000001,1.0343149540654522,Italy
-2019,Multisector education/training,0.8212115295000001,0.8791505044917992,Italy
-2019,Fishery development,0.707442874,0.75735512378267,Italy
-2019,Forestry development,0.3423517505,0.3665057093742685,Italy
-2019,Forestry policy and administrative management,0.30566680500000004,0.3272325292190706,Italy
-2019,Non-agricultural alternative development,0.1506218265,0.1612486551858028,Italy
-2019,Fishing policy and administrative management,0.1488495655,0.15935135577356757,Italy
-2019,Plant and post-harvest protection and pest control,0.0767397585,0.08215398222785647,Italy
-2019,Food security policy and administrative management,0.032672178,0.03497729968432678,Italy
-2019,Forestry education/training,0.0130883725,0.014011797049850833,Italy
-2019,Fishery education/training,0.0117597125,0.01258939603946892,Italy
-2019,Food safety and quality,0.006148267000000001,0.006582045965783388,Italy
-2019,Agrarian reform,0.0051892745,0.0055553936236125735,Italy
-2019,Forestry services,0.002387302,0.0025557334283313675,Italy
+2019,Agricultural development,27.05,35.2%,Italy
+2019,Rural development,14.03,18.3%,Italy
+2019,Agricultural education/training,4.28,5.6%,Italy
+2019,Agricultural land resources,3.65,4.8%,Italy
+2019,Agricultural research,3.17,4.1%,Italy
+2019,Agricultural co-operatives,3.12,4.1%,Italy
+2019,Agricultural policy and administrative management,3.01,3.9%,Italy
+2019,Food crop production,2.49,3.2%,Italy
+2019,Agricultural services,2.19,2.8%,Italy
+2019,Livestock/veterinary services,2.03,2.6%,Italy
+2019,Agricultural water resources,1.85,2.4%,Italy
+2019,Industrial crops/export crops,1.74,2.3%,Italy
+2019,Agricultural inputs,1.56,2.0%,Italy
+2019,Agricultural financial services,1.48,1.9%,Italy
+2019,Livestock,1.45,1.9%,Italy
+2019,Agricultural extension,1.08,1.4%,Italy
+2019,Agricultural alternative development,0.97,1.3%,Italy
+2019,Fishery development,0.71,0.9%,Italy
+2019,Forestry development,0.34,0.4%,Italy
+2019,Forestry policy and administrative management,0.31,0.4%,Italy
+2019,Fishing policy and administrative management,0.15,0.2%,Italy
+2019,Plant and post-harvest protection and pest control,0.08,0.1%,Italy
+2019,Fishery education/training,0.01,0.0%,Italy
+2019,Forestry education/training,0.01,0.0%,Italy
+2019,Agrarian reform,0.01,0.0%,Italy
+2019,Forestry services,0.0,0.0%,Italy

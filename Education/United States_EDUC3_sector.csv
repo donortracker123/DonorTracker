@@ -1,64 +1,64 @@
-year,Sector,Bilateral ODA for,share,donor
-2023,Primary education,712.6142419904,44.335160999669455,United States
-2023,Education policy and administrative management,259.39564415520005,16.138251200414107,United States
-2023,School feeding,232.04293930400004,14.436507814024237,United States
-2023,Higher education,215.88065499360016,13.430974336300586,United States
-2023,Basic life skills for adults,71.22075401439999,4.430985812080943,United States
-2023,Upper Secondary Education (modified and includes data from 11322),52.221243812800004,3.2489348593101375,United States
-2023,Advanced technical and managerial training,26.2492120632,1.6330897901870944,United States
-2023,Vocational training,15.529627424800003,0.9661728486092558,United States
-2023,Education facilities and training,10.988983989600005,0.683677571530025,United States
-2023,Educational research,5.409090770400001,0.33652556465569594,United States
-2023,Teacher training,3.9752468944,0.2473192376627161,United States
-2023,Early childhood education,1.7216108224,0.10710969342499554,United States
-2023,Basic life skills for youth,0.0850323576,0.005290272130750164,United States
-2022,Primary education,524.0999975064008,41.14046119366002,United States
-2022,School feeding,212.28413002399998,16.663741756983292,United States
-2022,Education policy and administrative management,176.98792065760006,13.89308283954275,United States
-2022,Higher education,149.28594408239996,11.718551075180779,United States
-2022,Basic life skills for adults,102.6414018312,8.057078093857037,United States
-2022,Advanced technical and managerial training,41.9186592008,3.2905036831634606,United States
-2022,Upper Secondary Education (modified and includes data from 11322),41.36365318640001,3.246937181529596,United States
-2022,Vocational training,7.738929224000002,0.6074854396780744,United States
-2022,Early childhood education,5.3441255968000005,0.41949970001003584,United States
-2022,Education facilities and training,5.0205946536,0.3941033781687916,United States
-2022,Educational research,4.519842668000001,0.3547956740488858,United States
-2022,Teacher training,2.7231490344,0.21375998417729006,United States
+year,Sub-Sector,Bilateral ODA for,Share,Donor
+2023,Primary education,712.61,44.3%,United States
+2023,Education policy and administrative management,259.4,16.1%,United States
+2023,School feeding,232.04,14.4%,United States
+2023,Higher education,215.88,13.4%,United States
+2023,Basic life skills for adults,71.22,4.4%,United States
+2023,Upper Secondary Education (modified and includes data from 11322),52.22,3.2%,United States
+2023,Advanced technical and managerial training,26.25,1.6%,United States
+2023,Vocational training,15.53,1.0%,United States
+2023,Education facilities and training,10.99,0.7%,United States
+2023,Educational research,5.41,0.3%,United States
+2023,Teacher training,3.98,0.2%,United States
+2023,Early childhood education,1.72,0.1%,United States
+2023,Basic life skills for youth,0.09,0.0%,United States
+2022,Primary education,524.1,41.1%,United States
+2022,School feeding,212.28,16.7%,United States
+2022,Education policy and administrative management,176.99,13.9%,United States
+2022,Higher education,149.29,11.7%,United States
+2022,Basic life skills for adults,102.64,8.1%,United States
+2022,Advanced technical and managerial training,41.92,3.3%,United States
+2022,Upper Secondary Education (modified and includes data from 11322),41.36,3.2%,United States
+2022,Vocational training,7.74,0.6%,United States
+2022,Early childhood education,5.34,0.4%,United States
+2022,Education facilities and training,5.02,0.4%,United States
+2022,Educational research,4.52,0.4%,United States
+2022,Teacher training,2.72,0.2%,United States
 2022,Basic life skills for youth,,,United States
-2021,Primary education,808.740257705599,56.49151206201957,United States
-2021,School feeding,220.6998888408,15.416161510133414,United States
-2021,Higher education,133.9073621648001,9.353595660474388,United States
-2021,Basic life skills for adults,91.84754059679999,6.415664854141263,United States
-2021,Upper Secondary Education (modified and includes data from 11322),57.848753533600004,4.040807325812362,United States
-2021,Advanced technical and managerial training,39.9287903872,2.789075630017007,United States
-2021,Education policy and administrative management,35.445145432799976,2.4758874579061225,United States
-2021,Education facilities and training,13.929601532800003,0.9729999780668145,United States
-2021,Vocational training,9.483726255999999,0.662450064874527,United States
-2021,Early childhood education,9.3068341328,0.6500939302364679,United States
-2021,Educational research,7.4588986232,0.5210133383705883,United States
-2021,Teacher training,3.0169568880000006,0.2107381879474666,United States
+2021,Primary education,808.74,56.5%,United States
+2021,School feeding,220.7,15.4%,United States
+2021,Higher education,133.91,9.4%,United States
+2021,Basic life skills for adults,91.85,6.4%,United States
+2021,Upper Secondary Education (modified and includes data from 11322),57.85,4.0%,United States
+2021,Advanced technical and managerial training,39.93,2.8%,United States
+2021,Education policy and administrative management,35.45,2.5%,United States
+2021,Education facilities and training,13.93,1.0%,United States
+2021,Vocational training,9.48,0.7%,United States
+2021,Early childhood education,9.31,0.7%,United States
+2021,Educational research,7.46,0.5%,United States
+2021,Teacher training,3.02,0.2%,United States
 2021,Basic life skills for youth,,,United States
-2020,Primary education,878.1722349743989,59.128187810194646,United States
-2020,School feeding,233.76158777840013,15.739394294757556,United States
-2020,Higher education,132.84838552960002,8.944810570222971,United States
-2020,Upper Secondary Education (modified and includes data from 11322),71.55060082879999,4.8175713091873025,United States
-2020,Basic life skills for adults,65.5604073664,4.414245776953284,United States
-2020,Education facilities and training,30.509653693600008,2.0542445567887615,United States
-2020,Education policy and administrative management,30.3203705512,2.04149993933515,United States
-2020,Teacher training,13.5573604576,0.9128302210224726,United States
-2020,Advanced technical and managerial training,9.529701274399999,0.6416440241295049,United States
-2020,Educational research,7.9690989943999995,0.5365671598950668,United States
-2020,Early childhood education,5.7957026056,0.3902302743219177,United States
-2020,Vocational training,5.6255548824,0.3787740631913758,United States
-2019,Primary education,1051.9586688471995,63.556197824030924,United States
-2019,Higher education,186.50460212719997,11.268050484225121,United States
-2019,School feeding,114.62401855840002,6.9252405200163265,United States
-2019,Education facilities and training,78.27196818399997,4.728958314902335,United States
-2019,Upper Secondary Education (modified and includes data from 11322),63.7263705088,3.8501567890526016,United States
-2019,Basic life skills for adults,63.698031577600005,3.8484446355518918,United States
-2019,Education policy and administrative management,40.7542987216,2.4622528892395996,United States
-2019,Vocational training,24.1033815936,1.4562542561389014,United States
-2019,Teacher training,16.5678562104,1.000980340779179,United States
-2019,Early childhood education,7.627816790400001,0.46084988626729506,United States
-2019,Advanced technical and managerial training,4.308104824,0.2602828139064247,United States
-2019,Educational research,3.0178793144,0.18233124588939292,United States
+2020,Primary education,878.17,59.1%,United States
+2020,School feeding,233.76,15.7%,United States
+2020,Higher education,132.85,8.9%,United States
+2020,Upper Secondary Education (modified and includes data from 11322),71.55,4.8%,United States
+2020,Basic life skills for adults,65.56,4.4%,United States
+2020,Education facilities and training,30.51,2.1%,United States
+2020,Education policy and administrative management,30.32,2.0%,United States
+2020,Teacher training,13.56,0.9%,United States
+2020,Advanced technical and managerial training,9.53,0.6%,United States
+2020,Educational research,7.97,0.5%,United States
+2020,Early childhood education,5.8,0.4%,United States
+2020,Vocational training,5.63,0.4%,United States
+2019,Primary education,1051.96,63.6%,United States
+2019,Higher education,186.5,11.3%,United States
+2019,School feeding,114.62,6.9%,United States
+2019,Education facilities and training,78.27,4.7%,United States
+2019,Upper Secondary Education (modified and includes data from 11322),63.73,3.9%,United States
+2019,Basic life skills for adults,63.7,3.8%,United States
+2019,Education policy and administrative management,40.75,2.5%,United States
+2019,Vocational training,24.1,1.5%,United States
+2019,Teacher training,16.57,1.0%,United States
+2019,Early childhood education,7.63,0.5%,United States
+2019,Advanced technical and managerial training,4.31,0.3%,United States
+2019,Educational research,3.02,0.2%,United States

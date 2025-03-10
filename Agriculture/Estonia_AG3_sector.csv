@@ -1,27 +1,23 @@
-year,Sector,Bilateral ODA for,share,donor
-2023,Research/scientific institutions,0.272503752,37.16814024297229,Estonia
-2023,Food crop production,0.197889696,26.991158542166254,Estonia
-2023,Forestry services,0.11029884479999999,15.044207289168757,Estonia
-2023,Industrial crops/export crops,0.05839390080000001,7.964634168664997,Estonia
-2023,Rural development,0.054067929599999995,7.37459346989084,Estonia
-2023,Forestry development,0.0183831408,2.5073678815281264,Estonia
-2023,Agricultural development,0.0183831408,2.5073678815281264,Estonia
-2023,Agricultural policy and administrative management,0.0032444784,0.44253052408061655,Estonia
-2022,Agricultural development,0.1681894656,50.709297581273326,Estonia
-2022,Forestry development,0.07997790240000001,24.11342017325272,Estonia
-2022,Industrial crops/export crops,0.06351169920000001,19.148842902472005,Estonia
-2022,Forestry policy and administrative management,0.0129376512,3.9007151985594866,Estonia
-2022,Agricultural inputs,0.007057104000000001,2.1277241444424586,Estonia
-2021,Disaster Risk Reduction,0.438569376,37.23899277897432,Estonia
-2021,Agricultural development,0.40168007040000003,34.10671619963611,Estonia
-2021,Forestry policy and administrative management,0.1407249168,11.948974204110781,Estonia
-2021,Forestry development,0.1161324192,9.860821472390308,Estonia
-2021,Industrial crops/export crops,0.0737774928,6.264458195161419,Estonia
-2021,Agricultural inputs,0.006831187199999999,0.5800371497270749,Estonia
-2020,Research/scientific institutions,0.043334644799999995,47.618872052009976,Estonia
-2020,Agricultural development,0.023111735999999997,25.39664982978775,Estonia
-2020,Disaster Risk Reduction,0.017334081600000002,19.047794614656688,Estonia
-2020,Agricultural inputs,0.0072226272000000015,7.936683503545577,Estonia
-2019,Agricultural development,0.028566172799999998,64.51629199292749,Estonia
-2019,Agricultural inputs,0.008570299200000001,19.355897954028798,Estonia
-2019,Agricultural policy and administrative management,0.007140984000000001,16.1278100530437,Estonia
+year,Sub-Sector,Bilateral ODA for,Share,Donor
+2023,Food crop production,0.2,43.0%,Estonia
+2023,Forestry services,0.11,23.9%,Estonia
+2023,Industrial crops/export crops,0.06,12.7%,Estonia
+2023,Rural development,0.05,11.7%,Estonia
+2023,Agricultural development,0.02,4.0%,Estonia
+2023,Forestry development,0.02,4.0%,Estonia
+2023,Agricultural policy and administrative management,0.0,0.7%,Estonia
+2022,Agricultural development,0.17,50.7%,Estonia
+2022,Forestry development,0.08,24.1%,Estonia
+2022,Industrial crops/export crops,0.06,19.1%,Estonia
+2022,Agricultural inputs,0.01,2.1%,Estonia
+2022,Forestry policy and administrative management,0.01,3.9%,Estonia
+2021,Agricultural development,0.4,54.3%,Estonia
+2021,Forestry policy and administrative management,0.14,19.0%,Estonia
+2021,Forestry development,0.12,15.7%,Estonia
+2021,Industrial crops/export crops,0.07,10.0%,Estonia
+2021,Agricultural inputs,0.01,0.9%,Estonia
+2020,Agricultural development,0.02,76.2%,Estonia
+2020,Agricultural inputs,0.01,23.8%,Estonia
+2019,Agricultural development,0.03,64.5%,Estonia
+2019,Agricultural policy and administrative management,0.01,16.1%,Estonia
+2019,Agricultural inputs,0.01,19.4%,Estonia

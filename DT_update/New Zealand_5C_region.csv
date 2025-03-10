@@ -1,61 +1,45 @@
-year,Region,Bilateral ODA,share,donor
-2023,Oceania,41881.146846879994,65.5%,New Zealand
-2023,Far East Asia,7333.462690400003,11.5%,New Zealand
-2023,Regional and Unspecified,5598.4937659199995,8.8%,New Zealand
-2023,South & Central Asia,3112.25643608,4.9%,New Zealand
-2023,Africa,1570.0379266000002,2.5%,New Zealand
-2023,South of Sahara,1460.7755962800002,2.3%,New Zealand
-2023,Middle East,1024.00635964,1.6%,New Zealand
-2023,Europe,736.18627808,1.2%,New Zealand
-2023,Asia,657.11957344,1.0%,New Zealand
-2023,Caribbean & Central America,433.52396604,0.7%,New Zealand
-2023,North of Sahara,94.52805339999999,0.1%,New Zealand
-2023,South America,75.29806944,0.1%,New Zealand
-2022,Oceania,24780.885788999996,58.2%,New Zealand
-2022,Regional and Unspecified,10656.382348480003,25.0%,New Zealand
-2022,Far East Asia,3050.5705621600005,7.2%,New Zealand
-2022,South & Central Asia,2056.3687143999996,4.8%,New Zealand
-2022,South of Sahara,840.5752176799999,2.0%,New Zealand
-2022,Europe,503.0077162,1.2%,New Zealand
-2022,Middle East,350.52500428,0.8%,New Zealand
-2022,Caribbean & Central America,113.13061496,0.3%,New Zealand
-2022,Africa,98.79083499999999,0.2%,New Zealand
-2022,South America,69.84513316,0.2%,New Zealand
-2022,Asia,69.77142128,0.2%,New Zealand
-2022,North of Sahara,0.6824756399999999,0.0%,New Zealand
-2021,Oceania,42289.828269039965,75.4%,New Zealand
-2021,Far East Asia,4472.32397084,8.0%,New Zealand
-2021,Regional and Unspecified,4057.494014199999,7.2%,New Zealand
-2021,South & Central Asia,2447.1713661999993,4.4%,New Zealand
-2021,South of Sahara,1469.6168185599997,2.6%,New Zealand
-2021,Middle East,704.9863664799999,1.3%,New Zealand
-2021,Caribbean & Central America,242.82958964,0.4%,New Zealand
-2021,South America,191.00726744,0.3%,New Zealand
-2021,America,151.17076348,0.3%,New Zealand
-2021,Asia,40.49970584,0.1%,New Zealand
-2021,North of Sahara,34.25316224,0.1%,New Zealand
-2021,Africa,19.022791039999998,0.0%,New Zealand
-2020,Oceania,31976.386290199982,67.8%,New Zealand
-2020,Far East Asia,6015.490995359999,12.8%,New Zealand
-2020,Regional and Unspecified,4051.6039326399996,8.6%,New Zealand
-2020,South & Central Asia,2374.4391673199993,5.0%,New Zealand
-2020,South of Sahara,1111.7543553599999,2.4%,New Zealand
-2020,Middle East,1029.6294791199998,2.2%,New Zealand
-2020,Caribbean & Central America,259.79101103999994,0.6%,New Zealand
-2020,South America,180.90945752,0.4%,New Zealand
-2020,Africa,91.6236618,0.2%,New Zealand
-2020,Asia,32.32681144,0.1%,New Zealand
-2020,North of Sahara,24.778776439999998,0.1%,New Zealand
-2020,Europe,1.92604324,0.0%,New Zealand
-2019,Oceania,34344.26735564,68.9%,New Zealand
-2019,Far East Asia,5769.25005272,11.6%,New Zealand
-2019,Regional and Unspecified,4276.57751136,8.6%,New Zealand
-2019,South & Central Asia,2240.3189151199995,4.5%,New Zealand
-2019,South of Sahara,1347.1435559999998,2.7%,New Zealand
-2019,Middle East,837.08748728,1.7%,New Zealand
-2019,South America,365.0383506,0.7%,New Zealand
-2019,Caribbean & Central America,291.52843499999994,0.6%,New Zealand
-2019,Asia,237.70646019999998,0.5%,New Zealand
-2019,Africa,89.2170048,0.2%,New Zealand
-2019,North of Sahara,28.82636856,0.1%,New Zealand
-2019,Europe,0.6456709599999999,0.0%,New Zealand
+year,Region,Bilateral ODA,Share,Donor
+2023,Oceania,418.81,65.5%,New Zealand
+2023,Asia,104.46,16.3%,New Zealand
+2023,"Developing countries, unspecified",55.98,8.8%,New Zealand
+2023,"Africa, regional",15.7,2.5%,New Zealand
+2023,sub-Saharan Africa,14.61,2.3%,New Zealand
+2023,MENA region,11.19,1.7%,New Zealand
+2023,Europe,7.36,1.2%,New Zealand
+2023,"Asia, regional",6.57,1.0%,New Zealand
+2023,Latin America and the Caribbeans,5.09,0.8%,New Zealand
+2022,Oceania,247.81,58.2%,New Zealand
+2022,"Developing countries, unspecified",106.56,25.0%,New Zealand
+2022,Asia,51.07,12.0%,New Zealand
+2022,sub-Saharan Africa,8.41,2.0%,New Zealand
+2022,Europe,5.03,1.2%,New Zealand
+2022,MENA region,3.51,0.8%,New Zealand
+2022,Latin America and the Caribbeans,1.83,0.4%,New Zealand
+2022,"Africa, regional",0.99,0.2%,New Zealand
+2022,"Asia, regional",0.7,0.2%,New Zealand
+2021,Oceania,422.9,75.4%,New Zealand
+2021,Asia,69.19,12.3%,New Zealand
+2021,"Developing countries, unspecified",40.57,7.2%,New Zealand
+2021,sub-Saharan Africa,14.7,2.6%,New Zealand
+2021,MENA region,7.39,1.3%,New Zealand
+2021,Latin America and the Caribbeans,5.85,1.0%,New Zealand
+2021,"Asia, regional",0.4,0.1%,New Zealand
+2021,"Africa, regional",0.19,0.0%,New Zealand
+2020,Oceania,319.76,67.8%,New Zealand
+2020,Asia,83.9,17.8%,New Zealand
+2020,"Developing countries, unspecified",40.52,8.6%,New Zealand
+2020,sub-Saharan Africa,11.12,2.4%,New Zealand
+2020,MENA region,10.54,2.2%,New Zealand
+2020,Latin America and the Caribbeans,4.41,0.9%,New Zealand
+2020,"Africa, regional",0.92,0.2%,New Zealand
+2020,"Asia, regional",0.32,0.1%,New Zealand
+2020,Europe,0.02,0.0%,New Zealand
+2019,Oceania,343.44,68.9%,New Zealand
+2019,Asia,80.1,16.1%,New Zealand
+2019,"Developing countries, unspecified",42.77,8.6%,New Zealand
+2019,sub-Saharan Africa,13.47,2.7%,New Zealand
+2019,MENA region,8.66,1.7%,New Zealand
+2019,Latin America and the Caribbeans,6.57,1.3%,New Zealand
+2019,"Asia, regional",2.38,0.5%,New Zealand
+2019,"Africa, regional",0.89,0.2%,New Zealand
+2019,Europe,0.01,0.0%,New Zealand

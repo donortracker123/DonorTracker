@@ -1,66 +1,46 @@
-year,Region,Bilateral ODA,share,donor
-2023,Europe,204165.61327219,29.8%,Canada
-2023,Regional and Unspecified,186920.78730033003,27.3%,Canada
-2023,South of Sahara,108012.35697541838,15.8%,Canada
-2023,Middle East,47667.47401438997,7.0%,Canada
-2023,Africa,34784.924957619995,5.1%,Canada
-2023,South & Central Asia,21662.565773149952,3.2%,Canada
-2023,Asia,20506.586334939977,3.0%,Canada
-2023,Caribbean & Central America,20051.491309550354,2.9%,Canada
-2023,America,14703.87079479999,2.1%,Canada
-2023,South America,14087.902731050019,2.1%,Canada
-2023,Far East Asia,5613.202434670001,0.8%,Canada
-2023,North of Sahara,3773.5208853799977,0.6%,Canada
-2023,Oceania,3310.8760666599974,0.5%,Canada
-2022,Europe,222643.5894096502,32.0%,Canada
-2022,South of Sahara,126781.91107534128,18.2%,Canada
-2022,Regional and Unspecified,102241.79557131996,14.7%,Canada
-2022,Africa,55874.48486759001,8.0%,Canada
-2022,Asia,45022.373511669866,6.5%,Canada
-2022,Middle East,37491.77302036004,5.4%,Canada
-2022,South & Central Asia,36359.43187089001,5.2%,Canada
-2022,Caribbean & Central America,22524.561246119905,3.2%,Canada
-2022,America,16191.34973360004,2.3%,Canada
-2022,South America,14527.033887950032,2.1%,Canada
-2022,Far East Asia,9077.898788989958,1.3%,Canada
-2022,Oceania,4439.484561740013,0.6%,Canada
-2022,North of Sahara,3043.957532790003,0.4%,Canada
-2021,South of Sahara,113341.49354033994,22.6%,Canada
-2021,Africa,99448.38444330989,19.8%,Canada
-2021,Regional and Unspecified,53233.375551749996,10.6%,Canada
-2021,Asia,49715.720081680025,9.9%,Canada
-2021,Middle East,45689.949133709975,9.1%,Canada
-2021,South & Central Asia,30318.786252880003,6.0%,Canada
-2021,America,28576.415375659988,5.7%,Canada
-2021,Caribbean & Central America,26501.483031939955,5.3%,Canada
-2021,South America,23513.373791169997,4.7%,Canada
-2021,Europe,11958.1346402,2.4%,Canada
-2021,Far East Asia,9016.815091959992,1.8%,Canada
-2021,Oceania,6476.353050729995,1.3%,Canada
-2021,North of Sahara,4280.503293609998,0.9%,Canada
-2020,South of Sahara,105481.77386401,23.1%,Canada
-2020,Regional and Unspecified,98527.84098185,21.6%,Canada
-2020,Africa,49932.398241919946,10.9%,Canada
-2020,Middle East,49179.48990360002,10.8%,Canada
-2020,Asia,35731.11216592998,7.8%,Canada
-2020,South & Central Asia,29112.594472330027,6.4%,Canada
-2020,America,27466.464487670015,6.0%,Canada
-2020,Caribbean & Central America,22020.401598560024,4.8%,Canada
-2020,South America,16547.19230965001,3.6%,Canada
-2020,Far East Asia,8577.359377649997,1.9%,Canada
-2020,Europe,8292.402269150005,1.8%,Canada
-2020,Oceania,4133.281786489999,0.9%,Canada
-2020,North of Sahara,2008.82723665,0.4%,Canada
-2019,South of Sahara,92948.30168472051,24.7%,Canada
-2019,Regional and Unspecified,74520.93228106003,19.8%,Canada
-2019,Middle East,44130.582437820005,11.7%,Canada
-2019,South & Central Asia,31963.40088749004,8.5%,Canada
-2019,Africa,31093.58058247001,8.2%,Canada
-2019,Asia,27052.36908186999,7.2%,Canada
-2019,Caribbean & Central America,22138.62830113001,5.9%,Canada
-2019,South America,17251.170322050002,4.6%,Canada
-2019,America,15403.244155049995,4.1%,Canada
-2019,Europe,9052.93365330001,2.4%,Canada
-2019,Far East Asia,7488.940524850004,2.0%,Canada
-2019,North of Sahara,2638.878826049998,0.7%,Canada
-2019,Oceania,1377.4387402900004,0.4%,Canada
+year,Region,Bilateral ODA,Share,Donor
+2023,Europe,2041.66,29.8%,Canada
+2023,"Developing countries, unspecified",1869.21,27.3%,Canada
+2023,sub-Saharan Africa,1080.12,15.8%,Canada
+2023,MENA region,514.41,7.5%,Canada
+2023,Latin America and the Caribbeans,488.43,7.1%,Canada
+2023,"Africa, regional",347.85,5.1%,Canada
+2023,Asia,272.76,4.0%,Canada
+2023,"Asia, regional",205.07,3.0%,Canada
+2023,Oceania,33.11,0.5%,Canada
+2022,Europe,2226.44,32.0%,Canada
+2022,sub-Saharan Africa,1267.82,18.2%,Canada
+2022,"Developing countries, unspecified",1022.42,14.7%,Canada
+2022,"Africa, regional",558.74,8.0%,Canada
+2022,Latin America and the Caribbeans,532.43,7.6%,Canada
+2022,Asia,454.37,6.5%,Canada
+2022,"Asia, regional",450.22,6.5%,Canada
+2022,MENA region,405.36,5.8%,Canada
+2022,Oceania,44.39,0.6%,Canada
+2021,sub-Saharan Africa,1133.41,22.6%,Canada
+2021,"Africa, regional",994.48,19.8%,Canada
+2021,Latin America and the Caribbeans,785.91,15.7%,Canada
+2021,"Developing countries, unspecified",532.33,10.6%,Canada
+2021,MENA region,499.7,10.0%,Canada
+2021,"Asia, regional",497.16,9.9%,Canada
+2021,Asia,393.36,7.8%,Canada
+2021,Europe,119.58,2.4%,Canada
+2021,Oceania,64.76,1.3%,Canada
+2020,sub-Saharan Africa,1054.82,23.1%,Canada
+2020,"Developing countries, unspecified",985.28,21.6%,Canada
+2020,Latin America and the Caribbeans,660.34,14.4%,Canada
+2020,MENA region,511.88,11.2%,Canada
+2020,"Africa, regional",499.32,10.9%,Canada
+2020,Asia,376.9,8.2%,Canada
+2020,"Asia, regional",357.31,7.8%,Canada
+2020,Europe,82.92,1.8%,Canada
+2020,Oceania,41.33,0.9%,Canada
+2019,sub-Saharan Africa,929.48,24.7%,Canada
+2019,"Developing countries, unspecified",745.21,19.8%,Canada
+2019,Latin America and the Caribbeans,547.93,14.5%,Canada
+2019,MENA region,467.69,12.4%,Canada
+2019,Asia,394.52,10.5%,Canada
+2019,"Africa, regional",310.94,8.2%,Canada
+2019,"Asia, regional",270.52,7.2%,Canada
+2019,Europe,90.53,2.4%,Canada
+2019,Oceania,13.77,0.4%,Canada

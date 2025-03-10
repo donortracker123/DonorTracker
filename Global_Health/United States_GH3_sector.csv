@@ -1,95 +1,95 @@
-year,Sector,Bilateral ODA for,share,donor
-2023,STD control including HIV/AIDS,4013.0590741711867,49.00512974519555,United States
-2023,Malaria control,722.9628296360006,8.82839913703065,United States
-2023,COVID-19 control,720.6995065304001,8.800760759325442,United States
-2023,Reproductive health care,535.1808557880003,6.5353155262117095,United States
-2023,Family planning,458.2262660680001,5.5955910955426305,United States
-2023,Infectious disease control,455.604940872,5.563581005743275,United States
-2023,Health policy and administrative management,451.0050753791997,5.50741013929978,United States
-2023,Tuberculosis control,328.01578865760035,4.005536919477866,United States
-2023,Basic health care,236.85970470080005,2.8923921491658247,United States
-2023,Basic nutrition,152.71875029839993,1.8649120370705916,United States
-2023,Health education,53.04693268959999,0.6477781091661079,United States
-2023,Population policy and administrative management,51.11064138960001,0.624133252554923,United States
-2023,"NCDs control, general",8.747308332800001,0.10681701212151372,United States
-2023,Medical research,0.8661189608000002,0.0105765380634333,United States
-2023,Medical services,0.4803953112,0.005866306505642872,United States
-2023,Basic health infrastructure,0.47498734000000004,0.005800267525050739,United States
+year,Sub-Sector,Bilateral ODA for,Share,Donor
+2023,STD control including HIV/AIDS,4013.06,49.0%,United States
+2023,Malaria control,722.96,8.8%,United States
+2023,COVID-19 control,720.7,8.8%,United States
+2023,Reproductive health care,535.18,6.5%,United States
+2023,Family planning,458.23,5.6%,United States
+2023,Infectious disease control,455.6,5.6%,United States
+2023,Health policy and administrative management,451.01,5.5%,United States
+2023,Tuberculosis control,328.02,4.0%,United States
+2023,Basic health care,236.86,2.9%,United States
+2023,Basic nutrition,152.72,1.9%,United States
+2023,Health education,53.05,0.6%,United States
+2023,Population policy and administrative management,51.11,0.6%,United States
+2023,"NCDs control, general",8.75,0.1%,United States
+2023,Medical research,0.87,0.0%,United States
+2023,Medical services,0.48,0.0%,United States
+2023,Basic health infrastructure,0.47,0.0%,United States
+2023,Promotion of mental health and well-being,,,United States
+2023,Control of harmful use of alcohol and drugs,,,United States
 2023,Medical education/training,,,United States
 2023,Health personnel development,,,United States
-2023,Control of harmful use of alcohol and drugs,,,United States
-2023,Promotion of mental health and well-being,,,United States
-2022,STD control including HIV/AIDS,7180.970516467998,54.521425767308706,United States
-2022,COVID-19 control,3076.311555030404,23.356855692425356,United States
-2022,Malaria control,622.3120841567999,4.724896449949843,United States
-2022,Health policy and administrative management,553.4314574376001,4.20192118248924,United States
-2022,Reproductive health care,401.3710176471999,3.0474042601367484,United States
-2022,Family planning,387.30120107600027,2.9405793597995142,United States
-2022,Infectious disease control,357.3112936736,2.7128813757375134,United States
-2022,Tuberculosis control,240.19484266640004,1.8236762362544487,United States
-2022,Basic health care,162.86967203120005,1.236585878333701,United States
-2022,Basic nutrition,104.22815474399995,0.7913509168024842,United States
-2022,Health education,43.51236195840002,0.33036704537843326,United States
-2022,Population policy and administrative management,37.96314019520002,0.2882346509152048,United States
-2022,Health personnel development,1.635164216,0.012414963160697283,United States
-2022,"NCDs control, general",0.675545044,0.005129067009041999,United States
-2022,Medical research,0.6285210120000001,0.004772037654292806,United States
-2022,Basic health infrastructure,0.09654868000000001,0.0007330446041353138,United States
-2022,Medical education/training,0.08093695040000001,0.0006145127490700808,United States
-2022,Medical services,0.020752000000000003,0.00015755929159275955,United States
+2022,STD control including HIV/AIDS,7180.97,54.5%,United States
+2022,COVID-19 control,3076.31,23.4%,United States
+2022,Malaria control,622.31,4.7%,United States
+2022,Health policy and administrative management,553.43,4.2%,United States
+2022,Reproductive health care,401.37,3.0%,United States
+2022,Family planning,387.3,2.9%,United States
+2022,Infectious disease control,357.31,2.7%,United States
+2022,Tuberculosis control,240.19,1.8%,United States
+2022,Basic health care,162.87,1.2%,United States
+2022,Basic nutrition,104.23,0.8%,United States
+2022,Health education,43.51,0.3%,United States
+2022,Population policy and administrative management,37.96,0.3%,United States
+2022,Health personnel development,1.64,0.0%,United States
+2022,"NCDs control, general",0.68,0.0%,United States
+2022,Medical research,0.63,0.0%,United States
+2022,Basic health infrastructure,0.1,0.0%,United States
+2022,Medical education/training,0.08,0.0%,United States
+2022,Medical services,0.02,0.0%,United States
 2022,Control of harmful use of alcohol and drugs,,,United States
-2021,STD control including HIV/AIDS,5093.411228113635,55.68350326802177,United States
-2021,COVID-19 control,921.7077354128007,10.076530913846446,United States
-2021,Malaria control,773.2435373271993,8.453452334670828,United States
-2021,Reproductive health care,547.5435038911999,5.985996245506667,United States
-2021,Health policy and administrative management,531.1317878039988,5.806575852091082,United States
-2021,Family planning,466.4590420495999,5.09954378884636,United States
-2021,Tuberculosis control,263.4344554631999,2.8799860652773823,United States
-2021,Basic health care,203.67461497120001,2.226664131449326,United States
-2021,Infectious disease control,146.62676101280002,1.6029908759319875,United States
-2021,Basic nutrition,133.28761509840004,1.457161226243129,United States
-2021,Population policy and administrative management,58.90684717120008,0.6439966203516599,United States
-2021,Health education,4.4780377640000015,0.048955958845358694,United States
-2021,Medical research,1.6793805024000004,0.018359756458988224,United States
-2021,Health personnel development,1.1582386392,0.012662395035974383,United States
-2021,Basic health infrastructure,0.16816486960000002,0.0018384553389784028,United States
-2021,Medical education/training,0.1352449344,0.0014785595368930955,United States
-2021,Promotion of mental health and well-being,0.027766176,0.0003035525471618121,United States
-2021,Medical services,0.0,0.0,United States
-2021,"NCDs control, general",0.0,0.0,United States
-2020,STD control including HIV/AIDS,5712.13439187121,62.82658577273659,United States
-2020,Malaria control,822.0963735679999,9.042068127970994,United States
-2020,Reproductive health care,574.1422813192004,6.314872306643849,United States
-2020,COVID-19 control,506.79809636400023,5.574167532889934,United States
-2020,Family planning,471.41634829119994,5.18501099741897,United States
-2020,Basic health care,280.5032794800002,3.0851976054455332,United States
-2020,Tuberculosis control,265.9572615768001,2.925208960439618,United States
-2020,Health policy and administrative management,134.19603493599976,1.4759944568646344,United States
-2020,Infectious disease control,131.86102300880003,1.4503121432038524,United States
-2020,Basic nutrition,130.5212386104,1.4355761314701578,United States
-2020,Population policy and administrative management,56.924377483200026,0.6260994646059681,United States
-2020,Health education,2.6653889552000005,0.029316062319871484,United States
-2020,Medical research,1.4740456880000001,0.016212723913123325,United States
-2020,Health personnel development,0.3903741727999999,0.0042936448564274724,United States
-2020,Basic health infrastructure,0.35452509279999994,0.0038993482336626356,United States
-2020,Medical services,0.3351053712,0.003685754728838709,United States
-2020,Medical education/training,0.1362846096,0.0014989662579933524,United States
-2020,Promotion of mental health and well-being,0.0,0.0,United States
-2019,STD control including HIV/AIDS,4250.733745190402,55.28472585471368,United States
-2019,Malaria control,1022.1145079287998,13.293545009001297,United States
-2019,Reproductive health care,658.5396671479998,8.564917763650893,United States
-2019,Family planning,492.37430981599994,6.403783527227749,United States
-2019,Basic health care,415.2354444112002,5.400521200700406,United States
-2019,Tuberculosis control,234.43518109680002,3.0490464692834336,United States
-2019,Infectious disease control,220.41272681520005,2.8666714754025158,United States
-2019,Health policy and administrative management,168.04612250559995,2.185595327908166,United States
-2019,Basic nutrition,167.84561771920002,2.182987577620061,United States
-2019,Population policy and administrative management,46.224944074399986,0.6011981728317366,United States
-2019,Health education,7.7911962487999995,0.10133171694946698,United States
-2019,Basic health infrastructure,1.6728176824000003,0.02175654193374067,United States
-2019,Medical education/training,1.2369634264,0.01608785400831266,United States
-2019,Medical research,1.1807908752,0.015357277999602247,United States
-2019,Medical services,0.5594500551999999,0.007276165665782257,United States
-2019,Health personnel development,0.35908326960000003,0.00467021020578202,United States
-2019,Promotion of mental health and well-being,0.040009856,0.0005203652011724607,United States
-2019,Other prevention and treatment of NCDs,0.0005758680000000001,7.489696230568355e-06,United States
+2021,STD control including HIV/AIDS,5093.41,55.7%,United States
+2021,COVID-19 control,921.71,10.1%,United States
+2021,Malaria control,773.24,8.5%,United States
+2021,Reproductive health care,547.54,6.0%,United States
+2021,Health policy and administrative management,531.13,5.8%,United States
+2021,Family planning,466.46,5.1%,United States
+2021,Tuberculosis control,263.43,2.9%,United States
+2021,Basic health care,203.67,2.2%,United States
+2021,Infectious disease control,146.63,1.6%,United States
+2021,Basic nutrition,133.29,1.5%,United States
+2021,Population policy and administrative management,58.91,0.6%,United States
+2021,Health education,4.48,0.0%,United States
+2021,Medical research,1.68,0.0%,United States
+2021,Health personnel development,1.16,0.0%,United States
+2021,Basic health infrastructure,0.17,0.0%,United States
+2021,Medical education/training,0.14,0.0%,United States
+2021,Promotion of mental health and well-being,0.03,0.0%,United States
+2021,"NCDs control, general",0.0,0.0%,United States
+2021,Medical services,0.0,0.0%,United States
+2020,STD control including HIV/AIDS,5712.13,62.8%,United States
+2020,Malaria control,822.1,9.0%,United States
+2020,Reproductive health care,574.14,6.3%,United States
+2020,COVID-19 control,506.8,5.6%,United States
+2020,Family planning,471.42,5.2%,United States
+2020,Basic health care,280.5,3.1%,United States
+2020,Tuberculosis control,265.96,2.9%,United States
+2020,Health policy and administrative management,134.2,1.5%,United States
+2020,Infectious disease control,131.86,1.5%,United States
+2020,Basic nutrition,130.52,1.4%,United States
+2020,Population policy and administrative management,56.92,0.6%,United States
+2020,Health education,2.67,0.0%,United States
+2020,Medical research,1.47,0.0%,United States
+2020,Health personnel development,0.39,0.0%,United States
+2020,Basic health infrastructure,0.35,0.0%,United States
+2020,Medical services,0.34,0.0%,United States
+2020,Medical education/training,0.14,0.0%,United States
+2020,Promotion of mental health and well-being,0.0,0.0%,United States
+2019,STD control including HIV/AIDS,4250.73,55.3%,United States
+2019,Malaria control,1022.11,13.3%,United States
+2019,Reproductive health care,658.54,8.6%,United States
+2019,Family planning,492.37,6.4%,United States
+2019,Basic health care,415.24,5.4%,United States
+2019,Tuberculosis control,234.44,3.0%,United States
+2019,Infectious disease control,220.41,2.9%,United States
+2019,Health policy and administrative management,168.05,2.2%,United States
+2019,Basic nutrition,167.85,2.2%,United States
+2019,Population policy and administrative management,46.22,0.6%,United States
+2019,Health education,7.79,0.1%,United States
+2019,Basic health infrastructure,1.67,0.0%,United States
+2019,Medical education/training,1.24,0.0%,United States
+2019,Medical research,1.18,0.0%,United States
+2019,Medical services,0.56,0.0%,United States
+2019,Health personnel development,0.36,0.0%,United States
+2019,Promotion of mental health and well-being,0.04,0.0%,United States
+2019,Other prevention and treatment of NCDs,0.0,0.0%,United States

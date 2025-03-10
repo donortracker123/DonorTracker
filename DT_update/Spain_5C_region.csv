@@ -1,65 +1,45 @@
-year,Region,Bilateral ODA,share,donor
-2023,Regional and Unspecified,65720.68914907998,42.2%,Spain
-2023,Caribbean & Central America,20785.33194961002,13.3%,Spain
-2023,South America,19182.622726079997,12.3%,Spain
-2023,South of Sahara,16611.598341509994,10.7%,Spain
-2023,Middle East,10819.562079619996,6.9%,Spain
-2023,North of Sahara,7251.672687659999,4.7%,Spain
-2023,America,6360.7478344599995,4.1%,Spain
-2023,Europe,4233.53984424,2.7%,Spain
-2023,South & Central Asia,1767.8272471499995,1.1%,Spain
-2023,Far East Asia,1360.26228609,0.9%,Spain
-2023,Africa,1263.96695889,0.8%,Spain
-2023,Asia,470.49144522000006,0.3%,Spain
-2023,Oceania,6.88621795,0.0%,Spain
-2022,Regional and Unspecified,143792.45032719025,59.0%,Spain
-2022,South America,21236.96512604004,8.7%,Spain
-2022,South of Sahara,20712.79599968004,8.5%,Spain
-2022,Caribbean & Central America,18688.72161087004,7.7%,Spain
-2022,Europe,14182.0012648,5.8%,Spain
-2022,Middle East,7827.923250639993,3.2%,Spain
-2022,North of Sahara,6885.127392619997,2.8%,Spain
-2022,South & Central Asia,3428.130027290001,1.4%,Spain
-2022,America,3044.18918141,1.2%,Spain
-2022,Africa,1792.22215015,0.7%,Spain
-2022,Far East Asia,1319.1759110200003,0.5%,Spain
-2022,Asia,879.7781505899998,0.4%,Spain
-2022,Oceania,11.348565279999999,0.0%,Spain
-2021,Regional and Unspecified,64324.2664360299,41.8%,Spain
-2021,South America,24904.88848069001,16.2%,Spain
-2021,South of Sahara,23343.009751500016,15.2%,Spain
-2021,Caribbean & Central America,16897.31298571998,11.0%,Spain
-2021,North of Sahara,9392.43172651,6.1%,Spain
-2021,Middle East,6012.54828746001,3.9%,Spain
-2021,America,3029.9048755799986,2.0%,Spain
-2021,South & Central Asia,1919.35571529,1.2%,Spain
-2021,Europe,1824.06200007,1.2%,Spain
-2021,Far East Asia,1349.2985723699994,0.9%,Spain
-2021,Africa,540.28060934,0.4%,Spain
-2021,Asia,236.10675747,0.2%,Spain
-2021,Oceania,5.9398172,0.0%,Spain
-2020,Regional and Unspecified,33107.845563160015,29.9%,Spain
-2020,South America,23118.858557429976,20.8%,Spain
-2020,Caribbean & Central America,16557.76381274998,14.9%,Spain
-2020,South of Sahara,13792.958749409981,12.4%,Spain
-2020,Middle East,6943.410384549997,6.3%,Spain
-2020,North of Sahara,6028.248235259996,5.4%,Spain
-2020,Europe,4485.715239039999,4.0%,Spain
-2020,America,3726.5461830899985,3.4%,Spain
-2020,South & Central Asia,1877.8875258199998,1.7%,Spain
-2020,Far East Asia,883.6689694900001,0.8%,Spain
-2020,Africa,276.8476555900001,0.2%,Spain
-2020,Oceania,50.73434768999999,0.0%,Spain
-2020,Asia,32.49142921,0.0%,Spain
-2019,Regional and Unspecified,34492.03448726003,29.0%,Spain
-2019,South America,22156.39144797,18.6%,Spain
-2019,South of Sahara,15665.726382759978,13.2%,Spain
-2019,Caribbean & Central America,15176.002555719984,12.7%,Spain
-2019,Middle East,9502.494825399992,8.0%,Spain
-2019,North of Sahara,7915.339332109999,6.6%,Spain
-2019,Europe,6970.75914259,5.9%,Spain
-2019,South & Central Asia,3199.019584820003,2.7%,Spain
-2019,America,2721.0630172600004,2.3%,Spain
-2019,Far East Asia,947.3216602999997,0.8%,Spain
-2019,Africa,299.32817156,0.3%,Spain
-2019,Oceania,1.6880101399999998,0.0%,Spain
+year,Region,Bilateral ODA,Share,Donor
+2023,"Developing countries, unspecified",657.21,42.2%,Spain
+2023,Latin America and the Caribbeans,463.29,29.7%,Spain
+2023,MENA region,180.71,11.6%,Spain
+2023,sub-Saharan Africa,166.12,10.7%,Spain
+2023,Europe,42.34,2.7%,Spain
+2023,Asia,31.28,2.0%,Spain
+2023,"Africa, regional",12.64,0.8%,Spain
+2023,"Asia, regional",4.7,0.3%,Spain
+2023,Oceania,0.07,0.0%,Spain
+2022,"Developing countries, unspecified",1437.92,59.0%,Spain
+2022,Latin America and the Caribbeans,429.7,17.6%,Spain
+2022,sub-Saharan Africa,207.13,8.5%,Spain
+2022,MENA region,147.13,6.0%,Spain
+2022,Europe,141.82,5.8%,Spain
+2022,Asia,47.47,1.9%,Spain
+2022,"Africa, regional",17.92,0.7%,Spain
+2022,"Asia, regional",8.8,0.4%,Spain
+2022,Oceania,0.11,0.0%,Spain
+2021,"Developing countries, unspecified",643.24,41.8%,Spain
+2021,Latin America and the Caribbeans,448.32,29.2%,Spain
+2021,sub-Saharan Africa,233.43,15.2%,Spain
+2021,MENA region,154.05,10.0%,Spain
+2021,Asia,32.69,2.1%,Spain
+2021,Europe,18.24,1.2%,Spain
+2021,"Africa, regional",5.4,0.4%,Spain
+2021,"Asia, regional",2.36,0.2%,Spain
+2021,Oceania,0.06,0.0%,Spain
+2020,Latin America and the Caribbeans,434.03,39.1%,Spain
+2020,"Developing countries, unspecified",331.08,29.9%,Spain
+2020,sub-Saharan Africa,137.93,12.4%,Spain
+2020,MENA region,129.72,11.7%,Spain
+2020,Europe,44.86,4.0%,Spain
+2020,Asia,27.62,2.5%,Spain
+2020,"Africa, regional",2.77,0.2%,Spain
+2020,Oceania,0.51,0.0%,Spain
+2020,"Asia, regional",0.32,0.0%,Spain
+2019,Latin America and the Caribbeans,400.53,33.6%,Spain
+2019,"Developing countries, unspecified",344.92,29.0%,Spain
+2019,MENA region,174.18,14.6%,Spain
+2019,sub-Saharan Africa,156.66,13.2%,Spain
+2019,Europe,69.71,5.9%,Spain
+2019,Asia,41.46,3.5%,Spain
+2019,"Africa, regional",2.99,0.3%,Spain
+2019,Oceania,0.02,0.0%,Spain

@@ -1,35 +1,35 @@
-Year,Multi_short,ODA,Share,Full Name,donor
-2019,CEB,0.0,0.0,council of europe development bank,Lithuania
-2020,CEB,0.0,0.0,council of europe development bank,Lithuania
-2021,CEB,0.0,0.0,council of europe development bank,Lithuania
-2023,CEB,0.003,0.0004743382980741866,council of europe development bank,Lithuania
-2019,EC-DSB,4.870699999999999,0.8663796936978602,european commission development share of budget,Lithuania
-2020,EC-DSB,4.677500000000001,0.838456988187212,european commission development share of budget,Lithuania
-2021,EC-DSB,4.4695,0.8785603365242858,european commission development share of budget,Lithuania
-2022,EC-DSB,7.0722000000000005,0.9492376248255128,european commission development share of budget,Lithuania
-2023,EC-DSB,5.8259,0.9211491635834678,european commission development share of budget,Lithuania
-2019,EC-EDF,0.6244000000000001,0.11106565396040487,european commission european development fund,Lithuania
-2020,EC-EDF,0.6482,0.11619194435979706,european commission european development fund,Lithuania
-2021,EC-EDF,0.3487,0.06854323511489394,european commission european development fund,Lithuania
-2022,EC-EDF,0.1228,0.016482336518844627,european commission european development fund,Lithuania
-2023,EC-EDF,0.023399999999999997,0.003699838724978655,european commission european development fund,Lithuania
-2022,EIB,0.005600000000000001,0.0007516374959733706,european investment bank,Lithuania
-2023,EIB,0.0076,0.0012016570217879394,european investment bank,Lithuania
-2019,FAO,0.0006,0.00010672548426688487,food and agricultural organisation,Lithuania
-2020,FAO,0.0007,0.0001254772617276426,food and agricultural organisation,Lithuania
-2021,FAO,0.0006,0.00011794075442769246,food and agricultural organisation,Lithuania
-2022,FAO,0.0001,1.3422098142381618e-05,food and agricultural organisation,Lithuania
-2023,FAO,0.0001,1.5811276602472885e-05,food and agricultural organisation,Lithuania
-2020,IBRD,0.13590000000000002,0.02436051409826662,international bank for reconstruction and development,Lithuania
-2021,IBRD,0.09930000000000001,0.019519194857783105,international bank for reconstruction and development,Lithuania
-2022,IBRD,0.09100000000000001,0.012214109309567274,international bank for reconstruction and development,Lithuania
-2023,IBRD,0.09620000000000001,0.015210448091578918,international bank for reconstruction and development,Lithuania
-2019,IDA,0.1262,0.02244792685746812,international development association,Lithuania
-2020,IDA,0.11639999999999999,0.02086507609299657,international development association,Lithuania
-2021,IDA,0.1672,0.03286615690051697,international development association,Lithuania
-2022,IDA,0.15710000000000002,0.021086116181681522,international development association,Lithuania
-2023,IDA,0.36700000000000005,0.0580273851310755,international development association,Lithuania
-2023,UN,0.0,0.0,united nations,Lithuania
-2021,,0.002,0.00039313584809230826,united nations children’s fund,Lithuania
-2022,,0.0016,0.0002147535702781059,united nations children’s fund,Lithuania
-2023,,0.0014,0.00022135787243462038,united nations children’s fund,Lithuania
+Year,Multi_short,ODA,Share,Full Name,Donor
+2019,CEB,0.0,0.0%,council of europe development bank,Lithuania
+2020,CEB,0.0,0.0%,council of europe development bank,Lithuania
+2021,CEB,0.0,0.0%,council of europe development bank,Lithuania
+2023,CEB,0.0,0.0%,council of europe development bank,Lithuania
+2019,EC-DSB,4.87,0.47%,european commission development share of budget,Lithuania
+2020,EC-DSB,4.68,0.46%,european commission development share of budget,Lithuania
+2021,EC-DSB,4.47,0.39%,european commission development share of budget,Lithuania
+2022,EC-DSB,7.22,0.49%,european commission development share of budget,Lithuania
+2023,EC-DSB,5.95,0.26%,european commission development share of budget,Lithuania
+2019,EC-EDF,0.62,0.06%,european commission european development fund,Lithuania
+2020,EC-EDF,0.65,0.06%,european commission european development fund,Lithuania
+2021,EC-EDF,0.35,0.03%,european commission european development fund,Lithuania
+2022,EC-EDF,0.12,0.01%,european commission european development fund,Lithuania
+2023,EC-EDF,0.02,0.0%,european commission european development fund,Lithuania
+2022,EIB,0.01,0.0%,european investment bank,Lithuania
+2023,EIB,0.01,0.0%,european investment bank,Lithuania
+2019,FAO,0.0,0.0%,food and agricultural organisation,Lithuania
+2020,FAO,0.0,0.0%,food and agricultural organisation,Lithuania
+2021,FAO,0.0,0.0%,food and agricultural organisation,Lithuania
+2022,FAO,0.0,0.0%,food and agricultural organisation,Lithuania
+2023,FAO,0.0,0.0%,food and agricultural organisation,Lithuania
+2020,IBRD,0.14,0.01%,international bank for reconstruction and development,Lithuania
+2021,IBRD,0.1,0.01%,international bank for reconstruction and development,Lithuania
+2022,IBRD,0.09,0.01%,international bank for reconstruction and development,Lithuania
+2023,IBRD,0.1,0.0%,international bank for reconstruction and development,Lithuania
+2019,IDA,0.13,0.01%,international development association,Lithuania
+2020,IDA,0.12,0.01%,international development association,Lithuania
+2021,IDA,0.17,0.01%,international development association,Lithuania
+2022,IDA,0.16,0.01%,international development association,Lithuania
+2023,IDA,0.37,0.02%,international development association,Lithuania
+2023,UN,0.0,0.0%,united nations,Lithuania
+2021,,0.0,0.0%,united nations children’s fund,Lithuania
+2022,,0.0,0.0%,united nations children’s fund,Lithuania
+2023,,0.0,0.0%,united nations children’s fund,Lithuania

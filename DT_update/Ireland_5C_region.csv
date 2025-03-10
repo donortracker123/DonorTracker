@@ -1,62 +1,45 @@
-year,Region,Bilateral ODA,share,donor
-2023,Regional and Unspecified,169424.19800999996,79.0%,Ireland
-2023,South of Sahara,28747.735209000006,13.4%,Ireland
-2023,Middle East,6271.466352000006,2.9%,Ireland
-2023,Europe,3974.7492285000003,1.9%,Ireland
-2023,South & Central Asia,2422.6077914999996,1.1%,Ireland
-2023,Far East Asia,923.1506264999999,0.4%,Ireland
-2023,South America,881.5655714999997,0.4%,Ireland
-2023,Caribbean & Central America,880.452753,0.4%,Ireland
-2023,Oceania,452.3021984999998,0.2%,Ireland
-2023,North of Sahara,336.988578,0.2%,Ireland
-2023,Africa,140.504811,0.1%,Ireland
-2023,Asia,97.3198065,0.0%,Ireland
-2023,America,8.795622,0.0%,Ireland
-2022,Regional and Unspecified,146924.40745650002,75.6%,Ireland
-2022,South of Sahara,31041.489609000077,16.0%,Ireland
-2022,Europe,6867.6163965000005,3.5%,Ireland
-2022,Middle East,4372.934623500001,2.3%,Ireland
-2022,South & Central Asia,1548.6201209999997,0.8%,Ireland
-2022,Caribbean & Central America,963.4053900000001,0.5%,Ireland
-2022,Far East Asia,810.1466715000001,0.4%,Ireland
-2022,Africa,801.362445,0.4%,Ireland
-2022,South America,779.1852044999999,0.4%,Ireland
-2022,Asia,139.33277850000002,0.1%,Ireland
-2022,Oceania,46.56350400000001,0.0%,Ireland
-2022,North of Sahara,13.267131000000001,0.0%,Ireland
-2021,South of Sahara,28452.89869199998,45.3%,Ireland
-2021,Regional and Unspecified,24348.446521499995,38.8%,Ireland
-2021,Middle East,4703.354813999998,7.5%,Ireland
-2021,South & Central Asia,1634.9596709999994,2.6%,Ireland
-2021,Caribbean & Central America,897.5715630000002,1.4%,Ireland
-2021,Far East Asia,859.7834459999998,1.4%,Ireland
-2021,South America,727.4957490000002,1.2%,Ireland
-2021,Oceania,517.6484684999999,0.8%,Ireland
-2021,Europe,455.58996,0.7%,Ireland
-2021,Africa,165.40355250000002,0.3%,Ireland
-2021,Asia,47.766102000000004,0.1%,Ireland
-2021,North of Sahara,11.900523,0.0%,Ireland
-2020,South of Sahara,27925.408238999975,50.7%,Ireland
-2020,Regional and Unspecified,18336.972655499987,33.3%,Ireland
-2020,Middle East,3782.7678555000007,6.9%,Ireland
-2020,Far East Asia,1242.778746,2.3%,Ireland
-2020,South & Central Asia,1110.2296980000006,2.0%,Ireland
-2020,Caribbean & Central America,729.6431085,1.3%,Ireland
-2020,Europe,681.9161985,1.2%,Ireland
-2020,South America,647.3241465000003,1.2%,Ireland
-2020,Africa,317.6529705,0.6%,Ireland
-2020,Oceania,246.3471735,0.4%,Ireland
-2020,North of Sahara,6.737403,0.0%,Ireland
-2019,South of Sahara,27976.75849200001,46.0%,Ireland
-2019,Regional and Unspecified,23862.78149399998,39.3%,Ireland
-2019,Middle East,3820.4734349999994,6.3%,Ireland
-2019,Far East Asia,1249.3356315000008,2.1%,Ireland
-2019,South & Central Asia,1074.2635829999997,1.8%,Ireland
-2019,Caribbean & Central America,751.7977710000004,1.2%,Ireland
-2019,Europe,704.0952495,1.2%,Ireland
-2019,South America,596.3218290000002,1.0%,Ireland
-2019,Oceania,551.7540285000001,0.9%,Ireland
-2019,Africa,157.91830650000003,0.3%,Ireland
-2019,North of Sahara,19.8947325,0.0%,Ireland
-2019,America,7.998576000000001,0.0%,Ireland
-2019,Asia,2.1424605,0.0%,Ireland
+year,Region,Bilateral ODA,Share,Donor
+2023,"Developing countries, unspecified",1694.24,79.0%,Ireland
+2023,sub-Saharan Africa,287.48,13.4%,Ireland
+2023,MENA region,66.08,3.1%,Ireland
+2023,Europe,39.75,1.9%,Ireland
+2023,Asia,33.46,1.6%,Ireland
+2023,Latin America and the Caribbeans,17.71,0.8%,Ireland
+2023,Oceania,4.52,0.2%,Ireland
+2023,"Africa, regional",1.41,0.1%,Ireland
+2023,"Asia, regional",0.97,0.0%,Ireland
+2022,"Developing countries, unspecified",1469.24,75.6%,Ireland
+2022,sub-Saharan Africa,310.41,16.0%,Ireland
+2022,Europe,68.68,3.5%,Ireland
+2022,MENA region,43.86,2.3%,Ireland
+2022,Asia,23.59,1.2%,Ireland
+2022,Latin America and the Caribbeans,17.43,0.9%,Ireland
+2022,"Africa, regional",8.01,0.4%,Ireland
+2022,"Asia, regional",1.39,0.1%,Ireland
+2022,Oceania,0.47,0.0%,Ireland
+2021,sub-Saharan Africa,284.53,45.3%,Ireland
+2021,"Developing countries, unspecified",243.48,38.8%,Ireland
+2021,MENA region,47.15,7.5%,Ireland
+2021,Asia,24.95,4.0%,Ireland
+2021,Latin America and the Caribbeans,16.25,2.6%,Ireland
+2021,Oceania,5.18,0.8%,Ireland
+2021,Europe,4.56,0.7%,Ireland
+2021,"Africa, regional",1.65,0.3%,Ireland
+2021,"Asia, regional",0.48,0.1%,Ireland
+2020,sub-Saharan Africa,279.25,50.7%,Ireland
+2020,"Developing countries, unspecified",183.37,33.3%,Ireland
+2020,MENA region,37.9,6.9%,Ireland
+2020,Asia,23.53,4.3%,Ireland
+2020,Latin America and the Caribbeans,13.77,2.5%,Ireland
+2020,Europe,6.82,1.2%,Ireland
+2020,"Africa, regional",3.18,0.6%,Ireland
+2020,Oceania,2.46,0.4%,Ireland
+2019,sub-Saharan Africa,279.77,46.0%,Ireland
+2019,"Developing countries, unspecified",238.63,39.3%,Ireland
+2019,MENA region,38.4,6.3%,Ireland
+2019,Asia,23.24,3.8%,Ireland
+2019,Latin America and the Caribbeans,13.56,2.2%,Ireland
+2019,Europe,7.04,1.2%,Ireland
+2019,Oceania,5.52,0.9%,Ireland
+2019,"Africa, regional",1.58,0.3%,Ireland
+2019,"Asia, regional",0.02,0.0%,Ireland

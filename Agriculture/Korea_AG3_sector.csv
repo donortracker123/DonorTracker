@@ -1,151 +1,131 @@
-year,Sector,Bilateral ODA for,share,donor
-2023,Agricultural development,67.44593419199995,26.192690154179488,Korea
-2023,Agricultural water resources,53.838478511999995,20.90822231067166,Korea
-2023,Agricultural policy and administrative management,21.024761184,8.164985211568945,Korea
-2023,Rural development,18.344770415999996,7.124208348690057,Korea
-2023,Forestry policy and administrative management,15.609320496000002,6.061893873470979,Korea
-2023,Agricultural education/training,13.821671808000001,5.3676588724994385,Korea
-2023,Disaster Risk Reduction,7.837385472,3.0436558073698254,Korea
-2023,Agricultural inputs,6.7053974400000005,2.604047221090769,Korea
-2023,Food crop production,5.863704336,2.277174935280002,Korea
-2023,Agricultural services,5.82442056,2.2619190449853392,Korea
-2023,Agricultural research,5.823055727999998,2.2613890112313877,Korea
-2023,Forestry development,5.772232368000001,2.241651712949112,Korea
-2023,Livestock,4.8939156,1.9005565937688491,Korea
-2023,Fishery development,4.467348144,1.7348987325691172,Korea
-2023,Agricultural extension,3.13066656,1.215797218386774,Korea
-2023,Fishery education/training,2.8769136480000004,1.1172520432125954,Korea
-2023,Research/scientific institutions,2.4445602720000004,0.9493472146955237,Korea
-2023,Food security policy and administrative management,2.0084470559999996,0.7799822488799015,Korea
-2023,Livestock/veterinary services,1.593916128,0.6189987843241337,Korea
-2023,Agricultural financial services,1.4701569119999998,0.5709367797385899,Korea
-2023,Agricultural alternative development,1.2994319519999997,0.5046355855682362,Korea
-2023,Fishery services,1.244322576,0.4832338090571567,Korea
-2023,Fishing policy and administrative management,0.9961791839999998,0.386867096099179,Korea
-2023,Industrial crops/export crops,0.9916875359999999,0.38512276049533484,Korea
-2023,Agricultural co-operatives,0.9097199999999999,0.3532905930137817,Korea
-2023,Agrarian reform,0.44410968,0.17247039991465601,Korea
-2023,Forestry research,0.34520976,0.13406252563925744,Korea
-2023,Fishery research,0.32823604799999995,0.12747076907885957,Korea
-2023,Forestry education/training,0.0646632,0.025112012788735847,Korea
-2023,Plant and post-harvest protection and pest control,0.034456464,0.013381199269795125,Korea
-2023,Agricultural land resources,0.022445135999999997,0.008716589068850835,Korea
-2023,Multisector education/training,0.021554064,0.008370540443671684,Korea
-2022,Agricultural development,56.47228473600001,26.21024817523658,Korea
-2022,Agricultural water resources,32.018985936,14.860839642405672,Korea
-2022,Agricultural education/training,17.173272815999997,7.970560153403243,Korea
-2022,Agricultural policy and administrative management,16.338447215999995,7.583095997112571,Korea
-2022,Rural development,15.515419247999997,7.201107427015122,Korea
-2022,Forestry policy and administrative management,14.260938047999996,6.618870251082199,Korea
-2022,Disaster Risk Reduction,8.882565551999992,4.122628447549111,Korea
-2022,Livestock,5.705041104000001,2.647857154793718,Korea
-2022,Agricultural services,5.498240832,2.55187579903371,Korea
-2022,Food crop production,5.476094063999997,2.5415969111106684,Korea
-2022,Forestry development,4.311163583999999,2.000922540834427,Korea
-2022,Agricultural inputs,4.210853471999999,1.9543660230257942,Korea
-2022,Agricultural research,3.792970944,1.7604159319647001,Korea
-2022,Food security policy and administrative management,3.6568405439999996,1.6972342918933947,Korea
-2022,Fishery development,3.3739261919999985,1.5659264226807081,Korea
-2022,Fishery education/training,2.731554,1.2677848714419004,Korea
-2022,Agricultural extension,2.7154653119999996,1.2603176951577233,Korea
-2022,Research/scientific institutions,2.55714984,1.1868393892861269,Korea
-2022,Agricultural alternative development,2.5006302719999995,1.1606071957249406,Korea
-2022,Fishery services,2.249052624,1.0438435014588432,Korea
-2022,Agricultural financial services,1.588913424,0.7374558222089515,Korea
-2022,Industrial crops/export crops,1.213906176,0.5634052576967871,Korea
-2022,Agricultural land resources,0.775522944,0.35994025959555775,Korea
-2022,Fishing policy and administrative management,0.741648096,0.3442180663616719,Korea
-2022,Agricultural co-operatives,0.6009343199999999,0.2789091629256555,Korea
-2022,Plant and post-harvest protection and pest control,0.46832587200000003,0.21736215188366625,Korea
-2022,Livestock/veterinary services,0.29177568,0.13542064076297708,Korea
-2022,Forestry research,0.234162432,0.1086808420223956,Korea
-2022,Fishery research,0.096592608,0.0448311280375632,Korea
-2022,Forestry education/training,0.006116543999999999,0.002838846293614817,Korea
-2022,Multisector education/training,0.0,0.0,Korea
-2021,Agricultural development,42.84703080000005,24.84644479501865,Korea
-2021,Agricultural water resources,20.418658848,11.840518943383834,Korea
-2021,Agricultural education/training,16.903354608,9.802039004259209,Korea
-2021,Rural development,15.744333024000005,9.129937221115558,Korea
-2021,Forestry policy and administrative management,8.569249919999999,4.969198357427318,Korea
-2021,Agricultural services,7.74132912,4.489097681423239,Korea
-2021,Food crop production,7.506777600000002,4.353084256818152,Korea
-2021,Fishery development,6.945366960000002,4.027529411741324,Korea
-2021,Forestry development,6.367237632,3.69227961346281,Korea
-2021,Fishery services,5.3716773600000005,3.1149669531334574,Korea
-2021,Agricultural policy and administrative management,5.315172912000005,3.0822007468948467,Korea
-2021,Disaster Risk Reduction,5.122582416000001,2.9705199830807683,Korea
-2021,Agricultural inputs,3.762230976,2.1816695931073253,Korea
-2021,Livestock,3.292384032,1.9092113634881984,Korea
-2021,Agricultural financial services,2.9275585919999996,1.6976537599499297,Korea
-2021,Research/scientific institutions,2.589967296,1.501888887968584,Korea
-2021,Food security policy and administrative management,2.329599888,1.3509051603098148,Korea
-2021,Agricultural co-operatives,2.2154257440000005,1.284697035430494,Korea
-2021,Agricultural land resources,1.4799748320000001,0.8582184640272661,Korea
-2021,Agricultural alternative development,1.47087864,0.8529436987015696,Korea
-2021,Industrial crops/export crops,0.8757574559999999,0.5078405405942377,Korea
-2021,Livestock/veterinary services,0.746231472,0.43273008017520515,Korea
-2021,Fishing policy and administrative management,0.6106917599999999,0.35413233585401116,Korea
-2021,Agricultural research,0.530365248,0.3075520195819114,Korea
-2021,Forestry research,0.23714913599999998,0.1375197488786169,Korea
-2021,Agricultural extension,0.231229152,0.13408682592229867,Korea
-2021,Forestry education/training,0.11530008,0.06686104075573963,Korea
-2021,Multisector education/training,0.11289196799999998,0.0654646074264966,Korea
-2021,Fishery research,0.066923136,0.038807870069109275,Korea
-2020,Agricultural development,37.01520446399999,29.289963534780334,Korea
-2020,Rural development,12.668994576000001,10.024917990504873,Korea
-2020,Agricultural education/training,11.820592224,9.353581054433914,Korea
-2020,Agricultural water resources,8.753378256,6.926508542556706,Korea
-2020,Forestry policy and administrative management,7.850326176,6.211927524398818,Korea
-2020,Agricultural policy and administrative management,7.523679743999998,5.953453683160111,Korea
-2020,Disaster Risk Reduction,6.995211551999999,5.535279197915122,Korea
-2020,Agricultural services,4.720976064,3.7356869633832646,Korea
-2020,Forestry development,3.9634086240000004,3.136227281502608,Korea
-2020,Food crop production,3.6823812479999996,2.9138515925253787,Korea
-2020,Fishery development,3.1561175519999995,2.4974215149741332,Korea
-2020,Livestock,3.115161504,2.4650131798097172,Korea
-2020,Research/scientific institutions,2.7671041439999997,2.1895969682816436,Korea
-2020,Agricultural financial services,2.1868237440000002,1.7304237176657251,Korea
-2020,Agricultural co-operatives,1.98802296,1.573113558276793,Korea
-2020,Industrial crops/export crops,1.6858810079999997,1.3340300010046897,Korea
-2020,Fishing policy and administrative management,1.113817824,0.8813589961681101,Korea
-2020,Plant and post-harvest protection and pest control,0.9586634399999999,0.7585860352881794,Korea
-2020,Fishery services,0.764081136,0.6046139400045633,Korea
-2020,Fishery education/training,0.7383731040000001,0.584271290795012,Korea
-2020,Agricultural research,0.6126372,0.4847770398108135,Korea
-2020,Agricultural land resources,0.516767328,0.4089156445915849,Korea
-2020,Agricultural inputs,0.409460688,0.32400438668683373,Korea
-2020,Agricultural extension,0.4049357760000001,0.32042384432870663,Korea
-2020,Agricultural alternative development,0.3223584,0.25508074095100675,Korea
-2020,Multisector education/training,0.312584832,0.24734696088765168,Korea
-2020,Forestry research,0.178714368,0.14141586944230677,Korea
-2020,Food safety and quality,0.11557828799999999,0.09145657547899746,Korea
-2020,Forestry education/training,0.033808319999999996,0.02675237039242266,Korea
-2019,Agricultural development,47.83944110400003,27.257904831875454,Korea
-2019,Agricultural water resources,44.174151503999994,25.1695001015428,Korea
-2019,Rural development,19.509221087999986,11.115942818074794,Korea
-2019,Agricultural education/training,11.259412416000009,6.415375786497292,Korea
-2019,Forestry policy and administrative management,7.12682712,4.06071582165591,Korea
-2019,Agricultural services,5.8379569920000005,3.3263447989406467,Korea
-2019,Forestry development,5.616079055999999,3.199923429371693,Korea
-2019,Agricultural co-operatives,4.894033536000001,2.7885171166253606,Korea
-2019,Fishery development,4.086802944000001,2.3285741460066114,Korea
-2019,Agricultural policy and administrative management,3.6388205279999988,2.073323211215471,Korea
-2019,Research/scientific institutions,3.1956795359999997,1.8208308177366332,Korea
-2019,Disaster Risk Reduction,3.124123632,1.7800597724154594,Korea
-2019,Livestock,2.9974039199999996,1.7078575524415756,Korea
-2019,Agricultural financial services,2.67370992,1.5234235364281374,Korea
-2019,Food crop production,2.1069336960000005,1.2004863946422155,Korea
-2019,Agricultural extension,1.066002336,0.6073856540689259,Korea
-2019,Industrial crops/export crops,1.006229952,0.5733286099846444,Korea
-2019,Fishery services,0.9956086559999999,0.5672768194771051,Korea
-2019,Fishery education/training,0.84681576,0.4824977646798277,Korea
-2019,Multisector education/training,0.8281133279999998,0.4718415132727016,Korea
-2019,Agricultural land resources,0.741971664,0.422759809448719,Korea
-2019,Agricultural inputs,0.5870289599999999,0.33447672372361603,Korea
-2019,Fishing policy and administrative management,0.354900672,0.20221491971685635,Korea
-2019,Food safety and quality,0.22936132799999998,0.13068524854095387,Korea
-2019,Agricultural research,0.19870704,0.11321908159355124,Korea
-2019,Forestry research,0.19140912,0.10906088065641681,Korea
-2019,Forestry education/training,0.150022656,0.08547974611541327,Korea
-2019,Livestock/veterinary services,0.124191648,0.07076178241168303,Korea
-2019,Plant and post-harvest protection and pest control,0.105709968,0.06023131083953387,Korea
+year,Sub-Sector,Bilateral ODA for,Share,Donor
+2023,Agricultural development,67.45,27.5%,Korea
+2023,Agricultural water resources,53.84,22.0%,Korea
+2023,Agricultural policy and administrative management,21.02,8.6%,Korea
+2023,Rural development,18.34,7.5%,Korea
+2023,Forestry policy and administrative management,15.61,6.4%,Korea
+2023,Agricultural education/training,13.82,5.6%,Korea
+2023,Agricultural inputs,6.71,2.7%,Korea
+2023,Food crop production,5.86,2.4%,Korea
+2023,Agricultural services,5.82,2.4%,Korea
+2023,Agricultural research,5.82,2.4%,Korea
+2023,Forestry development,5.77,2.4%,Korea
+2023,Livestock,4.89,2.0%,Korea
+2023,Fishery development,4.47,1.8%,Korea
+2023,Agricultural extension,3.13,1.3%,Korea
+2023,Fishery education/training,2.88,1.2%,Korea
+2023,Livestock/veterinary services,1.59,0.7%,Korea
+2023,Agricultural financial services,1.47,0.6%,Korea
+2023,Agricultural alternative development,1.3,0.5%,Korea
+2023,Fishery services,1.24,0.5%,Korea
+2023,Fishing policy and administrative management,1.0,0.4%,Korea
+2023,Industrial crops/export crops,0.99,0.4%,Korea
+2023,Agricultural co-operatives,0.91,0.4%,Korea
+2023,Agrarian reform,0.44,0.2%,Korea
+2023,Forestry research,0.35,0.1%,Korea
+2023,Fishery research,0.33,0.1%,Korea
+2023,Forestry education/training,0.06,0.0%,Korea
+2023,Plant and post-harvest protection and pest control,0.03,0.0%,Korea
+2023,Agricultural land resources,0.02,0.0%,Korea
+2022,Agricultural development,56.47,28.2%,Korea
+2022,Agricultural water resources,32.02,16.0%,Korea
+2022,Agricultural education/training,17.17,8.6%,Korea
+2022,Agricultural policy and administrative management,16.34,8.2%,Korea
+2022,Rural development,15.52,7.7%,Korea
+2022,Forestry policy and administrative management,14.26,7.1%,Korea
+2022,Livestock,5.71,2.8%,Korea
+2022,Agricultural services,5.5,2.7%,Korea
+2022,Food crop production,5.48,2.7%,Korea
+2022,Forestry development,4.31,2.2%,Korea
+2022,Agricultural inputs,4.21,2.1%,Korea
+2022,Agricultural research,3.79,1.9%,Korea
+2022,Fishery development,3.37,1.7%,Korea
+2022,Fishery education/training,2.73,1.4%,Korea
+2022,Agricultural extension,2.72,1.4%,Korea
+2022,Agricultural alternative development,2.5,1.2%,Korea
+2022,Fishery services,2.25,1.1%,Korea
+2022,Agricultural financial services,1.59,0.8%,Korea
+2022,Industrial crops/export crops,1.21,0.6%,Korea
+2022,Agricultural land resources,0.78,0.4%,Korea
+2022,Fishing policy and administrative management,0.74,0.4%,Korea
+2022,Agricultural co-operatives,0.6,0.3%,Korea
+2022,Plant and post-harvest protection and pest control,0.47,0.2%,Korea
+2022,Livestock/veterinary services,0.29,0.1%,Korea
+2022,Forestry research,0.23,0.1%,Korea
+2022,Fishery research,0.1,0.0%,Korea
+2022,Forestry education/training,0.01,0.0%,Korea
+2021,Agricultural development,42.85,26.4%,Korea
+2021,Agricultural water resources,20.42,12.6%,Korea
+2021,Agricultural education/training,16.9,10.4%,Korea
+2021,Rural development,15.74,9.7%,Korea
+2021,Forestry policy and administrative management,8.57,5.3%,Korea
+2021,Agricultural services,7.74,4.8%,Korea
+2021,Food crop production,7.51,4.6%,Korea
+2021,Fishery development,6.95,4.3%,Korea
+2021,Forestry development,6.37,3.9%,Korea
+2021,Fishery services,5.37,3.3%,Korea
+2021,Agricultural policy and administrative management,5.32,3.3%,Korea
+2021,Agricultural inputs,3.76,2.3%,Korea
+2021,Livestock,3.29,2.0%,Korea
+2021,Agricultural financial services,2.93,1.8%,Korea
+2021,Agricultural co-operatives,2.22,1.4%,Korea
+2021,Agricultural land resources,1.48,0.9%,Korea
+2021,Agricultural alternative development,1.47,0.9%,Korea
+2021,Industrial crops/export crops,0.88,0.5%,Korea
+2021,Livestock/veterinary services,0.75,0.5%,Korea
+2021,Fishing policy and administrative management,0.61,0.4%,Korea
+2021,Agricultural research,0.53,0.3%,Korea
+2021,Forestry research,0.24,0.1%,Korea
+2021,Agricultural extension,0.23,0.1%,Korea
+2021,Forestry education/training,0.12,0.1%,Korea
+2021,Fishery research,0.07,0.0%,Korea
+2020,Agricultural development,37.02,31.9%,Korea
+2020,Rural development,12.67,10.9%,Korea
+2020,Agricultural education/training,11.82,10.2%,Korea
+2020,Agricultural water resources,8.75,7.5%,Korea
+2020,Forestry policy and administrative management,7.85,6.8%,Korea
+2020,Agricultural policy and administrative management,7.52,6.5%,Korea
+2020,Agricultural services,4.72,4.1%,Korea
+2020,Forestry development,3.96,3.4%,Korea
+2020,Food crop production,3.68,3.2%,Korea
+2020,Fishery development,3.16,2.7%,Korea
+2020,Livestock,3.12,2.7%,Korea
+2020,Agricultural financial services,2.19,1.9%,Korea
+2020,Agricultural co-operatives,1.99,1.7%,Korea
+2020,Industrial crops/export crops,1.69,1.5%,Korea
+2020,Fishing policy and administrative management,1.11,1.0%,Korea
+2020,Plant and post-harvest protection and pest control,0.96,0.8%,Korea
+2020,Fishery services,0.76,0.7%,Korea
+2020,Fishery education/training,0.74,0.6%,Korea
+2020,Agricultural research,0.61,0.5%,Korea
+2020,Agricultural land resources,0.52,0.4%,Korea
+2020,Agricultural inputs,0.41,0.4%,Korea
+2020,Agricultural extension,0.4,0.3%,Korea
+2020,Agricultural alternative development,0.32,0.3%,Korea
+2020,Forestry research,0.18,0.2%,Korea
+2020,Forestry education/training,0.03,0.0%,Korea
+2019,Agricultural development,47.84,28.5%,Korea
+2019,Agricultural water resources,44.17,26.3%,Korea
+2019,Rural development,19.51,11.6%,Korea
+2019,Agricultural education/training,11.26,6.7%,Korea
+2019,Forestry policy and administrative management,7.13,4.2%,Korea
+2019,Agricultural services,5.84,3.5%,Korea
+2019,Forestry development,5.62,3.3%,Korea
+2019,Agricultural co-operatives,4.89,2.9%,Korea
+2019,Fishery development,4.09,2.4%,Korea
+2019,Agricultural policy and administrative management,3.64,2.2%,Korea
+2019,Livestock,3.0,1.8%,Korea
+2019,Agricultural financial services,2.67,1.6%,Korea
+2019,Food crop production,2.11,1.3%,Korea
+2019,Agricultural extension,1.07,0.6%,Korea
+2019,Industrial crops/export crops,1.01,0.6%,Korea
+2019,Fishery services,1.0,0.6%,Korea
+2019,Fishery education/training,0.85,0.5%,Korea
+2019,Agricultural land resources,0.74,0.4%,Korea
+2019,Agricultural inputs,0.59,0.3%,Korea
+2019,Fishing policy and administrative management,0.35,0.2%,Korea
+2019,Agricultural research,0.2,0.1%,Korea
+2019,Forestry research,0.19,0.1%,Korea
+2019,Forestry education/training,0.15,0.1%,Korea
+2019,Livestock/veterinary services,0.12,0.1%,Korea
+2019,Plant and post-harvest protection and pest control,0.11,0.1%,Korea

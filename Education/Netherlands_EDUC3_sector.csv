@@ -1,38 +1,38 @@
-year,Sector,Bilateral ODA for,share,donor
-2023,Higher education,42.8499429192,66.37310018959045,Netherlands
-2023,Primary education,12.672923528799998,19.62992633754865,Netherlands
-2023,Vocational training,4.5864026816,7.104181335075777,Netherlands
-2023,Basic life skills for adults,1.7497787683999997,2.7103476362530388,Netherlands
-2023,Education policy and administrative management,1.5565428227999998,2.4110317468077773,Netherlands
-2023,Advanced technical and managerial training,1.0812697575999999,1.6748499779448214,Netherlands
-2023,Basic life skills for youth,0.0520744696,0.08066157741675496,Netherlands
-2023,Education facilities and training,0.0102656872,0.015901199362748582,Netherlands
-2022,Primary education,38.5894410428,43.608084971061885,Netherlands
-2022,Higher education,37.9627540576,42.89989592860984,Netherlands
-2022,Vocational training,5.5548249248,6.277242447004736,Netherlands
-2022,Basic life skills for adults,4.525059075600001,5.11355322428691,Netherlands
-2022,Education policy and administrative management,1.7255790275999998,1.949994475856838,Netherlands
-2022,Education facilities and training,0.13382474319999998,0.15122895317979693,Netherlands
-2022,Upper Secondary Education (modified and includes data from 11322),0.0,0.0,Netherlands
-2021,Higher education,74.13658686199999,76.93891002867676,Netherlands
-2021,Primary education,12.25305008,12.716208792250276,Netherlands
-2021,Vocational training,5.5386604956,5.748018887672579,Netherlands
-2021,Basic life skills for adults,3.0267962652,3.141207538416144,Netherlands
-2021,Upper Secondary Education (modified and includes data from 11322),0.9498089256,0.9857111928716208,Netherlands
-2021,Education policy and administrative management,0.22683173680000002,0.23540585462599864,Netherlands
-2021,Education facilities and training,0.225995208,0.23453770548663505,Netherlands
-2020,Primary education,51.349096495599994,46.10502321347192,Netherlands
-2020,Higher education,43.8990140432,39.41578722195618,Netherlands
-2020,Vocational training,8.71027336,7.820728754066729,Netherlands
-2020,Basic life skills for adults,3.1275670848,2.808161445620579,Netherlands
-2020,Education policy and administrative management,2.0215148856000003,1.815065835383361,Netherlands
-2020,Upper Secondary Education (modified and includes data from 11322),1.9838037699999997,1.781206001836087,Netherlands
-2020,Education facilities and training,0.28292110319999997,0.2540275276651616,Netherlands
-2019,Higher education,81.4986682504,71.78670192621004,Netherlands
-2019,Primary education,15.398707376,13.563686869747327,Netherlands
-2019,Vocational training,6.6676609532,5.873094612071145,Netherlands
-2019,Education policy and administrative management,4.4460269688,3.9162064806325256,Netherlands
-2019,Basic life skills for adults,3.7778633848,3.327666065528003,Netherlands
-2019,Upper Secondary Education (modified and includes data from 11322),1.639132936,1.4438020892873669,Netherlands
-2019,Education facilities and training,0.06336429760000001,0.055813353055036465,Netherlands
-2019,Educational research,0.0374970172,0.03302860346856232,Netherlands
+year,Sub-Sector,Bilateral ODA for,Share,Donor
+2023,Higher education,42.85,66.4%,Netherlands
+2023,Primary education,12.67,19.6%,Netherlands
+2023,Vocational training,4.59,7.1%,Netherlands
+2023,Basic life skills for adults,1.75,2.7%,Netherlands
+2023,Education policy and administrative management,1.56,2.4%,Netherlands
+2023,Advanced technical and managerial training,1.08,1.7%,Netherlands
+2023,Basic life skills for youth,0.05,0.1%,Netherlands
+2023,Education facilities and training,0.01,0.0%,Netherlands
+2022,Primary education,38.59,43.6%,Netherlands
+2022,Higher education,37.96,42.9%,Netherlands
+2022,Vocational training,5.55,6.3%,Netherlands
+2022,Basic life skills for adults,4.53,5.1%,Netherlands
+2022,Education policy and administrative management,1.73,1.9%,Netherlands
+2022,Education facilities and training,0.13,0.2%,Netherlands
+2022,Upper Secondary Education (modified and includes data from 11322),0.0,0.0%,Netherlands
+2021,Higher education,74.14,76.9%,Netherlands
+2021,Primary education,12.25,12.7%,Netherlands
+2021,Vocational training,5.54,5.7%,Netherlands
+2021,Basic life skills for adults,3.03,3.1%,Netherlands
+2021,Upper Secondary Education (modified and includes data from 11322),0.95,1.0%,Netherlands
+2021,Education facilities and training,0.23,0.2%,Netherlands
+2021,Education policy and administrative management,0.23,0.2%,Netherlands
+2020,Primary education,51.35,46.1%,Netherlands
+2020,Higher education,43.9,39.4%,Netherlands
+2020,Vocational training,8.71,7.8%,Netherlands
+2020,Basic life skills for adults,3.13,2.8%,Netherlands
+2020,Education policy and administrative management,2.02,1.8%,Netherlands
+2020,Upper Secondary Education (modified and includes data from 11322),1.98,1.8%,Netherlands
+2020,Education facilities and training,0.28,0.3%,Netherlands
+2019,Higher education,81.5,71.8%,Netherlands
+2019,Primary education,15.4,13.6%,Netherlands
+2019,Vocational training,6.67,5.9%,Netherlands
+2019,Education policy and administrative management,4.45,3.9%,Netherlands
+2019,Basic life skills for adults,3.78,3.3%,Netherlands
+2019,Upper Secondary Education (modified and includes data from 11322),1.64,1.4%,Netherlands
+2019,Education facilities and training,0.06,0.1%,Netherlands
+2019,Educational research,0.04,0.0%,Netherlands

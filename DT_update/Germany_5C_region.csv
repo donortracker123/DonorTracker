@@ -1,66 +1,46 @@
-year,Region,Bilateral ODA,share,donor
-2023,Regional and Unspecified,1375989.658154578,46.7%,Germany
-2023,South of Sahara,405850.84253283846,13.8%,Germany
-2023,Middle East,278873.1844131592,9.5%,Germany
-2023,South & Central Asia,217124.43566477994,7.4%,Germany
-2023,Europe,203942.31929783992,6.9%,Germany
-2023,Far East Asia,151397.18856207991,5.1%,Germany
-2023,North of Sahara,94315.10801781999,3.2%,Germany
-2023,South America,77292.54974966991,2.6%,Germany
-2023,Africa,64922.46917075003,2.2%,Germany
-2023,Caribbean & Central America,37006.61093780999,1.3%,Germany
-2023,America,22164.845759819986,0.8%,Germany
-2023,Asia,18800.700102989995,0.6%,Germany
-2023,Oceania,1868.5359579599992,0.1%,Germany
-2022,Regional and Unspecified,1540741.3301967487,42.9%,Germany
-2022,South of Sahara,409317.7405734596,11.4%,Germany
-2022,Europe,351129.01969019056,9.8%,Germany
-2022,Middle East,282503.03830385994,7.9%,Germany
-2022,Far East Asia,236417.0254115801,6.6%,Germany
-2022,South & Central Asia,224406.4335041403,6.2%,Germany
-2022,South America,193175.4543842002,5.4%,Germany
-2022,North of Sahara,143283.52832420034,4.0%,Germany
-2022,Africa,97439.93057927003,2.7%,Germany
-2022,Asia,42732.80676163002,1.2%,Germany
-2022,America,37198.69090704999,1.0%,Germany
-2022,Caribbean & Central America,31064.745172269988,0.9%,Germany
-2022,Oceania,1438.2396570900003,0.0%,Germany
-2021,Regional and Unspecified,1039834.792044059,36.7%,Germany
-2021,South of Sahara,447853.8385653406,15.8%,Germany
-2021,South & Central Asia,312025.8675471302,11.0%,Germany
-2021,Middle East,287991.6085072899,10.2%,Germany
-2021,Far East Asia,171745.93775954982,6.1%,Germany
-2021,Europe,140218.23117910998,5.0%,Germany
-2021,North of Sahara,128714.71535377995,4.5%,Germany
-2021,Africa,113999.31428475004,4.0%,Germany
-2021,South America,90276.14778836996,3.2%,Germany
-2021,Asia,41541.83692761001,1.5%,Germany
-2021,Caribbean & Central America,31799.252405549996,1.1%,Germany
-2021,America,23847.505091040002,0.8%,Germany
-2021,Oceania,997.5029395000003,0.0%,Germany
-2020,Regional and Unspecified,887736.9634380701,31.4%,Germany
-2020,South of Sahara,469647.3413121097,16.6%,Germany
-2020,Middle East,310228.3765305697,11.0%,Germany
-2020,South & Central Asia,285929.9451716698,10.1%,Germany
-2020,Far East Asia,238625.81344860027,8.4%,Germany
-2020,North of Sahara,151759.42004008012,5.4%,Germany
-2020,Europe,148799.99607927998,5.3%,Germany
-2020,South America,144240.2057276599,5.1%,Germany
-2020,Africa,101886.92317672001,3.6%,Germany
-2020,Caribbean & Central America,46339.32110905993,1.6%,Germany
-2020,America,23458.696854120008,0.8%,Germany
-2020,Asia,20917.755406629996,0.7%,Germany
-2020,Oceania,1375.0719222199998,0.0%,Germany
-2019,Regional and Unspecified,764782.0978336709,31.7%,Germany
-2019,South of Sahara,378104.1830627008,15.7%,Germany
-2019,Middle East,316500.5638896,13.1%,Germany
-2019,South & Central Asia,246241.79028474007,10.2%,Germany
-2019,Far East Asia,156683.74765484023,6.5%,Germany
-2019,Europe,127096.55876046013,5.3%,Germany
-2019,North of Sahara,120269.84286452991,5.0%,Germany
-2019,Africa,98459.11778071003,4.1%,Germany
-2019,South America,89991.12633576978,3.7%,Germany
-2019,Caribbean & Central America,69505.51435038997,2.9%,Germany
-2019,America,23264.13620374,1.0%,Germany
-2019,Asia,22441.739795299993,0.9%,Germany
-2019,Oceania,1314.1991507999999,0.1%,Germany
+year,Region,Bilateral ODA,Share,Donor
+2023,"Developing countries, unspecified",13759.9,46.7%,Germany
+2023,sub-Saharan Africa,4058.51,13.8%,Germany
+2023,MENA region,3731.88,12.7%,Germany
+2023,Asia,3685.22,12.5%,Germany
+2023,Europe,2039.42,6.9%,Germany
+2023,Latin America and the Caribbeans,1364.64,4.6%,Germany
+2023,"Africa, regional",649.22,2.2%,Germany
+2023,"Asia, regional",188.01,0.6%,Germany
+2023,Oceania,18.69,0.1%,Germany
+2022,"Developing countries, unspecified",15407.41,42.9%,Germany
+2022,Asia,4608.23,12.8%,Germany
+2022,MENA region,4257.87,11.9%,Germany
+2022,sub-Saharan Africa,4093.18,11.4%,Germany
+2022,Europe,3511.29,9.8%,Germany
+2022,Latin America and the Caribbeans,2614.39,7.3%,Germany
+2022,"Africa, regional",974.4,2.7%,Germany
+2022,"Asia, regional",427.33,1.2%,Germany
+2022,Oceania,14.38,0.0%,Germany
+2021,"Developing countries, unspecified",10398.35,36.7%,Germany
+2021,Asia,4837.72,17.1%,Germany
+2021,sub-Saharan Africa,4478.54,15.8%,Germany
+2021,MENA region,4167.06,14.7%,Germany
+2021,Latin America and the Caribbeans,1459.23,5.2%,Germany
+2021,Europe,1402.18,5.0%,Germany
+2021,"Africa, regional",1139.99,4.0%,Germany
+2021,"Asia, regional",415.42,1.5%,Germany
+2021,Oceania,9.98,0.0%,Germany
+2020,"Developing countries, unspecified",8877.37,31.4%,Germany
+2020,Asia,5245.56,18.5%,Germany
+2020,sub-Saharan Africa,4696.47,16.6%,Germany
+2020,MENA region,4619.88,16.3%,Germany
+2020,Latin America and the Caribbeans,2140.38,7.6%,Germany
+2020,Europe,1488.0,5.3%,Germany
+2020,"Africa, regional",1018.87,3.6%,Germany
+2020,"Asia, regional",209.18,0.7%,Germany
+2020,Oceania,13.75,0.0%,Germany
+2019,"Developing countries, unspecified",7647.82,31.7%,Germany
+2019,MENA region,4367.7,18.1%,Germany
+2019,Asia,4029.26,16.7%,Germany
+2019,sub-Saharan Africa,3781.04,15.7%,Germany
+2019,Latin America and the Caribbeans,1827.61,7.6%,Germany
+2019,Europe,1270.97,5.3%,Germany
+2019,"Africa, regional",984.59,4.1%,Germany
+2019,"Asia, regional",224.42,0.9%,Germany
+2019,Oceania,13.14,0.1%,Germany

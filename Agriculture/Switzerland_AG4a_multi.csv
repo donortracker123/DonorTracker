@@ -1,79 +1,70 @@
-Year,Multi_short,ODA,Share,Full Name,donor
-2019,ADF,11.7922,0.18892336973848847,african development fund,Switzerland
-2020,ADF,10.023299999999999,0.16134136447924177,african development fund,Switzerland
-2021,ADF,10.4341,0.15149944389753772,african development fund,Switzerland
-2022,ADF,8.4589,0.09164353612373269,african development fund,Switzerland
-2023,ADF,12.5559,0.11869386551261579,african development fund,Switzerland
-2019,AF,9.259399999999998,0.14834526634186665,adaptation fund,Switzerland
-2022,AF,1.9422999999999997,0.02104283538203856,adaptation fund,Switzerland
-2023,AF,1.7797999999999998,0.01682486654396368,adaptation fund,Switzerland
-2019,AIIB,0.2123,0.003401267905520692,asian infrastructure investment bank,Switzerland
-2020,AIIB,0.2016,0.003245080869475636,asian infrastructure investment bank,Switzerland
-2021,AfDB,3.7125999999999997,0.05390563972110661,african development bank,Switzerland
-2022,AfDB,3.0493000000000006,0.033036048978247544,african development bank,Switzerland
-2023,AfDB,3.4325,0.03244822699862644,african development bank,Switzerland
-2022,CGIAR ,20.2493,0.21938046980462006,cgiar fund,Switzerland
-2023,CGIAR ,20.0334,0.18938042556570514,cgiar fund,Switzerland
-2019,FAO,3.3409000000000004,0.05352471005913369,food and agricultural organisation,Switzerland
-2020,FAO,3.5817000000000005,0.057653304316472656,food and agricultural organisation,Switzerland
-2021,FAO,3.2370000000000005,0.04700009582966712,food and agricultural organisation,Switzerland
-2022,FAO,3.0373000000000006,0.03290604124278729,food and agricultural organisation,Switzerland
-2023,FAO,2.9321999999999995,0.027718773839875435,food and agricultural organisation,Switzerland
-2020,GCF,14.468699999999998,0.23289732924693518,green climate fund,Switzerland
-2021,GCF,16.1378,0.2343151518319437,green climate fund,Switzerland
-2022,GCF,17.804700000000004,0.19289572729577414,green climate fund,Switzerland
-2023,GCF,15.189700000000002,0.1435917942144315,green climate fund,Switzerland
-2019,GEF-SCCF,0.0205,0.0003284314275231945,global environment facility special climate change fund,Switzerland
-2020,GEF-SCCF,0.0207,0.0003332002678479448,global environment facility special climate change fund,Switzerland
-2019,GEF-TF,1.1167,0.01789070122512933,global environment facility trust fund,Switzerland
-2020,GEF-TF,1.1856,0.019084166065725765,global environment facility trust fund,Switzerland
-2021,GEF-TF,2.5795000000000003,0.03745342823374307,global environment facility trust fund,Switzerland
-2022,GEF-TF,3.4135000000000004,0.03698178374946643,global environment facility trust fund,Switzerland
-2023,GEF-TF,4.7844999999999995,0.04522899987616262,global environment facility trust fund,Switzerland
-2021,IBRD,2.8509,0.04139406030299597,international bank for reconstruction and development,Switzerland
-2022,IBRD,2.9772,0.03225491916769048,international bank for reconstruction and development,Switzerland
-2023,IBRD,2.1839000000000004,0.020644918555659225,international bank for reconstruction and development,Switzerland
-2019,IDA,34.650099999999995,0.5551308198449483,international development association,Switzerland
-2020,IDA,32.37480000000001,0.5211252189141857,international development association,Switzerland
-2021,IDA,29.389900000000004,0.4267309596615179,international development association,Switzerland
-2022,IDA,25.447699999999998,0.2756998208060046,international development association,Switzerland
-2023,IDA,36.294500000000006,0.3431004150915215,international development association,Switzerland
-2019,IDB-IIC-MIF,1.8451,0.029560430581612007,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
-2020,IDB-IIC-MIF,0.08560000000000001,0.0013778716390233853,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
-2021,IDB-IIC-MIF,0.021,0.00030491257720822036,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
-2022,IDB-IIC-MIF,0.0188,0.00020367878555440716,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
-2022,IFC,5.2037,0.0563767710845462,international finance corporation,Switzerland
-2023,IFC,4.8678,0.046016454299756385,international finance corporation,Switzerland
-2023,JSDGF,0.3681,0.0034797355741280093,joint sustainable development goals fund,Switzerland
-2021,PIDG,0.038,0.0005517465682815416,private infrastructure development group,Switzerland
-2022,PIDG,0.0978,0.001059563044001118,private infrastructure development group,Switzerland
-2023,PIDG,0.5242,0.004955385460358334,private infrastructure development group,Switzerland
-2022,UN,0.0228,0.0002470146973744938,united nations,Switzerland
-2023,UN,0.0627,0.0005927177954301174,united nations,Switzerland
-2019,UNDP,0.1735,0.0027796513500133774,united nations development programme,Switzerland
-2020,UNDP,0.1676,0.0026977954053775625,united nations development programme,Switzerland
-2021,UNDP,0.25370000000000004,0.003683634325605977,united nations development programme,Switzerland
-2022,UNDP,0.3292,0.0035665455427931294,united nations development programme,Switzerland
-2023,UNDP,0.4714000000000001,0.004456254685259288,united nations development programme,Switzerland
-2020,UNIDO,0.0012000000000000001,1.93159575564026e-05,united nations industrial development organisation,Switzerland
-2021,UNIDO,0.009600000000000001,0.00013938860672375788,united nations industrial development organisation,Switzerland
-2022,UNIDO,0.019600000000000003,0.00021234596791842452,united nations industrial development organisation,Switzerland
-2023,UNIDO,0.047,0.0004443020157131661,united nations industrial development organisation,Switzerland
-2019,WFP,0.004699999999999999,7.529891265165921e-05,world food programme,Switzerland
-2020,WHO-AC,0.0083,0.00013360203976511796,world health organisation assessed contributions,Switzerland
-2021,WHO-AC,0.0229,0.0003324999056222974,world health organisation assessed contributions,Switzerland
-2022,WHO-AC,0.0325,0.0003521042835382039,world health organisation assessed contributions,Switzerland
-2023,WHO-AC,0.0329,0.00031101141099921625,world health organisation assessed contributions,Switzerland
-2020,WHO-CVCA,0.0006,9.657978778201298e-06,world health organisation core voluntary contributions account,Switzerland
-2021,WHO-CVCA,0.0406,0.000589497649269226,world health organisation core voluntary contributions account,Switzerland
-2022,WHO-CVCA,0.0281,0.0003044347805361086,world health organisation core voluntary contributions account,Switzerland
-2023,WHO-CVCA,0.0294,0.0002779250906801507,world health organisation core voluntary contributions account,Switzerland
-2021,WHO-SPRP,0.0067,9.728163177595602e-05,world health organisation strategic preparedness and response plan,Switzerland
-2021,WOAH,0.13,0.0018875540493842214,world organisation for animal health,Switzerland
-2022,WOAH,0.1327,0.001437668874631374,world organisation for animal health,Switzerland
-2023,WOAH,0.1463,0.0013830081893369407,world organisation for animal health,Switzerland
-2019,,0.0025,4.00526131125847e-05,united nations children’s fund,Switzerland
-2020,,0.0051,8.209281961471103e-05,united nations children’s fund,Switzerland
-2021,,0.0079,0.00011470520761642577,united nations children’s fund,Switzerland
-2022,,0.0368,0.000398690388744797,united nations children’s fund,Switzerland
-2023,,0.047700000000000006,0.0004509192797769793,united nations children’s fund,Switzerland
+Year,Multi_short,ODA,Share,Full Name,Donor
+2019,ADF,11.79,0.05%,african development fund,Switzerland
+2020,ADF,10.02,0.04%,african development fund,Switzerland
+2021,ADF,10.3,0.04%,african development fund,Switzerland
+2022,ADF,8.32,0.03%,african development fund,Switzerland
+2023,ADF,12.32,0.05%,african development fund,Switzerland
+2019,AF,6.79,0.03%,adaptation fund,Switzerland
+2022,AF,1.07,0.0%,adaptation fund,Switzerland
+2023,AF,0.9,0.0%,adaptation fund,Switzerland
+2019,AIIB,0.1,0.0%,asian infrastructure investment bank,Switzerland
+2020,AIIB,0.07,0.0%,asian infrastructure investment bank,Switzerland
+2021,AfDB,3.67,0.02%,african development bank,Switzerland
+2022,AfDB,3.0,0.01%,african development bank,Switzerland
+2023,AfDB,3.28,0.01%,african development bank,Switzerland
+2022,CGIAR ,20.25,0.08%,cgiar fund,Switzerland
+2023,CGIAR ,20.03,0.08%,cgiar fund,Switzerland
+2019,FAO,2.97,0.01%,food and agricultural organisation,Switzerland
+2020,FAO,2.93,0.01%,food and agricultural organisation,Switzerland
+2021,FAO,2.6,0.01%,food and agricultural organisation,Switzerland
+2022,FAO,2.41,0.01%,food and agricultural organisation,Switzerland
+2023,FAO,2.4,0.01%,food and agricultural organisation,Switzerland
+2020,GCF,11.14,0.05%,green climate fund,Switzerland
+2021,GCF,13.15,0.06%,green climate fund,Switzerland
+2022,GCF,13.8,0.05%,green climate fund,Switzerland
+2023,GCF,11.32,0.04%,green climate fund,Switzerland
+2019,GEF-SCCF,0.02,0.0%,global environment facility special climate change fund,Switzerland
+2020,GEF-SCCF,0.02,0.0%,global environment facility special climate change fund,Switzerland
+2019,GEF-TF,1.03,0.0%,global environment facility trust fund,Switzerland
+2020,GEF-TF,1.09,0.0%,global environment facility trust fund,Switzerland
+2021,GEF-TF,2.48,0.01%,global environment facility trust fund,Switzerland
+2022,GEF-TF,3.29,0.01%,global environment facility trust fund,Switzerland
+2023,GEF-TF,4.67,0.02%,global environment facility trust fund,Switzerland
+2021,IBRD,2.54,0.01%,international bank for reconstruction and development,Switzerland
+2022,IBRD,2.71,0.01%,international bank for reconstruction and development,Switzerland
+2023,IBRD,2.01,0.01%,international bank for reconstruction and development,Switzerland
+2019,IDA,32.08,0.14%,international development association,Switzerland
+2020,IDA,29.97,0.13%,international development association,Switzerland
+2021,IDA,26.24,0.11%,international development association,Switzerland
+2022,IDA,22.37,0.09%,international development association,Switzerland
+2023,IDA,31.64,0.13%,international development association,Switzerland
+2019,IDB-IIC-MIF,1.01,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
+2020,IDB-IIC-MIF,0.04,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
+2021,IDB-IIC-MIF,0.01,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
+2022,IDB-IIC-MIF,0.01,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
+2022,IFC,5.2,0.02%,international finance corporation,Switzerland
+2023,IFC,4.87,0.02%,international finance corporation,Switzerland
+2023,JSDGF,0.04,0.0%,joint sustainable development goals fund,Switzerland
+2021,PIDG,0.04,0.0%,private infrastructure development group,Switzerland
+2022,PIDG,0.1,0.0%,private infrastructure development group,Switzerland
+2023,PIDG,0.52,0.0%,private infrastructure development group,Switzerland
+2022,UN,0.02,0.0%,united nations,Switzerland
+2023,UN,0.06,0.0%,united nations,Switzerland
+2019,UNDP,0.09,0.0%,united nations development programme,Switzerland
+2020,UNDP,0.08,0.0%,united nations development programme,Switzerland
+2021,UNDP,0.17,0.0%,united nations development programme,Switzerland
+2022,UNDP,0.21,0.0%,united nations development programme,Switzerland
+2023,UNDP,0.3,0.0%,united nations development programme,Switzerland
+2020,UNIDO,0.0,0.0%,united nations industrial development organisation,Switzerland
+2021,UNIDO,0.01,0.0%,united nations industrial development organisation,Switzerland
+2022,UNIDO,0.02,0.0%,united nations industrial development organisation,Switzerland
+2023,UNIDO,0.04,0.0%,united nations industrial development organisation,Switzerland
+2019,WFP,0.0,0.0%,world food programme,Switzerland
+2021,WOAH,0.13,0.0%,world organisation for animal health,Switzerland
+2022,WOAH,0.13,0.0%,world organisation for animal health,Switzerland
+2023,WOAH,0.15,0.0%,world organisation for animal health,Switzerland
+2019,,0.0,0.0%,united nations children’s fund,Switzerland
+2020,,0.01,0.0%,united nations children’s fund,Switzerland
+2021,,0.01,0.0%,united nations children’s fund,Switzerland
+2022,,0.01,0.0%,united nations children’s fund,Switzerland
+2023,,0.01,0.0%,united nations children’s fund,Switzerland

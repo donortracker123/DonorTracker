@@ -1,73 +1,73 @@
-Year,Multi_short,ODA,Share,Full Name,donor
-2019,ADF,10.0822,0.026974450762972266,african development fund,Germany
-2020,ADF,7.318300000000001,0.019296169558864096,african development fund,Germany
-2021,ADF,3.8922,0.010925955192972715,african development fund,Germany
-2022,ADF,2.5526999999999997,0.006627418461230107,african development fund,Germany
-2023,ADF,3.1702999999999997,0.006616917167375881,african development fund,Germany
-2021,AF,0.0119,3.340498093530017e-05,adaptation fund,Germany
-2022,AF,0.0133,3.452997435435438e-05,adaptation fund,Germany
-2023,AF,0.0107,2.2332591139930584e-05,adaptation fund,Germany
-2019,AfDB,0.20400000000000001,0.0005457923821830892,african development bank,Germany
-2020,AfDB,0.6369,0.0016793149217769895,african development bank,Germany
-2021,AfDB,0.1751,0.0004915304337622739,african development bank,Germany
-2022,AfDB,0.34290000000000004,0.000890250241060761,african development bank,Germany
-2023,AfDB,1.3758,0.002871512045823972,african development bank,Germany
-2021,CDB,0.0056,1.571999102837655e-05,caribbean development bank,Germany
-2022,CDB,0.0056,1.4538936570254478e-05,caribbean development bank,Germany
-2023,CDB,0.0050999999999999995,1.0644506057350091e-05,caribbean development bank,Germany
-2019,CEB,0.0009,2.4079075684548052e-06,council of europe development bank,Germany
-2020,CEB,0.001,2.6367010861626464e-06,council of europe development bank,Germany
-2021,CEB,0.0011,3.0878553805739657e-06,council of europe development bank,Germany
-2022,CEB,0.0006,1.557743203955837e-06,council of europe development bank,Germany
-2023,CEB,0.0007,1.4610106353225616e-06,council of europe development bank,Germany
-2019,EC-DSB,217.1803,0.5810556534325391,european commission development share of budget,Germany
-2020,EC-DSB,223.42609999999996,0.5891078405470839,european commission development share of budget,Germany
-2021,EC-DSB,241.21759999999995,0.6771318764083076,european commission development share of budget,Germany
-2022,EC-DSB,283.98740000000004,0.7372990705984799,european commission development share of budget,Germany
-2023,EC-DSB,337.1326,0.7036490201627815,european commission development share of budget,Germany
-2019,EC-EDF,62.2638,0.16658386140084036,european commission european development fund,Germany
-2020,EC-EDF,64.62789999999998,0.17040445412641084,european commission european development fund,Germany
-2021,EC-EDF,33.1722,0.09311905114134153,european commission european development fund,Germany
-2022,EC-EDF,15.098500000000001,0.03919930960821201,european commission european development fund,Germany
-2023,EC-EDF,3.0542000000000002,0.006374598117717383,european commission european development fund,Germany
-2019,FAO,0.0478,0.00012788664641348856,food and agricultural organisation,Germany
-2020,FAO,0.0494,0.00013025303365643472,food and agricultural organisation,Germany
-2021,FAO,0.0471,0.00013221635311366707,food and agricultural organisation,Germany
-2022,FAO,0.0098,2.5443138997945336e-05,food and agricultural organisation,Germany
-2023,FAO,0.0101,2.1080296309654105e-05,food and agricultural organisation,Germany
-2019,IBRD,5.333199999999999,0.014268725160092406,international bank for reconstruction and development,Germany
-2020,IBRD,4.179399999999999,0.011019828519508163,international bank for reconstruction and development,Germany
-2021,IBRD,3.0325,0.008512655855991409,international bank for reconstruction and development,Germany
-2022,IBRD,3.2371,0.008404284209209066,international bank for reconstruction and development,Germany
-2023,IBRD,2.5040999999999998,0.005226452474158895,international bank for reconstruction and development,Germany
-2019,IDA,58.0152,0.15521693240602136,international development association,Germany
-2020,IDA,53.4739,0.14099469021135272,international development association,Germany
-2021,IDA,53.01290000000001,0.14881469864075417,international development association,Germany
-2022,IDA,55.0254,0.14285907149158586,international development association,Germany
-2023,IDA,112.7239,0.23527259536433845,international development association,Germany
-2023,UN,0.0776,0.00016196346471575827,united nations,Germany
-2019,UNDP,0.0264,7.063195534134096e-05,united nations development programme,Germany
-2020,UNDP,0.0544,0.00014343653908724795,united nations development programme,Germany
-2021,UNDP,0.0222,6.231853586249276e-05,united nations development programme,Germany
-2022,UNDP,0.29619999999999996,0.0007690058950195315,united nations development programme,Germany
-2023,UNDP,0.45320000000000005,0.0009459000284688357,united nations development programme,Germany
-2019,UNFPA,1.974,0.00528134393347754,united nations population fund,Germany
-2020,UNFPA,4.3479,0.01146411265252657,united nations population fund,Germany
-2021,UNFPA,2.3083,0.0064797241590717125,united nations population fund,Germany
-2022,UNFPA,3.5929,0.009328025929154878,united nations population fund,Germany
-2023,UNFPA,2.9062,0.0060656987262491845,united nations population fund,Germany
-2020,UNIDO,0.2963,0.0007812545318299922,united nations industrial development organisation,Germany
-2021,UNIDO,0.2238,0.0006282382128840485,united nations industrial development organisation,Germany
-2022,UNIDO,0.133,0.0003452997435435439,united nations industrial development organisation,Germany
-2023,UNIDO,0.0852,0.00017782586589926036,united nations industrial development organisation,Germany
-2019,UNRWA,13.1828,0.035269959881584455,united nations relief and works agency for palestine refugees in the near east,Germany
-2020,UNRWA,13.3155,0.035108993312798716,united nations relief and works agency for palestine refugees in the near east,Germany
-2021,UNRWA,12.769,0.035844386685953605,united nations relief and works agency for palestine refugees in the near east,Germany
-2022,UNRWA,12.4565,0.03234004703345981,united nations relief and works agency for palestine refugees in the near east,Germany
-2023,UNRWA,10.1936,0.021275654303177235,united nations relief and works agency for palestine refugees in the near east,Germany
-2019,WFP,0.6535,0.0017484084399835725,world food programme,Germany
-2019,,4.8044,0.01285394569098252,united nations children’s fund,Germany
-2020,,7.5348,0.019867015344018305,united nations children’s fund,Germany
-2021,,6.3428,0.0178051355526405,united nations children’s fund,Germany
-2022,,8.4207,0.021862146995918194,united nations children’s fund,Germany
-2023,,5.4171,0.011306343875151212,united nations children’s fund,Germany
+Year,Multi_short,ODA,Share,Full Name,Donor
+2019,ADF,10.08,0.0%,african development fund,Germany
+2020,ADF,7.32,0.0%,african development fund,Germany
+2021,ADF,3.89,0.0%,african development fund,Germany
+2022,ADF,2.55,0.0%,african development fund,Germany
+2023,ADF,3.17,0.0%,african development fund,Germany
+2021,AF,0.01,0.0%,adaptation fund,Germany
+2022,AF,0.01,0.0%,adaptation fund,Germany
+2023,AF,0.01,0.0%,adaptation fund,Germany
+2019,AfDB,0.2,0.0%,african development bank,Germany
+2020,AfDB,0.64,0.0%,african development bank,Germany
+2021,AfDB,0.18,0.0%,african development bank,Germany
+2022,AfDB,0.34,0.0%,african development bank,Germany
+2023,AfDB,1.38,0.0%,african development bank,Germany
+2021,CDB,0.01,0.0%,caribbean development bank,Germany
+2022,CDB,0.01,0.0%,caribbean development bank,Germany
+2023,CDB,0.01,0.0%,caribbean development bank,Germany
+2019,CEB,0.0,0.0%,council of europe development bank,Germany
+2020,CEB,0.0,0.0%,council of europe development bank,Germany
+2021,CEB,0.0,0.0%,council of europe development bank,Germany
+2022,CEB,0.0,0.0%,council of europe development bank,Germany
+2023,CEB,0.0,0.0%,council of europe development bank,Germany
+2019,EC-DSB,217.18,0.06%,european commission development share of budget,Germany
+2020,EC-DSB,223.43,0.06%,european commission development share of budget,Germany
+2021,EC-DSB,241.22,0.06%,european commission development share of budget,Germany
+2022,EC-DSB,289.92,0.07%,european commission development share of budget,Germany
+2023,EC-DSB,344.39,0.09%,european commission development share of budget,Germany
+2019,EC-EDF,62.26,0.02%,european commission european development fund,Germany
+2020,EC-EDF,64.63,0.02%,european commission european development fund,Germany
+2021,EC-EDF,33.17,0.01%,european commission european development fund,Germany
+2022,EC-EDF,15.1,0.0%,european commission european development fund,Germany
+2023,EC-EDF,3.05,0.0%,european commission european development fund,Germany
+2019,FAO,0.05,0.0%,food and agricultural organisation,Germany
+2020,FAO,0.05,0.0%,food and agricultural organisation,Germany
+2021,FAO,0.05,0.0%,food and agricultural organisation,Germany
+2022,FAO,0.01,0.0%,food and agricultural organisation,Germany
+2023,FAO,0.01,0.0%,food and agricultural organisation,Germany
+2019,IBRD,5.33,0.0%,international bank for reconstruction and development,Germany
+2020,IBRD,4.18,0.0%,international bank for reconstruction and development,Germany
+2021,IBRD,3.03,0.0%,international bank for reconstruction and development,Germany
+2022,IBRD,3.24,0.0%,international bank for reconstruction and development,Germany
+2023,IBRD,2.5,0.0%,international bank for reconstruction and development,Germany
+2019,IDA,58.02,0.02%,international development association,Germany
+2020,IDA,53.47,0.01%,international development association,Germany
+2021,IDA,53.01,0.01%,international development association,Germany
+2022,IDA,55.03,0.01%,international development association,Germany
+2023,IDA,112.72,0.03%,international development association,Germany
+2023,UN,0.08,0.0%,united nations,Germany
+2019,UNDP,0.03,0.0%,united nations development programme,Germany
+2020,UNDP,0.05,0.0%,united nations development programme,Germany
+2021,UNDP,0.02,0.0%,united nations development programme,Germany
+2022,UNDP,0.3,0.0%,united nations development programme,Germany
+2023,UNDP,0.45,0.0%,united nations development programme,Germany
+2019,UNFPA,1.97,0.0%,united nations population fund,Germany
+2020,UNFPA,4.35,0.0%,united nations population fund,Germany
+2021,UNFPA,2.31,0.0%,united nations population fund,Germany
+2022,UNFPA,3.59,0.0%,united nations population fund,Germany
+2023,UNFPA,2.91,0.0%,united nations population fund,Germany
+2020,UNIDO,0.3,0.0%,united nations industrial development organisation,Germany
+2021,UNIDO,0.22,0.0%,united nations industrial development organisation,Germany
+2022,UNIDO,0.13,0.0%,united nations industrial development organisation,Germany
+2023,UNIDO,0.09,0.0%,united nations industrial development organisation,Germany
+2019,UNRWA,13.18,0.0%,united nations relief and works agency for palestine refugees in the near east,Germany
+2020,UNRWA,13.32,0.0%,united nations relief and works agency for palestine refugees in the near east,Germany
+2021,UNRWA,12.77,0.0%,united nations relief and works agency for palestine refugees in the near east,Germany
+2022,UNRWA,12.46,0.0%,united nations relief and works agency for palestine refugees in the near east,Germany
+2023,UNRWA,10.19,0.0%,united nations relief and works agency for palestine refugees in the near east,Germany
+2019,WFP,0.65,0.0%,world food programme,Germany
+2019,,4.81,0.0%,united nations children’s fund,Germany
+2020,,7.54,0.0%,united nations children’s fund,Germany
+2021,,6.34,0.0%,united nations children’s fund,Germany
+2022,,8.43,0.0%,united nations children’s fund,Germany
+2023,,5.43,0.0%,united nations children’s fund,Germany

@@ -1,126 +1,103 @@
-year,Sector,Bilateral ODA for,share,donor
-2023,Forestry policy and administrative management,258.89006056619996,36.275774774451484,United Kingdom
-2023,Multisector education/training,164.46859196169996,23.045402308707732,United Kingdom
-2023,Research/scientific institutions,158.84227544120003,22.25704067573866,United Kingdom
-2023,Agricultural research,63.010301406,8.829027647007246,United Kingdom
-2023,Agricultural policy and administrative management,13.690438697000003,1.9183095312723102,United Kingdom
-2023,Disaster Risk Reduction,13.0241169055,1.8249442657889632,United Kingdom
-2023,Fishery development,11.915001219,1.669534549578568,United Kingdom
-2023,Agricultural land resources,5.6729475258,0.7948955873513751,United Kingdom
-2023,Agricultural development,5.356637893499999,0.7505741601200259,United Kingdom
-2023,Food security policy and administrative management,5.1684859138000006,0.7242102324202252,United Kingdom
-2023,Agricultural services,3.1063265436000003,0.43525966900811075,United Kingdom
-2023,Rural development,3.0534671097,0.427852984816884,United Kingdom
-2023,Fishing policy and administrative management,2.9775079723,0.4172095612943367,United Kingdom
-2023,Fishery research,2.1927995243,0.307255912007834,United Kingdom
-2023,Forestry research,1.0718532849,0.15018849417877095,United Kingdom
-2023,Agricultural education/training,0.6071603734000001,0.0850755448442497,United Kingdom
-2023,Industrial crops/export crops,0.498728602,0.0698820433668324,United Kingdom
-2023,Food crop production,0.08106476139999999,0.011358825519448995,United Kingdom
-2023,Agricultural alternative development,0.015588378700000002,0.0021842496138451003,United Kingdom
-2023,Agricultural water resources,0.0124298147,0.0017416704123720797,United Kingdom
-2023,Forestry development,0.0068915107,0.0009656411275974693,United Kingdom
-2023,Agricultural financial services,0.0037286199,0.0005224556532457192,United Kingdom
-2023,Plant and post-harvest protection and pest control,0.0037286199,0.0005224556532457192,United Kingdom
-2023,Non-agricultural alternative development,0.001903792,0.00026676006664127236,United Kingdom
-2022,Research/scientific institutions,220.72266115139988,31.546252436244284,United Kingdom
-2022,Multisector education/training,188.85524262820005,26.991678728315183,United Kingdom
-2022,Forestry policy and administrative management,164.35292794409997,23.489744671047166,United Kingdom
-2022,Agricultural research,42.87046875979999,6.127158047578648,United Kingdom
-2022,Agricultural development,21.413855661100005,3.0605235221180873,United Kingdom
-2022,Agricultural policy and administrative management,15.776898457699996,2.254875049128777,United Kingdom
-2022,Agricultural land resources,10.887446794199999,1.556061997279129,United Kingdom
-2022,Disaster Risk Reduction,9.275348179600002,1.3256567023130275,United Kingdom
-2022,Agricultural services,9.0741909208,1.2969067876808589,United Kingdom
-2022,Rural development,4.0040163932,0.5722643576325259,United Kingdom
-2022,Forestry research,2.7499334361,0.39302758450603725,United Kingdom
-2022,Livestock,1.6048869207,0.2293745810599016,United Kingdom
-2022,Forestry development,1.5158457034999997,0.21664858047451108,United Kingdom
-2022,Fishery research,1.4439862091,0.2063782360592254,United Kingdom
-2022,Fishing policy and administrative management,1.3860233146,0.198094029569987,United Kingdom
-2022,Fishery development,1.2435342187,0.17772912020714465,United Kingdom
-2022,Food security policy and administrative management,0.9185893753000001,0.1312871644773659,United Kingdom
-2022,Livestock/veterinary services,0.6534300909,0.09338991515162201,United Kingdom
-2022,Food crop production,0.5389126753,0.07702279053460807,United Kingdom
-2022,Agricultural education/training,0.2065030202,0.02951394464933369,United Kingdom
-2022,Agricultural co-operatives,0.1367928637,0.019550789154345008,United Kingdom
-2022,Agricultural financial services,0.016001588100000002,0.002286988272749905,United Kingdom
-2022,Agricultural alternative development,0.016001588100000002,0.002286988272749905,United Kingdom
-2022,Plant and post-harvest protection and pest control,0.016001588100000002,0.002286988272749905,United Kingdom
-2021,Research/scientific institutions,258.1725170346001,34.00839394686995,United Kingdom
-2021,Multisector education/training,207.90185084259986,27.386369885338958,United Kingdom
-2021,Forestry policy and administrative management,137.2548447896,18.08022358977749,United Kingdom
-2021,Agricultural research,71.23670887009999,9.383826313349084,United Kingdom
-2021,Agricultural development,34.177669033499996,4.502135417152986,United Kingdom
-2021,Rural development,13.662847775100001,1.7997713889485927,United Kingdom
-2021,Agricultural policy and administrative management,12.070505329300001,1.5900162615744762,United Kingdom
-2021,Agricultural services,8.439975067000002,1.1117759561596892,United Kingdom
-2021,Agricultural land resources,3.9359590743000004,0.5184736481444023,United Kingdom
-2021,Forestry development,2.4602000911,0.3240757569677375,United Kingdom
-2021,Disaster Risk Reduction,2.1797271798,0.2871297901062161,United Kingdom
-2021,Livestock,1.7716450377999997,0.233374191302651,United Kingdom
-2021,Livestock/veterinary services,1.7013864594,0.22411921157119488,United Kingdom
-2021,Fishing policy and administrative management,1.4975995879,0.19727489720816238,United Kingdom
-2021,Agricultural education/training,0.44935440549999994,0.05919228669083117,United Kingdom
-2021,Fishery development,0.4283769974,0.056428987301557106,United Kingdom
-2021,Food crop production,0.40161141260000005,0.05290322645546844,United Kingdom
-2021,Forestry research,0.35292301389999997,0.04648963037386087,United Kingdom
-2021,Fishery research,0.3416744156,0.04500788178679022,United Kingdom
-2021,Food security policy and administrative management,0.2249038189,0.029625994901237424,United Kingdom
-2021,Agricultural co-operatives,0.2036029825,0.026820091143511183,United Kingdom
-2021,Non-agricultural alternative development,0.10656475720000001,0.01403749820212059,United Kingdom
-2021,Fishery services,0.078325897,0.010317666620808314,United Kingdom
-2021,Agricultural water resources,0.0451804456,0.0059515025468570865,United Kingdom
-2021,Agricultural financial services,0.024479952699999998,0.003224680476391561,United Kingdom
-2021,Agricultural inputs,0.014723018700000002,0.0019394249464966436,United Kingdom
-2021,Plant and post-harvest protection and pest control,0.0042067313000000005,0.0005541417689314119,United Kingdom
-2021,Agricultural extension,0.0041504829,0.0005467323135484257,United Kingdom
-2020,Research/scientific institutions,466.19576923159974,41.80303276420232,United Kingdom
-2020,Multisector education/training,194.5709767975001,17.446869866354483,United Kingdom
-2020,Agricultural research,121.19341596389997,10.867220752978703,United Kingdom
-2020,Forestry policy and administrative management,102.36719979770002,9.179103907734138,United Kingdom
-2020,Agricultural development,101.4454745741,9.096454273686083,United Kingdom
-2020,Rural development,64.7602334797,5.806947082405641,United Kingdom
-2020,Agricultural policy and administrative management,27.035177972699998,2.4242013874162263,United Kingdom
-2020,Disaster Risk Reduction,9.233358749,0.8279405858707618,United Kingdom
-2020,Agricultural services,8.3733834516,0.7508279694416805,United Kingdom
-2020,Agricultural land resources,6.2630711242,0.5615996212084793,United Kingdom
-2020,Livestock,4.4591395048,0.39984394351442426,United Kingdom
-2020,Fishing policy and administrative management,3.142511572,0.2817840119457194,United Kingdom
-2020,Forestry development,2.3543589912000003,0.21111162422182886,United Kingdom
-2020,Forestry research,0.6235957232,0.055916836164156,United Kingdom
-2020,Agricultural co-operatives,0.5526567555,0.04955585181650829,United Kingdom
-2020,Fishery research,0.5445991722000001,0.048833341144124104,United Kingdom
-2020,Plant and post-harvest protection and pest control,0.5251772486999999,0.04709180817021374,United Kingdom
-2020,Food crop production,0.4500272229,0.040353224943845176,United Kingdom
-2020,Agricultural education/training,0.42014417870000004,0.03767365992366989,United Kingdom
-2020,Fishery development,0.26175517449999997,0.02347116996333589,United Kingdom
-2020,Livestock/veterinary services,0.1833384147,0.016439663897579452,United Kingdom
-2020,Food security policy and administrative management,0.1458315489,0.01307648292640889,United Kingdom
-2020,Agricultural inputs,0.0588185192,0.00527416301806456,United Kingdom
-2020,Non-agricultural alternative development,0.043372924900000005,0.003889181155938919,United Kingdom
-2020,Agricultural extension,0.0165813793,0.0014868258956876497,United Kingdom
-2019,Research/scientific institutions,562.9024556449999,37.8343375996141,United Kingdom
-2019,Multisector education/training,267.41133296009986,17.973505973752278,United Kingdom
-2019,Agricultural development,219.97291432909998,14.78502966195416,United Kingdom
-2019,Agricultural research,131.32228061019993,8.826558578900551,United Kingdom
-2019,Rural development,80.8378932139,5.433353704580546,United Kingdom
-2019,Forestry policy and administrative management,66.37988668710001,4.461588357908561,United Kingdom
-2019,Agricultural policy and administrative management,40.561793204699995,2.72627799428216,United Kingdom
-2019,Agricultural services,30.308195567999995,2.037103394478726,United Kingdom
-2019,Disaster Risk Reduction,28.940388081400005,1.9451690109983661,United Kingdom
-2019,Forestry development,27.932493554100002,1.877425441169776,United Kingdom
-2019,Agricultural land resources,16.9853715343,1.1416370179931543,United Kingdom
-2019,Livestock,8.164312475600001,0.5487475696240293,United Kingdom
-2019,Fishing policy and administrative management,2.273938923,0.1528381552272752,United Kingdom
-2019,Forestry research,1.3078953687000001,0.08790751297694593,United Kingdom
-2019,Fishery development,0.5202955365999999,0.03497060065360834,United Kingdom
-2019,Fishery research,0.48389524990000005,0.03252402981008182,United Kingdom
-2019,Food crop production,0.4453769946,0.029935104037678725,United Kingdom
-2019,Agricultural education/training,0.338485564,0.022750615088892517,United Kingdom
-2019,Livestock/veterinary services,0.24827827419999998,0.01668751655021457,United Kingdom
-2019,Agricultural co-operatives,0.21369632519999998,0.014363161557271027,United Kingdom
-2019,Fishery education/training,0.1194694382,0.008029894011593451,United Kingdom
-2019,Agricultural water resources,0.08283550429999999,0.0055676190492531625,United Kingdom
-2019,Non-agricultural alternative development,0.0409661424,0.0027534554986786957,United Kingdom
-2019,Agricultural extension,0.013956093400000001,0.0009380302821069004,United Kingdom
+year,Sub-Sector,Bilateral ODA for,Share,Donor
+2023,Forestry policy and administrative management,258.89,69.6%,United Kingdom
+2023,Agricultural research,63.01,16.9%,United Kingdom
+2023,Agricultural policy and administrative management,13.69,3.7%,United Kingdom
+2023,Fishery development,11.92,3.2%,United Kingdom
+2023,Agricultural land resources,5.67,1.5%,United Kingdom
+2023,Agricultural development,5.36,1.4%,United Kingdom
+2023,Agricultural services,3.11,0.8%,United Kingdom
+2023,Rural development,3.05,0.8%,United Kingdom
+2023,Fishing policy and administrative management,2.98,0.8%,United Kingdom
+2023,Fishery research,2.19,0.6%,United Kingdom
+2023,Forestry research,1.07,0.3%,United Kingdom
+2023,Agricultural education/training,0.61,0.2%,United Kingdom
+2023,Industrial crops/export crops,0.5,0.1%,United Kingdom
+2023,Food crop production,0.08,0.0%,United Kingdom
+2023,Agricultural alternative development,0.02,0.0%,United Kingdom
+2023,Forestry development,0.01,0.0%,United Kingdom
+2023,Agricultural water resources,0.01,0.0%,United Kingdom
+2023,Plant and post-harvest protection and pest control,0.0,0.0%,United Kingdom
+2023,Agricultural financial services,0.0,0.0%,United Kingdom
+2022,Forestry policy and administrative management,164.35,58.7%,United Kingdom
+2022,Agricultural research,42.87,15.3%,United Kingdom
+2022,Agricultural development,21.41,7.7%,United Kingdom
+2022,Agricultural policy and administrative management,15.78,5.6%,United Kingdom
+2022,Agricultural land resources,10.89,3.9%,United Kingdom
+2022,Agricultural services,9.07,3.2%,United Kingdom
+2022,Rural development,4.0,1.4%,United Kingdom
+2022,Forestry research,2.75,1.0%,United Kingdom
+2022,Livestock,1.6,0.6%,United Kingdom
+2022,Forestry development,1.52,0.5%,United Kingdom
+2022,Fishery research,1.44,0.5%,United Kingdom
+2022,Fishing policy and administrative management,1.39,0.5%,United Kingdom
+2022,Fishery development,1.24,0.4%,United Kingdom
+2022,Livestock/veterinary services,0.65,0.2%,United Kingdom
+2022,Food crop production,0.54,0.2%,United Kingdom
+2022,Agricultural education/training,0.21,0.1%,United Kingdom
+2022,Agricultural co-operatives,0.14,0.0%,United Kingdom
+2022,Agricultural alternative development,0.02,0.0%,United Kingdom
+2022,Agricultural financial services,0.02,0.0%,United Kingdom
+2022,Plant and post-harvest protection and pest control,0.02,0.0%,United Kingdom
+2021,Forestry policy and administrative management,137.25,47.2%,United Kingdom
+2021,Agricultural research,71.24,24.5%,United Kingdom
+2021,Agricultural development,34.18,11.8%,United Kingdom
+2021,Rural development,13.66,4.7%,United Kingdom
+2021,Agricultural policy and administrative management,12.07,4.2%,United Kingdom
+2021,Agricultural services,8.44,2.9%,United Kingdom
+2021,Agricultural land resources,3.94,1.4%,United Kingdom
+2021,Forestry development,2.46,0.8%,United Kingdom
+2021,Livestock,1.77,0.6%,United Kingdom
+2021,Livestock/veterinary services,1.7,0.6%,United Kingdom
+2021,Fishing policy and administrative management,1.5,0.5%,United Kingdom
+2021,Agricultural education/training,0.45,0.2%,United Kingdom
+2021,Fishery development,0.43,0.1%,United Kingdom
+2021,Food crop production,0.4,0.1%,United Kingdom
+2021,Forestry research,0.35,0.1%,United Kingdom
+2021,Fishery research,0.34,0.1%,United Kingdom
+2021,Agricultural co-operatives,0.2,0.1%,United Kingdom
+2021,Fishery services,0.08,0.0%,United Kingdom
+2021,Agricultural water resources,0.05,0.0%,United Kingdom
+2021,Agricultural financial services,0.02,0.0%,United Kingdom
+2021,Agricultural inputs,0.01,0.0%,United Kingdom
+2021,Plant and post-harvest protection and pest control,0.0,0.0%,United Kingdom
+2021,Agricultural extension,0.0,0.0%,United Kingdom
+2020,Agricultural research,121.19,27.2%,United Kingdom
+2020,Forestry policy and administrative management,102.37,23.0%,United Kingdom
+2020,Agricultural development,101.45,22.8%,United Kingdom
+2020,Rural development,64.76,14.6%,United Kingdom
+2020,Agricultural policy and administrative management,27.04,6.1%,United Kingdom
+2020,Agricultural services,8.37,1.9%,United Kingdom
+2020,Agricultural land resources,6.26,1.4%,United Kingdom
+2020,Livestock,4.46,1.0%,United Kingdom
+2020,Fishing policy and administrative management,3.14,0.7%,United Kingdom
+2020,Forestry development,2.35,0.5%,United Kingdom
+2020,Forestry research,0.62,0.1%,United Kingdom
+2020,Agricultural co-operatives,0.55,0.1%,United Kingdom
+2020,Fishery research,0.54,0.1%,United Kingdom
+2020,Plant and post-harvest protection and pest control,0.53,0.1%,United Kingdom
+2020,Food crop production,0.45,0.1%,United Kingdom
+2020,Agricultural education/training,0.42,0.1%,United Kingdom
+2020,Fishery development,0.26,0.1%,United Kingdom
+2020,Livestock/veterinary services,0.18,0.0%,United Kingdom
+2020,Agricultural inputs,0.06,0.0%,United Kingdom
+2020,Agricultural extension,0.02,0.0%,United Kingdom
+2019,Agricultural development,219.97,35.0%,United Kingdom
+2019,Agricultural research,131.32,20.9%,United Kingdom
+2019,Rural development,80.84,12.9%,United Kingdom
+2019,Forestry policy and administrative management,66.38,10.6%,United Kingdom
+2019,Agricultural policy and administrative management,40.56,6.5%,United Kingdom
+2019,Agricultural services,30.31,4.8%,United Kingdom
+2019,Forestry development,27.93,4.4%,United Kingdom
+2019,Agricultural land resources,16.99,2.7%,United Kingdom
+2019,Livestock,8.16,1.3%,United Kingdom
+2019,Fishing policy and administrative management,2.27,0.4%,United Kingdom
+2019,Forestry research,1.31,0.2%,United Kingdom
+2019,Fishery development,0.52,0.1%,United Kingdom
+2019,Fishery research,0.48,0.1%,United Kingdom
+2019,Food crop production,0.45,0.1%,United Kingdom
+2019,Agricultural education/training,0.34,0.1%,United Kingdom
+2019,Livestock/veterinary services,0.25,0.0%,United Kingdom
+2019,Agricultural co-operatives,0.21,0.0%,United Kingdom
+2019,Fishery education/training,0.12,0.0%,United Kingdom
+2019,Agricultural water resources,0.08,0.0%,United Kingdom
+2019,Agricultural extension,0.01,0.0%,United Kingdom

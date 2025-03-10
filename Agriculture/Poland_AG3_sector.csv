@@ -1,87 +1,67 @@
-year,Sector,Bilateral ODA for,share,donor
-2023,Rural development,1.2356158716,43.822894618423035,Poland
-2023,Agricultural policy and administrative management,0.4345890648,15.413326444559258,Poland
-2023,Research/scientific institutions,0.2784322992,9.875002083298615,Poland
-2023,Disaster Risk Reduction,0.240340584,8.524024599590009,Poland
-2023,Agricultural development,0.2223978636,7.8876602056632406,Poland
-2023,Agricultural services,0.080044998,2.8389110181496986,Poland
-2023,Household food security programmes,0.0402122292,1.426184563590607,Poland
-2023,Agricultural water resources,0.038655619200000005,1.3709771503808275,Poland
-2023,Multisector education/training,0.0384617772,1.364102264962251,Poland
-2023,Food safety and quality,0.0368746224,1.3078115364743925,Poland
-2023,Agricultural alternative development,0.028406664,1.0074832086131902,Poland
-2023,Agricultural education/training,0.025346309999999997,0.898943350944151,Poland
-2023,Agricultural extension,0.020663557199999998,0.7328627856202398,Poland
-2023,Forestry research,0.0168501564,0.5976150397493376,Poland
-2023,Agricultural research,0.016750298400000002,0.594073432109465,Poland
-2023,Fishery education/training,0.016176996,0.5737404376593724,Poland
-2023,Fishery development,0.016176996,0.5737404376593724,Poland
-2023,Agricultural co-operatives,0.0089601996,0.31778637022716294,Poland
-2023,Industrial crops/export crops,0.0082506204,0.2926201229979501,Poland
-2023,Agricultural financial services,0.0059997036000000005,0.21278812019799676,Poland
-2023,Agricultural inputs,0.0059997036000000005,0.21278812019799676,Poland
-2023,Forestry development,0.0032436228,0.11503974933751106,Poland
-2023,Forestry policy and administrative management,0.0011172348,0.0396243395943401,Poland
-2022,Agricultural development,3.6127766795999996,57.713566660348356,Poland
-2022,Agricultural policy and administrative management,1.4083960572,22.49891619107317,Poland
-2022,Research/scientific institutions,0.24325878719999997,3.8860227121309645,Poland
-2022,Disaster Risk Reduction,0.19899232320000002,3.178872575974537,Poland
-2022,Rural development,0.1763398296,2.817002381564551,Poland
-2022,Agricultural services,0.1262158128,2.0162787162447473,Poland
-2022,Multisector education/training,0.09487449840000002,1.5156059101836754,Poland
-2022,Agricultural water resources,0.0778351992,1.243405656075054,Poland
-2022,Agricultural education/training,0.06734658480000001,1.075851611074932,Poland
-2022,Non-agricultural alternative development,0.0479048196,0.7652723222412606,Poland
-2022,Food safety and quality,0.0439833372,0.7026272279076576,Poland
-2022,Forestry research,0.0322494348,0.5151798935145999,Poland
-2022,Agricultural alternative development,0.029052804,0.46411419498801715,Poland
-2022,Agricultural extension,0.026476467600000005,0.42295760664961357,Poland
-2022,Fishery development,0.024195006,0.3865115991014239,Poland
-2022,Agricultural inputs,0.023496000000000003,0.37534508288557794,Poland
-2022,Household food security programmes,0.014825976000000001,0.23684274730079968,Poland
-2022,Agricultural land resources,0.00713691,0.11401106892649429,Poland
-2022,Forestry education/training,0.0044830367999999995,0.07161584181456826,Poland
-2021,Agricultural development,3.5039302848,68.42548763245128,Poland
-2021,Rural development,0.8399960975999999,16.40362048211152,Poland
-2021,Non-agricultural alternative development,0.1342643676,2.6219428122032626,Poland
-2021,Research/scientific institutions,0.1135455948,2.217342258894341,Poland
-2021,Disaster Risk Reduction,0.0852129432,1.6640562788449385,Poland
-2021,Multisector education/training,0.0849638856,1.6591926296443549,Poland
-2021,Agricultural education/training,0.0635649036,1.241308807999877,Poland
-2021,Agricultural services,0.0552461448,1.0788583363520843,Poland
-2021,Agricultural water resources,0.042785041200000005,0.8355152841323217,Poland
-2021,Agricultural extension,0.0422916252,0.8258797526972032,Poland
-2021,Fishery development,0.0368405532,0.7194300720806577,Poland
-2021,Food safety and quality,0.035525952,0.6937582633285209,Poland
-2021,Agricultural co-operatives,0.0281940252,0.5505788545509648,Poland
-2021,Livestock,0.022762924800000004,0.44451918354012643,Poland
-2021,Household food security programmes,0.013271715600000001,0.25917285386317135,Poland
-2021,Forestry development,0.011824362,0.2309086283201575,Poland
-2021,Agricultural land resources,0.0061723992,0.12053590990502808,Poland
-2021,Food crop production,0.0004041312,0.00789195908019217,Poland
-2020,Agricultural development,10.75408983,90.06843704662487,Poland
-2020,Rural development,0.6091114787999999,5.101474857465866,Poland
-2020,Agricultural co-operatives,0.196320828,1.6442405091625747,Poland
-2020,Agricultural inputs,0.17147733240000002,1.4361694538860446,Poland
-2020,Agricultural alternative development,0.0989862984,0.8290372618097075,Poland
-2020,Agricultural education/training,0.069201594,0.5795822344097987,Poland
-2020,Livestock,0.024241998,0.20303334873179182,Poland
-2020,Agricultural extension,0.010502712,0.0879630791210186,Poland
-2020,Agricultural water resources,0.0047802612,0.040035992051837214,Poland
-2020,Research/scientific institutions,0.0011971211999999998,0.010026216736500887,Poland
-2019,Agricultural development,20.613159454799998,89.39738631589968,Poland
-2019,Agricultural inputs,0.6609507036,2.866482720179792,Poland
-2019,Rural development,0.624799758,2.709699377161713,Poland
-2019,Agricultural co-operatives,0.4657635576,2.0199739288844984,Poland
-2019,Agricultural water resources,0.19930129559999998,0.864351481638766,Poland
-2019,Non-agricultural alternative development,0.1163944848,0.5047922297172505,Poland
-2019,Agricultural education/training,0.1140096408,0.49444937951815066,Poland
-2019,Agricultural alternative development,0.1056861828,0.45835130382326267,Poland
-2019,Agricultural extension,0.049825617600000004,0.21608914415971606,Poland
-2019,Livestock,0.0417312456,0.18098459348395343,Poland
-2019,Fishery development,0.037161273599999996,0.16116504310242707,Poland
-2019,Food crop production,0.0175855812,0.07626705646814083,Poland
-2019,Forestry development,0.0101373492,0.04396475584632155,Poland
-2019,Agricultural policy and administrative management,0.0006966564000000001,0.0030213350581607,Poland
-2019,Agrarian reform,0.0006966564000000001,0.0030213350581607,Poland
-2019,Research/scientific institutions,0.0,0.0,Poland
+year,Sub-Sector,Bilateral ODA for,Share,Donor
+2023,Rural development,1.24,56.5%,Poland
+2023,Agricultural policy and administrative management,0.43,19.9%,Poland
+2023,Agricultural development,0.22,10.2%,Poland
+2023,Agricultural services,0.08,3.7%,Poland
+2023,Agricultural water resources,0.04,1.8%,Poland
+2023,Agricultural alternative development,0.03,1.3%,Poland
+2023,Agricultural education/training,0.03,1.2%,Poland
+2023,Forestry research,0.02,0.8%,Poland
+2023,Fishery development,0.02,0.7%,Poland
+2023,Agricultural extension,0.02,0.9%,Poland
+2023,Agricultural research,0.02,0.8%,Poland
+2023,Fishery education/training,0.02,0.7%,Poland
+2023,Agricultural financial services,0.01,0.3%,Poland
+2023,Industrial crops/export crops,0.01,0.4%,Poland
+2023,Agricultural inputs,0.01,0.3%,Poland
+2023,Agricultural co-operatives,0.01,0.4%,Poland
+2023,Forestry development,0.0,0.1%,Poland
+2023,Forestry policy and administrative management,0.0,0.1%,Poland
+2022,Agricultural development,3.61,64.3%,Poland
+2022,Agricultural policy and administrative management,1.41,25.1%,Poland
+2022,Rural development,0.18,3.1%,Poland
+2022,Agricultural services,0.13,2.2%,Poland
+2022,Agricultural water resources,0.08,1.4%,Poland
+2022,Agricultural education/training,0.07,1.2%,Poland
+2022,Agricultural extension,0.03,0.5%,Poland
+2022,Agricultural alternative development,0.03,0.5%,Poland
+2022,Forestry research,0.03,0.6%,Poland
+2022,Fishery development,0.02,0.4%,Poland
+2022,Agricultural inputs,0.02,0.4%,Poland
+2022,Agricultural land resources,0.01,0.1%,Poland
+2022,Forestry education/training,0.0,0.1%,Poland
+2021,Agricultural development,3.5,75.3%,Poland
+2021,Rural development,0.84,18.0%,Poland
+2021,Agricultural services,0.06,1.2%,Poland
+2021,Agricultural education/training,0.06,1.4%,Poland
+2021,Agricultural extension,0.04,0.9%,Poland
+2021,Fishery development,0.04,0.8%,Poland
+2021,Agricultural water resources,0.04,0.9%,Poland
+2021,Agricultural co-operatives,0.03,0.6%,Poland
+2021,Livestock,0.02,0.5%,Poland
+2021,Agricultural land resources,0.01,0.1%,Poland
+2021,Forestry development,0.01,0.3%,Poland
+2021,Food crop production,0.0,0.0%,Poland
+2020,Agricultural development,10.75,90.1%,Poland
+2020,Rural development,0.61,5.1%,Poland
+2020,Agricultural co-operatives,0.2,1.6%,Poland
+2020,Agricultural inputs,0.17,1.4%,Poland
+2020,Agricultural alternative development,0.1,0.8%,Poland
+2020,Agricultural education/training,0.07,0.6%,Poland
+2020,Livestock,0.02,0.2%,Poland
+2020,Agricultural extension,0.01,0.1%,Poland
+2020,Agricultural water resources,0.0,0.0%,Poland
+2019,Agricultural development,20.61,89.9%,Poland
+2019,Agricultural inputs,0.66,2.9%,Poland
+2019,Rural development,0.62,2.7%,Poland
+2019,Agricultural co-operatives,0.47,2.0%,Poland
+2019,Agricultural water resources,0.2,0.9%,Poland
+2019,Agricultural alternative development,0.11,0.5%,Poland
+2019,Agricultural education/training,0.11,0.5%,Poland
+2019,Agricultural extension,0.05,0.2%,Poland
+2019,Fishery development,0.04,0.2%,Poland
+2019,Livestock,0.04,0.2%,Poland
+2019,Food crop production,0.02,0.1%,Poland
+2019,Forestry development,0.01,0.0%,Poland
+2019,Agricultural policy and administrative management,0.0,0.0%,Poland
+2019,Agrarian reform,0.0,0.0%,Poland

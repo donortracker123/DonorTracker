@@ -1,55 +1,55 @@
-Year,Multi_short,ODA,Share,Full Name,donor
-2019,ADF,4.1984,0.09820451164400866,african development fund,Switzerland
-2020,ADF,2.7406,0.06251325834905326,african development fund,Switzerland
-2021,ADF,1.6368,0.039032114215673416,african development fund,Switzerland
-2022,ADF,0.9359,0.021991578393315347,african development fund,Switzerland
-2023,ADF,0.9278,0.018090989213262305,african development fund,Switzerland
-2022,AF,0.0006,1.4098671905106538e-05,adaptation fund,Switzerland
-2023,AF,0.0005,9.749401386754854e-06,adaptation fund,Switzerland
-2021,AfDB,0.1277,0.003045210768170513,african development bank,Switzerland
-2022,AfDB,0.1569,0.00368680270318536,african development bank,Switzerland
-2023,AfDB,0.6485999999999998,0.012646923478898394,african development bank,Switzerland
-2019,FAO,0.0085,0.00019882296802926677,food and agricultural organisation,Switzerland
-2020,FAO,0.0097,0.00022125761000723078,food and agricultural organisation,Switzerland
-2021,FAO,0.0094,0.00022415803618483024,food and agricultural organisation,Switzerland
-2022,FAO,0.0017,3.9946237064468526e-05,food and agricultural organisation,Switzerland
-2023,FAO,0.002,3.8997605547019415e-05,food and agricultural organisation,Switzerland
-2021,IBRD,1.8035,0.04300734236801504,international bank for reconstruction and development,Switzerland
-2022,IBRD,1.6637,0.03909326741420958,international bank for reconstruction and development,Switzerland
-2023,IBRD,1.0261,0.02000772152589831,international bank for reconstruction and development,Switzerland
-2019,IDA,21.2946,0.4981006558818851,international development association,Switzerland
-2020,IDA,20.1442,0.4594904688152225,international development association,Switzerland
-2021,IDA,19.9476,0.47568243006388505,international development association,Switzerland
-2022,IDA,21.2586,0.4995300442698298,international development association,Switzerland
-2023,IDA,32.3967,0.631696863812562,international development association,Switzerland
-2019,IDB-IIC-MIF,1.4034000000000002,0.032826841568502706,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
-2020,IDB-IIC-MIF,0.0593,0.0013526367292194623,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
-2021,IDB-IIC-MIF,0.014599999999999998,0.00034816035407431075,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
-2022,IDB-IIC-MIF,0.012799999999999999,0.00030077166730893947,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
-2023,JSDGF,0.0062,0.00012089257719576019,joint sustainable development goals fund,Switzerland
-2023,UN,0.0151,0.0002944319218799966,united nations,Switzerland
-2019,UNDP,0.024,0.0005613824979649885,united nations development programme,Switzerland
-2020,UNDP,0.023,0.0005246314464088977,united nations development programme,Switzerland
-2021,UNDP,0.0101,0.00024085065590072184,united nations development programme,Switzerland
-2022,UNDP,0.17410000000000003,0.004090964631131748,united nations development programme,Switzerland
-2023,UNDP,0.24989999999999998,0.0048727508131000755,united nations development programme,Switzerland
-2019,UNFPA,0.8736,0.02043432292592558,united nations population fund,Switzerland
-2020,UNFPA,0.9309,0.021233887541827947,united nations population fund,Switzerland
-2021,UNFPA,0.8801,0.02098739230279458,united nations population fund,Switzerland
-2022,UNFPA,0.9870000000000001,0.02319231528390026,united nations population fund,Switzerland
-2023,UNFPA,1.0075,0.01964504379431103,united nations population fund,Switzerland
-2020,UNIDO,0.0564,0.0012864875468461664,united nations industrial development organisation,Switzerland
-2021,UNIDO,0.0349,0.0008322463258351676,united nations industrial development organisation,Switzerland
-2022,UNIDO,0.0251,0.0005897944413636235,united nations industrial development organisation,Switzerland
-2023,UNIDO,0.0108,0.00021058706995390485,united nations industrial development organisation,Switzerland
-2019,UNRWA,13.3689,0.31271110321017226,united nations relief and works agency for palestine refugees in the near east,Switzerland
-2020,UNRWA,18.3625,0.4188497797688428,united nations relief and works agency for palestine refugees in the near east,Switzerland
-2021,UNRWA,15.803,0.3768478133860502,united nations relief and works agency for palestine refugees in the near east,Switzerland
-2022,UNRWA,15.6101,0.36680279717650593,united nations relief and works agency for palestine refugees in the near east,Switzerland
-2023,UNRWA,13.3098,0.2595251651548595,united nations relief and works agency for palestine refugees in the near east,Switzerland
-2019,WFP,0.1697,0.003969442079360772,world food programme,Switzerland
-2019,,1.4105,0.03299291722415068,united nations children’s fund,Switzerland
-2020,,1.5137,0.03452759219257167,united nations children’s fund,Switzerland
-2021,,1.667,0.03975228152341617,united nations children’s fund,Switzerland
-2022,,1.7307,0.04066761911027981,united nations children’s fund,Switzerland
-2023,,1.6842,0.032839883631145046,united nations children’s fund,Switzerland
+Year,Multi_short,ODA,Share,Full Name,Donor
+2019,ADF,4.2,0.02%,african development fund,Switzerland
+2020,ADF,2.74,0.01%,african development fund,Switzerland
+2021,ADF,1.64,0.01%,african development fund,Switzerland
+2022,ADF,0.94,0.0%,african development fund,Switzerland
+2023,ADF,0.93,0.0%,african development fund,Switzerland
+2022,AF,0.0,0.0%,adaptation fund,Switzerland
+2023,AF,0.0,0.0%,adaptation fund,Switzerland
+2021,AfDB,0.13,0.0%,african development bank,Switzerland
+2022,AfDB,0.16,0.0%,african development bank,Switzerland
+2023,AfDB,0.65,0.0%,african development bank,Switzerland
+2019,FAO,0.01,0.0%,food and agricultural organisation,Switzerland
+2020,FAO,0.01,0.0%,food and agricultural organisation,Switzerland
+2021,FAO,0.01,0.0%,food and agricultural organisation,Switzerland
+2022,FAO,0.0,0.0%,food and agricultural organisation,Switzerland
+2023,FAO,0.0,0.0%,food and agricultural organisation,Switzerland
+2021,IBRD,1.8,0.01%,international bank for reconstruction and development,Switzerland
+2022,IBRD,1.66,0.01%,international bank for reconstruction and development,Switzerland
+2023,IBRD,1.03,0.0%,international bank for reconstruction and development,Switzerland
+2019,IDA,21.29,0.11%,international development association,Switzerland
+2020,IDA,20.14,0.1%,international development association,Switzerland
+2021,IDA,19.95,0.09%,international development association,Switzerland
+2022,IDA,21.26,0.1%,international development association,Switzerland
+2023,IDA,32.4,0.14%,international development association,Switzerland
+2019,IDB-IIC-MIF,1.4,0.01%,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
+2020,IDB-IIC-MIF,0.06,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
+2021,IDB-IIC-MIF,0.01,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
+2022,IDB-IIC-MIF,0.01,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
+2023,JSDGF,0.01,0.0%,joint sustainable development goals fund,Switzerland
+2023,UN,0.02,0.0%,united nations,Switzerland
+2019,UNDP,0.02,0.0%,united nations development programme,Switzerland
+2020,UNDP,0.02,0.0%,united nations development programme,Switzerland
+2021,UNDP,0.01,0.0%,united nations development programme,Switzerland
+2022,UNDP,0.17,0.0%,united nations development programme,Switzerland
+2023,UNDP,0.25,0.0%,united nations development programme,Switzerland
+2019,UNFPA,0.87,0.0%,united nations population fund,Switzerland
+2020,UNFPA,0.93,0.0%,united nations population fund,Switzerland
+2021,UNFPA,0.88,0.0%,united nations population fund,Switzerland
+2022,UNFPA,0.99,0.0%,united nations population fund,Switzerland
+2023,UNFPA,1.01,0.0%,united nations population fund,Switzerland
+2020,UNIDO,0.06,0.0%,united nations industrial development organisation,Switzerland
+2021,UNIDO,0.03,0.0%,united nations industrial development organisation,Switzerland
+2022,UNIDO,0.03,0.0%,united nations industrial development organisation,Switzerland
+2023,UNIDO,0.01,0.0%,united nations industrial development organisation,Switzerland
+2019,UNRWA,13.37,0.07%,united nations relief and works agency for palestine refugees in the near east,Switzerland
+2020,UNRWA,18.36,0.09%,united nations relief and works agency for palestine refugees in the near east,Switzerland
+2021,UNRWA,15.8,0.07%,united nations relief and works agency for palestine refugees in the near east,Switzerland
+2022,UNRWA,15.61,0.07%,united nations relief and works agency for palestine refugees in the near east,Switzerland
+2023,UNRWA,13.31,0.06%,united nations relief and works agency for palestine refugees in the near east,Switzerland
+2019,WFP,0.17,0.0%,world food programme,Switzerland
+2019,,1.41,0.01%,united nations children’s fund,Switzerland
+2020,,1.51,0.01%,united nations children’s fund,Switzerland
+2021,,1.67,0.01%,united nations children’s fund,Switzerland
+2022,,1.73,0.01%,united nations children’s fund,Switzerland
+2023,,1.69,0.01%,united nations children’s fund,Switzerland

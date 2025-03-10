@@ -1,164 +1,135 @@
-year,Sector,Bilateral ODA for,share,donor
-2023,Disaster Risk Reduction,438.2849783537997,32.044293424286224,Japan
-2023,Agricultural water resources,241.56855480440004,17.66178179619067,Japan
-2023,Agricultural financial services,176.22224078479996,12.884122136248417,Japan
-2023,Food security policy and administrative management,75.70532593319997,5.53503724242721,Japan
-2023,Agricultural inputs,62.362661457799994,4.559516116612175,Japan
-2023,Forestry development,49.10867538859999,3.590478527785662,Japan
-2023,Agricultural policy and administrative management,45.78217546120007,3.347268413330353,Japan
-2023,Industrial crops/export crops,37.9724157518,2.776274096707513,Japan
-2023,Agricultural development,32.6892146068,2.3900038477343837,Japan
-2023,Food crop production,32.34950517739999,2.3651667002793704,Japan
-2023,Forestry policy and administrative management,29.48228447479999,2.1555358298548417,Japan
-2023,Fishing policy and administrative management,22.65722676620001,1.6565359492896488,Japan
-2023,Rural development,20.4675020772,1.4964387889528463,Japan
-2023,Fishery development,20.3422654072,1.4872823706424727,Japan
-2023,Research/scientific institutions,17.386707104799996,1.2711928805795971,Japan
-2023,Agricultural services,16.877304166000005,1.2339489455868635,Japan
-2023,Agricultural education/training,11.608523391800002,0.848733011993051,Japan
-2023,Multisector education/training,10.767254411799998,0.7872253825389821,Japan
-2023,Livestock,8.439416961,0.617030395255474,Japan
-2023,Livestock/veterinary services,4.436458930399998,0.32436245536978725,Japan
-2023,Fishery education/training,4.281785107599999,0.31305380093797097,Japan
-2023,Agricultural research,3.3917188475999995,0.24797845998144522,Japan
-2023,Agricultural alternative development,1.8171351876,0.1328560548932283,Japan
-2023,Household food security programmes,1.0746032435999997,0.07856737819750464,Japan
-2023,Agricultural land resources,1.0371464901999998,0.07582880567973557,Japan
-2023,Food safety and quality,0.7745270812,0.05662793451933872,Japan
-2023,Agricultural extension,0.489996338,0.03582506179124129,Japan
-2023,Agricultural co-operatives,0.2135626514,0.015614188493601201,Japan
-2023,Forestry education/training,0.05910957819999999,0.00432167370905782,Japan
-2023,Fishery services,0.0449573988,0.0032869665854185987,Japan
-2023,Plant and post-harvest protection and pest control,0.032129717,0.0023490973454175,Japan
-2023,Forestry research,0.020000107399999998,0.0014622662005209972,Japan
-2023,Fuelwood/charcoal,,,Japan
+year,Sub-Sector,Bilateral ODA for,Share,Donor
+2023,Agricultural water resources,241.57,29.3%,Japan
+2023,Agricultural financial services,176.22,21.4%,Japan
+2023,Agricultural inputs,62.36,7.6%,Japan
+2023,Forestry development,49.11,6.0%,Japan
+2023,Agricultural policy and administrative management,45.78,5.6%,Japan
+2023,Industrial crops/export crops,37.97,4.6%,Japan
+2023,Agricultural development,32.69,4.0%,Japan
+2023,Food crop production,32.35,3.9%,Japan
+2023,Forestry policy and administrative management,29.48,3.6%,Japan
+2023,Fishing policy and administrative management,22.66,2.8%,Japan
+2023,Rural development,20.47,2.5%,Japan
+2023,Fishery development,20.34,2.5%,Japan
+2023,Agricultural services,16.88,2.0%,Japan
+2023,Agricultural education/training,11.61,1.4%,Japan
+2023,Livestock,8.44,1.0%,Japan
+2023,Livestock/veterinary services,4.44,0.5%,Japan
+2023,Fishery education/training,4.28,0.5%,Japan
+2023,Agricultural research,3.39,0.4%,Japan
+2023,Agricultural alternative development,1.82,0.2%,Japan
+2023,Agricultural land resources,1.04,0.1%,Japan
+2023,Agricultural extension,0.49,0.1%,Japan
+2023,Agricultural co-operatives,0.21,0.0%,Japan
+2023,Forestry education/training,0.06,0.0%,Japan
+2023,Fishery services,0.04,0.0%,Japan
+2023,Plant and post-harvest protection and pest control,0.03,0.0%,Japan
+2023,Forestry research,0.02,0.0%,Japan
 2023,Agrarian reform,,,Japan
-2022,Agricultural water resources,200.79625666000007,25.401232046708756,Japan
-2022,Disaster Risk Reduction,179.1014371532002,22.656782754325782,Japan
-2022,Food crop production,44.48911725159999,5.627985350218155,Japan
-2022,Forestry development,44.40719107219999,5.617621482244444,Japan
-2022,Agricultural policy and administrative management,44.015278235200086,5.568043521577701,Japan
-2022,Agricultural development,37.156041130199974,4.70033275711597,Japan
-2022,Forestry policy and administrative management,36.20745783040001,4.580334581280198,Japan
-2022,Rural development,35.5752919726,4.500364008555953,Japan
-2022,Agricultural financial services,28.120627358799997,3.557330165020942,Japan
-2022,Fishery development,27.186192365599993,3.4391217855936853,Japan
-2022,Fishing policy and administrative management,23.58280563399999,2.9832842911806905,Japan
-2022,Agricultural services,20.10766861080001,2.543670707796614,Japan
-2022,Research/scientific institutions,13.3609440914,1.6901930687055549,Japan
-2022,Agricultural inputs,12.919806030000005,1.6343879932094003,Japan
-2022,Livestock,9.265853117000004,1.1721537495301464,Japan
-2022,Multisector education/training,8.2963615382,1.0495106237565042,Japan
-2022,Livestock/veterinary services,6.000090311999998,0.7590265319257922,Japan
-2022,Agricultural education/training,4.551626320399999,0.5757921899418514,Japan
-2022,Plant and post-harvest protection and pest control,3.9444371179999993,0.4989812270137221,Japan
-2022,Food security policy and administrative management,3.2247730897999993,0.4079419154247082,Japan
-2022,Fishery education/training,2.5964277491999996,0.32845464774583655,Japan
-2022,Agrarian reform,1.9579647186,0.24768746680691928,Japan
-2022,Agricultural research,1.132464812,0.14325965011913883,Japan
-2022,Fishery services,1.0481830019999998,0.13259778894335178,Japan
-2022,Agricultural land resources,0.39756809320000003,0.050293364815263836,Japan
-2022,Household food security programmes,0.3570247181999999,0.04516452579474595,Japan
-2022,Food safety and quality,0.3335371544,0.04219328983537298,Japan
-2022,Fishery research,0.32438379159999997,0.041035366394179526,Japan
-2022,Agricultural co-operatives,0.021924888999999996,0.002773553662558263,Japan
-2022,Forestry research,0.019364,0.0024495947560682386,Japan
+2023,Fuelwood/charcoal,,,Japan
+2022,Agricultural water resources,200.8,34.3%,Japan
+2022,Food crop production,44.49,7.6%,Japan
+2022,Forestry development,44.41,7.6%,Japan
+2022,Agricultural policy and administrative management,44.02,7.5%,Japan
+2022,Agricultural development,37.16,6.3%,Japan
+2022,Forestry policy and administrative management,36.21,6.2%,Japan
+2022,Rural development,35.58,6.1%,Japan
+2022,Agricultural financial services,28.12,4.8%,Japan
+2022,Fishery development,27.19,4.6%,Japan
+2022,Fishing policy and administrative management,23.58,4.0%,Japan
+2022,Agricultural services,20.11,3.4%,Japan
+2022,Agricultural inputs,12.92,2.2%,Japan
+2022,Livestock,9.27,1.6%,Japan
+2022,Livestock/veterinary services,6.0,1.0%,Japan
+2022,Agricultural education/training,4.55,0.8%,Japan
+2022,Plant and post-harvest protection and pest control,3.94,0.7%,Japan
+2022,Fishery education/training,2.6,0.4%,Japan
+2022,Agrarian reform,1.96,0.3%,Japan
+2022,Agricultural research,1.13,0.2%,Japan
+2022,Fishery services,1.05,0.2%,Japan
+2022,Agricultural land resources,0.4,0.1%,Japan
+2022,Fishery research,0.32,0.1%,Japan
+2022,Forestry research,0.02,0.0%,Japan
+2022,Agricultural co-operatives,0.02,0.0%,Japan
 2022,Fuelwood/charcoal,,,Japan
 2022,Industrial crops/export crops,,,Japan
-2021,Disaster Risk Reduction,430.9597688574002,45.073847240023504,Japan
-2021,Agricultural water resources,155.67388819840002,16.28184708405338,Japan
-2021,Fishery development,49.00026313000001,5.124910802923202,Japan
-2021,Rural development,44.17752628660002,4.620503386113554,Japan
-2021,Forestry development,37.250485167399994,3.8960079324892125,Japan
-2021,Agricultural policy and administrative management,35.89557640539987,3.7542987638480656,Japan
-2021,Forestry policy and administrative management,32.279092832399975,3.3760527188688894,Japan
-2021,Agricultural development,28.737298143800018,3.005618343584302,Japan
-2021,Food crop production,22.979885225399975,2.4034536657311127,Japan
-2021,Fishing policy and administrative management,22.13922427499998,2.315529395306881,Japan
-2021,Household food security programmes,16.370516335399998,1.712183377345104,Japan
-2021,Agricultural services,16.1344168926,1.6874898653580421,Japan
-2021,Agricultural financial services,14.967602281,1.565453361347181,Japan
-2021,Research/scientific institutions,12.937084527199998,1.3530826166356926,Japan
-2021,Agricultural education/training,10.9680910424,1.147146661672242,Japan
-2021,Livestock/veterinary services,5.486981103599999,0.5738803617986836,Japan
-2021,Multisector education/training,4.342422505399999,0.45417160209403323,Japan
-2021,Livestock,4.009821600399997,0.41938505479378113,Japan
-2021,Agricultural research,2.365645660799999,0.24742158977304882,Japan
-2021,Fishery services,2.3615598568,0.2469942577605111,Japan
-2021,Fishery education/training,2.333613732,0.24407138780556029,Japan
-2021,Agrarian reform,1.4188351352,0.14839519315767966,Japan
-2021,Agricultural inputs,1.3729705330000004,0.14359823942167732,Japan
-2021,Agricultural land resources,1.1452924937999998,0.11978551744529116,Japan
-2021,Agricultural co-operatives,0.3906348129999999,0.04085628209445054,Japan
-2021,Fishery research,0.3185784644,0.0333199478837624,Japan
-2021,Food safety and quality,0.0668387188,0.006990625154866715,Japan
-2021,Agricultural extension,0.019204246999999997,0.0020085617224379474,Japan
-2021,Forestry research,0.01621735,0.0016961637938409692,Japan
+2021,Agricultural water resources,155.67,31.7%,Japan
+2021,Fishery development,49.0,10.0%,Japan
+2021,Rural development,44.18,9.0%,Japan
+2021,Forestry development,37.25,7.6%,Japan
+2021,Agricultural policy and administrative management,35.9,7.3%,Japan
+2021,Forestry policy and administrative management,32.28,6.6%,Japan
+2021,Agricultural development,28.74,5.8%,Japan
+2021,Food crop production,22.98,4.7%,Japan
+2021,Fishing policy and administrative management,22.14,4.5%,Japan
+2021,Agricultural services,16.13,3.3%,Japan
+2021,Agricultural financial services,14.97,3.0%,Japan
+2021,Agricultural education/training,10.97,2.2%,Japan
+2021,Livestock/veterinary services,5.49,1.1%,Japan
+2021,Livestock,4.01,0.8%,Japan
+2021,Agricultural research,2.37,0.5%,Japan
+2021,Fishery services,2.36,0.5%,Japan
+2021,Fishery education/training,2.33,0.5%,Japan
+2021,Agrarian reform,1.42,0.3%,Japan
+2021,Agricultural inputs,1.37,0.3%,Japan
+2021,Agricultural land resources,1.15,0.2%,Japan
+2021,Agricultural co-operatives,0.39,0.1%,Japan
+2021,Fishery research,0.32,0.1%,Japan
+2021,Forestry research,0.02,0.0%,Japan
+2021,Agricultural extension,0.02,0.0%,Japan
 2021,Fuelwood/charcoal,,,Japan
 2021,Industrial crops/export crops,,,Japan
-2020,Disaster Risk Reduction,431.79759879100015,37.03597138177315,Japan
-2020,Agricultural financial services,167.9745254874,14.407443988194629,Japan
-2020,Agricultural water resources,155.8575073283999,13.368147940635167,Japan
-2020,Agricultural development,54.44620417200006,4.669938103422361,Japan
-2020,Fishery development,49.8584688326,4.276440698126666,Japan
-2020,Rural development,48.95557198620004,4.198997790019741,Japan
-2020,Industrial crops/export crops,44.6380448074,3.8286765712779407,Japan
-2020,Fishing policy and administrative management,31.881619622799995,2.734537559404345,Japan
-2020,Forestry development,30.847923797399993,2.645875813451693,Japan
-2020,Food crop production,28.49252072439997,2.4438491207409885,Japan
-2020,Agricultural policy and administrative management,24.532114115600038,2.104158705059231,Japan
-2020,Forestry policy and administrative management,23.242263552599997,1.9935261571437535,Japan
-2020,Research/scientific institutions,21.228759009199994,1.8208246487165902,Japan
-2020,Agricultural services,16.569751563199997,1.421214120726965,Japan
-2020,Multisector education/training,6.078827240600001,0.5213907449878509,Japan
-2020,Agricultural education/training,5.781189005799999,0.49586183705265446,Japan
-2020,Food security policy and administrative management,4.5625553619999994,0.3913376783194599,Japan
-2020,Agricultural research,3.9254720163999997,0.33669401975926866,Japan
-2020,Livestock,3.634676050999999,0.31175198422538786,Japan
-2020,Livestock/veterinary services,3.1479744976,0.27000681275232546,Japan
-2020,Fishery education/training,2.9412637976,0.25227690505728095,Japan
-2020,Agricultural inputs,2.2021079670000008,0.1888783260345601,Japan
-2020,Agricultural land resources,0.7906931165999999,0.06781901455718095,Japan
-2020,Fishery services,0.7370771051999999,0.06322028341700073,Japan
-2020,Fishery research,0.6514669248,0.05587736117713551,Japan
-2020,Agricultural co-operatives,0.5030205643999999,0.04314487917423332,Japan
-2020,Household food security programmes,0.34126629499999994,0.02927095650965252,Japan
-2020,Agrarian reform,0.18217167099999998,0.015625155889279155,Japan
-2020,Food safety and quality,0.03684291459999999,0.0031600757729251926,Japan
-2020,Forestry research,0.031476182,0.002699762525367199,Japan
-2020,Forestry education/training,0.016107943399999998,0.0013816040951871453,Japan
+2020,Agricultural financial services,167.97,23.9%,Japan
+2020,Agricultural water resources,155.86,22.2%,Japan
+2020,Agricultural development,54.45,7.8%,Japan
+2020,Fishery development,49.86,7.1%,Japan
+2020,Rural development,48.96,7.0%,Japan
+2020,Industrial crops/export crops,44.64,6.4%,Japan
+2020,Fishing policy and administrative management,31.88,4.5%,Japan
+2020,Forestry development,30.85,4.4%,Japan
+2020,Food crop production,28.49,4.1%,Japan
+2020,Agricultural policy and administrative management,24.53,3.5%,Japan
+2020,Forestry policy and administrative management,23.24,3.3%,Japan
+2020,Agricultural services,16.57,2.4%,Japan
+2020,Agricultural education/training,5.78,0.8%,Japan
+2020,Agricultural research,3.93,0.6%,Japan
+2020,Livestock,3.63,0.5%,Japan
+2020,Livestock/veterinary services,3.15,0.4%,Japan
+2020,Fishery education/training,2.94,0.4%,Japan
+2020,Agricultural inputs,2.2,0.3%,Japan
+2020,Agricultural land resources,0.79,0.1%,Japan
+2020,Fishery services,0.74,0.1%,Japan
+2020,Fishery research,0.65,0.1%,Japan
+2020,Agricultural co-operatives,0.5,0.1%,Japan
+2020,Agrarian reform,0.18,0.0%,Japan
+2020,Forestry research,0.03,0.0%,Japan
+2020,Forestry education/training,0.02,0.0%,Japan
 2020,Fuelwood/charcoal,,,Japan
-2019,Agricultural water resources,136.3081909438,16.920242019676653,Japan
-2019,Fishery development,121.59505873240002,15.093867858588778,Japan
-2019,Disaster Risk Reduction,78.71828397259995,9.771477465643878,Japan
-2019,Rural development,64.18048600379998,7.966867938057396,Japan
-2019,Industrial crops/export crops,61.3918569998,7.620709153878214,Japan
-2019,Agricultural financial services,52.0774341298,6.464488913973549,Japan
-2019,Research/scientific institutions,39.04164742179999,4.846327419135835,Japan
-2019,Forestry development,35.1639996444,4.364986287642713,Japan
-2019,Forestry policy and administrative management,34.320164934400005,4.260239189035188,Japan
-2019,Agricultural policy and administrative management,31.297829877999988,3.8850699474455475,Japan
-2019,Agricultural development,31.154686348999995,3.867301219554286,Japan
-2019,Food crop production,24.584056109200002,3.051674124003879,Japan
-2019,Fishing policy and administrative management,19.013486426799997,2.360186792530578,Japan
-2019,Agricultural services,16.098870397800003,1.9983889558514765,Japan
-2019,Multisector education/training,8.991002437399999,1.116073334896169,Japan
-2019,Fishery services,7.813316876199999,0.9698845799826912,Japan
-2019,Agricultural research,7.7614213562000005,0.963442672478402,Japan
-2019,Agricultural education/training,7.3538730573999995,0.9128527864073099,Japan
-2019,Livestock,7.0339739682,0.8731429936673429,Japan
-2019,Agrarian reform,6.629328332999999,0.8229134217510619,Japan
-2019,Agricultural inputs,3.4096392613999975,0.4232461828098498,Japan
-2019,Livestock/veterinary services,3.1146006435999993,0.3866223762450257,Japan
-2019,Fishery education/training,2.4106108051999997,0.29923453577377884,Japan
-2019,Food security policy and administrative management,2.0732531335999997,0.25735756997192116,Japan
-2019,Agricultural land resources,2.0655646574000004,0.25640318214558616,Japan
-2019,Household food security programmes,0.7776843813999998,0.09653570968186223,Japan
-2019,Fishery research,0.45307693559999995,0.05624145805769091,Japan
-2019,Forestry services,0.20414109719999998,0.02534049309047371,Japan
-2019,Food safety and quality,0.17025022439999998,0.021133542898679972,Japan
-2019,Plant and post-harvest protection and pest control,0.16226741539999998,0.020142618880529498,Japan
-2019,Forestry education/training,0.12810544659999998,0.01590201693311634,Japan
-2019,Agricultural extension,0.0744022972,0.009235724329750353,Japan
-2019,Forestry research,0.019878114199999998,0.002467514980794114,Japan
+2019,Agricultural water resources,136.31,20.2%,Japan
+2019,Fishery development,121.6,18.0%,Japan
+2019,Rural development,64.18,9.5%,Japan
+2019,Industrial crops/export crops,61.39,9.1%,Japan
+2019,Agricultural financial services,52.08,7.7%,Japan
+2019,Forestry development,35.16,5.2%,Japan
+2019,Forestry policy and administrative management,34.32,5.1%,Japan
+2019,Agricultural policy and administrative management,31.3,4.6%,Japan
+2019,Agricultural development,31.15,4.6%,Japan
+2019,Food crop production,24.58,3.6%,Japan
+2019,Fishing policy and administrative management,19.01,2.8%,Japan
+2019,Agricultural services,16.1,2.4%,Japan
+2019,Fishery services,7.81,1.2%,Japan
+2019,Agricultural research,7.76,1.1%,Japan
+2019,Agricultural education/training,7.35,1.1%,Japan
+2019,Livestock,7.03,1.0%,Japan
+2019,Agrarian reform,6.63,1.0%,Japan
+2019,Agricultural inputs,3.41,0.5%,Japan
+2019,Livestock/veterinary services,3.11,0.5%,Japan
+2019,Fishery education/training,2.41,0.4%,Japan
+2019,Agricultural land resources,2.07,0.3%,Japan
+2019,Fishery research,0.45,0.1%,Japan
+2019,Forestry services,0.2,0.0%,Japan
+2019,Plant and post-harvest protection and pest control,0.16,0.0%,Japan
+2019,Forestry education/training,0.13,0.0%,Japan
+2019,Agricultural extension,0.07,0.0%,Japan
+2019,Forestry research,0.02,0.0%,Japan
 2019,Fuelwood/charcoal,,,Japan

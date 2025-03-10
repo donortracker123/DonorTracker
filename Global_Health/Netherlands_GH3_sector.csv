@@ -1,60 +1,60 @@
-year,Sector,Bilateral ODA for,share,donor
-2023,Reproductive health care,238.724638056,56.419254076836296,Netherlands
-2023,STD control including HIV/AIDS,50.648634953999995,11.970101734720537,Netherlands
-2023,Basic nutrition,43.2424183944,10.219745268681516,Netherlands
-2023,Family planning,29.0656776364,6.869269401086248,Netherlands
-2023,Population policy and administrative management,19.3580632988,4.575009519688858,Netherlands
-2023,Basic health care,11.970935708400003,2.8291644665150097,Netherlands
-2023,Promotion of mental health and well-being,11.481687756400001,2.713537505111953,Netherlands
-2023,Infectious disease control,5.6369040712,1.3322040221302265,Netherlands
-2023,Health policy and administrative management,5.4488616672,1.2877628104694243,Netherlands
-2023,Health education,3.3726347080000005,0.797075392169502,Netherlands
-2023,Basic health infrastructure,3.29733608,0.7792796067852861,Netherlands
-2023,Personnel development for population and reproductive health,0.8783938659999998,0.20759619580515648,Netherlands
-2022,Reproductive health care,214.5728950272,44.88005129886001,Netherlands
-2022,COVID-19 control,98.3965533212,20.580616019216585,Netherlands
-2022,Basic nutrition,51.721802080399996,10.818128405004664,Netherlands
-2022,Family planning,44.73766396239999,9.357326578313414,Netherlands
-2022,Population policy and administrative management,27.2612452852,5.701960104119808,Netherlands
-2022,STD control including HIV/AIDS,26.043205276000002,5.4471949433569335,Netherlands
-2022,Health policy and administrative management,8.0418107004,1.6820245479929898,Netherlands
-2022,Infectious disease control,5.2653076044,1.101291360028463,Netherlands
-2022,Health education,1.6401747344,0.34305882953965317,Netherlands
-2022,Promotion of mental health and well-being,0.3676842048,0.07690480184420656,Netherlands
-2022,Medical research,0.05470986640000001,0.011443111723288841,Netherlands
-2021,Reproductive health care,164.83834215600007,35.23394108957686,Netherlands
-2021,Basic health infrastructure,83.5659847432,17.862100194795083,Netherlands
-2021,Population policy and administrative management,46.70347905239999,9.982796527116435,Netherlands
-2021,COVID-19 control,45.353222245199994,9.694181219667753,Netherlands
-2021,STD control including HIV/AIDS,36.4470223628,7.79049474791531,Netherlands
-2021,Family planning,35.0862714232,7.4996363358713545,Netherlands
-2021,Basic nutrition,28.718993835999996,6.138640584069429,Netherlands
-2021,Health policy and administrative management,19.5296708916,4.1744369950181,Netherlands
-2021,Infectious disease control,3.6759249564000003,0.7857232830025074,Netherlands
-2021,Health education,2.9515737856,0.6308943387998296,Netherlands
-2021,Medical services,0.583539536,0.12473067470798159,Netherlands
-2021,Promotion of mental health and well-being,0.32470671,0.06940555784468547,Netherlands
-2021,Tuberculosis control,0.060905476800000004,0.013018451614691142,Netherlands
-2020,Reproductive health care,163.96427771279997,44.44145234420062,Netherlands
-2020,Basic nutrition,47.5895959112,12.898850824518682,Netherlands
-2020,Family planning,43.3443987596,11.748217713841795,Netherlands
-2020,Health policy and administrative management,41.63981792920001,11.286202152905101,Netherlands
-2020,Population policy and administrative management,34.606152450399996,9.379772816335423,Netherlands
-2020,STD control including HIV/AIDS,17.492920808,4.741342549084511,Netherlands
-2020,COVID-19 control,9.063523580399998,2.4566091888284554,Netherlands
-2020,Basic health infrastructure,6.3267787779999995,1.7148322883310396,Netherlands
-2020,Health education,2.818246766,0.7638674782855404,Netherlands
-2020,Personnel development for population and reproductive health,1.2544257012,0.34000393742391494,Netherlands
-2020,Medical services,0.8443246303999999,0.2288487062449161,Netherlands
+year,Sub-Sector,Bilateral ODA for,Share,Donor
+2023,Reproductive health care,238.72,56.4%,Netherlands
+2023,STD control including HIV/AIDS,50.65,12.0%,Netherlands
+2023,Basic nutrition,43.24,10.2%,Netherlands
+2023,Family planning,29.07,6.9%,Netherlands
+2023,Population policy and administrative management,19.36,4.6%,Netherlands
+2023,Basic health care,11.97,2.8%,Netherlands
+2023,Promotion of mental health and well-being,11.48,2.7%,Netherlands
+2023,Infectious disease control,5.64,1.3%,Netherlands
+2023,Health policy and administrative management,5.45,1.3%,Netherlands
+2023,Health education,3.37,0.8%,Netherlands
+2023,Basic health infrastructure,3.3,0.8%,Netherlands
+2023,Personnel development for population and reproductive health,0.88,0.2%,Netherlands
+2022,Reproductive health care,214.57,44.9%,Netherlands
+2022,COVID-19 control,98.4,20.6%,Netherlands
+2022,Basic nutrition,51.72,10.8%,Netherlands
+2022,Family planning,44.74,9.4%,Netherlands
+2022,Population policy and administrative management,27.26,5.7%,Netherlands
+2022,STD control including HIV/AIDS,26.04,5.4%,Netherlands
+2022,Health policy and administrative management,8.04,1.7%,Netherlands
+2022,Infectious disease control,5.27,1.1%,Netherlands
+2022,Health education,1.64,0.3%,Netherlands
+2022,Promotion of mental health and well-being,0.37,0.1%,Netherlands
+2022,Medical research,0.05,0.0%,Netherlands
+2021,Reproductive health care,164.84,35.2%,Netherlands
+2021,Basic health infrastructure,83.57,17.9%,Netherlands
+2021,Population policy and administrative management,46.7,10.0%,Netherlands
+2021,COVID-19 control,45.35,9.7%,Netherlands
+2021,STD control including HIV/AIDS,36.45,7.8%,Netherlands
+2021,Family planning,35.09,7.5%,Netherlands
+2021,Basic nutrition,28.72,6.1%,Netherlands
+2021,Health policy and administrative management,19.53,4.2%,Netherlands
+2021,Infectious disease control,3.68,0.8%,Netherlands
+2021,Health education,2.95,0.6%,Netherlands
+2021,Medical services,0.58,0.1%,Netherlands
+2021,Promotion of mental health and well-being,0.32,0.1%,Netherlands
+2021,Tuberculosis control,0.06,0.0%,Netherlands
+2020,Reproductive health care,163.96,44.4%,Netherlands
+2020,Basic nutrition,47.59,12.9%,Netherlands
+2020,Family planning,43.34,11.7%,Netherlands
+2020,Health policy and administrative management,41.64,11.3%,Netherlands
+2020,Population policy and administrative management,34.61,9.4%,Netherlands
+2020,STD control including HIV/AIDS,17.49,4.7%,Netherlands
+2020,COVID-19 control,9.06,2.5%,Netherlands
+2020,Basic health infrastructure,6.33,1.7%,Netherlands
+2020,Health education,2.82,0.8%,Netherlands
+2020,Personnel development for population and reproductive health,1.25,0.3%,Netherlands
+2020,Medical services,0.84,0.2%,Netherlands
 2020,Tuberculosis control,,,Netherlands
-2019,Reproductive health care,200.17054421760002,58.294759361709666,Netherlands
-2019,Population policy and administrative management,38.444179692800006,11.19592401973923,Netherlands
-2019,Basic nutrition,34.6323772972,10.085830103301983,Netherlands
-2019,Family planning,33.9881695584,9.898220406485288,Netherlands
-2019,STD control including HIV/AIDS,17.810521437600002,5.186877346862778,Netherlands
-2019,Health policy and administrative management,9.4424247756,2.7498745244269034,Netherlands
-2019,Tuberculosis control,6.4279711728,1.8719888791181878,Netherlands
-2019,Personnel development for population and reproductive health,1.9365266496000002,0.5639658695899377,Netherlands
-2019,Medical research,0.38053562679999997,0.11082166399442146,Netherlands
-2019,Basic health infrastructure,0.10352871599999999,0.030150198221403128,Netherlands
-2019,Medical services,0.0397891944,0.011587626550202202,Netherlands
+2019,Reproductive health care,200.17,58.3%,Netherlands
+2019,Population policy and administrative management,38.44,11.2%,Netherlands
+2019,Basic nutrition,34.63,10.1%,Netherlands
+2019,Family planning,33.99,9.9%,Netherlands
+2019,STD control including HIV/AIDS,17.81,5.2%,Netherlands
+2019,Health policy and administrative management,9.44,2.7%,Netherlands
+2019,Tuberculosis control,6.43,1.9%,Netherlands
+2019,Personnel development for population and reproductive health,1.94,0.6%,Netherlands
+2019,Medical research,0.38,0.1%,Netherlands
+2019,Basic health infrastructure,0.1,0.0%,Netherlands
+2019,Medical services,0.04,0.0%,Netherlands

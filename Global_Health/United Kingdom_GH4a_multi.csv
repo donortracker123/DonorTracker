@@ -1,101 +1,101 @@
-Year,Multi_short,ODA,Share,Full Name,donor
-2019,ADF,2.2296,0.001931876235149611,african development fund,United Kingdom
-2020,ADF,4.4384,0.0037386310750965003,african development fund,United Kingdom
-2021,ADF,4.4683,0.003767649447298146,african development fund,United Kingdom
-2022,ADF,9.273800000000001,0.0113059204972079,african development fund,United Kingdom
-2023,ADF,3.1731000000000003,0.0016542862389097761,african development fund,United Kingdom
-2020,AfDB,0.0036,3.0324152555757486e-06,african development bank,United Kingdom
-2021,AfDB,0.0023,1.9393491325080535e-06,african development bank,United Kingdom
-2022,AfDB,0.07830000000000001,9.545747966652059e-05,african development bank,United Kingdom
-2023,AfDB,0.1871,9.754402801677194e-05,african development bank,United Kingdom
-2021,CDB,0.0039,3.288461572513656e-06,caribbean development bank,United Kingdom
-2022,CDB,0.004,4.876499599822252e-06,caribbean development bank,United Kingdom
-2019,EC-DSB,40.4999,0.035091852500868194,european commission development share of budget,United Kingdom
-2020,EC-DSB,43.08060000000001,0.0362884079609324,european commission development share of budget,United Kingdom
-2021,EC-DSB,52.1943,0.04400998714211526,european commission development share of budget,United Kingdom
-2022,EC-DSB,52.4396,0.06393042210370974,european commission development share of budget,United Kingdom
-2023,EC-DSB,44.7419,0.023326056371585295,european commission development share of budget,United Kingdom
-2019,EC-EDF,92.2976,0.07997288302894903,european commission european development fund,United Kingdom
-2020,EC-EDF,35.5826,0.029972560853624895,european commission european development fund,United Kingdom
-2021,EC-EDF,51.900800000000004,0.04376250932890174,european commission european development fund,United Kingdom
-2022,EC-EDF,12.3747,0.015086304899480105,european commission european development fund,United Kingdom
-2023,EC-EDF,1.2448000000000001,0.0006489727743200307,european commission european development fund,United Kingdom
-2019,FAO,1.5670999999999997,0.001357841428105021,food and agricultural organisation,United Kingdom
-2020,FAO,0.9805,0.0008259119883588949,food and agricultural organisation,United Kingdom
-2021,FAO,0.9113,0.000768403854110691,food and agricultural organisation,United Kingdom
-2022,FAO,0.8739,0.0010653932500711664,food and agricultural organisation,United Kingdom
-2023,FAO,0.9041,0.0004713498435593988,food and agricultural organisation,United Kingdom
-2019,GAVI,273.1809,0.23670240787889416,global alliance for vaccines and immunization,United Kingdom
-2020,GAVI,262.52869999999996,0.22113778747401913,global alliance for vaccines and immunization,United Kingdom
-2021,GAVI,299.17089999999996,0.252259489298545,global alliance for vaccines and immunization,United Kingdom
-2023,GAVI,274.2092,0.14295815011895577,global alliance for vaccines and immunization,United Kingdom
-2022,GCF,0.0417,5.083750832814698e-05,green climate fund,United Kingdom
-2023,GCF,0.1025,5.343806986488041e-05,green climate fund,United Kingdom
-2019,GEF-TF,0.0126,1.0917492179263142e-05,global environment facility trust fund,United Kingdom
-2020,GEF-TF,0.1535,0.00012929881714746595,global environment facility trust fund,United Kingdom
-2021,GEF-TF,1.7692,0.001491781080536195,global environment facility trust fund,United Kingdom
-2022,GEF-TF,1.4119,0.0017212824462472592,global environment facility trust fund,United Kingdom
-2023,GEF-TF,2.9692000000000003,0.0015479835809053945,global environment facility trust fund,United Kingdom
-2019,GFATM,544.5268,0.47181484765072895,global fund to fight aids tuberculosis and malaria,United Kingdom
-2020,GFATM,666.6372,0.5615335597817503,global fund to fight aids tuberculosis and malaria,United Kingdom
-2021,GFATM,532.831,0.44928058157539075,global fund to fight aids tuberculosis and malaria,United Kingdom
-2022,GFATM,578.7279,0.705541593188993,global fund to fight aids tuberculosis and malaria,United Kingdom
-2023,GFATM,1190.8960000000002,0.6208700843883573,global fund to fight aids tuberculosis and malaria,United Kingdom
-2019,IBRD,2.7109,0.002348907107044798,international bank for reconstruction and development,United Kingdom
-2020,IBRD,4.339300000000001,0.003655155421811069,international bank for reconstruction and development,United Kingdom
-2021,IBRD,5.746399999999998,0.004845337328280119,international bank for reconstruction and development,United Kingdom
-2022,IBRD,8.3101,0.010131049831120724,international bank for reconstruction and development,United Kingdom
-2023,IBRD,7.393799999999999,0.0038547356191897825,international bank for reconstruction and development,United Kingdom
-2019,IDA,93.8788,0.08134294165068322,international development association,United Kingdom
-2020,IDA,109.27720000000001,0.09204829121294505,international development association,United Kingdom
-2021,IDA,102.78180000000002,0.08666512811635492,international development association,United Kingdom
-2022,IDA,26.089000000000006,0.03180574951494069,international development association,United Kingdom
-2023,IDA,239.6076,0.1249187089654275,international development association,United Kingdom
-2019,IDB-IIC-MIF,0.03440000000000001,2.9806486584654932e-05,inter american development bank inter american investment corporation and multilateral investment fund,United Kingdom
-2020,IDB-IIC-MIF,0.0563,4.7423605246920734e-05,inter american development bank inter american investment corporation and multilateral investment fund,United Kingdom
-2021,IDB-IIC-MIF,0.054599999999999996,4.603846201519118e-05,inter american development bank inter american investment corporation and multilateral investment fund,United Kingdom
-2022,IFC,0.0627,7.64391312272138e-05,international finance corporation,United Kingdom
-2023,IFC,0.045,2.3460616038240177e-05,international finance corporation,United Kingdom
-2019,UN,0.0119,1.0310964835970746e-05,united nations,United Kingdom
-2020,UN,0.027,2.2743114416818114e-05,united nations,United Kingdom
-2021,UN,0.1397,0.00011779437991798916,united nations,United Kingdom
-2022,UN,0.2545,0.00031026728703869075,united nations,United Kingdom
-2023,UN,0.3704,0.0001931069373458703,united nations,United Kingdom
-2019,UNAIDS,14.2076,0.012310425546515794,joint united nations programme on hiv aids,United Kingdom
-2020,UNAIDS,8.7691,0.0073865423937970265,joint united nations programme on hiv aids,United Kingdom
-2021,UNAIDS,0.1445,0.00012184171723800597,joint united nations programme on hiv aids,United Kingdom
-2023,UNAIDS,3.3032,0.0017221134866114436,joint united nations programme on hiv aids,United Kingdom
-2019,UNDP,1.0931,0.0009471357699327413,united nations development programme,United Kingdom
-2020,UNDP,1.915,0.0016130764484520996,united nations development programme,United Kingdom
-2021,UNDP,1.1901,0.0010034866967816671,united nations development programme,United Kingdom
-2023,UNDP,0.9358,0.0004878765441907813,united nations development programme,United Kingdom
-2019,UNFPA,10.8308,0.009384537642473273,united nations population fund,United Kingdom
-2020,UNFPA,8.3418,0.007026611549711605,united nations population fund,United Kingdom
-2021,UNFPA,3.2311,0.002724448253063814,united nations population fund,United Kingdom
-2022,UNFPA,4.9885,0.006081604563428326,united nations population fund,United Kingdom
-2023,UNFPA,6.0892,0.0031745862928900465,united nations population fund,United Kingdom
-2019,UNRWA,10.861,0.009410704964998174,united nations relief and works agency for palestine refugees in the near east,United Kingdom
-2020,UNRWA,8.9246,0.007517525886086479,united nations relief and works agency for palestine refugees in the near east,United Kingdom
-2021,UNRWA,2.3094,0.0019472751680930866,united nations relief and works agency for palestine refugees in the near east,United Kingdom
-2022,UNRWA,2.6952,0.003285785430360233,united nations relief and works agency for palestine refugees in the near east,United Kingdom
-2023,UNRWA,3.4221,0.0017841016476547048,united nations relief and works agency for palestine refugees in the near east,United Kingdom
-2019,WFP,1.5413,0.00133548656316653,world food programme,United Kingdom
-2020,WFP,0.9697,0.0008168147425921676,world food programme,United Kingdom
-2021,WFP,0.9496,0.0008006982331433251,world food programme,United Kingdom
-2022,WFP,1.168,0.0014239378831480973,world food programme,United Kingdom
-2023,WFP,1.0874,0.0005669127528884971,world food programme,United Kingdom
-2019,WHO-AC,16.4576,0.014259977721384213,world health organisation assessed contributions,United Kingdom
-2020,WHO-AC,15.3647,0.012942264077040194,world health organisation assessed contributions,United Kingdom
-2021,WHO-AC,13.383899999999999,0.011285241241119364,world health organisation assessed contributions,United Kingdom
-2022,WHO-AC,13.6792,0.016676653331472138,world health organisation assessed contributions,United Kingdom
-2023,WHO-AC,14.3151,0.007463134769978044,world health organisation assessed contributions,United Kingdom
-2019,WHO-CVCA,37.0429,0.032096473892637034,world health organisation core voluntary contributions account,United Kingdom
-2020,WHO-CVCA,5.144900000000001,0.004333742569003242,world health organisation core voluntary contributions account,United Kingdom
-2021,WHO-CVCA,107.26799999999997,0.09044787075907558,world health organisation core voluntary contributions account,United Kingdom
-2022,WHO-CVCA,106.1588,0.1294208364294026,world health organisation core voluntary contributions account,United Kingdom
-2023,WHO-CVCA,116.2139,0.06058777080458756,world health organisation core voluntary contributions account,United Kingdom
-2019,,11.126400000000002,0.00964066547486932,united nations children’s fund,United Kingdom
-2020,,10.6378,0.008960618612712138,united nations children’s fund,United Kingdom
-2021,,5.513800000000001,0.004649210107314308,united nations children’s fund,United Kingdom
-2022,,1.6287,0.001985588724557625,united nations children’s fund,United Kingdom
-2023,,6.896799999999999,0.003595626148722997,united nations children’s fund,United Kingdom
+Year,Multi_short,ODA,Share,Full Name,Donor
+2019,ADF,2.23,0.0%,african development fund,United Kingdom
+2020,ADF,4.44,0.0%,african development fund,United Kingdom
+2021,ADF,4.47,0.0%,african development fund,United Kingdom
+2022,ADF,9.27,0.0%,african development fund,United Kingdom
+2023,ADF,3.17,0.0%,african development fund,United Kingdom
+2020,AfDB,0.0,0.0%,african development bank,United Kingdom
+2021,AfDB,0.0,0.0%,african development bank,United Kingdom
+2022,AfDB,0.08,0.0%,african development bank,United Kingdom
+2023,AfDB,0.19,0.0%,african development bank,United Kingdom
+2021,CDB,0.0,0.0%,caribbean development bank,United Kingdom
+2022,CDB,0.0,0.0%,caribbean development bank,United Kingdom
+2019,EC-DSB,40.5,0.01%,european commission development share of budget,United Kingdom
+2020,EC-DSB,43.08,0.01%,european commission development share of budget,United Kingdom
+2021,EC-DSB,52.19,0.02%,european commission development share of budget,United Kingdom
+2022,EC-DSB,52.44,0.02%,european commission development share of budget,United Kingdom
+2023,EC-DSB,44.74,0.02%,european commission development share of budget,United Kingdom
+2019,EC-EDF,92.3,0.03%,european commission european development fund,United Kingdom
+2020,EC-EDF,35.58,0.01%,european commission european development fund,United Kingdom
+2021,EC-EDF,51.9,0.02%,european commission european development fund,United Kingdom
+2022,EC-EDF,12.37,0.01%,european commission european development fund,United Kingdom
+2023,EC-EDF,1.24,0.0%,european commission european development fund,United Kingdom
+2019,FAO,1.57,0.0%,food and agricultural organisation,United Kingdom
+2020,FAO,0.98,0.0%,food and agricultural organisation,United Kingdom
+2021,FAO,0.91,0.0%,food and agricultural organisation,United Kingdom
+2022,FAO,0.87,0.0%,food and agricultural organisation,United Kingdom
+2023,FAO,0.9,0.0%,food and agricultural organisation,United Kingdom
+2019,GAVI,273.18,0.08%,global alliance for vaccines and immunization,United Kingdom
+2020,GAVI,262.53,0.08%,global alliance for vaccines and immunization,United Kingdom
+2021,GAVI,299.17,0.12%,global alliance for vaccines and immunization,United Kingdom
+2023,GAVI,274.21,0.1%,global alliance for vaccines and immunization,United Kingdom
+2022,GCF,0.04,0.0%,green climate fund,United Kingdom
+2023,GCF,0.1,0.0%,green climate fund,United Kingdom
+2019,GEF-TF,0.01,0.0%,global environment facility trust fund,United Kingdom
+2020,GEF-TF,0.15,0.0%,global environment facility trust fund,United Kingdom
+2021,GEF-TF,1.77,0.0%,global environment facility trust fund,United Kingdom
+2022,GEF-TF,1.41,0.0%,global environment facility trust fund,United Kingdom
+2023,GEF-TF,2.97,0.0%,global environment facility trust fund,United Kingdom
+2019,GFATM,544.53,0.16%,global fund to fight aids tuberculosis and malaria,United Kingdom
+2020,GFATM,666.64,0.19%,global fund to fight aids tuberculosis and malaria,United Kingdom
+2021,GFATM,532.83,0.21%,global fund to fight aids tuberculosis and malaria,United Kingdom
+2022,GFATM,578.73,0.27%,global fund to fight aids tuberculosis and malaria,United Kingdom
+2023,GFATM,1190.9,0.42%,global fund to fight aids tuberculosis and malaria,United Kingdom
+2019,IBRD,2.71,0.0%,international bank for reconstruction and development,United Kingdom
+2020,IBRD,4.34,0.0%,international bank for reconstruction and development,United Kingdom
+2021,IBRD,5.75,0.0%,international bank for reconstruction and development,United Kingdom
+2022,IBRD,8.31,0.0%,international bank for reconstruction and development,United Kingdom
+2023,IBRD,7.39,0.0%,international bank for reconstruction and development,United Kingdom
+2019,IDA,93.88,0.03%,international development association,United Kingdom
+2020,IDA,109.28,0.03%,international development association,United Kingdom
+2021,IDA,102.78,0.04%,international development association,United Kingdom
+2022,IDA,26.09,0.01%,international development association,United Kingdom
+2023,IDA,239.61,0.08%,international development association,United Kingdom
+2019,IDB-IIC-MIF,0.03,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,United Kingdom
+2020,IDB-IIC-MIF,0.06,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,United Kingdom
+2021,IDB-IIC-MIF,0.05,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,United Kingdom
+2022,IFC,0.06,0.0%,international finance corporation,United Kingdom
+2023,IFC,0.05,0.0%,international finance corporation,United Kingdom
+2019,UN,0.01,0.0%,united nations,United Kingdom
+2020,UN,0.03,0.0%,united nations,United Kingdom
+2021,UN,0.14,0.0%,united nations,United Kingdom
+2022,UN,0.25,0.0%,united nations,United Kingdom
+2023,UN,0.37,0.0%,united nations,United Kingdom
+2019,UNAIDS,14.21,0.0%,joint united nations programme on hiv aids,United Kingdom
+2020,UNAIDS,8.77,0.0%,joint united nations programme on hiv aids,United Kingdom
+2021,UNAIDS,0.14,0.0%,joint united nations programme on hiv aids,United Kingdom
+2023,UNAIDS,3.3,0.0%,joint united nations programme on hiv aids,United Kingdom
+2019,UNDP,1.09,0.0%,united nations development programme,United Kingdom
+2020,UNDP,1.92,0.0%,united nations development programme,United Kingdom
+2021,UNDP,1.19,0.0%,united nations development programme,United Kingdom
+2023,UNDP,0.94,0.0%,united nations development programme,United Kingdom
+2019,UNFPA,10.83,0.0%,united nations population fund,United Kingdom
+2020,UNFPA,8.34,0.0%,united nations population fund,United Kingdom
+2021,UNFPA,3.23,0.0%,united nations population fund,United Kingdom
+2022,UNFPA,4.99,0.0%,united nations population fund,United Kingdom
+2023,UNFPA,6.09,0.0%,united nations population fund,United Kingdom
+2019,UNRWA,10.86,0.0%,united nations relief and works agency for palestine refugees in the near east,United Kingdom
+2020,UNRWA,8.92,0.0%,united nations relief and works agency for palestine refugees in the near east,United Kingdom
+2021,UNRWA,2.31,0.0%,united nations relief and works agency for palestine refugees in the near east,United Kingdom
+2022,UNRWA,2.7,0.0%,united nations relief and works agency for palestine refugees in the near east,United Kingdom
+2023,UNRWA,3.42,0.0%,united nations relief and works agency for palestine refugees in the near east,United Kingdom
+2019,WFP,1.54,0.0%,world food programme,United Kingdom
+2020,WFP,0.97,0.0%,world food programme,United Kingdom
+2021,WFP,0.95,0.0%,world food programme,United Kingdom
+2022,WFP,1.17,0.0%,world food programme,United Kingdom
+2023,WFP,1.09,0.0%,world food programme,United Kingdom
+2019,WHO-AC,16.46,0.0%,world health organisation assessed contributions,United Kingdom
+2020,WHO-AC,15.36,0.0%,world health organisation assessed contributions,United Kingdom
+2021,WHO-AC,13.38,0.01%,world health organisation assessed contributions,United Kingdom
+2022,WHO-AC,13.68,0.01%,world health organisation assessed contributions,United Kingdom
+2023,WHO-AC,14.32,0.01%,world health organisation assessed contributions,United Kingdom
+2019,WHO-CVCA,37.04,0.01%,world health organisation core voluntary contributions account,United Kingdom
+2020,WHO-CVCA,5.14,0.0%,world health organisation core voluntary contributions account,United Kingdom
+2021,WHO-CVCA,107.27,0.04%,world health organisation core voluntary contributions account,United Kingdom
+2022,WHO-CVCA,106.16,0.05%,world health organisation core voluntary contributions account,United Kingdom
+2023,WHO-CVCA,116.21,0.04%,world health organisation core voluntary contributions account,United Kingdom
+2019,,11.13,0.0%,united nations children’s fund,United Kingdom
+2020,,10.64,0.0%,united nations children’s fund,United Kingdom
+2021,,5.51,0.0%,united nations children’s fund,United Kingdom
+2022,,1.63,0.0%,united nations children’s fund,United Kingdom
+2023,,6.9,0.0%,united nations children’s fund,United Kingdom

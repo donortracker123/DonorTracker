@@ -1,77 +1,72 @@
-Year,Multi_short,ODA,Share,Full Name,donor
-2019,ADF,2.4845,0.0261996806897439,african development fund,Belgium
-2020,ADF,5.2567,0.051062494657413963,african development fund,Belgium
-2021,ADF,5.012200000000001,0.05029405596545784,african development fund,Belgium
-2022,ADF,3.9469000000000003,0.0361368565906342,african development fund,Belgium
-2023,ADF,5.6138,0.050738188309194035,african development fund,Belgium
-2020,AF,1.2142000000000002,0.011794487228305218,adaptation fund,Belgium
-2021,AF,1.9791,0.019858937424930688,adaptation fund,Belgium
-2019,AIIB,0.0833,0.000878419561865835,asian infrastructure investment bank,Belgium
-2020,AIIB,0.07780000000000001,0.0007557330805156859,asian infrastructure investment bank,Belgium
-2021,AIIB,0.1328,0.0013325586832554168,asian infrastructure investment bank,Belgium
-2022,AIIB,0.1856,0.0016993084656874275,asian infrastructure investment bank,Belgium
-2023,AIIB,0.23420000000000002,0.0021167272973766867,asian infrastructure investment bank,Belgium
-2019,AfDB,0.2057,0.0021691585099135923,african development bank,Belgium
-2021,AfDB,3.9946999999999995,0.04008412780120793,african development bank,Belgium
-2022,CGIAR ,4.4974,0.04117710071973403,cgiar fund,Belgium
-2023,CGIAR ,4.3253,0.03909257292631675,cgiar fund,Belgium
-2019,EC-DSB,35.271499999999996,0.37194688567047773,european commission development share of budget,Belgium
-2020,EC-DSB,31.906200000000002,0.3099302161124624,european commission development share of budget,Belgium
-2021,EC-DSB,34.1673,0.34284587574090963,european commission development share of budget,Belgium
-2022,EC-DSB,42.8331,0.39216944742260856,european commission development share of budget,Belgium
-2023,EC-DSB,40.900099999999995,0.3696599408003254,european commission development share of budget,Belgium
-2019,EC-EDF,24.668200000000006,0.2601324061947034,european commission european development fund,Belgium
-2020,EC-EDF,22.8299,0.22176491844299556,european commission european development fund,Belgium
-2021,EC-EDF,15.761299999999997,0.15815404498790359,european commission european development fund,Belgium
-2022,EC-EDF,6.593799999999999,0.06037122931600085,european commission european development fund,Belgium
-2023,EC-EDF,2.5199,0.022775154212892876,european commission european development fund,Belgium
-2019,EIB,0.46040000000000003,0.004855034409160029,european investment bank,Belgium
-2020,EIB,0.5075000000000001,0.004929749850407591,european investment bank,Belgium
-2021,EIB,0.44830000000000003,0.004498388988730447,european investment bank,Belgium
-2022,EIB,0.6107,0.005591420689629914,european investment bank,Belgium
-2023,EIB,0.5211999999999999,0.004710667239080823,european investment bank,Belgium
-2020,FAO,2.4013999999999998,0.023326702050775937,food and agricultural organisation,Belgium
-2021,FAO,3.702600000000001,0.03715310075769207,food and agricultural organisation,Belgium
-2022,FAO,2.0599000000000003,0.018859943472357393,food and agricultural organisation,Belgium
-2023,FAO,1.9822999999999997,0.0179162618342861,food and agricultural organisation,Belgium
-2019,GCF,4.4631,0.047064517965947274,green climate fund,Belgium
-2020,GCF,8.8621,0.08608460324984653,green climate fund,Belgium
-2021,GCF,9.6985,0.09731792462012544,green climate fund,Belgium
-2022,GCF,10.360999999999999,0.0948627964061823,green climate fund,Belgium
-2023,GCF,8.5926,0.07766093499333439,green climate fund,Belgium
-2019,GEF-TF,0.6129000000000001,0.006463185467797963,global environment facility trust fund,Belgium
-2020,GEF-TF,0.6362000000000001,0.00617991498488534,global environment facility trust fund,Belgium
-2021,GEF-TF,1.3891999999999998,0.013939687671524283,global environment facility trust fund,Belgium
-2022,GEF-TF,3.8080000000000003,0.034865121968414466,global environment facility trust fund,Belgium
-2023,GEF-TF,3.5448000000000004,0.03203832162143842,global environment facility trust fund,Belgium
-2020,IBRD,1.5268,0.014831018860300117,international bank for reconstruction and development,Belgium
-2021,IBRD,0.0374,0.0003752838460372936,international bank for reconstruction and development,Belgium
-2022,IBRD,1.8439999999999999,0.016883215575041036,international bank for reconstruction and development,Belgium
-2023,IBRD,1.6236999999999997,0.014675192624895497,international bank for reconstruction and development,Belgium
-2019,IDA,26.5372,0.2798414837592561,international development association,Belgium
-2020,IDA,27.6855,0.26893121080484605,international development association,Belgium
-2021,IDA,23.243200000000005,0.23322987941748727,international development association,Belgium
-2022,IDA,24.784400000000005,0.22691993931564378,international development association,Belgium
-2023,IDA,34.1771,0.30889667171294943,international development association,Belgium
-2022,IFC,7.518,0.06883297976852414,international finance corporation,Belgium
-2023,IFC,6.3715,0.057586370517658234,international finance corporation,Belgium
-2020,ILO-RBSA,0.00039999999999999996,3.885517123473963e-06,international labour organisation regular budget supplementary account,Belgium
-2022,ILO-RBSA,0.0002,1.8311513638873142e-06,international labour organisation regular budget supplementary account,Belgium
-2022,UN,0.0199,0.00018219956070678777,united nations,Belgium
-2023,UN,0.059699999999999996,0.0005395756603475156,united nations,Belgium
-2019,UNDP,0.0375,0.0003954469816322786,united nations development programme,Belgium
-2020,UNDP,0.03559999999999999,0.00034581102398918267,united nations development programme,Belgium
-2021,UNDP,0.0469,0.00047060995666173977,united nations development programme,Belgium
-2022,UNDP,0.06340000000000001,0.0005804749823522787,united nations development programme,Belgium
-2023,UNDP,0.0883,0.0007980658426915518,united nations development programme,Belgium
-2019,WFP,0.0029999999999999996,3.163575853058228e-05,world food programme,Belgium
-2021,WHO-AC,0.0381,0.0003823078752412002,world health organisation assessed contributions,Belgium
-2022,WHO-AC,0.0234,0.00021424470957481575,world health organisation assessed contributions,Belgium
-2023,WHO-AC,0.055,0.0004970965045077616,world health organisation assessed contributions,Belgium
-2020,WHO-CVCA,0.0019,1.8456206336501325e-05,world health organisation core voluntary contributions account,Belgium
-2022,WHO-CVCA,0.0449,0.000411093481192702,world health organisation core voluntary contributions account,Belgium
-2019,,0.0021,2.21450309714076e-05,united nations children’s fund,Belgium
-2020,,0.0042,4.079792979647661e-05,united nations children’s fund,Belgium
-2021,,0.0063,6.321626283515909e-05,united nations children’s fund,Belgium
-2022,,0.0263,0.0002407964043511818,united nations children’s fund,Belgium
-2023,,0.033,0.00029825790270465697,united nations children’s fund,Belgium
+Year,Multi_short,ODA,Share,Full Name,Donor
+2019,ADF,2.48,0.01%,african development fund,Belgium
+2020,ADF,5.26,0.02%,african development fund,Belgium
+2021,ADF,4.95,0.03%,african development fund,Belgium
+2022,ADF,3.88,0.02%,african development fund,Belgium
+2023,ADF,5.51,0.03%,african development fund,Belgium
+2020,AF,0.84,0.0%,adaptation fund,Belgium
+2021,AF,1.29,0.01%,adaptation fund,Belgium
+2019,AIIB,0.04,0.0%,asian infrastructure investment bank,Belgium
+2020,AIIB,0.03,0.0%,asian infrastructure investment bank,Belgium
+2021,AIIB,0.06,0.0%,asian infrastructure investment bank,Belgium
+2022,AIIB,0.07,0.0%,asian infrastructure investment bank,Belgium
+2023,AIIB,0.12,0.0%,asian infrastructure investment bank,Belgium
+2019,AfDB,0.21,0.0%,african development bank,Belgium
+2021,AfDB,3.95,0.02%,african development bank,Belgium
+2022,CGIAR ,4.5,0.02%,cgiar fund,Belgium
+2023,CGIAR ,4.33,0.02%,cgiar fund,Belgium
+2019,EC-DSB,33.78,0.16%,european commission development share of budget,Belgium
+2020,EC-DSB,29.54,0.14%,european commission development share of budget,Belgium
+2021,EC-DSB,31.07,0.16%,european commission development share of budget,Belgium
+2022,EC-DSB,36.26,0.19%,european commission development share of budget,Belgium
+2023,EC-DSB,33.71,0.18%,european commission development share of budget,Belgium
+2019,EC-EDF,23.74,0.11%,european commission european development fund,Belgium
+2020,EC-EDF,21.86,0.1%,european commission european development fund,Belgium
+2021,EC-EDF,14.67,0.08%,european commission european development fund,Belgium
+2022,EC-EDF,6.0,0.03%,european commission european development fund,Belgium
+2023,EC-EDF,2.28,0.01%,european commission european development fund,Belgium
+2019,EIB,0.39,0.0%,european investment bank,Belgium
+2020,EIB,0.46,0.0%,european investment bank,Belgium
+2021,EIB,0.41,0.0%,european investment bank,Belgium
+2022,EIB,0.57,0.0%,european investment bank,Belgium
+2023,EIB,0.48,0.0%,european investment bank,Belgium
+2020,FAO,1.96,0.01%,food and agricultural organisation,Belgium
+2021,FAO,2.98,0.02%,food and agricultural organisation,Belgium
+2022,FAO,1.64,0.01%,food and agricultural organisation,Belgium
+2023,FAO,1.62,0.01%,food and agricultural organisation,Belgium
+2019,GCF,3.57,0.02%,green climate fund,Belgium
+2020,GCF,6.82,0.03%,green climate fund,Belgium
+2021,GCF,7.9,0.04%,green climate fund,Belgium
+2022,GCF,8.03,0.04%,green climate fund,Belgium
+2023,GCF,6.4,0.04%,green climate fund,Belgium
+2019,GEF-TF,0.57,0.0%,global environment facility trust fund,Belgium
+2020,GEF-TF,0.58,0.0%,global environment facility trust fund,Belgium
+2021,GEF-TF,1.34,0.01%,global environment facility trust fund,Belgium
+2022,GEF-TF,3.67,0.02%,global environment facility trust fund,Belgium
+2023,GEF-TF,3.46,0.02%,global environment facility trust fund,Belgium
+2020,IBRD,1.42,0.01%,international bank for reconstruction and development,Belgium
+2021,IBRD,0.03,0.0%,international bank for reconstruction and development,Belgium
+2022,IBRD,1.68,0.01%,international bank for reconstruction and development,Belgium
+2023,IBRD,1.49,0.01%,international bank for reconstruction and development,Belgium
+2019,IDA,24.57,0.12%,international development association,Belgium
+2020,IDA,25.63,0.12%,international development association,Belgium
+2021,IDA,20.75,0.11%,international development association,Belgium
+2022,IDA,21.78,0.11%,international development association,Belgium
+2023,IDA,29.79,0.16%,international development association,Belgium
+2022,IFC,7.52,0.04%,international finance corporation,Belgium
+2023,IFC,6.37,0.03%,international finance corporation,Belgium
+2020,ILO-RBSA,0.0,0.0%,international labour organisation regular budget supplementary account,Belgium
+2022,ILO-RBSA,0.0,0.0%,international labour organisation regular budget supplementary account,Belgium
+2022,UN,0.02,0.0%,united nations,Belgium
+2023,UN,0.06,0.0%,united nations,Belgium
+2019,UNDP,0.02,0.0%,united nations development programme,Belgium
+2020,UNDP,0.02,0.0%,united nations development programme,Belgium
+2021,UNDP,0.03,0.0%,united nations development programme,Belgium
+2022,UNDP,0.04,0.0%,united nations development programme,Belgium
+2023,UNDP,0.06,0.0%,united nations development programme,Belgium
+2019,WFP,0.0,0.0%,world food programme,Belgium
+2019,,0.0,0.0%,united nations children’s fund,Belgium
+2020,,0.0,0.0%,united nations children’s fund,Belgium
+2021,,0.01,0.0%,united nations children’s fund,Belgium
+2022,,0.01,0.0%,united nations children’s fund,Belgium
+2023,,0.01,0.0%,united nations children’s fund,Belgium

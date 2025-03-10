@@ -1,53 +1,42 @@
-year,Sector,Bilateral ODA for,share,donor
-2023,Fishing policy and administrative management,1.9024596031999998,26.505779967340935,Iceland
-2023,Rural development,1.8032015136,25.12287907499561,Iceland
-2023,Fishery education/training,1.5087497088,21.020466211202073,Iceland
-2023,Forestry education/training,1.1998044384000002,16.71612495454719,Iceland
-2023,Fishery development,0.7199225744000002,10.030231032749027,Iceland
-2023,Research/scientific institutions,0.0288918544,0.40253214012363164,Iceland
-2023,Food crop production,0.0072488224,0.10099330952076652,Iceland
-2023,Fishery research,0.0072488224,0.10099330952076652,Iceland
-2022,Rural development,1.6656922512000003,26.573980128883722,Iceland
-2022,Fishery education/training,1.4567228479999998,23.24014174176215,Iceland
-2022,Fishing policy and administrative management,1.3671510992,21.811139553029058,Iceland
-2022,Forestry education/training,1.2608531472000002,20.11529227862767,Iceland
-2022,Disaster Risk Reduction,0.2207986288,3.522558485812071,Iceland
-2022,Agricultural policy and administrative management,0.0557233632,0.8889946779331995,Iceland
-2022,Forestry development,0.050939224000000005,0.8126698826758381,Iceland
-2022,Fishery development,0.039138208,0.6243998319154321,Iceland
-2022,Forestry policy and administrative management,0.036075899200000004,0.5755446288363043,Iceland
-2022,Agricultural land resources,0.036075899200000004,0.5755446288363043,Iceland
-2022,Agricultural development,0.0357133536,0.5697606795123679,Iceland
-2022,Research/scientific institutions,0.033436734399999994,0.5334401447087446,Iceland
-2022,Household food security programmes,0.0098117168,0.15653333746710685,Iceland
-2021,Rural development,1.9616736432000001,33.768390829818415,Iceland
-2021,Fishery education/training,1.4587330432000003,25.110735259099286,Iceland
-2021,Forestry education/training,1.0768084928,18.536258648213305,Iceland
-2021,Fishery development,0.4777253968,8.223599253827444,Iceland
-2021,Fishing policy and administrative management,0.4263034752,7.338418606257289,Iceland
-2021,Disaster Risk Reduction,0.2469081808,4.2502951381519924,Iceland
-2021,Research/scientific institutions,0.0402843536,0.6934577529788991,Iceland
-2021,Forestry policy and administrative management,0.0336498736,0.5792513382833571,Iceland
-2021,Agricultural land resources,0.0336498736,0.5792513382833571,Iceland
-2021,Agricultural development,0.0198156768,0.3411084820654563,Iceland
-2021,Household food security programmes,0.0168244144,0.2896166765106002,Iceland
-2021,Forestry development,0.0168244144,0.2896166765106002,Iceland
-2020,Fishery education/training,1.5867607456000001,29.75716335480069,Iceland
-2020,Rural development,1.1931124944000002,22.374919152092822,Iceland
-2020,Fishing policy and administrative management,1.0472375183999998,19.639266973749923,Iceland
-2020,Forestry education/training,0.9404234352,17.636139450467393,Iceland
-2020,Fishery development,0.33785802080000005,6.335987541633856,Iceland
-2020,Disaster Risk Reduction,0.1058497328,1.9850426718242127,Iceland
-2020,Research/scientific institutions,0.042906801599999995,0.8046485317863307,Iceland
-2020,Fishery services,0.0392071648,0.7352677527896814,Iceland
-2020,Agricultural development,0.0210976464,0.39565266034434887,Iceland
-2020,Fishery research,0.0089560256,0.16795595525537357,Iceland
-2020,Food crop production,0.0089560256,0.16795595525537357,Iceland
-2019,Fishery education/training,2.2204538864,27.28685178347014,Iceland
-2019,Fishing policy and administrative management,2.098475576,25.78787713821001,Iceland
-2019,Rural development,1.366958856,16.79836898493219,Iceland
-2019,Forestry education/training,1.3184529712000002,16.202286851783473,Iceland
-2019,Fishery development,0.9230651280000001,11.343420139682436,Iceland
-2019,Disaster Risk Reduction,0.11914376800000001,1.4641413443676878,Iceland
-2019,Fishery services,0.0498912896,0.6131071817972187,Iceland
-2019,Research/scientific institutions,0.0410084,0.5039465757568443,Iceland
+year,Sub-Sector,Bilateral ODA for,Share,Donor
+2023,Fishing policy and administrative management,1.9,26.6%,Iceland
+2023,Rural development,1.8,25.2%,Iceland
+2023,Fishery education/training,1.51,21.1%,Iceland
+2023,Forestry education/training,1.2,16.8%,Iceland
+2023,Fishery development,0.72,10.1%,Iceland
+2023,Fishery research,0.01,0.1%,Iceland
+2023,Food crop production,0.01,0.1%,Iceland
+2022,Rural development,1.67,27.7%,Iceland
+2022,Fishery education/training,1.46,24.3%,Iceland
+2022,Fishing policy and administrative management,1.37,22.8%,Iceland
+2022,Forestry education/training,1.26,21.0%,Iceland
+2022,Agricultural policy and administrative management,0.06,0.9%,Iceland
+2022,Forestry development,0.05,0.8%,Iceland
+2022,Fishery development,0.04,0.7%,Iceland
+2022,Agricultural land resources,0.04,0.6%,Iceland
+2022,Forestry policy and administrative management,0.04,0.6%,Iceland
+2022,Agricultural development,0.04,0.6%,Iceland
+2021,Rural development,1.96,35.6%,Iceland
+2021,Fishery education/training,1.46,26.5%,Iceland
+2021,Forestry education/training,1.08,19.6%,Iceland
+2021,Fishery development,0.48,8.7%,Iceland
+2021,Fishing policy and administrative management,0.43,7.7%,Iceland
+2021,Agricultural land resources,0.03,0.6%,Iceland
+2021,Forestry policy and administrative management,0.03,0.6%,Iceland
+2021,Agricultural development,0.02,0.4%,Iceland
+2021,Forestry development,0.02,0.3%,Iceland
+2020,Fishery education/training,1.59,30.6%,Iceland
+2020,Rural development,1.19,23.0%,Iceland
+2020,Fishing policy and administrative management,1.05,20.2%,Iceland
+2020,Forestry education/training,0.94,18.1%,Iceland
+2020,Fishery development,0.34,6.5%,Iceland
+2020,Fishery services,0.04,0.8%,Iceland
+2020,Agricultural development,0.02,0.4%,Iceland
+2020,Food crop production,0.01,0.2%,Iceland
+2020,Fishery research,0.01,0.2%,Iceland
+2019,Fishery education/training,2.22,27.8%,Iceland
+2019,Fishing policy and administrative management,2.1,26.3%,Iceland
+2019,Rural development,1.37,17.1%,Iceland
+2019,Forestry education/training,1.32,16.5%,Iceland
+2019,Fishery development,0.92,11.6%,Iceland
+2019,Fishery services,0.05,0.6%,Iceland

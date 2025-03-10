@@ -1,62 +1,54 @@
-Year,Multi_short,ODA,Share,Full Name,donor
-2019,ADF,2.7899,0.10027459691042534,african development fund,Portugal
-2021,ADF,0.4533,0.021328753587728795,african development fund,Portugal
-2022,ADF,1.6115999999999997,0.07271283483502451,african development fund,Portugal
-2023,ADF,0.36300000000000004,0.020439764633013315,african development fund,Portugal
-2022,AF,0.6659999999999999,0.03004886324157752,adaptation fund,Portugal
-2019,AIIB,0.0194,0.0006972748772580565,asian infrastructure investment bank,Portugal
-2019,AfDB,0.0778,0.0027962879098287004,african development bank,Portugal
-2021,AfDB,0.191,0.008986966545899405,african development bank,Portugal
-2022,AfDB,0.22979999999999998,0.010368211370742514,african development bank,Portugal
-2023,AfDB,0.2459,0.013846110532391112,african development bank,Portugal
-2019,EC-DSB,11.081199999999999,0.3982805345294832,european commission development share of budget,Portugal
-2020,EC-DSB,11.0499,0.500879379901183,european commission development share of budget,Portugal
-2021,EC-DSB,12.677499999999997,0.5965040229614642,european commission development share of budget,Portugal
-2022,EC-DSB,14.728299999999997,0.6645175262476368,european commission development share of budget,Portugal
-2023,EC-DSB,14.854800000000001,0.8364424674118077,european commission development share of budget,Portugal
-2019,EC-EDF,9.8022,0.3523107114360268,european commission european development fund,Portugal
-2020,EC-EDF,9.032200000000003,0.409419337292054,european commission european development fund,Portugal
-2021,EC-EDF,6.5911,0.31012562932291915,european commission european development fund,Portugal
-2022,EC-EDF,2.8238000000000003,0.12740537540775768,european commission european development fund,Portugal
-2023,EC-EDF,1.0963,0.06173034150736225,european commission european development fund,Portugal
-2019,FAO,2.1573,0.07753768519117553,food and agricultural organisation,Portugal
-2020,FAO,0.9692999999999999,0.04393726485653415,food and agricultural organisation,Portugal
-2021,FAO,0.9913,0.04664282689502659,food and agricultural organisation,Portugal
-2022,FAO,0.9433999999999999,0.04256471108424059,food and agricultural organisation,Portugal
-2023,FAO,0.8843000000000002,0.04979306849855007,food and agricultural organisation,Portugal
-2020,GCF,0.4467,0.020248402157653778,green climate fund,Portugal
-2019,IDA,1.8657,0.06705699682991526,international development association,Portugal
-2020,IDA,0.5434999999999999,0.024636235891392043,international development association,Portugal
-2021,IDA,0.33649999999999997,0.015833058862278267,international development association,Portugal
-2022,IDA,0.9816999999999999,0.044292746312697674,international development association,Portugal
-2023,IDA,0.0299,0.0016836059573749258,international development association,Portugal
-2019,IDB-IIC-MIF,0.028700000000000003,0.0010315355142941351,inter american development bank inter american investment corporation and multilateral investment fund,Portugal
-2020,IDB-IIC-MIF,0.012799999999999999,0.000580209419337292,inter american development bank inter american investment corporation and multilateral investment fund,Portugal
-2021,IDB-IIC-MIF,0.0028,0.00013174610643203316,inter american development bank inter american investment corporation and multilateral investment fund,Portugal
-2022,IDB-IIC-MIF,0.0043,0.00019400917708526028,inter american development bank inter american investment corporation and multilateral investment fund,Portugal
-2023,IDB-IIC-MIF,0.026799999999999997,0.001509051493566823,inter american development bank inter american investment corporation and multilateral investment fund,Portugal
-2022,UN,0.0076,0.00034289994089487864,united nations,Portugal
-2023,UN,0.0186,0.001047326782848616,united nations,Portugal
-2020,UNCTAD,0.0041,0.00018584832963147637,united nations conference on trade and development,Portugal
-2021,UNCTAD,0.0019,8.93991436503082e-05,united nations conference on trade and development,Portugal
-2019,UNDP,0.00039999999999999996,1.4376801592949616e-05,united nations development programme,Portugal
-2020,UNDP,0.0001,4.532886088572594e-06,united nations development programme,Portugal
-2021,UNDP,0.00030000000000000003,1.4115654260574982e-05,united nations development programme,Portugal
-2022,UNDP,0.00030000000000000003,1.353552398269258e-05,united nations development programme,Portugal
-2023,UNDP,0.0009,5.0677102395900776e-05,united nations development programme,Portugal
-2019,WFP,0.0,0.0,world food programme,Portugal
-2020,WHO-AC,0.0024,0.00010878926612574226,world health organisation assessed contributions,Portugal
-2021,WHO-AC,0.0067,0.0003152496118195079,world health organisation assessed contributions,Portugal
-2022,WHO-AC,0.0109,0.000491790704704497,world health organisation assessed contributions,Portugal
-2021,WHO-CVCA,0.0004,1.8820872347433306e-05,world health organisation core voluntary contributions account,Portugal
-2022,WHO-CVCA,0.0012,5.4142095930770303e-05,world health organisation core voluntary contributions account,Portugal
-2023,WHO-CVCA,0.0206,0.0011599425659506177,world health organisation core voluntary contributions account,Portugal
-2021,WHO-SPRP,0.0002,9.410436173716653e-06,world health organisation strategic preparedness and response plan,Portugal
-2023,WHO-SPRP,0.0,0.0,world health organisation strategic preparedness and response plan,Portugal
-2022,WOAH,0.1549,0.0069888422163969345,world organisation for animal health,Portugal
-2023,WOAH,0.2183,0.012292012725583489,world organisation for animal health,Portugal
-2019,,0.0,0.0,united nations children’s fund,Portugal
-2020,,0.0,0.0,united nations children’s fund,Portugal
-2021,,0.0,0.0,united nations children’s fund,Portugal
-2022,,0.0001,4.511841327564193e-06,united nations children’s fund,Portugal
-2023,,0.0001,5.630789155100086e-06,united nations children’s fund,Portugal
+Year,Multi_short,ODA,Share,Full Name,Donor
+2019,ADF,2.79,0.1%,african development fund,Portugal
+2021,ADF,0.45,0.02%,african development fund,Portugal
+2022,ADF,1.59,0.08%,african development fund,Portugal
+2023,ADF,0.36,0.02%,african development fund,Portugal
+2022,AF,0.37,0.02%,adaptation fund,Portugal
+2019,AIIB,0.01,0.0%,asian infrastructure investment bank,Portugal
+2019,AfDB,0.08,0.0%,african development bank,Portugal
+2021,AfDB,0.19,0.01%,african development bank,Portugal
+2022,AfDB,0.23,0.01%,african development bank,Portugal
+2023,AfDB,0.23,0.01%,african development bank,Portugal
+2019,EC-DSB,10.61,0.38%,european commission development share of budget,Portugal
+2020,EC-DSB,10.23,0.47%,european commission development share of budget,Portugal
+2021,EC-DSB,11.53,0.57%,european commission development share of budget,Portugal
+2022,EC-DSB,12.47,0.62%,european commission development share of budget,Portugal
+2023,EC-DSB,12.24,0.73%,european commission development share of budget,Portugal
+2019,EC-EDF,9.43,0.34%,european commission european development fund,Portugal
+2020,EC-EDF,8.65,0.4%,european commission european development fund,Portugal
+2021,EC-EDF,6.13,0.3%,european commission european development fund,Portugal
+2022,EC-EDF,2.57,0.13%,european commission european development fund,Portugal
+2023,EC-EDF,0.99,0.06%,european commission european development fund,Portugal
+2019,FAO,1.92,0.07%,food and agricultural organisation,Portugal
+2020,FAO,0.79,0.04%,food and agricultural organisation,Portugal
+2021,FAO,0.8,0.04%,food and agricultural organisation,Portugal
+2022,FAO,0.75,0.04%,food and agricultural organisation,Portugal
+2023,FAO,0.72,0.04%,food and agricultural organisation,Portugal
+2020,GCF,0.34,0.02%,green climate fund,Portugal
+2019,IDA,1.73,0.06%,international development association,Portugal
+2020,IDA,0.5,0.02%,international development association,Portugal
+2021,IDA,0.3,0.01%,international development association,Portugal
+2022,IDA,0.86,0.04%,international development association,Portugal
+2023,IDA,0.03,0.0%,international development association,Portugal
+2019,IDB-IIC-MIF,0.02,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Portugal
+2020,IDB-IIC-MIF,0.01,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Portugal
+2021,IDB-IIC-MIF,0.0,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Portugal
+2022,IDB-IIC-MIF,0.0,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Portugal
+2023,IDB-IIC-MIF,0.02,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Portugal
+2022,UN,0.01,0.0%,united nations,Portugal
+2023,UN,0.02,0.0%,united nations,Portugal
+2020,UNCTAD,0.0,0.0%,united nations conference on trade and development,Portugal
+2021,UNCTAD,0.0,0.0%,united nations conference on trade and development,Portugal
+2019,UNDP,0.0,0.0%,united nations development programme,Portugal
+2020,UNDP,0.0,0.0%,united nations development programme,Portugal
+2021,UNDP,0.0,0.0%,united nations development programme,Portugal
+2022,UNDP,0.0,0.0%,united nations development programme,Portugal
+2023,UNDP,0.0,0.0%,united nations development programme,Portugal
+2019,WFP,0.0,0.0%,world food programme,Portugal
+2022,WOAH,0.15,0.01%,world organisation for animal health,Portugal
+2023,WOAH,0.22,0.01%,world organisation for animal health,Portugal
+2019,,0.0,0.0%,united nations children’s fund,Portugal
+2020,,0.0,0.0%,united nations children’s fund,Portugal
+2021,,0.0,0.0%,united nations children’s fund,Portugal
+2022,,0.0,0.0%,united nations children’s fund,Portugal
+2023,,0.0,0.0%,united nations children’s fund,Portugal

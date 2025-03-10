@@ -1,91 +1,85 @@
-Year,Multi_short,ODA,Share,Full Name,donor
-2023,ADB,0.3555,0.0019973301510891766,asian development bank,Sweden
-2019,ADF,11.210500000000001,0.10271885883613088,african development fund,Sweden
-2020,ADF,11.240000000000002,0.026883720018014968,african development fund,Sweden
-2021,ADF,10.796500000000002,0.10505150165315148,african development fund,Sweden
-2022,ADF,9.8596,0.10111808733429191,african development fund,Sweden
-2023,ADF,1.8953000000000002,0.010648494614231554,african development fund,Sweden
-2019,AF,7.6442999999999985,0.07004270751536819,adaptation fund,Sweden
-2020,AF,8.181099999999999,0.019567473473254642,adaptation fund,Sweden
-2021,AF,7.594800000000001,0.07389849902795859,adaptation fund,Sweden
-2022,AF,10.311999999999998,0.10575781133019777,adaptation fund,Sweden
-2023,AF,11.563099999999999,0.064965761659801,adaptation fund,Sweden
-2019,AIIB,0.16670000000000001,0.0015274281939238231,asian infrastructure investment bank,Sweden
-2020,AIIB,0.1587,0.000379577078902044,asian infrastructure investment bank,Sweden
-2019,AfDB,0.0202,0.0001850872796476378,african development bank,Sweden
-2020,AfDB,1.0901,0.0026072903195407575,african development bank,Sweden
-2021,AfDB,1.0513000000000003,0.010229300577775963,african development bank,Sweden
-2022,AfDB,1.4789,0.015167302868137075,african development bank,Sweden
-2023,AfDB,1.5872999999999997,0.008918036986846272,african development bank,Sweden
-2019,EC-DSB,19.9875,0.18314019811669113,european commission development share of budget,Sweden
-2020,EC-DSB,20.067,0.04799605067629059,european commission development share of budget,Sweden
-2021,EC-DSB,21.653400000000005,0.2106907040148521,european commission development share of budget,Sweden
-2022,EC-DSB,25.333500000000004,0.2598153135505786,european commission development share of budget,Sweden
-2023,EC-DSB,23.229300000000002,0.1305107771552625,european commission development share of budget,Sweden
-2019,EC-EDF,21.9417,0.20104601801210767,european commission european development fund,Sweden
-2020,EC-EDF,20.099399999999992,0.048073544673495526,european commission european development fund,Sweden
-2021,EC-EDF,14.0946,0.13714249017741942,european commission european development fund,Sweden
-2022,EC-EDF,5.5946,0.057377099618689344,european commission european development fund,Sweden
-2023,EC-EDF,2.2869,0.012848647883335692,european commission european development fund,Sweden
-2022,EIB,0.5173000000000001,0.005305325426795125,european investment bank,Sweden
-2023,EIB,0.4708,0.00264512808757464,european investment bank,Sweden
-2019,FAO,2.470999999999999,0.022641122178678856,food and agricultural organisation,Sweden
-2020,FAO,2.4650000000000007,0.005895762441673212,food and agricultural organisation,Sweden
-2021,FAO,2.1313,0.02073785629355455,food and agricultural organisation,Sweden
-2022,FAO,2.0876,0.021410008430267736,food and agricultural organisation,Sweden
-2023,FAO,2.1289000000000002,0.011960945593962725,food and agricultural organisation,Sweden
-2020,GCF,312.2975,0.7469500491393264,green climate fund,Sweden
-2023,GEF-TF,63.811099999999996,0.35851430099624915,global environment facility trust fund,Sweden
-2021,GGGI,0.11249999999999999,0.0010946412203936035,global green growth institute,Sweden
-2022,GGGI,0.0137,0.000140504462298653,global green growth institute,Sweden
-2019,IBRD,1.2651999999999997,0.011592694366841154,international bank for reconstruction and development,Sweden
-2020,IBRD,0.9882000000000001,0.0023635669147511022,international bank for reconstruction and development,Sweden
-2021,IBRD,1.0479999999999998,0.010197191101977745,international bank for reconstruction and development,Sweden
-2022,IBRD,1.2027999999999999,0.012335676441811664,international bank for reconstruction and development,Sweden
-2023,IBRD,1.2476,0.007009477064694394,international bank for reconstruction and development,Sweden
-2019,IDA,43.959300000000006,0.4027874877333864,international development association,Sweden
-2020,IDA,36.887,0.08822595910182544,international development association,Sweden
-2021,IDA,38.942,0.37891127470726854,international development association,Sweden
-2022,IDA,32.637,0.33471855007599544,international development association,Sweden
-2023,IDA,62.82659999999999,0.3529830167944283,international development association,Sweden
-2019,IDB-IIC-MIF,0.2163,0.00198189993008832,inter american development bank inter american investment corporation and multilateral investment fund,Sweden
-2020,IDB-IIC-MIF,0.0298,7.127534310826031e-05,inter american development bank inter american investment corporation and multilateral investment fund,Sweden
-2021,IDB-IIC-MIF,0.0073999999999999995,7.200306694144591e-05,inter american development bank inter american investment corporation and multilateral investment fund,Sweden
-2022,IDB-IIC-MIF,0.0091,9.33277815268425e-05,inter american development bank inter american investment corporation and multilateral investment fund,Sweden
-2023,IFC,2.786,0.015652775811348656,international finance corporation,Sweden
-2022,JSDGF,1.3558000000000001,0.013904813867482754,joint sustainable development goals fund,Sweden
-2023,JSDGF,0.9359,0.005258231472304812,joint sustainable development goals fund,Sweden
-2022,NDF,1.1234,0.011521365908489544,nordic development fund,Sweden
-2023,NDF,1.9914,0.01118841986745144,nordic development fund,Sweden
-2021,PIDG,0.0046,4.475866323387179e-05,private infrastructure development group,Sweden
-2022,PIDG,0.0029,2.9741820486576178e-05,private infrastructure development group,Sweden
-2023,PIDG,0.0147,8.259002312520647e-05,private infrastructure development group,Sweden
-2020,SCF,4.3732999999999995,0.010460015369642778,strategic climate fund,Sweden
-2021,SCF,4.9265,0.047935555309058554,strategic climate fund,Sweden
-2022,SCF,5.2065,0.05339682357357203,strategic climate fund,Sweden
-2022,UN,0.016,0.00016409280268455824,united nations,Sweden
-2023,UN,0.0453,0.0002545121120797179,united nations,Sweden
-2019,UNDP,0.20939999999999998,0.0019186770474364037,united nations development programme,Sweden
-2020,UNDP,0.197,0.00047118263732641886,united nations development programme,Sweden
-2021,UNDP,0.2771,0.0026962229526317117,united nations development programme,Sweden
-2022,UNDP,0.4066000000000001,0.004170008348221337,united nations development programme,Sweden
-2023,UNDP,0.33479999999999993,0.0018810299144434775,united nations development programme,Sweden
-2020,UNIDO,0.0007,1.6742530260329602e-06,united nations industrial development organisation,Sweden
-2021,UNIDO,0.0058000000000000005,5.643483625140356e-05,united nations industrial development organisation,Sweden
-2022,UNIDO,0.011200000000000002,0.00011486496187919079,united nations industrial development organisation,Sweden
-2023,UNIDO,0.0332,0.0001865298481467248,united nations industrial development organisation,Sweden
-2019,WFP,0.0384,0.0003518490860628362,world food programme,Sweden
-2020,WHO-AC,0.006,1.435074022313966e-05,world health organisation assessed contributions,Sweden
-2021,WHO-AC,0.018,0.00017514259526297656,world health organisation assessed contributions,Sweden
-2022,WHO-AC,0.0231,0.00023690898387583093,world health organisation assessed contributions,Sweden
-2023,WHO-AC,0.028,0.00015731432976229804,world health organisation assessed contributions,Sweden
-2022,WHO-CVCA,0.1093,0.0011209589583388883,world health organisation core voluntary contributions account,Sweden
-2023,WHO-CVCA,0.1793,0.0010073735473707156,world health organisation core voluntary contributions account,Sweden
-2021,WOAH,0.0863,0.0008397114428441599,world organisation for animal health,Sweden
-2022,WOAH,0.0831,0.0008522569939429243,world organisation for animal health,Sweden
-2023,WOAH,0.0998,0.0005607132182241909,world organisation for animal health,Sweden
-2019,,0.0072,6.59717036367818e-05,united nations children’s fund,Sweden
-2020,,0.0161,3.8507819598758086e-05,united nations children’s fund,Sweden
-2021,,0.0233,0.0002267123594237419,united nations children’s fund,Sweden
-2022,,0.12179999999999999,0.0012491564604361995,united nations children’s fund,Sweden
-2023,,0.1368,0.0007685928682672276,united nations children’s fund,Sweden
+Year,Multi_short,ODA,Share,Full Name,Donor
+2023,ADB,0.28,0.0%,asian development bank,Sweden
+2019,ADF,11.21,0.04%,african development fund,Sweden
+2020,ADF,11.24,0.02%,african development fund,Sweden
+2021,ADF,10.66,0.04%,african development fund,Sweden
+2022,ADF,9.7,0.04%,african development fund,Sweden
+2023,ADF,1.86,0.01%,african development fund,Sweden
+2019,AF,5.61,0.02%,adaptation fund,Sweden
+2020,AF,5.63,0.01%,adaptation fund,Sweden
+2021,AF,4.97,0.02%,adaptation fund,Sweden
+2022,AF,5.69,0.03%,adaptation fund,Sweden
+2023,AF,5.86,0.02%,adaptation fund,Sweden
+2019,AIIB,0.08,0.0%,asian infrastructure investment bank,Sweden
+2020,AIIB,0.05,0.0%,asian infrastructure investment bank,Sweden
+2019,AfDB,0.02,0.0%,african development bank,Sweden
+2020,AfDB,1.09,0.0%,african development bank,Sweden
+2021,AfDB,1.04,0.0%,african development bank,Sweden
+2022,AfDB,1.45,0.01%,african development bank,Sweden
+2023,AfDB,1.52,0.01%,african development bank,Sweden
+2019,EC-DSB,19.14,0.06%,european commission development share of budget,Sweden
+2020,EC-DSB,18.58,0.04%,european commission development share of budget,Sweden
+2021,EC-DSB,19.69,0.07%,european commission development share of budget,Sweden
+2022,EC-DSB,21.45,0.1%,european commission development share of budget,Sweden
+2023,EC-DSB,19.14,0.06%,european commission development share of budget,Sweden
+2019,EC-EDF,21.12,0.07%,european commission european development fund,Sweden
+2020,EC-EDF,19.24,0.04%,european commission european development fund,Sweden
+2021,EC-EDF,13.12,0.05%,european commission european development fund,Sweden
+2022,EC-EDF,5.09,0.02%,european commission european development fund,Sweden
+2023,EC-EDF,2.07,0.01%,european commission european development fund,Sweden
+2022,EIB,0.48,0.0%,european investment bank,Sweden
+2023,EIB,0.43,0.0%,european investment bank,Sweden
+2019,FAO,2.19,0.01%,food and agricultural organisation,Sweden
+2020,FAO,2.01,0.0%,food and agricultural organisation,Sweden
+2021,FAO,1.71,0.01%,food and agricultural organisation,Sweden
+2022,FAO,1.66,0.01%,food and agricultural organisation,Sweden
+2023,FAO,1.74,0.01%,food and agricultural organisation,Sweden
+2020,GCF,240.44,0.46%,green climate fund,Sweden
+2023,GEF-TF,62.29,0.21%,global environment facility trust fund,Sweden
+2021,GGGI,0.11,0.0%,global green growth institute,Sweden
+2022,GGGI,0.01,0.0%,global green growth institute,Sweden
+2019,IBRD,1.08,0.0%,international bank for reconstruction and development,Sweden
+2020,IBRD,0.92,0.0%,international bank for reconstruction and development,Sweden
+2021,IBRD,0.93,0.0%,international bank for reconstruction and development,Sweden
+2022,IBRD,1.09,0.0%,international bank for reconstruction and development,Sweden
+2023,IBRD,1.15,0.0%,international bank for reconstruction and development,Sweden
+2019,IDA,40.7,0.14%,international development association,Sweden
+2020,IDA,34.14,0.07%,international development association,Sweden
+2021,IDA,34.76,0.12%,international development association,Sweden
+2022,IDA,28.68,0.13%,international development association,Sweden
+2023,IDA,54.77,0.18%,international development association,Sweden
+2019,IDB-IIC-MIF,0.12,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Sweden
+2020,IDB-IIC-MIF,0.01,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Sweden
+2021,IDB-IIC-MIF,0.0,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Sweden
+2022,IDB-IIC-MIF,0.01,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Sweden
+2023,IFC,2.79,0.01%,international finance corporation,Sweden
+2022,JSDGF,0.08,0.0%,joint sustainable development goals fund,Sweden
+2023,JSDGF,0.1,0.0%,joint sustainable development goals fund,Sweden
+2022,NDF,0.56,0.0%,nordic development fund,Sweden
+2023,NDF,0.48,0.0%,nordic development fund,Sweden
+2021,PIDG,0.0,0.0%,private infrastructure development group,Sweden
+2022,PIDG,0.0,0.0%,private infrastructure development group,Sweden
+2023,PIDG,0.01,0.0%,private infrastructure development group,Sweden
+2020,SCF,3.8,0.01%,strategic climate fund,Sweden
+2021,SCF,4.21,0.01%,strategic climate fund,Sweden
+2022,SCF,4.57,0.02%,strategic climate fund,Sweden
+2022,UN,0.02,0.0%,united nations,Sweden
+2023,UN,0.05,0.0%,united nations,Sweden
+2019,UNDP,0.1,0.0%,united nations development programme,Sweden
+2020,UNDP,0.1,0.0%,united nations development programme,Sweden
+2021,UNDP,0.19,0.0%,united nations development programme,Sweden
+2022,UNDP,0.26,0.0%,united nations development programme,Sweden
+2023,UNDP,0.21,0.0%,united nations development programme,Sweden
+2020,UNIDO,0.0,0.0%,united nations industrial development organisation,Sweden
+2021,UNIDO,0.0,0.0%,united nations industrial development organisation,Sweden
+2022,UNIDO,0.01,0.0%,united nations industrial development organisation,Sweden
+2023,UNIDO,0.03,0.0%,united nations industrial development organisation,Sweden
+2019,WFP,0.04,0.0%,world food programme,Sweden
+2021,WOAH,0.09,0.0%,world organisation for animal health,Sweden
+2022,WOAH,0.08,0.0%,world organisation for animal health,Sweden
+2023,WOAH,0.1,0.0%,world organisation for animal health,Sweden
+2019,,0.01,0.0%,united nations children’s fund,Sweden
+2020,,0.02,0.0%,united nations children’s fund,Sweden
+2021,,0.02,0.0%,united nations children’s fund,Sweden
+2022,,0.03,0.0%,united nations children’s fund,Sweden
+2023,,0.03,0.0%,united nations children’s fund,Sweden

@@ -1,40 +1,40 @@
-Year,Multi_short,ODA,Share,Full Name,donor
-2019,CEB,0.0001,4.912459963451298e-06,council of europe development bank,Czechia
-2020,CEB,0.0001,5.08130081300813e-06,council of europe development bank,Czechia
-2021,CEB,0.0001,4.8154943345709145e-06,council of europe development bank,Czechia
-2022,CEB,0.0002,8.599376545200472e-06,council of europe development bank,Czechia
-2023,CEB,0.0001,4.776347527046067e-06,council of europe development bank,Czechia
-2019,EC-DSB,16.617900000000002,0.8163476842663733,european commission development share of budget,Czechia
-2020,EC-DSB,16.0457,0.8153302845528455,european commission development share of budget,Czechia
-2021,EC-DSB,18.404900000000005,0.8862869167834424,european commission development share of budget,Czechia
-2022,EC-DSB,21.867000000000004,0.9402128345694938,european commission development share of budget,Czechia
-2023,EC-DSB,19.5586,0.934186707424832,european commission development share of budget,Czechia
-2019,EC-EDF,2.717,0.13347153720697177,european commission european development fund,Czechia
-2020,EC-EDF,2.7936,0.14195121951219514,european commission european development fund,Czechia
-2021,EC-EDF,1.5433,0.07431752406543292,european commission european development fund,Czechia
-2022,EC-EDF,0.6204999999999998,0.026679565731484455,european commission european development fund,Czechia
-2023,EC-EDF,0.12149999999999998,0.005803262245360971,european commission european development fund,Czechia
-2019,FAO,0.0018,8.842427934212336e-05,food and agricultural organisation,Czechia
-2020,FAO,0.0029,0.00014735772357723576,food and agricultural organisation,Czechia
-2021,FAO,0.0027,0.0001300183470334147,food and agricultural organisation,Czechia
-2022,FAO,0.0005,2.149844136300118e-05,food and agricultural organisation,Czechia
-2023,FAO,0.0011,5.253982279750674e-05,food and agricultural organisation,Czechia
-2019,IBRD,0.4495,0.022081507535713585,international bank for reconstruction and development,Czechia
-2020,IBRD,0.3168,0.016097560975609757,international bank for reconstruction and development,Czechia
-2021,IBRD,0.2565,0.012351742968174395,international bank for reconstruction and development,Czechia
-2022,IBRD,0.24719999999999998,0.010628829409867781,international bank for reconstruction and development,Czechia
-2023,IBRD,0.18070000000000003,0.008630859981372245,international bank for reconstruction and development,Czechia
-2019,IDA,0.5700000000000001,0.0280010217916724,international development association,Czechia
-2020,IDA,0.5068999999999999,0.025757113821138208,international development association,Czechia
-2021,IDA,0.5483,0.026403355436452322,international development association,Czechia
-2022,IDA,0.515,0.022143394603891215,international development association,Czechia
-2023,IDA,1.0690999999999997,0.05106393141164949,international development association,Czechia
-2023,UN,0.0027,0.00012896138323024382,united nations,Czechia
-2019,UNDP,0.0001,4.912459963451298e-06,united nations development programme,Czechia
-2020,UNDP,0.0001,5.08130081300813e-06,united nations development programme,Czechia
-2021,UNDP,0.0,0.0,united nations development programme,Czechia
-2022,UNDP,0.0004,1.7198753090400943e-05,united nations development programme,Czechia
-2020,UNIDO,0.013900000000000001,0.0007063008130081301,united nations industrial development organisation,Czechia
-2021,UNIDO,0.0105,0.000505626905129946,united nations industrial development organisation,Czechia
-2022,UNIDO,0.0067,0.0002880791142642158,united nations industrial development organisation,Czechia
-2023,UNIDO,0.0027,0.00012896138323024382,united nations industrial development organisation,Czechia
+Year,Multi_short,ODA,Share,Full Name,Donor
+2019,CEB,0.0,0.0%,council of europe development bank,Czechia
+2020,CEB,0.0,0.0%,council of europe development bank,Czechia
+2021,CEB,0.0,0.0%,council of europe development bank,Czechia
+2022,CEB,0.0,0.0%,council of europe development bank,Czechia
+2023,CEB,0.0,0.0%,council of europe development bank,Czechia
+2019,EC-DSB,16.62,0.53%,european commission development share of budget,Czechia
+2020,EC-DSB,16.05,0.52%,european commission development share of budget,Czechia
+2021,EC-DSB,18.4,0.64%,european commission development share of budget,Czechia
+2022,EC-DSB,22.32,0.71%,european commission development share of budget,Czechia
+2023,EC-DSB,19.98,0.7%,european commission development share of budget,Czechia
+2019,EC-EDF,2.72,0.09%,european commission european development fund,Czechia
+2020,EC-EDF,2.79,0.09%,european commission european development fund,Czechia
+2021,EC-EDF,1.54,0.05%,european commission european development fund,Czechia
+2022,EC-EDF,0.62,0.02%,european commission european development fund,Czechia
+2023,EC-EDF,0.12,0.0%,european commission european development fund,Czechia
+2019,FAO,0.0,0.0%,food and agricultural organisation,Czechia
+2020,FAO,0.0,0.0%,food and agricultural organisation,Czechia
+2021,FAO,0.0,0.0%,food and agricultural organisation,Czechia
+2022,FAO,0.0,0.0%,food and agricultural organisation,Czechia
+2023,FAO,0.0,0.0%,food and agricultural organisation,Czechia
+2019,IBRD,0.45,0.01%,international bank for reconstruction and development,Czechia
+2020,IBRD,0.32,0.01%,international bank for reconstruction and development,Czechia
+2021,IBRD,0.26,0.01%,international bank for reconstruction and development,Czechia
+2022,IBRD,0.25,0.01%,international bank for reconstruction and development,Czechia
+2023,IBRD,0.18,0.01%,international bank for reconstruction and development,Czechia
+2019,IDA,0.57,0.02%,international development association,Czechia
+2020,IDA,0.51,0.02%,international development association,Czechia
+2021,IDA,0.55,0.02%,international development association,Czechia
+2022,IDA,0.52,0.02%,international development association,Czechia
+2023,IDA,1.07,0.04%,international development association,Czechia
+2023,UN,0.0,0.0%,united nations,Czechia
+2019,UNDP,0.0,0.0%,united nations development programme,Czechia
+2020,UNDP,0.0,0.0%,united nations development programme,Czechia
+2021,UNDP,0.0,0.0%,united nations development programme,Czechia
+2022,UNDP,0.0,0.0%,united nations development programme,Czechia
+2020,UNIDO,0.01,0.0%,united nations industrial development organisation,Czechia
+2021,UNIDO,0.01,0.0%,united nations industrial development organisation,Czechia
+2022,UNIDO,0.01,0.0%,united nations industrial development organisation,Czechia
+2023,UNIDO,0.0,0.0%,united nations industrial development organisation,Czechia

@@ -1,66 +1,59 @@
-Year,Multi_short,ODA,Share,Full Name,donor
-2019,ADB,1.3676,0.012416754810856943,asian development bank,Canada
-2020,ADB,1.4074999999999998,0.016539987402581526,asian development bank,Canada
-2021,ADB,1.2288000000000001,0.016869388539578818,asian development bank,Canada
-2022,ADB,1.3017,0.004764808719486483,asian development bank,Canada
-2023,ADB,1.4038000000000002,0.00906820012570678,asian development bank,Canada
-2019,ADF,12.449799999999998,0.11303459640553287,african development fund,Canada
-2020,ADF,12.406799999999997,0.14579631666525647,african development fund,Canada
-2021,ADF,14.369299999999997,0.19726668680157053,african development fund,Canada
-2022,ADF,33.4983,0.1226188767980134,african development fund,Canada
-2023,ADF,16.5296,0.10677711981612963,african development fund,Canada
-2019,AF,1.3983,0.012695487168778346,adaptation fund,Canada
-2022,AF,8.635699999999998,0.03161055439722625,adaptation fund,Canada
-2019,AIIB,0.3095,0.002810021653963311,asian infrastructure investment bank,Canada
-2020,AIIB,0.2977,0.00349836891633998,asian infrastructure investment bank,Canada
-2021,AIIB,0.4033,0.005536640948903106,asian infrastructure investment bank,Canada
-2021,CDB,0.0067,9.197990170506029e-05,caribbean development bank,Canada
-2022,CDB,0.0066,2.415897483952584e-05,caribbean development bank,Canada
-2023,CDB,0.0064,4.1342414022313285e-05,caribbean development bank,Canada
-2022,CGIAR ,18.7579,0.06866236880944572,cgiar fund,Canada
-2023,CGIAR ,11.1169,0.07181241913197726,cgiar fund,Canada
-2019,FAO,16.9087,0.153517974605394,food and agricultural organisation,Canada
-2020,FAO,8.323100000000002,0.09780743811753205,food and agricultural organisation,Canada
-2021,FAO,7.319299999999999,0.10048186485818622,food and agricultural organisation,Canada
-2022,FAO,6.734300000000001,0.02465057337300286,food and agricultural organisation,Canada
-2023,FAO,6.7741999999999996,0.043759653292180414,food and agricultural organisation,Canada
-2019,GCF,2.7544000000000004,0.025007830835788513,green climate fund,Canada
-2020,GCF,11.111099999999999,0.1305701271963223,green climate fund,Canada
-2021,GCF,4.7793,0.06561187227149173,green climate fund,Canada
-2022,GCF,86.42850000000003,0.31636726619969086,green climate fund,Canada
-2019,GEF-TF,2.4211,0.021981723510211864,global environment facility trust fund,Canada
-2020,GEF-TF,1.6437999999999997,0.019316825074503385,global environment facility trust fund,Canada
-2021,GEF-TF,3.424899999999999,0.04701820378353148,global environment facility trust fund,Canada
-2022,GEF-TF,1.7679,0.006471310851332989,global environment facility trust fund,Canada
-2023,GEF-TF,13.932799999999999,0.09000243532657601,global environment facility trust fund,Canada
-2019,IBRD,18.112400000000004,0.16444664363568687,international bank for reconstruction and development,Canada
-2022,IBRD,1.9031,0.006966203790469943,international bank for reconstruction and development,Canada
-2019,IDA,53.60390000000001,0.48668213162159596,international development association,Canada
-2020,IDA,49.41080000000001,0.5806422803207643,international development association,Canada
-2021,IDA,40.9915,0.5627453941407431,international development association,Canada
-2022,IDA,62.881299999999996,0.23017390069343577,international development association,Canada
-2023,IDA,104.4978,0.675029892503264,international development association,Canada
-2019,IDB-FSO,0.0,0.0,inter american development bank fund for special operations,Canada
-2020,IDB-FSO,0.0249,0.0002926079476549059,inter american development bank fund for special operations,Canada
-2019,IDB-IIC-MIF,0.6978,0.00633548662402455,inter american development bank inter american investment corporation and multilateral investment fund,Canada
-2020,IDB-IIC-MIF,0.36519999999999997,0.004291583232271953,inter american development bank inter american investment corporation and multilateral investment fund,Canada
-2021,IDB-IIC-MIF,0.12010000000000001,0.001648774058922051,inter american development bank inter american investment corporation and multilateral investment fund,Canada
-2022,IDB-IIC-MIF,0.047799999999999995,0.00017496954504989923,inter american development bank inter american investment corporation and multilateral investment fund,Canada
-2022,IFC,50.9068,0.18634183338799604,international finance corporation,Canada
-2022,UN,0.0488,0.00017862999578316076,united nations,Canada
-2023,UN,0.1363,0.0008804642236314533,united nations,Canada
-2019,UNDP,0.10529999999999999,0.000956042908440506,united nations development programme,Canada
-2020,UNDP,0.1004,0.0011798328491788176,united nations development programme,Canada
-2021,UNDP,0.1343,0.0018437165371626265,united nations development programme,Canada
-2022,UNDP,0.1784,0.0006530244108138499,united nations development programme,Canada
-2023,UNDP,0.2596,0.0016769516687800826,united nations development programme,Canada
-2019,WFP,0.011099999999999999,0.00010077945188689095,world food programme,Canada
-2022,WHO-AC,0.0744,0.00027233753455465487,world health organisation assessed contributions,Canada
-2020,WHO-CVCA,0.0023,2.7028043357682075e-05,world health organisation core voluntary contributions account,Canada
-2021,WHO-CVCA,0.0599,0.0008223277779303151,world health organisation core voluntary contributions account,Canada
-2023,WHO-CVCA,0.1228,0.0007932575690531362,world health organisation core voluntary contributions account,Canada
-2019,,0.0016,1.4526767839551852e-05,united nations children’s fund,Canada
-2020,,0.0032,3.7604234236775065e-05,united nations children’s fund,Canada
-2021,,0.0046,6.315038027511602e-05,united nations children’s fund,Canada
-2022,,0.0189,6.918251885864217e-05,united nations children’s fund,Canada
-2023,,0.024499999999999997,0.00015826392867916803,united nations children’s fund,Canada
+Year,Multi_short,ODA,Share,Full Name,Donor
+2019,ADB,0.99,0.0%,asian development bank,Canada
+2020,ADB,1.08,0.0%,asian development bank,Canada
+2021,ADB,0.96,0.0%,asian development bank,Canada
+2022,ADB,1.05,0.0%,asian development bank,Canada
+2023,ADB,1.09,0.0%,asian development bank,Canada
+2019,ADF,12.45,0.04%,african development fund,Canada
+2020,ADF,12.41,0.03%,african development fund,Canada
+2021,ADF,14.18,0.03%,african development fund,Canada
+2022,ADF,32.95,0.07%,african development fund,Canada
+2023,ADF,16.21,0.05%,african development fund,Canada
+2019,AF,1.03,0.0%,adaptation fund,Canada
+2022,AF,4.76,0.01%,adaptation fund,Canada
+2019,AIIB,0.15,0.0%,asian infrastructure investment bank,Canada
+2020,AIIB,0.1,0.0%,asian infrastructure investment bank,Canada
+2021,AIIB,0.17,0.0%,asian infrastructure investment bank,Canada
+2022,CGIAR ,18.76,0.04%,cgiar fund,Canada
+2023,CGIAR ,11.12,0.03%,cgiar fund,Canada
+2019,FAO,15.01,0.05%,food and agricultural organisation,Canada
+2020,FAO,6.8,0.02%,food and agricultural organisation,Canada
+2021,FAO,5.88,0.01%,food and agricultural organisation,Canada
+2022,FAO,5.35,0.01%,food and agricultural organisation,Canada
+2023,FAO,5.55,0.02%,food and agricultural organisation,Canada
+2019,GCF,2.2,0.01%,green climate fund,Canada
+2020,GCF,8.55,0.02%,green climate fund,Canada
+2021,GCF,3.89,0.01%,green climate fund,Canada
+2022,GCF,67.01,0.13%,green climate fund,Canada
+2019,GEF-TF,2.24,0.01%,global environment facility trust fund,Canada
+2020,GEF-TF,1.51,0.0%,global environment facility trust fund,Canada
+2021,GEF-TF,3.3,0.01%,global environment facility trust fund,Canada
+2022,GEF-TF,1.7,0.0%,global environment facility trust fund,Canada
+2023,GEF-TF,13.6,0.04%,global environment facility trust fund,Canada
+2019,IBRD,15.52,0.06%,international bank for reconstruction and development,Canada
+2022,IBRD,1.73,0.0%,international bank for reconstruction and development,Canada
+2019,IDA,49.63,0.18%,international development association,Canada
+2020,IDA,45.74,0.11%,international development association,Canada
+2021,IDA,36.59,0.09%,international development association,Canada
+2022,IDA,55.26,0.11%,international development association,Canada
+2023,IDA,91.09,0.28%,international development association,Canada
+2019,IDB-FSO,0.0,0.0%,inter american development bank fund for special operations,Canada
+2020,IDB-FSO,0.02,0.0%,inter american development bank fund for special operations,Canada
+2019,IDB-IIC-MIF,0.38,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Canada
+2020,IDB-IIC-MIF,0.16,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Canada
+2021,IDB-IIC-MIF,0.08,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Canada
+2022,IDB-IIC-MIF,0.03,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Canada
+2022,IFC,50.91,0.1%,international finance corporation,Canada
+2022,UN,0.05,0.0%,united nations,Canada
+2023,UN,0.14,0.0%,united nations,Canada
+2019,UNDP,0.05,0.0%,united nations development programme,Canada
+2020,UNDP,0.05,0.0%,united nations development programme,Canada
+2021,UNDP,0.09,0.0%,united nations development programme,Canada
+2022,UNDP,0.11,0.0%,united nations development programme,Canada
+2023,UNDP,0.16,0.0%,united nations development programme,Canada
+2019,WFP,0.01,0.0%,world food programme,Canada
+2019,,0.0,0.0%,united nations children’s fund,Canada
+2020,,0.0,0.0%,united nations children’s fund,Canada
+2021,,0.0,0.0%,united nations children’s fund,Canada
+2022,,0.01,0.0%,united nations children’s fund,Canada
+2023,,0.01,0.0%,united nations children’s fund,Canada

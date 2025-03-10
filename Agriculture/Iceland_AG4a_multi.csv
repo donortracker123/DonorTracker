@@ -1,42 +1,41 @@
-Year,Multi_short,ODA,Share,Full Name,donor
-2021,AF,0.2399,0.2094647690561425,adaptation fund,Iceland
-2022,AF,0.24370000000000003,0.1400172364263143,adaptation fund,Iceland
-2023,AF,0.6352000000000002,0.33944316785122647,adaptation fund,Iceland
-2019,AIIB,0.0053,0.008396704689480354,asian infrastructure investment bank,Iceland
-2019,FAO,0.056499999999999995,0.08951204055766793,food and agricultural organisation,Iceland
-2020,FAO,0.0767,0.09139656816015256,food and agricultural organisation,Iceland
-2021,FAO,0.06730000000000001,0.05876189644634595,food and agricultural organisation,Iceland
-2022,FAO,0.06990000000000002,0.0401608733122666,food and agricultural organisation,Iceland
-2023,FAO,0.08060000000000002,0.04307166141185272,food and agricultural organisation,Iceland
-2019,GCF,0.03319999999999999,0.05259822560202788,green climate fund,Iceland
-2020,GCF,0.125,0.14895138226882748,green climate fund,Iceland
-2021,GCF,0.25439999999999996,0.2221252073692482,green climate fund,Iceland
-2022,GCF,0.2927,0.16817006607296756,green climate fund,Iceland
-2023,GCF,0.3192,0.17057660449954573,green climate fund,Iceland
-2020,IBRD,0.15830000000000002,0.18863203050524316,international bank for reconstruction and development,Iceland
-2021,IBRD,0.0877,0.07657382345237056,international bank for reconstruction and development,Iceland
-2022,IBRD,0.08720000000000001,0.050100545820166625,international bank for reconstruction and development,Iceland
-2023,IBRD,0.09090000000000001,0.04857585635654357,international bank for reconstruction and development,Iceland
-2019,IDA,0.5357,0.848700887198986,international development association,Iceland
-2020,IDA,0.4785999999999999,0.5703050524308866,international development association,Iceland
-2021,IDA,0.49529999999999996,0.4324631101021566,international development association,Iceland
-2022,IDA,0.8087999999999999,0.46469405343292153,international development association,Iceland
-2023,IDA,0.4715,0.25196387538075127,international development association,Iceland
-2022,IFC,0.1778,0.1021545532892847,international finance corporation,Iceland
-2023,IFC,0.17099999999999999,0.09138032383904235,international finance corporation,Iceland
-2022,NDF,0.0541,0.03108302212008044,nordic development fund,Iceland
-2023,NDF,0.0939,0.050179019932667115,nordic development fund,Iceland
-2022,UN,0.0007,0.00040218328066647516,united nations,Iceland
-2023,UN,0.002,0.0010687757174157,united nations,Iceland
-2019,UNDP,0.0002,0.00031685678073510777,united nations development programme,Iceland
-2020,UNDP,0.0002,0.00023832221163012397,united nations development programme,Iceland
-2021,UNDP,0.00030000000000000003,0.0002619401030297739,united nations development programme,Iceland
-2022,UNDP,0.0038,0.002183280666475151,united nations development programme,Iceland
-2023,UNDP,0.0035999999999999995,0.00192379629134826,united nations development programme,Iceland
-2019,WFP,0.0002,0.00031685678073510777,world food programme,Iceland
-2020,WHO-CVCA,0.0001,0.00011916110581506199,world health organisation core voluntary contributions account,Iceland
-2019,,0.0001,0.00015842839036755388,united nations children’s fund,Iceland
-2020,,0.0003,0.00035748331744518593,united nations children’s fund,Iceland
-2021,,0.0004,0.00034925347070636516,united nations children’s fund,Iceland
-2022,,0.0018,0.0010341855788566503,united nations children’s fund,Iceland
-2023,,0.0034000000000000002,0.0018169187196066903,united nations children’s fund,Iceland
+Year,Multi_short,ODA,Share,Full Name,Donor
+2021,AF,0.16,0.02%,adaptation fund,Iceland
+2022,AF,0.13,0.02%,adaptation fund,Iceland
+2023,AF,0.32,0.04%,adaptation fund,Iceland
+2019,AIIB,0.0,0.0%,asian infrastructure investment bank,Iceland
+2019,FAO,0.05,0.01%,food and agricultural organisation,Iceland
+2020,FAO,0.06,0.01%,food and agricultural organisation,Iceland
+2021,FAO,0.05,0.01%,food and agricultural organisation,Iceland
+2022,FAO,0.06,0.01%,food and agricultural organisation,Iceland
+2023,FAO,0.07,0.01%,food and agricultural organisation,Iceland
+2019,GCF,0.03,0.0%,green climate fund,Iceland
+2020,GCF,0.1,0.02%,green climate fund,Iceland
+2021,GCF,0.21,0.03%,green climate fund,Iceland
+2022,GCF,0.23,0.03%,green climate fund,Iceland
+2023,GCF,0.24,0.03%,green climate fund,Iceland
+2020,IBRD,0.15,0.02%,international bank for reconstruction and development,Iceland
+2021,IBRD,0.08,0.01%,international bank for reconstruction and development,Iceland
+2022,IBRD,0.08,0.01%,international bank for reconstruction and development,Iceland
+2023,IBRD,0.08,0.01%,international bank for reconstruction and development,Iceland
+2019,IDA,0.5,0.06%,international development association,Iceland
+2020,IDA,0.44,0.07%,international development association,Iceland
+2021,IDA,0.44,0.07%,international development association,Iceland
+2022,IDA,0.71,0.1%,international development association,Iceland
+2023,IDA,0.41,0.05%,international development association,Iceland
+2022,IFC,0.18,0.02%,international finance corporation,Iceland
+2023,IFC,0.17,0.02%,international finance corporation,Iceland
+2022,NDF,0.03,0.0%,nordic development fund,Iceland
+2023,NDF,0.02,0.0%,nordic development fund,Iceland
+2022,UN,0.0,0.0%,united nations,Iceland
+2023,UN,0.0,0.0%,united nations,Iceland
+2019,UNDP,0.0,0.0%,united nations development programme,Iceland
+2020,UNDP,0.0,0.0%,united nations development programme,Iceland
+2021,UNDP,0.0,0.0%,united nations development programme,Iceland
+2022,UNDP,0.0,0.0%,united nations development programme,Iceland
+2023,UNDP,0.0,0.0%,united nations development programme,Iceland
+2019,WFP,0.0,0.0%,world food programme,Iceland
+2019,,0.0,0.0%,united nations children’s fund,Iceland
+2020,,0.0,0.0%,united nations children’s fund,Iceland
+2021,,0.0,0.0%,united nations children’s fund,Iceland
+2022,,0.0,0.0%,united nations children’s fund,Iceland
+2023,,0.0,0.0%,united nations children’s fund,Iceland

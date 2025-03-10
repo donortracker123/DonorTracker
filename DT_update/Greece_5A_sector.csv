@@ -1,47 +1,47 @@
-Year,Sector,Bilateral ODA for,share,donor
-2023,Refugees in donor countries,5019.7429785,87.6370914043291,Greece
-2023,Emergency Response,368.97872759999996,6.441808398444527,Greece
-2023,Education,166.72730449999997,2.9108056102964293,Greece
-2023,Donor administration costs,128.93049792,2.2509307507208463,Greece
-2023,Environmental protection,20.72564182,0.3618382403984124,Greece
-2023,Other social services,10.8129393,0.18877750391649106,Greece
-2023,Infrastructure,6.452149339999999,0.11264473178922174,Greece
-2023,Unspecified,4.65905922,0.0813401005729047,Greece
-2023,Health & populations,0.84562104,0.014763259532074434,Greece
-2022,Refugees in donor countries,7927.93960056,73.04151413198679,Greece
-2022,Health & populations,2198.7357707,20.257342759869765,Greece
-2022,Emergency Response,360.2721317199999,3.3192510697897593,Greece
-2022,Education,189.25331129999995,1.743624334734817,Greece
-2022,Donor administration costs,108.042529,0.9954149888139485,Greece
-2022,Other social services,36.25421052,0.3340164738204558,Greece
-2022,Reconstruction Relief & Rehabilitation,13.70236168,0.12624228926020306,Greece
-2022,Unspecified,6.304697699999999,0.05808629850307213,Greece
-2022,Government & civil society,6.2802672,0.05786121597206048,Greece
-2022,Environmental protection,4.5674177,0.04208042963113285,Greece
-2022,"Conflict, peace & security",2.32382916,0.021409850349827775,Greece
-2022,Energy,0.3425699,0.0031561572681855265,Greece
-2021,Refugees in donor countries,3798.09788902,49.06988051808951,Greece
-2021,Health & populations,3064.644983699999,39.593967184274824,Greece
-2021,Emergency Response,266.92329979999994,3.4485405093284087,Greece
-2021,Education,188.76155248,2.4387225124923337,Greece
-2021,Unspecified,184.32519084,2.381406523813062,Greece
-2021,Donor administration costs,142.14946143999998,1.836513247522263,Greece
-2021,Reconstruction Relief & Rehabilitation,65.12834701999999,0.8414317640024476,Greece
-2021,Food aid and commodity assistance,12.288324339999999,0.15876015435897997,Greece
-2021,Other social services,11.99342106,0.15495012388140147,Greece
-2021,Other multisector,5.03822058,0.06509176148384357,Greece
-2021,Environmental protection,0.83096274,0.010735700752911682,Greece
-2020,Refugees in donor countries,8833.27855476,94.66093424970273,Greece
-2020,Emergency Response,463.23659128,4.964227974627017,Greece
-2020,Unspecified,14.71660746,0.15770903210100284,Greece
-2020,Donor administration costs,13.62993882,0.14606385777025302,Greece
-2020,Health & populations,3.76316564,0.04032758312900946,Greece
-2020,Education,2.8682492799999992,0.0307373026699727,Greece
-2019,Refugees in donor countries,14928.037476239997,94.16589405246285,Greece
-2019,Emergency Response,476.4242837599999,3.0052790730174737,Greece
-2019,Other multisector,228.50324402000004,1.4413959169970574,Greece
-2019,Education,198.43689912000005,1.2517377484062775,Greece
-2019,Unspecified,11.882669459999999,0.0749557465414824,Greece
-2019,Other social services,9.20465234,0.05806284439048118,Greece
-2019,Health & populations,0.33562078,0.0021170921403156347,Greece
-2019,Infrastructure,0.08838412000000001,0.0005575260440688862,Greece
+Year,Sector,Bilateral ODA for,Share,Donor
+2023,Refugees in donor countries,50.2,87.64%,Greece
+2023,Emergency Response,3.69,6.44%,Greece
+2023,Education,1.67,2.91%,Greece
+2023,Donor administration costs,1.29,2.25%,Greece
+2023,Environmental protection,0.21,0.36%,Greece
+2023,Other social services,0.11,0.19%,Greece
+2023,Infrastructure,0.06,0.11%,Greece
+2023,Unspecified,0.05,0.08%,Greece
+2023,Health & populations,0.01,0.01%,Greece
+2022,Refugees in donor countries,79.28,73.04%,Greece
+2022,Health & populations,21.99,20.26%,Greece
+2022,Emergency Response,3.6,3.32%,Greece
+2022,Education,1.89,1.74%,Greece
+2022,Donor administration costs,1.08,1.0%,Greece
+2022,Other social services,0.36,0.33%,Greece
+2022,Reconstruction Relief & Rehabilitation,0.14,0.13%,Greece
+2022,Government & civil society,0.06,0.06%,Greece
+2022,Unspecified,0.06,0.06%,Greece
+2022,Environmental protection,0.05,0.04%,Greece
+2022,"Conflict, peace & security",0.02,0.02%,Greece
+2022,Energy,0.0,0.0%,Greece
+2021,Refugees in donor countries,37.98,49.07%,Greece
+2021,Health & populations,30.65,39.59%,Greece
+2021,Emergency Response,2.67,3.45%,Greece
+2021,Education,1.89,2.44%,Greece
+2021,Unspecified,1.84,2.38%,Greece
+2021,Donor administration costs,1.42,1.84%,Greece
+2021,Reconstruction Relief & Rehabilitation,0.65,0.84%,Greece
+2021,Food aid and commodity assistance,0.12,0.16%,Greece
+2021,Other social services,0.12,0.15%,Greece
+2021,Other multisector,0.05,0.07%,Greece
+2021,Environmental protection,0.01,0.01%,Greece
+2020,Refugees in donor countries,88.33,94.66%,Greece
+2020,Emergency Response,4.63,4.96%,Greece
+2020,Unspecified,0.15,0.16%,Greece
+2020,Donor administration costs,0.14,0.15%,Greece
+2020,Health & populations,0.04,0.04%,Greece
+2020,Education,0.03,0.03%,Greece
+2019,Refugees in donor countries,149.28,94.17%,Greece
+2019,Emergency Response,4.76,3.01%,Greece
+2019,Other multisector,2.29,1.44%,Greece
+2019,Education,1.98,1.25%,Greece
+2019,Unspecified,0.12,0.07%,Greece
+2019,Other social services,0.09,0.06%,Greece
+2019,Infrastructure,0.0,0.0%,Greece
+2019,Health & populations,0.0,0.0%,Greece

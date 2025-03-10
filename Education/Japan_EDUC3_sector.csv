@@ -1,65 +1,70 @@
-year,Sector,Bilateral ODA for,share,donor
-2023,Higher education,276.4065024486002,49.04964835317684,Japan
-2023,Education policy and administrative management,87.50475125540007,15.528134252585922,Japan
-2023,Primary education,83.7111500154,14.854941671493222,Japan
-2023,Education facilities and training,80.0738375558,14.209483277737869,Japan
-2023,Vocational training,14.520770235399997,2.576779734029929,Japan
-2023,School feeding,5.223327657,0.9269043330734081,Japan
-2023,Teacher training,4.1066067452,0.7287368965362927,Japan
-2023,Early childhood education,3.7013772854000004,0.6568270017637053,Japan
-2023,Basic life skills for adults,3.4173722748,0.6064289620031872,Japan
-2023,Basic life skills for youth,2.3208944885999996,0.41185376437309174,Japan
-2023,Upper Secondary Education (modified and includes data from 11322),1.7336502061999999,0.30764447373062576,Japan
-2023,Primary education equivalent for adults,0.774303427,0.13740382544029428,Japan
-2023,Advanced technical and managerial training,0.029379060799999995,0.005213454055606281,Japan
-2022,Higher education,279.33555046679965,48.955000813014614,Japan
-2022,Primary education,137.6621363467997,24.126001812217954,Japan
-2022,Education facilities and training,65.98102721159994,11.563516478262681,Japan
-2022,Education policy and administrative management,58.098457894000056,10.182055412147463,Japan
-2022,Vocational training,14.975321739600009,2.6245026338830018,Japan
-2022,Upper Secondary Education (modified and includes data from 11322),4.5429163932,0.7961696080248708,Japan
-2022,School feeding,3.6516873249999993,0.6399771016095482,Japan
-2022,Early childhood education,3.399912724199999,0.5958522998567352,Japan
-2022,Teacher training,2.6138989182000003,0.4580993126430861,Japan
-2022,Basic life skills for adults,0.12703752199999999,0.022263983164336015,Japan
-2022,Basic life skills for youth,0.1116750926,0.019571637909641105,Japan
-2022,Advanced technical and managerial training,0.0969381204,0.016988907266059377,Japan
-2021,Higher education,222.0703148425995,49.25422803957469,Japan
-2021,Education policy and administrative management,75.92893850059988,16.840707657671967,Japan
-2021,Education facilities and training,65.94524157140005,14.626367188179909,Japan
-2021,Primary education,44.77718579759995,9.93138466889912,Japan
-2021,Vocational training,21.962908277599993,4.871277340620309,Japan
-2021,School feeding,7.443083973599999,1.6508435880466137,Japan
-2021,Early childhood education,3.5405563608,0.7852799709200816,Japan
-2021,Upper Secondary Education (modified and includes data from 11322),3.3884899005999993,0.7515522927602587,Japan
-2021,Teacher training,3.2953935978000004,0.7309039385171331,Japan
-2021,Advanced technical and managerial training,1.8468327862,0.40961946339803323,Japan
-2021,Basic life skills for youth,0.5559249488000001,0.12330173089767467,Japan
-2021,Basic life skills for adults,0.1106158818,0.024534120514205254,Japan
-2020,Higher education,230.9989874686,46.298741536575506,Japan
-2020,Education policy and administrative management,100.20669776239994,20.084261194286576,Japan
-2020,Education facilities and training,59.67245288839997,11.960050143116122,Japan
-2020,Primary education,49.206087926999984,9.862294081561101,Japan
-2020,Vocational training,34.2603369518,6.866742157053788,Japan
-2020,School feeding,8.1508914246,1.6336695649436226,Japan
-2020,Upper Secondary Education (modified and includes data from 11322),7.9151502158,1.5864203479000427,Japan
-2020,Teacher training,4.412661542599999,0.8844223885483256,Japan
-2020,Early childhood education,2.9223461377999995,0.5857209592003233,Japan
-2020,Advanced technical and managerial training,0.816032847,0.16355610162033515,Japan
-2020,Basic life skills for youth,0.29150468779999994,0.05842579807405824,Japan
-2020,Basic life skills for adults,0.05625242,0.011274578659098722,Japan
-2020,Primary education equivalent for adults,0.0220585006,0.004421148461105786,Japan
-2019,Higher education,279.3783797619999,48.003165542040094,Japan
-2019,Education policy and administrative management,83.11090958439992,14.280227247821294,Japan
-2019,Education facilities and training,79.53593661819998,13.66597062835415,Japan
-2019,Primary education,74.59371324459998,12.816791221734478,Japan
-2019,Vocational training,38.18114224419994,6.560334744921458,Japan
-2019,Upper Secondary Education (modified and includes data from 11322),10.995586954200002,1.88927640443762,Japan
-2019,Primary education equivalent for adults,5.766250647999999,0.9907648710993386,Japan
-2019,Teacher training,5.2689337498000075,0.9053152188696811,Japan
-2019,School feeding,2.0422494332,0.3509020193457771,Japan
-2019,Early childhood education,1.8980031244000002,0.3261174263287607,Japan
-2019,Basic life skills for adults,0.9127511859999999,0.15683012521433123,Japan
-2019,Basic life skills for youth,0.12027174039999998,0.020665250723297925,Japan
-2019,Educational research,0.09964811219999999,0.017121671440586576,Japan
-2019,Advanced technical and managerial training,0.09613257799999998,0.016517627669142748,Japan
+year,Sub-Sector,Bilateral ODA for,Share,Donor
+2023,Higher education,276.41,48.6%,Japan
+2023,Education policy and administrative management,87.5,15.4%,Japan
+2023,Primary education,83.71,14.7%,Japan
+2023,Education facilities and training,80.07,14.1%,Japan
+2023,Vocational training,14.52,2.6%,Japan
+2023,Lower secondary education,5.58,1.0%,Japan
+2023,School feeding,5.22,0.9%,Japan
+2023,Teacher training,4.11,0.7%,Japan
+2023,Early childhood education,3.7,0.7%,Japan
+2023,Basic life skills for adults,3.42,0.6%,Japan
+2023,Basic life skills for youth,2.32,0.4%,Japan
+2023,Upper Secondary Education (modified and includes data from 11322),1.73,0.3%,Japan
+2023,Primary education equivalent for adults,0.77,0.1%,Japan
+2023,Advanced technical and managerial training,0.03,0.0%,Japan
+2022,Higher education,279.34,47.7%,Japan
+2022,Primary education,137.66,23.5%,Japan
+2022,Education facilities and training,65.98,11.3%,Japan
+2022,Education policy and administrative management,58.1,9.9%,Japan
+2022,Vocational training,14.98,2.6%,Japan
+2022,Lower secondary education,14.83,2.5%,Japan
+2022,Upper Secondary Education (modified and includes data from 11322),4.54,0.8%,Japan
+2022,School feeding,3.65,0.6%,Japan
+2022,Early childhood education,3.4,0.6%,Japan
+2022,Teacher training,2.61,0.4%,Japan
+2022,Basic life skills for adults,0.13,0.0%,Japan
+2022,Basic life skills for youth,0.11,0.0%,Japan
+2022,Advanced technical and managerial training,0.1,0.0%,Japan
+2021,Higher education,222.07,47.9%,Japan
+2021,Education policy and administrative management,75.93,16.4%,Japan
+2021,Education facilities and training,65.95,14.2%,Japan
+2021,Primary education,44.78,9.7%,Japan
+2021,Vocational training,21.96,4.7%,Japan
+2021,Lower secondary education,12.46,2.7%,Japan
+2021,School feeding,7.44,1.6%,Japan
+2021,Early childhood education,3.54,0.8%,Japan
+2021,Upper Secondary Education (modified and includes data from 11322),3.39,0.7%,Japan
+2021,Teacher training,3.3,0.7%,Japan
+2021,Advanced technical and managerial training,1.85,0.4%,Japan
+2021,Basic life skills for youth,0.56,0.1%,Japan
+2021,Basic life skills for adults,0.11,0.0%,Japan
+2020,Higher education,231.0,46.1%,Japan
+2020,Education policy and administrative management,100.21,20.0%,Japan
+2020,Education facilities and training,59.67,11.9%,Japan
+2020,Primary education,49.21,9.8%,Japan
+2020,Vocational training,34.26,6.8%,Japan
+2020,School feeding,8.15,1.6%,Japan
+2020,Upper Secondary Education (modified and includes data from 11322),7.92,1.6%,Japan
+2020,Teacher training,4.41,0.9%,Japan
+2020,Early childhood education,2.92,0.6%,Japan
+2020,Lower secondary education,2.42,0.5%,Japan
+2020,Advanced technical and managerial training,0.82,0.2%,Japan
+2020,Basic life skills for youth,0.29,0.1%,Japan
+2020,Basic life skills for adults,0.06,0.0%,Japan
+2020,Primary education equivalent for adults,0.02,0.0%,Japan
+2019,Higher education,279.38,47.7%,Japan
+2019,Education policy and administrative management,83.11,14.2%,Japan
+2019,Education facilities and training,79.54,13.6%,Japan
+2019,Primary education,74.59,12.7%,Japan
+2019,Vocational training,38.18,6.5%,Japan
+2019,Upper Secondary Education (modified and includes data from 11322),11.0,1.9%,Japan
+2019,Primary education equivalent for adults,5.77,1.0%,Japan
+2019,Teacher training,5.27,0.9%,Japan
+2019,Lower secondary education,3.4,0.6%,Japan
+2019,School feeding,2.04,0.3%,Japan
+2019,Early childhood education,1.9,0.3%,Japan
+2019,Basic life skills for adults,0.91,0.2%,Japan
+2019,Basic life skills for youth,0.12,0.0%,Japan
+2019,Advanced technical and managerial training,0.1,0.0%,Japan
+2019,Educational research,0.1,0.0%,Japan

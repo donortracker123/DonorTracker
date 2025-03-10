@@ -1,35 +1,35 @@
-year,Sector,Bilateral ODA for,share,donor
-2023,Medical education/training,0.33630399839999997,55.14181503439246,Estonia
-2023,Promotion of mental health and well-being,0.149228112,24.468067548957226,Estonia
-2023,Health education,0.048661584,7.978757543694289,Estonia
-2023,Medical research,0.048661584,7.978757543694289,Estonia
-2023,Reproductive health care,0.0270339648,4.432602329261741,Estonia
-2022,Reproductive health care,0.0811533408,67.64678462886656,Estonia
-2022,Medical research,0.0235233072,19.60826356907128,Estonia
-2022,Population policy and administrative management,0.009409099200000002,7.843118975257771,Estonia
-2022,Medical services,0.0058805472,4.901832826804393,Estonia
-2021,COVID-19 control,3.4320430272,86.41212509296034,Estonia
-2021,Reproductive health care,0.1967410992,4.953555750979868,Estonia
-2021,Infectious disease control,0.11886467040000001,2.9927797193492887,Estonia
-2021,Population policy and administrative management,0.10246892640000001,2.5799669806127263,Estonia
-2021,Medical research,0.0546494976,1.375967371461349,Estonia
-2021,Health policy and administrative management,0.034155936,0.859979607163343,Estonia
-2021,Health personnel development,0.016395744,0.4128127387365622,Estonia
-2021,Basic health care,0.013662374399999998,0.34399184286533724,Estonia
-2021,Medical services,0.0013666848,0.03441044793561249,Estonia
-2021,Basic health infrastructure,0.0013666848,0.03441044793561249,Estonia
-2020,COVID-19 control,0.5474668655999999,51.98886959477041,Estonia
-2020,Personnel development for population and reproductive health,0.16467321599999998,15.637794522948493,Estonia
-2020,Health personnel development,0.1560078528,14.814909220287502,Estonia
-2020,Infectious disease control,0.1011156624,9.602204839814565,Estonia
-2020,Medical services,0.0534472176,5.075486025924922,Estonia
-2020,Basic health infrastructure,0.015890227200000002,1.5089770754010612,Estonia
-2020,Reproductive health care,0.0086664816,0.8229915088177662,Estonia
-2020,Basic health care,0.0043338000000000005,0.4115488574872686,Estonia
-2020,"NCDs control, general",0.0014449728,0.13721835454801315,Estonia
-2019,Health policy and administrative management,0.2299564608,40.04970860473089,Estonia
-2019,Infectious disease control,0.1214056752,21.14427182347991,Estonia
-2019,Basic health care,0.0842703216,14.67669928631533,Estonia
-2019,Medical education/training,0.05141844,8.955145385981861,Estonia
-2019,Health personnel development,0.04427745600000001,7.711456353040173,Estonia
-2019,Medical research,0.042849259199999996,7.462718546451834,Estonia
+year,Sub-Sector,Bilateral ODA for,Share,Donor
+2023,Medical education/training,0.34,55.1%,Estonia
+2023,Promotion of mental health and well-being,0.15,24.5%,Estonia
+2023,Health education,0.05,8.0%,Estonia
+2023,Medical research,0.05,8.0%,Estonia
+2023,Reproductive health care,0.03,4.4%,Estonia
+2022,Reproductive health care,0.08,67.6%,Estonia
+2022,Medical research,0.02,19.6%,Estonia
+2022,Population policy and administrative management,0.01,7.8%,Estonia
+2022,Medical services,0.01,4.9%,Estonia
+2021,COVID-19 control,3.43,86.4%,Estonia
+2021,Reproductive health care,0.2,5.0%,Estonia
+2021,Infectious disease control,0.12,3.0%,Estonia
+2021,Population policy and administrative management,0.1,2.6%,Estonia
+2021,Medical research,0.05,1.4%,Estonia
+2021,Health policy and administrative management,0.03,0.9%,Estonia
+2021,Health personnel development,0.02,0.4%,Estonia
+2021,Basic health care,0.01,0.3%,Estonia
+2021,Medical services,0.0,0.0%,Estonia
+2021,Basic health infrastructure,0.0,0.0%,Estonia
+2020,COVID-19 control,0.55,52.0%,Estonia
+2020,Health personnel development,0.16,14.8%,Estonia
+2020,Personnel development for population and reproductive health,0.16,15.6%,Estonia
+2020,Infectious disease control,0.1,9.6%,Estonia
+2020,Medical services,0.05,5.1%,Estonia
+2020,Basic health infrastructure,0.02,1.5%,Estonia
+2020,Reproductive health care,0.01,0.8%,Estonia
+2020,Basic health care,0.0,0.4%,Estonia
+2020,"NCDs control, general",0.0,0.1%,Estonia
+2019,Health policy and administrative management,0.23,40.0%,Estonia
+2019,Infectious disease control,0.12,21.1%,Estonia
+2019,Basic health care,0.08,14.7%,Estonia
+2019,Medical education/training,0.05,9.0%,Estonia
+2019,Health personnel development,0.04,7.7%,Estonia
+2019,Medical research,0.04,7.5%,Estonia

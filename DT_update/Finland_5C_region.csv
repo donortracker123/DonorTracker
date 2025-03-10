@@ -1,65 +1,46 @@
-year,Region,Bilateral ODA,share,donor
-2023,Regional and Unspecified,45695.19133135001,48.5%,Finland
-2023,South of Sahara,14996.283304970004,15.9%,Finland
-2023,Africa,9318.373777679999,9.9%,Finland
-2023,Europe,8526.334708540006,9.1%,Finland
-2023,South & Central Asia,8191.224226349996,8.7%,Finland
-2023,Middle East,4671.093275199998,5.0%,Finland
-2023,Far East Asia,1099.1000962699998,1.2%,Finland
-2023,Asia,631.13444779,0.7%,Finland
-2023,North of Sahara,630.87942148,0.7%,Finland
-2023,South America,236.70966055000002,0.3%,Finland
-2023,Caribbean & Central America,122.00961629999999,0.1%,Finland
-2023,Oceania,6.64046383,0.0%,Finland
-2023,America,0.0,0.0%,Finland
-2022,Regional and Unspecified,62612.2847641499,56.2%,Finland
-2022,South of Sahara,16205.513713619994,14.5%,Finland
-2022,Europe,7463.481663989997,6.7%,Finland
-2022,South & Central Asia,7457.486127629997,6.7%,Finland
-2022,America,5650.9621770799995,5.1%,Finland
-2022,Africa,4461.67304187,4.0%,Finland
-2022,Middle East,3678.68316167,3.3%,Finland
-2022,Asia,1331.7123555999997,1.2%,Finland
-2022,Far East Asia,1181.6135203399995,1.1%,Finland
-2022,Caribbean & Central America,719.51799073,0.6%,Finland
-2022,North of Sahara,414.53468110999995,0.4%,Finland
-2022,South America,223.97134892000003,0.2%,Finland
+year,Region,Bilateral ODA,Share,Donor
+2023,"Developing countries, unspecified",456.95,48.5%,Finland
+2023,sub-Saharan Africa,149.96,15.9%,Finland
+2023,"Africa, regional",93.18,9.9%,Finland
+2023,Asia,92.9,9.9%,Finland
+2023,Europe,85.26,9.1%,Finland
+2023,MENA region,53.02,5.6%,Finland
+2023,"Asia, regional",6.31,0.7%,Finland
+2023,Latin America and the Caribbeans,3.59,0.4%,Finland
+2023,Oceania,0.07,0.0%,Finland
+2022,"Developing countries, unspecified",626.12,56.2%,Finland
+2022,sub-Saharan Africa,162.06,14.5%,Finland
+2022,Asia,86.39,7.8%,Finland
+2022,Europe,74.63,6.7%,Finland
+2022,Latin America and the Caribbeans,65.94,5.9%,Finland
+2022,"Africa, regional",44.62,4.0%,Finland
+2022,MENA region,40.93,3.7%,Finland
+2022,"Asia, regional",13.32,1.2%,Finland
 2022,Oceania,0.0,0.0%,Finland
-2021,Regional and Unspecified,28775.162892849992,40.6%,Finland
-2021,South of Sahara,16581.239903029968,23.4%,Finland
-2021,South & Central Asia,8413.6038371,11.9%,Finland
-2021,North of Sahara,5159.785802820001,7.3%,Finland
-2021,Middle East,4418.10599351,6.2%,Finland
-2021,Africa,3619.9721931999998,5.1%,Finland
-2021,Europe,1848.2440194899996,2.6%,Finland
-2021,Far East Asia,1160.6365585099995,1.6%,Finland
-2021,Asia,398.13873549999994,0.6%,Finland
-2021,Caribbean & Central America,294.27854533,0.4%,Finland
-2021,South America,237.71880384999992,0.3%,Finland
-2021,Oceania,1.32768438,0.0%,Finland
-2021,America,0.0,0.0%,Finland
-2020,Regional and Unspecified,22987.138636330008,32.8%,Finland
-2020,South of Sahara,16222.341473690005,23.1%,Finland
-2020,Africa,9440.55663562,13.5%,Finland
-2020,South & Central Asia,8996.421599880001,12.8%,Finland
-2020,Middle East,5389.492288289998,7.7%,Finland
-2020,Asia,3074.4137420700004,4.4%,Finland
-2020,Europe,1939.8605824400004,2.8%,Finland
-2020,Far East Asia,996.4803248400001,1.4%,Finland
-2020,North of Sahara,446.54032180999997,0.6%,Finland
-2020,South America,367.8181169300001,0.5%,Finland
-2020,Caribbean & Central America,284.67180203,0.4%,Finland
+2021,"Developing countries, unspecified",287.75,40.6%,Finland
+2021,sub-Saharan Africa,165.81,23.4%,Finland
+2021,MENA region,95.78,13.5%,Finland
+2021,Asia,95.74,13.5%,Finland
+2021,"Africa, regional",36.2,5.1%,Finland
+2021,Europe,18.48,2.6%,Finland
+2021,Latin America and the Caribbeans,5.32,0.8%,Finland
+2021,"Asia, regional",3.98,0.6%,Finland
+2021,Oceania,0.01,0.0%,Finland
+2020,"Developing countries, unspecified",229.87,32.8%,Finland
+2020,sub-Saharan Africa,162.22,23.1%,Finland
+2020,Asia,99.93,14.2%,Finland
+2020,"Africa, regional",94.41,13.5%,Finland
+2020,MENA region,58.36,8.3%,Finland
+2020,"Asia, regional",30.74,4.4%,Finland
+2020,Europe,19.4,2.8%,Finland
+2020,Latin America and the Caribbeans,6.52,0.9%,Finland
 2020,Oceania,0.0,0.0%,Finland
-2019,Regional and Unspecified,29760.602609649995,44.6%,Finland
-2019,South of Sahara,15403.515721990001,23.1%,Finland
-2019,South & Central Asia,7297.200963359991,10.9%,Finland
-2019,Middle East,4501.57568564,6.7%,Finland
-2019,Africa,3572.5412759299998,5.3%,Finland
-2019,Europe,3237.8140317599987,4.8%,Finland
-2019,Far East Asia,1305.1881147799998,2.0%,Finland
-2019,Asia,636.7212757400001,1.0%,Finland
-2019,North of Sahara,421.8649948699999,0.6%,Finland
-2019,Caribbean & Central America,358.9287358799999,0.5%,Finland
-2019,South America,280.7554877599999,0.4%,Finland
-2019,Oceania,2.00012417,0.0%,Finland
-2019,America,0.0,0.0%,Finland
+2019,"Developing countries, unspecified",297.61,44.6%,Finland
+2019,sub-Saharan Africa,154.04,23.1%,Finland
+2019,Asia,86.02,12.9%,Finland
+2019,MENA region,49.23,7.4%,Finland
+2019,"Africa, regional",35.73,5.3%,Finland
+2019,Europe,32.38,4.8%,Finland
+2019,Latin America and the Caribbeans,6.4,1.0%,Finland
+2019,"Asia, regional",6.37,1.0%,Finland
+2019,Oceania,0.02,0.0%,Finland
