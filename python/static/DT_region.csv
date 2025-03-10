@@ -1,13 +1,18 @@
-CRS_region,DT_region
-"Developing Countries, Total","Developing Countries, Total"
-"Europe, Total",Europe
-"North of Sahara, Total",MENA region
-"South of Sahara, Total",sub-Saharan Africa
-"America, Total",Latin America and the Caribbeans
-"Far East Asia, Total",Asia
-"South & Central Asia, Total",Asia
-"Middle East, Total",MENA region
-"Oceania, Total",Oceania
-"Developing countries, unspecified","Developing countries, unspecified"
-"Asia, regional","Asia, regional"
+microdata_region,DT_region
+Far East Asia,Asia
+Europe,Europe
+North of Sahara,MENA region
+North & Central America,Latin America and the Caribbeans
+South & Central Asia,Asia
+Regional and Unspecified,"Developing countries, unspecified"
+South of Sahara,sub-Saharan Africa
+Oceania,Oceania
+Middle East,MENA region
+South America,Latin America and the Caribbeans
 "Africa, regional","Africa, regional"
+"Asia, regional","Asia, regional"
+"America, regional",Latin America and the Caribbeans
+Africa,"Africa, regional"
+America,Latin America and the Caribbeans
+Asia,"Asia, regional"
+Caribbean & Central America,Latin America and the Caribbeans
