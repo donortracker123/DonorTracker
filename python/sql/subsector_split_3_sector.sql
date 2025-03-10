@@ -30,7 +30,7 @@ transformed AS (
 SELECT 
     year,
     purpose_name AS "Sub-Sector",
-    sum(bilateral_oda) AS "Bilateral ODA for",
+    round(sum(bilateral_oda), 2) AS "Bilateral ODA for",
     round(sum(bilateral_oda) * 100 / sum(sum(bilateral_oda)) OVER (PARTITION BY donor_name, year), 1) || '%' AS "Share",
     donor_name AS donor,
 FROM transformed
