@@ -46,6 +46,8 @@ WITH base AS (
     GROUP BY donor, year
     ), 
 
+
+    --NOTE: For April, do not deflate (comment this CTE out)
     deflated AS (
         SELECT 
             f.year,

@@ -50,6 +50,7 @@ filtered AS (
     GROUP BY 1,2
 ), 
 
+--NOTE: In April, don't deflate
 deflated AS (
     SELECT 
         f.donor,

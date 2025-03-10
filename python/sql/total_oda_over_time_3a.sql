@@ -57,6 +57,7 @@ deflators AS (
     WHERE year = {{latest_year}}
 ), 
 
+--NOTE: in April, don't deflate
 deflated AS (
     SELECT 
         pd.donor,
