@@ -20,7 +20,7 @@ transformed AS (
         b.donor_name,
         b.year,
         b.purpose_name,
-        b.usd_disbursement_defl / 100 * dfl.deflator AS bilateral_oda
+        (b.usd_disbursement_defl * dfl.deflator) / 100 AS bilateral_oda
     FROM base b 
     LEFT JOIN "{{dt_sector_file}}" dsf ON dsf.sector_code = b.purpose_code
     LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor_name AND dfl.year = {{latest_year}}
@@ -29,10 +29,10 @@ transformed AS (
 
 SELECT 
     year,
-    purpose_name AS Sector,
-    sum(bilateral_oda) AS "Bilateral ODA for",
-    sum(bilateral_oda) * 100 / sum(sum(bilateral_oda)) OVER (PARTITION BY donor_name, year) AS share,
+    purpose_name AS "Sub-Sector",
+    round(sum(bilateral_oda), 2) AS "Bilateral ODA for",
+    round(sum(bilateral_oda) * 100 / sum(sum(bilateral_oda)) OVER (PARTITION BY donor_name, year), 1) || '%' AS "Share",
     donor_name AS donor,
 FROM transformed
 GROUP BY year, purpose_name, donor_name
-ORDER BY year DESC, share DESC
+ORDER BY donor, year DESC, "Bilateral ODA for" DESC

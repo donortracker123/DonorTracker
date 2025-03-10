@@ -3,13 +3,12 @@ WITH base AS (
         crs.donor_name,
         crs.year,
         crs.channel_name,
+        crs.parent_channel_code,
         crs.usd_disbursement_defl,
         crs.purpose_code,
         purpose_name,
         crs.sector_code,
-        coalesce(dcf."DT_channel_name", 'None') AS channel_name_mapped
     FROM "{{crs_file}}" crs
-    LEFT JOIN "{{dt_channels_file}}" dcf ON dcf."CRS_channel_name" = crs.channel_name
     WHERE year BETWEEN ({{latest_year}} - 4) AND ({{latest_year}})
     AND donor_name IN {{dac_countries}}
     AND flow_name IN (
@@ -23,16 +22,18 @@ transformed AS (
         year,
         sum(
             CASE
-                WHEN channel_name_mapped = 'Multilateral Organisations' THEN usd_disbursement_defl
+                WHEN parent_channel_code IN ('40000', '41000', '41100', '41300', '41400', '41500', '41600', '42000', '43000', '44000', '45000', '46000', '47000') THEN usd_disbursement_defl
                 ELSE 0
             END
         ) AS earmarked,
+        sum(usd_disbursement_defl) 
+        - 
         sum(
             CASE
-                WHEN channel_name_mapped != 'Multilateral Organisations' THEN usd_disbursement_defl
+                WHEN parent_channel_code IN ('40000', '41000', '41100', '41300', '41400', '41500', '41600', '42000', '43000', '44000', '45000', '46000', '47000') THEN usd_disbursement_defl
                 ELSE 0
             END
-        ) AS bilateral
+        )AS bilateral 
     FROM base b
     LEFT JOIN "{{dt_sector_file}}" dsf ON dsf.sector_code = b.purpose_code
     WHERE dsf.sector_renamed = '{{sector}}'
@@ -70,13 +71,13 @@ dac1_totals AS (
 
 SELECT 
     t.year,
-    (t.earmarked + t.bilateral + oct.sector_multilateral_oda) * 100 / d1t.total_oda AS "ODA to {{sector}} as % of Total ODA",
-    (t.bilateral * 100) / dfl.deflator AS "Bilateral funding",
-    (t.earmarked * 100) / dfl.deflator AS "Bilateral as earmarked funding through multilaterals",
-    oct.sector_multilateral_oda AS "Multilateral as core contributions to organizations",
-    t.earmarked * 100 / (t.earmarked + t.bilateral + oct.sector_multilateral_oda) AS "Earmarked",
-    t.bilateral * 100 / (t.earmarked + t.bilateral + oct.sector_multilateral_oda) AS "Bilateral",
-    oct.sector_multilateral_oda * 100 / (t.earmarked + t.bilateral + oct.sector_multilateral_oda) AS "Multilateral",
+    round((t.earmarked + t.bilateral + oct.sector_multilateral_oda) * 100 / d1t.total_oda, 2) AS "ODA to {{sector}} as % of Total ODA",
+    round((t.bilateral * dfl.deflator) / 100, 2) AS "Bilateral funding",
+    round((t.earmarked * dfl.deflator) / 100, 2) AS "Bilateral as earmarked funding through multilaterals",
+    round(oct.sector_multilateral_oda, 2) AS "Multilateral as core contributions to organizations",
+    round(t.earmarked * 100 / (t.earmarked + t.bilateral + oct.sector_multilateral_oda), 2) AS "Earmarked",
+    round(t.bilateral * 100 / (t.earmarked + t.bilateral + oct.sector_multilateral_oda), 2) AS "Bilateral",
+    round(oct.sector_multilateral_oda * 100 / (t.earmarked + t.bilateral + oct.sector_multilateral_oda), 2) AS "Multilateral",
     t.donor_name AS donor,
 FROM transformed t 
 LEFT JOIN one_campaign_totals oct USING(donor_name, year)

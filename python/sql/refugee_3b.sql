@@ -44,13 +44,26 @@ WITH base AS (
         ) AS "In-donor Refugee Costs"
     FROM base
     GROUP BY donor, year
+    ), 
 
+
+    --NOTE: For April, do not deflate (comment this CTE out)
+    deflated AS (
+        SELECT 
+            f.year,
+            round("ODA for Development Priorities" *  dfl.deflator / 100, 2) AS "ODA for Development Priorities",
+            round("Contributions to EUI" * dfl.deflator / 100, 2) AS "Contributions to EUI",
+            round("In-donor Refugee Costs" * dfl.deflator / 100, 2) AS "In-donor Refugee Costs",
+            f.donor
+        FROM filtered f
+        LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = f.donor AND dfl.year = {{latest_year}}
     )
+
     SELECT
         year AS "Year",
         "ODA for Development Priorities",
         "Contributions to EUI",
         "In-donor Refugee Costs",
         donor,
-    FROM filtered f
+    FROM deflated d
     ORDER BY donor, year

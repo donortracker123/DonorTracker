@@ -14,19 +14,21 @@ WITH base AS (
         AND "Donor_1" != 'EU Institutions'
     ), 
 
+    --NOTE: In April, don't deflate
     ranked AS (  
         SELECT
-            donor,
-            year,
-            value / 1000 AS "Total ODA", 
-            row_number() OVER (PARTITION BY year ORDER BY value DESC) AS rn
-        FROM base
+            b.donor,
+            b.year,
+            value * (dfl.deflator / 100) / 1000 AS "Total ODA", 
+            row_number() OVER (PARTITION BY b.year ORDER BY value DESC) AS rn
+        FROM base b
+        LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor AND dfl.year = {{latest_year}}
     )
 
     SELECT
         year AS "Year",
         donor AS "Donor",
-        round("Total ODA", 4) AS "Total ODA", 
+        round("Total ODA", 2) AS "Total ODA", 
         CASE 
             WHEN rn::TEXT LIKE '%1' AND rn != 11 THEN rn || 'st'
             WHEN rn::TEXT LIKE '%2' AND rn != 12 THEN rn || 'nd'

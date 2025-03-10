@@ -35,14 +35,14 @@ transformed AS (
 
 SELECT 
     t.donor_name AS donor,
-    (t.grants / t.total) AS "Grants",
-    (t.loans / t.total) AS "Loans/Equity Investment"
+    round(100*(t.grants / t.total), 2) AS "Grants",
+    round(100*(t.loans / t.total), 2) AS "Loans/Equity Investment"
 FROM transformed t
 
 UNION ALL 
 
 SELECT 
     'DAC Average',
-    sum(t.grants) / sum(t.total) AS "Grants",
-    sum(t.loans) / sum(t.total) AS "Loans/Equity Investment"
+    round(100*sum(t.grants) / sum(t.total), 2) AS "Grants",
+    round(100*sum(t.loans) / sum(t.total), 2) AS "Loans/Equity Investment"
 FROM transformed t

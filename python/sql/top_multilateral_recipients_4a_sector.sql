@@ -2,23 +2,43 @@ WITH one_campaign_totals AS (
     SELECT 
         imf.donor_name AS donor,
         imf.mapped_name,
-        --TODO: CASE statement for short names
+        dmf.abbreviation,
         imf.year,
         sum(coalesce(nullif(value, 'nan'), 0)) AS oda,
-        sum(coalesce(nullif(value, 'nan'), 0)) / sum(sum(coalesce(nullif(value, 'nan'), 0))) over (PARTITION BY donor_name, year) AS share
+        sum(sum(coalesce(nullif(value, 'nan'), 0))) OVER (PARTITION BY donor_name, year) AS total_multilateral_oda
     FROM "{{imputed_multilateral_file}}" imf
     LEFT JOIN "{{dt_sector_file}}" dsf ON dsf.sector_code = imf.purpose_code
+    LEFT JOIN "{{dt_multilaterals_file}}" dmf ON dmf.multilateral_name = imf.mapped_name
     WHERE imf.year BETWEEN ({{latest_year}} - 4) AND ({{latest_year}})
     AND dsf.sector_renamed = '{{sector}}'
-    GROUP BY 1,2,3
+    GROUP BY 1,2,3,4
+), 
+
+crs_totals AS (
+    SELECT
+        b.donor_name,
+        b.year,
+        sum((b.usd_disbursement_defl * dfl.deflator) / 100) AS total_bilateral_oda
+    FROM "{{crs_file}}" b
+    LEFT JOIN "{{dt_sector_file}}" dsf ON dsf.sector_code = b.purpose_code
+    LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor_name AND dfl.year = {{latest_year}}
+    WHERE b.year BETWEEN ({{latest_year}} - 4) AND ({{latest_year}})
+    AND donor_name IN {{dac_countries}}
+    AND flow_name IN (
+        'ODA Loans','Equity Investment','ODA Grants'
+    )
+    AND donor_name != 'EU Institutions'
+    AND dsf.sector_renamed = '{{sector}}'
+    GROUP BY 1,2
 )
 
 SELECT
-    year AS "Year",
-    --TODO: Add short names here
-    oda AS "ODA",
-    share AS "Share",
-    mapped_name AS "Full Name",
-    donor
-FROM one_campaign_totals
-ORDER BY donor, year
+    oct.year AS "Year",
+    oct.abbreviation AS "Multi_short",
+    round(oct.oda, 2) AS "ODA",
+    round((oct.oda) / (crt.total_bilateral_oda + oct.total_multilateral_oda), 2) || '%' AS "Share",
+    oct.mapped_name AS "Full Name",
+    oct.donor
+FROM one_campaign_totals oct
+LEFT JOIN crs_totals crt ON crt.donor_name = oct.donor AND crt.year = oct.year
+ORDER BY donor, "Multi_short", "Year"

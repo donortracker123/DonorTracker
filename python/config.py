@@ -1,5 +1,4 @@
 from pathlib import Path
-import pandas as pd
 
 static_dir = Path(__file__).parent / "static"
 data_dir = Path(__file__).parent /  "data"
@@ -9,6 +8,8 @@ deflator_file = static_dir / "deflator_file.csv"
 dt_sector_file = static_dir / "DT_sector_map.csv"
 dt_regions_file = static_dir / "DT_region.csv"
 dt_channels_file = static_dir / "DT_channel_map.csv"
+dt_multilaterals_file = static_dir / "DT_multilaterals.csv"
+dt_world_bank_income_file = static_dir / "DT_world_bank_income_groups.csv"
 
 # Define the path to the Parquet file
 CRS_FILE = data_dir / "CRS.parquet"
