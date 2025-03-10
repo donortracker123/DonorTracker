@@ -12,7 +12,6 @@ WITH base AS (
     AND flow_name IN (
         'ODA Loans','Equity Investment','ODA Grants'
     )
-    AND region_name IS NOT NULL 
     GROUP BY 1,2,3
 )
 

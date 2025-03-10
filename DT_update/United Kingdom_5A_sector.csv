@@ -11,7 +11,7 @@ Year,Sector,Bilateral ODA for,share,donor
 2023,"Agriculture (incl. forestry, fishing, rural development)",36911.31953133002,3.0437508193985794,United Kingdom
 2023,Energy,30949.936267850007,2.552168144399249,United Kingdom
 2023,"Conflict, peace & security",21466.936194480004,1.7701888055360768,United Kingdom
-2023,"Industry, construction & mining",17859.010217080006,1.4726749862124526,United Kingdom
+2023,"Industry, construction & mining",17859.010217080002,1.4726749862124526,United Kingdom
 2023,Financial services & business support,16160.29955897,1.3325973075167674,United Kingdom
 2023,Other social services,15469.967488910008,1.2756717131305049,United Kingdom
 2023,Disaster Prevention & Preparedness,9609.057280910005,0.7923741644508975,United Kingdom
@@ -67,48 +67,48 @@ Year,Sector,Bilateral ODA for,share,donor
 2021,Food aid and commodity assistance,2703.72461831,0.2657234772303384,United Kingdom
 2021,Tourism,69.92130434,0.00687190255837485,United Kingdom
 2021,Debt relief,0.0,0.0,United Kingdom
-2020,Health & populations,224344.6708627996,16.59416689421739,United Kingdom
-2020,Emergency Response,192274.01399816998,14.221987379668963,United Kingdom
-2020,Other multisector,127601.86334947031,9.438363783239492,United Kingdom
+2020,Health & populations,224344.6708627996,16.594166894217388,United Kingdom
+2020,Emergency Response,192274.01399816998,14.221987379668962,United Kingdom
+2020,Other multisector,127601.86334947031,9.43836378323949,United Kingdom
 2020,Donor administration costs,110152.61656070003,8.147690319601383,United Kingdom
-2020,Government & civil society,100927.84618519005,7.465359071957613,United Kingdom
-2020,Refugees in donor countries,87924.17092178001,6.503512477922855,United Kingdom
-2020,Financial services & business support,85643.92146915004,6.334848609813725,United Kingdom
-2020,Education,76838.01107810001,5.683499299296905,United Kingdom
-2020,"Industry, construction & mining",46807.71137932005,3.4622394709781896,United Kingdom
-2020,"Conflict, peace & security",45943.934447269996,3.398348233826497,United Kingdom
-2020,"Agriculture (incl. forestry, fishing, rural development)",38027.042674109965,2.812757219508989,United Kingdom
-2020,Other social services,36350.75327726,2.6887666388218876,United Kingdom
-2020,Environmental protection,34850.54105934995,2.5778000095500553,United Kingdom
-2020,Energy,30154.72775794999,2.230463434413971,United Kingdom
-2020,Debt relief,27223.34109391,2.013636712622521,United Kingdom
-2020,Infrastructure,16249.65987767,1.2019432730329094,United Kingdom
-2020,Disaster Prevention & Preparedness,15687.608774010001,1.1603698771445936,United Kingdom
-2020,Water and sanitation,15558.46223126999,1.150817257615915,United Kingdom
-2020,Unspecified,13034.584840909998,0.9641328916574798,United Kingdom
-2020,Trade policy,10588.866441240003,0.783229734277815,United Kingdom
-2020,Food aid and commodity assistance,9148.53562095,0.6766923695931226,United Kingdom
-2020,Reconstruction Relief & Rehabilitation,6462.691719979999,0.4780277800884807,United Kingdom
-2020,Tourism,153.40918191,0.01134726114923739,United Kingdom
-2019,Health & populations,215312.96933433972,13.831735873779362,United Kingdom
-2019,Emergency Response,203445.7068896098,13.06938124094979,United Kingdom
+2020,Government & civil society,100927.84618519005,7.465359071957611,United Kingdom
+2020,Refugees in donor countries,87924.17092178001,6.503512477922854,United Kingdom
+2020,Financial services & business support,85643.92146915004,6.334848609813723,United Kingdom
+2020,Education,76838.01107810001,5.683499299296904,United Kingdom
+2020,"Industry, construction & mining",46807.71137932005,3.4622394709781887,United Kingdom
+2020,"Conflict, peace & security",45943.934447269996,3.3983482338264963,United Kingdom
+2020,"Agriculture (incl. forestry, fishing, rural development)",38027.042674109965,2.8127572195089887,United Kingdom
+2020,Other social services,36350.75327726,2.688766638821887,United Kingdom
+2020,Environmental protection,34850.54105934995,2.577800009550055,United Kingdom
+2020,Energy,30154.72775794999,2.2304634344139704,United Kingdom
+2020,Debt relief,27223.34109391,2.0136367126225205,United Kingdom
+2020,Infrastructure,16249.65987767,1.2019432730329092,United Kingdom
+2020,Disaster Prevention & Preparedness,15687.608774010001,1.1603698771445934,United Kingdom
+2020,Water and sanitation,15558.46223126999,1.1508172576159148,United Kingdom
+2020,Unspecified,13034.584840909998,0.9641328916574796,United Kingdom
+2020,Trade policy,10588.866441240003,0.7832297342778148,United Kingdom
+2020,Food aid and commodity assistance,9148.53562095,0.6766923695931225,United Kingdom
+2020,Reconstruction Relief & Rehabilitation,6462.691719979999,0.4780277800884806,United Kingdom
+2020,Tourism,153.40918191,0.011347261149237389,United Kingdom
+2019,Health & populations,215312.96933433972,13.831735873779364,United Kingdom
+2019,Emergency Response,203445.7068896098,13.069381240949792,United Kingdom
 2019,Other multisector,154266.55377183994,9.910105427123295,United Kingdom
-2019,Financial services & business support,133979.91658758992,8.606888959637676,United Kingdom
-2019,Government & civil society,133133.4746552301,8.552513409121197,United Kingdom
-2019,Education,117263.01293348006,7.532992683505705,United Kingdom
-2019,Donor administration costs,112025.29421739018,7.196520885796158,United Kingdom
-2019,Refugees in donor countries,70256.31515909001,4.513275710932985,United Kingdom
-2019,"Industry, construction & mining",65092.08508576997,4.1815248341213165,United Kingdom
-2019,"Conflict, peace & security",61568.52575901994,3.9551708801822056,United Kingdom
-2019,Energy,56814.11298266998,3.649746725006123,United Kingdom
-2019,"Agriculture (incl. forestry, fishing, rural development)",54767.53712351997,3.518274399781442,United Kingdom
-2019,Environmental protection,50664.218398749974,3.254676619385685,United Kingdom
+2019,Financial services & business support,133979.91658758992,8.606888959637677,United Kingdom
+2019,Government & civil society,133133.4746552301,8.552513409121199,United Kingdom
+2019,Education,117263.01293348006,7.5329926835057055,United Kingdom
+2019,Donor administration costs,112025.29421739018,7.196520885796159,United Kingdom
+2019,Refugees in donor countries,70256.31515909001,4.5132757109329855,United Kingdom
+2019,"Industry, construction & mining",65092.08508576997,4.181524834121317,United Kingdom
+2019,"Conflict, peace & security",61568.52575901994,3.9551708801822065,United Kingdom
+2019,Energy,56814.11298266998,3.6497467250061235,United Kingdom
+2019,"Agriculture (incl. forestry, fishing, rural development)",54767.53712351997,3.518274399781443,United Kingdom
+2019,Environmental protection,50664.218398749974,3.2546766193856853,United Kingdom
 2019,Other social services,36618.838451990014,2.352399407422694,United Kingdom
-2019,Water and sanitation,26125.491312910013,1.6783052898767299,United Kingdom
-2019,Disaster Prevention & Preparedness,15117.845149349996,0.9711725296110896,United Kingdom
-2019,Trade policy,13362.589705439997,0.85841466943093,United Kingdom
-2019,Infrastructure,11251.840046729998,0.7228198101653374,United Kingdom
-2019,Food aid and commodity assistance,10450.81685848,0.671361966251429,United Kingdom
-2019,Reconstruction Relief & Rehabilitation,8013.6662799999995,0.5147990653245519,United Kingdom
-2019,Unspecified,7003.95309049,0.44993494595101347,United Kingdom
-2019,Tourism,124.29403654,0.007984666643269266,United Kingdom
+2019,Water and sanitation,26125.491312910013,1.67830528987673,United Kingdom
+2019,Disaster Prevention & Preparedness,15117.845149349996,0.9711725296110897,United Kingdom
+2019,Trade policy,13362.589705439997,0.8584146694309301,United Kingdom
+2019,Infrastructure,11251.840046729998,0.7228198101653375,United Kingdom
+2019,Food aid and commodity assistance,10450.81685848,0.6713619662514291,United Kingdom
+2019,Reconstruction Relief & Rehabilitation,8013.6662799999995,0.514799065324552,United Kingdom
+2019,Unspecified,7003.95309049,0.4499349459510135,United Kingdom
+2019,Tourism,124.29403654,0.007984666643269267,United Kingdom

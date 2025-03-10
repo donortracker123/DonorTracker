@@ -1,49 +1,49 @@
-Year,Multi_short,ODA,Share,Full Name,donor
-2020,CEB,0.0002,6.944685579360395e-05,council of europe development bank,Estonia
-2019,EC-DSB,2.1119999999999997,0.6723117081555993,european commission development share of budget,Estonia
-2020,EC-DSB,1.7639,0.61248654467169,european commission development share of budget,Estonia
-2021,EC-DSB,1.7493000000000003,0.6167324777887463,european commission development share of budget,Estonia
-2022,EC-DSB,2.3013,0.7310588011054989,european commission development share of budget,Estonia
-2023,EC-DSB,2.3565,0.7364522782673918,european commission development share of budget,Estonia
-2019,EC-EDF,0.7795000000000001,0.24813777296746675,european commission european development fund,Estonia
-2020,EC-EDF,0.7417,0.2575436647105802,european commission european development fund,Estonia
-2021,EC-EDF,0.5560000000000003,0.1960231279086166,european commission european development fund,Estonia
-2022,EC-EDF,0.2096,0.06658407192096319,european commission european development fund,Estonia
-2023,EC-EDF,0.08040000000000001,0.02512657041065067,european commission european development fund,Estonia
-2020,FAO,0.13440000000000005,0.04666828709330186,food and agricultural organisation,Estonia
-2021,FAO,0.1164,0.04103793541108446,food and agricultural organisation,Estonia
-2022,FAO,0.12320000000000002,0.039137202579497446,food and agricultural organisation,Estonia
-2023,FAO,0.11229999999999998,0.035095943496468524,food and agricultural organisation,Estonia
-2021,IBRD,0.1411,0.049746157100549984,international bank for reconstruction and development,Estonia
-2022,IBRD,0.07640000000000002,0.024270148352870176,international bank for reconstruction and development,Estonia
-2023,IBRD,0.0688,0.021501343833989627,international bank for reconstruction and development,Estonia
-2019,IDA,0.2496,0.07945502005475266,international development association,Estonia
-2020,IDA,0.23419999999999996,0.0813222681343102,international development association,Estonia
-2021,IDA,0.21139999999999995,0.07453109575518259,international development association,Estonia
-2022,IDA,0.1612,0.05120874233616062,international development association,Estonia
-2023,IDA,0.33930000000000005,0.10603787736733548,international development association,Estonia
-2022,IFC,0.2211,0.07023730105784809,international finance corporation,Estonia
-2023,IFC,0.1828,0.05712857053565848,international finance corporation,Estonia
-2022,UN,0.0006,0.0001906032593157343,united nations,Estonia
-2023,UN,0.0021,0.0006562910181886368,united nations,Estonia
-2020,UNCTAD,0.0048000000000000004,0.0016667245390464948,united nations conference on trade and development,Estonia
-2021,UNCTAD,0.0016,0.0005640953321111267,united nations conference on trade and development,Estonia
-2019,UNDP,0.00030000000000000003,9.549882218119311e-05,united nations development programme,Estonia
-2020,UNDP,0.00030000000000000003,0.00010417028369040592,united nations development programme,Estonia
-2021,UNDP,0.00030000000000000003,0.00010576787477083626,united nations development programme,Estonia
-2019,UNECE-EXB,0.0,0.0,united nations economic commission for europe extrabudgetary contributions only,Estonia
-2020,WHO-AC,0.0003,0.0001041702836904059,world health organisation assessed contributions,Estonia
-2022,WHO-AC,0.0011,0.00034943930874551293,world health organisation assessed contributions,Estonia
-2023,WHO-AC,0.0014,0.00043752734545909124,world health organisation assessed contributions,Estonia
-2020,WHO-CVCA,0.0,0.0,world health organisation core voluntary contributions account,Estonia
-2021,WHO-CVCA,0.0002,7.051191651389084e-05,world health organisation core voluntary contributions account,Estonia
-2022,WHO-CVCA,0.0003,9.530162965786715e-05,world health organisation core voluntary contributions account,Estonia
-2023,WHO-CVCA,0.0007,0.00021876367272954562,world health organisation core voluntary contributions account,Estonia
-2021,WOAH,0.0601,0.021188830912424194,world organisation for animal health,Estonia
-2022,WOAH,0.0529,0.016804854029670576,world organisation for animal health,Estonia
-2023,WOAH,0.0551,0.017219826239139948,world organisation for animal health,Estonia
-2019,,0.0,0.0,united nations children’s fund,Estonia
-2020,,0.0001,3.4723427896801975e-05,united nations children’s fund,Estonia
-2021,,0.0,0.0,united nations children’s fund,Estonia
-2022,,0.0002,6.353441977191144e-05,united nations children’s fund,Estonia
-2023,,0.00039999999999999996,0.00012500781298831177,united nations children’s fund,Estonia
+Year,ODA,Share,Full Name,donor
+2019,0.7795000000000001,0.24813777296746675,european commission european development fund,Estonia
+2019,0.2496,0.07945502005475266,international development association,Estonia
+2019,0.0,0.0,united nations children’s fund,Estonia
+2019,0.0,0.0,united nations economic commission for europe extrabudgetary contributions only,Estonia
+2019,0.00030000000000000003,9.549882218119311e-05,united nations development programme,Estonia
+2019,2.1119999999999997,0.6723117081555993,european commission development share of budget,Estonia
+2020,0.0,0.0,world health organisation core voluntary contributions account,Estonia
+2020,0.13440000000000005,0.04666828709330186,food and agricultural organisation,Estonia
+2020,0.23419999999999996,0.0813222681343102,international development association,Estonia
+2020,0.0003,0.0001041702836904059,world health organisation assessed contributions,Estonia
+2020,1.7639,0.61248654467169,european commission development share of budget,Estonia
+2020,0.7417,0.2575436647105802,european commission european development fund,Estonia
+2020,0.00030000000000000003,0.00010417028369040592,united nations development programme,Estonia
+2020,0.0002,6.944685579360395e-05,council of europe development bank,Estonia
+2020,0.0001,3.4723427896801975e-05,united nations children’s fund,Estonia
+2020,0.0048000000000000004,0.0016667245390464948,united nations conference on trade and development,Estonia
+2021,0.00030000000000000003,0.00010576787477083627,united nations development programme,Estonia
+2021,0.5560000000000003,0.19602312790861665,european commission european development fund,Estonia
+2021,0.21139999999999995,0.0745310957551826,international development association,Estonia
+2021,0.0002,7.051191651389084e-05,world health organisation core voluntary contributions account,Estonia
+2021,0.0,0.0,united nations children’s fund,Estonia
+2021,0.0016,0.0005640953321111267,united nations conference on trade and development,Estonia
+2021,1.7493000000000003,0.6167324777887464,european commission development share of budget,Estonia
+2021,0.0601,0.021188830912424197,world organisation for animal health,Estonia
+2021,0.1411,0.04974615710054999,international bank for reconstruction and development,Estonia
+2021,0.1164,0.04103793541108447,food and agricultural organisation,Estonia
+2022,0.1612,0.051208742336160615,international development association,Estonia
+2022,0.12320000000000002,0.039137202579497446,food and agricultural organisation,Estonia
+2022,2.3013,0.7310588011054988,european commission development share of budget,Estonia
+2022,0.0011,0.0003494393087455129,world health organisation assessed contributions,Estonia
+2022,0.0529,0.016804854029670573,world organisation for animal health,Estonia
+2022,0.2211,0.07023730105784808,international finance corporation,Estonia
+2022,0.0002,6.353441977191142e-05,united nations children’s fund,Estonia
+2022,0.0006,0.00019060325931573427,united nations,Estonia
+2022,0.0003,9.530162965786713e-05,world health organisation core voluntary contributions account,Estonia
+2022,0.07640000000000002,0.024270148352870172,international bank for reconstruction and development,Estonia
+2022,0.2096,0.06658407192096318,european commission european development fund,Estonia
+2023,0.0551,0.017219826239139945,world organisation for animal health,Estonia
+2023,0.11229999999999998,0.035095943496468524,food and agricultural organisation,Estonia
+2023,0.0007,0.0002187636727295456,world health organisation core voluntary contributions account,Estonia
+2023,0.0688,0.021501343833989623,international bank for reconstruction and development,Estonia
+2023,0.0021,0.0006562910181886367,united nations,Estonia
+2023,0.0014,0.0004375273454590912,world health organisation assessed contributions,Estonia
+2023,2.3565,0.7364522782673917,european commission development share of budget,Estonia
+2023,0.00039999999999999996,0.00012500781298831174,united nations children’s fund,Estonia
+2023,0.33930000000000005,0.10603787736733547,international development association,Estonia
+2023,0.1828,0.05712857053565847,international finance corporation,Estonia
+2023,0.08040000000000001,0.025126570410650667,european commission european development fund,Estonia

@@ -5,6 +5,7 @@ from pathlib import Path
 from jinja2 import Template
 from config import DAC_COUNTRIES, SECTOR_MAPPING, projection_file, deflator_file, dt_sector_file, dt_regions_file, dt_channels_file, dt_multilaterals_file, dt_world_bank_income_file
 
+
 pd.options.display.max_colwidth=100
 
 SQL_DIR = Path(__file__).parent / "sql"

@@ -1,70 +1,70 @@
-Year,Multi_short,ODA,Share,Full Name,donor
-2019,ADB,0.07529999999999999,0.0005827938813608121,asian development bank,Spain
-2022,ADB,0.21039999999999998,0.0016327189426437632,asian development bank,Spain
-2019,ADF,0.774,0.005990470971756555,african development fund,Spain
-2020,ADF,0.8344,0.006169895435652738,african development fund,Spain
-2021,ADF,1.1846,0.010191518997469758,african development fund,Spain
-2022,ADF,0.515,0.003996436575387539,african development fund,Spain
-2023,ADF,0.1387,0.0010537768059698316,african development fund,Spain
-2021,AF,0.0002,1.7206684108508794e-06,adaptation fund,Spain
-2023,AF,0.0036,2.7351092296260952e-05,adaptation fund,Spain
-2019,AfDB,0.1173,0.0009078581976576795,african development bank,Spain
-2020,AfDB,0.45959999999999995,0.003398470688190314,african development bank,Spain
-2021,AfDB,0.0384,0.0003303683348833688,african development bank,Spain
-2022,AfDB,0.0551,0.00042757991321136583,african development bank,Spain
-2023,AfDB,0.1806,0.001372113130195758,african development bank,Spain
-2021,CABEI,0.2109,0.0018144448392422522,central american bank for economic integration,Spain
-2022,CABEI,0.1253,0.0009723368988272983,central american bank for economic integration,Spain
-2023,CABEI,0.0794,0.000603243535645311,central american bank for economic integration,Spain
-2019,CEB,0.0004,3.0958506313987366e-06,council of europe development bank,Spain
-2020,CEB,0.0005,3.69720483919747e-06,council of europe development bank,Spain
-2021,CEB,0.0005,4.301671027127198e-06,council of europe development bank,Spain
-2022,CEB,0.0003,2.328021306050993e-06,council of europe development bank,Spain
-2023,CEB,0.0003,2.279257691355079e-06,council of europe development bank,Spain
-2019,EBRD,0.0033,2.5540767709039575e-05,european bank for reconstruction and development,Spain
-2019,EC-DSB,84.3013,0.6524605820818358,european commission development share of budget,Spain
-2020,EC-DSB,84.7289,0.626520198199757,european commission development share of budget,Spain
-2021,EC-DSB,90.39089999999999,0.7776638312919036,european commission development share of budget,Spain
-2022,EC-DSB,105.92159999999998,0.8219591385700362,european commission development share of budget,Spain
-2023,EC-DSB,109.1819,0.8295122844392038,european commission development share of budget,Spain
-2019,EC-EDF,21.744400000000002,0.16829353617346673,european commission european development fund,Spain
-2020,EC-EDF,22.738200000000003,0.16813556614927982,european commission european development fund,Spain
-2021,EC-EDF,11.991600000000002,0.10316783657779703,european commission european development fund,Spain
-2022,EC-EDF,5.242000000000001,0.04067829228773103,european commission european development fund,Spain
-2023,EC-EDF,1.1861,0.009011425159054199,european commission european development fund,Spain
-2019,FAO,0.0186,0.00014395705436004124,food and agricultural organisation,Spain
-2020,FAO,0.0173,0.00012792328743623245,food and agricultural organisation,Spain
-2021,FAO,0.0172,0.00014797748333317563,food and agricultural organisation,Spain
-2022,FAO,0.0032,2.483222726454393e-05,food and agricultural organisation,Spain
-2023,FAO,0.0037,2.811084486004598e-05,food and agricultural organisation,Spain
-2019,IBRD,3.2474000000000003,0.025133663351010645,international bank for reconstruction and development,Spain
-2020,IBRD,1.7539000000000002,0.012969055134936886,international bank for reconstruction and development,Spain
-2021,IBRD,1.1716,0.010079675550764451,international bank for reconstruction and development,Spain
-2022,IBRD,0.9530999999999998,0.007396123689324005,international bank for reconstruction and development,Spain
-2023,IBRD,0.7927,0.006022558573123904,international bank for reconstruction and development,Spain
-2019,IDA,18.4771,0.14300585425354398,international development association,Spain
-2020,IDA,20.3359,0.15037197577887165,international development association,Spain
-2021,IDA,11.165199999999999,0.09605803470416117,international development association,Spain
-2022,IDA,15.770100000000001,0.12237709599518258,international development association,Spain
-2023,IDA,15.724699999999999,0.11946881139750404,international development association,Spain
-2019,IDB-IIC-MIF,0.3778,0.0029240309213561066,inter american development bank inter american investment corporation and multilateral investment fund,Spain
-2020,IDB-IIC-MIF,0.6416000000000001,0.004744253249658194,inter american development bank inter american investment corporation and multilateral investment fund,Spain
-2023,IDB-IIC-MIF,0.0040999999999999995,3.114985511518608e-05,inter american development bank inter american investment corporation and multilateral investment fund,Spain
-2023,ILO-RBSA,0.017,0.0001291579358434545,international labour organisation regular budget supplementary account,Spain
-2022,JSDGF,0.0254,0.00019710580391231743,joint sustainable development goals fund,Spain
-2023,JSDGF,0.0616,0.0004680075792915763,joint sustainable development goals fund,Spain
-2023,UN,0.0269,0.0002043734396581721,united nations,Spain
-2019,UNDP,0.0004,3.0958506313987366e-06,united nations development programme,Spain
-2023,UNDP,0.0185,0.00014055422430022988,united nations development programme,Spain
-2019,UNFPA,0.029,0.00022444917077640841,united nations population fund,Spain
-2020,UNFPA,0.0304,0.00022479005422320616,united nations population fund,Spain
-2022,UNFPA,0.0063,4.888844742707086e-05,united nations population fund,Spain
-2023,UNFPA,0.0703,0.0005341060523408736,united nations population fund,Spain
-2020,UNIDO,0.0784,0.0005797217187861632,united nations industrial development organisation,Spain
-2021,UNIDO,0.0628,0.0005402898810071761,united nations industrial development organisation,Spain
-2022,UNIDO,0.037,0.0002871226277462892,united nations industrial development organisation,Spain
-2023,UNIDO,0.0181,0.00013751521404508979,united nations industrial development organisation,Spain
-2020,UNRWA,3.6182,0.026754453098368568,united nations relief and works agency for palestine refugees in the near east,Spain
-2023,UNRWA,3.7862,0.028765751570028673,united nations relief and works agency for palestine refugees in the near east,Spain
-2019,,0.0389,0.0003010714739035271,united nations children’s fund,Spain
-2023,,0.3274,0.002487429893832177,united nations children’s fund,Spain
+Year,ODA,Share,Full Name,donor
+2019,0.0004,3.0958506313987366e-06,council of europe development bank,Spain
+2019,0.0004,3.0958506313987366e-06,united nations development programme,Spain
+2019,0.0033,2.5540767709039575e-05,european bank for reconstruction and development,Spain
+2019,84.3013,0.6524605820818358,european commission development share of budget,Spain
+2019,18.4771,0.14300585425354398,international development association,Spain
+2019,0.0389,0.0003010714739035271,united nations children’s fund,Spain
+2019,0.0186,0.00014395705436004124,food and agricultural organisation,Spain
+2019,0.07529999999999999,0.0005827938813608121,asian development bank,Spain
+2019,0.029,0.00022444917077640841,united nations population fund,Spain
+2019,21.744400000000002,0.16829353617346673,european commission european development fund,Spain
+2019,3.2474000000000003,0.025133663351010645,international bank for reconstruction and development,Spain
+2019,0.1173,0.0009078581976576795,african development bank,Spain
+2019,0.774,0.005990470971756555,african development fund,Spain
+2019,0.3778,0.0029240309213561066,inter american development bank inter american investment corporation and multilateral investment fund,Spain
+2020,0.0173,0.00012792328743623248,food and agricultural organisation,Spain
+2020,0.6416000000000001,0.004744253249658195,inter american development bank inter american investment corporation and multilateral investment fund,Spain
+2020,0.0304,0.00022479005422320621,united nations population fund,Spain
+2020,22.738200000000003,0.16813556614927988,european commission european development fund,Spain
+2020,0.0784,0.0005797217187861633,united nations industrial development organisation,Spain
+2020,0.0005,3.6972048391974707e-06,council of europe development bank,Spain
+2020,3.6182,0.026754453098368575,united nations relief and works agency for palestine refugees in the near east,Spain
+2020,0.45959999999999995,0.0033984706881903144,african development bank,Spain
+2020,1.7539000000000002,0.012969055134936888,international bank for reconstruction and development,Spain
+2020,20.3359,0.15037197577887168,international development association,Spain
+2020,84.7289,0.6265201981997571,european commission development share of budget,Spain
+2020,0.8344,0.0061698954356527395,african development fund,Spain
+2021,0.0005,4.301671027127199e-06,council of europe development bank,Spain
+2021,0.0628,0.0005402898810071761,united nations industrial development organisation,Spain
+2021,0.0002,1.7206684108508796e-06,adaptation fund,Spain
+2021,0.0172,0.00014797748333317563,food and agricultural organisation,Spain
+2021,90.39089999999999,0.7776638312919038,european commission development share of budget,Spain
+2021,0.0384,0.0003303683348833688,african development bank,Spain
+2021,11.165199999999999,0.09605803470416119,international development association,Spain
+2021,1.1716,0.010079675550764451,international bank for reconstruction and development,Spain
+2021,0.2109,0.0018144448392422524,central american bank for economic integration,Spain
+2021,1.1846,0.01019151899746976,african development fund,Spain
+2021,11.991600000000002,0.10316783657779705,european commission european development fund,Spain
+2022,0.1253,0.000972336898827298,central american bank for economic integration,Spain
+2022,5.242000000000001,0.040678292287731024,european commission european development fund,Spain
+2022,0.0254,0.0001971058039123174,joint sustainable development goals fund,Spain
+2022,15.770100000000001,0.12237709599518255,international development association,Spain
+2022,0.0032,2.4832227264543927e-05,food and agricultural organisation,Spain
+2022,0.0063,4.8888447427070854e-05,united nations population fund,Spain
+2022,0.21039999999999998,0.0016327189426437628,asian development bank,Spain
+2022,0.037,0.0002871226277462891,united nations industrial development organisation,Spain
+2022,0.9530999999999998,0.007396123689324003,international bank for reconstruction and development,Spain
+2022,0.0551,0.0004275799132113657,african development bank,Spain
+2022,0.0003,2.3280213060509926e-06,council of europe development bank,Spain
+2022,105.92159999999998,0.821959138570036,european commission development share of budget,Spain
+2022,0.515,0.003996436575387538,african development fund,Spain
+2023,0.0037,2.811084486004598e-05,food and agricultural organisation,Spain
+2023,0.0040999999999999995,3.114985511518608e-05,inter american development bank inter american investment corporation and multilateral investment fund,Spain
+2023,0.0185,0.00014055422430022988,united nations development programme,Spain
+2023,0.0003,2.279257691355079e-06,council of europe development bank,Spain
+2023,15.724699999999999,0.11946881139750404,international development association,Spain
+2023,0.3274,0.002487429893832177,united nations children’s fund,Spain
+2023,0.017,0.0001291579358434545,international labour organisation regular budget supplementary account,Spain
+2023,0.0181,0.00013751521404508979,united nations industrial development organisation,Spain
+2023,0.1387,0.0010537768059698316,african development fund,Spain
+2023,0.0616,0.0004680075792915763,joint sustainable development goals fund,Spain
+2023,0.0703,0.0005341060523408736,united nations population fund,Spain
+2023,1.1861,0.009011425159054199,european commission european development fund,Spain
+2023,0.0269,0.0002043734396581721,united nations,Spain
+2023,0.0794,0.000603243535645311,central american bank for economic integration,Spain
+2023,0.1806,0.001372113130195758,african development bank,Spain
+2023,0.7927,0.006022558573123904,international bank for reconstruction and development,Spain
+2023,109.1819,0.8295122844392038,european commission development share of budget,Spain
+2023,3.7862,0.028765751570028673,united nations relief and works agency for palestine refugees in the near east,Spain
+2023,0.0036,2.7351092296260952e-05,adaptation fund,Spain

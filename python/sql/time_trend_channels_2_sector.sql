@@ -68,6 +68,7 @@ dac1_totals AS (
     GROUP BY 1,2
 )
 
+
 SELECT 
     t.year,
     round((t.earmarked + t.bilateral + oct.sector_multilateral_oda) * 100 / d1t.total_oda, 2) AS "ODA to {{sector}} as % of Total ODA",
