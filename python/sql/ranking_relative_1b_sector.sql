@@ -5,11 +5,10 @@ WITH base AS (
         purpose_code,
         purpose_name,
         sector_code,
-        -- CASE WHEN purpose_code = 43040 THEN 311 else sector_code END AS sector_code, --Manually mapped in R script
         sector_name,
         usd_disbursement_defl
     FROM "{{crs_file}}"
-    WHERE year = ({{latest_year}})
+    WHERE year BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
     AND donor_name IN {{dac_countries}}
     AND flow_name IN (
         'ODA Loans','Equity Investment','ODA Grants'
@@ -24,7 +23,7 @@ dac1_totals AS (
         sum("VALUE") AS total_oda
     FROM "{{dac1_file}}"
     WHERE 1=1
-    AND year = ({{latest_year}})
+    AND year BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
     AND "Amount type" = 'Constant Prices (2022 USD millions)'
     AND "Fund flows" = 'Gross Disbursements'
     AND "Donor_1" IN {{dac_countries}}
@@ -51,7 +50,7 @@ one_campaign_totals AS (
     FROM "{{imputed_multilateral_file}}" imf
     -- LEFT JOIN "{{dt_sector_file}}" dsf ON dsf.sector_code = imf.sector_code --Inconsistencies in AG mapping TODO: Decision to be made on purpose/sector
     LEFT JOIN "{{dt_sector_file}}" dsf ON dsf.sector_code = imf.purpose_code
-    WHERE imf.year = ({{latest_year}})
+    WHERE imf.year BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
     AND dsf.sector_renamed = '{{sector}}'
     GROUP BY 1,2
 ), 
@@ -76,8 +75,8 @@ ranked AS (
         year,
         sector_oda,
         total_oda_dac1,
-        round(sector_percentage,1) AS sector_percentage,
-        row_number() OVER (ORDER BY sector_percentage DESC) AS rn
+        round(sector_percentage,2) AS sector_percentage,
+        row_number() OVER (PARTITION BY year ORDER BY sector_percentage DESC) AS rn
     FROM joined
 )
 
@@ -92,4 +91,4 @@ SELECT
         ELSE rn || 'th'
     END AS "Rank"
 FROM ranked
-ORDER BY sector_percentage DESC
+ORDER BY year, sector_percentage DESC
