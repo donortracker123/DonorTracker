@@ -60,7 +60,7 @@ ranked AS (
 
 SELECT 
     donor "Donor", 
-    total_oda "ODA towards {{sector}}",
+    round(total_oda, 2) "ODA towards {{sector}}",
     Year, 
     CASE 
         WHEN rn::TEXT LIKE '%1' AND rn != 11 THEN rn || 'st'

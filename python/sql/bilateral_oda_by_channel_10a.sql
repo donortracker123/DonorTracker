@@ -35,14 +35,14 @@ transformed AS (
 
 SELECT 
     t.donor_name AS donor,
-    (t.csos / t.total) AS "CSOs",
-    (t.other_channels / t.total) AS "Other Channels"
+    100*round((t.csos / t.total), 2) AS "CSOs",
+    100*round((t.other_channels / t.total), 2) AS "Other Channels"
 FROM transformed t
 
 UNION ALL 
 
 SELECT 
     'DAC Average',
-    sum(t.csos) / sum(t.total) AS "CSOs",
-    sum(t.other_channels) / sum(t.total) AS "Other Channels"
+    100*round(sum(t.csos) / sum(t.total), 2) AS "CSOs",
+    100*round(sum(t.other_channels) / sum(t.total), 2) AS "Other Channels"
 FROM transformed t
