@@ -3,9 +3,8 @@ WITH base AS (
         donor_name,
         year,
         purpose_code,
-        greatest(climate_mitigation, climate_adaptation) climate_total, 
         usd_commitment_defl
-    FROM "{{crs_file}}"
+    FROM read_csv_auto("{{climate_riomarkers_file}}", delim='|', header=True)
     WHERE year = ({{latest_year}})
     AND donor_name IN {{dac_countries}}
     AND flow_name IN (
@@ -21,7 +20,6 @@ crs_totals AS (
         sum(coalesce(usd_commitment_defl, 0) / 100 * dfl.deflator) AS bilateral_oda
     FROM base b 
     INNER JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor_name AND dfl.year = {{latest_year}}
-    WHERE b.climate_total IN (1,2)
     GROUP BY 1,2
 ),
 
@@ -35,14 +33,16 @@ ranked AS (
     GROUP BY 1,2
 )
 
-SELECT 
-    donor "Donor", 
-    total_oda "ODA towards Climate",
-    Year, 
-    CASE 
-        WHEN rn::TEXT LIKE '%1' AND rn != 11 THEN rn || 'st'
-        WHEN rn::TEXT LIKE '%2' AND rn != 12 THEN rn || 'nd'
-        WHEN rn::TEXT LIKE '%3' AND rn != 13 THEN rn || 'rd'
-        ELSE rn || 'th'
-    END AS "Ranking"
-FROM ranked
+-- SELECT 
+--     donor "Donor", 
+--     total_oda "ODA towards Climate",
+--     Year, 
+--     CASE 
+--         WHEN rn::TEXT LIKE '%1' AND rn != 11 THEN rn || 'st'
+--         WHEN rn::TEXT LIKE '%2' AND rn != 12 THEN rn || 'nd'
+--         WHEN rn::TEXT LIKE '%3' AND rn != 13 THEN rn || 'rd'
+--         ELSE rn || 'th'
+--     END AS "Ranking"
+-- FROM ranked
+select *     FROM read_text("{{climate_riomarkers_file}}")
+limit 20
