@@ -5,7 +5,7 @@ WITH base AS (
         purpose_code,
         usd_disbursement_defl
     FROM "{{crs_file}}"
-    WHERE year = ({{latest_year}})
+    WHERE year BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
     AND donor_name IN {{dac_countries}}
     AND flow_name IN (
         'ODA Loans','Equity Investment','ODA Grants'
@@ -40,9 +40,9 @@ deflated AS (
         ct.donor_name AS donor,
         ct.year,
         dfl.deflator,
-        ct.bilateral_oda * 100 / dfl.deflator AS bilateral_oda,
+        ct.bilateral_oda * dfl.deflator / 100 AS bilateral_oda,
         oct.multilateral_oda AS multilateral_oda, --ONE Campaign came pre-deflated
-        (ct.bilateral_oda * 100 / dfl.deflator) + oct.multilateral_oda AS total_oda --pre-deflated
+        (ct.bilateral_oda * dfl.deflator / 100) + oct.multilateral_oda AS total_oda --pre-deflated
     FROM crs_totals ct 
     INNER JOIN one_campaign_totals oct USING(donor_name, year)
     INNER JOIN "{{deflator_file}}" dfl ON dfl.donor = ct.donor_name AND dfl.year = {{latest_year}}
@@ -53,7 +53,7 @@ ranked AS (
         donor,
         year,
         sum(total_oda) AS total_oda,
-        row_number() OVER (ORDER BY sum(total_oda) DESC) AS rn
+        row_number() OVER (PARTITION BY year ORDER BY sum(total_oda) DESC) AS rn
     FROM deflated
     GROUP BY 1,2
 )
@@ -69,4 +69,4 @@ SELECT
         ELSE rn || 'th'
     END AS "Ranking"
 FROM ranked
-ORDER BY total_oda DESC
+ORDER BY year, total_oda DESC
