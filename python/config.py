@@ -1,5 +1,4 @@
 from pathlib import Path
-import pandas as pd
 
 static_dir = Path(__file__).parent / "static"
 data_dir = Path(__file__).parent /  "data"
