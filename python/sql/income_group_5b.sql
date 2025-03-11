@@ -3,9 +3,7 @@ WITH base AS (
         crs.donor_name,
         crs.recipient_name,
         crs.year,
-        --TODO: map names
-        -- wb.income_group,
-        crs.incomegroup_name,
+        coalesce(crs.incomegroup_name, '') AS incomegroup_name,
         crs.usd_disbursement_defl
     FROM "{{crs_file}}" crs
     -- LEFT JOIN "{{dt_world_bank_income_file}}" wb ON wb.economy = crs.recipient_name
@@ -19,7 +17,14 @@ deflated AS (
     SELECT 
         b.donor_name AS donor,
         b.year,
-        b.incomegroup_name,
+        CASE
+            WHEN incomegroup_name = 'LMICs' THEN 'Lower-middle income countries'
+            WHEN incomegroup_name = 'LDCs' THEN 'Least developed countries'
+            WHEN incomegroup_name = 'UMICs' THEN 'Upper-middle income countries'
+            WHEN incomegroup_name = 'Other LICs' THEN 'Other low income countries'
+            WHEN incomegroup_name = 'MADCTs' THEN 'More advanced developed countries and territories'
+            ELSE 'Countries unallocated by income'
+        END AS mapped_income_group,
         b.usd_disbursement_defl * dfl.deflator / 100 AS oda,
     FROM base b
     INNER JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor_name AND dfl.year = {{latest_year}}
@@ -27,9 +32,9 @@ deflated AS (
 
 SELECT
     year,
-    incomegroup_name,
-    round(sum(oda), 2) AS "total_oda", 
-    round(sum(oda) * 100 / sum(sum(oda)) OVER (PARTITION BY donor, year), 2) AS "Share",
+    mapped_income_group AS incomegroup_name,
+    round(coalesce(sum(oda), 0), 2) AS "total_oda", 
+    coalesce(round(coalesce(sum(oda), 0) * 100 / sum(sum(oda)) OVER (PARTITION BY donor, year), 2), 0) AS "Share",
     donor,
 FROM deflated
 GROUP BY donor, year, incomegroup_name
