@@ -4,7 +4,7 @@ WITH base AS (
         year,
         usd_disbursement_defl
     FROM "{{crs_file}}"
-    WHERE year = ({{latest_year}})
+    WHERE year BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
     AND donor_name IN {{dac_countries}}
     AND flow_name IN (
         'ODA Loans','Equity Investment','ODA Grants'
@@ -18,9 +18,9 @@ allocable_totals AS (
         "Donor_1" AS donor_name,
         "TIME_PERIOD" AS year,
         sum("OBS_VALUE") AS total_oda
-    FROM "{{riomarkers_file}}"
+    FROM "{{allocable_gender_file}}"
     WHERE 1=1
-    AND year = ({{latest_year}})
+    AND year BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
     AND "Donor_1" IN {{dac_countries}}
     AND "Donor_1" != 'EU Institutions'
     GROUP BY 1,2
@@ -52,7 +52,7 @@ ranked AS (
         year,
         allocable_oda,
         round(sector_percentage,1) AS sector_percentage,
-        row_number() OVER (ORDER BY sector_percentage DESC) AS rn
+        row_number() OVER (PARTITION BY year ORDER BY sector_percentage DESC) AS rn
     FROM joined
 )
 SELECT 
@@ -66,3 +66,4 @@ SELECT
         ELSE rn || 'th'
     END AS "Rank"
 FROM ranked
+ORDER BY year, sector_percentage DESC

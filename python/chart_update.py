@@ -33,6 +33,11 @@ SAVE_PATH = Path(__file__).parent.parent
               required=False,
               help="""Path to the Climate RioMarkers file. This can be a path to a SharePoint file.
               If not set, defaults to the 'data' directory.""")
+@click.option("--allocable-gender-file", "-agf",
+              type=click.Path(exists=True),
+              required=False,
+              help="""Path to the allocable gender file. This can be a path to a SharePoint file.
+              If not set, defaults to the 'data' directory.""")
 @click.option("--multisystem-file", "-mf",
               type=click.Path(exists=True),
               required=False,
@@ -56,7 +61,7 @@ SAVE_PATH = Path(__file__).parent.parent
 @click.option("--dry-run", "-dr", 
               is_flag=True, 
               help="Only show the results of the query for testing purposes.")
-def main(query_name, dac1_file, crs_file, imputed_multilateral_file, climate_riomarkers_file, multisystem_file,
+def main(query_name, dac1_file, crs_file, imputed_multilateral_file, climate_riomarkers_file, multisystem_file, allocable_gender_file,
          latest_year, group_by_country, sector, folder, output_file, dry_run):
     """Run a query using the provided files and save the result."""
     # Validate query
@@ -84,6 +89,7 @@ def main(query_name, dac1_file, crs_file, imputed_multilateral_file, climate_rio
                                 imputed_multilateral_file=imputed_multilateral_file,
                                 climate_riomarkers_file=climate_riomarkers_file,
                                 multisystem_file=multisystem_file,
+                                allocable_gender_file=allocable_gender_file,
                                 latest_year=latest_year,
                                 dac_countries=DAC_COUNTRIES,
                                 projection_file=projection_file,
