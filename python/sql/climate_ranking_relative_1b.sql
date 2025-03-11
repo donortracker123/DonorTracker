@@ -1,19 +1,18 @@
 WITH base AS (
     SELECT
-        donor_name,
-        year,
-        greatest(climate_mitigation, climate_adaptation) climate_total, 
+        "donornameE" AS donor_name,
+        "Year" AS year,
+        greatest(coalesce("climateMitigation", -1), coalesce("climateAdaptation", -1)) AS climate_total,
+        purposecode,
         usd_commitment_defl
-    FROM "{{crs_file}}"
-    WHERE year = ({{latest_year}})
+    FROM read_csv_auto("{{climate_riomarkers_file}}", delim='|', header=True)
+    WHERE "Year" BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
     AND donor_name IN {{dac_countries}}
-    AND flow_name IN (
-        'ODA Loans','Equity Investment','ODA Grants'
-    )
     AND donor_name != 'EU Institutions'
+    AND "Markers" = 20
 ), 
 
-crs_totals AS (
+rio_totals AS (
     SELECT 
         b.donor_name,
         year,
@@ -24,15 +23,16 @@ crs_totals AS (
 ), 
 
 allocable_totals AS (
-    SELECT 
-        "Donor_1" AS donor_name,
-        "TIME_PERIOD" AS year,
-        sum("OBS_VALUE") AS total_oda
-    FROM "{{riomarkers_file}}"
-    WHERE 1=1
-    AND year = ({{latest_year}})
-    AND "Donor_1" IN {{dac_countries}}
-    AND "Donor_1" != 'EU Institutions'
+    SELECT
+        "donornameE" AS donor_name,
+        "Year" AS year,
+        sum(usd_commitment_defl) AS total_oda
+    FROM read_csv_auto("{{climate_riomarkers_file}}", delim='|', header=True)
+    WHERE "Year" BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
+    AND donor_name IN {{dac_countries}}
+    AND donor_name != 'EU Institutions'
+    AND "Allocable" = 2
+    AND "Markers" = 20
     GROUP BY 1,2
 ),
 
@@ -42,7 +42,7 @@ joined AS (
         ct.year,
         at.total_oda AS allocable_oda,
         (ct.sector_bilateral_oda * 100) / at.total_oda AS sector_percentage
-    FROM crs_totals ct 
+    FROM rio_totals ct 
     LEFT JOIN allocable_totals at USING(donor_name, year)
 ), 
 
@@ -52,7 +52,7 @@ ranked AS (
         year,
         allocable_oda,
         round(sector_percentage,1) AS sector_percentage,
-        row_number() OVER (ORDER BY sector_percentage DESC) AS rn
+        row_number() OVER (PARTITION BY year ORDER BY sector_percentage DESC) AS rn
     FROM joined
 )
 

@@ -1,17 +1,15 @@
 WITH base AS (
     SELECT
-        donor_name,
-        year,
-        purpose_code,
-        greatest(climate_mitigation, climate_adaptation) AS climate_total,
+        "donornameE" AS donor_name,
+        "Year" AS year,
+        greatest(coalesce("climateMitigation", -1), coalesce("climateAdaptation", -1)) AS climate_total,
+        purposecode,
         usd_commitment_defl
-    FROM "{{crs_file}}"
-    WHERE year BETWEEN ({{latest_year}} - 4) AND ({{latest_year}})
+    FROM read_csv_auto("{{climate_riomarkers_file}}", delim='|', header=True)
+    WHERE "Year" BETWEEN ({{latest_year}} - 4) AND ({{latest_year}})
     AND donor_name IN {{dac_countries}}
-    AND flow_name IN (
-        'ODA Loans','Equity Investment','ODA Grants'
-    )
     AND donor_name != 'EU Institutions'
+    AND "Markers" = 20
 ), 
 
 crs_totals AS (
@@ -42,26 +40,27 @@ crs_totals AS (
 ), 
 
 allocable_totals AS (
-    SELECT 
-        "Donor_1" AS donor_name,
-        "TIME_PERIOD" AS year,
-        sum("OBS_VALUE") AS allocable_oda
-    FROM "{{riomarkers_file}}"
-    WHERE 1=1
-    AND year BETWEEN ({{latest_year}} - 4) AND ({{latest_year}})
-    AND "Donor_1" IN {{dac_countries}}
-    AND "Donor_1" != 'EU Institutions'
+    SELECT
+        "donornameE" AS donor_name,
+        "Year" AS year,
+        sum(usd_commitment_defl) AS allocable_oda
+    FROM read_csv_auto("{{climate_riomarkers_file}}", delim='|', header=True)
+    WHERE "Year" BETWEEN ({{latest_year}} - 4) AND ({{latest_year}})
+    AND donor_name IN {{dac_countries}}
+    AND donor_name != 'EU Institutions'
+    AND "Markers" = 20
+    AND "Allocable" = 2
     GROUP BY 1,2
 )
 
 SELECT 
     ct.donor_name AS donor,
     ct.year AS "Year",
-    100 * (ct.climate_principal + ct.climate_significant) / (alt.allocable_oda) AS "Climate Funding as % of bilateral allocable ODA",
-    climate_principal * (100 / dfl.deflator) AS "Funding for projects with climate change as a principal objective",
-    climate_significant * (100 / dfl.deflator) AS "Funding for projects with a significant climate change component",
-    100 * climate_principal / alt.allocable_oda AS "Principal",
-    100 * climate_significant / alt.allocable_oda AS "Significant",
+    round(100 * (ct.climate_principal + ct.climate_significant) / (alt.allocable_oda), 2) AS "Climate Funding as % of bilateral allocable ODA",
+    round(climate_principal * (100 / dfl.deflator), 2) AS "Funding for projects with climate change as a principal objective",
+    round(climate_significant * (100 / dfl.deflator), 2) AS "Funding for projects with a significant climate change component",
+    round(100 * climate_principal / alt.allocable_oda, 2) AS "Principal",
+    round(100 * climate_significant / alt.allocable_oda, 2) AS "Significant",
     100 - ("Principal" + "Significant") AS "Not targeted and not screened"
 FROM crs_totals ct
 LEFT JOIN allocable_totals alt USING (donor_name, year)

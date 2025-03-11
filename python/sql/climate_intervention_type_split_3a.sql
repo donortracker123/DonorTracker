@@ -1,18 +1,16 @@
 WITH base AS (
     SELECT
-        donor_name,
-        year,
-        climate_adaptation, 
-        climate_mitigation,
-        greatest(climate_mitigation, climate_adaptation) climate_total, 
+        "donornameE" AS donor_name,
+        "Year" AS year,
+        "climateMitigation" AS climate_mitigation,
+        "climateAdaptation" AS climate_adaptation,
+        greatest(coalesce("climateMitigation", -1), coalesce("climateAdaptation", -1)) AS climate_total,
         usd_commitment_defl
-    FROM "{{crs_file}}"
-    WHERE year = ({{latest_year}})
+    FROM read_csv_auto("{{climate_riomarkers_file}}", delim='|', header=True)
+    WHERE "Year" = ({{latest_year}})
     AND donor_name IN {{dac_countries}}
-    AND flow_name IN (
-        'ODA Loans','Equity Investment','ODA Grants'
-    )
     AND donor_name != 'EU Institutions'
+    AND "Markers" = 20
 ), 
 
 adaptation AS (
@@ -84,8 +82,8 @@ combined AS (
 SELECT
     donor_name AS donor,
     "Rio Marker",
-    "Cross-cutting",
-    "Bilateral ODA", 
+    round("Cross-cutting", 2) AS "Cross-cutting",
+    round("Bilateral ODA", 2) AS "Bilateral ODA",
     "Share" || '%' AS "Share" --Adding || to a column is concatenation. this is adding '%' to the share column
 FROM combined
 ORDER BY donor_name, "Rio Marker"
