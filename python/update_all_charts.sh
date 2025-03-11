@@ -15,6 +15,7 @@ python chart_update.py all_donor_gni_ranking_2b -ly $LY -dac1 $DAC1 -o "alldonor
 python chart_update.py refugee_3b -ly $LY -country -dac1 $DAC1 -o "3B_refugee"
 python chart_update.py bimulti_4 -ly $LY -country -dac1 $DAC1 -o "4_bimulti"
 python chart_update.py bimulti_percentage_4a  -ly $LY -dac1 $DAC1 -country -o "EMEAA_4A_bi-multi"
+python chart_update.py total_oda_over_time_3a -ly $LY -dac1 $DAC1 -country -o "3A_Total ODA over time"
 
 python chart_update.py bilateral_oda_by_channel_10a -ly $LY -country -crs $CRS -o "EMEEA_10A_channel"
 python chart_update.py sector_breakdown_5a -ly $LY -country -crs $CRS -o "5A_sector"
