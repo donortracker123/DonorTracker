@@ -1,69 +1,69 @@
-Year,ODA,Share,Full Name,donor
-2019,0.378,0.001408194125148224,african development bank,France
-2019,7.0259,0.026174156359468008,african development fund,France
-2019,0.007,2.607766898422637e-05,united nations development programme,France
-2019,0.0921,0.0003431076162067498,united nations population fund,France
-2019,154.9962,0.5774199424875638,european commission development share of budget,France
-2019,4.730300000000001,0.017622171085155142,international bank for reconstruction and development,France
-2019,0.9031,0.0033643918370935477,united nations children’s fund,France
-2019,52.2118,0.19450886249580432,european commission european development fund,France
-2019,36.107200000000006,0.13451308707817977,international development association,France
-2019,0.07369999999999999,0.000274560600591069,inter american development bank inter american investment corporation and multilateral investment fund,France
-2019,0.0247,9.201691770148447e-05,world food programme,France
-2019,0.1012,0.00037700858588624405,international labour organisation regular budget supplementary account,France
-2019,0.0379,0.0001411919506431685,food and agricultural organisation,France
-2019,11.7398,0.043735231191574395,united nations relief and works agency for palestine refugees in the near east,France
-2020,0.0651,0.00024015272385203497,united nations population fund,France
-2020,53.683699999999995,0.1980381994079184,european commission european development fund,France
-2020,0.20210000000000003,0.0007455432487019397,african development bank,France
-2020,0.029199999999999997,0.00010771827244976067,inter american development bank inter american investment corporation and multilateral investment fund,France
-2020,5.8317000000000005,0.021513035939906486,african development fund,France
-2020,11.9913,0.04423568905571285,united nations relief and works agency for palestine refugees in the near east,France
-2020,161.9354,0.5973767649472936,european commission development share of budget,France
-2020,0.0042,1.5493724119486126e-05,united nations development programme,France
-2020,0.8702000000000001,0.003210152078280197,united nations children’s fund,France
-2020,3.4623000000000004,0.012772362147356385,international bank for reconstruction and development,France
-2020,0.034,0.0001254253857291734,food and agricultural organisation,France
-2020,0.0024,8.853556639706357e-06,international labour organisation regular budget supplementary account,France
-2020,32.9659,0.12161060951203992,international development association,France
-2021,1.2722,0.004784422683924986,united nations children’s fund,France
-2021,2.5399999999999996,0.009552298079837655,international bank for reconstruction and development,France
-2021,0.1825,0.0006863363777836111,african development bank,France
-2021,27.478099999999998,0.10333818971164845,european commission european development fund,France
-2021,177.75909999999996,0.6685070510250667,european commission development share of budget,France
-2021,3.0224,0.011366482565551705,african development fund,France
-2021,43.4822,0.1635255651839043,international development association,France
-2021,9.0564,0.03405883162607943,united nations relief and works agency for palestine refugees in the near east,France
-2021,0.0024,9.025793461263926e-06,united nations development programme,France
-2021,1.0643,0.004002563325342999,united nations population fund,France
-2021,0.0341,0.00012824148209545827,food and agricultural organisation,France
-2021,0.0036,1.3538690191895889e-05,international labour organisation regular budget supplementary account,France
-2021,0.0073,2.7453455111344444e-05,inter american development bank inter american investment corporation and multilateral investment fund,France
-2022,15.7621,0.054042832152846776,united nations relief and works agency for palestine refugees in the near east,France
-2022,0.007500000000000001,2.5714926383308753e-05,inter american development bank inter american investment corporation and multilateral investment fund,France
-2022,0.1817,0.0006229869498462933,african development bank,France
-2022,12.895100000000003,0.04421287296072063,european commission european development fund,France
-2022,2.3348999999999998,0.008005570881651679,united nations children’s fund,France
-2022,1.4385,0.004932122880318618,united nations population fund,France
-2022,0.0011,3.771522536218617e-06,adaptation fund,France
-2022,2.745,0.009411663056291002,international bank for reconstruction and development,France
-2022,45.2485,0.1551415795273528,international development association,France
-2022,208.7589,0.7157626327147351,european commission development share of budget,France
-2022,0.0049,1.6800418570428384e-05,international labour organisation regular budget supplementary account,France
-2022,0.0069,2.365773227264405e-05,food and agricultural organisation,France
-2022,2.2184,0.007606132358497617,african development fund,France
-2022,0.0559,0.00019166191797692788,united nations development programme,France
-2023,2.1607000000000003,0.006269762577755415,international bank for reconstruction and development,France
-2023,29.7071,0.08620190858223625,united nations relief and works agency for palestine refugees in the near east,France
-2023,1.9571999999999998,0.005679261034471651,united nations children’s fund,France
-2023,0.0035,1.015604619898364e-05,international labour organisation regular budget supplementary account,France
-2023,0.0541,0.00015698345696143283,united nations,France
-2023,0.0074,2.147278339213684e-05,food and agricultural organisation,France
-2023,207.016,0.6007040171225134,european commission development share of budget,France
-2023,96.26050000000001,0.2793217386106471,international development association,France
-2023,0.11970000000000001,0.00034733678000524053,united nations development programme,France
-2023,1.3548,0.003931260397252296,united nations population fund,France
-2023,0.7253,0.0021046229451779524,african development bank,France
-2023,2.6308,0.007633864668653187,european commission european development fund,France
-2023,0.0009,2.611554736881507e-06,adaptation fund,France
-2023,2.6243,0.007615003439997933,african development fund,France
+Year,Multi_short,ODA,Share,Full Name,Donor
+2019,ADF,7.03,0.0%,african development fund,France
+2020,ADF,5.83,0.0%,african development fund,France
+2021,ADF,3.02,0.0%,african development fund,France
+2022,ADF,2.22,0.0%,african development fund,France
+2023,ADF,2.62,0.0%,african development fund,France
+2022,AF,0.0,0.0%,adaptation fund,France
+2023,AF,0.0,0.0%,adaptation fund,France
+2019,AfDB,0.38,0.0%,african development bank,France
+2020,AfDB,0.2,0.0%,african development bank,France
+2021,AfDB,0.18,0.0%,african development bank,France
+2022,AfDB,0.18,0.0%,african development bank,France
+2023,AfDB,0.73,0.0%,african development bank,France
+2019,EC-DSB,155.0,0.09%,european commission development share of budget,France
+2020,EC-DSB,161.94,0.09%,european commission development share of budget,France
+2021,EC-DSB,177.76,0.1%,european commission development share of budget,France
+2022,EC-DSB,213.12,0.11%,european commission development share of budget,France
+2023,EC-DSB,211.47,0.1%,european commission development share of budget,France
+2019,EC-EDF,52.21,0.03%,european commission european development fund,France
+2020,EC-EDF,53.68,0.03%,european commission european development fund,France
+2021,EC-EDF,27.48,0.02%,european commission european development fund,France
+2022,EC-EDF,12.9,0.01%,european commission european development fund,France
+2023,EC-EDF,2.63,0.0%,european commission european development fund,France
+2019,FAO,0.04,0.0%,food and agricultural organisation,France
+2020,FAO,0.03,0.0%,food and agricultural organisation,France
+2021,FAO,0.03,0.0%,food and agricultural organisation,France
+2022,FAO,0.01,0.0%,food and agricultural organisation,France
+2023,FAO,0.01,0.0%,food and agricultural organisation,France
+2019,IBRD,4.73,0.0%,international bank for reconstruction and development,France
+2020,IBRD,3.46,0.0%,international bank for reconstruction and development,France
+2021,IBRD,2.54,0.0%,international bank for reconstruction and development,France
+2022,IBRD,2.75,0.0%,international bank for reconstruction and development,France
+2023,IBRD,2.16,0.0%,international bank for reconstruction and development,France
+2019,IDA,36.11,0.02%,international development association,France
+2020,IDA,32.97,0.02%,international development association,France
+2021,IDA,43.48,0.02%,international development association,France
+2022,IDA,45.25,0.02%,international development association,France
+2023,IDA,96.26,0.05%,international development association,France
+2019,IDB-IIC-MIF,0.07,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,France
+2020,IDB-IIC-MIF,0.03,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,France
+2021,IDB-IIC-MIF,0.01,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,France
+2022,IDB-IIC-MIF,0.01,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,France
+2019,ILO-RBSA,0.1,0.0%,international labour organisation regular budget supplementary account,France
+2020,ILO-RBSA,0.0,0.0%,international labour organisation regular budget supplementary account,France
+2021,ILO-RBSA,0.0,0.0%,international labour organisation regular budget supplementary account,France
+2022,ILO-RBSA,0.0,0.0%,international labour organisation regular budget supplementary account,France
+2023,ILO-RBSA,0.0,0.0%,international labour organisation regular budget supplementary account,France
+2023,UN,0.05,0.0%,united nations,France
+2019,UNDP,0.01,0.0%,united nations development programme,France
+2020,UNDP,0.0,0.0%,united nations development programme,France
+2021,UNDP,0.0,0.0%,united nations development programme,France
+2022,UNDP,0.06,0.0%,united nations development programme,France
+2023,UNDP,0.12,0.0%,united nations development programme,France
+2019,UNFPA,0.09,0.0%,united nations population fund,France
+2020,UNFPA,0.07,0.0%,united nations population fund,France
+2021,UNFPA,1.06,0.0%,united nations population fund,France
+2022,UNFPA,1.44,0.0%,united nations population fund,France
+2023,UNFPA,1.35,0.0%,united nations population fund,France
+2019,UNRWA,11.74,0.01%,united nations relief and works agency for palestine refugees in the near east,France
+2020,UNRWA,11.99,0.01%,united nations relief and works agency for palestine refugees in the near east,France
+2021,UNRWA,9.06,0.01%,united nations relief and works agency for palestine refugees in the near east,France
+2022,UNRWA,15.76,0.01%,united nations relief and works agency for palestine refugees in the near east,France
+2023,UNRWA,29.71,0.01%,united nations relief and works agency for palestine refugees in the near east,France
+2019,WFP,0.02,0.0%,world food programme,France
+2019,,0.9,0.0%,united nations children’s fund,France
+2020,,0.87,0.0%,united nations children’s fund,France
+2021,,1.27,0.0%,united nations children’s fund,France
+2022,,2.34,0.0%,united nations children’s fund,France
+2023,,1.96,0.0%,united nations children’s fund,France

@@ -1,50 +1,51 @@
-year,Sector,Bilateral ODA for,share,donor
-2023,Higher education,56.975901241200006,49.69858652031434,Belgium
-2023,Vocational training,21.262179548400002,18.54644238839178,Belgium
-2023,Primary education,15.0688244479,13.144140930970435,Belgium
-2023,Teacher training,5.4623430080999995,4.764658753574712,Belgium
-2023,Upper Secondary Education (modified and includes data from 11322),4.9958925399,4.357786225957446,Belgium
-2023,Education facilities and training,4.6962045661,4.096376254890118,Belgium
-2023,Basic life skills for youth,1.6566720144999998,1.4450716119409928,Belgium
-2023,Early childhood education,1.3889725818,1.2115644075326224,Belgium
-2023,Advanced technical and managerial training,1.198610774,1.0455167879423493,Belgium
-2023,Education policy and administrative management,1.1879219121999998,1.0361931737230299,Belgium
-2023,Basic life skills for adults,0.7493781613,0.6536629447621832,Belgium
-2022,Higher education,60.61795289439998,49.72412966151898,Belgium
-2022,Vocational training,24.296420055000006,19.930041900790734,Belgium
-2022,Primary education,14.054539343099998,11.528758449607516,Belgium
-2022,Upper Secondary Education (modified and includes data from 11322),9.5225517443,7.811227120568764,Belgium
-2022,Teacher training,6.204518642699998,5.089487103175134,Belgium
-2022,Education facilities and training,3.5883988696999998,2.943517590985734,Belgium
-2022,Basic life skills for youth,1.475261781,1.2101383266920618,Belgium
-2022,Early childhood education,1.2806438860999998,1.0504957624286704,Belgium
-2022,Education policy and administrative management,0.6951897586999999,0.570255247008718,Belgium
-2022,Advanced technical and managerial training,0.1177635032,0.09659989199424888,Belgium
-2022,Basic life skills for adults,0.0552842301,0.04534894522945208,Belgium
-2021,Higher education,57.09604776829998,47.648879279952915,Belgium
-2021,Vocational training,25.184926613900004,21.017803767609625,Belgium
-2021,Primary education,13.769597465600004,11.491266261273402,Belgium
-2021,Upper Secondary Education (modified and includes data from 11322),9.6917806524,8.08816904784758,Belgium
-2021,Education facilities and training,4.7533212335999995,3.966832004865876,Belgium
-2021,Teacher training,4.6574817641,3.886850228701753,Belgium
-2021,Early childhood education,2.9341299826,2.448645936054086,Belgium
-2021,Basic life skills for adults,1.5298168848999998,1.276691871298049,Belgium
-2021,Education policy and administrative management,0.2095307708,0.17486160239672136,Belgium
-2020,Higher education,60.054495499500014,50.97275962351682,Belgium
-2020,Vocational training,21.905185466999995,18.592575693642132,Belgium
-2020,Primary education,12.9476723165,10.989661692828847,Belgium
-2020,Upper Secondary Education (modified and includes data from 11322),9.2080781175,7.815587302399375,Belgium
-2020,Teacher training,7.7321214215,6.562832029806095,Belgium
-2020,Early childhood education,2.8416752837,2.411943185258046,Belgium
-2020,Education facilities and training,2.1250415172,1.8036822979743607,Belgium
-2020,Basic life skills for adults,0.7854132459000001,0.6666391958736897,Belgium
-2020,Education policy and administrative management,0.21715879929999998,0.1843189787006468,Belgium
-2019,Higher education,58.35709718959998,45.55060809463679,Belgium
-2019,Vocational training,24.2549870845,18.932220145169115,Belgium
-2019,Teacher training,13.999528802599999,10.927326421411804,Belgium
-2019,Primary education,12.580515579899998,9.819716236855975,Belgium
-2019,Upper Secondary Education (modified and includes data from 11322),10.466423784899998,8.169562759940167,Belgium
-2019,Education facilities and training,3.8580590318000003,3.011406382886611,Belgium
-2019,Early childhood education,2.491933117,1.9450773646558714,Belgium
-2019,Basic life skills for adults,1.386537172,1.0822610166030249,Belgium
-2019,Education policy and administrative management,0.7197769204999999,0.5618215778406297,Belgium
+year,Sub-Sector,Bilateral ODA for,Share,Donor
+2023,Higher education,56.98,49.2%,Belgium
+2023,Vocational training,21.26,18.4%,Belgium
+2023,Primary education,15.07,13.0%,Belgium
+2023,Teacher training,5.46,4.7%,Belgium
+2023,Upper Secondary Education (modified and includes data from 11322),5.0,4.3%,Belgium
+2023,Education facilities and training,4.7,4.1%,Belgium
+2023,Basic life skills for youth,1.66,1.4%,Belgium
+2023,Early childhood education,1.39,1.2%,Belgium
+2023,Advanced technical and managerial training,1.2,1.0%,Belgium
+2023,Education policy and administrative management,1.19,1.0%,Belgium
+2023,Lower secondary education,1.17,1.0%,Belgium
+2023,Basic life skills for adults,0.75,0.6%,Belgium
+2022,Higher education,60.62,49.7%,Belgium
+2022,Vocational training,24.3,19.9%,Belgium
+2022,Primary education,14.05,11.5%,Belgium
+2022,Upper Secondary Education (modified and includes data from 11322),9.52,7.8%,Belgium
+2022,Teacher training,6.2,5.1%,Belgium
+2022,Education facilities and training,3.59,2.9%,Belgium
+2022,Basic life skills for youth,1.48,1.2%,Belgium
+2022,Early childhood education,1.28,1.1%,Belgium
+2022,Education policy and administrative management,0.7,0.6%,Belgium
+2022,Advanced technical and managerial training,0.12,0.1%,Belgium
+2022,Basic life skills for adults,0.06,0.0%,Belgium
+2021,Higher education,57.1,47.6%,Belgium
+2021,Vocational training,25.18,21.0%,Belgium
+2021,Primary education,13.77,11.5%,Belgium
+2021,Upper Secondary Education (modified and includes data from 11322),9.69,8.1%,Belgium
+2021,Education facilities and training,4.75,4.0%,Belgium
+2021,Teacher training,4.66,3.9%,Belgium
+2021,Early childhood education,2.93,2.4%,Belgium
+2021,Basic life skills for adults,1.53,1.3%,Belgium
+2021,Education policy and administrative management,0.21,0.2%,Belgium
+2020,Higher education,60.05,51.0%,Belgium
+2020,Vocational training,21.91,18.6%,Belgium
+2020,Primary education,12.95,11.0%,Belgium
+2020,Upper Secondary Education (modified and includes data from 11322),9.21,7.8%,Belgium
+2020,Teacher training,7.73,6.6%,Belgium
+2020,Early childhood education,2.84,2.4%,Belgium
+2020,Education facilities and training,2.13,1.8%,Belgium
+2020,Basic life skills for adults,0.79,0.7%,Belgium
+2020,Education policy and administrative management,0.22,0.2%,Belgium
+2019,Higher education,58.36,45.6%,Belgium
+2019,Vocational training,24.25,18.9%,Belgium
+2019,Teacher training,14.0,10.9%,Belgium
+2019,Primary education,12.58,9.8%,Belgium
+2019,Upper Secondary Education (modified and includes data from 11322),10.47,8.2%,Belgium
+2019,Education facilities and training,3.86,3.0%,Belgium
+2019,Early childhood education,2.49,1.9%,Belgium
+2019,Basic life skills for adults,1.39,1.1%,Belgium
+2019,Education policy and administrative management,0.72,0.6%,Belgium

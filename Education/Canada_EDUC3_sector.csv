@@ -1,71 +1,76 @@
-year,Sector,Bilateral ODA for,share,donor
-2023,Education policy and administrative management,118.30809879459989,36.33176346369658,Canada
-2023,Primary education,50.52695303720006,15.51654810611029,Canada
-2023,Vocational training,42.3624344942,13.009269572167845,Canada
-2023,Teacher training,24.65302729820006,7.5708084703254706,Canada
-2023,Upper Secondary Education (modified and includes data from 11322),20.529227999000014,6.304412490364609,Canada
-2023,Education facilities and training,16.13187651719999,4.954010146558316,Canada
-2023,Basic life skills for youth,14.13795030410001,4.341686423360091,Canada
-2023,School feeding,12.139831117899996,3.7280750612898697,Canada
-2023,Higher education,7.177779043700003,2.204256285642298,Canada
-2023,Basic life skills for adults,6.977413922199994,2.142725263887383,Canada
-2023,Early childhood education,6.919207485699998,2.124850388840544,Canada
-2023,Advanced technical and managerial training,3.5288073330000023,1.0836772345915344,Canada
-2023,Educational research,1.4083720990000002,0.4325032900627885,Canada
-2023,Primary education equivalent for adults,0.8317108384000003,0.25541380310238615,Canada
-2022,Primary education,64.2544793508,23.645163972278272,Canada
-2022,Vocational training,41.38403308280001,15.22901217103725,Canada
-2022,Teacher training,34.025074235700004,12.520970796132529,Canada
-2022,Education policy and administrative management,30.09647722179998,11.075276713584302,Canada
-2022,Upper Secondary Education (modified and includes data from 11322),26.341977959599994,9.693649291100002,Canada
-2022,Education facilities and training,18.938698419900007,6.969298235462049,Canada
-2022,Higher education,15.170079982499999,5.582475062951745,Canada
-2022,Basic life skills for youth,13.338564328900008,4.908491110630964,Canada
-2022,School feeding,8.8213873843,3.246204051020195,Canada
-2022,Early childhood education,6.6494273185,2.4469391216959813,Canada
-2022,Basic life skills for adults,5.845209608399994,2.15099306755543,Canada
-2022,Advanced technical and managerial training,4.556944261800001,1.6769211325257134,Canada
-2022,Educational research,1.8524941928999972,0.6817038966213079,Canada
-2022,Primary education equivalent for adults,0.4698503253,0.1729013774042582,Canada
-2021,Primary education,63.177582627899994,23.376415342720225,Canada
-2021,Teacher training,31.859092550599996,11.78822216562775,Canada
-2021,Education facilities and training,30.3465602801,11.228568232954784,Canada
-2021,Education policy and administrative management,28.32543785549999,10.48073022949387,Canada
-2021,Vocational training,27.07999299029998,10.019901637383153,Canada
-2021,Upper Secondary Education (modified and includes data from 11322),25.6121291176,9.476775513724611,Canada
-2021,School feeding,20.3891164772,7.544202158688558,Canada
-2021,Higher education,11.335533318400007,4.194274677188139,Canada
-2021,Basic life skills for youth,10.067766951400001,3.72518687863986,Canada
-2021,Early childhood education,8.621098445400001,3.1899032787802772,Canada
-2021,Basic life skills for adults,8.481775120500002,3.1383520833353145,Canada
-2021,Advanced technical and managerial training,2.9544686650000003,1.0931865981145068,Canada
-2021,Educational research,1.4826696679999998,0.5486044342556886,Canada
-2021,Primary education equivalent for adults,0.5288400752,0.19567676909327036,Canada
-2020,Primary education,84.81242232980001,24.650611984484733,Canada
-2020,Upper Secondary Education (modified and includes data from 11322),50.5426437227,14.690148740635179,Canada
-2020,Teacher training,48.335487295700005,14.048641810677802,Canada
-2020,Education policy and administrative management,36.680037845700014,10.661001722065757,Canada
-2020,Vocational training,35.17167315410001,10.222597633108801,Canada
-2020,Education facilities and training,26.136747895399992,7.59660923727,Canada
-2020,Higher education,15.224678489200006,4.425031519161487,Canada
-2020,Basic life skills for youth,13.8804355355,4.034329183887029,Canada
-2020,Basic life skills for adults,10.521353268300004,3.0580166188393934,Canada
-2020,Early childhood education,10.183567433499999,2.959839638171026,Canada
-2020,Advanced technical and managerial training,5.6715738358,1.6484350066551292,Canada
-2020,School feeding,4.922941099399999,1.430845948390544,Canada
-2020,Educational research,1.743096956,0.5066286934549081,Canada
-2020,Primary education equivalent for adults,0.23142125140000003,0.06726226319821642,Canada
-2019,Primary education,71.6747173326,22.66219801436128,Canada
-2019,Teacher training,52.252127548199994,16.521140302152,Canada
-2019,Vocational training,40.59092435850001,12.834087103959831,Canada
-2019,Education policy and administrative management,33.96002406230002,10.737521102469332,Canada
-2019,Education facilities and training,29.3906229687,9.29276238916076,Canada
-2019,Higher education,23.06570324850003,7.292941692847863,Canada
-2019,Upper Secondary Education (modified and includes data from 11322),19.252056011000004,6.0871381393842725,Canada
-2019,School feeding,18.4149606255,5.822464317301674,Canada
-2019,Early childhood education,7.8988239119,2.4974596096611656,Canada
-2019,Advanced technical and managerial training,7.6815169522,2.4287512347433013,Canada
-2019,Basic life skills for adults,6.6490112443,2.1022923427631928,Canada
-2019,Basic life skills for youth,3.7258585114000002,1.1780464088476545,Canada
-2019,Educational research,1.6742317924000003,0.5293606143606047,Canada
-2019,Primary education equivalent for adults,0.0437620202,0.01383672798706387,Canada
+year,Sub-Sector,Bilateral ODA for,Share,Donor
+2023,Education policy and administrative management,118.31,35.7%,Canada
+2023,Primary education,50.53,15.2%,Canada
+2023,Vocational training,42.36,12.8%,Canada
+2023,Teacher training,24.65,7.4%,Canada
+2023,Upper Secondary Education (modified and includes data from 11322),20.53,6.2%,Canada
+2023,Education facilities and training,16.13,4.9%,Canada
+2023,Basic life skills for youth,14.14,4.3%,Canada
+2023,School feeding,12.14,3.7%,Canada
+2023,Higher education,7.18,2.2%,Canada
+2023,Basic life skills for adults,6.98,2.1%,Canada
+2023,Early childhood education,6.92,2.1%,Canada
+2023,Lower secondary education,5.96,1.8%,Canada
+2023,Advanced technical and managerial training,3.53,1.1%,Canada
+2023,Educational research,1.41,0.4%,Canada
+2023,Primary education equivalent for adults,0.83,0.3%,Canada
+2022,Primary education,64.25,23.3%,Canada
+2022,Vocational training,41.38,15.0%,Canada
+2022,Teacher training,34.03,12.4%,Canada
+2022,Education policy and administrative management,30.1,10.9%,Canada
+2022,Upper Secondary Education (modified and includes data from 11322),26.34,9.6%,Canada
+2022,Education facilities and training,18.94,6.9%,Canada
+2022,Higher education,15.17,5.5%,Canada
+2022,Basic life skills for youth,13.34,4.8%,Canada
+2022,School feeding,8.82,3.2%,Canada
+2022,Early childhood education,6.65,2.4%,Canada
+2022,Basic life skills for adults,5.85,2.1%,Canada
+2022,Advanced technical and managerial training,4.56,1.7%,Canada
+2022,Lower secondary education,3.63,1.3%,Canada
+2022,Educational research,1.85,0.7%,Canada
+2022,Primary education equivalent for adults,0.47,0.2%,Canada
+2021,Primary education,63.18,22.7%,Canada
+2021,Teacher training,31.86,11.4%,Canada
+2021,Education facilities and training,30.35,10.9%,Canada
+2021,Education policy and administrative management,28.33,10.2%,Canada
+2021,Vocational training,27.08,9.7%,Canada
+2021,Upper Secondary Education (modified and includes data from 11322),25.61,9.2%,Canada
+2021,School feeding,20.39,7.3%,Canada
+2021,Higher education,11.34,4.1%,Canada
+2021,Basic life skills for youth,10.07,3.6%,Canada
+2021,Early childhood education,8.62,3.1%,Canada
+2021,Basic life skills for adults,8.48,3.0%,Canada
+2021,Lower secondary education,8.41,3.0%,Canada
+2021,Advanced technical and managerial training,2.95,1.1%,Canada
+2021,Educational research,1.48,0.5%,Canada
+2021,Primary education equivalent for adults,0.53,0.2%,Canada
+2020,Primary education,84.81,24.3%,Canada
+2020,Upper Secondary Education (modified and includes data from 11322),50.54,14.5%,Canada
+2020,Teacher training,48.34,13.8%,Canada
+2020,Education policy and administrative management,36.68,10.5%,Canada
+2020,Vocational training,35.17,10.1%,Canada
+2020,Education facilities and training,26.14,7.5%,Canada
+2020,Higher education,15.22,4.4%,Canada
+2020,Basic life skills for youth,13.88,4.0%,Canada
+2020,Basic life skills for adults,10.52,3.0%,Canada
+2020,Early childhood education,10.18,2.9%,Canada
+2020,Advanced technical and managerial training,5.67,1.6%,Canada
+2020,Lower secondary education,5.12,1.5%,Canada
+2020,School feeding,4.92,1.4%,Canada
+2020,Educational research,1.74,0.5%,Canada
+2020,Primary education equivalent for adults,0.23,0.1%,Canada
+2019,Primary education,71.67,22.2%,Canada
+2019,Teacher training,52.25,16.2%,Canada
+2019,Vocational training,40.59,12.6%,Canada
+2019,Education policy and administrative management,33.96,10.5%,Canada
+2019,Education facilities and training,29.39,9.1%,Canada
+2019,Higher education,23.07,7.1%,Canada
+2019,Upper Secondary Education (modified and includes data from 11322),19.25,6.0%,Canada
+2019,School feeding,18.41,5.7%,Canada
+2019,Early childhood education,7.9,2.4%,Canada
+2019,Advanced technical and managerial training,7.68,2.4%,Canada
+2019,Basic life skills for adults,6.65,2.1%,Canada
+2019,Lower secondary education,6.38,2.0%,Canada
+2019,Basic life skills for youth,3.73,1.2%,Canada
+2019,Educational research,1.67,0.5%,Canada
+2019,Primary education equivalent for adults,0.04,0.0%,Canada

@@ -1,101 +1,101 @@
-year,Recipient country,ODA Grants,ODA Loans,share,donor
-2023,"Bilateral, unspecified",1694.2419800999994,0.0,79.0%,Ireland
-2023,Ethiopia,42.92547465000003,0.0,2.0%,Ireland
-2023,Ukraine,30.610964850000006,0.0,1.4%,Ireland
-2023,Mozambique,27.953290364999997,0.0,1.3%,Ireland
-2023,Tanzania,26.93953709999999,0.0,1.3%,Ireland
-2023,Malawi,25.694608545000015,0.0,1.2%,Ireland
-2023,Uganda,22.014198584999992,0.0,1.0%,Ireland
-2023,Sierra Leone,19.460637435000006,0.0,0.9%,Ireland
-2023,West Bank and Gaza Strip,19.215479759999997,0.0,0.9%,Ireland
-2023,"Middle East, regional",13.51663281,0.0,0.6%,Ireland
-2023,Syrian Arab Republic,11.578055909999996,0.0,0.5%,Ireland
-2023,Zimbabwe,11.517479774999995,0.0,0.5%,Ireland
-2023,South Sudan,11.319807254999999,0.0,0.5%,Ireland
-2023,Pakistan,10.813307099999998,0.0,0.5%,Ireland
-2023,Somalia,10.268330625,0.0,0.5%,Ireland
-2023,Kenya,8.620563690000004,0.0,0.4%,Ireland
-2023,Sudan,8.47776849,0.0,0.4%,Ireland
-2023,Lebanon,8.37792474,0.0,0.4%,Ireland
-2023,Democratic Republic of the Congo,8.340103395,0.0,0.4%,Ireland
-2023,Liberia,7.621718294999998,0.0,0.4%,Ireland
-2022,"Bilateral, unspecified",1469.2440745650003,0.0,75.6%,Ireland
-2022,Ukraine,59.21897354999999,0.0,3.0%,Ireland
-2022,Ethiopia,46.131354690000016,0.0,2.4%,Ireland
-2022,Mozambique,30.57826189499998,0.0,1.6%,Ireland
-2022,Tanzania,27.994815779999993,0.0,1.4%,Ireland
-2022,Uganda,27.273659550000005,0.0,1.4%,Ireland
-2022,Malawi,25.241556480000003,0.0,1.3%,Ireland
-2022,Sierra Leone,20.558192355000003,0.0,1.1%,Ireland
-2022,Somalia,18.47840604,0.0,1.0%,Ireland
-2022,South Sudan,14.718518325,0.0,0.8%,Ireland
-2022,Kenya,12.806513175000003,0.0,0.7%,Ireland
-2022,Zimbabwe,12.723365429999996,0.0,0.7%,Ireland
-2022,Sudan,10.413025784999999,0.0,0.5%,Ireland
-2022,West Bank and Gaza Strip,10.110427334999999,0.0,0.5%,Ireland
-2022,Democratic Republic of the Congo,8.3844468,0.0,0.4%,Ireland
-2022,"Africa, regional",8.01362445,0.0,0.4%,Ireland
-2022,"Middle East, regional",7.970084054999999,0.0,0.4%,Ireland
-2022,Syrian Arab Republic,7.5007161899999995,0.0,0.4%,Ireland
-2022,"Eastern Africa, regional",7.41164598,0.0,0.4%,Ireland
-2022,Liberia,7.346788545,0.0,0.4%,Ireland
-2021,"Bilateral, unspecified",243.48446521499994,0.0,38.8%,Ireland
-2021,Ethiopia,48.43785394499997,0.0,7.7%,Ireland
-2021,Mozambique,32.37647286000001,0.0,5.2%,Ireland
-2021,Tanzania,30.08718933,0.0,4.8%,Ireland
-2021,Uganda,29.057695365000015,0.0,4.6%,Ireland
-2021,Malawi,20.804287229999986,0.0,3.3%,Ireland
-2021,Sierra Leone,19.367026065000005,0.0,3.1%,Ireland
-2021,West Bank and Gaza Strip,12.888153944999996,0.0,2.1%,Ireland
-2021,South Sudan,11.644828214999997,0.0,1.9%,Ireland
-2021,Zimbabwe,10.882652444999996,0.0,1.7%,Ireland
-2021,Kenya,10.466829585,0.0,1.7%,Ireland
-2021,Syrian Arab Republic,9.50990472,0.0,1.5%,Ireland
-2021,Somalia,8.615085330000001,0.0,1.4%,Ireland
-2021,Democratic Republic of the Congo,7.9274766,0.0,1.3%,Ireland
-2021,Afghanistan,7.68309957,0.0,1.2%,Ireland
-2021,Yemen,7.64256993,0.0,1.2%,Ireland
-2021,Liberia,7.0201604999999985,0.0,1.1%,Ireland
-2021,"Middle East, regional",6.91492146,0.0,1.1%,Ireland
-2021,Sudan,6.4569246,0.0,1.0%,Ireland
-2021,Central African Republic,6.29017116,0.0,1.0%,Ireland
-2020,"Bilateral, unspecified",183.3697265549999,0.0,33.3%,Ireland
-2020,Ethiopia,47.66968754999999,0.0,8.7%,Ireland
-2020,Mozambique,30.978592200000005,0.0,5.6%,Ireland
-2020,Tanzania,27.513790424999996,0.0,5.0%,Ireland
-2020,Uganda,27.346956044999995,0.0,5.0%,Ireland
-2020,Malawi,25.04331525000002,0.0,4.6%,Ireland
-2020,Sierra Leone,17.572255050000003,0.0,3.2%,Ireland
-2020,Zimbabwe,10.537831005000003,0.0,1.9%,Ireland
-2020,West Bank and Gaza Strip,10.354776674999998,0.0,1.9%,Ireland
-2020,South Sudan,10.339879454999998,0.0,1.9%,Ireland
-2020,Kenya,9.683102475000002,0.0,1.8%,Ireland
-2020,Viet Nam,9.05775471,0.0,1.6%,Ireland
-2020,Democratic Republic of the Congo,8.596591604999999,0.0,1.6%,Ireland
-2020,Syrian Arab Republic,8.135280465,0.0,1.5%,Ireland
-2020,Somalia,8.082401085,0.0,1.5%,Ireland
-2020,Sudan,7.378764104999999,0.0,1.3%,Ireland
-2020,Yemen,7.2406399949999996,0.0,1.3%,Ireland
-2020,Zambia,6.869578019999999,0.0,1.2%,Ireland
-2020,Türkiye,6.647111235,0.0,1.2%,Ireland
-2020,Central African Republic,6.052202235,0.0,1.1%,Ireland
-2019,"Bilateral, unspecified",238.62781493999984,0.0,39.3%,Ireland
-2019,Ethiopia,47.571849194999984,0.0,7.8%,Ireland
-2019,Mozambique,31.76175699000001,0.0,5.2%,Ireland
-2019,Tanzania,27.5678445,0.0,4.5%,Ireland
-2019,Malawi,26.45375225999999,0.0,4.4%,Ireland
-2019,Uganda,25.409848844999992,0.0,4.2%,Ireland
-2019,Sierra Leone,16.287050324999996,0.0,2.7%,Ireland
-2019,West Bank and Gaza Strip,13.881753150000002,0.0,2.3%,Ireland
-2019,South Sudan,13.306943894999998,0.0,2.2%,Ireland
-2019,Democratic Republic of the Congo,11.376180900000003,0.0,1.9%,Ireland
-2019,Viet Nam,9.97250877,0.0,1.6%,Ireland
-2019,Zimbabwe,8.94658149,0.0,1.5%,Ireland
-2019,Kenya,8.537518185000001,0.0,1.4%,Ireland
-2019,Zambia,7.520148180000001,0.0,1.2%,Ireland
-2019,Somalia,7.418152065,0.0,1.2%,Ireland
-2019,Central African Republic,7.238915759999999,0.0,1.2%,Ireland
-2019,Syrian Arab Republic,6.92086416,0.0,1.1%,Ireland
-2019,Sudan,6.4092818250000025,0.0,1.1%,Ireland
-2019,Yemen,5.997204570000001,0.0,1.0%,Ireland
-2019,Türkiye,5.96937612,0.0,1.0%,Ireland
+year,Recipient Country,ODA Grants,ODA Loans,Share,Donor
+2023,"Bilateral, unspecified",1694.24,0.0,79.0%,Ireland
+2023,Ethiopia,42.93,0.0,2.0%,Ireland
+2023,Ukraine,30.61,0.0,1.4%,Ireland
+2023,Mozambique,27.95,0.0,1.3%,Ireland
+2023,Tanzania,26.94,0.0,1.3%,Ireland
+2023,Malawi,25.69,0.0,1.2%,Ireland
+2023,Uganda,22.01,0.0,1.0%,Ireland
+2023,Sierra Leone,19.46,0.0,0.9%,Ireland
+2023,West Bank and Gaza Strip,19.22,0.0,0.9%,Ireland
+2023,"Middle East, regional",13.52,0.0,0.6%,Ireland
+2023,Syrian Arab Republic,11.58,0.0,0.5%,Ireland
+2023,Zimbabwe,11.52,0.0,0.5%,Ireland
+2023,South Sudan,11.32,0.0,0.5%,Ireland
+2023,Pakistan,10.81,0.0,0.5%,Ireland
+2023,Somalia,10.27,0.0,0.5%,Ireland
+2023,Kenya,8.62,0.0,0.4%,Ireland
+2023,Sudan,8.48,0.0,0.4%,Ireland
+2023,Lebanon,8.38,0.0,0.4%,Ireland
+2023,Democratic Republic of the Congo,8.34,0.0,0.4%,Ireland
+2023,Liberia,7.62,0.0,0.4%,Ireland
+2022,"Bilateral, unspecified",1469.24,0.0,75.6%,Ireland
+2022,Ukraine,59.22,0.0,3.0%,Ireland
+2022,Ethiopia,46.13,0.0,2.4%,Ireland
+2022,Mozambique,30.58,0.0,1.6%,Ireland
+2022,Tanzania,27.99,0.0,1.4%,Ireland
+2022,Uganda,27.27,0.0,1.4%,Ireland
+2022,Malawi,25.24,0.0,1.3%,Ireland
+2022,Sierra Leone,20.56,0.0,1.1%,Ireland
+2022,Somalia,18.48,0.0,1.0%,Ireland
+2022,South Sudan,14.72,0.0,0.8%,Ireland
+2022,Kenya,12.81,0.0,0.7%,Ireland
+2022,Zimbabwe,12.72,0.0,0.7%,Ireland
+2022,Sudan,10.41,0.0,0.5%,Ireland
+2022,West Bank and Gaza Strip,10.11,0.0,0.5%,Ireland
+2022,Democratic Republic of the Congo,8.38,0.0,0.4%,Ireland
+2022,"Africa, regional",8.01,0.0,0.4%,Ireland
+2022,"Middle East, regional",7.97,0.0,0.4%,Ireland
+2022,Syrian Arab Republic,7.5,0.0,0.4%,Ireland
+2022,"Eastern Africa, regional",7.41,0.0,0.4%,Ireland
+2022,Liberia,7.35,0.0,0.4%,Ireland
+2021,"Bilateral, unspecified",243.48,0.0,38.8%,Ireland
+2021,Ethiopia,48.44,0.0,7.7%,Ireland
+2021,Mozambique,32.38,0.0,5.2%,Ireland
+2021,Tanzania,30.09,0.0,4.8%,Ireland
+2021,Uganda,29.06,0.0,4.6%,Ireland
+2021,Malawi,20.8,0.0,3.3%,Ireland
+2021,Sierra Leone,19.37,0.0,3.1%,Ireland
+2021,West Bank and Gaza Strip,12.89,0.0,2.1%,Ireland
+2021,South Sudan,11.64,0.0,1.9%,Ireland
+2021,Zimbabwe,10.88,0.0,1.7%,Ireland
+2021,Kenya,10.47,0.0,1.7%,Ireland
+2021,Syrian Arab Republic,9.51,0.0,1.5%,Ireland
+2021,Somalia,8.62,0.0,1.4%,Ireland
+2021,Democratic Republic of the Congo,7.93,0.0,1.3%,Ireland
+2021,Afghanistan,7.68,0.0,1.2%,Ireland
+2021,Yemen,7.64,0.0,1.2%,Ireland
+2021,Liberia,7.02,0.0,1.1%,Ireland
+2021,"Middle East, regional",6.91,0.0,1.1%,Ireland
+2021,Sudan,6.46,0.0,1.0%,Ireland
+2021,Central African Republic,6.29,0.0,1.0%,Ireland
+2020,"Bilateral, unspecified",183.37,0.0,33.3%,Ireland
+2020,Ethiopia,47.67,0.0,8.7%,Ireland
+2020,Mozambique,30.98,0.0,5.6%,Ireland
+2020,Tanzania,27.51,0.0,5.0%,Ireland
+2020,Uganda,27.35,0.0,5.0%,Ireland
+2020,Malawi,25.04,0.0,4.6%,Ireland
+2020,Sierra Leone,17.57,0.0,3.2%,Ireland
+2020,Zimbabwe,10.54,0.0,1.9%,Ireland
+2020,West Bank and Gaza Strip,10.35,0.0,1.9%,Ireland
+2020,South Sudan,10.34,0.0,1.9%,Ireland
+2020,Kenya,9.68,0.0,1.8%,Ireland
+2020,Viet Nam,9.06,0.0,1.6%,Ireland
+2020,Democratic Republic of the Congo,8.6,0.0,1.6%,Ireland
+2020,Syrian Arab Republic,8.14,0.0,1.5%,Ireland
+2020,Somalia,8.08,0.0,1.5%,Ireland
+2020,Sudan,7.38,0.0,1.3%,Ireland
+2020,Yemen,7.24,0.0,1.3%,Ireland
+2020,Zambia,6.87,0.0,1.2%,Ireland
+2020,Türkiye,6.65,0.0,1.2%,Ireland
+2020,Central African Republic,6.05,0.0,1.1%,Ireland
+2019,"Bilateral, unspecified",238.63,0.0,39.3%,Ireland
+2019,Ethiopia,47.57,0.0,7.8%,Ireland
+2019,Mozambique,31.76,0.0,5.2%,Ireland
+2019,Tanzania,27.57,0.0,4.5%,Ireland
+2019,Malawi,26.45,0.0,4.4%,Ireland
+2019,Uganda,25.41,0.0,4.2%,Ireland
+2019,Sierra Leone,16.29,0.0,2.7%,Ireland
+2019,West Bank and Gaza Strip,13.88,0.0,2.3%,Ireland
+2019,South Sudan,13.31,0.0,2.2%,Ireland
+2019,Democratic Republic of the Congo,11.38,0.0,1.9%,Ireland
+2019,Viet Nam,9.97,0.0,1.6%,Ireland
+2019,Zimbabwe,8.95,0.0,1.5%,Ireland
+2019,Kenya,8.54,0.0,1.4%,Ireland
+2019,Zambia,7.52,0.0,1.2%,Ireland
+2019,Somalia,7.42,0.0,1.2%,Ireland
+2019,Central African Republic,7.24,0.0,1.2%,Ireland
+2019,Syrian Arab Republic,6.92,0.0,1.1%,Ireland
+2019,Sudan,6.41,0.0,1.1%,Ireland
+2019,Yemen,6.0,0.0,1.0%,Ireland
+2019,Türkiye,5.97,0.0,1.0%,Ireland

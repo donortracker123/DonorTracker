@@ -1,101 +1,101 @@
-year,Recipient country,ODA Grants,ODA Loans,share,donor
-2023,"Bilateral, unspecified",1649.9424822095984,0.0,38.4%,Norway
-2023,Ukraine,752.6648266435999,0.0,17.5%,Norway
-2023,"South of Sahara, regional",116.42242157159998,0.0,2.7%,Norway
-2023,West Bank and Gaza Strip,114.93946904839997,0.0,2.7%,Norway
-2023,Syrian Arab Republic,99.30969919800003,0.0,2.3%,Norway
-2023,Ethiopia,81.74110735319998,0.0,1.9%,Norway
-2023,Afghanistan,80.6784499172,0.0,1.9%,Norway
-2023,South Sudan,78.2207223184,0.0,1.8%,Norway
-2023,Moldova,75.65279871280002,0.0,1.8%,Norway
-2023,"Africa, regional",73.0071715208,0.0,1.7%,Norway
-2023,Somalia,72.07020613560002,0.0,1.7%,Norway
-2023,Indonesia,69.65843781599999,0.0,1.6%,Norway
-2023,Mozambique,58.051009858000015,0.0,1.4%,Norway
-2023,Malawi,52.734955234,0.0,1.2%,Norway
-2023,Tanzania,51.152653113599996,0.0,1.2%,Norway
-2023,Sudan,49.38863503600001,0.0,1.1%,Norway
-2023,Lebanon,43.14738200160001,0.0,1.0%,Norway
-2023,Colombia,42.98827121679999,0.0,1.0%,Norway
-2023,Uganda,41.4434503068,0.0,1.0%,Norway
-2023,"Eastern Africa, regional",38.0928754716,0.0,0.9%,Norway
-2022,"Bilateral, unspecified",1591.0552731336018,0.0,47.0%,Norway
-2022,Ukraine,452.8191180516,0.0,13.4%,Norway
-2022,Ethiopia,75.73778634320003,0.0,2.2%,Norway
-2022,Syrian Arab Republic,71.02994364480001,0.0,2.1%,Norway
-2022,Indonesia,67.64474948120001,0.0,2.0%,Norway
-2022,Afghanistan,63.9533257316,0.0,1.9%,Norway
-2022,South Sudan,58.10572477160002,0.0,1.7%,Norway
-2022,West Bank and Gaza Strip,57.09795962839998,0.0,1.7%,Norway
-2022,Somalia,55.10986152800001,0.0,1.6%,Norway
-2022,Colombia,46.76791976720003,0.0,1.4%,Norway
-2022,"South of Sahara, regional",43.72464618400001,0.0,1.3%,Norway
-2022,Mozambique,42.2824079356,0.0,1.2%,Norway
-2022,Malawi,41.46201846000002,0.0,1.2%,Norway
-2022,"Africa, regional",41.1206636864,0.0,1.2%,Norway
-2022,Tanzania,38.572055526,0.0,1.1%,Norway
-2022,Lebanon,37.147556018799996,0.0,1.1%,Norway
-2022,Uganda,32.9789953604,0.0,1.0%,Norway
-2022,Nepal,28.136404417599994,0.0,0.8%,Norway
-2022,"Middle Africa, regional",25.7880992552,0.0,0.8%,Norway
-2022,Moldova,25.315052743600003,0.0,0.7%,Norway
-2021,"Bilateral, unspecified",1730.0588814955963,0.0,52.4%,Norway
-2021,Syrian Arab Republic,98.21205453600002,0.0,3.0%,Norway
-2021,Ethiopia,83.3060977564,0.0,2.5%,Norway
-2021,Afghanistan,76.5396183412,0.0,2.3%,Norway
-2021,West Bank and Gaza Strip,76.20436918959999,0.0,2.3%,Norway
-2021,Colombia,67.84394468040003,0.0,2.1%,Norway
-2021,South Sudan,67.83883599520003,0.0,2.1%,Norway
-2021,Somalia,57.62233196120002,0.0,1.7%,Norway
-2021,Mozambique,56.719603225200025,0.0,1.7%,Norway
-2021,"Middle Africa, regional",54.70372064399999,0.0,1.7%,Norway
-2021,Lebanon,50.829193109200006,0.0,1.5%,Norway
-2021,Malawi,50.53062039200001,0.0,1.5%,Norway
-2021,"Africa, regional",46.899818447600005,0.0,1.4%,Norway
-2021,"South of Sahara, regional",45.16165667319999,0.0,1.4%,Norway
-2021,Tanzania,43.04919193880004,0.0,1.3%,Norway
-2021,Nepal,37.405208340000016,0.0,1.1%,Norway
-2021,Uganda,31.410913139199987,0.0,1.0%,Norway
-2021,Myanmar,30.63222009360002,0.0,0.9%,Norway
-2021,Indonesia,28.686517264400003,0.0,0.9%,Norway
-2021,Democratic Republic of the Congo,28.633659905200002,0.0,0.9%,Norway
-2020,"Bilateral, unspecified",1865.6989696256026,0.0,49.3%,Norway
-2020,Syrian Arab Republic,121.80500242880001,0.0,3.2%,Norway
-2020,Ethiopia,95.92202090440003,0.0,2.5%,Norway
-2020,Afghanistan,95.89241582320001,0.0,2.5%,Norway
-2020,South Sudan,82.1826468844,0.0,2.2%,Norway
-2020,West Bank and Gaza Strip,80.63455102879999,0.0,2.1%,Norway
-2020,Somalia,78.65871262320002,0.0,2.1%,Norway
-2020,Indonesia,71.0517580016,0.0,1.9%,Norway
-2020,Lebanon,68.11180041160002,0.0,1.8%,Norway
-2020,Colombia,67.23413634199999,0.0,1.8%,Norway
-2020,Malawi,64.53375235520001,0.0,1.7%,Norway
-2020,Mozambique,59.15187772999999,0.0,1.6%,Norway
-2020,Tanzania,56.5621217012,0.0,1.5%,Norway
-2020,"Africa, regional",51.66166407920001,0.0,1.4%,Norway
-2020,"Middle Africa, regional",51.2476150392,0.0,1.4%,Norway
-2020,Uganda,40.4237227432,0.0,1.1%,Norway
-2020,Nepal,39.687294398000006,0.0,1.0%,Norway
-2020,Democratic Republic of the Congo,37.700729478000014,0.0,1.0%,Norway
-2020,"South of Sahara, regional",37.62671061600001,0.0,1.0%,Norway
-2020,Myanmar,36.85105518920001,0.0,1.0%,Norway
-2019,"Bilateral, unspecified",1700.5671168624003,0.0,46.3%,Norway
-2019,Syrian Arab Republic,149.20132087639996,0.0,4.1%,Norway
-2019,"South of Sahara, regional",136.7307353468,0.0,3.7%,Norway
-2019,Afghanistan,87.41628094920003,0.0,2.4%,Norway
-2019,Ethiopia,87.19456844600002,0.0,2.4%,Norway
-2019,Colombia,83.76728778240005,0.0,2.3%,Norway
-2019,West Bank and Gaza Strip,77.25263591680002,0.0,2.1%,Norway
-2019,South Sudan,75.7748700928,0.0,2.1%,Norway
-2019,Somalia,70.78487949840002,0.0,1.9%,Norway
-2019,"Africa, regional",70.69006128279997,0.0,1.9%,Norway
-2019,"Middle East, regional",63.8678379904,0.0,1.7%,Norway
-2019,Mozambique,63.62728058959999,0.0,1.7%,Norway
-2019,Malawi,62.17398241960001,0.0,1.7%,Norway
-2019,Lebanon,55.69412479800001,0.0,1.5%,Norway
-2019,Indonesia,52.93852414440001,0.0,1.4%,Norway
-2019,Guyana,52.4226192048,0.0,1.4%,Norway
-2019,Tanzania,52.25321549920001,0.0,1.4%,Norway
-2019,Uganda,39.19677767759999,0.0,1.1%,Norway
-2019,Nepal,36.30022132879999,0.0,1.0%,Norway
-2019,Iraq,35.1266132032,0.0,1.0%,Norway
+year,Recipient Country,ODA Grants,ODA Loans,Share,Donor
+2023,"Bilateral, unspecified",1649.94,0.0,38.4%,Norway
+2023,Ukraine,752.66,0.0,17.5%,Norway
+2023,"South of Sahara, regional",116.42,0.0,2.7%,Norway
+2023,West Bank and Gaza Strip,114.94,0.0,2.7%,Norway
+2023,Syrian Arab Republic,99.31,0.0,2.3%,Norway
+2023,Ethiopia,81.74,0.0,1.9%,Norway
+2023,Afghanistan,80.68,0.0,1.9%,Norway
+2023,South Sudan,78.22,0.0,1.8%,Norway
+2023,Moldova,75.65,0.0,1.8%,Norway
+2023,"Africa, regional",73.01,0.0,1.7%,Norway
+2023,Somalia,72.07,0.0,1.7%,Norway
+2023,Indonesia,69.66,0.0,1.6%,Norway
+2023,Mozambique,58.05,0.0,1.4%,Norway
+2023,Malawi,52.73,0.0,1.2%,Norway
+2023,Tanzania,51.15,0.0,1.2%,Norway
+2023,Sudan,49.39,0.0,1.1%,Norway
+2023,Lebanon,43.15,0.0,1.0%,Norway
+2023,Colombia,42.99,0.0,1.0%,Norway
+2023,Uganda,41.44,0.0,1.0%,Norway
+2023,"Eastern Africa, regional",38.09,0.0,0.9%,Norway
+2022,"Bilateral, unspecified",1591.06,0.0,47.0%,Norway
+2022,Ukraine,452.82,0.0,13.4%,Norway
+2022,Ethiopia,75.74,0.0,2.2%,Norway
+2022,Syrian Arab Republic,71.03,0.0,2.1%,Norway
+2022,Indonesia,67.64,0.0,2.0%,Norway
+2022,Afghanistan,63.95,0.0,1.9%,Norway
+2022,South Sudan,58.11,0.0,1.7%,Norway
+2022,West Bank and Gaza Strip,57.1,0.0,1.7%,Norway
+2022,Somalia,55.11,0.0,1.6%,Norway
+2022,Colombia,46.77,0.0,1.4%,Norway
+2022,"South of Sahara, regional",43.72,0.0,1.3%,Norway
+2022,Mozambique,42.28,0.0,1.2%,Norway
+2022,Malawi,41.46,0.0,1.2%,Norway
+2022,"Africa, regional",41.12,0.0,1.2%,Norway
+2022,Tanzania,38.57,0.0,1.1%,Norway
+2022,Lebanon,37.15,0.0,1.1%,Norway
+2022,Uganda,32.98,0.0,1.0%,Norway
+2022,Nepal,28.14,0.0,0.8%,Norway
+2022,"Middle Africa, regional",25.79,0.0,0.8%,Norway
+2022,Moldova,25.32,0.0,0.7%,Norway
+2021,"Bilateral, unspecified",1730.06,0.0,52.4%,Norway
+2021,Syrian Arab Republic,98.21,0.0,3.0%,Norway
+2021,Ethiopia,83.31,0.0,2.5%,Norway
+2021,Afghanistan,76.54,0.0,2.3%,Norway
+2021,West Bank and Gaza Strip,76.2,0.0,2.3%,Norway
+2021,Colombia,67.84,0.0,2.1%,Norway
+2021,South Sudan,67.84,0.0,2.1%,Norway
+2021,Somalia,57.62,0.0,1.7%,Norway
+2021,Mozambique,56.72,0.0,1.7%,Norway
+2021,"Middle Africa, regional",54.7,0.0,1.7%,Norway
+2021,Lebanon,50.83,0.0,1.5%,Norway
+2021,Malawi,50.53,0.0,1.5%,Norway
+2021,"Africa, regional",46.9,0.0,1.4%,Norway
+2021,"South of Sahara, regional",45.16,0.0,1.4%,Norway
+2021,Tanzania,43.05,0.0,1.3%,Norway
+2021,Nepal,37.41,0.0,1.1%,Norway
+2021,Uganda,31.41,0.0,1.0%,Norway
+2021,Myanmar,30.63,0.0,0.9%,Norway
+2021,Indonesia,28.69,0.0,0.9%,Norway
+2021,Democratic Republic of the Congo,28.63,0.0,0.9%,Norway
+2020,"Bilateral, unspecified",1865.7,0.0,49.3%,Norway
+2020,Syrian Arab Republic,121.81,0.0,3.2%,Norway
+2020,Ethiopia,95.92,0.0,2.5%,Norway
+2020,Afghanistan,95.89,0.0,2.5%,Norway
+2020,South Sudan,82.18,0.0,2.2%,Norway
+2020,West Bank and Gaza Strip,80.63,0.0,2.1%,Norway
+2020,Somalia,78.66,0.0,2.1%,Norway
+2020,Indonesia,71.05,0.0,1.9%,Norway
+2020,Lebanon,68.11,0.0,1.8%,Norway
+2020,Colombia,67.23,0.0,1.8%,Norway
+2020,Malawi,64.53,0.0,1.7%,Norway
+2020,Mozambique,59.15,0.0,1.6%,Norway
+2020,Tanzania,56.56,0.0,1.5%,Norway
+2020,"Africa, regional",51.66,0.0,1.4%,Norway
+2020,"Middle Africa, regional",51.25,0.0,1.4%,Norway
+2020,Uganda,40.42,0.0,1.1%,Norway
+2020,Nepal,39.69,0.0,1.0%,Norway
+2020,Democratic Republic of the Congo,37.7,0.0,1.0%,Norway
+2020,"South of Sahara, regional",37.63,0.0,1.0%,Norway
+2020,Myanmar,36.85,0.0,1.0%,Norway
+2019,"Bilateral, unspecified",1700.57,0.0,46.3%,Norway
+2019,Syrian Arab Republic,149.2,0.0,4.1%,Norway
+2019,"South of Sahara, regional",136.73,0.0,3.7%,Norway
+2019,Afghanistan,87.42,0.0,2.4%,Norway
+2019,Ethiopia,87.19,0.0,2.4%,Norway
+2019,Colombia,83.77,0.0,2.3%,Norway
+2019,West Bank and Gaza Strip,77.25,0.0,2.1%,Norway
+2019,South Sudan,75.77,0.0,2.1%,Norway
+2019,Somalia,70.78,0.0,1.9%,Norway
+2019,"Africa, regional",70.69,0.0,1.9%,Norway
+2019,"Middle East, regional",63.87,0.0,1.7%,Norway
+2019,Mozambique,63.63,0.0,1.7%,Norway
+2019,Malawi,62.17,0.0,1.7%,Norway
+2019,Lebanon,55.69,0.0,1.5%,Norway
+2019,Indonesia,52.94,0.0,1.4%,Norway
+2019,Guyana,52.42,0.0,1.4%,Norway
+2019,Tanzania,52.25,0.0,1.4%,Norway
+2019,Uganda,39.2,0.0,1.1%,Norway
+2019,Nepal,36.3,0.0,1.0%,Norway
+2019,Iraq,35.13,0.0,1.0%,Norway

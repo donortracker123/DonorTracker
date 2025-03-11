@@ -1,71 +1,51 @@
-year,Region,Bilateral ODA,share,donor
-2023,Regional and Unspecified,893379.595607709,73.7%,United Kingdom
-2023,South of Sahara,121058.06727786997,10.0%,United Kingdom
-2023,South & Central Asia,47942.28574068001,4.0%,United Kingdom
-2023,Middle East,44997.375663239996,3.7%,United Kingdom
-2023,Europe,43880.47130406001,3.6%,United Kingdom
-2023,Africa,22000.031595350003,1.8%,United Kingdom
-2023,South America,10813.213184640008,0.9%,United Kingdom
-2023,Asia,7506.215606389999,0.6%,United Kingdom
-2023,Caribbean & Central America,7226.4438530299985,0.6%,United Kingdom
-2023,Far East Asia,6243.267360600004,0.5%,United Kingdom
-2023,America,3420.52004619,0.3%,United Kingdom
-2023,North of Sahara,3180.65718165,0.3%,United Kingdom
-2023,Oceania,1043.75190877,0.1%,United Kingdom
+year,Region,Bilateral ODA,Share,Donor
+2023,"Developing countries, unspecified",8933.8,73.7%,United Kingdom
+2023,sub-Saharan Africa,1210.58,10.0%,United Kingdom
+2023,Asia,541.86,4.5%,United Kingdom
+2023,MENA region,481.78,4.0%,United Kingdom
+2023,Europe,438.8,3.6%,United Kingdom
+2023,"Africa, regional",220.0,1.8%,United Kingdom
+2023,Latin America and the Caribbeans,214.6,1.8%,United Kingdom
+2023,"Asia, regional",75.06,0.6%,United Kingdom
+2023,Oceania,10.44,0.1%,United Kingdom
 2023,,0.0,0.0%,United Kingdom
-2022,Regional and Unspecified,899235.5964120876,69.1%,United Kingdom
-2022,South of Sahara,132712.02962411058,10.2%,United Kingdom
-2022,South & Central Asia,93560.42934697997,7.2%,United Kingdom
-2022,Europe,60454.02309834998,4.6%,United Kingdom
-2022,Middle East,40129.25836884003,3.1%,United Kingdom
-2022,Africa,28909.622045489992,2.2%,United Kingdom
-2022,South America,13202.34223247,1.0%,United Kingdom
-2022,Caribbean & Central America,11320.231286420001,0.9%,United Kingdom
-2022,Far East Asia,10578.820044320008,0.8%,United Kingdom
-2022,Asia,5255.86899307,0.4%,United Kingdom
-2022,North of Sahara,3505.5543220800005,0.3%,United Kingdom
-2022,Oceania,1321.0108730299999,0.1%,United Kingdom
-2022,America,968.6526147,0.1%,United Kingdom
+2022,"Developing countries, unspecified",8992.36,69.1%,United Kingdom
+2022,sub-Saharan Africa,1327.12,10.2%,United Kingdom
+2022,Asia,1041.39,8.0%,United Kingdom
+2022,Europe,604.54,4.6%,United Kingdom
+2022,MENA region,436.35,3.4%,United Kingdom
+2022,"Africa, regional",289.1,2.2%,United Kingdom
+2022,Latin America and the Caribbeans,254.91,2.0%,United Kingdom
+2022,"Asia, regional",52.56,0.4%,United Kingdom
+2022,Oceania,13.21,0.1%,United Kingdom
 2022,,0.0,0.0%,United Kingdom
-2021,Regional and Unspecified,531099.2075680901,52.2%,United Kingdom
-2021,South of Sahara,198420.3002472297,19.5%,United Kingdom
-2021,South & Central Asia,96416.92645857984,9.5%,United Kingdom
-2021,Middle East,62099.250614340046,6.1%,United Kingdom
-2021,Africa,39207.607998880005,3.9%,United Kingdom
-2021,Europe,21667.41739078001,2.1%,United Kingdom
-2021,Far East Asia,19341.155557079986,1.9%,United Kingdom
-2021,South America,15224.761999899996,1.5%,United Kingdom
-2021,Caribbean & Central America,11833.547694620005,1.2%,United Kingdom
-2021,Asia,11689.835412359995,1.1%,United Kingdom
-2021,North of Sahara,8079.532615549997,0.8%,United Kingdom
-2021,Oceania,1367.74734408,0.1%,United Kingdom
-2021,America,1048.2825010499998,0.1%,United Kingdom
+2021,"Developing countries, unspecified",5310.99,52.2%,United Kingdom
+2021,sub-Saharan Africa,1984.2,19.5%,United Kingdom
+2021,Asia,1157.58,11.4%,United Kingdom
+2021,MENA region,701.79,6.9%,United Kingdom
+2021,"Africa, regional",392.08,3.9%,United Kingdom
+2021,Latin America and the Caribbeans,281.07,2.8%,United Kingdom
+2021,Europe,216.67,2.1%,United Kingdom
+2021,"Asia, regional",116.9,1.1%,United Kingdom
+2021,Oceania,13.68,0.1%,United Kingdom
 2021,,0.0,0.0%,United Kingdom
-2020,Regional and Unspecified,640733.2620164406,47.4%,United Kingdom
-2020,South of Sahara,308487.2763473608,22.8%,United Kingdom
-2020,South & Central Asia,140299.0323195101,10.4%,United Kingdom
-2020,Middle East,102706.97593797006,7.6%,United Kingdom
-2020,Africa,48669.253042680015,3.6%,United Kingdom
-2020,Europe,23233.223139499994,1.7%,United Kingdom
-2020,South America,22568.596912749974,1.7%,United Kingdom
-2020,Far East Asia,22179.177124510006,1.6%,United Kingdom
-2020,Caribbean & Central America,15211.262167559998,1.1%,United Kingdom
-2020,Asia,14465.80720635,1.1%,United Kingdom
-2020,North of Sahara,9525.018060849992,0.7%,United Kingdom
-2020,Oceania,2680.3914839500003,0.2%,United Kingdom
-2020,America,1189.7090430400003,0.1%,United Kingdom
+2020,"Developing countries, unspecified",6407.33,47.4%,United Kingdom
+2020,sub-Saharan Africa,3084.87,22.8%,United Kingdom
+2020,Asia,1624.78,12.0%,United Kingdom
+2020,MENA region,1122.32,8.3%,United Kingdom
+2020,"Africa, regional",486.69,3.6%,United Kingdom
+2020,Latin America and the Caribbeans,389.7,2.9%,United Kingdom
+2020,Europe,232.33,1.7%,United Kingdom
+2020,"Asia, regional",144.66,1.1%,United Kingdom
+2020,Oceania,26.8,0.2%,United Kingdom
 2020,,0.0,0.0%,United Kingdom
-2019,Regional and Unspecified,674017.2540910004,43.3%,United Kingdom
-2019,South of Sahara,372382.8849503795,23.9%,United Kingdom
-2019,South & Central Asia,185518.32501161017,11.9%,United Kingdom
-2019,Middle East,142906.71668894,9.2%,United Kingdom
-2019,Africa,58916.46919023009,3.8%,United Kingdom
-2019,Europe,27990.93315379,1.8%,United Kingdom
-2019,Far East Asia,24168.843664960015,1.6%,United Kingdom
-2019,South America,19739.297741439987,1.3%,United Kingdom
-2019,Asia,19116.81530387999,1.2%,United Kingdom
-2019,Caribbean & Central America,15794.602425260007,1.0%,United Kingdom
-2019,North of Sahara,12690.274106070001,0.8%,United Kingdom
-2019,Oceania,2435.0948076300006,0.2%,United Kingdom
-2019,America,981.5466950399999,0.1%,United Kingdom
+2019,"Developing countries, unspecified",6740.17,43.3%,United Kingdom
+2019,sub-Saharan Africa,3723.83,23.9%,United Kingdom
+2019,Asia,2096.87,13.5%,United Kingdom
+2019,MENA region,1555.97,10.0%,United Kingdom
+2019,"Africa, regional",589.16,3.8%,United Kingdom
+2019,Latin America and the Caribbeans,365.15,2.3%,United Kingdom
+2019,Europe,279.91,1.8%,United Kingdom
+2019,"Asia, regional",191.17,1.2%,United Kingdom
+2019,Oceania,24.35,0.2%,United Kingdom
 2019,,0.0,0.0%,United Kingdom

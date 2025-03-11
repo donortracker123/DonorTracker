@@ -1,56 +1,56 @@
-year,Sector,Bilateral ODA for,share,donor
-2023,Higher education,37.860295633599996,67.59820379359479,New Zealand
-2023,Education policy and administrative management,6.7339042012,12.023145115520018,New Zealand
-2023,Early childhood education,4.3205475192,7.714183072664532,New Zealand
-2023,Upper Secondary Education (modified and includes data from 11322),2.1722450199999996,3.878465793628535,New Zealand
-2023,Vocational training,1.2767133411999998,2.2795260095076184,New Zealand
-2023,Advanced technical and managerial training,1.0852551907999999,1.9376843294020345,New Zealand
-2023,Basic life skills for adults,0.8917394640000001,1.5921689202227498,New Zealand
-2023,Teacher training,0.7690260995999999,1.373068596886999,New Zealand
-2023,Education facilities and training,0.7201835212,1.2858619199914891,New Zealand
-2023,Basic life skills for youth,0.1072800036,0.1915446095960879,New Zealand
-2023,Educational research,0.0576121392,0.10286441406364263,New Zealand
-2023,Primary education,0.013040544,0.02328342492151637,New Zealand
-2022,Higher education,19.082747811599994,52.844705576673476,New Zealand
-2022,Education policy and administrative management,7.886874877199999,21.840648156149992,New Zealand
-2022,Early childhood education,3.4956798007999996,9.68037578693506,New Zealand
-2022,Upper Secondary Education (modified and includes data from 11322),1.8356113732,5.083248153129271,New Zealand
-2022,Education facilities and training,1.1334477924,3.138788788032853,New Zealand
-2022,Teacher training,0.6975922139999999,1.9318001540114116,New Zealand
-2022,Basic life skills for youth,0.6576463212,1.8211803960575719,New Zealand
-2022,Basic life skills for adults,0.4849534316,1.3429523653674877,New Zealand
-2022,Vocational training,0.4703207519999999,1.3024309659917777,New Zealand
-2022,School feeding,0.1624408896,0.4498377838073616,New Zealand
-2022,Advanced technical and managerial training,0.1268244164,0.3512072271120954,New Zealand
-2022,Primary education,0.067683704,0.187432409919734,New Zealand
-2022,Educational research,0.0091693888,0.025392236811907016,New Zealand
-2021,Higher education,37.225816782,62.82079586708653,New Zealand
-2021,Education policy and administrative management,7.395493441600001,12.480338216669486,New Zealand
-2021,Education facilities and training,4.2221908564,7.125200004477463,New Zealand
-2021,Early childhood education,4.0773393232,6.880754364735538,New Zealand
-2021,Upper Secondary Education (modified and includes data from 11322),2.2961875992,3.874954128921299,New Zealand
-2021,Vocational training,1.5650047072,2.6410391964745132,New Zealand
-2021,Educational research,1.1864926655999999,2.002277451155724,New Zealand
-2021,Basic life skills for youth,0.5364881852,0.9053559513528073,New Zealand
-2021,Primary education,0.5011239112,0.8456766204478117,New Zealand
-2021,Basic life skills for adults,0.2510181696,0.42360819867883337,New Zealand
-2021,Teacher training,0.0,0.0,New Zealand
-2020,Higher education,53.83718671759999,74.94921887170462,New Zealand
-2020,Primary education,5.6306875064,7.838738538271067,New Zealand
-2020,Education policy and administrative management,3.9339548511999998,5.476639125305635,New Zealand
-2020,Early childhood education,3.216657268,4.47805623423814,New Zealand
-2020,Vocational training,2.2541359456000003,3.1380861195356813,New Zealand
-2020,Educational research,1.0591453972,1.4744849244834406,New Zealand
-2020,Upper Secondary Education (modified and includes data from 11322),0.7952742951999998,1.1071378511407208,New Zealand
-2020,Basic life skills for adults,0.6463875747999999,0.8998658134526538,New Zealand
-2020,Basic life skills for youth,0.4455754995999999,0.6203061058625514,New Zealand
-2020,Education facilities and training,0.0125463976,0.01746641600547119,New Zealand
-2019,Higher education,55.4263892204,73.23462142734533,New Zealand
-2019,Primary education,6.4253272028,8.489753921597528,New Zealand
-2019,Early childhood education,5.2938765,6.994773551258622,New Zealand
-2019,Vocational training,3.4435699100000003,4.549972355489977,New Zealand
-2019,Education policy and administrative management,2.6489394404000004,3.5000309388773503,New Zealand
-2019,Educational research,1.3018338167999999,1.7201067591748131,New Zealand
-2019,Basic life skills for adults,0.76156982,1.006258539346883,New Zealand
-2019,Upper Secondary Education (modified and includes data from 11322),0.282334954,0.37304781644132046,New Zealand
-2019,Basic life skills for youth,0.0994741308,0.13143469046818163,New Zealand
+year,Sub-Sector,Bilateral ODA for,Share,Donor
+2023,Higher education,37.86,67.6%,New Zealand
+2023,Education policy and administrative management,6.73,12.0%,New Zealand
+2023,Early childhood education,4.32,7.7%,New Zealand
+2023,Upper Secondary Education (modified and includes data from 11322),2.17,3.9%,New Zealand
+2023,Vocational training,1.28,2.3%,New Zealand
+2023,Advanced technical and managerial training,1.09,1.9%,New Zealand
+2023,Basic life skills for adults,0.89,1.6%,New Zealand
+2023,Teacher training,0.77,1.4%,New Zealand
+2023,Education facilities and training,0.72,1.3%,New Zealand
+2023,Basic life skills for youth,0.11,0.2%,New Zealand
+2023,Educational research,0.06,0.1%,New Zealand
+2023,Primary education,0.01,0.0%,New Zealand
+2022,Higher education,19.08,52.8%,New Zealand
+2022,Education policy and administrative management,7.89,21.8%,New Zealand
+2022,Early childhood education,3.5,9.7%,New Zealand
+2022,Upper Secondary Education (modified and includes data from 11322),1.84,5.1%,New Zealand
+2022,Education facilities and training,1.13,3.1%,New Zealand
+2022,Teacher training,0.7,1.9%,New Zealand
+2022,Basic life skills for youth,0.66,1.8%,New Zealand
+2022,Basic life skills for adults,0.48,1.3%,New Zealand
+2022,Vocational training,0.47,1.3%,New Zealand
+2022,School feeding,0.16,0.4%,New Zealand
+2022,Advanced technical and managerial training,0.13,0.4%,New Zealand
+2022,Primary education,0.07,0.2%,New Zealand
+2022,Educational research,0.01,0.0%,New Zealand
+2021,Higher education,37.23,62.8%,New Zealand
+2021,Education policy and administrative management,7.4,12.5%,New Zealand
+2021,Education facilities and training,4.22,7.1%,New Zealand
+2021,Early childhood education,4.08,6.9%,New Zealand
+2021,Upper Secondary Education (modified and includes data from 11322),2.3,3.9%,New Zealand
+2021,Vocational training,1.57,2.6%,New Zealand
+2021,Educational research,1.19,2.0%,New Zealand
+2021,Basic life skills for youth,0.54,0.9%,New Zealand
+2021,Primary education,0.5,0.8%,New Zealand
+2021,Basic life skills for adults,0.25,0.4%,New Zealand
+2021,Teacher training,0.0,0.0%,New Zealand
+2020,Higher education,53.84,74.9%,New Zealand
+2020,Primary education,5.63,7.8%,New Zealand
+2020,Education policy and administrative management,3.93,5.5%,New Zealand
+2020,Early childhood education,3.22,4.5%,New Zealand
+2020,Vocational training,2.25,3.1%,New Zealand
+2020,Educational research,1.06,1.5%,New Zealand
+2020,Upper Secondary Education (modified and includes data from 11322),0.8,1.1%,New Zealand
+2020,Basic life skills for adults,0.65,0.9%,New Zealand
+2020,Basic life skills for youth,0.45,0.6%,New Zealand
+2020,Education facilities and training,0.01,0.0%,New Zealand
+2019,Higher education,55.43,73.2%,New Zealand
+2019,Primary education,6.43,8.5%,New Zealand
+2019,Early childhood education,5.29,7.0%,New Zealand
+2019,Vocational training,3.44,4.5%,New Zealand
+2019,Education policy and administrative management,2.65,3.5%,New Zealand
+2019,Educational research,1.3,1.7%,New Zealand
+2019,Basic life skills for adults,0.76,1.0%,New Zealand
+2019,Upper Secondary Education (modified and includes data from 11322),0.28,0.4%,New Zealand
+2019,Basic life skills for youth,0.1,0.1%,New Zealand

@@ -1,49 +1,49 @@
-year,Sector,Bilateral ODA for,share,donor
-2023,Reproductive health care,3.182633192,32.14239173502007,Iceland
-2023,Health education,2.5016941952,25.265379317185275,Iceland
-2023,Basic health care,2.4134629248,24.3743045732896,Iceland
-2023,Basic nutrition,1.2137472944,12.258007332415682,Iceland
-2023,Health policy and administrative management,0.21746362719999998,2.19623207322497,Iceland
-2023,Population policy and administrative management,0.1349192032,1.3625905406667338,Iceland
-2023,Medical research,0.1021751712,1.0318984878805162,Iceland
-2023,Basic health infrastructure,0.08601316,0.8686733645700502,Iceland
-2023,"NCDs control, general",0.049560087999999995,0.5005225757471038,Iceland
-2022,Reproductive health care,2.4006045711999997,27.08810336743727,Iceland
-2022,Infectious disease control,1.9641686256,22.16341808211,Iceland
-2022,Basic health care,1.9142522607999999,21.600168446726187,Iceland
-2022,Basic nutrition,0.7011924448000001,7.912162483183918,Iceland
-2022,Basic health infrastructure,0.6962306896,7.856174696043141,Iceland
-2022,Health policy and administrative management,0.5792475680000001,6.536152678188591,Iceland
-2022,Population policy and administrative management,0.195252224,2.203200181273577,Iceland
-2022,Medical services,0.1838262912,2.0742714720355213,Iceland
-2022,STD control including HIV/AIDS,0.13634744480000002,1.538526470764036,Iceland
-2022,Medical research,0.04085794880000001,0.46103567149445907,Iceland
-2022,Medical education/training,0.0234787456,0.26493104919509747,Iceland
-2022,Health education,0.0168860576,0.19054003280042564,Iceland
-2022,Family planning,0.009865001600000001,0.11131536874777993,Iceland
-2021,COVID-19 control,9.836123328000001,62.82422741634133,Iceland
-2021,Reproductive health care,2.8678161456000004,18.317006376542032,Iceland
-2021,Basic health care,1.8696006431999999,11.94131184302845,Iceland
-2021,Basic nutrition,0.8792702464000001,5.615980206654042,Iceland
-2021,Family planning,0.0862670464,0.5509955864564846,Iceland
-2021,Medical education/training,0.049596656,0.3167784188679552,Iceland
-2021,Infectious disease control,0.03905357920000001,0.24943881438519694,Iceland
-2021,Health education,0.018106384000000003,0.11564714554416819,Iceland
-2021,STD control including HIV/AIDS,0.010742633599999999,0.06861419218033106,Iceland
-2020,COVID-19 control,6.5291955040000005,57.276312336793964,Iceland
-2020,Basic health care,3.3221693663999994,29.143193851230595,Iceland
-2020,Reproductive health care,0.8033383616,7.047155944854356,Iceland
-2020,Basic nutrition,0.3753308176,3.292528937954412,Iceland
-2020,Family planning,0.17403964959999998,1.52673469853504,Iceland
-2020,"NCDs control, general",0.1142478352,1.0022206700211198,Iceland
-2020,Infectious disease control,0.0415788608,0.3647438365614728,Iceland
-2020,Medical services,0.017913096,0.15713973961821415,Iceland
-2020,STD control including HIV/AIDS,0.012017289600000002,0.10541973083048699,Iceland
-2020,Health education,0.00963828,0.08455025360035147,Iceland
-2019,Basic health care,1.9225897648,41.264949468039774,Iceland
-2019,Reproductive health care,1.0951572704,23.505591390326316,Iceland
-2019,Basic nutrition,0.6941943744,14.89964021710758,Iceland
-2019,Health education,0.3658032864,7.851313059553889,Iceland
-2019,Family planning,0.2618049392,5.61917460727513,Iceland
-2019,Medical services,0.1744262256,3.743746854927034,Iceland
-2019,STD control including HIV/AIDS,0.14515928800000003,3.1155844027702657,Iceland
+year,Sub-Sector,Bilateral ODA for,Share,Donor
+2023,Reproductive health care,3.18,32.1%,Iceland
+2023,Health education,2.5,25.3%,Iceland
+2023,Basic health care,2.41,24.4%,Iceland
+2023,Basic nutrition,1.21,12.3%,Iceland
+2023,Health policy and administrative management,0.22,2.2%,Iceland
+2023,Population policy and administrative management,0.13,1.4%,Iceland
+2023,Medical research,0.1,1.0%,Iceland
+2023,Basic health infrastructure,0.09,0.9%,Iceland
+2023,"NCDs control, general",0.05,0.5%,Iceland
+2022,Reproductive health care,2.4,27.1%,Iceland
+2022,Infectious disease control,1.96,22.2%,Iceland
+2022,Basic health care,1.91,21.6%,Iceland
+2022,Basic nutrition,0.7,7.9%,Iceland
+2022,Basic health infrastructure,0.7,7.9%,Iceland
+2022,Health policy and administrative management,0.58,6.5%,Iceland
+2022,Population policy and administrative management,0.2,2.2%,Iceland
+2022,Medical services,0.18,2.1%,Iceland
+2022,STD control including HIV/AIDS,0.14,1.5%,Iceland
+2022,Medical research,0.04,0.5%,Iceland
+2022,Medical education/training,0.02,0.3%,Iceland
+2022,Health education,0.02,0.2%,Iceland
+2022,Family planning,0.01,0.1%,Iceland
+2021,COVID-19 control,9.84,62.8%,Iceland
+2021,Reproductive health care,2.87,18.3%,Iceland
+2021,Basic health care,1.87,11.9%,Iceland
+2021,Basic nutrition,0.88,5.6%,Iceland
+2021,Family planning,0.09,0.6%,Iceland
+2021,Medical education/training,0.05,0.3%,Iceland
+2021,Infectious disease control,0.04,0.2%,Iceland
+2021,Health education,0.02,0.1%,Iceland
+2021,STD control including HIV/AIDS,0.01,0.1%,Iceland
+2020,COVID-19 control,6.53,57.3%,Iceland
+2020,Basic health care,3.32,29.1%,Iceland
+2020,Reproductive health care,0.8,7.0%,Iceland
+2020,Basic nutrition,0.38,3.3%,Iceland
+2020,Family planning,0.17,1.5%,Iceland
+2020,"NCDs control, general",0.11,1.0%,Iceland
+2020,Infectious disease control,0.04,0.4%,Iceland
+2020,Medical services,0.02,0.2%,Iceland
+2020,Health education,0.01,0.1%,Iceland
+2020,STD control including HIV/AIDS,0.01,0.1%,Iceland
+2019,Basic health care,1.92,41.3%,Iceland
+2019,Reproductive health care,1.1,23.5%,Iceland
+2019,Basic nutrition,0.69,14.9%,Iceland
+2019,Health education,0.37,7.9%,Iceland
+2019,Family planning,0.26,5.6%,Iceland
+2019,Medical services,0.17,3.7%,Iceland
+2019,STD control including HIV/AIDS,0.15,3.1%,Iceland

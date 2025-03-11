@@ -1,40 +1,40 @@
-year,Sector,Bilateral ODA for,share,donor
-2023,Basic health care,32.057732561399995,45.06939675005652,Hungary
-2023,COVID-19 control,28.3161610134,39.809187774185936,Hungary
-2023,Population policy and administrative management,5.5398570786,7.7883866594689914,Hungary
-2023,Basic health infrastructure,4.638850819199999,6.5216779644168055,Hungary
-2023,Health policy and administrative management,0.28392776100000006,0.39916899563483643,Hungary
-2023,Infectious disease control,0.245201931,0.3447250391447015,Hungary
-2023,Medical services,0.030997371599999997,0.04357865411016219,Hungary
-2023,Health personnel development,0.016984468800000003,0.02387816298205238,Hungary
-2022,COVID-19 control,49.0408349184,87.7305283048934,Hungary
-2022,Basic health infrastructure,4.5180918666,8.082541560444378,Hungary
-2022,Basic health care,1.3800668543999999,2.4688403946230064,Hungary
-2022,Medical services,0.5824663181999999,1.041990371911868,Hungary
-2022,Infectious disease control,0.34236497880000005,0.6124663357219525,Hungary
-2022,Tuberculosis control,0.0355704804,0.0636330324054089,Hungary
-2021,COVID-19 control,53.615287486800014,77.58720142900053,Hungary
-2021,Basic health infrastructure,11.962146339000004,17.310537740857463,Hungary
-2021,Medical services,1.1871477773999999,1.7179330382924975,Hungary
-2021,Health education,1.1001680118,1.5920637776732027,Hungary
-2021,Infectious disease control,0.5965663392,0.8632969232267451,Hungary
-2021,Basic health care,0.4726245888,0.6839396166728033,Hungary
-2021,Promotion of mental health and well-being,0.09534788640000001,0.13797884921847298,Hungary
-2021,Basic nutrition,0.062343216,0.09021747125229085,Hungary
-2021,Health policy and administrative management,0.0109339308,0.015822597082953457,Hungary
-2021,"NCDs control, general",0.0006969456,0.0010085567230347981,Hungary
-2020,COVID-19 control,17.256861156600003,59.98339409485684,Hungary
-2020,Basic health infrastructure,7.138002268800001,24.811093932668015,Hungary
-2020,Medical services,3.606558625800001,12.536093639185856,Hungary
-2020,Basic health care,0.6229500264,2.1653217578714505,Hungary
-2020,STD control including HIV/AIDS,0.11710595520000003,0.4070504246323914,Hungary
-2020,Other prevention and treatment of NCDs,0.0234216684,0.08141174418958208,Hungary
-2020,Medical education/training,0.0044979246,0.015634406595869503,Hungary
-2019,Medical services,4.175987049,50.22117216294908,Hungary
-2019,Population policy and administrative management,2.6139147606,31.435409562106244,Hungary
-2019,Health policy and administrative management,1.3220425530000002,15.899121784119727,Hungary
-2019,Basic nutrition,0.089707878,1.0788430932729247,Hungary
-2019,Basic health infrastructure,0.0592296354,0.7123062599737732,Hungary
-2019,Reproductive health care,0.028115310600000002,0.33811978760698197,Hungary
-2019,Medical education/training,0.02076516,0.2497255530523998,Hungary
-2019,Health education,0.00542997,0.06530179691887465,Hungary
+year,Sub-Sector,Bilateral ODA for,Share,Donor
+2023,Basic health care,32.06,45.1%,Hungary
+2023,COVID-19 control,28.32,39.8%,Hungary
+2023,Population policy and administrative management,5.54,7.8%,Hungary
+2023,Basic health infrastructure,4.64,6.5%,Hungary
+2023,Health policy and administrative management,0.28,0.4%,Hungary
+2023,Infectious disease control,0.25,0.3%,Hungary
+2023,Medical services,0.03,0.0%,Hungary
+2023,Health personnel development,0.02,0.0%,Hungary
+2022,COVID-19 control,49.04,87.7%,Hungary
+2022,Basic health infrastructure,4.52,8.1%,Hungary
+2022,Basic health care,1.38,2.5%,Hungary
+2022,Medical services,0.58,1.0%,Hungary
+2022,Infectious disease control,0.34,0.6%,Hungary
+2022,Tuberculosis control,0.04,0.1%,Hungary
+2021,COVID-19 control,53.62,77.6%,Hungary
+2021,Basic health infrastructure,11.96,17.3%,Hungary
+2021,Medical services,1.19,1.7%,Hungary
+2021,Health education,1.1,1.6%,Hungary
+2021,Infectious disease control,0.6,0.9%,Hungary
+2021,Basic health care,0.47,0.7%,Hungary
+2021,Promotion of mental health and well-being,0.1,0.1%,Hungary
+2021,Basic nutrition,0.06,0.1%,Hungary
+2021,Health policy and administrative management,0.01,0.0%,Hungary
+2021,"NCDs control, general",0.0,0.0%,Hungary
+2020,COVID-19 control,17.26,60.0%,Hungary
+2020,Basic health infrastructure,7.14,24.8%,Hungary
+2020,Medical services,3.61,12.5%,Hungary
+2020,Basic health care,0.62,2.2%,Hungary
+2020,STD control including HIV/AIDS,0.12,0.4%,Hungary
+2020,Other prevention and treatment of NCDs,0.02,0.1%,Hungary
+2020,Medical education/training,0.0,0.0%,Hungary
+2019,Medical services,4.18,50.2%,Hungary
+2019,Population policy and administrative management,2.61,31.4%,Hungary
+2019,Health policy and administrative management,1.32,15.9%,Hungary
+2019,Basic nutrition,0.09,1.1%,Hungary
+2019,Basic health infrastructure,0.06,0.7%,Hungary
+2019,Reproductive health care,0.03,0.3%,Hungary
+2019,Medical education/training,0.02,0.2%,Hungary
+2019,Health education,0.01,0.1%,Hungary

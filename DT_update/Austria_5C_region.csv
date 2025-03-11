@@ -1,70 +1,50 @@
-year,Region,Bilateral ODA,share,donor
-2023,Regional and Unspecified,40156.17390432,43.9%,Austria
-2023,Europe,19534.184348939998,21.4%,Austria
-2023,South of Sahara,11199.507020819992,12.2%,Austria
-2023,South & Central Asia,6290.29769778,6.9%,Austria
-2023,Middle East,5327.1167767199995,5.8%,Austria
-2023,Far East Asia,3377.4596227799993,3.7%,Austria
-2023,Caribbean & Central America,1400.1963939,1.5%,Austria
-2023,Africa,1355.8669678800002,1.5%,Austria
-2023,North of Sahara,1162.8042975,1.3%,Austria
-2023,South America,995.48063892,1.1%,Austria
-2023,Asia,582.8132318400001,0.6%,Austria
-2023,America,31.022532360000003,0.0%,Austria
-2023,Oceania,22.70664792,0.0%,Austria
-2022,Regional and Unspecified,52933.898219940005,43.8%,Austria
-2022,Europe,31814.79066270001,26.3%,Austria
-2022,South of Sahara,11478.979262339997,9.5%,Austria
-2022,South & Central Asia,8582.013044639998,7.1%,Austria
-2022,Middle East,5140.579834620001,4.3%,Austria
-2022,Far East Asia,2869.1671581000014,2.4%,Austria
-2022,North of Sahara,2209.24369998,1.8%,Austria
-2022,Africa,1757.1831474599999,1.5%,Austria
-2022,Caribbean & Central America,1388.1620514600002,1.1%,Austria
-2022,South America,1217.6992198799996,1.0%,Austria
-2022,America,1065.75177132,0.9%,Austria
-2022,Asia,250.90609824,0.2%,Austria
-2022,Oceania,61.49976443999999,0.1%,Austria
+year,Region,Bilateral ODA,Share,Donor
+2023,"Developing countries, unspecified",401.56,43.9%,Austria
+2023,Europe,195.34,21.4%,Austria
+2023,sub-Saharan Africa,112.0,12.2%,Austria
+2023,Asia,96.68,10.6%,Austria
+2023,MENA region,64.9,7.1%,Austria
+2023,Latin America and the Caribbeans,24.27,2.7%,Austria
+2023,"Africa, regional",13.56,1.5%,Austria
+2023,"Asia, regional",5.83,0.6%,Austria
+2023,Oceania,0.23,0.0%,Austria
+2022,"Developing countries, unspecified",529.34,43.8%,Austria
+2022,Europe,318.15,26.3%,Austria
+2022,sub-Saharan Africa,114.79,9.5%,Austria
+2022,Asia,114.51,9.5%,Austria
+2022,MENA region,73.5,6.1%,Austria
+2022,Latin America and the Caribbeans,36.72,3.0%,Austria
+2022,"Africa, regional",17.57,1.5%,Austria
+2022,"Asia, regional",2.51,0.2%,Austria
+2022,Oceania,0.61,0.1%,Austria
 2022,,0.0,0.0%,Austria
-2021,Regional and Unspecified,17674.473494160007,23.7%,Austria
-2021,Europe,16982.985734280006,22.8%,Austria
-2021,South of Sahara,10560.231266220018,14.2%,Austria
-2021,Middle East,7391.758692959999,9.9%,Austria
-2021,Africa,6234.96240846,8.4%,Austria
-2021,South & Central Asia,5675.112806400004,7.6%,Austria
-2021,Far East Asia,2621.237481360001,3.5%,Austria
-2021,Asia,2335.85576046,3.1%,Austria
-2021,North of Sahara,1551.6686080800002,2.1%,Austria
-2021,Caribbean & Central America,1417.8944885399999,1.9%,Austria
-2021,South America,1097.1621487800003,1.5%,Austria
-2021,America,860.98655088,1.2%,Austria
-2021,Oceania,60.1226109,0.1%,Austria
+2021,"Developing countries, unspecified",176.74,23.7%,Austria
+2021,Europe,169.83,22.8%,Austria
+2021,sub-Saharan Africa,105.6,14.2%,Austria
+2021,MENA region,89.43,12.0%,Austria
+2021,Asia,82.96,11.1%,Austria
+2021,"Africa, regional",62.35,8.4%,Austria
+2021,Latin America and the Caribbeans,33.76,4.5%,Austria
+2021,"Asia, regional",23.36,3.1%,Austria
+2021,Oceania,0.6,0.1%,Austria
 2021,,0.0,0.0%,Austria
-2020,Regional and Unspecified,19738.21393260001,31.7%,Austria
-2020,Europe,14451.965767800015,23.2%,Austria
-2020,South of Sahara,7557.646166100003,12.2%,Austria
-2020,Middle East,4932.49448358,7.9%,Austria
-2020,South & Central Asia,4701.06593316,7.6%,Austria
-2020,Africa,3434.5229468400007,5.5%,Austria
-2020,Caribbean & Central America,2804.3730826200003,4.5%,Austria
-2020,Far East Asia,1992.3758366400002,3.2%,Austria
-2020,North of Sahara,969.73787556,1.6%,Austria
-2020,South America,968.2072390800001,1.6%,Austria
-2020,Asia,310.18085658,0.5%,Austria
-2020,America,222.43021308,0.4%,Austria
-2020,Oceania,85.52442365999998,0.1%,Austria
+2020,"Developing countries, unspecified",197.38,31.7%,Austria
+2020,Europe,144.52,23.2%,Austria
+2020,sub-Saharan Africa,75.58,12.2%,Austria
+2020,Asia,66.93,10.8%,Austria
+2020,MENA region,59.02,9.5%,Austria
+2020,Latin America and the Caribbeans,39.95,6.4%,Austria
+2020,"Africa, regional",34.35,5.5%,Austria
+2020,"Asia, regional",3.1,0.5%,Austria
+2020,Oceania,0.86,0.1%,Austria
 2020,,0.0,0.0%,Austria
-2019,Regional and Unspecified,13917.266954999996,26.8%,Austria
-2019,Europe,12854.609117279999,24.8%,Austria
-2019,South of Sahara,8259.715200960014,15.9%,Austria
-2019,Middle East,5152.820402519999,9.9%,Austria
-2019,South & Central Asia,4562.076483180002,8.8%,Austria
-2019,Far East Asia,2540.8418815799996,4.9%,Austria
-2019,Caribbean & Central America,1352.9504609999997,2.6%,Austria
-2019,North of Sahara,1224.76009716,2.4%,Austria
-2019,South America,1139.42777544,2.2%,Austria
-2019,Africa,679.2030559799998,1.3%,Austria
-2019,Asia,113.88919644000002,0.2%,Austria
-2019,Oceania,42.18331302,0.1%,Austria
-2019,America,26.074666080000004,0.1%,Austria
+2019,"Developing countries, unspecified",139.17,26.8%,Austria
+2019,Europe,128.55,24.8%,Austria
+2019,sub-Saharan Africa,82.6,15.9%,Austria
+2019,Asia,71.03,13.7%,Austria
+2019,MENA region,63.78,12.3%,Austria
+2019,Latin America and the Caribbeans,25.18,4.9%,Austria
+2019,"Africa, regional",6.79,1.3%,Austria
+2019,"Asia, regional",1.14,0.2%,Austria
+2019,Oceania,0.42,0.1%,Austria
 2019,,0.0,0.0%,Austria

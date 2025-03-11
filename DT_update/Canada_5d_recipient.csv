@@ -1,101 +1,101 @@
-year,Recipient country,ODA Grants,ODA Loans,share,donor
-2023,Ukraine,191.75634900860018,1778.727548253,28.8%,Canada
-2023,"Bilateral, unspecified",1869.2078730033006,0.0,27.3%,Canada
-2023,"Africa, regional",347.8492495761999,0.0,5.1%,Canada
-2023,"Asia, regional",205.06586334939976,0.0,3.0%,Canada
-2023,"America, regional",147.0387079479999,0.0,2.1%,Canada
-2023,"South of Sahara, regional",141.89586284360047,0.0,2.1%,Canada
-2023,Jordan,35.000230073,88.9363769243,1.8%,Canada
-2023,Ethiopia,114.34783423659967,0.0,1.7%,Canada
-2023,Haiti,88.17749469809998,0.0,1.3%,Canada
-2023,South Sudan,79.72700523199995,0.0,1.2%,Canada
-2023,Mali,79.06254157150018,0.0,1.2%,Canada
-2023,Bangladesh,75.39947412639987,0.0,1.1%,Canada
-2023,Syrian Arab Republic,74.6528856231,0.0,1.1%,Canada
-2023,West Bank and Gaza Strip,72.40785277010008,0.0,1.1%,Canada
-2023,Senegal,67.4090933798001,0.0,1.0%,Canada
-2023,Lebanon,62.903963052999984,0.0,0.9%,Canada
-2023,"Middle East, regional",61.869963970799915,0.0,0.9%,Canada
-2023,Democratic Republic of the Congo,60.372407441400064,0.0,0.9%,Canada
-2023,Mozambique,55.62173473459998,0.0,0.8%,Canada
-2023,Ghana,49.778131797699956,0.0,0.7%,Canada
-2022,Ukraine,317.0495610515001,1838.2999163068998,31.0%,Canada
-2022,"Bilateral, unspecified",1022.4179557131996,0.0,14.7%,Canada
-2022,"Africa, regional",423.6860801956,135.05876848030002,8.0%,Canada
-2022,"Asia, regional",223.61387786250032,226.6098572542,6.5%,Canada
-2022,"America, regional",161.9134973360004,0.0,2.3%,Canada
-2022,Afghanistan,156.77043345080034,0.0,2.3%,Canada
-2022,"South of Sahara, regional",143.77614024469992,7.705852409399999,2.2%,Canada
-2022,Ethiopia,118.94256897480011,0.0,1.7%,Canada
-2022,Tanzania,99.3996184960001,0.0,1.4%,Canada
-2022,Bangladesh,89.06721858639997,0.0,1.3%,Canada
-2022,South Sudan,85.2634721567999,0.0,1.2%,Canada
-2022,Haiti,82.42531967149979,0.0,1.2%,Canada
-2022,Mozambique,81.44943423929996,0.0,1.2%,Canada
-2022,Nigeria,80.15221060030008,0.0,1.2%,Canada
-2022,Democratic Republic of the Congo,72.54689480540011,0.0,1.0%,Canada
-2022,Yemen,72.41994431610004,0.0,1.0%,Canada
-2022,Mali,69.7997668532996,0.0,1.0%,Canada
-2022,Ghana,67.35600094449983,0.0,1.0%,Canada
-2022,"Europe, regional",65.951735869,0.0,0.9%,Canada
-2022,Senegal,64.86872109729994,0.0,0.9%,Canada
-2021,"Africa, regional",713.5208949111992,280.9629495219002,19.8%,Canada
-2021,"Bilateral, unspecified",532.3180726456,0.0156828719,10.6%,Canada
-2021,"Asia, regional",388.2800322493004,108.87716856749996,9.9%,Canada
-2021,"America, regional",221.05625901139973,64.70789474520001,5.7%,Canada
-2021,"South America, regional",65.04245551659999,67.98307164549996,2.6%,Canada
-2021,Afghanistan,114.1411850273,0.0,2.3%,Canada
-2021,South Sudan,109.85253732539998,0.0,2.2%,Canada
-2021,Ethiopia,99.95673110609992,0.0,2.0%,Canada
-2021,Mali,93.24501279170002,0.0,1.9%,Canada
-2021,Bangladesh,86.97012941250003,0.0,1.7%,Canada
-2021,Mozambique,82.94771157330007,0.0,1.7%,Canada
-2021,"Europe, regional",74.38832494070007,4.5443194376,1.6%,Canada
-2021,Iraq,74.83969121849998,0.0,1.5%,Canada
-2021,"Middle East, regional",72.71604361820002,0.0,1.4%,Canada
-2021,Syrian Arab Republic,70.1513436921,0.0,1.4%,Canada
-2021,Democratic Republic of the Congo,69.57148373899999,0.0,1.4%,Canada
-2021,Lebanon,68.81514093280002,0.0,1.4%,Canada
-2021,Jordan,67.4445231723,0.0,1.3%,Canada
-2021,"Caribbean & Central America, regional",21.07643003420001,44.782915875,1.3%,Canada
-2021,Yemen,65.1187074623,0.0,1.3%,Canada
-2020,"Bilateral, unspecified",985.2784098185,0.0,21.6%,Canada
-2020,"Africa, regional",403.0280362102999,96.29594620890003,10.9%,Canada
-2020,"Asia, regional",243.5013680565999,113.80975360269998,7.8%,Canada
-2020,"America, regional",197.41912082400015,77.2455240527,6.0%,Canada
-2020,"South of Sahara, regional",102.02717883409998,0.0,2.2%,Canada
-2020,Afghanistan,100.35211293990001,0.0,2.2%,Canada
-2020,Syrian Arab Republic,87.41575953120001,0.0,1.9%,Canada
-2020,Lebanon,87.3098481366,0.0,1.9%,Canada
-2020,South Sudan,85.3884965937,0.0,1.9%,Canada
-2020,Ethiopia,85.16337505729997,0.0,1.9%,Canada
-2020,Iraq,83.08488029800002,0.0,1.8%,Canada
-2020,Bangladesh,80.09664125379999,0.0,1.8%,Canada
-2020,Democratic Republic of the Congo,79.94372812510004,0.0,1.7%,Canada
-2020,Tanzania,78.89129871389997,0.0,1.7%,Canada
-2020,Mali,70.99627221159999,0.0,1.6%,Canada
-2020,"Middle East, regional",69.36546450120001,0.0,1.5%,Canada
-2020,Haiti,66.65194186599992,0.0,1.5%,Canada
-2020,Jordan,66.05651819839998,0.0,1.4%,Canada
-2020,"South America, regional",20.152854700600003,41.7543410742,1.4%,Canada
-2020,Mozambique,60.427840049899984,0.0,1.3%,Canada
-2019,"Bilateral, unspecified",745.2093228106003,0.0,19.8%,Canada
-2019,"Africa, regional",282.05302485789997,28.882780966800002,8.2%,Canada
-2019,"Asia, regional",224.49377419539985,46.029916623300004,7.2%,Canada
-2019,"America, regional",125.14966058369994,28.882780966800002,4.1%,Canada
-2019,Afghanistan,135.97096428220016,0.0,3.6%,Canada
-2019,Syrian Arab Republic,109.0922007929,0.0,2.9%,Canada
-2019,Bangladesh,94.7315247975,0.0,2.5%,Canada
-2019,Tanzania,92.60979543599998,0.0,2.5%,Canada
-2019,Ethiopia,92.3099407223999,0.0,2.4%,Canada
-2019,Jordan,84.61497558789992,0.0,2.2%,Canada
-2019,Mali,83.85466347290003,0.0,2.2%,Canada
-2019,Iraq,76.70799134749997,0.0,2.0%,Canada
-2019,Haiti,74.94598840959995,0.0,2.0%,Canada
-2019,Lebanon,69.33257608209999,0.0,1.8%,Canada
-2019,Mozambique,65.37379610809998,0.0,1.7%,Canada
-2019,Democratic Republic of the Congo,65.21262400420001,0.0,1.7%,Canada
-2019,"South America, regional",22.6325094509,41.7925075801,1.7%,Canada
-2019,"Caribbean, regional",41.6062303794,15.881152743700003,1.5%,Canada
-2019,"South of Sahara, regional",56.0418720066,0.0,1.5%,Canada
-2019,Ukraine,54.48831540600006,0.0,1.4%,Canada
+year,Recipient Country,ODA Grants,ODA Loans,Share,Donor
+2023,Ukraine,191.76,1778.73,28.8%,Canada
+2023,"Bilateral, unspecified",1869.21,0.0,27.3%,Canada
+2023,"Africa, regional",347.85,0.0,5.1%,Canada
+2023,"Asia, regional",205.07,0.0,3.0%,Canada
+2023,"America, regional",147.04,0.0,2.1%,Canada
+2023,"South of Sahara, regional",141.9,0.0,2.1%,Canada
+2023,Jordan,35.0,88.94,1.8%,Canada
+2023,Ethiopia,114.35,0.0,1.7%,Canada
+2023,Haiti,88.18,0.0,1.3%,Canada
+2023,South Sudan,79.73,0.0,1.2%,Canada
+2023,Mali,79.06,0.0,1.2%,Canada
+2023,Bangladesh,75.4,0.0,1.1%,Canada
+2023,Syrian Arab Republic,74.65,0.0,1.1%,Canada
+2023,West Bank and Gaza Strip,72.41,0.0,1.1%,Canada
+2023,Senegal,67.41,0.0,1.0%,Canada
+2023,Lebanon,62.9,0.0,0.9%,Canada
+2023,"Middle East, regional",61.87,0.0,0.9%,Canada
+2023,Democratic Republic of the Congo,60.37,0.0,0.9%,Canada
+2023,Mozambique,55.62,0.0,0.8%,Canada
+2023,Ghana,49.78,0.0,0.7%,Canada
+2022,Ukraine,317.05,1838.3,31.0%,Canada
+2022,"Bilateral, unspecified",1022.42,0.0,14.7%,Canada
+2022,"Africa, regional",423.69,135.06,8.0%,Canada
+2022,"Asia, regional",223.61,226.61,6.5%,Canada
+2022,"America, regional",161.91,0.0,2.3%,Canada
+2022,Afghanistan,156.77,0.0,2.3%,Canada
+2022,"South of Sahara, regional",143.78,7.71,2.2%,Canada
+2022,Ethiopia,118.94,0.0,1.7%,Canada
+2022,Tanzania,99.4,0.0,1.4%,Canada
+2022,Bangladesh,89.07,0.0,1.3%,Canada
+2022,South Sudan,85.26,0.0,1.2%,Canada
+2022,Haiti,82.43,0.0,1.2%,Canada
+2022,Mozambique,81.45,0.0,1.2%,Canada
+2022,Nigeria,80.15,0.0,1.2%,Canada
+2022,Democratic Republic of the Congo,72.55,0.0,1.0%,Canada
+2022,Yemen,72.42,0.0,1.0%,Canada
+2022,Mali,69.8,0.0,1.0%,Canada
+2022,Ghana,67.36,0.0,1.0%,Canada
+2022,"Europe, regional",65.95,0.0,0.9%,Canada
+2022,Senegal,64.87,0.0,0.9%,Canada
+2021,"Africa, regional",713.52,280.96,19.8%,Canada
+2021,"Bilateral, unspecified",532.32,0.02,10.6%,Canada
+2021,"Asia, regional",388.28,108.88,9.9%,Canada
+2021,"America, regional",221.06,64.71,5.7%,Canada
+2021,"South America, regional",65.04,67.98,2.6%,Canada
+2021,Afghanistan,114.14,0.0,2.3%,Canada
+2021,South Sudan,109.85,0.0,2.2%,Canada
+2021,Ethiopia,99.96,0.0,2.0%,Canada
+2021,Mali,93.25,0.0,1.9%,Canada
+2021,Bangladesh,86.97,0.0,1.7%,Canada
+2021,Mozambique,82.95,0.0,1.7%,Canada
+2021,"Europe, regional",74.39,4.54,1.6%,Canada
+2021,Iraq,74.84,0.0,1.5%,Canada
+2021,"Middle East, regional",72.72,0.0,1.4%,Canada
+2021,Syrian Arab Republic,70.15,0.0,1.4%,Canada
+2021,Democratic Republic of the Congo,69.57,0.0,1.4%,Canada
+2021,Lebanon,68.82,0.0,1.4%,Canada
+2021,Jordan,67.44,0.0,1.3%,Canada
+2021,"Caribbean & Central America, regional",21.08,44.78,1.3%,Canada
+2021,Yemen,65.12,0.0,1.3%,Canada
+2020,"Bilateral, unspecified",985.28,0.0,21.6%,Canada
+2020,"Africa, regional",403.03,96.3,10.9%,Canada
+2020,"Asia, regional",243.5,113.81,7.8%,Canada
+2020,"America, regional",197.42,77.25,6.0%,Canada
+2020,"South of Sahara, regional",102.03,0.0,2.2%,Canada
+2020,Afghanistan,100.35,0.0,2.2%,Canada
+2020,Syrian Arab Republic,87.42,0.0,1.9%,Canada
+2020,Lebanon,87.31,0.0,1.9%,Canada
+2020,South Sudan,85.39,0.0,1.9%,Canada
+2020,Ethiopia,85.16,0.0,1.9%,Canada
+2020,Iraq,83.08,0.0,1.8%,Canada
+2020,Bangladesh,80.1,0.0,1.8%,Canada
+2020,Democratic Republic of the Congo,79.94,0.0,1.7%,Canada
+2020,Tanzania,78.89,0.0,1.7%,Canada
+2020,Mali,71.0,0.0,1.6%,Canada
+2020,"Middle East, regional",69.37,0.0,1.5%,Canada
+2020,Haiti,66.65,0.0,1.5%,Canada
+2020,Jordan,66.06,0.0,1.4%,Canada
+2020,"South America, regional",20.15,41.75,1.4%,Canada
+2020,Mozambique,60.43,0.0,1.3%,Canada
+2019,"Bilateral, unspecified",745.21,0.0,19.8%,Canada
+2019,"Africa, regional",282.05,28.88,8.2%,Canada
+2019,"Asia, regional",224.49,46.03,7.2%,Canada
+2019,"America, regional",125.15,28.88,4.1%,Canada
+2019,Afghanistan,135.97,0.0,3.6%,Canada
+2019,Syrian Arab Republic,109.09,0.0,2.9%,Canada
+2019,Bangladesh,94.73,0.0,2.5%,Canada
+2019,Tanzania,92.61,0.0,2.5%,Canada
+2019,Ethiopia,92.31,0.0,2.4%,Canada
+2019,Jordan,84.61,0.0,2.2%,Canada
+2019,Mali,83.85,0.0,2.2%,Canada
+2019,Iraq,76.71,0.0,2.0%,Canada
+2019,Haiti,74.95,0.0,2.0%,Canada
+2019,Lebanon,69.33,0.0,1.8%,Canada
+2019,Mozambique,65.37,0.0,1.7%,Canada
+2019,Democratic Republic of the Congo,65.21,0.0,1.7%,Canada
+2019,"South America, regional",22.63,41.79,1.7%,Canada
+2019,"Caribbean, regional",41.61,15.88,1.5%,Canada
+2019,"South of Sahara, regional",56.04,0.0,1.5%,Canada
+2019,Ukraine,54.49,0.0,1.4%,Canada

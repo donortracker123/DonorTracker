@@ -1,42 +1,42 @@
-Year,ODA,Share,Full Name,donor
-2019,110.0459,0.8540256333645052,international development association,United States
-2019,0.1773,0.0013759598930585036,food and agricultural organisation,United States
-2019,0.5184,0.004023111159399482,african development bank,United States
-2019,0.0333,0.0002584290154475362,united nations development programme,United States
-2019,9.407699999999998,0.0730096891479215,african development fund,United States
-2019,8.672899999999998,0.06730717741966775,united nations children’s fund,United States
-2020,122.10650000000001,0.7696703011324457,international development association,United States
-2020,12.452900000000003,0.07849399739548865,united nations children’s fund,United States
-2020,0.1907,0.0012020336871989403,food and agricultural organisation,United States
-2020,0.0431,0.00027167095919388736,united nations development programme,United States
-2020,7.8474,0.04946428503893531,african development fund,United States
-2020,15.991200000000001,0.10079685945849864,international bank for reconstruction and development,United States
-2020,0.016,0.00010085232823903012,european bank for reconstruction and development,United States
-2021,5.779900000000001,0.06397353353632554,united nations children’s fund,United States
-2021,0.18209999999999998,0.0020155332197728123,african development bank,United States
-2021,71.25760000000001,0.7886988465748664,international development association,United States
-2021,2.6979,0.02986110419343806,african development fund,United States
-2021,0.0037,4.09526244544723e-05,european bank for reconstruction and development,United States
-2021,8.583000000000002,0.09499902045749617,international bank for reconstruction and development,United States
-2021,1.6313,0.01805568007367045,united nations population fund,United States
-2021,0.1978,0.00218930516678233,food and agricultural organisation,United States
-2021,0.015,0.00016602415319380662,united nations development programme,United States
-2022,0.5869,0.003653906735415813,united nations development programme,United States
-2022,120.60390000000002,0.7508526197434235,international development association,United States
-2022,23.5086,0.14635922964763365,united nations children’s fund,United States
-2022,0.0517,0.0003218725135815259,food and agricultural organisation,United States
-2022,2.8779,0.0179171548711078,united nations population fund,United States
-2022,2.5866000000000002,0.01610358691740764,african development fund,United States
-2022,0.3887,0.002419958337120679,european bank for reconstruction and development,United States
-2022,9.696399999999999,0.06036759459752238,international bank for reconstruction and development,United States
-2022,0.3219,0.0020040766367871022,african development bank,United States
-2023,10.3552,0.05047791006477425,international bank for reconstruction and development,United States
-2023,0.112,0.0005459600903173976,united nations,United States
-2023,0.0296,0.0001442894524410265,food and agricultural organisation,United States
-2023,1.3039,0.006356047872900489,african development bank,United States
-2023,40.4017,0.19694389090157502,united nations relief and works agency for palestine refugees in the near east,United States
-2023,138.66070000000002,0.6759215026381571,international development association,United States
-2023,0.369,0.0017987435118492832,united nations development programme,United States
-2023,10.269200000000001,0.050058690709709114,united nations children’s fund,United States
-2023,1.9104999999999999,0.009313006719208823,african development fund,United States
-2023,1.7314,0.008439958039067342,united nations population fund,United States
+Year,Multi_short,ODA,Share,Full Name,Donor
+2019,ADF,9.41,0.01%,african development fund,United States
+2020,ADF,7.85,0.0%,african development fund,United States
+2021,ADF,2.7,0.0%,african development fund,United States
+2022,ADF,2.59,0.0%,african development fund,United States
+2023,ADF,1.91,0.0%,african development fund,United States
+2019,AfDB,0.52,0.0%,african development bank,United States
+2021,AfDB,0.18,0.0%,african development bank,United States
+2022,AfDB,0.32,0.0%,african development bank,United States
+2023,AfDB,1.3,0.0%,african development bank,United States
+2020,EBRD,0.02,0.0%,european bank for reconstruction and development,United States
+2021,EBRD,0.0,0.0%,european bank for reconstruction and development,United States
+2022,EBRD,0.39,0.0%,european bank for reconstruction and development,United States
+2019,FAO,0.18,0.0%,food and agricultural organisation,United States
+2020,FAO,0.19,0.0%,food and agricultural organisation,United States
+2021,FAO,0.2,0.0%,food and agricultural organisation,United States
+2022,FAO,0.05,0.0%,food and agricultural organisation,United States
+2023,FAO,0.03,0.0%,food and agricultural organisation,United States
+2020,IBRD,15.99,0.01%,international bank for reconstruction and development,United States
+2021,IBRD,8.58,0.01%,international bank for reconstruction and development,United States
+2022,IBRD,9.7,0.01%,international bank for reconstruction and development,United States
+2023,IBRD,10.36,0.01%,international bank for reconstruction and development,United States
+2019,IDA,110.05,0.06%,international development association,United States
+2020,IDA,122.11,0.07%,international development association,United States
+2021,IDA,71.26,0.05%,international development association,United States
+2022,IDA,120.6,0.08%,international development association,United States
+2023,IDA,138.66,0.08%,international development association,United States
+2023,UN,0.11,0.0%,united nations,United States
+2019,UNDP,0.03,0.0%,united nations development programme,United States
+2020,UNDP,0.04,0.0%,united nations development programme,United States
+2021,UNDP,0.02,0.0%,united nations development programme,United States
+2022,UNDP,0.59,0.0%,united nations development programme,United States
+2023,UNDP,0.37,0.0%,united nations development programme,United States
+2021,UNFPA,1.63,0.0%,united nations population fund,United States
+2022,UNFPA,2.88,0.0%,united nations population fund,United States
+2023,UNFPA,1.73,0.0%,united nations population fund,United States
+2023,UNRWA,40.4,0.02%,united nations relief and works agency for palestine refugees in the near east,United States
+2019,,8.67,0.0%,united nations children’s fund,United States
+2020,,12.46,0.01%,united nations children’s fund,United States
+2021,,5.78,0.0%,united nations children’s fund,United States
+2022,,23.53,0.02%,united nations children’s fund,United States
+2023,,10.29,0.01%,united nations children’s fund,United States

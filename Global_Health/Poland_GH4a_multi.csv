@@ -1,50 +1,50 @@
-Year,ODA,Share,Full Name,donor
-2019,4.1882,0.14804210585848304,world health organisation assessed contributions,Poland
-2019,0.2258,0.007981449668794582,food and agricultural organisation,Poland
-2019,0.0026,9.190331770976932e-05,united nations economic commission for europe extrabudgetary contributions only,Poland
-2019,0.0309,0.00109223558355072,joint united nations programme on hiv aids,Poland
-2019,0.0007,2.474320092186097e-05,council of europe development bank,Poland
-2019,1.4883,0.052607579902865256,international development association,Poland
-2019,0.6544,0.02313135811895117,international bank for reconstruction and development,Poland
-2019,0.0058,0.00020501509335256232,united nations,Poland
-2019,0.0992,0.003506465044926583,united nations relief and works agency for palestine refugees in the near east,Poland
-2019,9.394100000000002,0.3320572911143631,european commission european development fund,Poland
-2019,12.2006,0.43125985309608134,european commission development share of budget,Poland
-2020,8.6507,0.3080470330171211,european commission european development fund,Poland
-2020,3.0093000000000005,0.10715964447483124,world health organisation assessed contributions,Poland
-2020,0.18180000000000002,0.006473805657636101,food and agricultural organisation,Poland
-2020,0.1363,0.004853573768623765,united nations relief and works agency for palestine refugees in the near east,Poland
-2020,1.0885999999999998,0.03876449306327094,international bank for reconstruction and development,Poland
-2020,0.8227999999999999,0.029299490072073612,international development association,Poland
-2020,0.002,7.121898413241035e-05,council of europe development bank,Poland
-2020,14.172999999999998,0.5046933310543259,european commission development share of budget,Poland
-2020,0.0128,0.0004558014984474262,joint united nations programme on hiv aids,Poland
-2020,0.0051,0.0001816084095376464,united nations,Poland
-2021,32.755300000000005,0.7427909908929284,european commission development share of budget,Poland
-2021,1.5055000000000003,0.03414017996444251,international bank for reconstruction and development,Poland
-2021,0.8711999999999999,0.01975617720692282,international development association,Poland
-2021,0.0267,0.0006054751278981169,united nations,Poland
-2021,0.0048000000000000004,0.00010884946119516707,council of europe development bank,Poland
-2021,0.0433,0.0009819128478647363,united nations relief and works agency for palestine refugees in the near east,Poland
-2021,2.4975999999999994,0.056638002975218586,world health organisation assessed contributions,Poland
-2021,0.2032,0.004607960523928739,food and agricultural organisation,Poland
-2021,6.19,0.14037045099960088,european commission european development fund,Poland
-2022,61.9132,0.8827604693174251,european commission development share of budget,Poland
-2022,0.0043,6.130954332945039e-05,council of europe development bank,Poland
-2022,2.1266999999999996,0.030322559488079562,european commission european development fund,Poland
-2022,2.7872999999999997,0.039741416307483034,world health organisation assessed contributions,Poland
-2022,0.041,0.0005845793666296433,united nations relief and works agency for palestine refugees in the near east,Poland
-2022,0.058199999999999995,0.0008298175399474448,united nations,Poland
-2022,0.9356,0.013339815985821811,international development association,Poland
-2022,2.0901,0.02980071546811262,international bank for reconstruction and development,Poland
-2022,0.1795,0.002559316983171243,food and agricultural organisation,Poland
-2023,0.4607,0.006760167397416258,european commission european development fund,Poland
-2023,0.0031,4.5488428330780115e-05,united nations children’s fund,Poland
-2023,0.0345,0.0005062421862619078,united nations relief and works agency for palestine refugees in the near east,Poland
-2023,0.0027,3.9618953707453653e-05,council of europe development bank,Poland
-2023,0.0696,0.001021288584458805,united nations,Poland
-2023,0.2531,0.003713910067909822,food and agricultural organisation,Poland
-2023,2.7289999999999996,0.04004449061764481,world health organisation assessed contributions,Poland
-2023,0.0144,0.0002113010864397528,international finance corporation,Poland
-2023,0.7894,0.011583408169134782,international development association,Poland
-2023,63.792699999999996,0.9360740845086957,european commission development share of budget,Poland
+Year,Multi_short,ODA,Share,Full Name,Donor
+2019,CEB,0.0,0.0%,council of europe development bank,Poland
+2020,CEB,0.0,0.0%,council of europe development bank,Poland
+2021,CEB,0.0,0.0%,council of europe development bank,Poland
+2022,CEB,0.0,0.0%,council of europe development bank,Poland
+2023,CEB,0.0,0.0%,council of europe development bank,Poland
+2019,EC-DSB,12.2,0.28%,european commission development share of budget,Poland
+2020,EC-DSB,14.17,0.33%,european commission development share of budget,Poland
+2021,EC-DSB,32.76,0.3%,european commission development share of budget,Poland
+2022,EC-DSB,61.91,0.7%,european commission development share of budget,Poland
+2023,EC-DSB,63.79,0.86%,european commission development share of budget,Poland
+2019,EC-EDF,9.39,0.21%,european commission european development fund,Poland
+2020,EC-EDF,8.65,0.2%,european commission european development fund,Poland
+2021,EC-EDF,6.19,0.06%,european commission european development fund,Poland
+2022,EC-EDF,2.13,0.02%,european commission european development fund,Poland
+2023,EC-EDF,0.46,0.01%,european commission european development fund,Poland
+2019,FAO,0.23,0.01%,food and agricultural organisation,Poland
+2020,FAO,0.18,0.0%,food and agricultural organisation,Poland
+2021,FAO,0.2,0.0%,food and agricultural organisation,Poland
+2022,FAO,0.18,0.0%,food and agricultural organisation,Poland
+2023,FAO,0.25,0.0%,food and agricultural organisation,Poland
+2019,IBRD,0.65,0.01%,international bank for reconstruction and development,Poland
+2020,IBRD,1.09,0.03%,international bank for reconstruction and development,Poland
+2021,IBRD,1.51,0.01%,international bank for reconstruction and development,Poland
+2022,IBRD,2.09,0.02%,international bank for reconstruction and development,Poland
+2019,IDA,1.49,0.03%,international development association,Poland
+2020,IDA,0.82,0.02%,international development association,Poland
+2021,IDA,0.87,0.01%,international development association,Poland
+2022,IDA,0.94,0.01%,international development association,Poland
+2023,IDA,0.79,0.01%,international development association,Poland
+2023,IFC,0.01,0.0%,international finance corporation,Poland
+2019,UN,0.01,0.0%,united nations,Poland
+2020,UN,0.01,0.0%,united nations,Poland
+2021,UN,0.03,0.0%,united nations,Poland
+2022,UN,0.06,0.0%,united nations,Poland
+2023,UN,0.07,0.0%,united nations,Poland
+2019,UNAIDS,0.03,0.0%,joint united nations programme on hiv aids,Poland
+2020,UNAIDS,0.01,0.0%,joint united nations programme on hiv aids,Poland
+2019,UNECE-EXB,0.0,0.0%,united nations economic commission for europe extrabudgetary contributions only,Poland
+2019,UNRWA,0.1,0.0%,united nations relief and works agency for palestine refugees in the near east,Poland
+2020,UNRWA,0.14,0.0%,united nations relief and works agency for palestine refugees in the near east,Poland
+2021,UNRWA,0.04,0.0%,united nations relief and works agency for palestine refugees in the near east,Poland
+2022,UNRWA,0.04,0.0%,united nations relief and works agency for palestine refugees in the near east,Poland
+2023,UNRWA,0.03,0.0%,united nations relief and works agency for palestine refugees in the near east,Poland
+2019,WHO-AC,4.19,0.1%,world health organisation assessed contributions,Poland
+2020,WHO-AC,3.01,0.07%,world health organisation assessed contributions,Poland
+2021,WHO-AC,2.5,0.02%,world health organisation assessed contributions,Poland
+2022,WHO-AC,2.79,0.03%,world health organisation assessed contributions,Poland
+2023,WHO-AC,2.73,0.04%,world health organisation assessed contributions,Poland
+2023,,0.0,0.0%,united nations children’s fund,Poland

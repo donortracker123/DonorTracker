@@ -1,25 +1,25 @@
-Year,ODA,Share,Full Name,donor
-2019,12.057400000000001,0.7205115181212466,european commission development share of budget,Greece
-2019,4.4607,0.2665571125519137,european commission european development fund,Greece
-2019,0.2142,0.012799904389136215,international development association,Greece
-2019,0.0022,0.00013146493770354657,food and agricultural organisation,Greece
-2020,0.2309,0.01297110852700114,international development association,Greece
-2020,0.0029,0.0001629112807635483,food and agricultural organisation,Greece
-2020,12.7876,0.7183601013420517,european commission development share of budget,Greece
-2020,0.0223,0.001252731572767975,united nations relief and works agency for palestine refugees in the near east,Greece
-2020,4.7574000000000005,0.26725314727741545,european commission european development fund,Greece
-2021,2.5111,0.1650975029257452,european commission european development fund,Greece
-2021,0.0029,0.0001906665439387763,food and agricultural organisation,Greece
-2021,12.695800000000002,0.8347118305303161,european commission development share of budget,Greece
-2022,0.0251,0.0014434661590573192,united nations children’s fund,Greece
-2022,1.1038000000000001,0.06347800583137327,european commission european development fund,Greece
-2022,0.0006,3.450516714878054e-05,food and agricultural organisation,Greece
-2022,0.0011,6.325947310609766e-05,asian infrastructure investment bank,Greece
-2022,0.0412,0.0023693548108829304,united nations relief and works agency for palestine refugees in the near east,Greece
-2022,0.0018,0.0001035155014463416,united nations population fund,Greece
-2022,16.2151,0.9325078930569854,european commission development share of budget,Greece
-2023,0.22520000000000004,0.013400693836989967,european commission european development fund,Greece
-2023,0.0018,0.00010711034150347218,asian infrastructure investment bank,Greece
-2023,0.0014,8.330804339158947e-05,united nations,Greece
-2023,0.0233,0.001386483865017168,united nations relief and works agency for palestine refugees in the near east,Greece
-2023,16.553399999999996,0.9850224039130978,european commission development share of budget,Greece
+Year,Multi_short,ODA,Share,Full Name,Donor
+2022,AIIB,0.0,0.0%,asian infrastructure investment bank,Greece
+2023,AIIB,0.0,0.0%,asian infrastructure investment bank,Greece
+2019,EC-DSB,12.06,0.64%,european commission development share of budget,Greece
+2020,EC-DSB,12.79,0.72%,european commission development share of budget,Greece
+2021,EC-DSB,12.7,0.74%,european commission development share of budget,Greece
+2022,EC-DSB,16.55,0.84%,european commission development share of budget,Greece
+2023,EC-DSB,16.91,0.9%,european commission development share of budget,Greece
+2019,EC-EDF,4.46,0.24%,european commission european development fund,Greece
+2020,EC-EDF,4.76,0.27%,european commission european development fund,Greece
+2021,EC-EDF,2.51,0.15%,european commission european development fund,Greece
+2022,EC-EDF,1.1,0.06%,european commission european development fund,Greece
+2023,EC-EDF,0.23,0.01%,european commission european development fund,Greece
+2019,FAO,0.0,0.0%,food and agricultural organisation,Greece
+2020,FAO,0.0,0.0%,food and agricultural organisation,Greece
+2021,FAO,0.0,0.0%,food and agricultural organisation,Greece
+2022,FAO,0.0,0.0%,food and agricultural organisation,Greece
+2019,IDA,0.21,0.01%,international development association,Greece
+2020,IDA,0.23,0.01%,international development association,Greece
+2023,UN,0.0,0.0%,united nations,Greece
+2022,UNFPA,0.0,0.0%,united nations population fund,Greece
+2020,UNRWA,0.02,0.0%,united nations relief and works agency for palestine refugees in the near east,Greece
+2022,UNRWA,0.04,0.0%,united nations relief and works agency for palestine refugees in the near east,Greece
+2023,UNRWA,0.02,0.0%,united nations relief and works agency for palestine refugees in the near east,Greece
+2022,,0.03,0.0%,united nations children’s fund,Greece

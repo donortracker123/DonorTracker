@@ -1,45 +1,45 @@
-year,Sector,Bilateral ODA for,share,donor
-2023,Higher education,4.8007615648,66.58836358722837,Czechia
-2023,Education facilities and training,0.6935075454,9.619209777502316,Czechia
-2023,Vocational training,0.5315998186,7.373488877970582,Czechia
-2023,Teacher training,0.4342621766,6.023379273747924,Czechia
-2023,Upper Secondary Education (modified and includes data from 11322),0.2703191978,3.7494286655880167,Czechia
-2023,Basic life skills for youth,0.2649120592,3.674429625080922,Czechia
-2023,Education policy and administrative management,0.162625782,2.255680594485945,Czechia
-2023,Educational research,0.0351332518,0.4873113803471112,Czechia
-2023,Early childhood education,0.0164889714,0.22870821804880695,Czechia
-2022,Higher education,4.803219874799995,61.7646319349763,Czechia
-2022,Education facilities and training,1.3853537306,17.814271572112503,Czechia
-2022,Vocational training,1.0890610584,14.004242399915672,Czechia
-2022,Basic life skills for youth,0.24483281180000002,3.1483065319931876,Czechia
-2022,Education policy and administrative management,0.1754764546,2.256452736733165,Czechia
-2022,Basic life skills for adults,0.039647395,0.5098260798351623,Czechia
-2022,Primary education,0.039059687399999994,0.5022687444340007,Czechia
-2021,Higher education,5.284018431400003,66.50705219368803,Czechia
-2021,Vocational training,0.9045425966,11.384983316106883,Czechia
-2021,Education policy and administrative management,0.800071282,10.070059974515791,Czechia
-2021,Education facilities and training,0.44887825880000004,5.649785324218425,Czechia
-2021,Primary education,0.22649496260000004,2.850768311051204,Czechia
-2021,Early childhood education,0.14057531300000004,1.7693446380273026,Czechia
-2021,Teacher training,0.0647861874,0.8154283340946354,Czechia
-2021,Upper Secondary Education (modified and includes data from 11322),0.0265737594,0.33446938657442377,Czechia
-2021,Advanced technical and managerial training,0.0251399358,0.3164226325292308,Czechia
-2021,Basic life skills for youth,0.0239690942,0.30168588919408135,Czechia
-2020,Higher education,7.9400120008,71.41348203009248,Czechia
-2020,Education policy and administrative management,1.2740860464,11.45929262704018,Czechia
-2020,Vocational training,0.7568015958000001,6.806770210997566,Czechia
-2020,Education facilities and training,0.5876035506,5.284981382567641,Czechia
-2020,Primary education,0.4181825424,3.761187196438978,Czechia
-2020,Teacher training,0.13595254680000002,1.222774569719654,Czechia
-2020,Upper Secondary Education (modified and includes data from 11322),0.004392942800000001,0.039510688607953696,Czechia
-2020,Advanced technical and managerial training,0.0013343478,0.012001294535523675,Czechia
-2019,Higher education,8.387788021999997,75.18111114846113,Czechia
-2019,Education facilities and training,1.0462441586000002,9.377656918585254,Czechia
-2019,Primary education,0.511219857,4.582146900900474,Czechia
-2019,Vocational training,0.4010178216,3.5943880960208845,Czechia
-2019,Education policy and administrative management,0.3135808802,2.8106765390963147,Czechia
-2019,Early childhood education,0.24248083800000003,2.1733952724169123,Czechia
-2019,Upper Secondary Education (modified and includes data from 11322),0.1768290968,1.5849480156072067,Czechia
-2019,Advanced technical and managerial training,0.0355746042,0.318860975671747,Czechia
-2019,Basic life skills for youth,0.026517732800000002,0.23768276115383144,Czechia
-2019,Basic life skills for adults,0.0155227984,0.1391333720862545,Czechia
+year,Sub-Sector,Bilateral ODA for,Share,Donor
+2023,Higher education,4.8,66.6%,Czechia
+2023,Education facilities and training,0.69,9.6%,Czechia
+2023,Vocational training,0.53,7.4%,Czechia
+2023,Teacher training,0.43,6.0%,Czechia
+2023,Upper Secondary Education (modified and includes data from 11322),0.27,3.7%,Czechia
+2023,Basic life skills for youth,0.26,3.7%,Czechia
+2023,Education policy and administrative management,0.16,2.3%,Czechia
+2023,Educational research,0.04,0.5%,Czechia
+2023,Early childhood education,0.02,0.2%,Czechia
+2022,Higher education,4.8,61.8%,Czechia
+2022,Education facilities and training,1.39,17.8%,Czechia
+2022,Vocational training,1.09,14.0%,Czechia
+2022,Basic life skills for youth,0.24,3.1%,Czechia
+2022,Education policy and administrative management,0.18,2.3%,Czechia
+2022,Primary education,0.04,0.5%,Czechia
+2022,Basic life skills for adults,0.04,0.5%,Czechia
+2021,Higher education,5.28,66.5%,Czechia
+2021,Vocational training,0.9,11.4%,Czechia
+2021,Education policy and administrative management,0.8,10.1%,Czechia
+2021,Education facilities and training,0.45,5.6%,Czechia
+2021,Primary education,0.23,2.9%,Czechia
+2021,Early childhood education,0.14,1.8%,Czechia
+2021,Teacher training,0.06,0.8%,Czechia
+2021,Upper Secondary Education (modified and includes data from 11322),0.03,0.3%,Czechia
+2021,Advanced technical and managerial training,0.03,0.3%,Czechia
+2021,Basic life skills for youth,0.02,0.3%,Czechia
+2020,Higher education,7.94,71.4%,Czechia
+2020,Education policy and administrative management,1.27,11.5%,Czechia
+2020,Vocational training,0.76,6.8%,Czechia
+2020,Education facilities and training,0.59,5.3%,Czechia
+2020,Primary education,0.42,3.8%,Czechia
+2020,Teacher training,0.14,1.2%,Czechia
+2020,Upper Secondary Education (modified and includes data from 11322),0.0,0.0%,Czechia
+2020,Advanced technical and managerial training,0.0,0.0%,Czechia
+2019,Higher education,8.39,75.2%,Czechia
+2019,Education facilities and training,1.05,9.4%,Czechia
+2019,Primary education,0.51,4.6%,Czechia
+2019,Vocational training,0.4,3.6%,Czechia
+2019,Education policy and administrative management,0.31,2.8%,Czechia
+2019,Early childhood education,0.24,2.2%,Czechia
+2019,Upper Secondary Education (modified and includes data from 11322),0.18,1.6%,Czechia
+2019,Advanced technical and managerial training,0.04,0.3%,Czechia
+2019,Basic life skills for youth,0.03,0.2%,Czechia
+2019,Basic life skills for adults,0.02,0.1%,Czechia
