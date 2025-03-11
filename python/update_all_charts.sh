@@ -3,8 +3,8 @@
 export DAC1="data/Table1_Data.csv"
 export CRS="data/CRS.parquet"
 export IM="data/seek_sectors_revised_with_channel.parquet"
-export RF="data/riomarkers.csv"
 export CRF="data/climate_riomarkers.txt"
+export MF="data/multisystem.txt"
 export LY=2023
 
 set -e #Exit upon any failures
@@ -45,8 +45,8 @@ python chart_update.py top_multilateral_recipients_4a_sector -ly $LY -dac1 $DAC1
 # python chart_update.py gender_time_trend_2 -ly $LY -rf $RF -crs $CRS -country -f "Gender" -o "GE2_trend"
 # python chart_update.py gender_sector_3 -ly $LY -rf $RF -crs $CRS -country -f "Gender" -o "GE3_sector"
 
-# python chart_update.py climate_ranking_absolute_1a -ly $LY -rf $RF -crs $CRS -f "Climate" -o "alldonor_CL1A_climateODARanking"
-# python chart_update.py climate_ranking_relative_1b -ly $LY -rf $RF -crs $CRS -f "Climate" -o "alldonor_CL1B_climateODArankingrelative"
-# python chart_update.py climate_time_trend_2 -ly $LY -rf $RF -crs $CRS -country -f "Climate" -o "CL2_trend"
-# python chart_update.py climate_sector_3b -ly $LY -rf $RF -crs $CRS -country -f "Climate" -o "CL3B_sector"
-# python chart_update.py climate_intervention_type_split_3a -ly $LY -rf $RF -crs $CRS -country -f "Climate" -o "CL3A_type"
+python chart_update.py climate_ranking_absolute_1a -ly $LY -crf $CRF -crs $CRS -f "Climate" -o "alldonor_CL1A_climateODARanking"
+python chart_update.py climate_ranking_relative_1b -ly $LY -crf $CRF -crs $CRS -f "Climate" -o "alldonor_CL1B_climateODArankingrelative"
+python chart_update.py climate_time_trend_2 -ly $LY -crf $CRF -crs $CRS -country -f "Climate" -o "CL2_trend"
+python chart_update.py climate_sector_3b -ly $LY -crf $CRF -crs $CRS -country -f "Climate" -o "CL3B_sector"
+python chart_update.py climate_intervention_type_split_3a -ly $LY -crf $CRF -crs $CRS -country -f "Climate" -o "CL3A_type"
