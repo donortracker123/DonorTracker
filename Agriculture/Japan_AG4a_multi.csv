@@ -1,68 +1,61 @@
-Year,ODA,Share,Full Name,donor
-2019,206.83999999999997,0.6948034519813352,international development association,Japan
-2019,36.549,0.12277301956326545,african development fund,Japan
-2019,0.0017,5.710529241772723e-06,united nations children’s fund,Japan
-2019,0.002,6.718269696203204e-06,world food programme,Japan
-2019,20.3871,0.06848301806173217,food and agricultural organisation,Japan
-2019,24.906,0.08366261252681849,international bank for reconstruction and development,Japan
-2019,3.0219,0.010150969597478231,inter american development bank inter american investment corporation and multilateral investment fund,Japan
-2019,5.7694,0.01938019259263738,global environment facility trust fund,Japan
-2019,0.21860000000000002,0.0007343068777950102,united nations development programme,Japan
-2020,0.0047,1.927364599561299e-05,united nations industrial development organisation,Japan
-2020,14.296300000000002,0.058625920265336605,african development fund,Japan
-2020,0.11660000000000001,0.0004781504517209521,inter american development bank inter american investment corporation and multilateral investment fund,Japan
-2020,0.0122,5.002946407371883e-05,world health organisation core voluntary contributions account,Japan
-2020,0.0432,0.00017715351212988962,world health organisation assessed contributions,Japan
-2020,6.024200000000001,0.024703893235483363,global environment facility trust fund,Japan
-2020,0.0035,1.4352715103116056e-05,united nations children’s fund,Japan
-2020,92.43630000000002,0.379060536881762,international development association,Japan
-2020,109.5898,0.4494031936021337,green climate fund,Japan
-2020,0.2027,0.000831227243257607,united nations development programme,Japan
-2020,3.0848999999999998,0.01265048309188649,african development bank,Japan
-2020,18.041900000000005,0.07398578589111704,food and agricultural organisation,Japan
-2021,0.1284,0.0003779431884276386,world health organisation assessed contributions,Japan
-2021,18.516000000000005,0.054501527078864166,food and agricultural organisation,Japan
-2021,0.1287,0.0003788262332604135,world organisation for animal health,Japan
-2021,0.0292,8.594969705675272e-05,inter american development bank inter american investment corporation and multilateral investment fund,Japan
-2021,124.0152,0.3650366051518013,green climate fund,Japan
-2021,0.0984,0.000289638705150153,world health organisation core voluntary contributions account,Japan
-2021,0.0054,1.589480698994742e-05,united nations children’s fund,Japan
-2021,75.43910000000001,0.222053691480619,african development fund,Japan
-2021,3.1483000000000003,0.009266966823416939,african development bank,Japan
-2021,0.0568,0.00016718982167203953,united nations development programme,Japan
-2021,104.50880000000001,0.3076198527316698,international development association,Japan
-2021,13.6038,0.040042550987008645,global environment facility trust fund,Japan
-2021,0.0555,0.0001633632940633485,united nations industrial development organisation,Japan
-2022,11.838300000000002,0.03790478129898873,international bank for reconstruction and development,Japan
-2022,0.1575,0.0005042956382749823,united nations,Japan
-2022,139.90560000000002,0.447960532382504,green climate fund,Japan
-2022,25.039,0.08017179991598275,international finance corporation,Japan
-2022,0.3807,0.0012189545999446716,united nations development programme,Japan
-2022,0.029200000000000004,9.349481039764753e-05,united nations children’s fund,Japan
-2022,0.3842,0.0012301611696841155,cgiar fund,Japan
-2022,3.9661999999999997,0.012699284828737998,african development bank,Japan
-2022,0.0317,0.00010149950306867898,inter american development bank inter american investment corporation and multilateral investment fund,Japan
-2022,20.3913,0.06529043586512157,food and agricultural organisation,Japan
-2022,0.10250000000000001,0.0003281923995122901,united nations industrial development organisation,Japan
-2022,92.52719999999998,0.296260719884425,international development association,Japan
-2022,0.2245,0.0007188214018586256,world health organisation assessed contributions,Japan
-2022,0.0985,0.00031538489123863973,world health organisation core voluntary contributions account,Japan
-2022,13.748000000000003,0.04401940593653624,african development fund,Japan
-2022,3.3537999999999997,0.010738455312042131,adaptation fund,Japan
-2022,0.1386,0.00044378016168198443,world organisation for animal health,Japan
-2023,0.14860000000000007,0.0003931896171481477,food and agricultural organisation,Japan
-2023,187.918,0.4972234621483552,international development association,Japan
-2023,0.5633,0.0014904691207237653,united nations development programme,Japan
-2023,3.2084,0.008489297225155562,adaptation fund,Japan
-2023,27.7547,0.07343781875546225,global environment facility trust fund,Japan
-2023,0.2268,0.0006001036687025563,world health organisation assessed contributions,Japan
-2023,0.0334,8.837505526748404e-05,united nations children’s fund,Japan
-2023,0.4299,0.0011374980916015384,united nations,Japan
-2023,23.6003,0.062445443617640824,african development fund,Japan
-2023,11.7106,0.030985776114233487,asian development bank,Japan
-2023,0.1692,0.0004476963877622245,world organisation for animal health,Japan
-2023,0.6046,0.001599747257925774,international bank for reconstruction and development,Japan
-2023,116.5546,0.30839877894249984,green climate fund,Japan
-2023,0.2827,0.0007480128180873573,united nations industrial development organisation,Japan
-2023,0.1682,0.00044505042802367705,cgiar fund,Japan
-2023,4.561399999999999,0.012069280751410227,african development bank,Japan
+Year,Multi_short,ODA,Share,Full Name,Donor
+2023,ADB,9.12,0.01%,asian development bank,Japan
+2019,ADF,36.55,0.04%,african development fund,Japan
+2020,ADF,14.3,0.02%,african development fund,Japan
+2021,ADF,74.46,0.09%,african development fund,Japan
+2022,ADF,13.52,0.02%,african development fund,Japan
+2023,ADF,23.15,0.02%,african development fund,Japan
+2022,AF,1.85,0.0%,adaptation fund,Japan
+2023,AF,1.63,0.0%,adaptation fund,Japan
+2020,AfDB,3.08,0.0%,african development bank,Japan
+2021,AfDB,3.11,0.0%,african development bank,Japan
+2022,AfDB,3.9,0.0%,african development bank,Japan
+2023,AfDB,4.36,0.0%,african development bank,Japan
+2022,CGIAR ,0.38,0.0%,cgiar fund,Japan
+2023,CGIAR ,0.17,0.0%,cgiar fund,Japan
+2019,FAO,18.1,0.02%,food and agricultural organisation,Japan
+2020,FAO,14.74,0.02%,food and agricultural organisation,Japan
+2021,FAO,14.88,0.02%,food and agricultural organisation,Japan
+2022,FAO,16.21,0.02%,food and agricultural organisation,Japan
+2023,FAO,0.12,0.0%,food and agricultural organisation,Japan
+2020,GCF,84.37,0.09%,green climate fund,Japan
+2021,GCF,101.06,0.13%,green climate fund,Japan
+2022,GCF,108.48,0.13%,green climate fund,Japan
+2023,GCF,86.86,0.08%,green climate fund,Japan
+2019,GEF-TF,5.34,0.01%,global environment facility trust fund,Japan
+2020,GEF-TF,5.52,0.01%,global environment facility trust fund,Japan
+2021,GEF-TF,13.1,0.02%,global environment facility trust fund,Japan
+2023,GEF-TF,27.09,0.02%,global environment facility trust fund,Japan
+2019,IBRD,21.33,0.02%,international bank for reconstruction and development,Japan
+2022,IBRD,10.76,0.01%,international bank for reconstruction and development,Japan
+2023,IBRD,0.56,0.0%,international bank for reconstruction and development,Japan
+2019,IDA,191.52,0.2%,international development association,Japan
+2020,IDA,85.56,0.09%,international development association,Japan
+2021,IDA,93.29,0.12%,international development association,Japan
+2022,IDA,81.32,0.1%,international development association,Japan
+2023,IDA,163.81,0.14%,international development association,Japan
+2019,IDB-IIC-MIF,1.65,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Japan
+2020,IDB-IIC-MIF,0.05,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Japan
+2021,IDB-IIC-MIF,0.02,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Japan
+2022,IDB-IIC-MIF,0.02,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Japan
+2022,IFC,25.04,0.03%,international finance corporation,Japan
+2022,UN,0.16,0.0%,united nations,Japan
+2023,UN,0.43,0.0%,united nations,Japan
+2019,UNDP,0.11,0.0%,united nations development programme,Japan
+2020,UNDP,0.1,0.0%,united nations development programme,Japan
+2021,UNDP,0.04,0.0%,united nations development programme,Japan
+2022,UNDP,0.24,0.0%,united nations development programme,Japan
+2023,UNDP,0.36,0.0%,united nations development programme,Japan
+2020,UNIDO,0.0,0.0%,united nations industrial development organisation,Japan
+2021,UNIDO,0.03,0.0%,united nations industrial development organisation,Japan
+2022,UNIDO,0.09,0.0%,united nations industrial development organisation,Japan
+2023,UNIDO,0.27,0.0%,united nations industrial development organisation,Japan
+2019,WFP,0.0,0.0%,world food programme,Japan
+2021,WOAH,0.13,0.0%,world organisation for animal health,Japan
+2022,WOAH,0.14,0.0%,world organisation for animal health,Japan
+2023,WOAH,0.17,0.0%,world organisation for animal health,Japan
+2019,,0.0,0.0%,united nations children’s fund,Japan
+2020,,0.0,0.0%,united nations children’s fund,Japan
+2021,,0.01,0.0%,united nations children’s fund,Japan
+2022,,0.01,0.0%,united nations children’s fund,Japan
+2023,,0.01,0.0%,united nations children’s fund,Japan

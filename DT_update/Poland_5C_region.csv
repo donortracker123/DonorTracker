@@ -1,56 +1,41 @@
-year,Region,Bilateral ODA,share,donor
-2023,Regional and Unspecified,133570.18861824,77.8%,Poland
-2023,Europe,31311.860519279984,18.2%,Poland
-2023,South & Central Asia,2545.3112242799984,1.5%,Poland
-2023,Middle East,1694.4297823199997,1.0%,Poland
-2023,South of Sahara,1107.5022868800002,0.6%,Poland
-2023,Far East Asia,944.1080484000001,0.6%,Poland
-2023,North of Sahara,320.59128948,0.2%,Poland
-2023,South America,82.41938627999998,0.0%,Poland
-2023,Caribbean & Central America,54.33637968000001,0.0%,Poland
-2023,Oceania,8.876788800000002,0.0%,Poland
-2023,Africa,5.95000956,0.0%,Poland
-2022,Regional and Unspecified,258209.36331035953,82.1%,Poland
-2022,Europe,47696.532024240005,15.2%,Poland
-2022,Middle East,2259.8724178800003,0.7%,Poland
-2022,South & Central Asia,2027.830973520001,0.6%,Poland
-2022,South of Sahara,1921.961991839999,0.6%,Poland
-2022,Far East Asia,1804.7249404800002,0.6%,Poland
-2022,North of Sahara,282.24017843999997,0.1%,Poland
-2022,South America,210.24479256,0.1%,Poland
-2022,Africa,142.21353432,0.0%,Poland
-2022,Caribbean & Central America,78.370908,0.0%,Poland
-2022,Oceania,3.63353892,0.0%,Poland
-2021,Europe,18948.17192268,54.8%,Poland
-2021,South & Central Asia,4714.580716559997,13.6%,Poland
-2021,Far East Asia,2959.51645176,8.6%,Poland
-2021,South of Sahara,2577.6920017200005,7.5%,Poland
-2021,Regional and Unspecified,2348.8020758400003,6.8%,Poland
-2021,Middle East,1861.8555819600003,5.4%,Poland
-2021,North of Sahara,875.6452861199999,2.5%,Poland
-2021,South America,172.037712,0.5%,Poland
-2021,Caribbean & Central America,79.4640594,0.2%,Poland
-2021,Africa,15.269815440000002,0.0%,Poland
-2021,Oceania,3.0087802799999994,0.0%,Poland
-2020,Europe,17780.102939279994,63.8%,Poland
-2020,South of Sahara,2477.1663628800006,8.9%,Poland
-2020,Far East Asia,2338.6669587600004,8.4%,Poland
-2020,South & Central Asia,2310.8469898799995,8.3%,Poland
-2020,Middle East,1320.2698449600002,4.7%,Poland
-2020,Regional and Unspecified,1241.11875228,4.5%,Poland
-2020,South America,157.97841047999998,0.6%,Poland
-2020,North of Sahara,136.16883588000002,0.5%,Poland
-2020,Caribbean & Central America,82.59525384,0.3%,Poland
-2020,Africa,7.3654086,0.0%,Poland
-2020,Oceania,1.88484912,0.0%,Poland
-2019,Europe,17503.435777079987,60.9%,Poland
-2019,South of Sahara,3089.3732047199987,10.8%,Poland
-2019,Far East Asia,2448.83100924,8.5%,Poland
-2019,South & Central Asia,2074.9146079200004,7.2%,Poland
-2019,Regional and Unspecified,1691.5745484,5.9%,Poland
-2019,Middle East,1422.6116071200001,5.0%,Poland
-2019,South America,240.91729332,0.8%,Poland
-2019,North of Sahara,155.1869682,0.5%,Poland
-2019,Caribbean & Central America,56.45795100000001,0.2%,Poland
-2019,Africa,39.13705224,0.1%,Poland
-2019,Oceania,4.327140840000001,0.0%,Poland
+year,Region,Bilateral ODA,Share,Donor
+2023,"Developing countries, unspecified",1335.7,77.8%,Poland
+2023,Europe,313.12,18.2%,Poland
+2023,Asia,34.89,2.0%,Poland
+2023,MENA region,20.15,1.2%,Poland
+2023,sub-Saharan Africa,11.08,0.6%,Poland
+2023,Latin America and the Caribbeans,1.37,0.1%,Poland
+2023,Oceania,0.09,0.0%,Poland
+2023,"Africa, regional",0.06,0.0%,Poland
+2022,"Developing countries, unspecified",2582.09,82.1%,Poland
+2022,Europe,476.97,15.2%,Poland
+2022,Asia,38.33,1.2%,Poland
+2022,MENA region,25.42,0.8%,Poland
+2022,sub-Saharan Africa,19.22,0.6%,Poland
+2022,Latin America and the Caribbeans,2.89,0.1%,Poland
+2022,"Africa, regional",1.42,0.0%,Poland
+2022,Oceania,0.04,0.0%,Poland
+2021,Europe,189.48,54.8%,Poland
+2021,Asia,76.74,22.2%,Poland
+2021,MENA region,27.38,7.9%,Poland
+2021,sub-Saharan Africa,25.78,7.5%,Poland
+2021,"Developing countries, unspecified",23.49,6.8%,Poland
+2021,Latin America and the Caribbeans,2.52,0.7%,Poland
+2021,"Africa, regional",0.15,0.0%,Poland
+2021,Oceania,0.03,0.0%,Poland
+2020,Europe,177.8,63.8%,Poland
+2020,Asia,46.5,16.7%,Poland
+2020,sub-Saharan Africa,24.77,8.9%,Poland
+2020,MENA region,14.56,5.2%,Poland
+2020,"Developing countries, unspecified",12.41,4.5%,Poland
+2020,Latin America and the Caribbeans,2.41,0.9%,Poland
+2020,"Africa, regional",0.07,0.0%,Poland
+2020,Oceania,0.02,0.0%,Poland
+2019,Europe,175.03,60.9%,Poland
+2019,Asia,45.24,15.7%,Poland
+2019,sub-Saharan Africa,30.89,10.8%,Poland
+2019,"Developing countries, unspecified",16.92,5.9%,Poland
+2019,MENA region,15.78,5.5%,Poland
+2019,Latin America and the Caribbeans,2.97,1.0%,Poland
+2019,"Africa, regional",0.39,0.1%,Poland
+2019,Oceania,0.04,0.0%,Poland

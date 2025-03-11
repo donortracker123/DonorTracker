@@ -1,50 +1,50 @@
-Year,ODA,Share,Full Name,donor
-2019,8.026899999999998,0.08698804346530349,world health organisation assessed contributions,Australia
-2019,0.0144,0.00015605374751153877,united nations,Australia
-2019,0.1433,0.0015529515290557993,united nations development programme,Australia
-2019,7.4825,0.08108834484410339,international bank for reconstruction and development,Australia
-2019,70.5131,0.7641551044205475,global alliance for vaccines and immunization,Australia
-2019,2.2888,0.02480387620169514,joint united nations programme on hiv aids,Australia
-2019,0.3901,0.004227539368350783,asian development bank,Australia
-2019,2.6137,0.028324838879924232,united nations children’s fund,Australia
-2019,0.8030999999999999,0.008703247543508109,food and agricultural organisation,Australia
-2020,15.7776,0.15641115625055765,international development association,Australia
-2020,7.117400000000001,0.07055830820262392,world health organisation core voluntary contributions account,Australia
-2020,0.2478,0.0024565640223410522,united nations development programme,Australia
-2020,0.9237,0.009157095187394793,international bank for reconstruction and development,Australia
-2020,43.129099999999994,0.4275601104759865,global alliance for vaccines and immunization,Australia
-2020,0.0051,5.05588237043558e-05,united nations,Australia
-2020,15.988299999999999,0.1584999296141866,global fund to fight aids tuberculosis and malaria,Australia
-2020,1.4722,0.01459464710932404,joint united nations programme on hiv aids,Australia
-2020,2.6045,0.025819697321175422,united nations children’s fund,Australia
-2020,0.5072000000000001,0.005028124584872405,food and agricultural organisation,Australia
-2020,1.14,0.011301384122150118,asian development bank,Australia
-2020,3.9071999999999996,0.03873400705444293,united nations population fund,Australia
-2020,8.0525,0.0798284172312402,world health organisation assessed contributions,Australia
-2021,0.0639,0.0009794319294809013,united nations,Australia
-2021,2.3493999999999997,0.036010600549646776,united nations population fund,Australia
-2021,22.3982,0.34331005074959503,international bank for reconstruction and development,Australia
-2021,0.0006,9.196543938787805e-06,private infrastructure development group,Australia
-2021,0.36469999999999997,0.005589965957459854,united nations development programme,Australia
-2021,15.526100000000001,0.23797743474668892,world health organisation assessed contributions,Australia
-2021,2.555999999999999,0.03917727717923604,united nations children’s fund,Australia
-2021,21.4182,0.3282890289829083,global alliance for vaccines and immunization,Australia
-2021,0.5648000000000001,0.008657013361045589,food and agricultural organisation,Australia
-2022,0.52,0.006352464023064331,world food programme,Australia
-2022,32.9115,0.40205599941361864,global alliance for vaccines and immunization,Australia
-2022,27.294100000000004,0.33343228517676954,international bank for reconstruction and development,Australia
-2022,0.0015,1.8324415451147106e-05,private infrastructure development group,Australia
-2022,0.40190000000000003,0.004909721713210682,food and agricultural organisation,Australia
-2022,0.1205,0.0014720613745754843,united nations,Australia
-2022,0.3477,0.004247599501575899,united nations development programme,Australia
-2022,20.2608,0.2475115443817342,world health organisation assessed contributions,Australia
-2023,1.1035,0.01431588615789378,joint united nations programme on hiv aids,Australia
-2023,0.5812,0.007540002750310708,world food programme,Australia
-2023,26.4649,0.3433334803625221,international bank for reconstruction and development,Australia
-2023,0.438,0.005682245706531469,food and agricultural organisation,Australia
-2023,0.3015,0.003911408859632963,united nations development programme,Australia
-2023,0.1654,0.002145761278219874,united nations,Australia
-2023,27.1345,0.3520203107851099,global alliance for vaccines and immunization,Australia
-2023,13.3835,0.17362633656019158,world health organisation assessed contributions,Australia
-2023,3.5021999999999998,0.04543461395756737,united nations children’s fund,Australia
-2023,4.0075,0.051989953582020236,united nations population fund,Australia
+Year,Multi_short,ODA,Share,Full Name,Donor
+2019,ADB,0.39,0.0%,asian development bank,Australia
+2020,ADB,1.14,0.0%,asian development bank,Australia
+2019,FAO,0.8,0.0%,food and agricultural organisation,Australia
+2020,FAO,0.51,0.0%,food and agricultural organisation,Australia
+2021,FAO,0.56,0.0%,food and agricultural organisation,Australia
+2022,FAO,0.4,0.0%,food and agricultural organisation,Australia
+2023,FAO,0.44,0.0%,food and agricultural organisation,Australia
+2019,GAVI,70.51,0.21%,global alliance for vaccines and immunization,Australia
+2020,GAVI,43.13,0.08%,global alliance for vaccines and immunization,Australia
+2021,GAVI,21.42,0.03%,global alliance for vaccines and immunization,Australia
+2022,GAVI,32.91,0.06%,global alliance for vaccines and immunization,Australia
+2023,GAVI,27.13,0.06%,global alliance for vaccines and immunization,Australia
+2020,GFATM,15.99,0.03%,global fund to fight aids tuberculosis and malaria,Australia
+2019,IBRD,7.48,0.02%,international bank for reconstruction and development,Australia
+2020,IBRD,0.92,0.0%,international bank for reconstruction and development,Australia
+2021,IBRD,22.4,0.03%,international bank for reconstruction and development,Australia
+2022,IBRD,27.29,0.05%,international bank for reconstruction and development,Australia
+2023,IBRD,26.46,0.06%,international bank for reconstruction and development,Australia
+2020,IDA,15.78,0.03%,international development association,Australia
+2021,PIDG,0.0,0.0%,private infrastructure development group,Australia
+2022,PIDG,0.0,0.0%,private infrastructure development group,Australia
+2019,UN,0.01,0.0%,united nations,Australia
+2020,UN,0.01,0.0%,united nations,Australia
+2021,UN,0.06,0.0%,united nations,Australia
+2022,UN,0.12,0.0%,united nations,Australia
+2023,UN,0.17,0.0%,united nations,Australia
+2019,UNAIDS,2.29,0.01%,joint united nations programme on hiv aids,Australia
+2020,UNAIDS,1.47,0.0%,joint united nations programme on hiv aids,Australia
+2023,UNAIDS,1.1,0.0%,joint united nations programme on hiv aids,Australia
+2019,UNDP,0.14,0.0%,united nations development programme,Australia
+2020,UNDP,0.25,0.0%,united nations development programme,Australia
+2021,UNDP,0.36,0.0%,united nations development programme,Australia
+2022,UNDP,0.35,0.0%,united nations development programme,Australia
+2023,UNDP,0.3,0.0%,united nations development programme,Australia
+2020,UNFPA,3.91,0.01%,united nations population fund,Australia
+2021,UNFPA,2.35,0.0%,united nations population fund,Australia
+2023,UNFPA,4.01,0.01%,united nations population fund,Australia
+2022,WFP,0.52,0.0%,world food programme,Australia
+2023,WFP,0.58,0.0%,world food programme,Australia
+2019,WHO-AC,8.03,0.02%,world health organisation assessed contributions,Australia
+2020,WHO-AC,8.05,0.02%,world health organisation assessed contributions,Australia
+2021,WHO-AC,15.53,0.02%,world health organisation assessed contributions,Australia
+2022,WHO-AC,20.26,0.04%,world health organisation assessed contributions,Australia
+2023,WHO-AC,13.38,0.03%,world health organisation assessed contributions,Australia
+2020,WHO-CVCA,7.12,0.01%,world health organisation core voluntary contributions account,Australia
+2019,,2.61,0.01%,united nations children’s fund,Australia
+2020,,2.6,0.01%,united nations children’s fund,Australia
+2021,,2.56,0.0%,united nations children’s fund,Australia
+2023,,3.5,0.01%,united nations children’s fund,Australia

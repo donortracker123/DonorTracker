@@ -1,42 +1,33 @@
-year,Region,Bilateral ODA,share,donor
-2023,Europe,1414.5010839299998,37.1%,Slovak Republic
-2023,Regional and Unspecified,739.5883812599998,19.4%,Slovak Republic
-2023,South & Central Asia,463.77495698999996,12.2%,Slovak Republic
-2023,South America,428.63877474,11.2%,Slovak Republic
-2023,North of Sahara,222.28202669999996,5.8%,Slovak Republic
-2023,Far East Asia,201.94103058,5.3%,Slovak Republic
-2023,Middle East,184.79383728000002,4.8%,Slovak Republic
-2023,South of Sahara,157.59217872000005,4.1%,Slovak Republic
-2022,Europe,2217.5856257399987,48.8%,Slovak Republic
-2022,Regional and Unspecified,1477.3144360799997,32.5%,Slovak Republic
-2022,Caribbean & Central America,285.53663819999997,6.3%,Slovak Republic
-2022,South of Sahara,240.39753602999997,5.3%,Slovak Republic
-2022,Middle East,156.96649415999997,3.5%,Slovak Republic
-2022,South & Central Asia,152.90177591999998,3.4%,Slovak Republic
-2022,South America,6.963864689999999,0.2%,Slovak Republic
-2022,Far East Asia,1.9929749099999998,0.0%,Slovak Republic
-2022,Asia,0.82628742,0.0%,Slovak Republic
-2021,Regional and Unspecified,1098.0160434300003,28.1%,Slovak Republic
-2021,Europe,927.8214753600001,23.7%,Slovak Republic
-2021,South of Sahara,830.4981833700001,21.2%,Slovak Republic
-2021,Middle East,358.27090632000005,9.2%,Slovak Republic
-2021,South & Central Asia,330.00687821999986,8.4%,Slovak Republic
-2021,Far East Asia,173.55483333,4.4%,Slovak Republic
-2021,North of Sahara,149.63098979999998,3.8%,Slovak Republic
-2021,Asia,37.83361014,1.0%,Slovak Republic
-2021,South America,4.22281293,0.1%,Slovak Republic
-2020,Europe,2807.6863846500005,66.4%,Slovak Republic
-2020,Regional and Unspecified,790.7957757299998,18.7%,Slovak Republic
-2020,South of Sahara,330.78630623999993,7.8%,Slovak Republic
-2020,South & Central Asia,182.54960672999997,4.3%,Slovak Republic
-2020,Middle East,115.64498268,2.7%,Slovak Republic
-2020,Far East Asia,2.7555558599999994,0.1%,Slovak Republic
-2020,South America,1.33805901,0.0%,Slovak Republic
-2019,Regional and Unspecified,912.97563645,35.9%,Slovak Republic
-2019,Europe,885.0968595599993,34.8%,Slovak Republic
-2019,South of Sahara,386.8146404100002,15.2%,Slovak Republic
-2019,Middle East,181.36841514000005,7.1%,Slovak Republic
-2019,South & Central Asia,135.99590852999995,5.4%,Slovak Republic
-2019,Caribbean & Central America,26.16383442,1.0%,Slovak Republic
-2019,Far East Asia,8.968108169999999,0.4%,Slovak Republic
-2019,South America,4.1763998099999995,0.2%,Slovak Republic
+year,Region,Bilateral ODA,Share,Donor
+2023,Europe,14.15,37.1%,Slovak Republic
+2023,"Developing countries, unspecified",7.4,19.4%,Slovak Republic
+2023,Asia,6.66,17.5%,Slovak Republic
+2023,Latin America and the Caribbeans,4.29,11.2%,Slovak Republic
+2023,MENA region,4.07,10.7%,Slovak Republic
+2023,sub-Saharan Africa,1.58,4.1%,Slovak Republic
+2022,Europe,22.18,48.8%,Slovak Republic
+2022,"Developing countries, unspecified",14.77,32.5%,Slovak Republic
+2022,Latin America and the Caribbeans,2.93,6.4%,Slovak Republic
+2022,sub-Saharan Africa,2.4,5.3%,Slovak Republic
+2022,MENA region,1.57,3.5%,Slovak Republic
+2022,Asia,1.55,3.4%,Slovak Republic
+2022,"Asia, regional",0.01,0.0%,Slovak Republic
+2021,"Developing countries, unspecified",10.98,28.1%,Slovak Republic
+2021,Europe,9.28,23.7%,Slovak Republic
+2021,sub-Saharan Africa,8.3,21.2%,Slovak Republic
+2021,MENA region,5.08,13.0%,Slovak Republic
+2021,Asia,5.04,12.9%,Slovak Republic
+2021,"Asia, regional",0.38,1.0%,Slovak Republic
+2021,Latin America and the Caribbeans,0.04,0.1%,Slovak Republic
+2020,Europe,28.08,66.4%,Slovak Republic
+2020,"Developing countries, unspecified",7.91,18.7%,Slovak Republic
+2020,sub-Saharan Africa,3.31,7.8%,Slovak Republic
+2020,Asia,1.85,4.4%,Slovak Republic
+2020,MENA region,1.16,2.7%,Slovak Republic
+2020,Latin America and the Caribbeans,0.01,0.0%,Slovak Republic
+2019,"Developing countries, unspecified",9.13,35.9%,Slovak Republic
+2019,Europe,8.85,34.8%,Slovak Republic
+2019,sub-Saharan Africa,3.87,15.2%,Slovak Republic
+2019,MENA region,1.81,7.1%,Slovak Republic
+2019,Asia,1.45,5.7%,Slovak Republic
+2019,Latin America and the Caribbeans,0.3,1.2%,Slovak Republic

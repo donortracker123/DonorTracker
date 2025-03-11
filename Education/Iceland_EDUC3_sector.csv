@@ -1,47 +1,48 @@
-year,Sector,Bilateral ODA for,share,donor
-2023,School feeding,1.241494048,33.4303388779542,Iceland
-2023,Education facilities and training,1.0992779616000001,29.60081430640473,Iceland
-2023,Primary education,0.6719223728000001,18.093193969451132,Iceland
-2023,Upper Secondary Education (modified and includes data from 11322),0.2316102192,6.236685651394482,Iceland
-2023,Education policy and administrative management,0.2127432208,5.728644431915499,Iceland
-2023,Advanced technical and managerial training,0.0751388816,2.0233027124415797,Iceland
-2023,Early childhood education,0.07159909920000002,1.9279851993396422,Iceland
-2023,Vocational training,0.0511523632,1.3774055855837606,Iceland
-2023,Basic life skills for youth,0.017633089600000002,0.47481513241481915,Iceland
-2023,Educational research,0.0173969648,0.4684568803602034,Iceland
-2023,Teacher training,0.0173969648,0.4684568803602034,Iceland
-2023,Basic life skills for adults,0.0063095472000000005,0.16990037237975308,Iceland
-2022,Education facilities and training,3.9593907968000006,72.22748894654967,Iceland
-2022,Primary education,0.9708772655999999,17.710812235623457,Iceland
-2022,Education policy and administrative management,0.1623389344,2.961398404887723,Iceland
-2022,Upper Secondary Education (modified and includes data from 11322),0.1386595872,2.529438066561992,Iceland
-2022,Early childhood education,0.07958555040000001,1.4518052793543008,Iceland
-2022,Vocational training,0.07936196320000001,1.4477265857255635,Iceland
-2022,Teacher training,0.0525189616,0.9580546384847993,Iceland
-2022,Advanced technical and managerial training,0.032921648000000005,0.6005590478575613,Iceland
-2022,Educational research,0.0061789472,0.1127167949549228,Iceland
-2021,Education facilities and training,4.977421976000001,74.08571153537822,Iceland
-2021,Primary education,1.0120632816,15.063908323967636,Iceland
-2021,Education policy and administrative management,0.29106560800000003,4.332323595655188,Iceland
-2021,Upper Secondary Education (modified and includes data from 11322),0.2512096224,3.73909299026201,Iceland
-2021,Vocational training,0.09523038560000001,1.4174427868448893,Iceland
-2021,Teacher training,0.054908419199999996,0.8172763581889287,Iceland
-2021,Educational research,0.0134601584,0.20034576478570557,Iceland
-2021,Basic life skills for youth,0.0102306816,0.15227708831651238,Iceland
-2021,Advanced technical and managerial training,0.0081212304,0.12087926955517266,Iceland
-2021,Higher education,0.0047527952,0.07074228704573271,Iceland
-2020,Education facilities and training,3.8419584112000003,60.39235117382797,Iceland
-2020,Primary education,1.8734037152000003,29.448328937890405,Iceland
-2020,Education policy and administrative management,0.47938662880000005,7.53555414606491,Iceland
-2020,Vocational training,0.09613727200000001,1.511196965222844,Iceland
-2020,Basic life skills for youth,0.043152329600000004,0.6783182856885714,Iceland
-2020,Advanced technical and managerial training,0.0143304768,0.2252630285822586,Iceland
-2020,Higher education,0.01329508,0.20898746272304178,Iceland
-2019,Education facilities and training,3.756484368,66.42685519026492,Iceland
-2019,Primary education,1.6591570272,29.33928982177647,Iceland
-2019,Vocational training,0.16076024160000002,2.842763670224117,Iceland
-2019,Upper Secondary Education (modified and includes data from 11322),0.0316908736,0.5603976658103291,Iceland
-2019,Education policy and administrative management,0.028327662400000002,0.5009251586811108,Iceland
-2019,Educational research,0.0079227184,0.14009941645258228,Iceland
-2019,Teacher training,0.0079227184,0.14009941645258228,Iceland
-2019,Basic life skills for adults,0.0028031984,0.04956966033789769,Iceland
+year,Sub-Sector,Bilateral ODA for,Share,Donor
+2023,School feeding,1.24,33.4%,Iceland
+2023,Education facilities and training,1.1,29.6%,Iceland
+2023,Primary education,0.67,18.1%,Iceland
+2023,Upper Secondary Education (modified and includes data from 11322),0.23,6.2%,Iceland
+2023,Education policy and administrative management,0.21,5.7%,Iceland
+2023,Advanced technical and managerial training,0.08,2.0%,Iceland
+2023,Early childhood education,0.07,1.9%,Iceland
+2023,Vocational training,0.05,1.4%,Iceland
+2023,Educational research,0.02,0.5%,Iceland
+2023,Basic life skills for youth,0.02,0.5%,Iceland
+2023,Teacher training,0.02,0.5%,Iceland
+2023,Basic life skills for adults,0.01,0.2%,Iceland
+2022,Education facilities and training,3.96,72.2%,Iceland
+2022,Primary education,0.97,17.7%,Iceland
+2022,Education policy and administrative management,0.16,3.0%,Iceland
+2022,Upper Secondary Education (modified and includes data from 11322),0.14,2.5%,Iceland
+2022,Early childhood education,0.08,1.5%,Iceland
+2022,Vocational training,0.08,1.4%,Iceland
+2022,Teacher training,0.05,1.0%,Iceland
+2022,Advanced technical and managerial training,0.03,0.6%,Iceland
+2022,Educational research,0.01,0.1%,Iceland
+2021,Education facilities and training,4.98,72.3%,Iceland
+2021,Primary education,1.01,14.7%,Iceland
+2021,Education policy and administrative management,0.29,4.2%,Iceland
+2021,Upper Secondary Education (modified and includes data from 11322),0.25,3.6%,Iceland
+2021,Lower secondary education,0.16,2.4%,Iceland
+2021,Vocational training,0.1,1.4%,Iceland
+2021,Teacher training,0.05,0.8%,Iceland
+2021,Educational research,0.01,0.2%,Iceland
+2021,Advanced technical and managerial training,0.01,0.1%,Iceland
+2021,Basic life skills for youth,0.01,0.1%,Iceland
+2021,Higher education,0.0,0.1%,Iceland
+2020,Education facilities and training,3.84,60.4%,Iceland
+2020,Primary education,1.87,29.4%,Iceland
+2020,Education policy and administrative management,0.48,7.5%,Iceland
+2020,Vocational training,0.1,1.5%,Iceland
+2020,Basic life skills for youth,0.04,0.7%,Iceland
+2020,Advanced technical and managerial training,0.01,0.2%,Iceland
+2020,Higher education,0.01,0.2%,Iceland
+2019,Education facilities and training,3.76,66.4%,Iceland
+2019,Primary education,1.66,29.3%,Iceland
+2019,Vocational training,0.16,2.8%,Iceland
+2019,Upper Secondary Education (modified and includes data from 11322),0.03,0.6%,Iceland
+2019,Education policy and administrative management,0.03,0.5%,Iceland
+2019,Teacher training,0.01,0.1%,Iceland
+2019,Educational research,0.01,0.1%,Iceland
+2019,Basic life skills for adults,0.0,0.0%,Iceland

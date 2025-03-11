@@ -1,101 +1,101 @@
-year,Recipient country,ODA Grants,ODA Loans,share,donor
-2023,Ukraine,830.8458169244998,19747.2552678279,51.3%,EU Institutions
-2023,"Bilateral, unspecified",4130.941862952888,0.0,10.3%,EU Institutions
-2023,Türkiye,1169.4895970291998,116.1365415696,3.2%,EU Institutions
-2023,"Europe, regional",640.2621468573,0.0,1.6%,EU Institutions
-2023,"Africa, regional",637.9281791648999,0.0,1.6%,EU Institutions
-2023,Serbia,398.65296808440024,159.6563853498,1.4%,EU Institutions
-2023,"South of Sahara, regional",466.6084883612998,0.0,1.2%,EU Institutions
-2023,Egypt,80.92174590000006,347.318549334,1.1%,EU Institutions
-2023,Afghanistan,370.0760444127001,0.0,0.9%,EU Institutions
-2023,West Bank and Gaza Strip,336.01639191930025,0.0,0.8%,EU Institutions
-2023,Morocco,240.88205952269993,89.42729891939999,0.8%,EU Institutions
-2023,Moldova,203.09321191139995,116.33118480359998,0.8%,EU Institutions
-2023,Jordan,81.3057018939,224.39980451700004,0.8%,EU Institutions
-2023,Georgia,105.58872499680002,200.04897782700002,0.8%,EU Institutions
-2023,Bosnia and Herzegovina,142.7627246355,160.07162243850001,0.8%,EU Institutions
-2023,Lebanon,295.1237310138,0.0,0.7%,EU Institutions
-2023,Democratic Republic of the Congo,257.7623620059002,0.0,0.6%,EU Institutions
-2023,Tunisia,144.47269879560002,83.0635807977,0.6%,EU Institutions
-2023,Syrian Arab Republic,226.49087661570013,0.0,0.6%,EU Institutions
-2023,Yemen,222.2587865169,0.0,0.6%,EU Institutions
-2022,Ukraine,1387.688981472,10193.113096440298,34.9%,EU Institutions
-2022,"Bilateral, unspecified",5140.9340122716,0.0,15.5%,EU Institutions
-2022,Türkiye,1409.6014741971,19.043664588,4.3%,EU Institutions
-2022,Tunisia,375.39530355150026,472.1309518643999,2.6%,EU Institutions
-2022,"Europe, regional",778.9224671468999,0.0,2.3%,EU Institutions
-2022,"South of Sahara, regional",752.7889873953002,0.0,2.3%,EU Institutions
-2022,Serbia,249.80821486649984,411.7886967006,2.0%,EU Institutions
-2022,Morocco,152.51471782829998,394.30553682420003,1.6%,EU Institutions
-2022,"Africa, regional",317.7533110086,207.22066416269996,1.6%,EU Institutions
-2022,India,18.688440142799994,471.53805149699997,1.5%,EU Institutions
-2022,Egypt,250.20176071679984,204.15791083589997,1.4%,EU Institutions
-2022,Syrian Arab Republic,446.41675458270026,0.0,1.3%,EU Institutions
-2022,Afghanistan,369.7423504335001,0.0,1.1%,EU Institutions
-2022,West Bank and Gaza Strip,334.08270513720015,0.0,1.0%,EU Institutions
-2022,Moldova,194.09044308749992,113.1344483211,0.9%,EU Institutions
-2022,"South America, regional",55.83545608949999,246.7245578688,0.9%,EU Institutions
-2022,Georgia,112.73252818410002,172.68959983499994,0.9%,EU Institutions
-2022,Yemen,262.62701328509996,0.0,0.8%,EU Institutions
-2022,Ethiopia,223.67067669810007,36.9152364609,0.8%,EU Institutions
-2022,Democratic Republic of the Congo,230.17623518340002,0.0,0.7%,EU Institutions
-2021,"Bilateral, unspecified",2967.4132035588004,0.0,12.2%,EU Institutions
-2021,Egypt,167.1840815256,2070.5547019581004,9.2%,EU Institutions
-2021,Türkiye,1989.7540024671007,163.26162603359998,8.8%,EU Institutions
-2021,Ukraine,271.8277591977,962.9373082715998,5.1%,EU Institutions
-2021,"South of Sahara, regional",826.5477797252997,10.0358748855,3.4%,EU Institutions
-2021,Jordan,141.35756299649984,540.3215702736,2.8%,EU Institutions
-2021,"Africa, regional",404.93418389370015,157.82662380240004,2.3%,EU Institutions
-2021,Syrian Arab Republic,561.4781263821003,0.0,2.3%,EU Institutions
-2021,Tunisia,139.81972067549998,411.40873611809997,2.3%,EU Institutions
-2021,Serbia,280.62008020889994,269.3899901088,2.3%,EU Institutions
-2021,"Europe, regional",501.42296835899975,0.0,2.1%,EU Institutions
-2021,Bosnia and Herzegovina,96.05690526060006,306.36545973209996,1.7%,EU Institutions
-2021,Morocco,214.78696744050004,182.5960420755,1.6%,EU Institutions
-2021,Albania,158.94241358850007,230.64108902459995,1.6%,EU Institutions
-2021,Somalia,365.74079817959995,0.0,1.5%,EU Institutions
-2021,Afghanistan,353.9129975757,0.0,1.5%,EU Institutions
-2021,Moldova,206.24623025039995,147.00800132999998,1.5%,EU Institutions
-2021,Georgia,125.33855302170005,183.0346183197,1.3%,EU Institutions
-2021,North Macedonia,117.42684110549997,188.96077914659998,1.3%,EU Institutions
-2021,"North of Sahara, regional",95.73590252429999,146.82277197180002,1.0%,EU Institutions
-2020,"Bilateral, unspecified",2419.9107503336963,0.0,9.4%,EU Institutions
-2020,Ukraine,271.11214712340006,1509.3411754436997,6.9%,EU Institutions
-2020,"Africa, regional",1109.3067151110001,481.95782262989974,6.2%,EU Institutions
-2020,Türkiye,1225.1785362336,329.99269656059994,6.0%,EU Institutions
-2020,Morocco,550.4152200246001,611.1884321244,4.5%,EU Institutions
-2020,Egypt,133.69758372450002,831.4084421109001,3.8%,EU Institutions
-2020,"South of Sahara, regional",916.1309540042997,0.0,3.6%,EU Institutions
-2020,"Europe, regional",607.9766503869001,0.0,2.4%,EU Institutions
-2020,Georgia,253.50905320919998,262.7632038024,2.0%,EU Institutions
-2020,Jordan,117.52882838100001,391.3937368317,2.0%,EU Institutions
-2020,Tunisia,357.15340874969996,130.1570039619,1.9%,EU Institutions
-2020,Serbia,272.59284137400005,167.23716900660003,1.7%,EU Institutions
-2020,Afghanistan,395.5776560433,0.0,1.5%,EU Institutions
-2020,India,17.5426206795,319.7864865762,1.3%,EU Institutions
-2020,Syrian Arab Republic,328.3832377395002,0.0,1.3%,EU Institutions
-2020,Bangladesh,283.1991247854,16.5174174504,1.2%,EU Institutions
-2020,Moldova,82.74713834880001,216.4032199818,1.2%,EU Institutions
-2020,Brazil,14.244957150300001,280.4991098409,1.1%,EU Institutions
-2020,Iraq,291.9909493574999,0.0,1.1%,EU Institutions
-2020,West Bank and Gaza Strip,291.87436220999996,0.0,1.1%,EU Institutions
-2019,"Bilateral, unspecified",2152.1727824526024,0.0,10.9%,EU Institutions
-2019,Türkiye,1304.7154288731,304.89595111259996,8.2%,EU Institutions
-2019,"South of Sahara, regional",1541.232889250398,0.0,7.8%,EU Institutions
-2019,Egypt,104.52340362239998,663.0169707242999,3.9%,EU Institutions
-2019,"Europe, regional",651.4590939443997,0.0,3.3%,EU Institutions
-2019,Morocco,200.45034720989997,390.344154858,3.0%,EU Institutions
-2019,"Africa, regional",420.5133640341,157.2101094456,2.9%,EU Institutions
-2019,Syrian Arab Republic,492.76685415960026,0.0,2.5%,EU Institutions
-2019,Ukraine,303.8035254669003,181.1041795746,2.5%,EU Institutions
-2019,Afghanistan,462.1146488459998,0.0,2.3%,EU Institutions
-2019,Serbia,224.41167777599995,225.37768960440002,2.3%,EU Institutions
-2019,Tunisia,224.2236772665,194.41449398159995,2.1%,EU Institutions
-2019,West Bank and Gaza Strip,264.63298138289997,0.0,1.3%,EU Institutions
-2019,Iraq,258.1531823295,0.0,1.3%,EU Institutions
-2019,Democratic Republic of the Congo,237.14743290479993,0.0,1.2%,EU Institutions
-2019,Yemen,231.65237349180006,0.0,1.2%,EU Institutions
-2019,Georgia,109.55451842730001,121.38767123129999,1.2%,EU Institutions
-2019,Mali,230.6272528215002,0.0,1.2%,EU Institutions
-2019,Ethiopia,210.39789938759998,15.428062774799999,1.1%,EU Institutions
-2019,Bosnia and Herzegovina,96.83013468690002,128.5090803441,1.1%,EU Institutions
+year,Recipient Country,ODA Grants,ODA Loans,Share,Donor
+2023,Ukraine,830.85,19747.26,51.3%,EU Institutions
+2023,"Bilateral, unspecified",4130.94,0.0,10.3%,EU Institutions
+2023,Türkiye,1169.49,116.14,3.2%,EU Institutions
+2023,"Europe, regional",640.26,0.0,1.6%,EU Institutions
+2023,"Africa, regional",637.93,0.0,1.6%,EU Institutions
+2023,Serbia,398.65,159.66,1.4%,EU Institutions
+2023,"South of Sahara, regional",466.61,0.0,1.2%,EU Institutions
+2023,Egypt,80.92,347.32,1.1%,EU Institutions
+2023,Afghanistan,370.08,0.0,0.9%,EU Institutions
+2023,West Bank and Gaza Strip,336.02,0.0,0.8%,EU Institutions
+2023,Morocco,240.88,89.43,0.8%,EU Institutions
+2023,Moldova,203.09,116.33,0.8%,EU Institutions
+2023,Jordan,81.31,224.4,0.8%,EU Institutions
+2023,Georgia,105.59,200.05,0.8%,EU Institutions
+2023,Bosnia and Herzegovina,142.76,160.07,0.8%,EU Institutions
+2023,Lebanon,295.12,0.0,0.7%,EU Institutions
+2023,Democratic Republic of the Congo,257.76,0.0,0.6%,EU Institutions
+2023,Tunisia,144.47,83.06,0.6%,EU Institutions
+2023,Syrian Arab Republic,226.49,0.0,0.6%,EU Institutions
+2023,Yemen,222.26,0.0,0.6%,EU Institutions
+2022,Ukraine,1387.69,10193.11,34.9%,EU Institutions
+2022,"Bilateral, unspecified",5140.93,0.0,15.5%,EU Institutions
+2022,Türkiye,1409.6,19.04,4.3%,EU Institutions
+2022,Tunisia,375.4,472.13,2.6%,EU Institutions
+2022,"Europe, regional",778.92,0.0,2.3%,EU Institutions
+2022,"South of Sahara, regional",752.79,0.0,2.3%,EU Institutions
+2022,Serbia,249.81,411.79,2.0%,EU Institutions
+2022,Morocco,152.51,394.31,1.6%,EU Institutions
+2022,"Africa, regional",317.75,207.22,1.6%,EU Institutions
+2022,India,18.69,471.54,1.5%,EU Institutions
+2022,Egypt,250.2,204.16,1.4%,EU Institutions
+2022,Syrian Arab Republic,446.42,0.0,1.3%,EU Institutions
+2022,Afghanistan,369.74,0.0,1.1%,EU Institutions
+2022,West Bank and Gaza Strip,334.08,0.0,1.0%,EU Institutions
+2022,Moldova,194.09,113.13,0.9%,EU Institutions
+2022,"South America, regional",55.84,246.72,0.9%,EU Institutions
+2022,Georgia,112.73,172.69,0.9%,EU Institutions
+2022,Yemen,262.63,0.0,0.8%,EU Institutions
+2022,Ethiopia,223.67,36.92,0.8%,EU Institutions
+2022,Democratic Republic of the Congo,230.18,0.0,0.7%,EU Institutions
+2021,"Bilateral, unspecified",2967.41,0.0,12.2%,EU Institutions
+2021,Egypt,167.18,2070.55,9.2%,EU Institutions
+2021,Türkiye,1989.75,163.26,8.8%,EU Institutions
+2021,Ukraine,271.83,962.94,5.1%,EU Institutions
+2021,"South of Sahara, regional",826.55,10.04,3.4%,EU Institutions
+2021,Jordan,141.36,540.32,2.8%,EU Institutions
+2021,"Africa, regional",404.93,157.83,2.3%,EU Institutions
+2021,Syrian Arab Republic,561.48,0.0,2.3%,EU Institutions
+2021,Tunisia,139.82,411.41,2.3%,EU Institutions
+2021,Serbia,280.62,269.39,2.3%,EU Institutions
+2021,"Europe, regional",501.42,0.0,2.1%,EU Institutions
+2021,Bosnia and Herzegovina,96.06,306.37,1.7%,EU Institutions
+2021,Morocco,214.79,182.6,1.6%,EU Institutions
+2021,Albania,158.94,230.64,1.6%,EU Institutions
+2021,Somalia,365.74,0.0,1.5%,EU Institutions
+2021,Afghanistan,353.91,0.0,1.5%,EU Institutions
+2021,Moldova,206.25,147.01,1.5%,EU Institutions
+2021,Georgia,125.34,183.03,1.3%,EU Institutions
+2021,North Macedonia,117.43,188.96,1.3%,EU Institutions
+2021,"North of Sahara, regional",95.74,146.82,1.0%,EU Institutions
+2020,"Bilateral, unspecified",2419.91,0.0,9.4%,EU Institutions
+2020,Ukraine,271.11,1509.34,6.9%,EU Institutions
+2020,"Africa, regional",1109.31,481.96,6.2%,EU Institutions
+2020,Türkiye,1225.18,329.99,6.0%,EU Institutions
+2020,Morocco,550.42,611.19,4.5%,EU Institutions
+2020,Egypt,133.7,831.41,3.8%,EU Institutions
+2020,"South of Sahara, regional",916.13,0.0,3.6%,EU Institutions
+2020,"Europe, regional",607.98,0.0,2.4%,EU Institutions
+2020,Georgia,253.51,262.76,2.0%,EU Institutions
+2020,Jordan,117.53,391.39,2.0%,EU Institutions
+2020,Tunisia,357.15,130.16,1.9%,EU Institutions
+2020,Serbia,272.59,167.24,1.7%,EU Institutions
+2020,Afghanistan,395.58,0.0,1.5%,EU Institutions
+2020,India,17.54,319.79,1.3%,EU Institutions
+2020,Syrian Arab Republic,328.38,0.0,1.3%,EU Institutions
+2020,Bangladesh,283.2,16.52,1.2%,EU Institutions
+2020,Moldova,82.75,216.4,1.2%,EU Institutions
+2020,Brazil,14.24,280.5,1.1%,EU Institutions
+2020,Iraq,291.99,0.0,1.1%,EU Institutions
+2020,West Bank and Gaza Strip,291.87,0.0,1.1%,EU Institutions
+2019,"Bilateral, unspecified",2152.17,0.0,10.9%,EU Institutions
+2019,Türkiye,1304.72,304.9,8.2%,EU Institutions
+2019,"South of Sahara, regional",1541.23,0.0,7.8%,EU Institutions
+2019,Egypt,104.52,663.02,3.9%,EU Institutions
+2019,"Europe, regional",651.46,0.0,3.3%,EU Institutions
+2019,Morocco,200.45,390.34,3.0%,EU Institutions
+2019,"Africa, regional",420.51,157.21,2.9%,EU Institutions
+2019,Syrian Arab Republic,492.77,0.0,2.5%,EU Institutions
+2019,Ukraine,303.8,181.1,2.5%,EU Institutions
+2019,Afghanistan,462.11,0.0,2.3%,EU Institutions
+2019,Serbia,224.41,225.38,2.3%,EU Institutions
+2019,Tunisia,224.22,194.41,2.1%,EU Institutions
+2019,West Bank and Gaza Strip,264.63,0.0,1.3%,EU Institutions
+2019,Iraq,258.15,0.0,1.3%,EU Institutions
+2019,Democratic Republic of the Congo,237.15,0.0,1.2%,EU Institutions
+2019,Yemen,231.65,0.0,1.2%,EU Institutions
+2019,Georgia,109.55,121.39,1.2%,EU Institutions
+2019,Mali,230.63,0.0,1.2%,EU Institutions
+2019,Ethiopia,210.4,15.43,1.1%,EU Institutions
+2019,Bosnia and Herzegovina,96.83,128.51,1.1%,EU Institutions
