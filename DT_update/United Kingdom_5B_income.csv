@@ -1,34 +1,29 @@
 year,incomegroup_name,total_oda,Share,Donor
-2023,Part I unallocated by income,9591.11,79.09,United Kingdom
-2023,LDCs,1202.88,9.92,United Kingdom
-2023,LMICs,819.62,6.76,United Kingdom
-2023,UMICs,377.21,3.11,United Kingdom
-2023,Other LICs,136.09,1.12,United Kingdom
-2023,,,,United Kingdom
-2022,Part I unallocated by income,9747.19,74.91,United Kingdom
-2022,LDCs,1644.86,12.64,United Kingdom
-2022,LMICs,1054.68,8.11,United Kingdom
-2022,UMICs,479.64,3.69,United Kingdom
-2022,Other LICs,85.18,0.65,United Kingdom
-2022,,,,United Kingdom
-2021,Part I unallocated by income,6185.51,60.79,United Kingdom
-2021,LDCs,1945.8,19.12,United Kingdom
-2021,LMICs,1017.28,10.0,United Kingdom
-2021,UMICs,898.35,8.83,United Kingdom
-2021,Other LICs,127.89,1.26,United Kingdom
-2021,MADCTs,0.13,0.0,United Kingdom
-2021,,,,United Kingdom
-2020,Part I unallocated by income,7547.34,55.83,United Kingdom
-2020,LDCs,3220.65,23.82,United Kingdom
-2020,LMICs,1415.32,10.47,United Kingdom
-2020,UMICs,1080.38,7.99,United Kingdom
-2020,Other LICs,255.53,1.89,United Kingdom
-2020,MADCTs,0.28,0.0,United Kingdom
-2020,,,,United Kingdom
-2019,Part I unallocated by income,8113.43,52.12,United Kingdom
-2019,LDCs,4042.88,25.97,United Kingdom
-2019,LMICs,1835.5,11.79,United Kingdom
-2019,UMICs,1239.54,7.96,United Kingdom
-2019,Other LICs,334.86,2.15,United Kingdom
-2019,MADCTs,0.38,0.0,United Kingdom
-2019,,,,United Kingdom
+2023,Countries unallocated by income,9591.11,79.09,United Kingdom
+2023,Least developed countries,1202.88,9.92,United Kingdom
+2023,Lower-middle income countries,819.62,6.76,United Kingdom
+2023,Upper-middle income countries,377.21,3.11,United Kingdom
+2023,Other low income countries,136.09,1.12,United Kingdom
+2022,Countries unallocated by income,9747.19,74.91,United Kingdom
+2022,Least developed countries,1644.86,12.64,United Kingdom
+2022,Lower-middle income countries,1054.68,8.11,United Kingdom
+2022,Upper-middle income countries,479.64,3.69,United Kingdom
+2022,Other low income countries,85.18,0.65,United Kingdom
+2021,Countries unallocated by income,6185.51,60.79,United Kingdom
+2021,Least developed countries,1945.8,19.12,United Kingdom
+2021,Lower-middle income countries,1017.28,10.0,United Kingdom
+2021,Upper-middle income countries,898.35,8.83,United Kingdom
+2021,Other low income countries,127.89,1.26,United Kingdom
+2021,More advanced developed countries and territories,0.13,0.0,United Kingdom
+2020,Countries unallocated by income,7547.34,55.83,United Kingdom
+2020,Least developed countries,3220.65,23.82,United Kingdom
+2020,Lower-middle income countries,1415.32,10.47,United Kingdom
+2020,Upper-middle income countries,1080.38,7.99,United Kingdom
+2020,Other low income countries,255.53,1.89,United Kingdom
+2020,More advanced developed countries and territories,0.28,0.0,United Kingdom
+2019,Countries unallocated by income,8113.43,52.12,United Kingdom
+2019,Least developed countries,4042.88,25.97,United Kingdom
+2019,Lower-middle income countries,1835.5,11.79,United Kingdom
+2019,Upper-middle income countries,1239.54,7.96,United Kingdom
+2019,Other low income countries,334.86,2.15,United Kingdom
+2019,More advanced developed countries and territories,0.38,0.0,United Kingdom

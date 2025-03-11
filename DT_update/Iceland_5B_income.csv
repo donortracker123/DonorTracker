@@ -1,26 +1,26 @@
 year,incomegroup_name,total_oda,Share,Donor
-2023,Part I unallocated by income,39.79,45.79,Iceland
-2023,LDCs,31.04,35.73,Iceland
-2023,LMICs,12.65,14.56,Iceland
-2023,UMICs,2.1,2.42,Iceland
-2023,Other LICs,1.3,1.5,Iceland
-2022,LDCs,30.16,39.86,Iceland
-2022,Part I unallocated by income,27.86,36.83,Iceland
-2022,LMICs,14.66,19.38,Iceland
-2022,UMICs,2.12,2.8,Iceland
-2022,Other LICs,0.86,1.13,Iceland
-2021,Part I unallocated by income,32.26,52.47,Iceland
-2021,LDCs,24.92,40.53,Iceland
-2021,UMICs,1.73,2.81,Iceland
-2021,LMICs,1.56,2.54,Iceland
-2021,Other LICs,1.01,1.65,Iceland
-2020,Part I unallocated by income,28.88,51.61,Iceland
-2020,LDCs,22.67,40.51,Iceland
-2020,Other LICs,1.65,2.94,Iceland
-2020,LMICs,1.65,2.94,Iceland
-2020,UMICs,1.11,1.99,Iceland
-2019,Part I unallocated by income,30.63,52.2,Iceland
-2019,LDCs,23.44,39.95,Iceland
-2019,Other LICs,1.96,3.34,Iceland
-2019,UMICs,1.33,2.27,Iceland
-2019,LMICs,1.32,2.24,Iceland
+2023,Countries unallocated by income,39.79,45.79,Iceland
+2023,Least developed countries,31.04,35.73,Iceland
+2023,Lower-middle income countries,12.65,14.56,Iceland
+2023,Upper-middle income countries,2.1,2.42,Iceland
+2023,Other low income countries,1.3,1.5,Iceland
+2022,Least developed countries,30.16,39.86,Iceland
+2022,Countries unallocated by income,27.86,36.83,Iceland
+2022,Lower-middle income countries,14.66,19.38,Iceland
+2022,Upper-middle income countries,2.12,2.8,Iceland
+2022,Other low income countries,0.86,1.13,Iceland
+2021,Countries unallocated by income,32.26,52.47,Iceland
+2021,Least developed countries,24.92,40.53,Iceland
+2021,Upper-middle income countries,1.73,2.81,Iceland
+2021,Lower-middle income countries,1.56,2.54,Iceland
+2021,Other low income countries,1.01,1.65,Iceland
+2020,Countries unallocated by income,28.88,51.61,Iceland
+2020,Least developed countries,22.67,40.51,Iceland
+2020,Other low income countries,1.65,2.94,Iceland
+2020,Lower-middle income countries,1.65,2.94,Iceland
+2020,Upper-middle income countries,1.11,1.99,Iceland
+2019,Countries unallocated by income,30.63,52.2,Iceland
+2019,Least developed countries,23.44,39.95,Iceland
+2019,Other low income countries,1.96,3.34,Iceland
+2019,Upper-middle income countries,1.33,2.27,Iceland
+2019,Lower-middle income countries,1.32,2.24,Iceland

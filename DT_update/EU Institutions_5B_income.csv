@@ -1,33 +1,29 @@
 year,incomegroup_name,total_oda,Share,Donor
-2023,LMICs,23370.19,58.31,EU Institutions
-2023,Part I unallocated by income,6914.5,17.25,EU Institutions
-2023,UMICs,5313.36,13.26,EU Institutions
-2023,LDCs,4252.86,10.61,EU Institutions
-2023,Other LICs,226.94,0.57,EU Institutions
-2022,LMICs,15508.3,46.76,EU Institutions
-2022,Part I unallocated by income,8201.85,24.73,EU Institutions
-2022,UMICs,4861.76,14.66,EU Institutions
-2022,LDCs,4147.02,12.5,EU Institutions
-2022,Other LICs,446.83,1.35,EU Institutions
-2022,,,,EU Institutions
-2021,UMICs,6996.24,28.74,EU Institutions
-2021,LMICs,6378.99,26.2,EU Institutions
-2021,Part I unallocated by income,5921.56,24.32,EU Institutions
-2021,LDCs,4484.28,18.42,EU Institutions
-2021,Other LICs,564.44,2.32,EU Institutions
-2021,MADCTs,0.68,0.0,EU Institutions
-2021,,,,EU Institutions
-2020,LMICs,6886.28,26.78,EU Institutions
-2020,UMICs,6855.98,26.66,EU Institutions
-2020,Part I unallocated by income,6383.95,24.83,EU Institutions
-2020,LDCs,5253.02,20.43,EU Institutions
-2020,Other LICs,331.7,1.29,EU Institutions
-2020,MADCTs,3.09,0.01,EU Institutions
-2020,,,,EU Institutions
-2019,Part I unallocated by income,5476.33,27.79,EU Institutions
-2019,UMICs,4969.43,25.22,EU Institutions
-2019,LDCs,4546.53,23.07,EU Institutions
-2019,LMICs,4212.32,21.37,EU Institutions
-2019,Other LICs,497.46,2.52,EU Institutions
-2019,MADCTs,4.92,0.02,EU Institutions
-2019,,,,EU Institutions
+2023,Lower-middle income countries,23370.19,58.31,EU Institutions
+2023,Countries unallocated by income,6914.5,17.25,EU Institutions
+2023,Upper-middle income countries,5313.36,13.26,EU Institutions
+2023,Least developed countries,4252.86,10.61,EU Institutions
+2023,Other low income countries,226.94,0.57,EU Institutions
+2022,Lower-middle income countries,15508.3,46.76,EU Institutions
+2022,Countries unallocated by income,8201.85,24.73,EU Institutions
+2022,Upper-middle income countries,4861.76,14.66,EU Institutions
+2022,Least developed countries,4147.02,12.5,EU Institutions
+2022,Other low income countries,446.83,1.35,EU Institutions
+2021,Upper-middle income countries,6996.24,28.74,EU Institutions
+2021,Lower-middle income countries,6378.99,26.2,EU Institutions
+2021,Countries unallocated by income,5921.56,24.32,EU Institutions
+2021,Least developed countries,4484.28,18.42,EU Institutions
+2021,Other low income countries,564.44,2.32,EU Institutions
+2021,More advanced developed countries and territories,0.68,0.0,EU Institutions
+2020,Lower-middle income countries,6886.28,26.78,EU Institutions
+2020,Upper-middle income countries,6855.98,26.66,EU Institutions
+2020,Countries unallocated by income,6383.95,24.83,EU Institutions
+2020,Least developed countries,5253.02,20.43,EU Institutions
+2020,Other low income countries,331.7,1.29,EU Institutions
+2020,More advanced developed countries and territories,3.09,0.01,EU Institutions
+2019,Countries unallocated by income,5476.33,27.79,EU Institutions
+2019,Upper-middle income countries,4969.43,25.22,EU Institutions
+2019,Least developed countries,4546.53,23.07,EU Institutions
+2019,Lower-middle income countries,4212.32,21.37,EU Institutions
+2019,Other low income countries,497.46,2.52,EU Institutions
+2019,More advanced developed countries and territories,4.92,0.02,EU Institutions

@@ -1,56 +1,58 @@
-year,Sector,Gender-related ODA to,Share,donor
-2019,"Conflict, peace & security",1.0415710848,25.0%,Slovenia
-2023,"Conflict, peace & security",0.9400698875000001,29.0%,Slovenia
-2019,Other social services,0.7898784802999999,19.0%,Slovenia
-2022,"Conflict, peace & security",0.7446968181,26.0%,Slovenia
-2020,Emergency Response,0.7323042104999999,20.0%,Slovenia
-2020,Government & civil society,0.6142414122000001,17.0%,Slovenia
-2023,Government & civil society,0.6122286786999999,19.0%,Slovenia
-2020,Other social services,0.6085418443,17.0%,Slovenia
-2019,Government & civil society,0.5856022889000001,14.0%,Slovenia
-2020,"Conflict, peace & security",0.5754847989999999,16.0%,Slovenia
-2023,Water and sanitation,0.5301988559,16.0%,Slovenia
-2022,Government & civil society,0.5219259045,18.0%,Slovenia
-2019,Emergency Response,0.487743074,12.0%,Slovenia
-2021,"Conflict, peace & security",0.4704503854,24.0%,Slovenia
-2021,Government & civil society,0.3938476546,20.0%,Slovenia
-2021,Other social services,0.35183142230000003,18.0%,Slovenia
-2022,Health & populations,0.33807082869999994,12.0%,Slovenia
-2019,Other multisector,0.3259349988,8.0%,Slovenia
-2022,Other social services,0.3253855618,11.0%,Slovenia
-2020,Other multisector,0.3223120785,9.0%,Slovenia
-2019,Education,0.2893593141,7.0%,Slovenia
-2023,"Agriculture (incl. forestry, fishing, rural development)",0.25547362809999996,8.0%,Slovenia
-2023,Other social services,0.23479461349999997,7.0%,Slovenia
-2022,Emergency Response,0.22611575150000002,8.0%,Slovenia
-2020,Education,0.2259509204,6.0%,Slovenia
-2023,Health & populations,0.216253918,7.0%,Slovenia
-2022,Water and sanitation,0.2146145774,7.0%,Slovenia
-2020,Health & populations,0.2126231486,6.0%,Slovenia
-2019,Health & populations,0.20535936719999998,5.0%,Slovenia
-2021,Emergency Response,0.1930048838,10.0%,Slovenia
-2023,Emergency Response,0.190194906,6.0%,Slovenia
-2019,Unspecified,0.1602730155,4.0%,Slovenia
-2022,"Agriculture (incl. forestry, fishing, rural development)",0.1532962869,5.0%,Slovenia
-2021,Education,0.1387978779,7.0%,Slovenia
-2021,"Agriculture (incl. forestry, fishing, rural development)",0.1381206127,7.0%,Slovenia
-2021,Health & populations,0.1357726105,7.0%,Slovenia
-2022,Reconstruction Relief & Rehabilitation,0.11792039319999999,4.0%,Slovenia
-2022,"Industry, construction & mining",0.11792039319999999,4.0%,Slovenia
-2020,"Agriculture (incl. forestry, fishing, rural development)",0.116032124,3.0%,Slovenia
-2023,Unspecified,0.11401042010000001,3.0%,Slovenia
-2019,Environmental protection,0.10429884079999999,2.0%,Slovenia
-2019,Disaster Prevention & Preparedness,0.1035251438,2.0%,Slovenia
-2023,"Industry, construction & mining",0.0865015672,3.0%,Slovenia
-2021,Water and sanitation,0.08538363110000001,4.0%,Slovenia
-2022,Education,0.08372410709999999,3.0%,Slovenia
-2020,Environmental protection,0.0773551231,2.0%,Slovenia
-2022,Unspecified,0.0766475828,3.0%,Slovenia
-2020,Unspecified,0.0706811455,2.0%,Slovenia
-2023,Energy,0.0540634795,2.0%,Slovenia
-2021,Reconstruction Relief & Rehabilitation,0.0502252696,3.0%,Slovenia
-2019,Financial services & business support,0.04857471599999999,1.0%,Slovenia
-2019,Reconstruction Relief & Rehabilitation,0.0391120653,1.0%,Slovenia
-2020,Reconstruction Relief & Rehabilitation,0.0386770009,1.0%,Slovenia
-2023,Education,0.027571645699999998,1.0%,Slovenia
-2021,Unspecified,0.0062781587,0.0%,Slovenia
+year,Sector,Gender-related ODA to,Share,Donor
+2019,"Conflict, peace & security",1.04,25.0%,Slovenia
+2023,"Conflict, peace & security",0.94,29.0%,Slovenia
+2019,Other social services,0.79,19.0%,Slovenia
+2022,"Conflict, peace & security",0.74,26.0%,Slovenia
+2020,Emergency Response,0.73,20.0%,Slovenia
+2020,Government & civil society,0.61,17.0%,Slovenia
+2020,Other social services,0.61,17.0%,Slovenia
+2023,Government & civil society,0.61,19.0%,Slovenia
+2019,Government & civil society,0.59,14.0%,Slovenia
+2020,"Conflict, peace & security",0.58,16.0%,Slovenia
+2023,Water and sanitation,0.53,16.0%,Slovenia
+2022,Government & civil society,0.52,18.0%,Slovenia
+2019,Emergency Response,0.49,12.0%,Slovenia
+2021,"Conflict, peace & security",0.47,24.0%,Slovenia
+2020,Other multisector,0.39,11.0%,Slovenia
+2021,Government & civil society,0.39,20.0%,Slovenia
+2021,Other social services,0.35,18.0%,Slovenia
+2022,Health & populations,0.34,12.0%,Slovenia
+2019,Other multisector,0.33,8.0%,Slovenia
+2022,Other social services,0.33,11.0%,Slovenia
+2019,Education,0.29,7.0%,Slovenia
+2023,"Agriculture (incl. forestry, fishing, rural development)",0.26,8.0%,Slovenia
+2020,Education,0.23,6.0%,Slovenia
+2023,Other social services,0.23,7.0%,Slovenia
+2022,Emergency Response,0.23,8.0%,Slovenia
+2023,Health & populations,0.22,7.0%,Slovenia
+2020,Health & populations,0.21,6.0%,Slovenia
+2019,Health & populations,0.21,5.0%,Slovenia
+2022,Water and sanitation,0.21,7.0%,Slovenia
+2023,Emergency Response,0.19,6.0%,Slovenia
+2021,Emergency Response,0.19,10.0%,Slovenia
+2019,Unspecified,0.16,4.0%,Slovenia
+2021,Education,0.14,7.0%,Slovenia
+2021,Health & populations,0.14,7.0%,Slovenia
+2022,Reconstruction Relief & Rehabilitation,0.12,4.0%,Slovenia
+2022,"Industry, construction & mining",0.12,4.0%,Slovenia
+2023,Unspecified,0.11,3.0%,Slovenia
+2019,Disaster Prevention & Preparedness,0.1,2.0%,Slovenia
+2019,Environmental protection,0.1,2.0%,Slovenia
+2023,"Industry, construction & mining",0.09,3.0%,Slovenia
+2021,Water and sanitation,0.09,4.0%,Slovenia
+2022,Other multisector,0.09,3.0%,Slovenia
+2020,Environmental protection,0.08,2.0%,Slovenia
+2021,Other multisector,0.08,4.0%,Slovenia
+2022,Education,0.08,3.0%,Slovenia
+2022,Unspecified,0.08,3.0%,Slovenia
+2020,Unspecified,0.07,2.0%,Slovenia
+2021,"Agriculture (incl. forestry, fishing, rural development)",0.06,3.0%,Slovenia
+2022,"Agriculture (incl. forestry, fishing, rural development)",0.06,2.0%,Slovenia
+2020,"Agriculture (incl. forestry, fishing, rural development)",0.05,1.0%,Slovenia
+2019,Financial services & business support,0.05,1.0%,Slovenia
+2023,Energy,0.05,2.0%,Slovenia
+2021,Reconstruction Relief & Rehabilitation,0.05,3.0%,Slovenia
+2020,Reconstruction Relief & Rehabilitation,0.04,1.0%,Slovenia
+2019,Reconstruction Relief & Rehabilitation,0.04,1.0%,Slovenia
+2023,Education,0.03,1.0%,Slovenia
+2021,Unspecified,0.01,0.0%,Slovenia

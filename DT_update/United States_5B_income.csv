@@ -1,29 +1,29 @@
 year,incomegroup_name,total_oda,Share,Donor
-2023,Part I unallocated by income,21894.95,36.84,United States
-2023,LMICs,17328.81,29.16,United States
-2023,LDCs,13663.26,22.99,United States
-2023,UMICs,5702.72,9.6,United States
-2023,Other LICs,835.27,1.41,United States
-2022,Part I unallocated by income,23585.84,43.06,United States
-2022,LMICs,14052.45,25.65,United States
-2022,LDCs,12331.14,22.51,United States
-2022,UMICs,4093.95,7.47,United States
-2022,Other LICs,714.07,1.3,United States
-2021,Part I unallocated by income,16975.73,39.24,United States
-2021,LDCs,13804.55,31.91,United States
-2021,UMICs,5912.65,13.67,United States
-2021,LMICs,5676.55,13.12,United States
-2021,Other LICs,894.06,2.07,United States
-2021,MADCTs,0.0,0.0,United States
-2020,LDCs,12023.55,34.15,United States
-2020,Part I unallocated by income,11267.31,32.0,United States
-2020,UMICs,5662.76,16.08,United States
-2020,LMICs,5453.85,15.49,United States
-2020,Other LICs,802.72,2.28,United States
-2020,MADCTs,0.11,0.0,United States
-2019,Part I unallocated by income,12794.41,36.8,United States
-2019,LDCs,11458.47,32.95,United States
-2019,UMICs,4934.4,14.19,United States
-2019,LMICs,4899.43,14.09,United States
-2019,Other LICs,684.22,1.97,United States
-2019,MADCTs,0.0,0.0,United States
+2023,Countries unallocated by income,21894.95,36.84,United States
+2023,Lower-middle income countries,17328.81,29.16,United States
+2023,Least developed countries,13663.26,22.99,United States
+2023,Upper-middle income countries,5702.72,9.6,United States
+2023,Other low income countries,835.27,1.41,United States
+2022,Countries unallocated by income,23585.84,43.06,United States
+2022,Lower-middle income countries,14052.45,25.65,United States
+2022,Least developed countries,12331.14,22.51,United States
+2022,Upper-middle income countries,4093.95,7.47,United States
+2022,Other low income countries,714.07,1.3,United States
+2021,Countries unallocated by income,16975.73,39.24,United States
+2021,Least developed countries,13804.55,31.91,United States
+2021,Upper-middle income countries,5912.65,13.67,United States
+2021,Lower-middle income countries,5676.55,13.12,United States
+2021,Other low income countries,894.06,2.07,United States
+2021,More advanced developed countries and territories,0.0,0.0,United States
+2020,Least developed countries,12023.55,34.15,United States
+2020,Countries unallocated by income,11267.31,32.0,United States
+2020,Upper-middle income countries,5662.76,16.08,United States
+2020,Lower-middle income countries,5453.85,15.49,United States
+2020,Other low income countries,802.72,2.28,United States
+2020,More advanced developed countries and territories,0.11,0.0,United States
+2019,Countries unallocated by income,12794.41,36.8,United States
+2019,Least developed countries,11458.47,32.95,United States
+2019,Upper-middle income countries,4934.4,14.19,United States
+2019,Lower-middle income countries,4899.43,14.09,United States
+2019,Other low income countries,684.22,1.97,United States
+2019,More advanced developed countries and territories,0.0,0.0,United States

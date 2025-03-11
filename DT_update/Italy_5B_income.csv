@@ -1,28 +1,28 @@
 year,incomegroup_name,total_oda,Share,Donor
-2023,Part I unallocated by income,1996.9,71.22,Italy
-2023,LDCs,305.14,10.88,Italy
-2023,LMICs,240.19,8.57,Italy
-2023,UMICs,223.78,7.98,Italy
-2023,Other LICs,37.76,1.35,Italy
-2022,Part I unallocated by income,2319.64,60.15,Italy
-2022,LMICs,659.84,17.11,Italy
-2022,LDCs,445.41,11.55,Italy
-2022,UMICs,397.43,10.31,Italy
-2022,Other LICs,34.12,0.88,Italy
-2021,Part I unallocated by income,1181.8,44.8,Italy
-2021,LDCs,1017.63,38.58,Italy
-2021,UMICs,220.81,8.37,Italy
-2021,LMICs,201.82,7.65,Italy
-2021,Other LICs,15.64,0.59,Italy
-2020,Part I unallocated by income,654.72,45.34,Italy
-2020,LDCs,291.9,20.21,Italy
-2020,LMICs,265.82,18.41,Italy
-2020,UMICs,214.28,14.84,Italy
-2020,Other LICs,16.82,1.16,Italy
-2020,MADCTs,0.48,0.03,Italy
-2019,Part I unallocated by income,792.78,50.69,Italy
-2019,LDCs,313.29,20.03,Italy
-2019,LMICs,226.06,14.45,Italy
-2019,UMICs,218.76,13.99,Italy
-2019,Other LICs,12.57,0.8,Italy
-2019,MADCTs,0.53,0.03,Italy
+2023,Countries unallocated by income,1996.9,71.22,Italy
+2023,Least developed countries,305.14,10.88,Italy
+2023,Lower-middle income countries,240.19,8.57,Italy
+2023,Upper-middle income countries,223.78,7.98,Italy
+2023,Other low income countries,37.76,1.35,Italy
+2022,Countries unallocated by income,2319.64,60.15,Italy
+2022,Lower-middle income countries,659.84,17.11,Italy
+2022,Least developed countries,445.41,11.55,Italy
+2022,Upper-middle income countries,397.43,10.31,Italy
+2022,Other low income countries,34.12,0.88,Italy
+2021,Countries unallocated by income,1181.8,44.8,Italy
+2021,Least developed countries,1017.63,38.58,Italy
+2021,Upper-middle income countries,220.81,8.37,Italy
+2021,Lower-middle income countries,201.82,7.65,Italy
+2021,Other low income countries,15.64,0.59,Italy
+2020,Countries unallocated by income,654.72,45.34,Italy
+2020,Least developed countries,291.9,20.21,Italy
+2020,Lower-middle income countries,265.82,18.41,Italy
+2020,Upper-middle income countries,214.28,14.84,Italy
+2020,Other low income countries,16.82,1.16,Italy
+2020,More advanced developed countries and territories,0.48,0.03,Italy
+2019,Countries unallocated by income,792.78,50.69,Italy
+2019,Least developed countries,313.29,20.03,Italy
+2019,Lower-middle income countries,226.06,14.45,Italy
+2019,Upper-middle income countries,218.76,13.99,Italy
+2019,Other low income countries,12.57,0.8,Italy
+2019,More advanced developed countries and territories,0.53,0.03,Italy

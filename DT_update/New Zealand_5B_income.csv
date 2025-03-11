@@ -1,27 +1,27 @@
 year,incomegroup_name,total_oda,Share,Donor
-2023,Part I unallocated by income,299.84,46.87,New Zealand
-2023,LMICs,133.54,20.87,New Zealand
-2023,LDCs,113.76,17.78,New Zealand
-2023,UMICs,90.43,14.13,New Zealand
-2023,Other LICs,2.21,0.35,New Zealand
-2022,Part I unallocated by income,224.04,52.6,New Zealand
-2022,LDCs,81.11,19.04,New Zealand
-2022,LMICs,73.79,17.33,New Zealand
-2022,UMICs,45.99,10.8,New Zealand
-2022,Other LICs,0.97,0.23,New Zealand
-2021,Part I unallocated by income,208.81,37.21,New Zealand
-2021,UMICs,127.37,22.7,New Zealand
-2021,LDCs,117.49,20.94,New Zealand
-2021,LMICs,106.16,18.92,New Zealand
-2021,Other LICs,1.37,0.24,New Zealand
-2020,Part I unallocated by income,173.24,36.74,New Zealand
-2020,LMICs,116.47,24.7,New Zealand
-2020,LDCs,111.35,23.61,New Zealand
-2020,UMICs,67.98,14.42,New Zealand
-2020,Other LICs,2.47,0.52,New Zealand
-2019,Part I unallocated by income,191.24,38.38,New Zealand
-2019,LMICs,116.41,23.36,New Zealand
-2019,LDCs,105.87,21.25,New Zealand
-2019,UMICs,55.35,11.11,New Zealand
-2019,MADCTs,27.24,5.47,New Zealand
-2019,Other LICs,2.16,0.43,New Zealand
+2023,Countries unallocated by income,299.84,46.87,New Zealand
+2023,Lower-middle income countries,133.54,20.87,New Zealand
+2023,Least developed countries,113.76,17.78,New Zealand
+2023,Upper-middle income countries,90.43,14.13,New Zealand
+2023,Other low income countries,2.21,0.35,New Zealand
+2022,Countries unallocated by income,224.04,52.6,New Zealand
+2022,Least developed countries,81.11,19.04,New Zealand
+2022,Lower-middle income countries,73.79,17.33,New Zealand
+2022,Upper-middle income countries,45.99,10.8,New Zealand
+2022,Other low income countries,0.97,0.23,New Zealand
+2021,Countries unallocated by income,208.81,37.21,New Zealand
+2021,Upper-middle income countries,127.37,22.7,New Zealand
+2021,Least developed countries,117.49,20.94,New Zealand
+2021,Lower-middle income countries,106.16,18.92,New Zealand
+2021,Other low income countries,1.37,0.24,New Zealand
+2020,Countries unallocated by income,173.24,36.74,New Zealand
+2020,Lower-middle income countries,116.47,24.7,New Zealand
+2020,Least developed countries,111.35,23.61,New Zealand
+2020,Upper-middle income countries,67.98,14.42,New Zealand
+2020,Other low income countries,2.47,0.52,New Zealand
+2019,Countries unallocated by income,191.24,38.38,New Zealand
+2019,Lower-middle income countries,116.41,23.36,New Zealand
+2019,Least developed countries,105.87,21.25,New Zealand
+2019,Upper-middle income countries,55.35,11.11,New Zealand
+2019,More advanced developed countries and territories,27.24,5.47,New Zealand
+2019,Other low income countries,2.16,0.43,New Zealand

@@ -1,30 +1,29 @@
 year,incomegroup_name,total_oda,Share,Donor
-2023,Part I unallocated by income,2919.92,42.61,Canada
-2023,LMICs,2365.55,34.52,Canada
-2023,LDCs,1063.28,15.52,Canada
-2023,UMICs,429.2,6.26,Canada
-2023,Other LICs,74.65,1.09,Canada
-2022,Part I unallocated by income,2620.86,37.64,Canada
-2022,LMICs,2613.84,37.54,Canada
-2022,LDCs,1318.27,18.93,Canada
-2022,UMICs,347.93,5.0,Canada
-2022,Other LICs,61.3,0.88,Canada
-2022,,,,Canada
-2021,Part I unallocated by income,2902.17,57.8,Canada
-2021,LDCs,1228.21,24.46,Canada
-2021,LMICs,452.99,9.02,Canada
-2021,UMICs,365.76,7.29,Canada
-2021,Other LICs,71.43,1.42,Canada
-2021,MADCTs,0.16,0.0,Canada
-2020,Part I unallocated by income,2551.86,55.84,Canada
-2020,LDCs,1108.15,24.25,Canada
-2020,LMICs,433.86,9.49,Canada
-2020,UMICs,387.13,8.47,Canada
-2020,Other LICs,88.5,1.94,Canada
-2020,MADCTs,0.61,0.01,Canada
-2019,Part I unallocated by income,1769.63,46.93,Canada
-2019,LDCs,1100.5,29.19,Canada
-2019,LMICs,410.6,10.89,Canada
-2019,UMICs,379.38,10.06,Canada
-2019,Other LICs,110.45,2.93,Canada
-2019,MADCTs,0.05,0.0,Canada
+2023,Countries unallocated by income,2919.92,42.61,Canada
+2023,Lower-middle income countries,2365.55,34.52,Canada
+2023,Least developed countries,1063.28,15.52,Canada
+2023,Upper-middle income countries,429.2,6.26,Canada
+2023,Other low income countries,74.65,1.09,Canada
+2022,Countries unallocated by income,2620.86,37.64,Canada
+2022,Lower-middle income countries,2613.84,37.54,Canada
+2022,Least developed countries,1318.27,18.93,Canada
+2022,Upper-middle income countries,347.93,5.0,Canada
+2022,Other low income countries,61.3,0.88,Canada
+2021,Countries unallocated by income,2902.17,57.8,Canada
+2021,Least developed countries,1228.21,24.46,Canada
+2021,Lower-middle income countries,452.99,9.02,Canada
+2021,Upper-middle income countries,365.76,7.29,Canada
+2021,Other low income countries,71.43,1.42,Canada
+2021,More advanced developed countries and territories,0.16,0.0,Canada
+2020,Countries unallocated by income,2551.86,55.84,Canada
+2020,Least developed countries,1108.15,24.25,Canada
+2020,Lower-middle income countries,433.86,9.49,Canada
+2020,Upper-middle income countries,387.13,8.47,Canada
+2020,Other low income countries,88.5,1.94,Canada
+2020,More advanced developed countries and territories,0.61,0.01,Canada
+2019,Countries unallocated by income,1769.63,46.93,Canada
+2019,Least developed countries,1100.5,29.19,Canada
+2019,Lower-middle income countries,410.6,10.89,Canada
+2019,Upper-middle income countries,379.38,10.06,Canada
+2019,Other low income countries,110.45,2.93,Canada
+2019,More advanced developed countries and territories,0.05,0.0,Canada

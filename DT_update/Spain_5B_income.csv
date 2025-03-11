@@ -1,32 +1,27 @@
 year,incomegroup_name,total_oda,Share,Donor
-2023,Part I unallocated by income,795.02,51.02,Spain
-2023,LMICs,294.73,18.91,Spain
-2023,UMICs,284.67,18.27,Spain
-2023,LDCs,172.39,11.06,Spain
-2023,Other LICs,11.54,0.74,Spain
-2023,,,,Spain
-2022,Part I unallocated by income,1525.78,62.58,Spain
-2022,LMICs,380.58,15.61,Spain
-2022,UMICs,318.55,13.07,Spain
-2022,LDCs,203.64,8.35,Spain
-2022,Other LICs,9.45,0.39,Spain
-2022,,,,Spain
-2021,Part I unallocated by income,696.87,45.32,Spain
-2021,UMICs,304.65,19.81,Spain
-2021,LMICs,296.03,19.25,Spain
-2021,LDCs,229.75,14.94,Spain
-2021,Other LICs,10.36,0.67,Spain
-2021,MADCTs,0.13,0.01,Spain
-2021,,,,Spain
-2020,Part I unallocated by income,389.36,35.11,Spain
-2020,UMICs,329.22,29.69,Spain
-2020,LMICs,236.05,21.29,Spain
-2020,LDCs,138.55,12.49,Spain
-2020,Other LICs,15.65,1.41,Spain
-2020,,,,Spain
-2019,Part I unallocated by income,400.56,33.65,Spain
-2019,UMICs,331.15,27.82,Spain
-2019,LMICs,277.71,23.33,Spain
-2019,LDCs,147.27,12.37,Spain
-2019,Other LICs,33.79,2.84,Spain
-2019,,,,Spain
+2023,Countries unallocated by income,795.02,51.02,Spain
+2023,Lower-middle income countries,294.73,18.91,Spain
+2023,Upper-middle income countries,284.67,18.27,Spain
+2023,Least developed countries,172.39,11.06,Spain
+2023,Other low income countries,11.54,0.74,Spain
+2022,Countries unallocated by income,1525.78,62.58,Spain
+2022,Lower-middle income countries,380.58,15.61,Spain
+2022,Upper-middle income countries,318.55,13.07,Spain
+2022,Least developed countries,203.64,8.35,Spain
+2022,Other low income countries,9.45,0.39,Spain
+2021,Countries unallocated by income,696.87,45.32,Spain
+2021,Upper-middle income countries,304.65,19.81,Spain
+2021,Lower-middle income countries,296.03,19.25,Spain
+2021,Least developed countries,229.75,14.94,Spain
+2021,Other low income countries,10.36,0.67,Spain
+2021,More advanced developed countries and territories,0.13,0.01,Spain
+2020,Countries unallocated by income,389.36,35.11,Spain
+2020,Upper-middle income countries,329.22,29.69,Spain
+2020,Lower-middle income countries,236.05,21.29,Spain
+2020,Least developed countries,138.55,12.49,Spain
+2020,Other low income countries,15.65,1.41,Spain
+2019,Countries unallocated by income,400.56,33.65,Spain
+2019,Upper-middle income countries,331.15,27.82,Spain
+2019,Lower-middle income countries,277.71,23.33,Spain
+2019,Least developed countries,147.27,12.37,Spain
+2019,Other low income countries,33.79,2.84,Spain

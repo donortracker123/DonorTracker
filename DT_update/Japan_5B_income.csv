@@ -1,34 +1,29 @@
 year,incomegroup_name,total_oda,Share,Donor
-2023,LMICs,9595.37,47.08,Japan
-2023,LDCs,4254.31,20.87,Japan
-2023,Part I unallocated by income,3715.7,18.23,Japan
-2023,UMICs,2749.85,13.49,Japan
-2023,Other LICs,67.51,0.33,Japan
-2023,,,,Japan
-2022,LMICs,8659.42,45.54,Japan
-2022,LDCs,4387.91,23.07,Japan
-2022,Part I unallocated by income,3056.81,16.07,Japan
-2022,UMICs,2868.4,15.08,Japan
-2022,Other LICs,43.48,0.23,Japan
-2022,,,,Japan
-2021,LMICs,6879.56,47.64,Japan
-2021,LDCs,3478.13,24.09,Japan
-2021,Part I unallocated by income,2256.49,15.63,Japan
-2021,UMICs,1753.54,12.14,Japan
-2021,Other LICs,71.07,0.49,Japan
-2021,MADCTs,1.51,0.01,Japan
-2021,,,,Japan
-2020,LMICs,5630.33,42.37,Japan
-2020,LDCs,3720.79,28.0,Japan
-2020,Part I unallocated by income,2159.82,16.25,Japan
-2020,UMICs,1717.83,12.93,Japan
-2020,Other LICs,59.92,0.45,Japan
-2020,MADCTs,0.11,0.0,Japan
-2020,,,,Japan
-2019,LMICs,5908.61,49.61,Japan
-2019,LDCs,2922.81,24.54,Japan
-2019,Part I unallocated by income,1876.87,15.76,Japan
-2019,UMICs,1144.03,9.61,Japan
-2019,Other LICs,56.04,0.47,Japan
-2019,MADCTs,1.94,0.02,Japan
-2019,,,,Japan
+2023,Lower-middle income countries,9595.37,47.08,Japan
+2023,Least developed countries,4254.31,20.87,Japan
+2023,Countries unallocated by income,3715.7,18.23,Japan
+2023,Upper-middle income countries,2749.85,13.49,Japan
+2023,Other low income countries,67.51,0.33,Japan
+2022,Lower-middle income countries,8659.42,45.54,Japan
+2022,Least developed countries,4387.91,23.07,Japan
+2022,Countries unallocated by income,3056.81,16.07,Japan
+2022,Upper-middle income countries,2868.4,15.08,Japan
+2022,Other low income countries,43.48,0.23,Japan
+2021,Lower-middle income countries,6879.56,47.64,Japan
+2021,Least developed countries,3478.13,24.09,Japan
+2021,Countries unallocated by income,2256.49,15.63,Japan
+2021,Upper-middle income countries,1753.54,12.14,Japan
+2021,Other low income countries,71.07,0.49,Japan
+2021,More advanced developed countries and territories,1.51,0.01,Japan
+2020,Lower-middle income countries,5630.33,42.37,Japan
+2020,Least developed countries,3720.79,28.0,Japan
+2020,Countries unallocated by income,2159.82,16.25,Japan
+2020,Upper-middle income countries,1717.83,12.93,Japan
+2020,Other low income countries,59.92,0.45,Japan
+2020,More advanced developed countries and territories,0.11,0.0,Japan
+2019,Lower-middle income countries,5908.61,49.61,Japan
+2019,Least developed countries,2922.81,24.54,Japan
+2019,Countries unallocated by income,1876.87,15.76,Japan
+2019,Upper-middle income countries,1144.03,9.61,Japan
+2019,Other low income countries,56.04,0.47,Japan
+2019,More advanced developed countries and territories,1.94,0.02,Japan

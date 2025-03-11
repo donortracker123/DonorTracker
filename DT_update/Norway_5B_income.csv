@@ -1,26 +1,26 @@
 year,incomegroup_name,total_oda,Share,Donor
-2023,Part I unallocated by income,2020.38,47.04,Norway
-2023,LMICs,1050.61,24.46,Norway
-2023,LDCs,814.41,18.96,Norway
-2023,UMICs,310.2,7.22,Norway
-2023,Other LICs,99.31,2.31,Norway
-2022,Part I unallocated by income,1778.19,52.49,Norway
-2022,LMICs,668.44,19.73,Norway
-2022,LDCs,638.99,18.86,Norway
-2022,UMICs,231.0,6.82,Norway
-2022,Other LICs,71.37,2.11,Norway
-2021,Part I unallocated by income,1972.01,59.78,Norway
-2021,LDCs,734.74,22.27,Norway
-2021,UMICs,278.66,8.45,Norway
-2021,LMICs,214.88,6.51,Norway
-2021,Other LICs,98.65,2.99,Norway
-2020,Part I unallocated by income,2138.05,56.45,Norway
-2020,LDCs,923.9,24.39,Norway
-2020,UMICs,310.9,8.21,Norway
-2020,LMICs,291.65,7.7,Norway
-2020,Other LICs,123.21,3.25,Norway
-2019,Part I unallocated by income,2044.38,55.67,Norway
-2019,LDCs,817.14,22.25,Norway
-2019,UMICs,378.19,10.3,Norway
-2019,LMICs,281.1,7.65,Norway
-2019,Other LICs,151.45,4.12,Norway
+2023,Countries unallocated by income,2020.38,47.04,Norway
+2023,Lower-middle income countries,1050.61,24.46,Norway
+2023,Least developed countries,814.41,18.96,Norway
+2023,Upper-middle income countries,310.2,7.22,Norway
+2023,Other low income countries,99.31,2.31,Norway
+2022,Countries unallocated by income,1778.19,52.49,Norway
+2022,Lower-middle income countries,668.44,19.73,Norway
+2022,Least developed countries,638.99,18.86,Norway
+2022,Upper-middle income countries,231.0,6.82,Norway
+2022,Other low income countries,71.37,2.11,Norway
+2021,Countries unallocated by income,1972.01,59.78,Norway
+2021,Least developed countries,734.74,22.27,Norway
+2021,Upper-middle income countries,278.66,8.45,Norway
+2021,Lower-middle income countries,214.88,6.51,Norway
+2021,Other low income countries,98.65,2.99,Norway
+2020,Countries unallocated by income,2138.05,56.45,Norway
+2020,Least developed countries,923.9,24.39,Norway
+2020,Upper-middle income countries,310.9,8.21,Norway
+2020,Lower-middle income countries,291.65,7.7,Norway
+2020,Other low income countries,123.21,3.25,Norway
+2019,Countries unallocated by income,2044.38,55.67,Norway
+2019,Least developed countries,817.14,22.25,Norway
+2019,Upper-middle income countries,378.19,10.3,Norway
+2019,Lower-middle income countries,281.1,7.65,Norway
+2019,Other low income countries,151.45,4.12,Norway

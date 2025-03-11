@@ -1,27 +1,27 @@
 year,incomegroup_name,total_oda,Share,Donor
-2023,Part I unallocated by income,1381.98,42.39,Sweden
-2023,LDCs,1021.32,31.33,Sweden
-2023,LMICs,466.7,14.31,Sweden
-2023,UMICs,337.37,10.35,Sweden
-2023,Other LICs,52.93,1.62,Sweden
-2022,Part I unallocated by income,1707.85,47.81,Sweden
-2022,LDCs,1056.21,29.57,Sweden
-2022,LMICs,447.42,12.53,Sweden
-2022,UMICs,300.97,8.43,Sweden
-2022,Other LICs,59.73,1.67,Sweden
-2021,Part I unallocated by income,1623.89,45.35,Sweden
-2021,LDCs,1223.93,34.18,Sweden
-2021,UMICs,335.25,9.36,Sweden
-2021,LMICs,321.0,8.97,Sweden
-2021,Other LICs,76.5,2.14,Sweden
-2021,MADCTs,0.03,0.0,Sweden
-2020,Part I unallocated by income,1803.52,50.11,Sweden
-2020,LDCs,1132.83,31.48,Sweden
-2020,UMICs,316.19,8.79,Sweden
-2020,LMICs,284.87,7.92,Sweden
-2020,Other LICs,61.46,1.71,Sweden
-2019,Part I unallocated by income,1864.68,50.43,Sweden
-2019,LDCs,1156.2,31.27,Sweden
-2019,UMICs,304.99,8.25,Sweden
-2019,LMICs,295.63,8.0,Sweden
-2019,Other LICs,75.86,2.05,Sweden
+2023,Countries unallocated by income,1381.98,42.39,Sweden
+2023,Least developed countries,1021.32,31.33,Sweden
+2023,Lower-middle income countries,466.7,14.31,Sweden
+2023,Upper-middle income countries,337.37,10.35,Sweden
+2023,Other low income countries,52.93,1.62,Sweden
+2022,Countries unallocated by income,1707.85,47.81,Sweden
+2022,Least developed countries,1056.21,29.57,Sweden
+2022,Lower-middle income countries,447.42,12.53,Sweden
+2022,Upper-middle income countries,300.97,8.43,Sweden
+2022,Other low income countries,59.73,1.67,Sweden
+2021,Countries unallocated by income,1623.89,45.35,Sweden
+2021,Least developed countries,1223.93,34.18,Sweden
+2021,Upper-middle income countries,335.25,9.36,Sweden
+2021,Lower-middle income countries,321.0,8.97,Sweden
+2021,Other low income countries,76.5,2.14,Sweden
+2021,More advanced developed countries and territories,0.03,0.0,Sweden
+2020,Countries unallocated by income,1803.52,50.11,Sweden
+2020,Least developed countries,1132.83,31.48,Sweden
+2020,Upper-middle income countries,316.19,8.79,Sweden
+2020,Lower-middle income countries,284.87,7.92,Sweden
+2020,Other low income countries,61.46,1.71,Sweden
+2019,Countries unallocated by income,1864.68,50.43,Sweden
+2019,Least developed countries,1156.2,31.27,Sweden
+2019,Upper-middle income countries,304.99,8.25,Sweden
+2019,Lower-middle income countries,295.63,8.0,Sweden
+2019,Other low income countries,75.86,2.05,Sweden

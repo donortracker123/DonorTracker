@@ -1,27 +1,26 @@
 year,incomegroup_name,total_oda,Share,Donor
-2023,Part I unallocated by income,2498.48,59.33,Switzerland
-2023,LDCs,712.29,16.91,Switzerland
-2023,LMICs,564.33,13.4,Switzerland
-2023,UMICs,386.7,9.18,Switzerland
-2023,Other LICs,49.41,1.17,Switzerland
-2022,Part I unallocated by income,2277.22,56.49,Switzerland
-2022,LDCs,723.6,17.95,Switzerland
-2022,LMICs,604.77,15.0,Switzerland
-2022,UMICs,385.68,9.57,Switzerland
-2022,Other LICs,40.13,1.0,Switzerland
-2021,Part I unallocated by income,1514.26,47.98,Switzerland
-2021,LDCs,762.89,24.17,Switzerland
-2021,LMICs,443.34,14.05,Switzerland
-2021,UMICs,388.99,12.33,Switzerland
-2021,Other LICs,46.27,1.47,Switzerland
-2020,Part I unallocated by income,1571.25,49.88,Switzerland
-2020,LDCs,711.07,22.57,Switzerland
-2020,LMICs,422.66,13.42,Switzerland
-2020,UMICs,392.75,12.47,Switzerland
-2020,Other LICs,52.24,1.66,Switzerland
-2020,,,,Switzerland
-2019,Part I unallocated by income,1216.53,43.87,Switzerland
-2019,LDCs,697.62,25.16,Switzerland
-2019,LMICs,409.11,14.75,Switzerland
-2019,UMICs,399.33,14.4,Switzerland
-2019,Other LICs,50.48,1.82,Switzerland
+2023,Countries unallocated by income,2498.48,59.33,Switzerland
+2023,Least developed countries,712.29,16.91,Switzerland
+2023,Lower-middle income countries,564.33,13.4,Switzerland
+2023,Upper-middle income countries,386.7,9.18,Switzerland
+2023,Other low income countries,49.41,1.17,Switzerland
+2022,Countries unallocated by income,2277.22,56.49,Switzerland
+2022,Least developed countries,723.6,17.95,Switzerland
+2022,Lower-middle income countries,604.77,15.0,Switzerland
+2022,Upper-middle income countries,385.68,9.57,Switzerland
+2022,Other low income countries,40.13,1.0,Switzerland
+2021,Countries unallocated by income,1514.26,47.98,Switzerland
+2021,Least developed countries,762.89,24.17,Switzerland
+2021,Lower-middle income countries,443.34,14.05,Switzerland
+2021,Upper-middle income countries,388.99,12.33,Switzerland
+2021,Other low income countries,46.27,1.47,Switzerland
+2020,Countries unallocated by income,1571.25,49.88,Switzerland
+2020,Least developed countries,711.07,22.57,Switzerland
+2020,Lower-middle income countries,422.66,13.42,Switzerland
+2020,Upper-middle income countries,392.75,12.47,Switzerland
+2020,Other low income countries,52.24,1.66,Switzerland
+2019,Countries unallocated by income,1216.53,43.87,Switzerland
+2019,Least developed countries,697.62,25.16,Switzerland
+2019,Lower-middle income countries,409.11,14.75,Switzerland
+2019,Upper-middle income countries,399.33,14.4,Switzerland
+2019,Other low income countries,50.48,1.82,Switzerland
