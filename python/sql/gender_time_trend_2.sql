@@ -52,7 +52,7 @@ allocable_totals AS (
         "Donor_1" AS donor_name,
         "TIME_PERIOD" AS year,
         sum("OBS_VALUE") AS allocable_oda
-    FROM "{{riomarkers_file}}"
+    FROM "{{allocable_gender_file}}"
     WHERE 1=1
     AND year BETWEEN ({{latest_year}} - 4) AND ({{latest_year}})
     AND "Donor_1" IN {{dac_countries}}
@@ -62,11 +62,11 @@ allocable_totals AS (
 
 SELECT 
     ct.year AS "Year",
-    100 * (ct.gender_principal + ct.gender_significant) / (alt.allocable_oda) AS "Gender funding as % of bilateral allocable ODA",
-    gender_principal * (100 / dfl.deflator) AS "Funding for projects with gender equality as a principal objective",
-    gender_significant * (100 / dfl.deflator) AS "Funding for projects with gender equality as a significant objective",
-    100 * gender_principal / alt.allocable_oda AS "Principal",
-    100 * gender_significant / alt.allocable_oda AS "Significant",
+    round(100 * (ct.gender_principal + ct.gender_significant) / (alt.allocable_oda), 2) AS "Gender funding as % of bilateral allocable ODA",
+    round(gender_principal * (dfl.deflator / 100), 2) AS "Funding for projects with gender equality as a principal objective",
+    round(gender_significant * (dfl.deflator / 100), 2) AS "Funding for projects with gender equality as a significant objective",
+    round(100 * gender_principal / alt.allocable_oda, 2) AS "Principal",
+    round(100 * gender_significant / alt.allocable_oda, 2) AS "Significant",
     100 - ("Principal" + "Significant") AS "Not targeted or screened",
     ct.donor_name AS donor,
 FROM crs_totals ct

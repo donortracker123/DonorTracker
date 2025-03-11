@@ -32,7 +32,7 @@ crs_totals AS (
 SELECT 
     year,
     sector_renamed AS Sector,
-    bilateral_oda AS "Gender-related ODA to",
+    round(bilateral_oda, 2) AS "Gender-related ODA to",
     round(100 * (bilateral_oda / total_oda)) || '%' AS "Share",
     donor_name AS donor,
 FROM crs_totals ct 

@@ -5,7 +5,7 @@ WITH base AS (
         purpose_code,
         usd_disbursement_defl
     FROM "{{crs_file}}"
-    WHERE year = ({{latest_year}})
+    WHERE year BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
     AND donor_name IN {{dac_countries}}
     AND flow_name IN (
         'ODA Loans','Equity Investment','ODA Grants'
@@ -29,14 +29,14 @@ ranked AS (
         donor,
         year,
         sum(total_oda) AS total_oda,
-        row_number() OVER (ORDER BY sum(total_oda) DESC) AS rn
+        row_number() OVER (PARTITION BY year ORDER BY sum(total_oda) DESC) AS rn
     FROM crs_totals
     GROUP BY 1,2
 )
 
 SELECT 
     donor "Donor", 
-    total_oda total_gender,
+    round(total_oda, 2) total_gender,
     Year,
     CASE 
         WHEN rn::TEXT LIKE '%1' AND rn != 11 THEN rn || 'st'
@@ -45,4 +45,4 @@ SELECT
         ELSE rn || 'th'
     END AS "Rank",
 FROM ranked
-ORDER BY rn
+ORDER BY year, rn

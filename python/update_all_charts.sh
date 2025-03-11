@@ -3,8 +3,9 @@
 export DAC1="data/Table1_Data.csv"
 export CRS="data/CRS.parquet"
 export IM="data/seek_sectors_revised_with_channel.parquet"
-export RF="data/riomarkers.csv"
 export CRF="data/climate_riomarkers.txt"
+export MF="data/multisystem.txt"
+export AGF="data/allocable_gender.csv"
 export LY=2023
 
 set -e #Exit upon any failures
@@ -14,6 +15,7 @@ python chart_update.py all_donor_gni_ranking_2b -ly $LY -dac1 $DAC1 -o "alldonor
 python chart_update.py refugee_3b -ly $LY -country -dac1 $DAC1 -o "3B_refugee"
 python chart_update.py bimulti_4 -ly $LY -country -dac1 $DAC1 -o "4_bimulti"
 python chart_update.py bimulti_percentage_4a  -ly $LY -dac1 $DAC1 -country -o "EMEAA_4A_bi-multi"
+python chart_update.py total_oda_over_time_3a -ly $LY -dac1 $DAC1 -country -o "3A_Total ODA over time"
 
 python chart_update.py bilateral_oda_by_channel_10a -ly $LY -country -crs $CRS -o "EMEEA_10A_channel"
 python chart_update.py sector_breakdown_5a -ly $LY -country -crs $CRS -o "5A_sector"
@@ -40,13 +42,13 @@ python chart_update.py ranking_relative_1b_sector -ly $LY -dac1 $DAC1 -crs $CRS 
 python chart_update.py time_trend_channels_2_sector -ly $LY -dac1 $DAC1 -crs $CRS -im $IM -s gh -country  -f "Global_Health" -o "GH2_trend"
 python chart_update.py top_multilateral_recipients_4a_sector -ly $LY -dac1 $DAC1 -crs $CRS -im $IM -s gh -country  -f "Global_Health" -o "GH4a_multi"
 
-# python chart_update.py gender_ranking_absolute_1a -ly $LY -crs $CRS -f "Gender" -o "alldonor_GE1a_genderODAranking"
-# python chart_update.py gender_ranking_relative_1b -ly $LY -crs $CRS -rf $RF -f "Gender" -o "alldonor_GE1b_genderODArelative"
-# python chart_update.py gender_time_trend_2 -ly $LY -rf $RF -crs $CRS -country -f "Gender" -o "GE2_trend"
-# python chart_update.py gender_sector_3 -ly $LY -rf $RF -crs $CRS -country -f "Gender" -o "GE3_sector"
+python chart_update.py gender_ranking_absolute_1a -ly $LY -crs $CRS -f "Gender" -o "alldonor_GE1a_genderODAranking"
+python chart_update.py gender_ranking_relative_1b -ly $LY -agf $AGF -crs $CRS -f "Gender" -o "alldonor_GE1b_genderODArelative"
+python chart_update.py gender_time_trend_2 -ly $LY -agf $AGF -crs $CRS -country -f "Gender" -o "GE2_trend"
+python chart_update.py gender_sector_3 -ly $LY -crs $CRS -country -f "Gender" -o "GE3_sector"
 
-# python chart_update.py climate_ranking_absolute_1a -ly $LY -rf $RF -crs $CRS -f "Climate" -o "alldonor_CL1A_climateODARanking"
-# python chart_update.py climate_ranking_relative_1b -ly $LY -rf $RF -crs $CRS -f "Climate" -o "alldonor_CL1B_climateODArankingrelative"
-# python chart_update.py climate_time_trend_2 -ly $LY -rf $RF -crs $CRS -country -f "Climate" -o "CL2_trend"
-# python chart_update.py climate_sector_3b -ly $LY -rf $RF -crs $CRS -country -f "Climate" -o "CL3B_sector"
-# python chart_update.py climate_intervention_type_split_3a -ly $LY -rf $RF -crs $CRS -country -f "Climate" -o "CL3A_type"
+python chart_update.py climate_ranking_absolute_1a -ly $LY -crf $CRF -crs $CRS -f "Climate" -o "alldonor_CL1A_climateODARanking"
+python chart_update.py climate_ranking_relative_1b -ly $LY -crf $CRF -crs $CRS -f "Climate" -o "alldonor_CL1B_climateODArankingrelative"
+python chart_update.py climate_time_trend_2 -ly $LY -crf $CRF -crs $CRS -country -f "Climate" -o "CL2_trend"
+python chart_update.py climate_sector_3b -ly $LY -crf $CRF -crs $CRS -country -f "Climate" -o "CL3B_sector"
+python chart_update.py climate_intervention_type_split_3a -ly $LY -crf $CRF -crs $CRS -country -f "Climate" -o "CL3A_type"
