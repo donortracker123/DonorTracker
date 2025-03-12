@@ -57,8 +57,8 @@ SELECT
     ct.donor_name AS donor,
     ct.year AS "Year",
     round(100 * (ct.climate_principal + ct.climate_significant) / (alt.allocable_oda), 2) AS "Climate Funding as % of bilateral allocable ODA",
-    round(climate_principal * (100 / dfl.deflator), 2) AS "Funding for projects with climate change as a principal objective",
-    round(climate_significant * (100 / dfl.deflator), 2) AS "Funding for projects with a significant climate change component",
+    round(climate_principal * (dfl.deflator/100), 2) AS "Funding for projects with climate change as a principal objective",
+    round(climate_significant * (dfl.deflator/100), 2) AS "Funding for projects with a significant climate change component",
     round(100 * climate_principal / alt.allocable_oda, 2) AS "Principal",
     round(100 * climate_significant / alt.allocable_oda, 2) AS "Significant",
     100 - ("Principal" + "Significant") AS "Not targeted and not screened"

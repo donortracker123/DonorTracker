@@ -7,7 +7,7 @@ WITH base AS (
         FROM "{{dac1_file}}"
         WHERE 1=1
         AND year BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
-        AND "Amount type" = 'Current Prices (USD millions)'
+        AND "Amount type" = 'Constant Prices (2022 USD millions)'
         AND "Fund flows" = 'Grant equivalents'
         AND "Donor_1" IN {{dac_countries}}
         AND "Aid type" = 'Official Development Assistance, grant equivalent measure'

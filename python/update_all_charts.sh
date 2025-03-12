@@ -10,6 +10,8 @@ export LY=2023
 
 set -e #Exit upon any failures
 
+python chart_update.py multilateral_recipients_6a -ly $LY -mf $MF -country -o "6A_region"
+
 python chart_update.py all_donor_oda_ranking_2a -ly $LY -dac1 $DAC1 -o "alldonor_2A_ODATrend"
 python chart_update.py all_donor_gni_ranking_2b -ly $LY -dac1 $DAC1 -o "alldonor_2B_ODAGNIranking"
 python chart_update.py refugee_3b -ly $LY -country -dac1 $DAC1 -o "3B_refugee"
