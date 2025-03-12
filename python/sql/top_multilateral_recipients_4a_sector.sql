@@ -36,7 +36,7 @@ SELECT
     oct.year AS "Year",
     oct.abbreviation AS "Multi_short",
     round(oct.oda, 2) AS "ODA",
-    round((oct.oda) / (crt.total_bilateral_oda + oct.total_multilateral_oda), 2) || '%' AS "Share",
+    100 * round((oct.oda) / (crt.total_bilateral_oda + oct.total_multilateral_oda), 2) || '%' AS "Share",
     oct.mapped_name AS "Full Name",
     oct.donor
 FROM one_campaign_totals oct
