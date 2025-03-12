@@ -1,28 +1,28 @@
 year,incomegroup_name,total_oda,Share,Donor
-2023,LMICs,95.52,43.23,Hungary
-2023,UMICs,74.3,33.62,Hungary
-2023,LDCs,39.56,17.9,Hungary
-2023,Other LICs,6.93,3.14,Hungary
-2023,Part I unallocated by income,4.66,2.11,Hungary
-2022,LMICs,164.08,46.71,Hungary
-2022,UMICs,145.29,41.37,Hungary
-2022,LDCs,26.44,7.53,Hungary
-2022,Other LICs,9.1,2.59,Hungary
-2022,Part I unallocated by income,6.32,1.8,Hungary
-2021,LMICs,114.79,40.77,Hungary
-2021,UMICs,91.84,32.62,Hungary
-2021,LDCs,39.61,14.07,Hungary
-2021,Other LICs,18.55,6.59,Hungary
-2021,Part I unallocated by income,16.74,5.95,Hungary
-2021,MADCTs,0.0,0.0,Hungary
-2020,UMICs,129.06,47.51,Hungary
-2020,LMICs,85.07,31.32,Hungary
-2020,Part I unallocated by income,28.33,10.43,Hungary
-2020,LDCs,17.32,6.38,Hungary
-2020,Other LICs,11.84,4.36,Hungary
-2019,UMICs,64.71,33.81,Hungary
-2019,LMICs,56.54,29.54,Hungary
-2019,LDCs,38.34,20.03,Hungary
-2019,Part I unallocated by income,19.32,10.09,Hungary
-2019,Other LICs,12.47,6.52,Hungary
-2019,MADCTs,0.0,0.0,Hungary
+2023,Lower-middle income countries,95.52,43.23,Hungary
+2023,Upper-middle income countries,74.3,33.62,Hungary
+2023,Least developed countries,39.56,17.9,Hungary
+2023,Other low income countries,6.93,3.14,Hungary
+2023,Countries unallocated by income,4.66,2.11,Hungary
+2022,Lower-middle income countries,164.08,46.71,Hungary
+2022,Upper-middle income countries,145.29,41.37,Hungary
+2022,Least developed countries,26.44,7.53,Hungary
+2022,Other low income countries,9.1,2.59,Hungary
+2022,Countries unallocated by income,6.32,1.8,Hungary
+2021,Lower-middle income countries,114.79,40.77,Hungary
+2021,Upper-middle income countries,91.84,32.62,Hungary
+2021,Least developed countries,39.61,14.07,Hungary
+2021,Other low income countries,18.55,6.59,Hungary
+2021,Countries unallocated by income,16.74,5.95,Hungary
+2021,More advanced developed countries and territories,0.0,0.0,Hungary
+2020,Upper-middle income countries,129.06,47.51,Hungary
+2020,Lower-middle income countries,85.07,31.32,Hungary
+2020,Countries unallocated by income,28.33,10.43,Hungary
+2020,Least developed countries,17.32,6.38,Hungary
+2020,Other low income countries,11.84,4.36,Hungary
+2019,Upper-middle income countries,64.71,33.81,Hungary
+2019,Lower-middle income countries,56.54,29.54,Hungary
+2019,Least developed countries,38.34,20.03,Hungary
+2019,Countries unallocated by income,19.32,10.09,Hungary
+2019,Other low income countries,12.47,6.52,Hungary
+2019,More advanced developed countries and territories,0.0,0.0,Hungary

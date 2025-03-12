@@ -1,67 +1,68 @@
-year,Sector,Gender-related ODA to,Share,donor
-2020,Emergency Response,10.013834313000002,26.0%,Czechia
-2019,Emergency Response,9.7582535412,30.0%,Czechia
-2023,Refugees in donor countries,8.6087523588,29.0%,Czechia
-2020,Education,8.3778953252,22.0%,Czechia
-2019,Education,7.4641197735999985,23.0%,Czechia
-2021,Emergency Response,6.056365693600003,21.0%,Czechia
-2023,Government & civil society,6.0049344181999995,20.0%,Czechia
-2020,Reconstruction Relief & Rehabilitation,5.536190727799999,15.0%,Czechia
-2021,Education,4.937205773600001,17.0%,Czechia
-2023,Education,4.244235626200001,14.0%,Czechia
-2020,Health & populations,4.2435644504,11.0%,Czechia
-2021,Reconstruction Relief & Rehabilitation,3.7043964672,13.0%,Czechia
-2019,Health & populations,3.6774488160000005,11.0%,Czechia
-2022,Education,3.5637228217999994,39.0%,Czechia
-2021,Health & populations,3.4349028042,12.0%,Czechia
-2020,Government & civil society,3.2703000836000005,9.0%,Czechia
-2023,Emergency Response,3.1915072462000005,11.0%,Czechia
-2021,"Agriculture (incl. forestry, fishing, rural development)",3.0567243976000005,11.0%,Czechia
-2019,"Agriculture (incl. forestry, fishing, rural development)",2.8959337726,9.0%,Czechia
-2022,Health & populations,2.8188491748,31.0%,Czechia
-2023,Health & populations,2.785968421,9.0%,Czechia
-2020,"Agriculture (incl. forestry, fishing, rural development)",2.7709955980000003,7.0%,Czechia
-2019,Reconstruction Relief & Rehabilitation,2.6346863104,8.0%,Czechia
-2019,Government & civil society,2.429290508,7.0%,Czechia
-2021,Unspecified,2.2914902268,8.0%,Czechia
-2021,Water and sanitation,1.8523342982000004,6.0%,Czechia
-2023,Reconstruction Relief & Rehabilitation,1.3515948456,5.0%,Czechia
-2019,Water and sanitation,1.3391009138,4.0%,Czechia
-2021,Financial services & business support,1.3286925435999999,5.0%,Czechia
-2020,Water and sanitation,1.2623501888,3.0%,Czechia
-2020,Unspecified,1.235866758,3.0%,Czechia
-2019,Unspecified,1.1677875786,4.0%,Czechia
-2023,"Conflict, peace & security",1.126329038,4.0%,Czechia
-2021,Other social services,1.1218434797999999,4.0%,Czechia
-2022,Emergency Response,1.0934379936000003,12.0%,Czechia
-2023,"Agriculture (incl. forestry, fishing, rural development)",0.8752395414,3.0%,Czechia
-2019,Other social services,0.7594382762000002,2.0%,Czechia
-2020,Disaster Prevention & Preparedness,0.6589837258,2.0%,Czechia
-2023,Other social services,0.5436375338,2.0%,Czechia
-2023,Unspecified,0.4622411746000001,2.0%,Czechia
-2023,Energy,0.3829521016,1.0%,Czechia
-2020,"Conflict, peace & security",0.3404747916,1.0%,Czechia
-2022,Energy,0.318282541,3.0%,Czechia
-2021,"Conflict, peace & security",0.3127747832,1.0%,Czechia
-2022,Unspecified,0.30239385460000007,3.0%,Czechia
-2021,Government & civil society,0.2963795706,1.0%,Czechia
-2022,Water and sanitation,0.28482208340000004,3.0%,Czechia
-2023,Environmental protection,0.2590555644,1.0%,Czechia
-2022,"Agriculture (incl. forestry, fishing, rural development)",0.25716438080000004,3.0%,Czechia
-2021,Energy,0.2555544736,1.0%,Czechia
-2022,Government & civil society,0.2421732634,3.0%,Czechia
-2022,Other social services,0.21955909820000002,2.0%,Czechia
-2020,Other social services,0.21252490140000002,1.0%,Czechia
-2021,"Industry, construction & mining",0.1876696722,1.0%,Czechia
-2019,Disaster Prevention & Preparedness,0.17391114000000002,1.0%,Czechia
-2021,Disaster Prevention & Preparedness,0.1062950376,0.0%,Czechia
-2023,Water and sanitation,0.08713508380000001,0.0%,Czechia
-2023,Financial services & business support,0.0684484976,0.0%,Czechia
-2019,"Industry, construction & mining",0.0572877702,0.0%,Czechia
-2019,Financial services & business support,0.031157650000000002,0.0%,Czechia
-2020,Financial services & business support,0.028956605,0.0%,Czechia
-2020,"Industry, construction & mining",0.0264422684,0.0%,Czechia
-2021,Other multisector,0.0244481788,0.0%,Czechia
-2023,,0.0191473764,0.0%,Czechia
-2022,,0.011750721799999999,0.0%,Czechia
-2019,Energy,0.0103111812,0.0%,Czechia
+year,Sector,Gender-related ODA to,Share,Donor
+2020,Emergency Response,10.01,26.0%,Czechia
+2019,Emergency Response,9.76,30.0%,Czechia
+2023,Refugees in donor countries,8.61,29.0%,Czechia
+2020,Education,8.38,22.0%,Czechia
+2019,Education,7.46,23.0%,Czechia
+2021,Emergency Response,6.06,21.0%,Czechia
+2023,Government & civil society,6.0,20.0%,Czechia
+2020,Reconstruction Relief & Rehabilitation,5.54,15.0%,Czechia
+2021,Education,4.94,17.0%,Czechia
+2023,Education,4.24,14.0%,Czechia
+2020,Health & populations,4.24,11.0%,Czechia
+2021,Reconstruction Relief & Rehabilitation,3.7,13.0%,Czechia
+2019,Health & populations,3.68,11.0%,Czechia
+2022,Education,3.56,39.0%,Czechia
+2021,Health & populations,3.43,12.0%,Czechia
+2020,Government & civil society,3.27,9.0%,Czechia
+2023,Emergency Response,3.19,11.0%,Czechia
+2022,Health & populations,2.82,31.0%,Czechia
+2023,Health & populations,2.79,9.0%,Czechia
+2019,"Agriculture (incl. forestry, fishing, rural development)",2.78,9.0%,Czechia
+2020,"Agriculture (incl. forestry, fishing, rural development)",2.77,7.0%,Czechia
+2019,Reconstruction Relief & Rehabilitation,2.63,8.0%,Czechia
+2019,Government & civil society,2.43,7.0%,Czechia
+2021,Unspecified,2.29,8.0%,Czechia
+2021,"Agriculture (incl. forestry, fishing, rural development)",2.06,7.0%,Czechia
+2021,Water and sanitation,1.85,6.0%,Czechia
+2023,Reconstruction Relief & Rehabilitation,1.35,5.0%,Czechia
+2019,Water and sanitation,1.34,4.0%,Czechia
+2021,Financial services & business support,1.33,5.0%,Czechia
+2020,Water and sanitation,1.26,3.0%,Czechia
+2020,Unspecified,1.24,3.0%,Czechia
+2019,Unspecified,1.17,4.0%,Czechia
+2023,"Conflict, peace & security",1.13,4.0%,Czechia
+2021,Other social services,1.12,4.0%,Czechia
+2022,Emergency Response,1.09,12.0%,Czechia
+2021,Other multisector,1.02,4.0%,Czechia
+2023,"Agriculture (incl. forestry, fishing, rural development)",0.88,3.0%,Czechia
+2019,Other social services,0.76,2.0%,Czechia
+2020,Disaster Prevention & Preparedness,0.66,2.0%,Czechia
+2023,Other social services,0.54,2.0%,Czechia
+2023,Unspecified,0.46,2.0%,Czechia
+2023,Energy,0.38,1.0%,Czechia
+2020,"Conflict, peace & security",0.34,1.0%,Czechia
+2022,Energy,0.32,3.0%,Czechia
+2021,"Conflict, peace & security",0.31,1.0%,Czechia
+2021,Government & civil society,0.3,1.0%,Czechia
+2022,Unspecified,0.3,3.0%,Czechia
+2022,Water and sanitation,0.28,3.0%,Czechia
+2023,Environmental protection,0.26,1.0%,Czechia
+2022,"Agriculture (incl. forestry, fishing, rural development)",0.26,3.0%,Czechia
+2021,Energy,0.26,1.0%,Czechia
+2022,Government & civil society,0.24,3.0%,Czechia
+2022,Other social services,0.22,2.0%,Czechia
+2020,Other social services,0.21,1.0%,Czechia
+2021,"Industry, construction & mining",0.19,1.0%,Czechia
+2019,Disaster Prevention & Preparedness,0.17,1.0%,Czechia
+2019,Other multisector,0.11,0.0%,Czechia
+2021,Disaster Prevention & Preparedness,0.11,0.0%,Czechia
+2023,Water and sanitation,0.09,0.0%,Czechia
+2023,Financial services & business support,0.07,0.0%,Czechia
+2019,"Industry, construction & mining",0.06,0.0%,Czechia
+2019,Financial services & business support,0.03,0.0%,Czechia
+2020,Financial services & business support,0.03,0.0%,Czechia
+2020,"Industry, construction & mining",0.03,0.0%,Czechia
+2023,,0.02,0.0%,Czechia
+2019,Energy,0.01,0.0%,Czechia
+2022,,0.01,0.0%,Czechia

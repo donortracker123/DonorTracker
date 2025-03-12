@@ -1,33 +1,28 @@
 year,incomegroup_name,total_oda,Share,Donor
-2023,Part I unallocated by income,16535.82,56.06,Germany
-2023,LMICs,5080.02,17.22,Germany
-2023,UMICs,4105.49,13.92,Germany
-2023,LDCs,2953.57,10.01,Germany
-2023,Other LICs,820.58,2.78,Germany
-2023,,,,Germany
-2022,Part I unallocated by income,19420.43,54.08,Germany
-2022,LMICs,7128.94,19.85,Germany
-2022,UMICs,5193.22,14.46,Germany
-2022,LDCs,3436.91,9.57,Germany
-2022,Other LICs,728.99,2.03,Germany
-2022,,,,Germany
-2021,Part I unallocated by income,14270.01,50.41,Germany
-2021,LMICs,5089.91,17.98,Germany
-2021,UMICs,4552.49,16.08,Germany
-2021,LDCs,3707.99,13.1,Germany
-2021,Other LICs,688.07,2.43,Germany
-2021,,,,Germany
-2020,Part I unallocated by income,12476.47,44.07,Germany
-2020,LMICs,5509.9,19.46,Germany
-2020,UMICs,5463.56,19.3,Germany
-2020,LDCs,3883.36,13.72,Germany
-2020,Other LICs,976.16,3.45,Germany
-2020,MADCTs,0.01,0.0,Germany
-2020,,,,Germany
-2019,Part I unallocated by income,10629.86,44.02,Germany
-2019,UMICs,5290.04,21.91,Germany
-2019,LMICs,4270.86,17.69,Germany
-2019,LDCs,3085.76,12.78,Germany
-2019,Other LICs,870.02,3.6,Germany
-2019,MADCTs,0.0,0.0,Germany
-2019,,,,Germany
+2023,Countries unallocated by income,16535.82,56.06,Germany
+2023,Lower-middle income countries,5080.02,17.22,Germany
+2023,Upper-middle income countries,4105.49,13.92,Germany
+2023,Least developed countries,2953.57,10.01,Germany
+2023,Other low income countries,820.58,2.78,Germany
+2022,Countries unallocated by income,19420.43,54.08,Germany
+2022,Lower-middle income countries,7128.94,19.85,Germany
+2022,Upper-middle income countries,5193.22,14.46,Germany
+2022,Least developed countries,3436.91,9.57,Germany
+2022,Other low income countries,728.99,2.03,Germany
+2021,Countries unallocated by income,14270.01,50.41,Germany
+2021,Lower-middle income countries,5089.91,17.98,Germany
+2021,Upper-middle income countries,4552.49,16.08,Germany
+2021,Least developed countries,3707.99,13.1,Germany
+2021,Other low income countries,688.07,2.43,Germany
+2020,Countries unallocated by income,12476.47,44.07,Germany
+2020,Lower-middle income countries,5509.9,19.46,Germany
+2020,Upper-middle income countries,5463.56,19.3,Germany
+2020,Least developed countries,3883.36,13.72,Germany
+2020,Other low income countries,976.16,3.45,Germany
+2020,More advanced developed countries and territories,0.01,0.0,Germany
+2019,Countries unallocated by income,10629.86,44.02,Germany
+2019,Upper-middle income countries,5290.04,21.91,Germany
+2019,Lower-middle income countries,4270.86,17.69,Germany
+2019,Least developed countries,3085.76,12.78,Germany
+2019,Other low income countries,870.02,3.6,Germany
+2019,More advanced developed countries and territories,0.0,0.0,Germany

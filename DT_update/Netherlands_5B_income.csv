@@ -1,26 +1,26 @@
 year,incomegroup_name,total_oda,Share,Donor
-2023,Part I unallocated by income,4014.33,78.58,Netherlands
-2023,LDCs,563.46,11.03,Netherlands
-2023,LMICs,462.67,9.06,Netherlands
-2023,UMICs,64.66,1.27,Netherlands
-2023,Other LICs,3.7,0.07,Netherlands
-2022,Part I unallocated by income,3845.0,79.77,Netherlands
-2022,LDCs,598.42,12.41,Netherlands
-2022,LMICs,289.78,6.01,Netherlands
-2022,UMICs,85.18,1.77,Netherlands
-2022,Other LICs,1.99,0.04,Netherlands
-2021,Part I unallocated by income,3186.34,80.5,Netherlands
-2021,LDCs,564.34,14.26,Netherlands
-2021,LMICs,107.36,2.71,Netherlands
-2021,UMICs,91.64,2.32,Netherlands
-2021,Other LICs,8.42,0.21,Netherlands
-2020,Part I unallocated by income,3244.9,78.22,Netherlands
-2020,LDCs,669.66,16.14,Netherlands
-2020,UMICs,110.3,2.66,Netherlands
-2020,LMICs,97.32,2.35,Netherlands
-2020,Other LICs,26.47,0.64,Netherlands
-2019,Part I unallocated by income,3023.6,76.53,Netherlands
-2019,LDCs,693.55,17.55,Netherlands
-2019,LMICs,147.49,3.73,Netherlands
-2019,UMICs,74.77,1.89,Netherlands
-2019,Other LICs,11.45,0.29,Netherlands
+2023,Countries unallocated by income,4014.33,78.58,Netherlands
+2023,Least developed countries,563.46,11.03,Netherlands
+2023,Lower-middle income countries,462.67,9.06,Netherlands
+2023,Upper-middle income countries,64.66,1.27,Netherlands
+2023,Other low income countries,3.7,0.07,Netherlands
+2022,Countries unallocated by income,3845.0,79.77,Netherlands
+2022,Least developed countries,598.42,12.41,Netherlands
+2022,Lower-middle income countries,289.78,6.01,Netherlands
+2022,Upper-middle income countries,85.18,1.77,Netherlands
+2022,Other low income countries,1.99,0.04,Netherlands
+2021,Countries unallocated by income,3186.34,80.5,Netherlands
+2021,Least developed countries,564.34,14.26,Netherlands
+2021,Lower-middle income countries,107.36,2.71,Netherlands
+2021,Upper-middle income countries,91.64,2.32,Netherlands
+2021,Other low income countries,8.42,0.21,Netherlands
+2020,Countries unallocated by income,3244.9,78.22,Netherlands
+2020,Least developed countries,669.66,16.14,Netherlands
+2020,Upper-middle income countries,110.3,2.66,Netherlands
+2020,Lower-middle income countries,97.32,2.35,Netherlands
+2020,Other low income countries,26.47,0.64,Netherlands
+2019,Countries unallocated by income,3023.6,76.53,Netherlands
+2019,Least developed countries,693.55,17.55,Netherlands
+2019,Lower-middle income countries,147.49,3.73,Netherlands
+2019,Upper-middle income countries,74.77,1.89,Netherlands
+2019,Other low income countries,11.45,0.29,Netherlands

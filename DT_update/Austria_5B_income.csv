@@ -1,30 +1,26 @@
 year,incomegroup_name,total_oda,Share,Donor
-2023,Part I unallocated by income,486.08,53.16,Austria
-2023,UMICs,175.59,19.2,Austria
-2023,LMICs,157.01,17.17,Austria
-2023,LDCs,79.9,8.74,Austria
-2023,Other LICs,15.78,1.73,Austria
-2022,Part I unallocated by income,698.83,57.86,Austria
-2022,UMICs,220.95,18.3,Austria
-2022,LMICs,173.4,14.36,Austria
-2022,LDCs,104.23,8.63,Austria
-2022,Other LICs,10.29,0.85,Austria
-2022,,,,Austria
-2021,Part I unallocated by income,326.79,43.89,Austria
-2021,UMICs,195.16,26.21,Austria
-2021,LMICs,108.65,14.59,Austria
-2021,LDCs,95.7,12.85,Austria
-2021,Other LICs,18.34,2.46,Austria
-2021,,,,Austria
-2020,Part I unallocated by income,278.57,44.81,Austria
-2020,UMICs,179.92,28.94,Austria
-2020,LMICs,81.83,13.16,Austria
-2020,LDCs,61.91,9.96,Austria
-2020,Other LICs,19.46,3.13,Austria
-2020,,,,Austria
-2019,Part I unallocated by income,188.02,36.25,Austria
-2019,UMICs,158.04,30.47,Austria
-2019,LMICs,84.48,16.29,Austria
-2019,LDCs,73.21,14.12,Austria
-2019,Other LICs,14.9,2.87,Austria
-2019,,,,Austria
+2023,Countries unallocated by income,486.08,53.16,Austria
+2023,Upper-middle income countries,175.59,19.2,Austria
+2023,Lower-middle income countries,157.01,17.17,Austria
+2023,Least developed countries,79.9,8.74,Austria
+2023,Other low income countries,15.78,1.73,Austria
+2022,Countries unallocated by income,698.83,57.86,Austria
+2022,Upper-middle income countries,220.95,18.3,Austria
+2022,Lower-middle income countries,173.4,14.36,Austria
+2022,Least developed countries,104.23,8.63,Austria
+2022,Other low income countries,10.29,0.85,Austria
+2021,Countries unallocated by income,326.79,43.89,Austria
+2021,Upper-middle income countries,195.16,26.21,Austria
+2021,Lower-middle income countries,108.65,14.59,Austria
+2021,Least developed countries,95.7,12.85,Austria
+2021,Other low income countries,18.34,2.46,Austria
+2020,Countries unallocated by income,278.57,44.81,Austria
+2020,Upper-middle income countries,179.92,28.94,Austria
+2020,Lower-middle income countries,81.83,13.16,Austria
+2020,Least developed countries,61.91,9.96,Austria
+2020,Other low income countries,19.46,3.13,Austria
+2019,Countries unallocated by income,188.02,36.25,Austria
+2019,Upper-middle income countries,158.04,30.47,Austria
+2019,Lower-middle income countries,84.48,16.29,Austria
+2019,Least developed countries,73.21,14.12,Austria
+2019,Other low income countries,14.9,2.87,Austria

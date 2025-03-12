@@ -1,38 +1,39 @@
-year,Sector,Gender-related ODA to,Share,donor
-2021,Financial services & business support,1.0451861808,50.0%,Estonia
-2023,Education,0.9483562272,63.0%,Estonia
-2022,Education,0.6468814416,61.0%,Estonia
-2020,Emergency Response,0.5922453648,36.0%,Estonia
-2021,Emergency Response,0.5000511792,24.0%,Estonia
-2019,Financial services & business support,0.49276256639999994,40.0%,Estonia
-2019,Government & civil society,0.4056369696,33.0%,Estonia
-2020,Financial services & business support,0.372684432,23.0%,Estonia
-2020,Government & civil society,0.36112464959999996,22.0%,Estonia
-2021,Government & civil society,0.25549176960000003,12.0%,Estonia
-2021,Health & populations,0.2172346608,10.0%,Estonia
-2023,"Agriculture (incl. forestry, fishing, rural development)",0.19032036480000003,13.0%,Estonia
-2020,Health & populations,0.17333969759999998,11.0%,Estonia
-2022,Emergency Response,0.1423141632,13.0%,Estonia
-2023,Emergency Response,0.1416598992,9.0%,Estonia
-2023,Government & civil society,0.11894966879999999,8.0%,Estonia
-2019,Emergency Response,0.11426357279999999,9.0%,Estonia
-2022,"Agriculture (incl. forestry, fishing, rural development)",0.09409211040000001,9.0%,Estonia
-2023,"Industry, construction & mining",0.0843463728,6.0%,Estonia
-2020,Education,0.082336608,5.0%,Estonia
-2019,Education,0.0771282192,6.0%,Estonia
-2022,Financial services & business support,0.0576322704,5.0%,Estonia
-2022,Government & civil society,0.057631152,5.0%,Estonia
-2019,"Industry, construction & mining",0.0557041488,5.0%,Estonia
-2019,Health & populations,0.05141844,4.0%,Estonia
-2021,Donor administration costs,0.034155936,2.0%,Estonia
-2022,"Industry, construction & mining",0.030580411200000004,3.0%,Estonia
-2020,"Conflict, peace & security",0.028890508800000006,2.0%,Estonia
-2019,Tourism,0.0285661728,2.0%,Estonia
-2020,Unspecified,0.0274466544,2.0%,Estonia
-2022,Health & populations,0.024698745600000002,2.0%,Estonia
-2021,Unspecified,0.0177613104,1.0%,Estonia
-2023,Health & populations,0.0140571696,1.0%,Estonia
-2023,Financial services & business support,0.0140571696,1.0%,Estonia
-2019,Infrastructure,0.0114266928,1.0%,Estonia
-2021,Education,0.0109301232,1.0%,Estonia
-2022,Unspecified,0.010585656000000002,1.0%,Estonia
+year,Sector,Gender-related ODA to,Share,Donor
+2021,Financial services & business support,1.05,50.0%,Estonia
+2023,Education,0.95,63.0%,Estonia
+2022,Education,0.65,61.0%,Estonia
+2020,Emergency Response,0.59,36.0%,Estonia
+2021,Emergency Response,0.5,24.0%,Estonia
+2019,Financial services & business support,0.49,40.0%,Estonia
+2019,Government & civil society,0.41,33.0%,Estonia
+2020,Financial services & business support,0.37,23.0%,Estonia
+2020,Government & civil society,0.36,22.0%,Estonia
+2021,Government & civil society,0.26,12.0%,Estonia
+2021,Health & populations,0.22,10.0%,Estonia
+2020,Health & populations,0.17,11.0%,Estonia
+2022,Emergency Response,0.14,13.0%,Estonia
+2023,Emergency Response,0.14,9.0%,Estonia
+2023,Government & civil society,0.12,8.0%,Estonia
+2019,Emergency Response,0.11,9.0%,Estonia
+2023,"Agriculture (incl. forestry, fishing, rural development)",0.11,7.0%,Estonia
+2022,"Agriculture (incl. forestry, fishing, rural development)",0.09,9.0%,Estonia
+2019,Education,0.08,6.0%,Estonia
+2020,Education,0.08,5.0%,Estonia
+2023,"Industry, construction & mining",0.08,6.0%,Estonia
+2023,Other multisector,0.08,5.0%,Estonia
+2019,"Industry, construction & mining",0.06,5.0%,Estonia
+2022,Financial services & business support,0.06,5.0%,Estonia
+2022,Government & civil society,0.06,5.0%,Estonia
+2019,Health & populations,0.05,4.0%,Estonia
+2019,Tourism,0.03,2.0%,Estonia
+2022,"Industry, construction & mining",0.03,3.0%,Estonia
+2020,"Conflict, peace & security",0.03,2.0%,Estonia
+2020,Unspecified,0.03,2.0%,Estonia
+2021,Donor administration costs,0.03,2.0%,Estonia
+2022,Health & populations,0.02,2.0%,Estonia
+2021,Unspecified,0.02,1.0%,Estonia
+2019,Infrastructure,0.01,1.0%,Estonia
+2022,Unspecified,0.01,1.0%,Estonia
+2021,Education,0.01,1.0%,Estonia
+2023,Financial services & business support,0.01,1.0%,Estonia
+2023,Health & populations,0.01,1.0%,Estonia

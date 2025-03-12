@@ -1,32 +1,28 @@
 year,incomegroup_name,total_oda,Share,Donor
-2023,LMICs,3642.87,32.89,France
-2023,Part I unallocated by income,3105.61,28.04,France
-2023,UMICs,2226.72,20.11,France
-2023,LDCs,2026.67,18.3,France
-2023,Other LICs,72.95,0.66,France
-2022,LMICs,4346.53,30.5,France
-2022,Part I unallocated by income,3957.46,27.77,France
-2022,UMICs,3576.8,25.1,France
-2022,LDCs,2304.91,16.17,France
-2022,Other LICs,66.49,0.47,France
-2022,,,,France
-2021,Part I unallocated by income,3733.44,29.42,France
-2021,LMICs,3453.64,27.21,France
-2021,UMICs,3369.73,26.55,France
-2021,LDCs,2070.55,16.32,France
-2021,Other LICs,63.16,0.5,France
-2021,,,,France
-2020,LMICs,4111.82,30.12,France
-2020,Part I unallocated by income,3808.27,27.89,France
-2020,UMICs,3371.82,24.7,France
-2020,LDCs,2287.29,16.75,France
-2020,Other LICs,73.05,0.54,France
-2020,MADCTs,0.05,0.0,France
-2020,,,,France
-2019,LMICs,3568.31,33.82,France
-2019,Part I unallocated by income,3009.38,28.52,France
-2019,UMICs,2114.03,20.04,France
-2019,LDCs,1791.62,16.98,France
-2019,Other LICs,67.51,0.64,France
-2019,MADCTs,0.03,0.0,France
-2019,,,,France
+2023,Lower-middle income countries,3642.87,32.89,France
+2023,Countries unallocated by income,3105.61,28.04,France
+2023,Upper-middle income countries,2226.72,20.11,France
+2023,Least developed countries,2026.67,18.3,France
+2023,Other low income countries,72.95,0.66,France
+2022,Lower-middle income countries,4346.53,30.5,France
+2022,Countries unallocated by income,3957.46,27.77,France
+2022,Upper-middle income countries,3576.8,25.1,France
+2022,Least developed countries,2304.91,16.17,France
+2022,Other low income countries,66.49,0.47,France
+2021,Countries unallocated by income,3733.44,29.42,France
+2021,Lower-middle income countries,3453.64,27.21,France
+2021,Upper-middle income countries,3369.73,26.55,France
+2021,Least developed countries,2070.55,16.32,France
+2021,Other low income countries,63.16,0.5,France
+2020,Lower-middle income countries,4111.82,30.12,France
+2020,Countries unallocated by income,3808.27,27.89,France
+2020,Upper-middle income countries,3371.82,24.7,France
+2020,Least developed countries,2287.29,16.75,France
+2020,Other low income countries,73.05,0.54,France
+2020,More advanced developed countries and territories,0.05,0.0,France
+2019,Lower-middle income countries,3568.31,33.82,France
+2019,Countries unallocated by income,3009.38,28.52,France
+2019,Upper-middle income countries,2114.03,20.04,France
+2019,Least developed countries,1791.62,16.98,France
+2019,Other low income countries,67.51,0.64,France
+2019,More advanced developed countries and territories,0.03,0.0,France

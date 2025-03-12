@@ -1,26 +1,26 @@
 year,incomegroup_name,total_oda,Share,Donor
-2023,Part I unallocated by income,52.54,91.73,Greece
-2023,UMICs,4.02,7.01,Greece
-2023,LMICs,0.48,0.83,Greece
-2023,LDCs,0.13,0.23,Greece
-2023,Other LICs,0.11,0.2,Greece
-2022,Part I unallocated by income,80.98,74.61,Greece
-2022,LMICs,11.88,10.94,Greece
-2022,LDCs,10.05,9.26,Greece
-2022,UMICs,5.63,5.19,Greece
-2022,Other LICs,0.01,0.01,Greece
-2021,Part I unallocated by income,41.11,53.11,Greece
-2021,LMICs,18.23,23.56,Greece
-2021,UMICs,10.31,13.32,Greece
-2021,LDCs,6.68,8.63,Greece
-2021,Other LICs,1.07,1.38,Greece
-2020,Part I unallocated by income,88.49,94.83,Greece
-2020,UMICs,4.46,4.78,Greece
-2020,Other LICs,0.24,0.25,Greece
-2020,LDCs,0.12,0.13,Greece
-2020,LMICs,0.02,0.02,Greece
-2019,Part I unallocated by income,149.37,94.22,Greece
-2019,UMICs,7.78,4.91,Greece
-2019,LMICs,1.24,0.78,Greece
-2019,LDCs,0.13,0.09,Greece
-2019,Other LICs,0.0,0.0,Greece
+2023,Countries unallocated by income,52.54,91.73,Greece
+2023,Upper-middle income countries,4.02,7.01,Greece
+2023,Lower-middle income countries,0.48,0.83,Greece
+2023,Least developed countries,0.13,0.23,Greece
+2023,Other low income countries,0.11,0.2,Greece
+2022,Countries unallocated by income,80.98,74.61,Greece
+2022,Lower-middle income countries,11.88,10.94,Greece
+2022,Least developed countries,10.05,9.26,Greece
+2022,Upper-middle income countries,5.63,5.19,Greece
+2022,Other low income countries,0.01,0.01,Greece
+2021,Countries unallocated by income,41.11,53.11,Greece
+2021,Lower-middle income countries,18.23,23.56,Greece
+2021,Upper-middle income countries,10.31,13.32,Greece
+2021,Least developed countries,6.68,8.63,Greece
+2021,Other low income countries,1.07,1.38,Greece
+2020,Countries unallocated by income,88.49,94.83,Greece
+2020,Upper-middle income countries,4.46,4.78,Greece
+2020,Other low income countries,0.24,0.25,Greece
+2020,Least developed countries,0.12,0.13,Greece
+2020,Lower-middle income countries,0.02,0.02,Greece
+2019,Countries unallocated by income,149.37,94.22,Greece
+2019,Upper-middle income countries,7.78,4.91,Greece
+2019,Lower-middle income countries,1.24,0.78,Greece
+2019,Least developed countries,0.13,0.09,Greece
+2019,Other low income countries,0.0,0.0,Greece

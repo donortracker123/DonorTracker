@@ -1,26 +1,26 @@
 year,incomegroup_name,total_oda,Share,Donor
-2023,Part I unallocated by income,425.49,86.03,Czechia
-2023,LMICs,25.28,5.11,Czechia
-2023,UMICs,22.87,4.62,Czechia
-2023,LDCs,18.42,3.72,Czechia
-2023,Other LICs,2.5,0.51,Czechia
-2022,Part I unallocated by income,748.25,89.05,Czechia
-2022,LMICs,43.17,5.14,Czechia
-2022,LDCs,23.71,2.82,Czechia
-2022,UMICs,23.2,2.76,Czechia
-2022,Other LICs,1.89,0.23,Czechia
-2021,UMICs,35.16,34.47,Czechia
-2021,LDCs,23.39,22.93,Czechia
-2021,Part I unallocated by income,20.65,20.24,Czechia
-2021,LMICs,19.23,18.86,Czechia
-2021,Other LICs,3.57,3.5,Czechia
-2020,UMICs,39.54,42.67,Czechia
-2020,LDCs,22.47,24.25,Czechia
-2020,Part I unallocated by income,20.77,22.41,Czechia
-2020,LMICs,6.49,7.0,Czechia
-2020,Other LICs,3.4,3.67,Czechia
-2019,UMICs,71.36,56.68,Czechia
-2019,LDCs,23.88,18.97,Czechia
-2019,Part I unallocated by income,19.66,15.61,Czechia
-2019,LMICs,8.2,6.51,Czechia
-2019,Other LICs,2.81,2.23,Czechia
+2023,Countries unallocated by income,425.49,86.03,Czechia
+2023,Lower-middle income countries,25.28,5.11,Czechia
+2023,Upper-middle income countries,22.87,4.62,Czechia
+2023,Least developed countries,18.42,3.72,Czechia
+2023,Other low income countries,2.5,0.51,Czechia
+2022,Countries unallocated by income,748.25,89.05,Czechia
+2022,Lower-middle income countries,43.17,5.14,Czechia
+2022,Least developed countries,23.71,2.82,Czechia
+2022,Upper-middle income countries,23.2,2.76,Czechia
+2022,Other low income countries,1.89,0.23,Czechia
+2021,Upper-middle income countries,35.16,34.47,Czechia
+2021,Least developed countries,23.39,22.93,Czechia
+2021,Countries unallocated by income,20.65,20.24,Czechia
+2021,Lower-middle income countries,19.23,18.86,Czechia
+2021,Other low income countries,3.57,3.5,Czechia
+2020,Upper-middle income countries,39.54,42.67,Czechia
+2020,Least developed countries,22.47,24.25,Czechia
+2020,Countries unallocated by income,20.77,22.41,Czechia
+2020,Lower-middle income countries,6.49,7.0,Czechia
+2020,Other low income countries,3.4,3.67,Czechia
+2019,Upper-middle income countries,71.36,56.68,Czechia
+2019,Least developed countries,23.88,18.97,Czechia
+2019,Countries unallocated by income,19.66,15.61,Czechia
+2019,Lower-middle income countries,8.2,6.51,Czechia
+2019,Other low income countries,2.81,2.23,Czechia

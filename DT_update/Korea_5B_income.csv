@@ -1,27 +1,27 @@
 year,incomegroup_name,total_oda,Share,Donor
-2023,LMICs,1053.69,39.65,Korea
-2023,LDCs,837.17,31.5,Korea
-2023,Part I unallocated by income,489.8,18.43,Korea
-2023,UMICs,269.28,10.13,Korea
-2023,Other LICs,7.83,0.29,Korea
-2022,LMICs,903.95,36.29,Korea
-2022,LDCs,850.16,34.13,Korea
-2022,Part I unallocated by income,432.98,17.38,Korea
-2022,UMICs,300.31,12.06,Korea
-2022,Other LICs,3.55,0.14,Korea
-2021,LDCs,793.52,35.77,Korea
-2021,LMICs,750.79,33.84,Korea
-2021,Part I unallocated by income,364.9,16.45,Korea
-2021,UMICs,303.15,13.67,Korea
-2021,Other LICs,6.05,0.27,Korea
-2020,LDCs,734.8,39.81,Korea
-2020,LMICs,623.52,33.78,Korea
-2020,Part I unallocated by income,285.17,15.45,Korea
-2020,UMICs,198.89,10.78,Korea
-2020,Other LICs,3.28,0.18,Korea
-2019,LMICs,772.58,39.28,Korea
-2019,LDCs,730.34,37.13,Korea
-2019,Part I unallocated by income,257.97,13.12,Korea
-2019,UMICs,201.69,10.25,Korea
-2019,Other LICs,4.35,0.22,Korea
-2019,MADCTs,0.02,0.0,Korea
+2023,Lower-middle income countries,1053.69,39.65,Korea
+2023,Least developed countries,837.17,31.5,Korea
+2023,Countries unallocated by income,489.8,18.43,Korea
+2023,Upper-middle income countries,269.28,10.13,Korea
+2023,Other low income countries,7.83,0.29,Korea
+2022,Lower-middle income countries,903.95,36.29,Korea
+2022,Least developed countries,850.16,34.13,Korea
+2022,Countries unallocated by income,432.98,17.38,Korea
+2022,Upper-middle income countries,300.31,12.06,Korea
+2022,Other low income countries,3.55,0.14,Korea
+2021,Least developed countries,793.52,35.77,Korea
+2021,Lower-middle income countries,750.79,33.84,Korea
+2021,Countries unallocated by income,364.9,16.45,Korea
+2021,Upper-middle income countries,303.15,13.67,Korea
+2021,Other low income countries,6.05,0.27,Korea
+2020,Least developed countries,734.8,39.81,Korea
+2020,Lower-middle income countries,623.52,33.78,Korea
+2020,Countries unallocated by income,285.17,15.45,Korea
+2020,Upper-middle income countries,198.89,10.78,Korea
+2020,Other low income countries,3.28,0.18,Korea
+2019,Lower-middle income countries,772.58,39.28,Korea
+2019,Least developed countries,730.34,37.13,Korea
+2019,Countries unallocated by income,257.97,13.12,Korea
+2019,Upper-middle income countries,201.69,10.25,Korea
+2019,Other low income countries,4.35,0.22,Korea
+2019,More advanced developed countries and territories,0.02,0.0,Korea

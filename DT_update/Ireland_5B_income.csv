@@ -1,27 +1,27 @@
 year,incomegroup_name,total_oda,Share,Donor
-2023,Part I unallocated by income,1729.78,80.62,Ireland
-2023,LDCs,271.19,12.64,Ireland
-2023,LMICs,98.47,4.59,Ireland
-2023,UMICs,34.61,1.61,Ireland
-2023,Other LICs,11.58,0.54,Ireland
-2022,Part I unallocated by income,1498.82,77.14,Ireland
-2022,LDCs,293.71,15.12,Ireland
-2022,LMICs,109.63,5.64,Ireland
-2022,UMICs,33.42,1.72,Ireland
-2022,Other LICs,7.5,0.39,Ireland
-2021,LDCs,278.83,44.38,Ireland
-2021,Part I unallocated by income,263.18,41.89,Ireland
-2021,LMICs,48.7,7.75,Ireland
-2021,UMICs,27.42,4.36,Ireland
-2021,Other LICs,10.11,1.61,Ireland
-2020,LDCs,267.7,48.65,Ireland
-2020,Part I unallocated by income,191.16,34.74,Ireland
-2020,LMICs,48.5,8.81,Ireland
-2020,UMICs,34.06,6.19,Ireland
-2020,Other LICs,8.5,1.54,Ireland
-2020,MADCTs,0.36,0.07,Ireland
-2019,LDCs,269.39,44.33,Ireland
-2019,Part I unallocated by income,247.85,40.78,Ireland
-2019,LMICs,51.65,8.5,Ireland
-2019,UMICs,31.35,5.16,Ireland
-2019,Other LICs,7.52,1.24,Ireland
+2023,Countries unallocated by income,1729.78,80.62,Ireland
+2023,Least developed countries,271.19,12.64,Ireland
+2023,Lower-middle income countries,98.47,4.59,Ireland
+2023,Upper-middle income countries,34.61,1.61,Ireland
+2023,Other low income countries,11.58,0.54,Ireland
+2022,Countries unallocated by income,1498.82,77.14,Ireland
+2022,Least developed countries,293.71,15.12,Ireland
+2022,Lower-middle income countries,109.63,5.64,Ireland
+2022,Upper-middle income countries,33.42,1.72,Ireland
+2022,Other low income countries,7.5,0.39,Ireland
+2021,Least developed countries,278.83,44.38,Ireland
+2021,Countries unallocated by income,263.18,41.89,Ireland
+2021,Lower-middle income countries,48.7,7.75,Ireland
+2021,Upper-middle income countries,27.42,4.36,Ireland
+2021,Other low income countries,10.11,1.61,Ireland
+2020,Least developed countries,267.7,48.65,Ireland
+2020,Countries unallocated by income,191.16,34.74,Ireland
+2020,Lower-middle income countries,48.5,8.81,Ireland
+2020,Upper-middle income countries,34.06,6.19,Ireland
+2020,Other low income countries,8.5,1.54,Ireland
+2020,More advanced developed countries and territories,0.36,0.07,Ireland
+2019,Least developed countries,269.39,44.33,Ireland
+2019,Countries unallocated by income,247.85,40.78,Ireland
+2019,Lower-middle income countries,51.65,8.5,Ireland
+2019,Upper-middle income countries,31.35,5.16,Ireland
+2019,Other low income countries,7.52,1.24,Ireland

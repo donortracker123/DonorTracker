@@ -1,26 +1,26 @@
 year,incomegroup_name,total_oda,Share,Donor
-2023,Part I unallocated by income,43.88,73.77,Estonia
-2023,LMICs,11.19,18.81,Estonia
-2023,UMICs,3.03,5.09,Estonia
-2023,LDCs,1.26,2.12,Estonia
-2023,Other LICs,0.12,0.21,Estonia
-2022,Part I unallocated by income,163.43,93.38,Estonia
-2022,LMICs,8.75,5.0,Estonia
-2022,UMICs,2.11,1.2,Estonia
-2022,LDCs,0.55,0.32,Estonia
-2022,Other LICs,0.18,0.1,Estonia
-2021,Part I unallocated by income,10.07,35.18,Estonia
-2021,LMICs,8.07,28.21,Estonia
-2021,UMICs,5.65,19.75,Estonia
-2021,LDCs,4.45,15.55,Estonia
-2021,Other LICs,0.38,1.31,Estonia
-2020,Part I unallocated by income,9.72,45.99,Estonia
-2020,LMICs,4.93,23.31,Estonia
-2020,UMICs,2.94,13.89,Estonia
-2020,LDCs,2.76,13.06,Estonia
-2020,Other LICs,0.79,3.76,Estonia
-2019,Part I unallocated by income,10.5,48.76,Estonia
-2019,LMICs,4.17,19.39,Estonia
-2019,UMICs,4.11,19.07,Estonia
-2019,LDCs,2.14,9.95,Estonia
-2019,Other LICs,0.61,2.83,Estonia
+2023,Countries unallocated by income,43.88,73.77,Estonia
+2023,Lower-middle income countries,11.19,18.81,Estonia
+2023,Upper-middle income countries,3.03,5.09,Estonia
+2023,Least developed countries,1.26,2.12,Estonia
+2023,Other low income countries,0.12,0.21,Estonia
+2022,Countries unallocated by income,163.43,93.38,Estonia
+2022,Lower-middle income countries,8.75,5.0,Estonia
+2022,Upper-middle income countries,2.11,1.2,Estonia
+2022,Least developed countries,0.55,0.32,Estonia
+2022,Other low income countries,0.18,0.1,Estonia
+2021,Countries unallocated by income,10.07,35.18,Estonia
+2021,Lower-middle income countries,8.07,28.21,Estonia
+2021,Upper-middle income countries,5.65,19.75,Estonia
+2021,Least developed countries,4.45,15.55,Estonia
+2021,Other low income countries,0.38,1.31,Estonia
+2020,Countries unallocated by income,9.72,45.99,Estonia
+2020,Lower-middle income countries,4.93,23.31,Estonia
+2020,Upper-middle income countries,2.94,13.89,Estonia
+2020,Least developed countries,2.76,13.06,Estonia
+2020,Other low income countries,0.79,3.76,Estonia
+2019,Countries unallocated by income,10.5,48.76,Estonia
+2019,Lower-middle income countries,4.17,19.39,Estonia
+2019,Upper-middle income countries,4.11,19.07,Estonia
+2019,Least developed countries,2.14,9.95,Estonia
+2019,Other low income countries,0.61,2.83,Estonia
