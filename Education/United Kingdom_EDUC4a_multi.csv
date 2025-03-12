@@ -1,8 +1,8 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
-2019,ADF,12.17,0.01%,african development fund,United Kingdom
-2020,ADF,8.13,0.01%,african development fund,United Kingdom
-2021,ADF,4.39,0.01%,african development fund,United Kingdom
-2022,ADF,4.72,0.01%,african development fund,United Kingdom
+2019,ADF,12.17,1.0%,african development fund,United Kingdom
+2020,ADF,8.13,1.0%,african development fund,United Kingdom
+2021,ADF,4.39,1.0%,african development fund,United Kingdom
+2022,ADF,4.72,1.0%,african development fund,United Kingdom
 2023,ADF,2.28,0.0%,african development fund,United Kingdom
 2022,AF,0.0,0.0%,adaptation fund,United Kingdom
 2020,AfDB,0.5,0.0%,african development bank,United Kingdom
@@ -11,15 +11,15 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2023,AfDB,0.8,0.0%,african development bank,United Kingdom
 2021,CDB,0.01,0.0%,caribbean development bank,United Kingdom
 2022,CDB,0.01,0.0%,caribbean development bank,United Kingdom
-2019,EC-DSB,126.38,0.08%,european commission development share of budget,United Kingdom
-2020,EC-DSB,132.19,0.12%,european commission development share of budget,United Kingdom
-2021,EC-DSB,74.72,0.09%,european commission development share of budget,United Kingdom
-2022,EC-DSB,53.48,0.09%,european commission development share of budget,United Kingdom
-2023,EC-DSB,42.05,0.06%,european commission development share of budget,United Kingdom
-2019,EC-EDF,63.34,0.04%,european commission european development fund,United Kingdom
-2020,EC-EDF,27.59,0.03%,european commission european development fund,United Kingdom
-2021,EC-EDF,31.66,0.04%,european commission european development fund,United Kingdom
-2022,EC-EDF,9.4,0.02%,european commission european development fund,United Kingdom
+2019,EC-DSB,126.38,8.0%,european commission development share of budget,United Kingdom
+2020,EC-DSB,132.19,12.0%,european commission development share of budget,United Kingdom
+2021,EC-DSB,74.72,9.0%,european commission development share of budget,United Kingdom
+2022,EC-DSB,53.48,9.0%,european commission development share of budget,United Kingdom
+2023,EC-DSB,42.05,6.0%,european commission development share of budget,United Kingdom
+2019,EC-EDF,63.34,4.0%,european commission european development fund,United Kingdom
+2020,EC-EDF,27.59,3.0%,european commission european development fund,United Kingdom
+2021,EC-EDF,31.66,4.0%,european commission european development fund,United Kingdom
+2022,EC-EDF,9.4,2.0%,european commission european development fund,United Kingdom
 2023,EC-EDF,0.83,0.0%,european commission european development fund,United Kingdom
 2019,FAO,0.03,0.0%,food and agricultural organisation,United Kingdom
 2020,FAO,0.04,0.0%,food and agricultural organisation,United Kingdom
@@ -31,11 +31,11 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,IBRD,2.64,0.0%,international bank for reconstruction and development,United Kingdom
 2022,IBRD,2.73,0.0%,international bank for reconstruction and development,United Kingdom
 2023,IBRD,2.19,0.0%,international bank for reconstruction and development,United Kingdom
-2019,IDA,85.17,0.06%,international development association,United Kingdom
-2020,IDA,86.87,0.08%,international development association,United Kingdom
-2021,IDA,76.78,0.09%,international development association,United Kingdom
-2022,IDA,18.46,0.03%,international development association,United Kingdom
-2023,IDA,199.08,0.29%,international development association,United Kingdom
+2019,IDA,85.17,6.0%,international development association,United Kingdom
+2020,IDA,86.87,8.0%,international development association,United Kingdom
+2021,IDA,76.78,9.0%,international development association,United Kingdom
+2022,IDA,18.46,3.0%,international development association,United Kingdom
+2023,IDA,199.08,28.999999999999996%,international development association,United Kingdom
 2019,IDB-IIC-MIF,0.03,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,United Kingdom
 2020,IDB-IIC-MIF,0.02,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,United Kingdom
 2021,IDB-IIC-MIF,0.02,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,United Kingdom
@@ -49,14 +49,14 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,UNFPA,0.53,0.0%,united nations population fund,United Kingdom
 2022,UNFPA,0.59,0.0%,united nations population fund,United Kingdom
 2023,UNFPA,0.56,0.0%,united nations population fund,United Kingdom
-2019,UNRWA,40.37,0.03%,united nations relief and works agency for palestine refugees in the near east,United Kingdom
-2020,UNRWA,35.72,0.03%,united nations relief and works agency for palestine refugees in the near east,United Kingdom
-2021,UNRWA,9.21,0.01%,united nations relief and works agency for palestine refugees in the near east,United Kingdom
-2022,UNRWA,10.44,0.02%,united nations relief and works agency for palestine refugees in the near east,United Kingdom
-2023,UNRWA,12.72,0.02%,united nations relief and works agency for palestine refugees in the near east,United Kingdom
+2019,UNRWA,40.37,3.0%,united nations relief and works agency for palestine refugees in the near east,United Kingdom
+2020,UNRWA,35.72,3.0%,united nations relief and works agency for palestine refugees in the near east,United Kingdom
+2021,UNRWA,9.21,1.0%,united nations relief and works agency for palestine refugees in the near east,United Kingdom
+2022,UNRWA,10.44,2.0%,united nations relief and works agency for palestine refugees in the near east,United Kingdom
+2023,UNRWA,12.72,2.0%,united nations relief and works agency for palestine refugees in the near east,United Kingdom
 2019,WFP,1.08,0.0%,world food programme,United Kingdom
 2019,,4.46,0.0%,united nations children’s fund,United Kingdom
 2020,,4.52,0.0%,united nations children’s fund,United Kingdom
 2021,,2.52,0.0%,united nations children’s fund,United Kingdom
 2022,,0.78,0.0%,united nations children’s fund,United Kingdom
-2023,,3.59,0.01%,united nations children’s fund,United Kingdom
+2023,,3.59,1.0%,united nations children’s fund,United Kingdom

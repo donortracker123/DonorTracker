@@ -1,7 +1,7 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
-2019,ADF,4.2,0.02%,african development fund,Switzerland
-2020,ADF,2.74,0.01%,african development fund,Switzerland
-2021,ADF,1.64,0.01%,african development fund,Switzerland
+2019,ADF,4.2,2.0%,african development fund,Switzerland
+2020,ADF,2.74,1.0%,african development fund,Switzerland
+2021,ADF,1.64,1.0%,african development fund,Switzerland
 2022,ADF,0.94,0.0%,african development fund,Switzerland
 2023,ADF,0.93,0.0%,african development fund,Switzerland
 2022,AF,0.0,0.0%,adaptation fund,Switzerland
@@ -14,15 +14,15 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,FAO,0.01,0.0%,food and agricultural organisation,Switzerland
 2022,FAO,0.0,0.0%,food and agricultural organisation,Switzerland
 2023,FAO,0.0,0.0%,food and agricultural organisation,Switzerland
-2021,IBRD,1.8,0.01%,international bank for reconstruction and development,Switzerland
-2022,IBRD,1.66,0.01%,international bank for reconstruction and development,Switzerland
+2021,IBRD,1.8,1.0%,international bank for reconstruction and development,Switzerland
+2022,IBRD,1.66,1.0%,international bank for reconstruction and development,Switzerland
 2023,IBRD,1.03,0.0%,international bank for reconstruction and development,Switzerland
-2019,IDA,21.29,0.11%,international development association,Switzerland
-2020,IDA,20.14,0.1%,international development association,Switzerland
-2021,IDA,19.95,0.09%,international development association,Switzerland
-2022,IDA,21.26,0.1%,international development association,Switzerland
-2023,IDA,32.4,0.14%,international development association,Switzerland
-2019,IDB-IIC-MIF,1.4,0.01%,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
+2019,IDA,21.29,11.0%,international development association,Switzerland
+2020,IDA,20.14,10.0%,international development association,Switzerland
+2021,IDA,19.95,9.0%,international development association,Switzerland
+2022,IDA,21.26,10.0%,international development association,Switzerland
+2023,IDA,32.4,14.000000000000002%,international development association,Switzerland
+2019,IDB-IIC-MIF,1.4,1.0%,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
 2020,IDB-IIC-MIF,0.06,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
 2021,IDB-IIC-MIF,0.01,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
 2022,IDB-IIC-MIF,0.01,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
@@ -42,14 +42,14 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,UNIDO,0.03,0.0%,united nations industrial development organisation,Switzerland
 2022,UNIDO,0.03,0.0%,united nations industrial development organisation,Switzerland
 2023,UNIDO,0.01,0.0%,united nations industrial development organisation,Switzerland
-2019,UNRWA,13.37,0.07%,united nations relief and works agency for palestine refugees in the near east,Switzerland
-2020,UNRWA,18.36,0.09%,united nations relief and works agency for palestine refugees in the near east,Switzerland
-2021,UNRWA,15.8,0.07%,united nations relief and works agency for palestine refugees in the near east,Switzerland
-2022,UNRWA,15.61,0.07%,united nations relief and works agency for palestine refugees in the near east,Switzerland
-2023,UNRWA,13.31,0.06%,united nations relief and works agency for palestine refugees in the near east,Switzerland
+2019,UNRWA,13.37,7.000000000000001%,united nations relief and works agency for palestine refugees in the near east,Switzerland
+2020,UNRWA,18.36,9.0%,united nations relief and works agency for palestine refugees in the near east,Switzerland
+2021,UNRWA,15.8,7.000000000000001%,united nations relief and works agency for palestine refugees in the near east,Switzerland
+2022,UNRWA,15.61,7.000000000000001%,united nations relief and works agency for palestine refugees in the near east,Switzerland
+2023,UNRWA,13.31,6.0%,united nations relief and works agency for palestine refugees in the near east,Switzerland
 2019,WFP,0.17,0.0%,world food programme,Switzerland
-2019,,1.41,0.01%,united nations children’s fund,Switzerland
-2020,,1.51,0.01%,united nations children’s fund,Switzerland
-2021,,1.67,0.01%,united nations children’s fund,Switzerland
-2022,,1.73,0.01%,united nations children’s fund,Switzerland
-2023,,1.69,0.01%,united nations children’s fund,Switzerland
+2019,,1.41,1.0%,united nations children’s fund,Switzerland
+2020,,1.51,1.0%,united nations children’s fund,Switzerland
+2021,,1.67,1.0%,united nations children’s fund,Switzerland
+2022,,1.73,1.0%,united nations children’s fund,Switzerland
+2023,,1.69,1.0%,united nations children’s fund,Switzerland

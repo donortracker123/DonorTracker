@@ -1,6 +1,6 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
-2019,ADF,7.35,0.02%,african development fund,Italy
-2020,ADF,3.91,0.01%,african development fund,Italy
+2019,ADF,7.35,2.0%,african development fund,Italy
+2020,ADF,3.91,1.0%,african development fund,Italy
 2021,ADF,1.18,0.0%,african development fund,Italy
 2022,ADF,0.91,0.0%,african development fund,Italy
 2023,ADF,1.22,0.0%,african development fund,Italy
@@ -15,15 +15,15 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,CEB,0.0,0.0%,council of europe development bank,Italy
 2022,CEB,0.0,0.0%,council of europe development bank,Italy
 2023,CEB,0.0,0.0%,council of europe development bank,Italy
-2019,EC-DSB,113.97,0.34%,european commission development share of budget,Italy
-2020,EC-DSB,113.35,0.35%,european commission development share of budget,Italy
-2021,EC-DSB,124.41,0.33%,european commission development share of budget,Italy
-2022,EC-DSB,155.75,0.25%,european commission development share of budget,Italy
-2023,EC-DSB,155.44,0.35%,european commission development share of budget,Italy
-2019,EC-EDF,35.7,0.11%,european commission european development fund,Italy
-2020,EC-EDF,37.16,0.11%,european commission european development fund,Italy
-2021,EC-EDF,19.53,0.05%,european commission european development fund,Italy
-2022,EC-EDF,9.03,0.01%,european commission european development fund,Italy
+2019,EC-DSB,113.97,34.0%,european commission development share of budget,Italy
+2020,EC-DSB,113.35,35.0%,european commission development share of budget,Italy
+2021,EC-DSB,124.41,33.0%,european commission development share of budget,Italy
+2022,EC-DSB,155.75,25.0%,european commission development share of budget,Italy
+2023,EC-DSB,155.44,35.0%,european commission development share of budget,Italy
+2019,EC-EDF,35.7,11.0%,european commission european development fund,Italy
+2020,EC-EDF,37.16,11.0%,european commission european development fund,Italy
+2021,EC-EDF,19.53,5.0%,european commission european development fund,Italy
+2022,EC-EDF,9.03,1.0%,european commission european development fund,Italy
 2023,EC-EDF,1.86,0.0%,european commission european development fund,Italy
 2019,FAO,0.03,0.0%,food and agricultural organisation,Italy
 2020,FAO,0.03,0.0%,food and agricultural organisation,Italy
@@ -31,17 +31,17 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2022,FAO,0.01,0.0%,food and agricultural organisation,Italy
 2023,FAO,0.01,0.0%,food and agricultural organisation,Italy
 2019,IBRD,0.01,0.0%,international bank for reconstruction and development,Italy
-2020,IBRD,2.62,0.01%,international bank for reconstruction and development,Italy
-2021,IBRD,2.17,0.01%,international bank for reconstruction and development,Italy
+2020,IBRD,2.62,1.0%,international bank for reconstruction and development,Italy
+2021,IBRD,2.17,1.0%,international bank for reconstruction and development,Italy
 2022,IBRD,1.83,0.0%,international bank for reconstruction and development,Italy
 2023,IBRD,1.62,0.0%,international bank for reconstruction and development,Italy
 2021,ICGEB,0.66,0.0%,international centre for genetic engineering and biotechnology,Italy
 2023,ICGEB,0.4,0.0%,international centre for genetic engineering and biotechnology,Italy
-2019,IDA,29.12,0.09%,international development association,Italy
-2020,IDA,21.59,0.07%,international development association,Italy
-2021,IDA,18.52,0.05%,international development association,Italy
-2022,IDA,23.18,0.04%,international development association,Italy
-2023,IDA,29.49,0.07%,international development association,Italy
+2019,IDA,29.12,9.0%,international development association,Italy
+2020,IDA,21.59,7.000000000000001%,international development association,Italy
+2021,IDA,18.52,5.0%,international development association,Italy
+2022,IDA,23.18,4.0%,international development association,Italy
+2023,IDA,29.49,7.000000000000001%,international development association,Italy
 2019,IDB-IIC-MIF,0.41,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Italy
 2020,IDB-IIC-MIF,0.1,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Italy
 2021,IDB-IIC-MIF,0.03,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Italy
@@ -62,10 +62,10 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,UNIDO,0.11,0.0%,united nations industrial development organisation,Italy
 2022,UNIDO,0.08,0.0%,united nations industrial development organisation,Italy
 2023,UNIDO,0.03,0.0%,united nations industrial development organisation,Italy
-2019,UNRWA,4.68,0.01%,united nations relief and works agency for palestine refugees in the near east,Italy
-2020,UNRWA,4.74,0.01%,united nations relief and works agency for palestine refugees in the near east,Italy
-2021,UNRWA,4.69,0.01%,united nations relief and works agency for palestine refugees in the near east,Italy
-2022,UNRWA,4.75,0.01%,united nations relief and works agency for palestine refugees in the near east,Italy
+2019,UNRWA,4.68,1.0%,united nations relief and works agency for palestine refugees in the near east,Italy
+2020,UNRWA,4.74,1.0%,united nations relief and works agency for palestine refugees in the near east,Italy
+2021,UNRWA,4.69,1.0%,united nations relief and works agency for palestine refugees in the near east,Italy
+2022,UNRWA,4.75,1.0%,united nations relief and works agency for palestine refugees in the near east,Italy
 2019,WFP,0.26,0.0%,world food programme,Italy
 2019,,0.46,0.0%,united nations children’s fund,Italy
 2020,,0.48,0.0%,united nations children’s fund,Italy

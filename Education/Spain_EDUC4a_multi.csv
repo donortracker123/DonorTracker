@@ -3,7 +3,7 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2022,ADB,0.21,0.0%,asian development bank,Spain
 2019,ADF,0.77,0.0%,african development fund,Spain
 2020,ADF,0.83,0.0%,african development fund,Spain
-2021,ADF,1.18,0.01%,african development fund,Spain
+2021,ADF,1.18,1.0%,african development fund,Spain
 2022,ADF,0.52,0.0%,african development fund,Spain
 2023,ADF,0.14,0.0%,african development fund,Spain
 2021,AF,0.0,0.0%,adaptation fund,Spain
@@ -22,31 +22,31 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2022,CEB,0.0,0.0%,council of europe development bank,Spain
 2023,CEB,0.0,0.0%,council of europe development bank,Spain
 2019,EBRD,0.0,0.0%,european bank for reconstruction and development,Spain
-2019,EC-DSB,84.3,0.44%,european commission development share of budget,Spain
-2020,EC-DSB,84.73,0.42%,european commission development share of budget,Spain
-2021,EC-DSB,90.39,0.48%,european commission development share of budget,Spain
-2022,EC-DSB,108.13,0.53%,european commission development share of budget,Spain
-2023,EC-DSB,111.53,0.5%,european commission development share of budget,Spain
-2019,EC-EDF,21.74,0.11%,european commission european development fund,Spain
-2020,EC-EDF,22.74,0.11%,european commission european development fund,Spain
-2021,EC-EDF,11.99,0.06%,european commission european development fund,Spain
-2022,EC-EDF,5.24,0.03%,european commission european development fund,Spain
-2023,EC-EDF,1.19,0.01%,european commission european development fund,Spain
+2019,EC-DSB,84.3,44.0%,european commission development share of budget,Spain
+2020,EC-DSB,84.73,42.0%,european commission development share of budget,Spain
+2021,EC-DSB,90.39,48.0%,european commission development share of budget,Spain
+2022,EC-DSB,108.13,53.0%,european commission development share of budget,Spain
+2023,EC-DSB,111.53,50.0%,european commission development share of budget,Spain
+2019,EC-EDF,21.74,11.0%,european commission european development fund,Spain
+2020,EC-EDF,22.74,11.0%,european commission european development fund,Spain
+2021,EC-EDF,11.99,6.0%,european commission european development fund,Spain
+2022,EC-EDF,5.24,3.0%,european commission european development fund,Spain
+2023,EC-EDF,1.19,1.0%,european commission european development fund,Spain
 2019,FAO,0.02,0.0%,food and agricultural organisation,Spain
 2020,FAO,0.02,0.0%,food and agricultural organisation,Spain
 2021,FAO,0.02,0.0%,food and agricultural organisation,Spain
 2022,FAO,0.0,0.0%,food and agricultural organisation,Spain
 2023,FAO,0.0,0.0%,food and agricultural organisation,Spain
-2019,IBRD,3.25,0.02%,international bank for reconstruction and development,Spain
-2020,IBRD,1.75,0.01%,international bank for reconstruction and development,Spain
-2021,IBRD,1.17,0.01%,international bank for reconstruction and development,Spain
+2019,IBRD,3.25,2.0%,international bank for reconstruction and development,Spain
+2020,IBRD,1.75,1.0%,international bank for reconstruction and development,Spain
+2021,IBRD,1.17,1.0%,international bank for reconstruction and development,Spain
 2022,IBRD,0.95,0.0%,international bank for reconstruction and development,Spain
 2023,IBRD,0.79,0.0%,international bank for reconstruction and development,Spain
-2019,IDA,18.48,0.1%,international development association,Spain
-2020,IDA,20.34,0.1%,international development association,Spain
-2021,IDA,11.17,0.06%,international development association,Spain
-2022,IDA,15.77,0.08%,international development association,Spain
-2023,IDA,15.72,0.07%,international development association,Spain
+2019,IDA,18.48,10.0%,international development association,Spain
+2020,IDA,20.34,10.0%,international development association,Spain
+2021,IDA,11.17,6.0%,international development association,Spain
+2022,IDA,15.77,8.0%,international development association,Spain
+2023,IDA,15.72,7.000000000000001%,international development association,Spain
 2019,IDB-IIC-MIF,0.38,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Spain
 2020,IDB-IIC-MIF,0.64,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Spain
 2023,IDB-IIC-MIF,0.0,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Spain
@@ -64,7 +64,7 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,UNIDO,0.06,0.0%,united nations industrial development organisation,Spain
 2022,UNIDO,0.04,0.0%,united nations industrial development organisation,Spain
 2023,UNIDO,0.02,0.0%,united nations industrial development organisation,Spain
-2020,UNRWA,3.62,0.02%,united nations relief and works agency for palestine refugees in the near east,Spain
-2023,UNRWA,3.79,0.02%,united nations relief and works agency for palestine refugees in the near east,Spain
+2020,UNRWA,3.62,2.0%,united nations relief and works agency for palestine refugees in the near east,Spain
+2023,UNRWA,3.79,2.0%,united nations relief and works agency for palestine refugees in the near east,Spain
 2019,,0.04,0.0%,united nations children’s fund,Spain
 2023,,0.33,0.0%,united nations children’s fund,Spain

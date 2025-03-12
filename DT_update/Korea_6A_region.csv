@@ -1,133 +1,338 @@
-"Year","Multi_short","ODA","Share","full name","country"
-"2018","CERF",3.969347,"1%","Central Emergency Response Fund","Korea"
-"2018","FAO",8.2766,"1%","Food and Agricultural Organisation","Korea"
-"2018","IFAD",2.649539,"0%","International Fund for Agricultural Development","Korea"
-"2018","UNDP",8.534097,"1%","United Nations Development Programme","Korea"
-"2018","UN Women",4.841785,"1%","United Nations Entity for Gender Equality and the Empowerment of Women","Korea"
-"2018","UNEP",0.568243,"0%","United Nations Environment Programme","Korea"
-"2018","UNFCCC",0.573654,"0%","United Nations Framework Convention on Climate Change","Korea"
-"2018","UNOCHA",0.992337,"0%","United Nations Office of Co-ordination of Humanitarian Affairs","Korea"
-"2018","UNFPA",0.103727,"0%","United Nations Population Fund","Korea"
-"2018","WFP",0.099234,"0%","World Food Programme","Korea"
-"2018","WHO - assessed contributions",7.556722,"1%","World Health Organisation - assessed contributions","Korea"
-"2018","WHO - core voluntary contributions",0.496168,"0%","World Health Organisation - core voluntary contributions account","Korea"
-"2018","IBRD",54.667838,"9%","International Bank for Reconstruction and Development","Korea"
-"2018","IDA",139.677263,"23%","International Development Association","Korea"
-"2018","MDRI",8.424563,"1%","International Development Association - Multilateral Debt Relief Initiative","Korea"
-"2018","AfDB",11.027554,"2%","African Development Bank","Korea"
-"2018","African Development Fund",32.054154,"5%","African Development Fund","Korea"
-"2018","ADB",14.885053,"2%","Asian Development Bank","Korea"
-"2018","ADF",22.268212,"4%","Asian Development Fund","Korea"
-"2018","AIIB",156.828918,"25%","Asian Infrastructure Investment Bank","Korea"
-"2018","EBRD-ETC Fund",2.272452,"0%","European Bank for Reconstruction and Development - Early Transition Countries Fund","Korea"
-"2018","IDB, IIC and MIF",32.25411,"5%","Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund","Korea"
-"2018","CGIAR Fund",0.295118,"0%","CGIAR Fund","Korea"
-"2018","Gavi",3.969347,"1%","Global Alliance for Vaccines and Immunization","Korea"
-"2018","GEF Fund",2.180968,"0%","Global Environment Facility Trust Fund","Korea"
-"2018","Global Fund",3.71134,"1%","Global Fund to Fight AIDS, Tuberculosis and Malaria","Korea"
-"2018","GCF",10.758916,"2%","Green Climate Fund","Korea"
-"2019","CERF",5.299795,"1%","Central Emergency Response Fund","Korea"
-"2019","FAO",5.521311,"1%","Food and Agricultural Organisation","Korea"
-"2019","IFAD",3.49198,"1%","International Fund for Agricultural Development","Korea"
-"2019","UNDP",8.659864,"1%","United Nations Development Programme","Korea"
-"2019","UN Women",4.702666,"1%","United Nations Entity for Gender Equality and the Empowerment of Women","Korea"
-"2019","UNEP",0.821225,"0%","United Nations Environment Programme","Korea"
-"2019","UNFCCC",0.347342,"0%","United Nations Framework Convention on Climate Change","Korea"
-"2019","UNOCHA",1.059959,"0%","United Nations Office of Co-ordination of Humanitarian Affairs","Korea"
-"2019","UNFPA",0.010006,"0%","United Nations Population Fund","Korea"
-"2019","WFP",0.100057,"0%","World Food Programme","Korea"
-"2019","WHO - assessed contributions",7.667984,"1%","World Health Organisation - assessed contributions","Korea"
-"2019","IBRD",55.043988,"9%","International Bank for Reconstruction and Development","Korea"
-"2019","IDA",140.859541,"22%","International Development Association","Korea"
-"2019","MDRI",8.746177,"1%","International Development Association - Multilateral Debt Relief Initiative","Korea"
-"2019","AfDB",12.098341,"2%","African Development Bank","Korea"
-"2019","African Development Fund",32.420225,"5%","African Development Fund","Korea"
-"2019","ADB",17.52803,"3%","Asian Development Bank","Korea"
-"2019","ADF",22.456698,"4%","Asian Development Fund","Korea"
-"2019","AIIB",134.73032,"21%","Asian Infrastructure Investment Bank","Korea"
-"2019","EBRD-ETC Fund",1.059959,"0%","European Bank for Reconstruction and Development - Early Transition Countries Fund","Korea"
-"2019","EBRD-technical co-operation and special funds",1.291642,"0%","European Bank for Reconstruction and Development - technical co-operation and special funds (all EBRD countries of operations)","Korea"
-"2019","IDB, IIC and MIF",40.714042,"6%","Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund","Korea"
-"2019","CGIAR Fund",0.287262,"0%","CGIAR Fund","Korea"
-"2019","Gavi",5.021338,"1%","Global Alliance for Vaccines and Immunization","Korea"
-"2019","GEF Fund",1.750992,"0%","Global Environment Facility Trust Fund","Korea"
-"2019","Global Fund",5.299795,"1%","Global Fund to Fight AIDS, Tuberculosis and Malaria","Korea"
-"2019","GCF",11.295404,"2%","Green Climate Fund","Korea"
-"2020","CERF",6.155335,"1%","Central Emergency Response Fund","Korea"
-"2020","FAO",10.062131,"2%","Food and Agricultural Organisation","Korea"
-"2020","IFAD",4.205746,"1%","International Fund for Agricultural Development","Korea"
-"2020","UNDP",7.20434,"1%","United Nations Development Programme","Korea"
-"2020","UN Women",5.0091,"1%","United Nations Entity for Gender Equality and the Empowerment of Women","Korea"
-"2020","UNEP",0.331372,"0%","United Nations Environment Programme","Korea"
-"2020","UNFCCC",0.341994,"0%","United Nations Framework Convention on Climate Change","Korea"
-"2020","UNOCHA",2.082813,"0%","United Nations Office of Co-ordination of Humanitarian Affairs","Korea"
-"2020","UNFPA",0.197032,"0%","United Nations Population Fund","Korea"
-"2020","WFP",2.750914,"1%","World Food Programme","Korea"
-"2020","WHO - assessed contributions",8.865482,"2%","World Health Organisation - assessed contributions","Korea"
-"2020","IBRD",51.963015,"10%","International Bank for Reconstruction and Development","Korea"
-"2020","IDA",138.690516,"26%","International Development Association","Korea"
-"2020","MDRI",10.728133,"2%","International Development Association - Multilateral Debt Relief Initiative","Korea"
-"2020","AfDB",0.092823,"0%","African Development Bank","Korea"
-"2020","African Development Fund",34.635002,"7%","African Development Fund","Korea"
-"2020","ADB",8.267299,"2%","Asian Development Bank","Korea"
-"2020","EBRD-ETC Fund",3.986144,"1%","European Bank for Reconstruction and Development - Early Transition Countries Fund","Korea"
-"2020","IDB, IIC and MIF",18.445063,"4%","Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund","Korea"
-"2020","CGIAR Fund",0.293377,"0%","CGIAR Fund","Korea"
-"2020","Gavi",5.792834,"1%","Global Alliance for Vaccines and Immunization","Korea"
-"2020","GEF Fund",1.552075,"0%","Global Environment Facility Trust Fund","Korea"
-"2020","Global Fund",9.268534,"2%","Global Fund to Fight AIDS, Tuberculosis and Malaria","Korea"
-"2020","GCF",15.827153,"3%","Green Climate Fund","Korea"
-"2020","IPCC",0.579455,"0%","Intergovernmental Panel on Climate Change","Korea"
-"2021","CERF",6,"1%","Central Emergency Response Fund","Korea"
-"2021","FAO",11.166876,"2%","Food and Agricultural Organisation","Korea"
-"2021","IFAD",4.536652,"1%","International Fund for Agricultural Development","Korea"
-"2021","UNDP",8.876033,"1%","United Nations Development Programme","Korea"
-"2021","UN Women",4.615292,"1%","United Nations Entity for Gender Equality and the Empowerment of Women","Korea"
-"2021","UNEP",0.445626,"0%","United Nations Environment Programme","Korea"
-"2021","UNFCCC",0.545263,"0%","United Nations Framework Convention on Climate Change","Korea"
-"2021","UNOCHA",2,"0%","United Nations Office of Co-ordination of Humanitarian Affairs","Korea"
-"2021","UNFPA",0.192231,"0%","United Nations Population Fund","Korea"
-"2021","WFP",4.569763,"1%","World Food Programme","Korea"
-"2021","WHO - assessed contributions",8.171392,"1%","World Health Organisation - assessed contributions","Korea"
-"2021","IBRD",107.731989,"15%","International Bank for Reconstruction and Development","Korea"
-"2021","IDA",153.924213,"22%","International Development Association","Korea"
-"2021","MDRI",12.373737,"2%","International Development Association - Multilateral Debt Relief Initiative","Korea"
-"2021","AfDB",4.236744,"1%","African Development Bank","Korea"
-"2021","African Development Fund",34.683663,"5%","African Development Fund","Korea"
-"2021","ADB",27.04778,"4%","Asian Development Bank","Korea"
-"2021","ADF",20.838718,"3%","Asian Development Fund","Korea"
-"2021","EBRD",0.808594,"0%","European Bank for Reconstruction and Development","Korea"
-"2021","EBRD-ETC Fund",2.069804,"0%","European Bank for Reconstruction and Development - Early Transition Countries Fund","Korea"
-"2021","IDB, IIC and MIF",25.22926,"4%","Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund","Korea"
-"2021","CGIAR Fund",0.294,"0%","CGIAR Fund","Korea"
-"2021","GEF Fund",1.938038,"0%","Global Environment Facility Trust Fund","Korea"
-"2021","GCF",32.660839,"5%","Green Climate Fund","Korea"
-"2021","IPCC",0.565334,"0%","Intergovernmental Panel on Climate Change","Korea"
-"2022","CERF",6.632144,"1%","Central Emergency Response Fund","Korea"
-"2022","FAO",9.054045,"1%","Food and Agricultural Organisation","Korea"
-"2022","IFAD",4.375523,"1%","International Fund for Agricultural Development","Korea"
-"2022","UNDP",9.40434,"1%","United Nations Development Programme","Korea"
-"2022","UN Women",4.047533,"1%","United Nations Entity for Gender Equality and the Empowerment of Women","Korea"
-"2022","UNEP",0.539236,"0%","United Nations Environment Programme","Korea"
-"2022","UNFCCC",0.58164,"0%","United Nations Framework Convention on Climate Change","Korea"
-"2022","UNOCHA",1.105357,"0%","United Nations Office of Co-ordination of Humanitarian Affairs","Korea"
-"2022","UNFPA",0.175466,"0%","United Nations Population Fund","Korea"
-"2022","WFP",4.522061,"1%","World Food Programme","Korea"
-"2022","WHO - assessed contributions",8.004501,"1%","World Health Organisation - assessed contributions","Korea"
-"2022","WHO - core voluntary contributions",0.255649,"0%","World Health Organisation - core voluntary contributions account","Korea"
-"2022","IBRD",79.400233,"12%","International Bank for Reconstruction and Development","Korea"
-"2022","IDA",150.780497,"23%","International Development Association","Korea"
-"2022","MDRI",13.46472,"2%","International Development Association - Multilateral Debt Relief Initiative","Korea"
-"2022","AfDB",14.2588,"2%","African Development Bank","Korea"
-"2022","African Development Fund",34.219143,"5%","African Development Fund","Korea"
-"2022","ADB",16.328396,"3%","Asian Development Bank","Korea"
-"2022","ADF",20.413112,"3%","Asian Development Fund","Korea"
-"2022","EBRD",0.528488,"0%","European Bank for Reconstruction and Development","Korea"
-"2022","EBRD-ETC Fund",2.210714,"0%","European Bank for Reconstruction and Development - Early Transition Countries Fund","Korea"
-"2022","IDB, IIC and MIF",16.16815,"2%","Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund","Korea"
-"2022","CGIAR Fund",0.290015,"0%","CGIAR Fund","Korea"
-"2022","Gavi",11.401337,"2%","Global Alliance for Vaccines and Immunization","Korea"
-"2022","GEF Fund",2.070499,"0%","Global Environment Facility Trust Fund","Korea"
-"2022","Global Fund",9.097816,"1%","Global Fund to Fight AIDS, Tuberculosis and Malaria","Korea"
-"2022","GCF",37.001039,"6%","Green Climate Fund","Korea"
-"2022","IPCC",0.553787,"0%","Intergovernmental Panel on Climate Change","Korea"
+Year,Multi_short,ODA,Share,full name,Donor
+2019,IDA,127.76,0.27%,International Development Association ,Korea
+2019,AIIB,122.2,0.25%,Asian Infrastructure Investment Bank,Korea
+2019,IBRD,49.93,0.1%,International Bank for Reconstruction and Development ,Korea
+2019,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",36.93,0.08%,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",Korea
+2019,ADF,29.41,0.06%,African Development Fund ,Korea
+2019,UN,24.13,0.05%,United Nations,Korea
+2019,Asian Development Fund ,20.37,0.04%,Asian Development Fund ,Korea
+2019,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",16.36,0.03%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",Korea
+2019,ADB,15.9,0.03%,Asian Development Bank,Korea
+2019,AfDB,10.97,0.02%,African Development Bank,Korea
+2019,GCF,10.25,0.02%,Green Climate Fund,Korea
+2019,GGGI,9.61,0.02%,Global Green Growth Institute,Korea
+2019,International Development Association - Multilateral Debt Relief Initiative,7.93,0.02%,International Development Association - Multilateral Debt Relief Initiative,Korea
+2019,UNDP,7.85,0.02%,United Nations Development Programme ,Korea
+2019,World Health Organisation - assessed contributions,6.96,0.01%,World Health Organisation - assessed contributions,Korea
+2019,International Vaccine Institute ,5.06,0.01%,International Vaccine Institute ,Korea
+2019,FAO,5.01,0.01%,Food and Agricultural Organisation,Korea
+2019,CERF,4.81,0.01%,Central Emergency Response Fund,Korea
+2019,International drug purchase facility,4.81,0.01%,International drug purchase facility,Korea
+2019,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",4.81,0.01%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Korea
+2019,GAVI,4.55,0.01%,Global Alliance for Vaccines and Immunization ,Korea
+2019,International Monetary Fund - Poverty Reduction and Growth Trust ,4.54,0.01%,International Monetary Fund - Poverty Reduction and Growth Trust ,Korea
+2019,United Nations Entity for Gender Equality and the Empowerment of Women,4.27,0.01%,United Nations Entity for Gender Equality and the Empowerment of Women,Korea
+2019,International Labour Organisation - Assessed Contributions,4.17,0.01%,International Labour Organisation - Assessed Contributions,Korea
+2019,"United Nations Educational, Scientific and Cultural Organisation",3.85,0.01%,"United Nations Educational, Scientific and Cultural Organisation",Korea
+2019,UNICEF,3.56,0.01%,United Nations Children's Fund ,Korea
+2019,IFAD,3.17,0.01%,International Fund for Agricultural Development ,Korea
+2019,United Nations Volunteers ,3.1,0.01%,United Nations Volunteers ,Korea
+2019,United Nations Office of the High Commissioner for Refugees,3.01,0.01%,United Nations Office of the High Commissioner for Refugees,Korea
+2019,IFC,2.72,0.01%,International Finance Corporation ,Korea
+2019,International Atomic Energy Agency - assessed contributions,2.57,0.01%,International Atomic Energy Agency - assessed contributions,Korea
+2019,UNIDO,2.5,0.01%,United Nations Industrial Development Organisation ,Korea
+2019,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),1.82,0.0%,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),Korea
+2019,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),1.69,0.0%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Korea
+2019,"United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs",1.63,0.0%,"United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs",Korea
+2019,GEF-TF,1.59,0.0%,Global Environment Facility Trust Fund,Korea
+2019,World Customs Organization Customs Co-operation Fund,1.58,0.0%,World Customs Organization Customs Co-operation Fund,Korea
+2019,European Bank for Reconstruction and Development - technical co-operation and special funds (all EBRD countries of operations),1.17,0.0%,European Bank for Reconstruction and Development - technical co-operation and special funds (all EBRD countries of operations),Korea
+2019,Asian Productivity Organisation ,1.13,0.0%,Asian Productivity Organisation ,Korea
+2019,International Organisation for Migration ,1.11,0.0%,International Organisation for Migration ,Korea
+2019,United Nations Office of Co-ordination of Humanitarian Affairs ,0.96,0.0%,United Nations Office of Co-ordination of Humanitarian Affairs ,Korea
+2019,European Bank for Reconstruction and Development - Early Transition Countries Fund,0.96,0.0%,European Bank for Reconstruction and Development - Early Transition Countries Fund,Korea
+2019,Asia-Pacific Economic Cooperation Support Fund (except contributions tied to counter-terrorism activities),0.78,0.0%,Asia-Pacific Economic Cooperation Support Fund (except contributions tied to counter-terrorism activities),Korea
+2019,UNEP,0.74,0.0%,United Nations Environment Programme ,Korea
+2019,International Telecommunications Union,0.55,0.0%,International Telecommunications Union,Korea
+2019,OECD Development Centre ,0.4,0.0%,OECD Development Centre ,Korea
+2019,United Nations Framework Convention on Climate Change ,0.32,0.0%,United Nations Framework Convention on Climate Change ,Korea
+2019,UNWTO,0.26,0.0%,World Tourism Organization,Korea
+2019,CGIAR ,0.26,0.0%,CGIAR Fund,Korea
+2019,Universal Postal Union ,0.24,0.0%,Universal Postal Union ,Korea
+2019,International Tropical Timber Organisation ,0.22,0.0%,International Tropical Timber Organisation ,Korea
+2019,UNRWA,0.19,0.0%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Korea
+2019,United Nations Office on Drugs and Crime ,0.18,0.0%,United Nations Office on Drugs and Crime ,Korea
+2019,Convention to Combat Desertification ,0.16,0.0%,Convention to Combat Desertification ,Korea
+2019,United Nations Human Settlement Programme ,0.12,0.0%,United Nations Human Settlement Programme ,Korea
+2019,WFP,0.09,0.0%,World Food Programme ,Korea
+2019,Organization for Security and Co-operation in Europe,0.08,0.0%,Organization for Security and Co-operation in Europe,Korea
+2019,World Meteorological Organisation ,0.05,0.0%,World Meteorological Organisation ,Korea
+2019,International Cotton Advisory Committee ,0.04,0.0%,International Cotton Advisory Committee ,Korea
+2019,Colombo Plan,0.02,0.0%,Colombo Plan,Korea
+2019,International Organisation of the Francophonie,0.01,0.0%,International Organisation of the Francophonie,Korea
+2019,UNFPA,0.01,0.0%,United Nations Population Fund ,Korea
+2019,World Intellectual Property Organisation ,0.01,0.0%,World Intellectual Property Organisation ,Korea
+2020,IDA,125.8,0.24%,International Development Association ,Korea
+2020,IBRD,47.13,0.09%,International Bank for Reconstruction and Development ,Korea
+2020,CABEI,41.19,0.08%,Central American Bank for Economic Integration ,Korea
+2020,UN,38.69,0.07%,United Nations,Korea
+2020,ADF,31.42,0.06%,African Development Fund ,Korea
+2020,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",19.77,0.04%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",Korea
+2020,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",16.73,0.03%,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",Korea
+2020,GCF,14.36,0.03%,Green Climate Fund,Korea
+2020,International Development Association - Multilateral Debt Relief Initiative,9.73,0.02%,International Development Association - Multilateral Debt Relief Initiative,Korea
+2020,FAO,9.13,0.02%,Food and Agricultural Organisation,Korea
+2020,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",8.41,0.02%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Korea
+2020,International Labour Organisation - Regular Budget Supplementary Account,8.11,0.02%,International Labour Organisation - Regular Budget Supplementary Account,Korea
+2020,GGGI,8.09,0.02%,Global Green Growth Institute,Korea
+2020,World Health Organisation - assessed contributions,8.04,0.02%,World Health Organisation - assessed contributions,Korea
+2020,ADB,7.5,0.01%,Asian Development Bank,Korea
+2020,UNDP,6.53,0.01%,United Nations Development Programme ,Korea
+2020,CERF,5.58,0.01%,Central Emergency Response Fund,Korea
+2020,GAVI,5.25,0.01%,Global Alliance for Vaccines and Immunization ,Korea
+2020,International Vaccine Institute ,5.01,0.01%,International Vaccine Institute ,Korea
+2020,International drug purchase facility,4.79,0.01%,International drug purchase facility,Korea
+2020,United Nations Entity for Gender Equality and the Empowerment of Women,4.54,0.01%,United Nations Entity for Gender Equality and the Empowerment of Women,Korea
+2020,"United Nations Educational, Scientific and Cultural Organisation",4.45,0.01%,"United Nations Educational, Scientific and Cultural Organisation",Korea
+2020,IFAD,3.81,0.01%,International Fund for Agricultural Development ,Korea
+2020,International Monetary Fund - Poverty Reduction and Growth Trust ,3.8,0.01%,International Monetary Fund - Poverty Reduction and Growth Trust ,Korea
+2020,European Bank for Reconstruction and Development - Early Transition Countries Fund,3.62,0.01%,European Bank for Reconstruction and Development - Early Transition Countries Fund,Korea
+2020,International Atomic Energy Agency - assessed contributions,3.07,0.01%,International Atomic Energy Agency - assessed contributions,Korea
+2020,United Nations Volunteers ,2.73,0.01%,United Nations Volunteers ,Korea
+2020,UNICEF,2.73,0.01%,United Nations Children's Fund ,Korea
+2020,United Nations Office of the High Commissioner for Refugees,2.65,0.01%,United Nations Office of the High Commissioner for Refugees,Korea
+2020,UNIDO,2.56,0.0%,United Nations Industrial Development Organisation ,Korea
+2020,WFP,2.5,0.0%,World Food Programme ,Korea
+2020,World Customs Organization Customs Co-operation Fund,2.44,0.0%,World Customs Organization Customs Co-operation Fund,Korea
+2020,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),2.18,0.0%,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),Korea
+2020,United Nations Office of Co-ordination of Humanitarian Affairs ,1.89,0.0%,United Nations Office of Co-ordination of Humanitarian Affairs ,Korea
+2020,United Nations Peacebuilding Fund,1.54,0.0%,United Nations Peacebuilding Fund,Korea
+2020,Asian Productivity Organisation ,1.48,0.0%,Asian Productivity Organisation ,Korea
+2020,GEF-TF,1.41,0.0%,Global Environment Facility Trust Fund,Korea
+2020,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),1.35,0.0%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Korea
+2020,International Organisation for Migration ,1.34,0.0%,International Organisation for Migration ,Korea
+2020,Asia-Pacific Economic Cooperation Support Fund (except contributions tied to counter-terrorism activities),0.79,0.0%,Asia-Pacific Economic Cooperation Support Fund (except contributions tied to counter-terrorism activities),Korea
+2020,United Nations Office for Disaster Risk Reduction,0.58,0.0%,United Nations Office for Disaster Risk Reduction,Korea
+2020,International Telecommunications Union,0.54,0.0%,International Telecommunications Union,Korea
+2020,Intergovernmental Panel on Climate Change ,0.53,0.0%,Intergovernmental Panel on Climate Change ,Korea
+2020,OECD Development Centre ,0.45,0.0%,OECD Development Centre ,Korea
+2020,International Agency for Research on Cancer,0.45,0.0%,International Agency for Research on Cancer,Korea
+2020,World Trade Organisation - Doha Development Agenda Global Trust Fund ,0.34,0.0%,World Trade Organisation - Doha Development Agenda Global Trust Fund ,Korea
+2020,United Nations Framework Convention on Climate Change ,0.31,0.0%,United Nations Framework Convention on Climate Change ,Korea
+2020,UNEP,0.3,0.0%,United Nations Environment Programme ,Korea
+2020,CGIAR ,0.27,0.0%,CGIAR Fund,Korea
+2020,UNWTO,0.25,0.0%,World Tourism Organization,Korea
+2020,Universal Postal Union ,0.24,0.0%,Universal Postal Union ,Korea
+2020,International Tropical Timber Organisation ,0.22,0.0%,International Tropical Timber Organisation ,Korea
+2020,Convention to Combat Desertification ,0.19,0.0%,Convention to Combat Desertification ,Korea
+2020,UNFPA,0.18,0.0%,United Nations Population Fund ,Korea
+2020,"United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs",0.16,0.0%,"United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs",Korea
+2020,UNRWA,0.16,0.0%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Korea
+2020,United Nations Office on Drugs and Crime ,0.13,0.0%,United Nations Office on Drugs and Crime ,Korea
+2020,CITES,0.13,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Korea
+2020,Economic and Social Commission for Asia and the Pacific ,0.1,0.0%,Economic and Social Commission for Asia and the Pacific ,Korea
+2020,AfDB,0.08,0.0%,African Development Bank,Korea
+2020,United Nations Human Settlement Programme ,0.08,0.0%,United Nations Human Settlement Programme ,Korea
+2020,World Meteorological Organisation ,0.06,0.0%,World Meteorological Organisation ,Korea
+2020,International Cotton Advisory Committee ,0.04,0.0%,International Cotton Advisory Committee ,Korea
+2020,Organization for Security and Co-operation in Europe,0.03,0.0%,Organization for Security and Co-operation in Europe,Korea
+2020,Colombo Plan,0.02,0.0%,Colombo Plan,Korea
+2020,International Organisation of the Francophonie,0.01,0.0%,International Organisation of the Francophonie,Korea
+2020,World Intellectual Property Organisation ,0.01,0.0%,World Intellectual Property Organisation ,Korea
+2021,IDA,139.25,0.25%,International Development Association ,Korea
+2021,IBRD,97.46,0.17%,International Bank for Reconstruction and Development ,Korea
+2021,CABEI,65.38,0.12%,Central American Bank for Economic Integration ,Korea
+2021,ADF,31.38,0.06%,African Development Fund ,Korea
+2021,UN,30.85,0.05%,United Nations,Korea
+2021,GCF,29.55,0.05%,Green Climate Fund,Korea
+2021,IFC,26.91,0.05%,International Finance Corporation ,Korea
+2021,ADB,24.47,0.04%,Asian Development Bank,Korea
+2021,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",22.82,0.04%,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",Korea
+2021,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",22.67,0.04%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",Korea
+2021,Asian Development Fund ,18.85,0.03%,Asian Development Fund ,Korea
+2021,International Development Association - Multilateral Debt Relief Initiative,11.19,0.02%,International Development Association - Multilateral Debt Relief Initiative,Korea
+2021,GGGI,10.46,0.02%,Global Green Growth Institute,Korea
+2021,FAO,10.1,0.02%,Food and Agricultural Organisation,Korea
+2021,International Labour Organisation - Assessed Contributions,9.14,0.02%,International Labour Organisation - Assessed Contributions,Korea
+2021,UNDP,8.03,0.01%,United Nations Development Programme ,Korea
+2021,World Health Organisation - assessed contributions,7.39,0.01%,World Health Organisation - assessed contributions,Korea
+2021,CERF,5.43,0.01%,Central Emergency Response Fund,Korea
+2021,International Vaccine Institute ,5.39,0.01%,International Vaccine Institute ,Korea
+2021,"United Nations Educational, Scientific and Cultural Organisation",4.49,0.01%,"United Nations Educational, Scientific and Cultural Organisation",Korea
+2021,United Nations Entity for Gender Equality and the Empowerment of Women,4.18,0.01%,United Nations Entity for Gender Equality and the Empowerment of Women,Korea
+2021,WFP,4.13,0.01%,World Food Programme ,Korea
+2021,IFAD,4.1,0.01%,International Fund for Agricultural Development ,Korea
+2021,AfDB,3.83,0.01%,African Development Bank,Korea
+2021,International Monetary Fund - Poverty Reduction and Growth Trust ,3.65,0.01%,International Monetary Fund - Poverty Reduction and Growth Trust ,Korea
+2021,United Nations Volunteers ,3.31,0.01%,United Nations Volunteers ,Korea
+2021,UNICEF,3.28,0.01%,United Nations Children's Fund ,Korea
+2021,United Nations Office of the High Commissioner for Refugees,3.13,0.01%,United Nations Office of the High Commissioner for Refugees,Korea
+2021,International Atomic Energy Agency - assessed contributions,2.94,0.01%,International Atomic Energy Agency - assessed contributions,Korea
+2021,UNIDO,2.71,0.0%,United Nations Industrial Development Organisation ,Korea
+2021,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),2.08,0.0%,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),Korea
+2021,European Bank for Reconstruction and Development - Early Transition Countries Fund,1.87,0.0%,European Bank for Reconstruction and Development - Early Transition Countries Fund,Korea
+2021,United Nations Office of Co-ordination of Humanitarian Affairs ,1.81,0.0%,United Nations Office of Co-ordination of Humanitarian Affairs ,Korea
+2021,GEF-TF,1.75,0.0%,Global Environment Facility Trust Fund,Korea
+2021,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),1.68,0.0%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Korea
+2021,Asian Productivity Organisation ,1.44,0.0%,Asian Productivity Organisation ,Korea
+2021,United Nations Peacebuilding Fund,1.43,0.0%,United Nations Peacebuilding Fund,Korea
+2021,International Organisation for Migration ,1.25,0.0%,International Organisation for Migration ,Korea
+2021,EBRD,0.73,0.0%,European Bank for Reconstruction and Development,Korea
+2021,Asia-Pacific Economic Cooperation Support Fund (except contributions tied to counter-terrorism activities),0.63,0.0%,Asia-Pacific Economic Cooperation Support Fund (except contributions tied to counter-terrorism activities),Korea
+2021,International Telecommunications Union,0.58,0.0%,International Telecommunications Union,Korea
+2021,United Nations Office for Disaster Risk Reduction,0.54,0.0%,United Nations Office for Disaster Risk Reduction,Korea
+2021,Intergovernmental Panel on Climate Change ,0.51,0.0%,Intergovernmental Panel on Climate Change ,Korea
+2021,International Agency for Research on Cancer,0.49,0.0%,International Agency for Research on Cancer,Korea
+2021,United Nations Framework Convention on Climate Change ,0.49,0.0%,United Nations Framework Convention on Climate Change ,Korea
+2021,OECD Development Centre ,0.48,0.0%,OECD Development Centre ,Korea
+2021,UNEP,0.4,0.0%,United Nations Environment Programme ,Korea
+2021,World Intellectual Property Organisation ,0.3,0.0%,World Intellectual Property Organisation ,Korea
+2021,World Trade Organisation - Doha Development Agenda Global Trust Fund ,0.29,0.0%,World Trade Organisation - Doha Development Agenda Global Trust Fund ,Korea
+2021,CGIAR ,0.27,0.0%,CGIAR Fund,Korea
+2021,UNWTO,0.24,0.0%,World Tourism Organization,Korea
+2021,Universal Postal Union ,0.23,0.0%,Universal Postal Union ,Korea
+2021,International Tropical Timber Organisation ,0.21,0.0%,International Tropical Timber Organisation ,Korea
+2021,Convention to Combat Desertification ,0.18,0.0%,Convention to Combat Desertification ,Korea
+2021,UNRWA,0.17,0.0%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Korea
+2021,UNFPA,0.17,0.0%,United Nations Population Fund ,Korea
+2021,CITES,0.12,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Korea
+2021,United Nations Office on Drugs and Crime ,0.11,0.0%,United Nations Office on Drugs and Crime ,Korea
+2021,United Nations Human Settlement Programme ,0.08,0.0%,United Nations Human Settlement Programme ,Korea
+2021,World Meteorological Organisation ,0.07,0.0%,World Meteorological Organisation ,Korea
+2021,Organization for Security and Co-operation in Europe,0.07,0.0%,Organization for Security and Co-operation in Europe,Korea
+2021,International Cotton Advisory Committee ,0.04,0.0%,International Cotton Advisory Committee ,Korea
+2021,Colombo Plan,0.01,0.0%,Colombo Plan,Korea
+2021,International Organisation of the Francophonie,0.01,0.0%,International Organisation of the Francophonie,Korea
+2021,World Health Organisation - core voluntary contributions account,,,World Health Organisation - core voluntary contributions account,Korea
+2021,GAVI,,,Global Alliance for Vaccines and Immunization ,Korea
+2021,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",,,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Korea
+2021,International drug purchase facility,,,International drug purchase facility,Korea
+2022,IDA,137.5,0.26%,International Development Association ,Korea
+2022,IBRD,72.41,0.14%,International Bank for Reconstruction and Development ,Korea
+2022,UN,39.0,0.07%,United Nations,Korea
+2022,GCF,33.74,0.06%,Green Climate Fund,Korea
+2022,ADF,31.21,0.06%,African Development Fund ,Korea
+2022,IFC,28.25,0.05%,International Finance Corporation ,Korea
+2022,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",22.66,0.04%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",Korea
+2022,Asian Development Fund ,18.62,0.03%,Asian Development Fund ,Korea
+2022,CABEI,14.96,0.03%,Central American Bank for Economic Integration ,Korea
+2022,ADB,14.89,0.03%,Asian Development Bank,Korea
+2022,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",14.74,0.03%,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",Korea
+2022,AfDB,13.0,0.02%,African Development Bank,Korea
+2022,International Development Association - Multilateral Debt Relief Initiative,12.28,0.02%,International Development Association - Multilateral Debt Relief Initiative,Korea
+2022,GAVI,10.4,0.02%,Global Alliance for Vaccines and Immunization ,Korea
+2022,International drug purchase facility,10.08,0.02%,International drug purchase facility,Korea
+2022,GGGI,10.08,0.02%,Global Green Growth Institute,Korea
+2022,UNDP,8.58,0.02%,United Nations Development Programme ,Korea
+2022,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",8.3,0.02%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Korea
+2022,FAO,8.26,0.02%,Food and Agricultural Organisation,Korea
+2022,World Health Organisation - assessed contributions,7.3,0.01%,World Health Organisation - assessed contributions,Korea
+2022,International Vaccine Institute ,6.27,0.01%,International Vaccine Institute ,Korea
+2022,CERF,6.05,0.01%,Central Emergency Response Fund,Korea
+2022,International Labour Organisation - Assessed Contributions,5.64,0.01%,International Labour Organisation - Assessed Contributions,Korea
+2022,"United Nations Educational, Scientific and Cultural Organisation",4.99,0.01%,"United Nations Educational, Scientific and Cultural Organisation",Korea
+2022,WFP,4.12,0.01%,World Food Programme ,Korea
+2022,IFAD,3.99,0.01%,International Fund for Agricultural Development ,Korea
+2022,United Nations Volunteers ,3.93,0.01%,United Nations Volunteers ,Korea
+2022,United Nations Entity for Gender Equality and the Empowerment of Women,3.69,0.01%,United Nations Entity for Gender Equality and the Empowerment of Women,Korea
+2022,UNICEF,3.53,0.01%,United Nations Children's Fund ,Korea
+2022,"International Monetary Fund (IMF), Other",3.51,0.01%,"International Monetary Fund (IMF), Other",Korea
+2022,International Atomic Energy Agency - assessed contributions,3.13,0.01%,International Atomic Energy Agency - assessed contributions,Korea
+2022,United Nations Office of the High Commissioner for Refugees,2.71,0.01%,United Nations Office of the High Commissioner for Refugees,Korea
+2022,UNIDO,2.6,0.0%,United Nations Industrial Development Organisation ,Korea
+2022,United Nations Peacebuilding Fund,2.52,0.0%,United Nations Peacebuilding Fund,Korea
+2022,"United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs",2.52,0.0%,"United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs",Korea
+2022,International Organisation for Migration ,2.21,0.0%,International Organisation for Migration ,Korea
+2022,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),2.21,0.0%,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),Korea
+2022,European Bank for Reconstruction and Development - Early Transition Countries Fund,2.02,0.0%,European Bank for Reconstruction and Development - Early Transition Countries Fund,Korea
+2022,GEF-TF,1.89,0.0%,Global Environment Facility Trust Fund,Korea
+2022,Asian Productivity Organisation ,1.33,0.0%,Asian Productivity Organisation ,Korea
+2022,United Nations Office of Co-ordination of Humanitarian Affairs ,1.01,0.0%,United Nations Office of Co-ordination of Humanitarian Affairs ,Korea
+2022,Asia-Pacific Economic Cooperation Support Fund (except contributions tied to counter-terrorism activities),0.62,0.0%,Asia-Pacific Economic Cooperation Support Fund (except contributions tied to counter-terrorism activities),Korea
+2022,United Nations Office for Disaster Risk Reduction,0.6,0.0%,United Nations Office for Disaster Risk Reduction,Korea
+2022,International Telecommunications Union,0.57,0.0%,International Telecommunications Union,Korea
+2022,United Nations Framework Convention on Climate Change ,0.53,0.0%,United Nations Framework Convention on Climate Change ,Korea
+2022,Intergovernmental Panel on Climate Change ,0.51,0.0%,Intergovernmental Panel on Climate Change ,Korea
+2022,International Agency for Research on Cancer,0.5,0.0%,International Agency for Research on Cancer,Korea
+2022,UNEP,0.49,0.0%,United Nations Environment Programme ,Korea
+2022,EBRD,0.48,0.0%,European Bank for Reconstruction and Development,Korea
+2022,OECD Development Centre ,0.43,0.0%,OECD Development Centre ,Korea
+2022,World Trade Organisation - Doha Development Agenda Global Trust Fund ,0.26,0.0%,World Trade Organisation - Doha Development Agenda Global Trust Fund ,Korea
+2022,CGIAR ,0.26,0.0%,CGIAR Fund,Korea
+2022,UNWTO,0.24,0.0%,World Tourism Organization,Korea
+2022,World Health Organisation - core voluntary contributions account,0.23,0.0%,World Health Organisation - core voluntary contributions account,Korea
+2022,Universal Postal Union ,0.23,0.0%,Universal Postal Union ,Korea
+2022,International Tropical Timber Organisation ,0.21,0.0%,International Tropical Timber Organisation ,Korea
+2022,Convention to Combat Desertification ,0.19,0.0%,Convention to Combat Desertification ,Korea
+2022,UNFPA,0.16,0.0%,United Nations Population Fund ,Korea
+2022,UNRWA,0.16,0.0%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Korea
+2022,CITES,0.12,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Korea
+2022,United Nations Human Settlement Programme ,0.08,0.0%,United Nations Human Settlement Programme ,Korea
+2022,Organization for Security and Co-operation in Europe,0.07,0.0%,Organization for Security and Co-operation in Europe,Korea
+2022,World Meteorological Organisation ,0.06,0.0%,World Meteorological Organisation ,Korea
+2022,MLF-MP,0.06,0.0%,Multilateral Fund for the Implementation of the Montreal Protocol ,Korea
+2022,International Cotton Advisory Committee ,0.04,0.0%,International Cotton Advisory Committee ,Korea
+2022,Colombo Plan,0.02,0.0%,Colombo Plan,Korea
+2022,World Intellectual Property Organisation ,0.01,0.0%,World Intellectual Property Organisation ,Korea
+2022,International Organisation of the Francophonie,0.01,0.0%,International Organisation of the Francophonie,Korea
+2023,IDA,284.14,0.46%,International Development Association ,Korea
+2023,IBRD,72.64,0.12%,International Bank for Reconstruction and Development ,Korea
+2023,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",58.0,0.09%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Korea
+2023,CABEI,42.98,0.07%,Central American Bank for Economic Integration ,Korea
+2023,UN,39.16,0.06%,United Nations,Korea
+2023,ADF,36.09,0.06%,African Development Fund ,Korea
+2023,GCF,33.26,0.05%,Green Climate Fund,Korea
+2023,IFC,26.63,0.04%,International Finance Corporation ,Korea
+2023,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",23.62,0.04%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",Korea
+2023,IMF's Resilience and Sustainability Trust,19.48,0.03%,IMF's Resilience and Sustainability Trust,Korea
+2023,Asian Development Fund ,18.42,0.03%,Asian Development Fund ,Korea
+2023,ADB,15.22,0.02%,Asian Development Bank,Korea
+2023,International Development Association - Multilateral Debt Relief Initiative,12.73,0.02%,International Development Association - Multilateral Debt Relief Initiative,Korea
+2023,GGGI,12.08,0.02%,Global Green Growth Institute,Korea
+2023,UNDP,10.71,0.02%,United Nations Development Programme ,Korea
+2023,FAO,10.44,0.02%,Food and Agricultural Organisation,Korea
+2023,World Health Organisation - assessed contributions,9.79,0.02%,World Health Organisation - assessed contributions,Korea
+2023,AfDB,8.57,0.01%,African Development Bank,Korea
+2023,International Vaccine Institute ,6.16,0.01%,International Vaccine Institute ,Korea
+2023,CERF,6.0,0.01%,Central Emergency Response Fund,Korea
+2023,International Labour Organisation - Assessed Contributions,5.99,0.01%,International Labour Organisation - Assessed Contributions,Korea
+2023,"United Nations Educational, Scientific and Cultural Organisation",5.03,0.01%,"United Nations Educational, Scientific and Cultural Organisation",Korea
+2023,International drug purchase facility,4.97,0.01%,International drug purchase facility,Korea
+2023,GAVI,4.96,0.01%,Global Alliance for Vaccines and Immunization ,Korea
+2023,WFP,4.56,0.01%,World Food Programme ,Korea
+2023,IFAD,4.46,0.01%,International Fund for Agricultural Development ,Korea
+2023,United Nations Peacebuilding Fund,4.34,0.01%,United Nations Peacebuilding Fund,Korea
+2023,United Nations Entity for Gender Equality and the Empowerment of Women,4.05,0.01%,United Nations Entity for Gender Equality and the Empowerment of Women,Korea
+2023,UNICEF,4.0,0.01%,United Nations Children's Fund ,Korea
+2023,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",4.0,0.01%,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",Korea
+2023,"United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs",3.8,0.01%,"United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs",Korea
+2023,United Nations Office of the High Commissioner for Refugees,3.76,0.01%,United Nations Office of the High Commissioner for Refugees,Korea
+2023,International Atomic Energy Agency - assessed contributions,3.72,0.01%,International Atomic Energy Agency - assessed contributions,Korea
+2023,United Nations Volunteers ,3.57,0.01%,United Nations Volunteers ,Korea
+2023,UNIDO,2.74,0.0%,United Nations Industrial Development Organisation ,Korea
+2023,EBRD,2.28,0.0%,European Bank for Reconstruction and Development,Korea
+2023,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),2.03,0.0%,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),Korea
+2023,International Monetary Fund - Poverty Reduction and Growth Trust ,2.0,0.0%,International Monetary Fund - Poverty Reduction and Growth Trust ,Korea
+2023,European Bank for Reconstruction and Development - Early Transition Countries Fund,2.0,0.0%,European Bank for Reconstruction and Development - Early Transition Countries Fund,Korea
+2023,International Organisation for Migration ,1.95,0.0%,International Organisation for Migration ,Korea
+2023,GEF-TF,1.85,0.0%,Global Environment Facility Trust Fund,Korea
+2023,World Meteorological Organisation ,1.74,0.0%,World Meteorological Organisation ,Korea
+2023,UNRWA,1.73,0.0%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Korea
+2023,Asian Productivity Organisation ,1.32,0.0%,Asian Productivity Organisation ,Korea
+2023,United Nations Framework Convention on Climate Change ,1.06,0.0%,United Nations Framework Convention on Climate Change ,Korea
+2023,United Nations Office of Co-ordination of Humanitarian Affairs ,1.0,0.0%,United Nations Office of Co-ordination of Humanitarian Affairs ,Korea
+2023,AF,0.92,0.0%,Adaptation Fund,Korea
+2023,Asia-Pacific Economic Cooperation Support Fund (except contributions tied to counter-terrorism activities),0.69,0.0%,Asia-Pacific Economic Cooperation Support Fund (except contributions tied to counter-terrorism activities),Korea
+2023,International Telecommunications Union,0.57,0.0%,International Telecommunications Union,Korea
+2023,UNEP,0.51,0.0%,United Nations Environment Programme ,Korea
+2023,OECD Development Centre ,0.49,0.0%,OECD Development Centre ,Korea
+2023,International Agency for Research on Cancer,0.47,0.0%,International Agency for Research on Cancer,Korea
+2023,Intergovernmental Panel on Climate Change ,0.42,0.0%,Intergovernmental Panel on Climate Change ,Korea
+2023,World Intellectual Property Organisation ,0.42,0.0%,World Intellectual Property Organisation ,Korea
+2023,World Trade Organisation - Doha Development Agenda Global Trust Fund ,0.3,0.0%,World Trade Organisation - Doha Development Agenda Global Trust Fund ,Korea
+2023,Common Fund for Commodities ,0.25,0.0%,Common Fund for Commodities ,Korea
+2023,UNWTO,0.25,0.0%,World Tourism Organization,Korea
+2023,Universal Postal Union ,0.22,0.0%,Universal Postal Union ,Korea
+2023,International Tropical Timber Organisation ,0.21,0.0%,International Tropical Timber Organisation ,Korea
+2023,Convention to Combat Desertification ,0.2,0.0%,Convention to Combat Desertification ,Korea
+2023,UNFPA,0.16,0.0%,United Nations Population Fund ,Korea
+2023,CITES,0.13,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Korea
+2023,United Nations Human Settlement Programme ,0.08,0.0%,United Nations Human Settlement Programme ,Korea
+2023,Organization for Security and Co-operation in Europe,0.05,0.0%,Organization for Security and Co-operation in Europe,Korea
+2023,International Cotton Advisory Committee ,0.04,0.0%,International Cotton Advisory Committee ,Korea
+2023,International Organisation of the Francophonie,0.02,0.0%,International Organisation of the Francophonie,Korea
+2023,Colombo Plan,0.02,0.0%,Colombo Plan,Korea
+2023,Economic and Social Commission for Asia and the Pacific ,0.02,0.0%,Economic and Social Commission for Asia and the Pacific ,Korea
+2023,"Inter-American Development Bank, Fund for Special Operations ",0.0,0.0%,"Inter-American Development Bank, Fund for Special Operations ",Korea
+2023,World Health Organisation - core voluntary contributions account,0.0,0.0%,World Health Organisation - core voluntary contributions account,Korea
+2023,International Monetary Fund - Poverty Reduction and Growth - Multilateral Debt Relief Initiative Trust,0.0,0.0%,International Monetary Fund - Poverty Reduction and Growth - Multilateral Debt Relief Initiative Trust,Korea

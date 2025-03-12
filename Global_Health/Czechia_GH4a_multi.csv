@@ -4,16 +4,16 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,CEB,0.0,0.0%,council of europe development bank,Czechia
 2022,CEB,0.0,0.0%,council of europe development bank,Czechia
 2023,CEB,0.0,0.0%,council of europe development bank,Czechia
-2019,EC-DSB,5.33,0.32%,european commission development share of budget,Czechia
-2020,EC-DSB,5.23,0.26%,european commission development share of budget,Czechia
-2021,EC-DSB,12.86,0.3%,european commission development share of budget,Czechia
-2022,EC-DSB,21.89,0.56%,european commission development share of budget,Czechia
-2023,EC-DSB,21.26,0.64%,european commission development share of budget,Czechia
-2019,EC-EDF,3.96,0.24%,european commission european development fund,Czechia
-2020,EC-EDF,3.6,0.18%,european commission european development fund,Czechia
-2021,EC-EDF,2.53,0.06%,european commission european development fund,Czechia
-2022,EC-EDF,0.82,0.02%,european commission european development fund,Czechia
-2023,EC-EDF,0.18,0.01%,european commission european development fund,Czechia
+2019,EC-DSB,5.33,32.0%,european commission development share of budget,Czechia
+2020,EC-DSB,5.23,26.0%,european commission development share of budget,Czechia
+2021,EC-DSB,12.86,30.0%,european commission development share of budget,Czechia
+2022,EC-DSB,21.89,56.00000000000001%,european commission development share of budget,Czechia
+2023,EC-DSB,21.26,64.0%,european commission development share of budget,Czechia
+2019,EC-EDF,3.96,24.0%,european commission european development fund,Czechia
+2020,EC-EDF,3.6,18.0%,european commission european development fund,Czechia
+2021,EC-EDF,2.53,6.0%,european commission european development fund,Czechia
+2022,EC-EDF,0.82,2.0%,european commission european development fund,Czechia
+2023,EC-EDF,0.18,1.0%,european commission european development fund,Czechia
 2019,FAO,0.08,0.0%,food and agricultural organisation,Czechia
 2020,FAO,0.08,0.0%,food and agricultural organisation,Czechia
 2021,FAO,0.07,0.0%,food and agricultural organisation,Czechia
@@ -23,16 +23,16 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2020,GEF-TF,0.01,0.0%,global environment facility trust fund,Czechia
 2022,GEF-TF,0.03,0.0%,global environment facility trust fund,Czechia
 2023,GEF-TF,0.02,0.0%,global environment facility trust fund,Czechia
-2019,IBRD,0.26,0.02%,international bank for reconstruction and development,Czechia
-2020,IBRD,0.39,0.02%,international bank for reconstruction and development,Czechia
-2021,IBRD,0.56,0.01%,international bank for reconstruction and development,Czechia
-2022,IBRD,0.75,0.02%,international bank for reconstruction and development,Czechia
-2023,IBRD,0.61,0.02%,international bank for reconstruction and development,Czechia
-2019,IDA,0.63,0.04%,international development association,Czechia
-2020,IDA,0.64,0.03%,international development association,Czechia
-2021,IDA,0.73,0.02%,international development association,Czechia
-2022,IDA,0.73,0.02%,international development association,Czechia
-2023,IDA,1.29,0.04%,international development association,Czechia
+2019,IBRD,0.26,2.0%,international bank for reconstruction and development,Czechia
+2020,IBRD,0.39,2.0%,international bank for reconstruction and development,Czechia
+2021,IBRD,0.56,1.0%,international bank for reconstruction and development,Czechia
+2022,IBRD,0.75,2.0%,international bank for reconstruction and development,Czechia
+2023,IBRD,0.61,2.0%,international bank for reconstruction and development,Czechia
+2019,IDA,0.63,4.0%,international development association,Czechia
+2020,IDA,0.64,3.0%,international development association,Czechia
+2021,IDA,0.73,2.0%,international development association,Czechia
+2022,IDA,0.73,2.0%,international development association,Czechia
+2023,IDA,1.29,4.0%,international development association,Czechia
 2022,IFC,0.01,0.0%,international finance corporation,Czechia
 2023,IFC,0.0,0.0%,international finance corporation,Czechia
 2019,UN,0.0,0.0%,united nations,Czechia
@@ -45,10 +45,10 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,UNDP,0.01,0.0%,united nations development programme,Czechia
 2022,UNDP,0.0,0.0%,united nations development programme,Czechia
 2019,UNECE-EXB,0.0,0.0%,united nations economic commission for europe extrabudgetary contributions only,Czechia
-2019,WHO-AC,1.41,0.08%,world health organisation assessed contributions,Czechia
-2020,WHO-AC,1.24,0.06%,world health organisation assessed contributions,Czechia
-2021,WHO-AC,1.04,0.02%,world health organisation assessed contributions,Czechia
-2022,WHO-AC,0.95,0.02%,world health organisation assessed contributions,Czechia
-2023,WHO-AC,0.47,0.01%,world health organisation assessed contributions,Czechia
+2019,WHO-AC,1.41,8.0%,world health organisation assessed contributions,Czechia
+2020,WHO-AC,1.24,6.0%,world health organisation assessed contributions,Czechia
+2021,WHO-AC,1.04,2.0%,world health organisation assessed contributions,Czechia
+2022,WHO-AC,0.95,2.0%,world health organisation assessed contributions,Czechia
+2023,WHO-AC,0.47,1.0%,world health organisation assessed contributions,Czechia
 2021,WHO-CVCA,0.02,0.0%,world health organisation core voluntary contributions account,Czechia
-2023,WHO-CVCA,0.55,0.02%,world health organisation core voluntary contributions account,Czechia
+2023,WHO-CVCA,0.55,2.0%,world health organisation core voluntary contributions account,Czechia

@@ -11,15 +11,15 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,AfDB,0.18,0.0%,african development bank,France
 2022,AfDB,0.18,0.0%,african development bank,France
 2023,AfDB,0.73,0.0%,african development bank,France
-2019,EC-DSB,155.0,0.09%,european commission development share of budget,France
-2020,EC-DSB,161.94,0.09%,european commission development share of budget,France
-2021,EC-DSB,177.76,0.1%,european commission development share of budget,France
-2022,EC-DSB,213.12,0.11%,european commission development share of budget,France
-2023,EC-DSB,211.47,0.1%,european commission development share of budget,France
-2019,EC-EDF,52.21,0.03%,european commission european development fund,France
-2020,EC-EDF,53.68,0.03%,european commission european development fund,France
-2021,EC-EDF,27.48,0.02%,european commission european development fund,France
-2022,EC-EDF,12.9,0.01%,european commission european development fund,France
+2019,EC-DSB,155.0,9.0%,european commission development share of budget,France
+2020,EC-DSB,161.94,9.0%,european commission development share of budget,France
+2021,EC-DSB,177.76,10.0%,european commission development share of budget,France
+2022,EC-DSB,213.12,11.0%,european commission development share of budget,France
+2023,EC-DSB,211.47,10.0%,european commission development share of budget,France
+2019,EC-EDF,52.21,3.0%,european commission european development fund,France
+2020,EC-EDF,53.68,3.0%,european commission european development fund,France
+2021,EC-EDF,27.48,2.0%,european commission european development fund,France
+2022,EC-EDF,12.9,1.0%,european commission european development fund,France
 2023,EC-EDF,2.63,0.0%,european commission european development fund,France
 2019,FAO,0.04,0.0%,food and agricultural organisation,France
 2020,FAO,0.03,0.0%,food and agricultural organisation,France
@@ -31,11 +31,11 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,IBRD,2.54,0.0%,international bank for reconstruction and development,France
 2022,IBRD,2.75,0.0%,international bank for reconstruction and development,France
 2023,IBRD,2.16,0.0%,international bank for reconstruction and development,France
-2019,IDA,36.11,0.02%,international development association,France
-2020,IDA,32.97,0.02%,international development association,France
-2021,IDA,43.48,0.02%,international development association,France
-2022,IDA,45.25,0.02%,international development association,France
-2023,IDA,96.26,0.05%,international development association,France
+2019,IDA,36.11,2.0%,international development association,France
+2020,IDA,32.97,2.0%,international development association,France
+2021,IDA,43.48,2.0%,international development association,France
+2022,IDA,45.25,2.0%,international development association,France
+2023,IDA,96.26,5.0%,international development association,France
 2019,IDB-IIC-MIF,0.07,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,France
 2020,IDB-IIC-MIF,0.03,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,France
 2021,IDB-IIC-MIF,0.01,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,France
@@ -56,11 +56,11 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,UNFPA,1.06,0.0%,united nations population fund,France
 2022,UNFPA,1.44,0.0%,united nations population fund,France
 2023,UNFPA,1.35,0.0%,united nations population fund,France
-2019,UNRWA,11.74,0.01%,united nations relief and works agency for palestine refugees in the near east,France
-2020,UNRWA,11.99,0.01%,united nations relief and works agency for palestine refugees in the near east,France
-2021,UNRWA,9.06,0.01%,united nations relief and works agency for palestine refugees in the near east,France
-2022,UNRWA,15.76,0.01%,united nations relief and works agency for palestine refugees in the near east,France
-2023,UNRWA,29.71,0.01%,united nations relief and works agency for palestine refugees in the near east,France
+2019,UNRWA,11.74,1.0%,united nations relief and works agency for palestine refugees in the near east,France
+2020,UNRWA,11.99,1.0%,united nations relief and works agency for palestine refugees in the near east,France
+2021,UNRWA,9.06,1.0%,united nations relief and works agency for palestine refugees in the near east,France
+2022,UNRWA,15.76,1.0%,united nations relief and works agency for palestine refugees in the near east,France
+2023,UNRWA,29.71,1.0%,united nations relief and works agency for palestine refugees in the near east,France
 2019,WFP,0.02,0.0%,world food programme,France
 2019,,0.9,0.0%,united nations children’s fund,France
 2020,,0.87,0.0%,united nations children’s fund,France

@@ -1,6 +1,6 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
 2019,ADF,1.35,0.0%,african development fund,Italy
-2020,ADF,2.13,0.01%,african development fund,Italy
+2020,ADF,2.13,1.0%,african development fund,Italy
 2021,ADF,1.2,0.0%,african development fund,Italy
 2022,ADF,1.8,0.0%,african development fund,Italy
 2023,ADF,1.69,0.0%,african development fund,Italy
@@ -14,49 +14,49 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,CEB,0.02,0.0%,council of europe development bank,Italy
 2022,CEB,0.02,0.0%,council of europe development bank,Italy
 2023,CEB,0.01,0.0%,council of europe development bank,Italy
-2019,EC-DSB,36.52,0.1%,european commission development share of budget,Italy
-2020,EC-DSB,36.94,0.1%,european commission development share of budget,Italy
-2021,EC-DSB,86.9,0.08%,european commission development share of budget,Italy
-2022,EC-DSB,152.73,0.2%,european commission development share of budget,Italy
-2023,EC-DSB,165.4,0.41%,european commission development share of budget,Italy
-2019,EC-EDF,52.02,0.15%,european commission european development fund,Italy
-2020,EC-EDF,47.93,0.14%,european commission european development fund,Italy
-2021,EC-EDF,32.02,0.03%,european commission european development fund,Italy
-2022,EC-EDF,11.89,0.02%,european commission european development fund,Italy
-2023,EC-EDF,2.78,0.01%,european commission european development fund,Italy
+2019,EC-DSB,36.52,10.0%,european commission development share of budget,Italy
+2020,EC-DSB,36.94,10.0%,european commission development share of budget,Italy
+2021,EC-DSB,86.9,8.0%,european commission development share of budget,Italy
+2022,EC-DSB,152.73,20.0%,european commission development share of budget,Italy
+2023,EC-DSB,165.4,41.0%,european commission development share of budget,Italy
+2019,EC-EDF,52.02,15.0%,european commission european development fund,Italy
+2020,EC-EDF,47.93,14.000000000000002%,european commission european development fund,Italy
+2021,EC-EDF,32.02,3.0%,european commission european development fund,Italy
+2022,EC-EDF,11.89,2.0%,european commission european development fund,Italy
+2023,EC-EDF,2.78,1.0%,european commission european development fund,Italy
 2019,FAO,1.26,0.0%,food and agricultural organisation,Italy
 2020,FAO,0.74,0.0%,food and agricultural organisation,Italy
 2021,FAO,0.72,0.0%,food and agricultural organisation,Italy
 2022,FAO,0.95,0.0%,food and agricultural organisation,Italy
 2023,FAO,0.74,0.0%,food and agricultural organisation,Italy
-2019,GAVI,31.02,0.09%,global alliance for vaccines and immunization,Italy
-2020,GAVI,30.84,0.09%,global alliance for vaccines and immunization,Italy
-2021,GAVI,436.16,0.43%,global alliance for vaccines and immunization,Italy
-2022,GAVI,25.86,0.03%,global alliance for vaccines and immunization,Italy
-2023,GAVI,20.39,0.05%,global alliance for vaccines and immunization,Italy
+2019,GAVI,31.02,9.0%,global alliance for vaccines and immunization,Italy
+2020,GAVI,30.84,9.0%,global alliance for vaccines and immunization,Italy
+2021,GAVI,436.16,43.0%,global alliance for vaccines and immunization,Italy
+2022,GAVI,25.86,3.0%,global alliance for vaccines and immunization,Italy
+2023,GAVI,20.39,5.0%,global alliance for vaccines and immunization,Italy
 2023,GCF,0.01,0.0%,green climate fund,Italy
 2019,GEF-TF,0.03,0.0%,global environment facility trust fund,Italy
 2020,GEF-TF,0.2,0.0%,global environment facility trust fund,Italy
 2021,GEF-TF,0.78,0.0%,global environment facility trust fund,Italy
 2022,GEF-TF,0.26,0.0%,global environment facility trust fund,Italy
 2023,GEF-TF,0.28,0.0%,global environment facility trust fund,Italy
-2019,GFATM,62.37,0.18%,global fund to fight aids tuberculosis and malaria,Italy
-2020,GFATM,59.17,0.17%,global fund to fight aids tuberculosis and malaria,Italy
-2021,GFATM,60.17,0.06%,global fund to fight aids tuberculosis and malaria,Italy
-2022,GFATM,57.81,0.08%,global fund to fight aids tuberculosis and malaria,Italy
-2023,GFATM,62.93,0.16%,global fund to fight aids tuberculosis and malaria,Italy
+2019,GFATM,62.37,18.0%,global fund to fight aids tuberculosis and malaria,Italy
+2020,GFATM,59.17,17.0%,global fund to fight aids tuberculosis and malaria,Italy
+2021,GFATM,60.17,6.0%,global fund to fight aids tuberculosis and malaria,Italy
+2022,GFATM,57.81,8.0%,global fund to fight aids tuberculosis and malaria,Italy
+2023,GFATM,62.93,16.0%,global fund to fight aids tuberculosis and malaria,Italy
 2019,IBRD,0.0,0.0%,international bank for reconstruction and development,Italy
-2020,IBRD,3.23,0.01%,international bank for reconstruction and development,Italy
+2020,IBRD,3.23,1.0%,international bank for reconstruction and development,Italy
 2021,IBRD,4.71,0.0%,international bank for reconstruction and development,Italy
-2022,IBRD,5.57,0.01%,international bank for reconstruction and development,Italy
-2023,IBRD,5.48,0.01%,international bank for reconstruction and development,Italy
+2022,IBRD,5.57,1.0%,international bank for reconstruction and development,Italy
+2023,IBRD,5.48,1.0%,international bank for reconstruction and development,Italy
 2021,ICGEB,1.2,0.0%,international centre for genetic engineering and biotechnology,Italy
 2023,ICGEB,1.08,0.0%,international centre for genetic engineering and biotechnology,Italy
-2019,IDA,32.1,0.09%,international development association,Italy
-2020,IDA,27.16,0.08%,international development association,Italy
-2021,IDA,24.79,0.02%,international development association,Italy
-2022,IDA,32.76,0.04%,international development association,Italy
-2023,IDA,35.49,0.09%,international development association,Italy
+2019,IDA,32.1,9.0%,international development association,Italy
+2020,IDA,27.16,8.0%,international development association,Italy
+2021,IDA,24.79,2.0%,international development association,Italy
+2022,IDA,32.76,4.0%,international development association,Italy
+2023,IDA,35.49,9.0%,international development association,Italy
 2019,IDB-IIC-MIF,0.44,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Italy
 2020,IDB-IIC-MIF,0.26,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Italy
 2021,IDB-IIC-MIF,0.08,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Italy
@@ -87,11 +87,11 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,WFP,0.26,0.0%,world food programme,Italy
 2022,WFP,0.23,0.0%,world food programme,Italy
 2023,WFP,0.2,0.0%,world food programme,Italy
-2019,WHO-AC,12.22,0.03%,world health organisation assessed contributions,Italy
-2020,WHO-AC,10.96,0.03%,world health organisation assessed contributions,Italy
-2021,WHO-AC,13.18,0.01%,world health organisation assessed contributions,Italy
-2023,WHO-AC,8.98,0.02%,world health organisation assessed contributions,Italy
-2022,WHO-CVCA,13.73,0.02%,world health organisation core voluntary contributions account,Italy
+2019,WHO-AC,12.22,3.0%,world health organisation assessed contributions,Italy
+2020,WHO-AC,10.96,3.0%,world health organisation assessed contributions,Italy
+2021,WHO-AC,13.18,1.0%,world health organisation assessed contributions,Italy
+2023,WHO-AC,8.98,2.0%,world health organisation assessed contributions,Italy
+2022,WHO-CVCA,13.73,2.0%,world health organisation core voluntary contributions account,Italy
 2019,,1.14,0.0%,united nations children’s fund,Italy
 2020,,1.13,0.0%,united nations children’s fund,Italy
 2021,,1.16,0.0%,united nations children’s fund,Italy

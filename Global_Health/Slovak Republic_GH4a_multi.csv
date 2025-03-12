@@ -1,29 +1,29 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
 2023,CEB,0.0,0.0%,council of europe development bank,Slovak Republic
-2019,EC-DSB,2.06,0.36%,european commission development share of budget,Slovak Republic
-2020,EC-DSB,2.18,0.3%,european commission development share of budget,Slovak Republic
-2021,EC-DSB,5.03,0.24%,european commission development share of budget,Slovak Republic
-2022,EC-DSB,8.49,0.3%,european commission development share of budget,Slovak Republic
-2023,EC-DSB,9.2,0.4%,european commission development share of budget,Slovak Republic
-2019,EC-EDF,1.68,0.29%,european commission european development fund,Slovak Republic
-2020,EC-EDF,1.53,0.21%,european commission european development fund,Slovak Republic
-2021,EC-EDF,0.91,0.04%,european commission european development fund,Slovak Republic
-2022,EC-EDF,0.38,0.01%,european commission european development fund,Slovak Republic
+2019,EC-DSB,2.06,36.0%,european commission development share of budget,Slovak Republic
+2020,EC-DSB,2.18,30.0%,european commission development share of budget,Slovak Republic
+2021,EC-DSB,5.03,24.0%,european commission development share of budget,Slovak Republic
+2022,EC-DSB,8.49,30.0%,european commission development share of budget,Slovak Republic
+2023,EC-DSB,9.2,40.0%,european commission development share of budget,Slovak Republic
+2019,EC-EDF,1.68,28.999999999999996%,european commission european development fund,Slovak Republic
+2020,EC-EDF,1.53,21.0%,european commission european development fund,Slovak Republic
+2021,EC-EDF,0.91,4.0%,european commission european development fund,Slovak Republic
+2022,EC-EDF,0.38,1.0%,european commission european development fund,Slovak Republic
 2023,EC-EDF,0.09,0.0%,european commission european development fund,Slovak Republic
-2019,FAO,0.03,0.01%,food and agricultural organisation,Slovak Republic
+2019,FAO,0.03,1.0%,food and agricultural organisation,Slovak Republic
 2020,FAO,0.03,0.0%,food and agricultural organisation,Slovak Republic
 2021,FAO,0.03,0.0%,food and agricultural organisation,Slovak Republic
 2022,FAO,0.03,0.0%,food and agricultural organisation,Slovak Republic
 2023,FAO,0.03,0.0%,food and agricultural organisation,Slovak Republic
-2021,GAVI,0.18,0.01%,global alliance for vaccines and immunization,Slovak Republic
+2021,GAVI,0.18,1.0%,global alliance for vaccines and immunization,Slovak Republic
 2022,GCF,0.0,0.0%,green climate fund,Slovak Republic
 2023,GCF,0.0,0.0%,green climate fund,Slovak Republic
-2019,IBRD,0.11,0.02%,international bank for reconstruction and development,Slovak Republic
-2020,IBRD,0.19,0.03%,international bank for reconstruction and development,Slovak Republic
-2021,IBRD,0.26,0.01%,international bank for reconstruction and development,Slovak Republic
-2022,IBRD,0.35,0.01%,international bank for reconstruction and development,Slovak Republic
-2023,IBRD,0.31,0.01%,international bank for reconstruction and development,Slovak Republic
-2023,IDA,0.36,0.02%,international development association,Slovak Republic
+2019,IBRD,0.11,2.0%,international bank for reconstruction and development,Slovak Republic
+2020,IBRD,0.19,3.0%,international bank for reconstruction and development,Slovak Republic
+2021,IBRD,0.26,1.0%,international bank for reconstruction and development,Slovak Republic
+2022,IBRD,0.35,1.0%,international bank for reconstruction and development,Slovak Republic
+2023,IBRD,0.31,1.0%,international bank for reconstruction and development,Slovak Republic
+2023,IDA,0.36,2.0%,international development association,Slovak Republic
 2022,IFC,0.0,0.0%,international finance corporation,Slovak Republic
 2023,IFC,0.0,0.0%,international finance corporation,Slovak Republic
 2019,UN,0.0,0.0%,united nations,Slovak Republic
@@ -49,12 +49,12 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,WFP,0.0,0.0%,world food programme,Slovak Republic
 2022,WFP,0.0,0.0%,world food programme,Slovak Republic
 2023,WFP,0.0,0.0%,world food programme,Slovak Republic
-2019,WHO-AC,0.6,0.1%,world health organisation assessed contributions,Slovak Republic
-2020,WHO-AC,0.54,0.07%,world health organisation assessed contributions,Slovak Republic
-2021,WHO-AC,0.5,0.02%,world health organisation assessed contributions,Slovak Republic
-2022,WHO-AC,0.45,0.02%,world health organisation assessed contributions,Slovak Republic
-2023,WHO-AC,0.45,0.02%,world health organisation assessed contributions,Slovak Republic
-2020,WHO-CVCA,0.19,0.03%,world health organisation core voluntary contributions account,Slovak Republic
+2019,WHO-AC,0.6,10.0%,world health organisation assessed contributions,Slovak Republic
+2020,WHO-AC,0.54,7.000000000000001%,world health organisation assessed contributions,Slovak Republic
+2021,WHO-AC,0.5,2.0%,world health organisation assessed contributions,Slovak Republic
+2022,WHO-AC,0.45,2.0%,world health organisation assessed contributions,Slovak Republic
+2023,WHO-AC,0.45,2.0%,world health organisation assessed contributions,Slovak Republic
+2020,WHO-CVCA,0.19,3.0%,world health organisation core voluntary contributions account,Slovak Republic
 2019,,0.0,0.0%,united nations children’s fund,Slovak Republic
 2020,,0.0,0.0%,united nations children’s fund,Slovak Republic
 2021,,0.01,0.0%,united nations children’s fund,Slovak Republic

@@ -1,59 +1,59 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
-2019,ADF,20.65,0.06%,african development fund,Italy
-2020,ADF,14.28,0.04%,african development fund,Italy
-2021,ADF,7.43,0.02%,african development fund,Italy
-2022,ADF,8.13,0.03%,african development fund,Italy
-2023,ADF,16.14,0.06%,african development fund,Italy
-2019,AF,3.26,0.01%,adaptation fund,Italy
-2020,AF,14.11,0.04%,adaptation fund,Italy
-2022,AF,3.58,0.01%,adaptation fund,Italy
+2019,ADF,20.65,6.0%,african development fund,Italy
+2020,ADF,14.28,4.0%,african development fund,Italy
+2021,ADF,7.43,2.0%,african development fund,Italy
+2022,ADF,8.13,3.0%,african development fund,Italy
+2023,ADF,16.14,6.0%,african development fund,Italy
+2019,AF,3.26,1.0%,adaptation fund,Italy
+2020,AF,14.11,4.0%,adaptation fund,Italy
+2022,AF,3.58,1.0%,adaptation fund,Italy
 2019,AIIB,0.36,0.0%,asian infrastructure investment bank,Italy
 2020,AfDB,1.83,0.0%,african development bank,Italy
-2021,AfDB,1.82,0.01%,african development bank,Italy
-2022,AfDB,2.22,0.01%,african development bank,Italy
-2023,AfDB,2.37,0.01%,african development bank,Italy
-2019,EC-DSB,89.08,0.26%,european commission development share of budget,Italy
-2020,EC-DSB,78.06,0.21%,european commission development share of budget,Italy
-2021,EC-DSB,87.33,0.24%,european commission development share of budget,Italy
-2022,EC-DSB,101.07,0.36%,european commission development share of budget,Italy
-2023,EC-DSB,96.25,0.36%,european commission development share of budget,Italy
-2019,EC-EDF,93.7,0.28%,european commission european development fund,Italy
-2020,EC-EDF,86.28,0.23%,european commission european development fund,Italy
-2021,EC-EDF,60.72,0.17%,european commission european development fund,Italy
-2022,EC-EDF,26.12,0.09%,european commission european development fund,Italy
-2023,EC-EDF,10.35,0.04%,european commission european development fund,Italy
-2019,FAO,9.69,0.03%,food and agricultural organisation,Italy
-2020,FAO,8.21,0.02%,food and agricultural organisation,Italy
-2021,FAO,7.72,0.02%,food and agricultural organisation,Italy
-2022,FAO,10.98,0.04%,food and agricultural organisation,Italy
-2023,FAO,7.24,0.03%,food and agricultural organisation,Italy
-2020,GCF,10.77,0.03%,green climate fund,Italy
-2021,GCF,12.71,0.04%,green climate fund,Italy
-2023,GCF,9.18,0.03%,green climate fund,Italy
+2021,AfDB,1.82,1.0%,african development bank,Italy
+2022,AfDB,2.22,1.0%,african development bank,Italy
+2023,AfDB,2.37,1.0%,african development bank,Italy
+2019,EC-DSB,89.08,26.0%,european commission development share of budget,Italy
+2020,EC-DSB,78.06,21.0%,european commission development share of budget,Italy
+2021,EC-DSB,87.33,24.0%,european commission development share of budget,Italy
+2022,EC-DSB,101.07,36.0%,european commission development share of budget,Italy
+2023,EC-DSB,96.25,36.0%,european commission development share of budget,Italy
+2019,EC-EDF,93.7,28.000000000000004%,european commission european development fund,Italy
+2020,EC-EDF,86.28,23.0%,european commission european development fund,Italy
+2021,EC-EDF,60.72,17.0%,european commission european development fund,Italy
+2022,EC-EDF,26.12,9.0%,european commission european development fund,Italy
+2023,EC-EDF,10.35,4.0%,european commission european development fund,Italy
+2019,FAO,9.69,3.0%,food and agricultural organisation,Italy
+2020,FAO,8.21,2.0%,food and agricultural organisation,Italy
+2021,FAO,7.72,2.0%,food and agricultural organisation,Italy
+2022,FAO,10.98,4.0%,food and agricultural organisation,Italy
+2023,FAO,7.24,3.0%,food and agricultural organisation,Italy
+2020,GCF,10.77,3.0%,green climate fund,Italy
+2021,GCF,12.71,4.0%,green climate fund,Italy
+2023,GCF,9.18,3.0%,green climate fund,Italy
 2019,GEF-TF,1.15,0.0%,global environment facility trust fund,Italy
 2020,GEF-TF,1.43,0.0%,global environment facility trust fund,Italy
-2021,GEF-TF,2.91,0.01%,global environment facility trust fund,Italy
-2022,GEF-TF,1.56,0.01%,global environment facility trust fund,Italy
-2023,GEF-TF,3.09,0.01%,global environment facility trust fund,Italy
+2021,GEF-TF,2.91,1.0%,global environment facility trust fund,Italy
+2022,GEF-TF,1.56,1.0%,global environment facility trust fund,Italy
+2023,GEF-TF,3.09,1.0%,global environment facility trust fund,Italy
 2019,IBRD,0.01,0.0%,international bank for reconstruction and development,Italy
-2020,IBRD,3.18,0.01%,international bank for reconstruction and development,Italy
-2021,IBRD,3.05,0.01%,international bank for reconstruction and development,Italy
-2022,IBRD,2.97,0.01%,international bank for reconstruction and development,Italy
-2023,IBRD,3.17,0.01%,international bank for reconstruction and development,Italy
+2020,IBRD,3.18,1.0%,international bank for reconstruction and development,Italy
+2021,IBRD,3.05,1.0%,international bank for reconstruction and development,Italy
+2022,IBRD,2.97,1.0%,international bank for reconstruction and development,Italy
+2023,IBRD,3.17,1.0%,international bank for reconstruction and development,Italy
 2021,ICGEB,0.52,0.0%,international centre for genetic engineering and biotechnology,Italy
 2023,ICGEB,0.55,0.0%,international centre for genetic engineering and biotechnology,Italy
-2019,IDA,43.87,0.13%,international development association,Italy
-2020,IDA,32.11,0.08%,international development association,Italy
-2021,IDA,24.36,0.07%,international development association,Italy
-2022,IDA,24.39,0.09%,international development association,Italy
-2023,IDA,28.8,0.11%,international development association,Italy
+2019,IDA,43.87,13.0%,international development association,Italy
+2020,IDA,32.11,8.0%,international development association,Italy
+2021,IDA,24.36,7.000000000000001%,international development association,Italy
+2022,IDA,24.39,9.0%,international development association,Italy
+2023,IDA,28.8,11.0%,international development association,Italy
 2019,IDB-IIC-MIF,0.3,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Italy
 2020,IDB-IIC-MIF,0.06,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Italy
 2021,IDB-IIC-MIF,0.02,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Italy
 2022,IDB-IIC-MIF,0.02,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Italy
-2022,IFC,12.14,0.04%,international finance corporation,Italy
-2023,IFC,10.29,0.04%,international finance corporation,Italy
-2021,SCF,69.55,0.19%,strategic climate fund,Italy
+2022,IFC,12.14,4.0%,international finance corporation,Italy
+2023,IFC,10.29,4.0%,international finance corporation,Italy
+2021,SCF,69.55,19.0%,strategic climate fund,Italy
 2022,UN,0.06,0.0%,united nations,Italy
 2023,UN,0.19,0.0%,united nations,Italy
 2019,UNDP,0.01,0.0%,united nations development programme,Italy

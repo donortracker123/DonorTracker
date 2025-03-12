@@ -1,6 +1,6 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
 2019,ADF,0.88,0.0%,african development fund,Belgium
-2020,ADF,1.44,0.01%,african development fund,Belgium
+2020,ADF,1.44,1.0%,african development fund,Belgium
 2021,ADF,0.79,0.0%,african development fund,Belgium
 2022,ADF,0.44,0.0%,african development fund,Belgium
 2023,ADF,0.41,0.0%,african development fund,Belgium
@@ -9,15 +9,15 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2023,AIIB,0.05,0.0%,asian infrastructure investment bank,Belgium
 2019,AfDB,0.04,0.0%,african development bank,Belgium
 2021,AfDB,0.14,0.0%,african development bank,Belgium
-2019,EC-DSB,43.22,0.21%,european commission development share of budget,Belgium
-2020,EC-DSB,42.9,0.22%,european commission development share of budget,Belgium
-2021,EC-DSB,44.26,0.23%,european commission development share of budget,Belgium
-2022,EC-DSB,55.88,0.27%,european commission development share of budget,Belgium
-2023,EC-DSB,54.44,0.26%,european commission development share of budget,Belgium
-2019,EC-EDF,9.05,0.04%,european commission european development fund,Belgium
-2020,EC-EDF,9.42,0.05%,european commission european development fund,Belgium
-2021,EC-EDF,4.72,0.02%,european commission european development fund,Belgium
-2022,EC-EDF,2.07,0.01%,european commission european development fund,Belgium
+2019,EC-DSB,43.22,21.0%,european commission development share of budget,Belgium
+2020,EC-DSB,42.9,22.0%,european commission development share of budget,Belgium
+2021,EC-DSB,44.26,23.0%,european commission development share of budget,Belgium
+2022,EC-DSB,55.88,27.0%,european commission development share of budget,Belgium
+2023,EC-DSB,54.44,26.0%,european commission development share of budget,Belgium
+2019,EC-EDF,9.05,4.0%,european commission european development fund,Belgium
+2020,EC-EDF,9.42,5.0%,european commission european development fund,Belgium
+2021,EC-EDF,4.72,2.0%,european commission european development fund,Belgium
+2022,EC-EDF,2.07,1.0%,european commission european development fund,Belgium
 2023,EC-EDF,0.41,0.0%,european commission european development fund,Belgium
 2019,EIB,0.05,0.0%,european investment bank,Belgium
 2020,EIB,0.04,0.0%,european investment bank,Belgium
@@ -28,15 +28,15 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,FAO,0.01,0.0%,food and agricultural organisation,Belgium
 2022,FAO,0.0,0.0%,food and agricultural organisation,Belgium
 2023,FAO,0.0,0.0%,food and agricultural organisation,Belgium
-2020,IBRD,1.17,0.01%,international bank for reconstruction and development,Belgium
+2020,IBRD,1.17,1.0%,international bank for reconstruction and development,Belgium
 2021,IBRD,0.02,0.0%,international bank for reconstruction and development,Belgium
 2022,IBRD,1.03,0.0%,international bank for reconstruction and development,Belgium
 2023,IBRD,0.76,0.0%,international bank for reconstruction and development,Belgium
-2019,IDA,16.31,0.08%,international development association,Belgium
-2020,IDA,17.23,0.09%,international development association,Belgium
-2021,IDA,15.78,0.08%,international development association,Belgium
-2022,IDA,20.7,0.1%,international development association,Belgium
-2023,IDA,30.51,0.15%,international development association,Belgium
+2019,IDA,16.31,8.0%,international development association,Belgium
+2020,IDA,17.23,9.0%,international development association,Belgium
+2021,IDA,15.78,8.0%,international development association,Belgium
+2022,IDA,20.7,10.0%,international development association,Belgium
+2023,IDA,30.51,15.0%,international development association,Belgium
 2020,ILO-RBSA,0.03,0.0%,international labour organisation regular budget supplementary account,Belgium
 2022,ILO-RBSA,0.06,0.0%,international labour organisation regular budget supplementary account,Belgium
 2023,UN,0.01,0.0%,united nations,Belgium
@@ -50,14 +50,14 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,UNFPA,0.51,0.0%,united nations population fund,Belgium
 2022,UNFPA,0.55,0.0%,united nations population fund,Belgium
 2023,UNFPA,0.55,0.0%,united nations population fund,Belgium
-2019,UNRWA,4.63,0.02%,united nations relief and works agency for palestine refugees in the near east,Belgium
-2020,UNRWA,4.67,0.02%,united nations relief and works agency for palestine refugees in the near east,Belgium
-2021,UNRWA,5.17,0.03%,united nations relief and works agency for palestine refugees in the near east,Belgium
-2022,UNRWA,4.74,0.02%,united nations relief and works agency for palestine refugees in the near east,Belgium
-2023,UNRWA,5.34,0.03%,united nations relief and works agency for palestine refugees in the near east,Belgium
+2019,UNRWA,4.63,2.0%,united nations relief and works agency for palestine refugees in the near east,Belgium
+2020,UNRWA,4.67,2.0%,united nations relief and works agency for palestine refugees in the near east,Belgium
+2021,UNRWA,5.17,3.0%,united nations relief and works agency for palestine refugees in the near east,Belgium
+2022,UNRWA,4.74,2.0%,united nations relief and works agency for palestine refugees in the near east,Belgium
+2023,UNRWA,5.34,3.0%,united nations relief and works agency for palestine refugees in the near east,Belgium
 2019,WFP,0.11,0.0%,world food programme,Belgium
-2019,,1.2,0.01%,united nations children’s fund,Belgium
-2020,,1.24,0.01%,united nations children’s fund,Belgium
-2021,,1.34,0.01%,united nations children’s fund,Belgium
-2022,,1.24,0.01%,united nations children’s fund,Belgium
-2023,,1.17,0.01%,united nations children’s fund,Belgium
+2019,,1.2,1.0%,united nations children’s fund,Belgium
+2020,,1.24,1.0%,united nations children’s fund,Belgium
+2021,,1.34,1.0%,united nations children’s fund,Belgium
+2022,,1.24,1.0%,united nations children’s fund,Belgium
+2023,,1.17,1.0%,united nations children’s fund,Belgium

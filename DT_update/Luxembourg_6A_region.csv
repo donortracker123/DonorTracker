@@ -1,99 +1,221 @@
-"Year","Multi_short","ODA","Share","full name","country"
-"2018","FAO",0.289333,"0%","Food and Agricultural Organisation","Luxembourg"
-"2018","IFAD",4.526768,"3%","International Fund for Agricultural Development","Luxembourg"
-"2018","UNDP",8.853825,"6%","United Nations Development Programme","Luxembourg"
-"2018","UN Women",1.730823,"1%","United Nations Entity for Gender Equality and the Empowerment of Women","Luxembourg"
-"2018","UNEP",0.332851,"0%","United Nations Environment Programme","Luxembourg"
-"2018","UNOCHA",1.331402,"1%","United Nations Office of Co-ordination of Humanitarian Affairs","Luxembourg"
-"2018","UNFPA",7.389284,"5%","United Nations Population Fund","Luxembourg"
-"2018","WFP",0.67521,"0%","World Food Programme","Luxembourg"
-"2018","WHO - assessed contributions",12.370553,"8%","World Health Organisation - assessed contributions","Luxembourg"
-"2018","EC - Development Share of Budget",45.116818,"31%","European Commission - Development Share of Budget","Luxembourg"
-"2018","EIB",0.898697,"1%","European Investment Bank","Luxembourg"
-"2018","IBRD",1.730823,"1%","International Bank for Reconstruction and Development","Luxembourg"
-"2018","IDA",20.643394,"14%","International Development Association","Luxembourg"
-"2018","African Development Fund",4.806788,"3%","African Development Fund","Luxembourg"
-"2018","ADB",1.40376,"1%","Asian Development Bank","Luxembourg"
-"2018","ADF",3.042254,"2%","Asian Development Fund","Luxembourg"
-"2018","Gavi",1.09175,"1%","Global Alliance for Vaccines and Immunization","Luxembourg"
-"2018","GEF-Least Developed Countries Fund",1.148135,"1%","Global Environment Facility - Least Developed Countries Fund","Luxembourg"
-"2018","Global Fund",3.594786,"2%","Global Fund to Fight AIDS, Tuberculosis and Malaria","Luxembourg"
-"2019","FAO",0.303635,"0%","Food and Agricultural Organisation","Luxembourg"
-"2019","IFAD",1.444608,"1%","International Fund for Agricultural Development","Luxembourg"
-"2019","UNDP",4.990463,"4%","United Nations Development Programme","Luxembourg"
-"2019","UN Women",1.969919,"2%","United Nations Entity for Gender Equality and the Empowerment of Women","Luxembourg"
-"2019","UNEP",0.32832,"0%","United Nations Environment Programme","Luxembourg"
-"2019","UNOCHA",0.65664,"1%","United Nations Office of Co-ordination of Humanitarian Affairs","Luxembourg"
-"2019","UNFPA",3.939839,"3%","United Nations Population Fund","Luxembourg"
-"2019","WFP",1.31328,"1%","World Food Programme","Luxembourg"
-"2019","WHO - assessed contributions",0.272302,"0%","World Health Organisation - assessed contributions","Luxembourg"
-"2019","EC - Development Share of Budget",46.195687,"36%","European Commission - Development Share of Budget","Luxembourg"
-"2019","EIB",1.063756,"1%","European Investment Bank","Luxembourg"
-"2019","IDA",24.512363,"19%","International Development Association","Luxembourg"
-"2019","AfDB",1.558604,"1%","African Development Bank","Luxembourg"
-"2019","African Development Fund",5.154332,"4%","African Development Fund","Luxembourg"
-"2019","ADB",1.394143,"1%","Asian Development Bank","Luxembourg"
-"2019","ADF",3.166317,"2%","Asian Development Fund","Luxembourg"
-"2019","AIIB",2.780137,"2%","Asian Infrastructure Investment Bank","Luxembourg"
-"2019","Gavi",1.076889,"1%","Global Alliance for Vaccines and Immunization","Luxembourg"
-"2019","GEF Fund",1.529314,"1%","Global Environment Facility Trust Fund","Luxembourg"
-"2019","Global Fund",3.545855,"3%","Global Fund to Fight AIDS, Tuberculosis and Malaria","Luxembourg"
-"2020","CERF",6.274773,"4%","Central Emergency Response Fund","Luxembourg"
-"2020","FAO",0.300826,"0%","Food and Agricultural Organisation","Luxembourg"
-"2020","IFAD",1.38045,"1%","International Fund for Agricultural Development","Luxembourg"
-"2020","UNDP",7.561102,"5%","United Nations Development Programme","Luxembourg"
-"2020","UN Women",2.007927,"1%","United Nations Entity for Gender Equality and the Empowerment of Women","Luxembourg"
-"2020","UNEP",0.313739,"0%","United Nations Environment Programme","Luxembourg"
-"2020","UNOCHA",1.142009,"1%","United Nations Office of Co-ordination of Humanitarian Affairs","Luxembourg"
-"2020","UNFPA",7.529728,"5%","United Nations Population Fund","Luxembourg"
-"2020","WFP",1.254955,"1%","World Food Programme","Luxembourg"
-"2020","WHO - assessed contributions",9.703462,"6%","World Health Organisation - assessed contributions","Luxembourg"
-"2020","EC - Development Share of Budget",52.27516,"32%","European Commission - Development Share of Budget","Luxembourg"
-"2020","EIB",1.769486,"1%","European Investment Bank","Luxembourg"
-"2020","IDA",19.991427,"12%","International Development Association","Luxembourg"
-"2020","African Development Fund",4.804472,"3%","African Development Fund","Luxembourg"
-"2020","ADF",2.941614,"2%","Asian Development Fund","Luxembourg"
-"2020","EBRD",2.509909,"2%","European Bank for Reconstruction and Development","Luxembourg"
-"2020","Gavi",1.029063,"1%","Global Alliance for Vaccines and Immunization","Luxembourg"
-"2020","GEF Fund",1.500236,"1%","Global Environment Facility Trust Fund","Luxembourg"
-"2020","Global Fund",3.388377,"2%","Global Fund to Fight AIDS, Tuberculosis and Malaria","Luxembourg"
-"2021","CERF",5.912961,"3%","Central Emergency Response Fund","Luxembourg"
-"2021","FAO",0.273224,"0%","Food and Agricultural Organisation","Luxembourg"
-"2021","IFAD",3.666035,"2%","International Fund for Agricultural Development","Luxembourg"
-"2021","UNDP",7.56859,"4%","United Nations Development Programme","Luxembourg"
-"2021","UN Women",2.128666,"1%","United Nations Entity for Gender Equality and the Empowerment of Women","Luxembourg"
-"2021","UNEP",0.05913,"0%","United Nations Environment Programme","Luxembourg"
-"2021","UNOCHA",1.123463,"1%","United Nations Office of Co-ordination of Humanitarian Affairs","Luxembourg"
-"2021","UNFPA",8.514664,"5%","United Nations Population Fund","Luxembourg"
-"2021","WFP",2.365184,"1%","World Food Programme","Luxembourg"
-"2021","WHO - assessed contributions",8.94568,"5%","World Health Organisation - assessed contributions","Luxembourg"
-"2021","EC - Development Share of Budget",39.128766,"22%","European Commission - Development Share of Budget","Luxembourg"
-"2021","EC - EDF",10.396913,"6%","European Commission - European Development Fund","Luxembourg"
-"2021","EIB",0.917345,"1%","European Investment Bank","Luxembourg"
-"2021","IDA",21.298486,"12%","International Development Association","Luxembourg"
-"2021","African Development Fund",4.969659,"3%","African Development Fund","Luxembourg"
-"2021","ADF",10.376926,"6%","Asian Development Fund","Luxembourg"
-"2021","EBRD",2.365184,"1%","European Bank for Reconstruction and Development","Luxembourg"
-"2021","Gavi",1.182592,"1%","Global Alliance for Vaccines and Immunization","Luxembourg"
-"2021","GEF-Least Developed Countries Fund",1.4103,"1%","Global Environment Facility - Least Developed Countries Fund","Luxembourg"
-"2021","Global Fund",5.912961,"3%","Global Fund to Fight AIDS, Tuberculosis and Malaria","Luxembourg"
-"2022","CERF",5.577935,"3%","Central Emergency Response Fund","Luxembourg"
-"2022","FAO",0.264671,"0%","Food and Agricultural Organisation","Luxembourg"
-"2022","IFAD",1.450263,"1%","International Fund for Agricultural Development","Luxembourg"
-"2022","UNDP",9.259372,"6%","United Nations Development Programme","Luxembourg"
-"2022","UN Women",5.689494,"3%","United Nations Entity for Gender Equality and the Empowerment of Women","Luxembourg"
-"2022","UNEP",0.055779,"0%","United Nations Environment Programme","Luxembourg"
-"2022","UNOCHA",1.282925,"1%","United Nations Office of Co-ordination of Humanitarian Affairs","Luxembourg"
-"2022","UNFPA",10.040282,"6%","United Nations Population Fund","Luxembourg"
-"2022","WFP",1.115587,"1%","World Food Programme","Luxembourg"
-"2022","WHO - assessed contributions",0.24645,"0%","World Health Organisation - assessed contributions","Luxembourg"
-"2022","WHO - core voluntary contributions",10.988532,"7%","World Health Organisation - core voluntary contributions account","Luxembourg"
-"2022","EC - Development Share of Budget",56.143746,"34%","European Commission - Development Share of Budget","Luxembourg"
-"2022","EC - EDF",6.979643,"4%","European Commission - European Development Fund","Luxembourg"
-"2022","EIB",0.853725,"1%","European Investment Bank","Luxembourg"
-"2022","IDA",21.285401,"13%","International Development Association","Luxembourg"
-"2022","AfDB",1.789448,"1%","African Development Bank","Luxembourg"
-"2022","African Development Fund",2.779342,"2%","African Development Fund","Luxembourg"
-"2022","Gavi",1.115587,"1%","Global Alliance for Vaccines and Immunization","Luxembourg"
-"2022","GEF-Least Developed Countries Fund",1.335135,"1%","Global Environment Facility - Least Developed Countries Fund","Luxembourg"
-"2022","Global Fund",3.346761,"2%","Global Fund to Fight AIDS, Tuberculosis and Malaria","Luxembourg"
+Year,Multi_short,ODA,Share,full name,Donor
+2019,European Commission - Development Share of Budget,47.91,0.1%,European Commission - Development Share of Budget,Luxembourg
+2019,IDA,25.42,0.05%,International Development Association ,Luxembourg
+2019,UNRWA,5.45,0.01%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Luxembourg
+2019,ADF,5.35,0.01%,African Development Fund ,Luxembourg
+2019,UNDP,5.18,0.01%,United Nations Development Programme ,Luxembourg
+2019,UNFPA,4.09,0.01%,United Nations Population Fund ,Luxembourg
+2019,UNICEF,4.09,0.01%,United Nations Children's Fund ,Luxembourg
+2019,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",3.68,0.01%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Luxembourg
+2019,Joint United Nations Programme on HIV/AIDS ,3.4,0.01%,Joint United Nations Programme on HIV/AIDS ,Luxembourg
+2019,Asian Development Fund ,3.28,0.01%,Asian Development Fund ,Luxembourg
+2019,AIIB,2.88,0.01%,Asian Infrastructure Investment Bank,Luxembourg
+2019,United Nations Office of the High Commissioner for Refugees,2.72,0.01%,United Nations Office of the High Commissioner for Refugees,Luxembourg
+2019,United Nations Entity for Gender Equality and the Empowerment of Women,2.04,0.0%,United Nations Entity for Gender Equality and the Empowerment of Women,Luxembourg
+2019,International Labour Organisation - Regular Budget Supplementary Account,1.7,0.0%,International Labour Organisation - Regular Budget Supplementary Account,Luxembourg
+2019,AfDB,1.62,0.0%,African Development Bank,Luxembourg
+2019,GEF-TF,1.59,0.0%,Global Environment Facility Trust Fund,Luxembourg
+2019,IFAD,1.5,0.0%,International Fund for Agricultural Development ,Luxembourg
+2019,ADB,1.45,0.0%,Asian Development Bank,Luxembourg
+2019,WFP,1.36,0.0%,World Food Programme ,Luxembourg
+2019,GAVI,1.12,0.0%,Global Alliance for Vaccines and Immunization ,Luxembourg
+2019,EIB,1.1,0.0%,European Investment Bank ,Luxembourg
+2019,UN,1.05,0.0%,United Nations,Luxembourg
+2019,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",0.73,0.0%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",Luxembourg
+2019,United Nations Office of Co-ordination of Humanitarian Affairs ,0.68,0.0%,United Nations Office of Co-ordination of Humanitarian Affairs ,Luxembourg
+2019,Organization for Security and Co-operation in Europe,0.64,0.0%,Organization for Security and Co-operation in Europe,Luxembourg
+2019,United Nations Peacebuilding Fund,0.54,0.0%,United Nations Peacebuilding Fund,Luxembourg
+2019,United Nations Office on Drugs and Crime ,0.54,0.0%,United Nations Office on Drugs and Crime ,Luxembourg
+2019,UNEP,0.34,0.0%,United Nations Environment Programme ,Luxembourg
+2019,FAO,0.31,0.0%,Food and Agricultural Organisation,Luxembourg
+2019,"United Nations Educational, Scientific and Cultural Organisation",0.31,0.0%,"United Nations Educational, Scientific and Cultural Organisation",Luxembourg
+2019,World Health Organisation - assessed contributions,0.28,0.0%,World Health Organisation - assessed contributions,Luxembourg
+2019,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),0.23,0.0%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Luxembourg
+2019,Council of Europe,0.18,0.0%,Council of Europe,Luxembourg
+2019,International Labour Organisation - Assessed Contributions,0.17,0.0%,International Labour Organisation - Assessed Contributions,Luxembourg
+2019,International Atomic Energy Agency - assessed contributions,0.15,0.0%,International Atomic Energy Agency - assessed contributions,Luxembourg
+2019,International Organisation of the Francophonie,0.14,0.0%,International Organisation of the Francophonie,Luxembourg
+2019,UNIDO,0.1,0.0%,United Nations Industrial Development Organisation ,Luxembourg
+2019,International Maritime Organization - Technical Co-operation Fund,0.06,0.0%,International Maritime Organization - Technical Co-operation Fund,Luxembourg
+2019,Convention to Combat Desertification ,0.01,0.0%,Convention to Combat Desertification ,Luxembourg
+2019,UNIDIR,0.0,0.0%,United Nations Institute for Disarmament Research,Luxembourg
+2019,CEB,0.0,0.0%,Council of Europe Development Bank,Luxembourg
+2020,European Commission - Development Share of Budget,54.2,0.1%,European Commission - Development Share of Budget,Luxembourg
+2020,IDA,20.73,0.04%,International Development Association ,Luxembourg
+2020,World Health Organisation - assessed contributions,10.06,0.02%,World Health Organisation - assessed contributions,Luxembourg
+2020,UNICEF,8.07,0.02%,United Nations Children's Fund ,Luxembourg
+2020,UNDP,7.84,0.02%,United Nations Development Programme ,Luxembourg
+2020,UNFPA,7.81,0.02%,United Nations Population Fund ,Luxembourg
+2020,CERF,6.51,0.01%,Central Emergency Response Fund,Luxembourg
+2020,Joint United Nations Programme on HIV/AIDS ,5.99,0.01%,Joint United Nations Programme on HIV/AIDS ,Luxembourg
+2020,UNRWA,5.2,0.01%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Luxembourg
+2020,ADF,4.98,0.01%,African Development Fund ,Luxembourg
+2020,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",3.51,0.01%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Luxembourg
+2020,Asian Development Fund ,3.05,0.01%,Asian Development Fund ,Luxembourg
+2020,EBRD,2.6,0.01%,European Bank for Reconstruction and Development,Luxembourg
+2020,United Nations Office of the High Commissioner for Refugees,2.6,0.01%,United Nations Office of the High Commissioner for Refugees,Luxembourg
+2020,IFC,2.33,0.0%,International Finance Corporation ,Luxembourg
+2020,United Nations Entity for Gender Equality and the Empowerment of Women,2.08,0.0%,United Nations Entity for Gender Equality and the Empowerment of Women,Luxembourg
+2020,EIB,1.83,0.0%,European Investment Bank ,Luxembourg
+2020,International Labour Organisation - Regular Budget Supplementary Account,1.63,0.0%,International Labour Organisation - Regular Budget Supplementary Account,Luxembourg
+2020,UNCDF,1.56,0.0%,United Nations Capital Development Fund ,Luxembourg
+2020,GEF-TF,1.56,0.0%,Global Environment Facility Trust Fund,Luxembourg
+2020,IFAD,1.43,0.0%,International Fund for Agricultural Development ,Luxembourg
+2020,WFP,1.3,0.0%,World Food Programme ,Luxembourg
+2020,United Nations Office of Co-ordination of Humanitarian Affairs ,1.18,0.0%,United Nations Office of Co-ordination of Humanitarian Affairs ,Luxembourg
+2020,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,1.12,0.0%,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,Luxembourg
+2020,GAVI,1.07,0.0%,Global Alliance for Vaccines and Immunization ,Luxembourg
+2020,UN,1.03,0.0%,United Nations,Luxembourg
+2020,United Nations Mine Action Service ,0.91,0.0%,United Nations Mine Action Service ,Luxembourg
+2020,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",0.68,0.0%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",Luxembourg
+2020,United Nations Office on Drugs and Crime ,0.52,0.0%,United Nations Office on Drugs and Crime ,Luxembourg
+2020,Organization for Security and Co-operation in Europe,0.46,0.0%,Organization for Security and Co-operation in Europe,Luxembourg
+2020,International Organisation of the Francophonie,0.41,0.0%,International Organisation of the Francophonie,Luxembourg
+2020,United Nations Peacebuilding Fund,0.39,0.0%,United Nations Peacebuilding Fund,Luxembourg
+2020,Council of Europe,0.34,0.0%,Council of Europe,Luxembourg
+2020,United Nations Office for Disaster Risk Reduction,0.33,0.0%,United Nations Office for Disaster Risk Reduction,Luxembourg
+2020,UNEP,0.33,0.0%,United Nations Environment Programme ,Luxembourg
+2020,FAO,0.31,0.0%,Food and Agricultural Organisation,Luxembourg
+2020,"United Nations Educational, Scientific and Cultural Organisation",0.3,0.0%,"United Nations Educational, Scientific and Cultural Organisation",Luxembourg
+2020,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),0.27,0.0%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Luxembourg
+2020,International Labour Organisation - Assessed Contributions,0.19,0.0%,International Labour Organisation - Assessed Contributions,Luxembourg
+2020,UNIDO,0.1,0.0%,United Nations Industrial Development Organisation ,Luxembourg
+2020,International Organisation for Migration ,0.09,0.0%,International Organisation for Migration ,Luxembourg
+2020,International Maritime Organization - Technical Co-operation Fund,0.07,0.0%,International Maritime Organization - Technical Co-operation Fund,Luxembourg
+2020,United Nations Voluntary Fund for Victims of Torture ,0.02,0.0%,United Nations Voluntary Fund for Victims of Torture ,Luxembourg
+2020,Convention to Combat Desertification ,0.01,0.0%,Convention to Combat Desertification ,Luxembourg
+2020,OECD Development Centre ,0.01,0.0%,OECD Development Centre ,Luxembourg
+2020,Geneva International Centre for Humanitarian Demining ,0.0,0.0%,Geneva International Centre for Humanitarian Demining ,Luxembourg
+2020,CEB,0.0,0.0%,Council of Europe Development Bank,Luxembourg
+2020,UNIDIR,0.0,0.0%,United Nations Institute for Disarmament Research,Luxembourg
+2021,European Commission - Development Share of Budget,41.18,0.07%,European Commission - Development Share of Budget,Luxembourg
+2021,IDA,22.42,0.04%,International Development Association ,Luxembourg
+2021,European Commission - European Development Fund,10.94,0.02%,European Commission - European Development Fund,Luxembourg
+2021,Asian Development Fund ,10.92,0.02%,Asian Development Fund ,Luxembourg
+2021,World Health Organisation - assessed contributions,9.41,0.02%,World Health Organisation - assessed contributions,Luxembourg
+2021,UNFPA,8.96,0.02%,United Nations Population Fund ,Luxembourg
+2021,UNICEF,8.21,0.01%,United Nations Children's Fund ,Luxembourg
+2021,UNRWA,8.09,0.01%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Luxembourg
+2021,UNDP,7.97,0.01%,United Nations Development Programme ,Luxembourg
+2021,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",6.22,0.01%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Luxembourg
+2021,CERF,6.22,0.01%,Central Emergency Response Fund,Luxembourg
+2021,Joint United Nations Programme on HIV/AIDS ,5.97,0.01%,Joint United Nations Programme on HIV/AIDS ,Luxembourg
+2021,ADF,5.23,0.01%,African Development Fund ,Luxembourg
+2021,IFAD,3.86,0.01%,International Fund for Agricultural Development ,Luxembourg
+2021,United Nations Office of the High Commissioner for Refugees,3.11,0.01%,United Nations Office of the High Commissioner for Refugees,Luxembourg
+2021,WFP,2.49,0.0%,World Food Programme ,Luxembourg
+2021,EBRD,2.49,0.0%,European Bank for Reconstruction and Development,Luxembourg
+2021,United Nations Entity for Gender Equality and the Empowerment of Women,2.24,0.0%,United Nations Entity for Gender Equality and the Empowerment of Women,Luxembourg
+2021,IFC,2.18,0.0%,International Finance Corporation ,Luxembourg
+2021,UNCDF,1.74,0.0%,United Nations Capital Development Fund ,Luxembourg
+2021,International Labour Organisation - Regular Budget Supplementary Account,1.74,0.0%,International Labour Organisation - Regular Budget Supplementary Account,Luxembourg
+2021,Global Environment Facility - Least Developed Countries Fund,1.48,0.0%,Global Environment Facility - Least Developed Countries Fund,Luxembourg
+2021,GAVI,1.24,0.0%,Global Alliance for Vaccines and Immunization ,Luxembourg
+2021,United Nations Office of Co-ordination of Humanitarian Affairs ,1.18,0.0%,United Nations Office of Co-ordination of Humanitarian Affairs ,Luxembourg
+2021,EIB,0.97,0.0%,European Investment Bank ,Luxembourg
+2021,UN,0.93,0.0%,United Nations,Luxembourg
+2021,United Nations Mine Action Service ,0.87,0.0%,United Nations Mine Action Service ,Luxembourg
+2021,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,0.75,0.0%,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,Luxembourg
+2021,United Nations Office on Drugs and Crime ,0.62,0.0%,United Nations Office on Drugs and Crime ,Luxembourg
+2021,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",0.59,0.0%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",Luxembourg
+2021,Mekong River Commission ,0.5,0.0%,Mekong River Commission ,Luxembourg
+2021,Organization for Security and Co-operation in Europe,0.44,0.0%,Organization for Security and Co-operation in Europe,Luxembourg
+2021,International Organisation of the Francophonie,0.4,0.0%,International Organisation of the Francophonie,Luxembourg
+2021,United Nations Peacebuilding Fund,0.37,0.0%,United Nations Peacebuilding Fund,Luxembourg
+2021,Geneva Centre for the Democratic Control of Armed Forces,0.37,0.0%,Geneva Centre for the Democratic Control of Armed Forces,Luxembourg
+2021,Council of Europe,0.34,0.0%,Council of Europe,Luxembourg
+2021,International Organisation for Migration ,0.31,0.0%,International Organisation for Migration ,Luxembourg
+2021,FAO,0.29,0.0%,Food and Agricultural Organisation,Luxembourg
+2021,"United Nations Educational, Scientific and Cultural Organisation",0.28,0.0%,"United Nations Educational, Scientific and Cultural Organisation",Luxembourg
+2021,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),0.24,0.0%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Luxembourg
+2021,International Labour Organisation - Assessed Contributions,0.18,0.0%,International Labour Organisation - Assessed Contributions,Luxembourg
+2021,UNIDO,0.08,0.0%,United Nations Industrial Development Organisation ,Luxembourg
+2021,UNEP,0.06,0.0%,United Nations Environment Programme ,Luxembourg
+2021,International Maritime Organization - Technical Co-operation Fund,0.05,0.0%,International Maritime Organization - Technical Co-operation Fund,Luxembourg
+2021,International Atomic Energy Agency - assessed contributions,0.02,0.0%,International Atomic Energy Agency - assessed contributions,Luxembourg
+2021,Convention to Combat Desertification ,0.01,0.0%,Convention to Combat Desertification ,Luxembourg
+2021,Geneva International Centre for Humanitarian Demining ,0.0,0.0%,Geneva International Centre for Humanitarian Demining ,Luxembourg
+2021,UNIDIR,0.0,0.0%,United Nations Institute for Disarmament Research,Luxembourg
+2022,European Commission - Development Share of Budget,58.99,0.11%,European Commission - Development Share of Budget,Luxembourg
+2022,IDA,22.36,0.04%,International Development Association ,Luxembourg
+2022,World Health Organisation - core voluntary contributions account,11.54,0.02%,World Health Organisation - core voluntary contributions account,Luxembourg
+2022,UNICEF,10.67,0.02%,United Nations Children's Fund ,Luxembourg
+2022,UNFPA,10.55,0.02%,United Nations Population Fund ,Luxembourg
+2022,UNDP,9.73,0.02%,United Nations Development Programme ,Luxembourg
+2022,European Commission - European Development Fund,7.33,0.01%,European Commission - European Development Fund,Luxembourg
+2022,United Nations Entity for Gender Equality and the Empowerment of Women,5.98,0.01%,United Nations Entity for Gender Equality and the Empowerment of Women,Luxembourg
+2022,CERF,5.86,0.01%,Central Emergency Response Fund,Luxembourg
+2022,Joint United Nations Programme on HIV/AIDS ,4.1,0.01%,Joint United Nations Programme on HIV/AIDS ,Luxembourg
+2022,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",3.52,0.01%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Luxembourg
+2022,ADF,2.92,0.01%,African Development Fund ,Luxembourg
+2022,IFC,2.64,0.0%,International Finance Corporation ,Luxembourg
+2022,United Nations Office of the High Commissioner for Refugees,2.34,0.0%,United Nations Office of the High Commissioner for Refugees,Luxembourg
+2022,AfDB,1.88,0.0%,African Development Bank,Luxembourg
+2022,IFAD,1.52,0.0%,International Fund for Agricultural Development ,Luxembourg
+2022,Global Environment Facility - Least Developed Countries Fund,1.4,0.0%,Global Environment Facility - Least Developed Countries Fund,Luxembourg
+2022,United Nations Office of Co-ordination of Humanitarian Affairs ,1.35,0.0%,United Nations Office of Co-ordination of Humanitarian Affairs ,Luxembourg
+2022,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,1.28,0.0%,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,Luxembourg
+2022,WFP,1.17,0.0%,World Food Programme ,Luxembourg
+2022,GAVI,1.17,0.0%,Global Alliance for Vaccines and Immunization ,Luxembourg
+2022,UN,1.05,0.0%,United Nations,Luxembourg
+2022,EIB,0.9,0.0%,European Investment Bank ,Luxembourg
+2022,United Nations Mine Action Service ,0.82,0.0%,United Nations Mine Action Service ,Luxembourg
+2022,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",0.59,0.0%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",Luxembourg
+2022,United Nations Peacebuilding Fund,0.47,0.0%,United Nations Peacebuilding Fund,Luxembourg
+2022,Organization for Security and Co-operation in Europe,0.41,0.0%,Organization for Security and Co-operation in Europe,Luxembourg
+2022,Council of Europe,0.39,0.0%,Council of Europe,Luxembourg
+2022,International Organisation of the Francophonie,0.38,0.0%,International Organisation of the Francophonie,Luxembourg
+2022,FAO,0.28,0.0%,Food and Agricultural Organisation,Luxembourg
+2022,World Health Organisation - assessed contributions,0.26,0.0%,World Health Organisation - assessed contributions,Luxembourg
+2022,Geneva Centre for the Democratic Control of Armed Forces,0.23,0.0%,Geneva Centre for the Democratic Control of Armed Forces,Luxembourg
+2022,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),0.21,0.0%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Luxembourg
+2022,International Labour Organisation - Assessed Contributions,0.17,0.0%,International Labour Organisation - Assessed Contributions,Luxembourg
+2022,"United Nations Educational, Scientific and Cultural Organisation",0.15,0.0%,"United Nations Educational, Scientific and Cultural Organisation",Luxembourg
+2022,UNIDO,0.09,0.0%,United Nations Industrial Development Organisation ,Luxembourg
+2022,UNEP,0.06,0.0%,United Nations Environment Programme ,Luxembourg
+2022,International Organisation for Migration ,0.04,0.0%,International Organisation for Migration ,Luxembourg
+2022,International Atomic Energy Agency - assessed contributions,0.02,0.0%,International Atomic Energy Agency - assessed contributions,Luxembourg
+2022,Convention to Combat Desertification ,0.01,0.0%,Convention to Combat Desertification ,Luxembourg
+2022,UNIDIR,0.0,0.0%,United Nations Institute for Disarmament Research,Luxembourg
+2022,Geneva International Centre for Humanitarian Demining ,0.0,0.0%,Geneva International Centre for Humanitarian Demining ,Luxembourg
+2023,European Commission - Development Share of Budget,52.49,0.09%,European Commission - Development Share of Budget,Luxembourg
+2023,IDA,20.59,0.03%,International Development Association ,Luxembourg
+2023,World Health Organisation - core voluntary contributions account,8.81,0.01%,World Health Organisation - core voluntary contributions account,Luxembourg
+2023,UNICEF,7.95,0.01%,United Nations Children's Fund ,Luxembourg
+2023,UNFPA,7.89,0.01%,United Nations Population Fund ,Luxembourg
+2023,UNDP,7.46,0.01%,United Nations Development Programme ,Luxembourg
+2023,ADF,7.04,0.01%,African Development Fund ,Luxembourg
+2023,Global Environment Facility - Least Developed Countries Fund,6.44,0.01%,Global Environment Facility - Least Developed Countries Fund,Luxembourg
+2023,CERF,5.95,0.01%,Central Emergency Response Fund,Luxembourg
+2023,Joint United Nations Programme on HIV/AIDS ,5.08,0.01%,Joint United Nations Programme on HIV/AIDS ,Luxembourg
+2023,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",4.7,0.01%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Luxembourg
+2023,United Nations Entity for Gender Equality and the Empowerment of Women,2.81,0.0%,United Nations Entity for Gender Equality and the Empowerment of Women,Luxembourg
+2023,United Nations Office of Co-ordination of Humanitarian Affairs ,2.49,0.0%,United Nations Office of Co-ordination of Humanitarian Affairs ,Luxembourg
+2023,IFC,2.43,0.0%,International Finance Corporation ,Luxembourg
+2023,WFP,2.43,0.0%,World Food Programme ,Luxembourg
+2023,United Nations Office of the High Commissioner for Refugees,2.16,0.0%,United Nations Office of the High Commissioner for Refugees,Luxembourg
+2023,IFAD,1.41,0.0%,International Fund for Agricultural Development ,Luxembourg
+2023,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,1.13,0.0%,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,Luxembourg
+2023,GAVI,1.08,0.0%,Global Alliance for Vaccines and Immunization ,Luxembourg
+2023,UN,1.03,0.0%,United Nations,Luxembourg
+2023,EIB,0.83,0.0%,European Investment Bank ,Luxembourg
+2023,United Nations Mine Action Service ,0.76,0.0%,United Nations Mine Action Service ,Luxembourg
+2023,UNCDF,0.65,0.0%,United Nations Capital Development Fund ,Luxembourg
+2023,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",0.6,0.0%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",Luxembourg
+2023,United Nations Peacebuilding Fund,0.43,0.0%,United Nations Peacebuilding Fund,Luxembourg
+2023,Organization for Security and Co-operation in Europe,0.37,0.0%,Organization for Security and Co-operation in Europe,Luxembourg
+2023,International Organisation of the Francophonie,0.35,0.0%,International Organisation of the Francophonie,Luxembourg
+2023,Council of Europe,0.33,0.0%,Council of Europe,Luxembourg
+2023,FAO,0.27,0.0%,Food and Agricultural Organisation,Luxembourg
+2023,World Health Organisation - assessed contributions,0.25,0.0%,World Health Organisation - assessed contributions,Luxembourg
+2023,Mekong River Commission ,0.22,0.0%,Mekong River Commission ,Luxembourg
+2023,Geneva Centre for the Democratic Control of Armed Forces,0.22,0.0%,Geneva Centre for the Democratic Control of Armed Forces,Luxembourg
+2023,United Nations Office for Disaster Risk Reduction,0.2,0.0%,United Nations Office for Disaster Risk Reduction,Luxembourg
+2023,International Labour Organisation - Assessed Contributions,0.16,0.0%,International Labour Organisation - Assessed Contributions,Luxembourg
+2023,"United Nations Educational, Scientific and Cultural Organisation",0.14,0.0%,"United Nations Educational, Scientific and Cultural Organisation",Luxembourg
+2023,UNIDO,0.08,0.0%,United Nations Industrial Development Organisation ,Luxembourg
+2023,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),0.07,0.0%,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),Luxembourg
+2023,International Organisation for Migration ,0.05,0.0%,International Organisation for Migration ,Luxembourg
+2023,Convention to Combat Desertification ,0.01,0.0%,Convention to Combat Desertification ,Luxembourg
+2023,Geneva International Centre for Humanitarian Demining ,0.0,0.0%,Geneva International Centre for Humanitarian Demining ,Luxembourg
+2023,UNIDIR,0.0,0.0%,United Nations Institute for Disarmament Research,Luxembourg

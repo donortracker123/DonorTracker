@@ -1,20 +1,20 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
-2019,EC-DSB,1.13,0.4%,european commission development share of budget,Slovenia
-2020,EC-DSB,1.22,0.34%,european commission development share of budget,Slovenia
-2021,EC-DSB,2.74,0.15%,european commission development share of budget,Slovenia
-2022,EC-DSB,5.22,0.45%,european commission development share of budget,Slovenia
-2023,EC-DSB,6.54,0.76%,european commission development share of budget,Slovenia
-2019,EC-EDF,0.95,0.34%,european commission european development fund,Slovenia
-2020,EC-EDF,0.88,0.25%,european commission european development fund,Slovenia
-2021,EC-EDF,0.61,0.03%,european commission european development fund,Slovenia
-2022,EC-EDF,0.2,0.02%,european commission european development fund,Slovenia
-2023,EC-EDF,0.04,0.01%,european commission european development fund,Slovenia
-2019,EIB,0.02,0.01%,european investment bank,Slovenia
+2019,EC-DSB,1.13,40.0%,european commission development share of budget,Slovenia
+2020,EC-DSB,1.22,34.0%,european commission development share of budget,Slovenia
+2021,EC-DSB,2.74,15.0%,european commission development share of budget,Slovenia
+2022,EC-DSB,5.22,45.0%,european commission development share of budget,Slovenia
+2023,EC-DSB,6.54,76.0%,european commission development share of budget,Slovenia
+2019,EC-EDF,0.95,34.0%,european commission european development fund,Slovenia
+2020,EC-EDF,0.88,25.0%,european commission european development fund,Slovenia
+2021,EC-EDF,0.61,3.0%,european commission european development fund,Slovenia
+2022,EC-EDF,0.2,2.0%,european commission european development fund,Slovenia
+2023,EC-EDF,0.04,1.0%,european commission european development fund,Slovenia
+2019,EIB,0.02,1.0%,european investment bank,Slovenia
 2020,EIB,0.01,0.0%,european investment bank,Slovenia
 2021,EIB,0.06,0.0%,european investment bank,Slovenia
 2022,EIB,0.05,0.0%,european investment bank,Slovenia
-2023,EIB,0.05,0.01%,european investment bank,Slovenia
-2019,FAO,0.03,0.01%,food and agricultural organisation,Slovenia
+2023,EIB,0.05,1.0%,european investment bank,Slovenia
+2019,FAO,0.03,1.0%,food and agricultural organisation,Slovenia
 2020,FAO,0.02,0.0%,food and agricultural organisation,Slovenia
 2021,FAO,0.02,0.0%,food and agricultural organisation,Slovenia
 2022,FAO,0.02,0.0%,food and agricultural organisation,Slovenia
@@ -23,19 +23,19 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,GEF-TF,0.06,0.0%,global environment facility trust fund,Slovenia
 2022,GEF-TF,0.02,0.0%,global environment facility trust fund,Slovenia
 2023,GEF-TF,0.02,0.0%,global environment facility trust fund,Slovenia
-2019,IBRD,0.05,0.02%,international bank for reconstruction and development,Slovenia
-2020,IBRD,0.08,0.02%,international bank for reconstruction and development,Slovenia
-2021,IBRD,0.11,0.01%,international bank for reconstruction and development,Slovenia
-2022,IBRD,0.16,0.01%,international bank for reconstruction and development,Slovenia
-2023,IBRD,0.13,0.02%,international bank for reconstruction and development,Slovenia
+2019,IBRD,0.05,2.0%,international bank for reconstruction and development,Slovenia
+2020,IBRD,0.08,2.0%,international bank for reconstruction and development,Slovenia
+2021,IBRD,0.11,1.0%,international bank for reconstruction and development,Slovenia
+2022,IBRD,0.16,1.0%,international bank for reconstruction and development,Slovenia
+2023,IBRD,0.13,2.0%,international bank for reconstruction and development,Slovenia
 2021,ICGEB,0.0,0.0%,international centre for genetic engineering and biotechnology,Slovenia
 2022,ICGEB,0.0,0.0%,international centre for genetic engineering and biotechnology,Slovenia
 2023,ICGEB,0.01,0.0%,international centre for genetic engineering and biotechnology,Slovenia
-2019,IDA,0.12,0.04%,international development association,Slovenia
-2020,IDA,0.15,0.04%,international development association,Slovenia
-2021,IDA,0.14,0.01%,international development association,Slovenia
-2022,IDA,0.21,0.02%,international development association,Slovenia
-2023,IDA,0.21,0.02%,international development association,Slovenia
+2019,IDA,0.12,4.0%,international development association,Slovenia
+2020,IDA,0.15,4.0%,international development association,Slovenia
+2021,IDA,0.14,1.0%,international development association,Slovenia
+2022,IDA,0.21,2.0%,international development association,Slovenia
+2023,IDA,0.21,2.0%,international development association,Slovenia
 2022,IFC,0.0,0.0%,international finance corporation,Slovenia
 2023,IFC,0.0,0.0%,international finance corporation,Slovenia
 2019,UN,0.0,0.0%,united nations,Slovenia
@@ -46,11 +46,11 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2019,UNFPA,0.0,0.0%,united nations population fund,Slovenia
 2022,UNFPA,0.01,0.0%,united nations population fund,Slovenia
 2023,UNFPA,0.03,0.0%,united nations population fund,Slovenia
-2019,WHO-AC,0.28,0.1%,world health organisation assessed contributions,Slovenia
-2020,WHO-AC,0.27,0.08%,world health organisation assessed contributions,Slovenia
-2021,WHO-AC,0.23,0.01%,world health organisation assessed contributions,Slovenia
-2022,WHO-AC,0.26,0.02%,world health organisation assessed contributions,Slovenia
-2023,WHO-AC,0.26,0.03%,world health organisation assessed contributions,Slovenia
+2019,WHO-AC,0.28,10.0%,world health organisation assessed contributions,Slovenia
+2020,WHO-AC,0.27,8.0%,world health organisation assessed contributions,Slovenia
+2021,WHO-AC,0.23,1.0%,world health organisation assessed contributions,Slovenia
+2022,WHO-AC,0.26,2.0%,world health organisation assessed contributions,Slovenia
+2023,WHO-AC,0.26,3.0%,world health organisation assessed contributions,Slovenia
 2019,,0.01,0.0%,united nations children’s fund,Slovenia
 2020,,0.01,0.0%,united nations children’s fund,Slovenia
 2021,,0.01,0.0%,united nations children’s fund,Slovenia

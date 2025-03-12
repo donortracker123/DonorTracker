@@ -16,11 +16,11 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,FAO,0.14,0.0%,food and agricultural organisation,Norway
 2022,FAO,0.1,0.0%,food and agricultural organisation,Norway
 2023,FAO,0.14,0.0%,food and agricultural organisation,Norway
-2019,GAVI,146.26,0.26%,global alliance for vaccines and immunization,Norway
-2020,GAVI,158.17,0.21%,global alliance for vaccines and immunization,Norway
-2021,GAVI,128.48,0.16%,global alliance for vaccines and immunization,Norway
-2022,GAVI,95.03,0.22%,global alliance for vaccines and immunization,Norway
-2023,GAVI,95.51,0.21%,global alliance for vaccines and immunization,Norway
+2019,GAVI,146.26,26.0%,global alliance for vaccines and immunization,Norway
+2020,GAVI,158.17,21.0%,global alliance for vaccines and immunization,Norway
+2021,GAVI,128.48,16.0%,global alliance for vaccines and immunization,Norway
+2022,GAVI,95.03,22.0%,global alliance for vaccines and immunization,Norway
+2023,GAVI,95.51,21.0%,global alliance for vaccines and immunization,Norway
 2022,GCF,0.01,0.0%,green climate fund,Norway
 2023,GCF,0.01,0.0%,green climate fund,Norway
 2019,GEF-TF,0.01,0.0%,global environment facility trust fund,Norway
@@ -28,20 +28,20 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,GEF-TF,0.29,0.0%,global environment facility trust fund,Norway
 2022,GEF-TF,0.28,0.0%,global environment facility trust fund,Norway
 2023,GEF-TF,0.27,0.0%,global environment facility trust fund,Norway
-2019,GFATM,87.42,0.15%,global fund to fight aids tuberculosis and malaria,Norway
-2020,GFATM,98.46,0.13%,global fund to fight aids tuberculosis and malaria,Norway
-2021,GFATM,130.92,0.16%,global fund to fight aids tuberculosis and malaria,Norway
-2022,GFATM,68.34,0.16%,global fund to fight aids tuberculosis and malaria,Norway
-2023,GFATM,40.34,0.09%,global fund to fight aids tuberculosis and malaria,Norway
+2019,GFATM,87.42,15.0%,global fund to fight aids tuberculosis and malaria,Norway
+2020,GFATM,98.46,13.0%,global fund to fight aids tuberculosis and malaria,Norway
+2021,GFATM,130.92,16.0%,global fund to fight aids tuberculosis and malaria,Norway
+2022,GFATM,68.34,16.0%,global fund to fight aids tuberculosis and malaria,Norway
+2023,GFATM,40.34,9.0%,global fund to fight aids tuberculosis and malaria,Norway
 2020,IBRD,0.97,0.0%,international bank for reconstruction and development,Norway
 2021,IBRD,1.22,0.0%,international bank for reconstruction and development,Norway
 2022,IBRD,1.25,0.0%,international bank for reconstruction and development,Norway
 2023,IBRD,1.63,0.0%,international bank for reconstruction and development,Norway
-2019,IDA,10.75,0.02%,international development association,Norway
-2020,IDA,13.9,0.02%,international development association,Norway
-2021,IDA,11.68,0.01%,international development association,Norway
-2022,IDA,10.52,0.02%,international development association,Norway
-2023,IDA,12.14,0.03%,international development association,Norway
+2019,IDA,10.75,2.0%,international development association,Norway
+2020,IDA,13.9,2.0%,international development association,Norway
+2021,IDA,11.68,1.0%,international development association,Norway
+2022,IDA,10.52,2.0%,international development association,Norway
+2023,IDA,12.14,3.0%,international development association,Norway
 2019,IDB-IIC-MIF,0.07,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Norway
 2020,IDB-IIC-MIF,0.08,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Norway
 2021,IDB-IIC-MIF,0.02,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Norway
@@ -53,7 +53,7 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,UN,0.02,0.0%,united nations,Norway
 2022,UN,0.03,0.0%,united nations,Norway
 2023,UN,0.05,0.0%,united nations,Norway
-2019,UNAIDS,11.25,0.02%,joint united nations programme on hiv aids,Norway
+2019,UNAIDS,11.25,2.0%,joint united nations programme on hiv aids,Norway
 2020,UNAIDS,3.21,0.0%,joint united nations programme on hiv aids,Norway
 2021,UNAIDS,0.2,0.0%,joint united nations programme on hiv aids,Norway
 2023,UNAIDS,1.42,0.0%,joint united nations programme on hiv aids,Norway
@@ -62,31 +62,31 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,UNDP,1.59,0.0%,united nations development programme,Norway
 2022,UNDP,1.29,0.0%,united nations development programme,Norway
 2023,UNDP,1.42,0.0%,united nations development programme,Norway
-2019,UNFPA,24.36,0.04%,united nations population fund,Norway
-2020,UNFPA,20.22,0.03%,united nations population fund,Norway
-2021,UNFPA,14.29,0.02%,united nations population fund,Norway
-2022,UNFPA,23.55,0.05%,united nations population fund,Norway
-2023,UNFPA,34.19,0.08%,united nations population fund,Norway
+2019,UNFPA,24.36,4.0%,united nations population fund,Norway
+2020,UNFPA,20.22,3.0%,united nations population fund,Norway
+2021,UNFPA,14.29,2.0%,united nations population fund,Norway
+2022,UNFPA,23.55,5.0%,united nations population fund,Norway
+2023,UNFPA,34.19,8.0%,united nations population fund,Norway
 2019,UNRWA,2.42,0.0%,united nations relief and works agency for palestine refugees in the near east,Norway
 2020,UNRWA,2.92,0.0%,united nations relief and works agency for palestine refugees in the near east,Norway
 2021,UNRWA,2.69,0.0%,united nations relief and works agency for palestine refugees in the near east,Norway
-2022,UNRWA,2.62,0.01%,united nations relief and works agency for palestine refugees in the near east,Norway
-2023,UNRWA,2.74,0.01%,united nations relief and works agency for palestine refugees in the near east,Norway
+2022,UNRWA,2.62,1.0%,united nations relief and works agency for palestine refugees in the near east,Norway
+2023,UNRWA,2.74,1.0%,united nations relief and works agency for palestine refugees in the near east,Norway
 2019,WFP,0.98,0.0%,world food programme,Norway
 2020,WFP,0.67,0.0%,world food programme,Norway
 2021,WFP,1.6,0.0%,world food programme,Norway
 2022,WFP,0.75,0.0%,world food programme,Norway
 2023,WFP,0.89,0.0%,world food programme,Norway
-2019,WHO-AC,2.84,0.01%,world health organisation assessed contributions,Norway
+2019,WHO-AC,2.84,1.0%,world health organisation assessed contributions,Norway
 2020,WHO-AC,2.79,0.0%,world health organisation assessed contributions,Norway
 2021,WHO-AC,2.1,0.0%,world health organisation assessed contributions,Norway
 2022,WHO-AC,1.58,0.0%,world health organisation assessed contributions,Norway
 2023,WHO-AC,1.94,0.0%,world health organisation assessed contributions,Norway
-2022,WHO-CVCA,2.8,0.01%,world health organisation core voluntary contributions account,Norway
-2023,WHO-CVCA,7.91,0.02%,world health organisation core voluntary contributions account,Norway
-2021,WHO-SPRP,6.56,0.01%,world health organisation strategic preparedness and response plan,Norway
-2019,,8.66,0.02%,united nations children’s fund,Norway
-2020,,8.31,0.01%,united nations children’s fund,Norway
-2021,,7.65,0.01%,united nations children’s fund,Norway
-2022,,5.56,0.01%,united nations children’s fund,Norway
-2023,,6.13,0.01%,united nations children’s fund,Norway
+2022,WHO-CVCA,2.8,1.0%,world health organisation core voluntary contributions account,Norway
+2023,WHO-CVCA,7.91,2.0%,world health organisation core voluntary contributions account,Norway
+2021,WHO-SPRP,6.56,1.0%,world health organisation strategic preparedness and response plan,Norway
+2019,,8.66,2.0%,united nations children’s fund,Norway
+2020,,8.31,1.0%,united nations children’s fund,Norway
+2021,,7.65,1.0%,united nations children’s fund,Norway
+2022,,5.56,1.0%,united nations children’s fund,Norway
+2023,,6.13,1.0%,united nations children’s fund,Norway

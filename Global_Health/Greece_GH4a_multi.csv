@@ -1,27 +1,27 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
-2020,AIIB,0.06,0.01%,asian infrastructure investment bank,Greece
+2020,AIIB,0.06,1.0%,asian infrastructure investment bank,Greece
 2021,AIIB,0.05,0.0%,asian infrastructure investment bank,Greece
 2022,AIIB,0.06,0.0%,asian infrastructure investment bank,Greece
 2023,AIIB,0.04,0.0%,asian infrastructure investment bank,Greece
-2019,EC-DSB,3.86,0.36%,european commission development share of budget,Greece
-2020,EC-DSB,4.17,0.38%,european commission development share of budget,Greece
-2021,EC-DSB,8.87,0.19%,european commission development share of budget,Greece
-2022,EC-DSB,16.23,0.39%,european commission development share of budget,Greece
-2023,EC-DSB,17.99,0.98%,european commission development share of budget,Greece
-2019,EC-EDF,6.5,0.61%,european commission european development fund,Greece
-2020,EC-EDF,6.13,0.57%,european commission european development fund,Greece
-2021,EC-EDF,4.12,0.09%,european commission european development fund,Greece
-2022,EC-EDF,1.45,0.03%,european commission european development fund,Greece
-2023,EC-EDF,0.34,0.02%,european commission european development fund,Greece
-2019,FAO,0.1,0.01%,food and agricultural organisation,Greece
-2020,FAO,0.08,0.01%,food and agricultural organisation,Greece
+2019,EC-DSB,3.86,36.0%,european commission development share of budget,Greece
+2020,EC-DSB,4.17,38.0%,european commission development share of budget,Greece
+2021,EC-DSB,8.87,19.0%,european commission development share of budget,Greece
+2022,EC-DSB,16.23,39.0%,european commission development share of budget,Greece
+2023,EC-DSB,17.99,98.0%,european commission development share of budget,Greece
+2019,EC-EDF,6.5,61.0%,european commission european development fund,Greece
+2020,EC-EDF,6.13,56.99999999999999%,european commission european development fund,Greece
+2021,EC-EDF,4.12,9.0%,european commission european development fund,Greece
+2022,EC-EDF,1.45,3.0%,european commission european development fund,Greece
+2023,EC-EDF,0.34,2.0%,european commission european development fund,Greece
+2019,FAO,0.1,1.0%,food and agricultural organisation,Greece
+2020,FAO,0.08,1.0%,food and agricultural organisation,Greece
 2021,FAO,0.08,0.0%,food and agricultural organisation,Greece
 2022,FAO,0.07,0.0%,food and agricultural organisation,Greece
-2021,GAVI,1.77,0.04%,global alliance for vaccines and immunization,Greece
+2021,GAVI,1.77,4.0%,global alliance for vaccines and immunization,Greece
 2020,GEF-TF,0.0,0.0%,global environment facility trust fund,Greece
-2020,GFATM,0.06,0.01%,global fund to fight aids tuberculosis and malaria,Greece
-2019,IDA,0.24,0.02%,international development association,Greece
-2020,IDA,0.29,0.03%,international development association,Greece
+2020,GFATM,0.06,1.0%,global fund to fight aids tuberculosis and malaria,Greece
+2019,IDA,0.24,2.0%,international development association,Greece
+2020,IDA,0.29,3.0%,international development association,Greece
 2019,UN,0.0,0.0%,united nations,Greece
 2022,UN,0.01,0.0%,united nations,Greece
 2023,UN,0.01,0.0%,united nations,Greece
@@ -30,5 +30,5 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2020,UNRWA,0.01,0.0%,united nations relief and works agency for palestine refugees in the near east,Greece
 2022,UNRWA,0.01,0.0%,united nations relief and works agency for palestine refugees in the near east,Greece
 2023,UNRWA,0.01,0.0%,united nations relief and works agency for palestine refugees in the near east,Greece
-2022,WHO-AC,1.83,0.04%,world health organisation assessed contributions,Greece
+2022,WHO-AC,1.83,4.0%,world health organisation assessed contributions,Greece
 2022,,0.05,0.0%,united nations children’s fund,Greece

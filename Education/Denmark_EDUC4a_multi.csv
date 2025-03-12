@@ -1,6 +1,6 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
-2019,ADF,3.26,0.02%,african development fund,Denmark
-2020,ADF,0.9,0.01%,african development fund,Denmark
+2019,ADF,3.26,2.0%,african development fund,Denmark
+2020,ADF,0.9,1.0%,african development fund,Denmark
 2021,ADF,0.47,0.0%,african development fund,Denmark
 2022,ADF,0.29,0.0%,african development fund,Denmark
 2023,ADF,0.15,0.0%,african development fund,Denmark
@@ -9,15 +9,15 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,AfDB,0.03,0.0%,african development bank,Denmark
 2022,AfDB,0.05,0.0%,african development bank,Denmark
 2023,AfDB,0.22,0.0%,african development bank,Denmark
-2019,EC-DSB,19.26,0.14%,european commission development share of budget,Denmark
-2020,EC-DSB,20.42,0.12%,european commission development share of budget,Denmark
-2021,EC-DSB,21.01,0.18%,european commission development share of budget,Denmark
-2022,EC-DSB,24.22,0.2%,european commission development share of budget,Denmark
-2023,EC-DSB,25.18,0.2%,european commission development share of budget,Denmark
-2019,EC-EDF,5.4,0.04%,european commission european development fund,Denmark
-2020,EC-EDF,5.54,0.03%,european commission european development fund,Denmark
-2021,EC-EDF,2.8,0.02%,european commission european development fund,Denmark
-2022,EC-EDF,1.2,0.01%,european commission european development fund,Denmark
+2019,EC-DSB,19.26,14.000000000000002%,european commission development share of budget,Denmark
+2020,EC-DSB,20.42,12.0%,european commission development share of budget,Denmark
+2021,EC-DSB,21.01,18.0%,european commission development share of budget,Denmark
+2022,EC-DSB,24.22,20.0%,european commission development share of budget,Denmark
+2023,EC-DSB,25.18,20.0%,european commission development share of budget,Denmark
+2019,EC-EDF,5.4,4.0%,european commission european development fund,Denmark
+2020,EC-EDF,5.54,3.0%,european commission european development fund,Denmark
+2021,EC-EDF,2.8,2.0%,european commission european development fund,Denmark
+2022,EC-EDF,1.2,1.0%,european commission european development fund,Denmark
 2023,EC-EDF,0.25,0.0%,european commission european development fund,Denmark
 2019,EIB,0.03,0.0%,european investment bank,Denmark
 2020,EIB,0.02,0.0%,european investment bank,Denmark
@@ -29,15 +29,15 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,FAO,0.0,0.0%,food and agricultural organisation,Denmark
 2022,FAO,0.0,0.0%,food and agricultural organisation,Denmark
 2023,FAO,0.0,0.0%,food and agricultural organisation,Denmark
-2020,IBRD,1.72,0.01%,international bank for reconstruction and development,Denmark
+2020,IBRD,1.72,1.0%,international bank for reconstruction and development,Denmark
 2021,IBRD,0.18,0.0%,international bank for reconstruction and development,Denmark
 2022,IBRD,0.47,0.0%,international bank for reconstruction and development,Denmark
 2023,IBRD,0.51,0.0%,international bank for reconstruction and development,Denmark
-2019,IDA,7.87,0.06%,international development association,Denmark
-2020,IDA,13.17,0.08%,international development association,Denmark
-2021,IDA,7.66,0.06%,international development association,Denmark
-2022,IDA,5.26,0.04%,international development association,Denmark
-2023,IDA,8.07,0.06%,international development association,Denmark
+2019,IDA,7.87,6.0%,international development association,Denmark
+2020,IDA,13.17,8.0%,international development association,Denmark
+2021,IDA,7.66,6.0%,international development association,Denmark
+2022,IDA,5.26,4.0%,international development association,Denmark
+2023,IDA,8.07,6.0%,international development association,Denmark
 2019,ILO-RBSA,0.01,0.0%,international labour organisation regular budget supplementary account,Denmark
 2020,ILO-RBSA,0.03,0.0%,international labour organisation regular budget supplementary account,Denmark
 2021,ILO-RBSA,0.05,0.0%,international labour organisation regular budget supplementary account,Denmark
@@ -49,16 +49,16 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,UNDP,0.0,0.0%,united nations development programme,Denmark
 2022,UNDP,0.07,0.0%,united nations development programme,Denmark
 2023,UNDP,0.09,0.0%,united nations development programme,Denmark
-2019,UNFPA,2.31,0.02%,united nations population fund,Denmark
-2020,UNFPA,1.78,0.01%,united nations population fund,Denmark
-2021,UNFPA,1.66,0.01%,united nations population fund,Denmark
-2022,UNFPA,1.76,0.01%,united nations population fund,Denmark
-2023,UNFPA,1.85,0.01%,united nations population fund,Denmark
-2019,UNRWA,6.6,0.05%,united nations relief and works agency for palestine refugees in the near east,Denmark
-2020,UNRWA,9.9,0.06%,united nations relief and works agency for palestine refugees in the near east,Denmark
-2021,UNRWA,11.02,0.09%,united nations relief and works agency for palestine refugees in the near east,Denmark
-2022,UNRWA,9.04,0.07%,united nations relief and works agency for palestine refugees in the near east,Denmark
-2023,UNRWA,10.25,0.08%,united nations relief and works agency for palestine refugees in the near east,Denmark
+2019,UNFPA,2.31,2.0%,united nations population fund,Denmark
+2020,UNFPA,1.78,1.0%,united nations population fund,Denmark
+2021,UNFPA,1.66,1.0%,united nations population fund,Denmark
+2022,UNFPA,1.76,1.0%,united nations population fund,Denmark
+2023,UNFPA,1.85,1.0%,united nations population fund,Denmark
+2019,UNRWA,6.6,5.0%,united nations relief and works agency for palestine refugees in the near east,Denmark
+2020,UNRWA,9.9,6.0%,united nations relief and works agency for palestine refugees in the near east,Denmark
+2021,UNRWA,11.02,9.0%,united nations relief and works agency for palestine refugees in the near east,Denmark
+2022,UNRWA,9.04,7.000000000000001%,united nations relief and works agency for palestine refugees in the near east,Denmark
+2023,UNRWA,10.25,8.0%,united nations relief and works agency for palestine refugees in the near east,Denmark
 2019,WFP,0.61,0.0%,world food programme,Denmark
 2019,,0.55,0.0%,united nations children’s fund,Denmark
 2020,,0.46,0.0%,united nations children’s fund,Denmark

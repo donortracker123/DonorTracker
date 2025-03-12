@@ -1,10 +1,10 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
-2023,ADB,9.12,0.01%,asian development bank,Japan
-2019,ADF,36.55,0.04%,african development fund,Japan
-2020,ADF,14.3,0.02%,african development fund,Japan
-2021,ADF,74.46,0.09%,african development fund,Japan
-2022,ADF,13.52,0.02%,african development fund,Japan
-2023,ADF,23.15,0.02%,african development fund,Japan
+2023,ADB,9.12,1.0%,asian development bank,Japan
+2019,ADF,36.55,4.0%,african development fund,Japan
+2020,ADF,14.3,2.0%,african development fund,Japan
+2021,ADF,74.46,9.0%,african development fund,Japan
+2022,ADF,13.52,2.0%,african development fund,Japan
+2023,ADF,23.15,2.0%,african development fund,Japan
 2022,AF,1.85,0.0%,adaptation fund,Japan
 2023,AF,1.63,0.0%,adaptation fund,Japan
 2020,AfDB,3.08,0.0%,african development bank,Japan
@@ -13,32 +13,32 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2023,AfDB,4.36,0.0%,african development bank,Japan
 2022,CGIAR ,0.38,0.0%,cgiar fund,Japan
 2023,CGIAR ,0.17,0.0%,cgiar fund,Japan
-2019,FAO,18.1,0.02%,food and agricultural organisation,Japan
-2020,FAO,14.74,0.02%,food and agricultural organisation,Japan
-2021,FAO,14.88,0.02%,food and agricultural organisation,Japan
-2022,FAO,16.21,0.02%,food and agricultural organisation,Japan
+2019,FAO,18.1,2.0%,food and agricultural organisation,Japan
+2020,FAO,14.74,2.0%,food and agricultural organisation,Japan
+2021,FAO,14.88,2.0%,food and agricultural organisation,Japan
+2022,FAO,16.21,2.0%,food and agricultural organisation,Japan
 2023,FAO,0.12,0.0%,food and agricultural organisation,Japan
-2020,GCF,84.37,0.09%,green climate fund,Japan
-2021,GCF,101.06,0.13%,green climate fund,Japan
-2022,GCF,108.48,0.13%,green climate fund,Japan
-2023,GCF,86.86,0.08%,green climate fund,Japan
-2019,GEF-TF,5.34,0.01%,global environment facility trust fund,Japan
-2020,GEF-TF,5.52,0.01%,global environment facility trust fund,Japan
-2021,GEF-TF,13.1,0.02%,global environment facility trust fund,Japan
-2023,GEF-TF,27.09,0.02%,global environment facility trust fund,Japan
-2019,IBRD,21.33,0.02%,international bank for reconstruction and development,Japan
-2022,IBRD,10.76,0.01%,international bank for reconstruction and development,Japan
+2020,GCF,84.37,9.0%,green climate fund,Japan
+2021,GCF,101.06,13.0%,green climate fund,Japan
+2022,GCF,108.48,13.0%,green climate fund,Japan
+2023,GCF,86.86,8.0%,green climate fund,Japan
+2019,GEF-TF,5.34,1.0%,global environment facility trust fund,Japan
+2020,GEF-TF,5.52,1.0%,global environment facility trust fund,Japan
+2021,GEF-TF,13.1,2.0%,global environment facility trust fund,Japan
+2023,GEF-TF,27.09,2.0%,global environment facility trust fund,Japan
+2019,IBRD,21.33,2.0%,international bank for reconstruction and development,Japan
+2022,IBRD,10.76,1.0%,international bank for reconstruction and development,Japan
 2023,IBRD,0.56,0.0%,international bank for reconstruction and development,Japan
-2019,IDA,191.52,0.2%,international development association,Japan
-2020,IDA,85.56,0.09%,international development association,Japan
-2021,IDA,93.29,0.12%,international development association,Japan
-2022,IDA,81.32,0.1%,international development association,Japan
-2023,IDA,163.81,0.14%,international development association,Japan
+2019,IDA,191.52,20.0%,international development association,Japan
+2020,IDA,85.56,9.0%,international development association,Japan
+2021,IDA,93.29,12.0%,international development association,Japan
+2022,IDA,81.32,10.0%,international development association,Japan
+2023,IDA,163.81,14.000000000000002%,international development association,Japan
 2019,IDB-IIC-MIF,1.65,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Japan
 2020,IDB-IIC-MIF,0.05,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Japan
 2021,IDB-IIC-MIF,0.02,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Japan
 2022,IDB-IIC-MIF,0.02,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Japan
-2022,IFC,25.04,0.03%,international finance corporation,Japan
+2022,IFC,25.04,3.0%,international finance corporation,Japan
 2022,UN,0.16,0.0%,united nations,Japan
 2023,UN,0.43,0.0%,united nations,Japan
 2019,UNDP,0.11,0.0%,united nations development programme,Japan

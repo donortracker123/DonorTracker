@@ -1,9 +1,9 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
-2019,ADF,19.73,0.02%,african development fund,France
-2020,ADF,21.33,0.02%,african development fund,France
-2021,ADF,19.02,0.02%,african development fund,France
-2022,ADF,19.72,0.02%,african development fund,France
-2023,ADF,34.84,0.04%,african development fund,France
+2019,ADF,19.73,2.0%,african development fund,France
+2020,ADF,21.33,2.0%,african development fund,France
+2021,ADF,19.02,2.0%,african development fund,France
+2022,ADF,19.72,2.0%,african development fund,France
+2023,ADF,34.84,4.0%,african development fund,France
 2022,AF,1.81,0.0%,adaptation fund,France
 2023,AF,1.46,0.0%,adaptation fund,France
 2019,AIIB,0.48,0.0%,asian infrastructure investment bank,France
@@ -13,48 +13,48 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2022,AfDB,3.47,0.0%,african development bank,France
 2023,AfDB,3.67,0.0%,african development bank,France
 2022,CGIAR ,5.92,0.0%,cgiar fund,France
-2023,CGIAR ,5.62,0.01%,cgiar fund,France
-2019,EC-DSB,121.15,0.12%,european commission development share of budget,France
-2020,EC-DSB,111.51,0.09%,european commission development share of budget,France
-2021,EC-DSB,124.78,0.1%,european commission development share of budget,France
-2022,EC-DSB,138.3,0.11%,european commission development share of budget,France
-2023,EC-DSB,130.94,0.16%,european commission development share of budget,France
-2019,EC-EDF,137.03,0.14%,european commission european development fund,France
-2020,EC-EDF,124.63,0.1%,european commission european development fund,France
-2021,EC-EDF,85.43,0.07%,european commission european development fund,France
-2022,EC-EDF,37.31,0.03%,european commission european development fund,France
-2023,EC-EDF,14.6,0.02%,european commission european development fund,France
-2019,FAO,13.19,0.01%,food and agricultural organisation,France
-2020,FAO,10.21,0.01%,food and agricultural organisation,France
-2021,FAO,9.42,0.01%,food and agricultural organisation,France
-2022,FAO,9.65,0.01%,food and agricultural organisation,France
-2023,FAO,8.65,0.01%,food and agricultural organisation,France
-2019,GCF,21.47,0.02%,green climate fund,France
-2020,GCF,13.62,0.01%,green climate fund,France
-2021,GCF,151.57,0.13%,green climate fund,France
-2022,GCF,391.8,0.31%,green climate fund,France
-2023,GCF,77.63,0.09%,green climate fund,France
+2023,CGIAR ,5.62,1.0%,cgiar fund,France
+2019,EC-DSB,121.15,12.0%,european commission development share of budget,France
+2020,EC-DSB,111.51,9.0%,european commission development share of budget,France
+2021,EC-DSB,124.78,10.0%,european commission development share of budget,France
+2022,EC-DSB,138.3,11.0%,european commission development share of budget,France
+2023,EC-DSB,130.94,16.0%,european commission development share of budget,France
+2019,EC-EDF,137.03,14.000000000000002%,european commission european development fund,France
+2020,EC-EDF,124.63,10.0%,european commission european development fund,France
+2021,EC-EDF,85.43,7.000000000000001%,european commission european development fund,France
+2022,EC-EDF,37.31,3.0%,european commission european development fund,France
+2023,EC-EDF,14.6,2.0%,european commission european development fund,France
+2019,FAO,13.19,1.0%,food and agricultural organisation,France
+2020,FAO,10.21,1.0%,food and agricultural organisation,France
+2021,FAO,9.42,1.0%,food and agricultural organisation,France
+2022,FAO,9.65,1.0%,food and agricultural organisation,France
+2023,FAO,8.65,1.0%,food and agricultural organisation,France
+2019,GCF,21.47,2.0%,green climate fund,France
+2020,GCF,13.62,1.0%,green climate fund,France
+2021,GCF,151.57,13.0%,green climate fund,France
+2022,GCF,391.8,31.0%,green climate fund,France
+2023,GCF,77.63,9.0%,green climate fund,France
 2019,GEF-TF,2.1,0.0%,global environment facility trust fund,France
 2020,GEF-TF,2.06,0.0%,global environment facility trust fund,France
 2021,GEF-TF,4.67,0.0%,global environment facility trust fund,France
 2022,GEF-TF,5.93,0.0%,global environment facility trust fund,France
-2023,GEF-TF,12.88,0.02%,global environment facility trust fund,France
+2023,GEF-TF,12.88,2.0%,global environment facility trust fund,France
 2019,IBRD,4.72,0.0%,international bank for reconstruction and development,France
 2020,IBRD,4.21,0.0%,international bank for reconstruction and development,France
 2021,IBRD,3.58,0.0%,international bank for reconstruction and development,France
 2022,IBRD,4.47,0.0%,international bank for reconstruction and development,France
-2023,IBRD,4.23,0.01%,international bank for reconstruction and development,France
-2019,IDA,54.4,0.06%,international development association,France
-2020,IDA,49.04,0.04%,international development association,France
-2021,IDA,57.19,0.05%,international development association,France
-2022,IDA,47.6,0.04%,international development association,France
-2023,IDA,94.01,0.11%,international development association,France
+2023,IBRD,4.23,1.0%,international bank for reconstruction and development,France
+2019,IDA,54.4,6.0%,international development association,France
+2020,IDA,49.04,4.0%,international development association,France
+2021,IDA,57.19,5.0%,international development association,France
+2022,IDA,47.6,4.0%,international development association,France
+2023,IDA,94.01,11.0%,international development association,France
 2019,IDB-IIC-MIF,0.05,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,France
 2020,IDB-IIC-MIF,0.02,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,France
 2021,IDB-IIC-MIF,0.01,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,France
 2022,IDB-IIC-MIF,0.01,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,France
-2022,IFC,16.08,0.01%,international finance corporation,France
-2023,IFC,15.31,0.02%,international finance corporation,France
+2022,IFC,16.08,1.0%,international finance corporation,France
+2023,IFC,15.31,2.0%,international finance corporation,France
 2019,ILO-RBSA,0.01,0.0%,international labour organisation regular budget supplementary account,France
 2020,ILO-RBSA,0.0,0.0%,international labour organisation regular budget supplementary account,France
 2021,ILO-RBSA,0.0,0.0%,international labour organisation regular budget supplementary account,France

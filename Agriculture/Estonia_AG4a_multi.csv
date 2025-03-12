@@ -1,28 +1,28 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
-2019,EC-DSB,2.02,0.66%,european commission development share of budget,Estonia
-2020,EC-DSB,1.63,0.6%,european commission development share of budget,Estonia
-2021,EC-DSB,1.59,0.48%,european commission development share of budget,Estonia
-2022,EC-DSB,1.95,0.64%,european commission development share of budget,Estonia
-2023,EC-DSB,1.94,0.61%,european commission development share of budget,Estonia
-2019,EC-EDF,0.75,0.25%,european commission european development fund,Estonia
-2020,EC-EDF,0.71,0.26%,european commission european development fund,Estonia
-2021,EC-EDF,0.52,0.16%,european commission european development fund,Estonia
-2022,EC-EDF,0.19,0.06%,european commission european development fund,Estonia
-2023,EC-EDF,0.07,0.02%,european commission european development fund,Estonia
-2020,FAO,0.11,0.04%,food and agricultural organisation,Estonia
-2021,FAO,0.09,0.03%,food and agricultural organisation,Estonia
-2022,FAO,0.1,0.03%,food and agricultural organisation,Estonia
-2023,FAO,0.09,0.03%,food and agricultural organisation,Estonia
-2021,IBRD,0.13,0.04%,international bank for reconstruction and development,Estonia
-2022,IBRD,0.07,0.02%,international bank for reconstruction and development,Estonia
-2023,IBRD,0.06,0.02%,international bank for reconstruction and development,Estonia
-2019,IDA,0.23,0.08%,international development association,Estonia
-2020,IDA,0.22,0.08%,international development association,Estonia
-2021,IDA,0.19,0.06%,international development association,Estonia
-2022,IDA,0.14,0.05%,international development association,Estonia
-2023,IDA,0.3,0.09%,international development association,Estonia
-2022,IFC,0.22,0.07%,international finance corporation,Estonia
-2023,IFC,0.18,0.06%,international finance corporation,Estonia
+2019,EC-DSB,2.02,66.0%,european commission development share of budget,Estonia
+2020,EC-DSB,1.63,60.0%,european commission development share of budget,Estonia
+2021,EC-DSB,1.59,48.0%,european commission development share of budget,Estonia
+2022,EC-DSB,1.95,64.0%,european commission development share of budget,Estonia
+2023,EC-DSB,1.94,61.0%,european commission development share of budget,Estonia
+2019,EC-EDF,0.75,25.0%,european commission european development fund,Estonia
+2020,EC-EDF,0.71,26.0%,european commission european development fund,Estonia
+2021,EC-EDF,0.52,16.0%,european commission european development fund,Estonia
+2022,EC-EDF,0.19,6.0%,european commission european development fund,Estonia
+2023,EC-EDF,0.07,2.0%,european commission european development fund,Estonia
+2020,FAO,0.11,4.0%,food and agricultural organisation,Estonia
+2021,FAO,0.09,3.0%,food and agricultural organisation,Estonia
+2022,FAO,0.1,3.0%,food and agricultural organisation,Estonia
+2023,FAO,0.09,3.0%,food and agricultural organisation,Estonia
+2021,IBRD,0.13,4.0%,international bank for reconstruction and development,Estonia
+2022,IBRD,0.07,2.0%,international bank for reconstruction and development,Estonia
+2023,IBRD,0.06,2.0%,international bank for reconstruction and development,Estonia
+2019,IDA,0.23,8.0%,international development association,Estonia
+2020,IDA,0.22,8.0%,international development association,Estonia
+2021,IDA,0.19,6.0%,international development association,Estonia
+2022,IDA,0.14,5.0%,international development association,Estonia
+2023,IDA,0.3,9.0%,international development association,Estonia
+2022,IFC,0.22,7.000000000000001%,international finance corporation,Estonia
+2023,IFC,0.18,6.0%,international finance corporation,Estonia
 2022,UN,0.0,0.0%,united nations,Estonia
 2023,UN,0.0,0.0%,united nations,Estonia
 2020,UNCTAD,0.0,0.0%,united nations conference on trade and development,Estonia
@@ -31,9 +31,9 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2020,UNDP,0.0,0.0%,united nations development programme,Estonia
 2021,UNDP,0.0,0.0%,united nations development programme,Estonia
 2019,UNECE-EXB,0.0,0.0%,united nations economic commission for europe extrabudgetary contributions only,Estonia
-2021,WOAH,0.06,0.02%,world organisation for animal health,Estonia
-2022,WOAH,0.05,0.02%,world organisation for animal health,Estonia
-2023,WOAH,0.06,0.02%,world organisation for animal health,Estonia
+2021,WOAH,0.06,2.0%,world organisation for animal health,Estonia
+2022,WOAH,0.05,2.0%,world organisation for animal health,Estonia
+2023,WOAH,0.06,2.0%,world organisation for animal health,Estonia
 2019,,0.0,0.0%,united nations children’s fund,Estonia
 2020,,0.0,0.0%,united nations children’s fund,Estonia
 2021,,0.0,0.0%,united nations children’s fund,Estonia

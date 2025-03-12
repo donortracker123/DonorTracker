@@ -1,14 +1,14 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
 2022,AF,0.0,0.0%,adaptation fund,Slovenia
-2019,EC-DSB,3.52,0.17%,european commission development share of budget,Slovenia
-2020,EC-DSB,3.75,0.16%,european commission development share of budget,Slovenia
-2021,EC-DSB,3.92,0.16%,european commission development share of budget,Slovenia
-2022,EC-DSB,5.32,0.22%,european commission development share of budget,Slovenia
-2023,EC-DSB,6.15,0.23%,european commission development share of budget,Slovenia
-2019,EC-EDF,0.65,0.03%,european commission european development fund,Slovenia
-2020,EC-EDF,0.68,0.03%,european commission european development fund,Slovenia
-2021,EC-EDF,0.37,0.02%,european commission european development fund,Slovenia
-2022,EC-EDF,0.15,0.01%,european commission european development fund,Slovenia
+2019,EC-DSB,3.52,17.0%,european commission development share of budget,Slovenia
+2020,EC-DSB,3.75,16.0%,european commission development share of budget,Slovenia
+2021,EC-DSB,3.92,16.0%,european commission development share of budget,Slovenia
+2022,EC-DSB,5.32,22.0%,european commission development share of budget,Slovenia
+2023,EC-DSB,6.15,23.0%,european commission development share of budget,Slovenia
+2019,EC-EDF,0.65,3.0%,european commission european development fund,Slovenia
+2020,EC-EDF,0.68,3.0%,european commission european development fund,Slovenia
+2021,EC-EDF,0.37,2.0%,european commission european development fund,Slovenia
+2022,EC-EDF,0.15,1.0%,european commission european development fund,Slovenia
 2023,EC-EDF,0.03,0.0%,european commission european development fund,Slovenia
 2019,EIB,0.0,0.0%,european investment bank,Slovenia
 2020,EIB,0.0,0.0%,european investment bank,Slovenia
@@ -28,11 +28,11 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,ICGEB,0.0,0.0%,international centre for genetic engineering and biotechnology,Slovenia
 2022,ICGEB,0.0,0.0%,international centre for genetic engineering and biotechnology,Slovenia
 2023,ICGEB,0.0,0.0%,international centre for genetic engineering and biotechnology,Slovenia
-2019,IDA,0.11,0.01%,international development association,Slovenia
-2020,IDA,0.12,0.01%,international development association,Slovenia
+2019,IDA,0.11,1.0%,international development association,Slovenia
+2020,IDA,0.12,1.0%,international development association,Slovenia
 2021,IDA,0.11,0.0%,international development association,Slovenia
-2022,IDA,0.15,0.01%,international development association,Slovenia
-2023,IDA,0.17,0.01%,international development association,Slovenia
+2022,IDA,0.15,1.0%,international development association,Slovenia
+2023,IDA,0.17,1.0%,international development association,Slovenia
 2023,UN,0.0,0.0%,united nations,Slovenia
 2019,UNFPA,0.0,0.0%,united nations population fund,Slovenia
 2022,UNFPA,0.0,0.0%,united nations population fund,Slovenia

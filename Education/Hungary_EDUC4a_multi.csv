@@ -4,12 +4,12 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,CEB,0.0,0.0%,council of europe development bank,Hungary
 2022,CEB,0.0,0.0%,council of europe development bank,Hungary
 2023,CEB,0.0,0.0%,council of europe development bank,Hungary
-2019,EC-DSB,10.23,0.08%,european commission development share of budget,Hungary
-2020,EC-DSB,12.95,0.08%,european commission development share of budget,Hungary
-2021,EC-DSB,10.3,0.07%,european commission development share of budget,Hungary
-2019,EC-EDF,1.97,0.01%,european commission european development fund,Hungary
-2020,EC-EDF,2.08,0.01%,european commission european development fund,Hungary
-2021,EC-EDF,1.07,0.01%,european commission european development fund,Hungary
+2019,EC-DSB,10.23,8.0%,european commission development share of budget,Hungary
+2020,EC-DSB,12.95,8.0%,european commission development share of budget,Hungary
+2021,EC-DSB,10.3,7.000000000000001%,european commission development share of budget,Hungary
+2019,EC-EDF,1.97,1.0%,european commission european development fund,Hungary
+2020,EC-EDF,2.08,1.0%,european commission european development fund,Hungary
+2021,EC-EDF,1.07,1.0%,european commission european development fund,Hungary
 2022,EC-EDF,0.68,0.0%,european commission european development fund,Hungary
 2023,EC-EDF,0.08,0.0%,european commission european development fund,Hungary
 2021,EIB,0.01,0.0%,european investment bank,Hungary
@@ -26,7 +26,7 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2020,IDA,0.42,0.0%,international development association,Hungary
 2021,IDA,0.46,0.0%,international development association,Hungary
 2022,IDA,0.66,0.0%,international development association,Hungary
-2023,IDA,0.62,0.01%,international development association,Hungary
+2023,IDA,0.62,1.0%,international development association,Hungary
 2023,UN,0.01,0.0%,united nations,Hungary
 2020,UNIDO,0.01,0.0%,united nations industrial development organisation,Hungary
 2021,UNIDO,0.01,0.0%,united nations industrial development organisation,Hungary

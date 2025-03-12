@@ -1,54 +1,54 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
 2019,ADB,0.11,0.0%,asian development bank,Finland
 2020,ADB,0.12,0.0%,asian development bank,Finland
-2019,ADF,4.64,0.05%,african development fund,Finland
-2020,ADF,3.78,0.05%,african development fund,Finland
-2021,ADF,13.45,0.17%,african development fund,Finland
-2022,ADF,2.94,0.04%,african development fund,Finland
-2023,ADF,16.19,0.14%,african development fund,Finland
-2021,AF,3.02,0.04%,adaptation fund,Finland
+2019,ADF,4.64,5.0%,african development fund,Finland
+2020,ADF,3.78,5.0%,african development fund,Finland
+2021,ADF,13.45,17.0%,african development fund,Finland
+2022,ADF,2.94,4.0%,african development fund,Finland
+2023,ADF,16.19,14.000000000000002%,african development fund,Finland
+2021,AF,3.02,4.0%,adaptation fund,Finland
 2019,AIIB,0.05,0.0%,asian infrastructure investment bank,Finland
 2020,AIIB,0.03,0.0%,asian infrastructure investment bank,Finland
 2021,AfDB,0.38,0.0%,african development bank,Finland
-2022,AfDB,0.45,0.01%,african development bank,Finland
+2022,AfDB,0.45,1.0%,african development bank,Finland
 2023,AfDB,0.48,0.0%,african development bank,Finland
-2019,EC-DSB,11.86,0.12%,european commission development share of budget,Finland
-2020,EC-DSB,11.21,0.14%,european commission development share of budget,Finland
-2021,EC-DSB,12.19,0.16%,european commission development share of budget,Finland
-2022,EC-DSB,12.79,0.17%,european commission development share of budget,Finland
-2023,EC-DSB,11.95,0.11%,european commission development share of budget,Finland
-2019,EC-EDF,11.65,0.12%,european commission european development fund,Finland
-2020,EC-EDF,10.73,0.13%,european commission european development fund,Finland
-2021,EC-EDF,7.51,0.1%,european commission european development fund,Finland
-2022,EC-EDF,3.16,0.04%,european commission european development fund,Finland
-2023,EC-EDF,1.25,0.01%,european commission european development fund,Finland
-2019,FAO,1.37,0.01%,food and agricultural organisation,Finland
-2020,FAO,0.98,0.01%,food and agricultural organisation,Finland
-2021,FAO,0.9,0.01%,food and agricultural organisation,Finland
-2022,FAO,0.84,0.01%,food and agricultural organisation,Finland
-2023,FAO,0.83,0.01%,food and agricultural organisation,Finland
-2019,GCF,3.13,0.03%,green climate fund,Finland
-2020,GCF,9.11,0.11%,green climate fund,Finland
-2021,GCF,8.87,0.11%,green climate fund,Finland
-2022,GCF,7.51,0.1%,green climate fund,Finland
-2023,GCF,7.76,0.07%,green climate fund,Finland
+2019,EC-DSB,11.86,12.0%,european commission development share of budget,Finland
+2020,EC-DSB,11.21,14.000000000000002%,european commission development share of budget,Finland
+2021,EC-DSB,12.19,16.0%,european commission development share of budget,Finland
+2022,EC-DSB,12.79,17.0%,european commission development share of budget,Finland
+2023,EC-DSB,11.95,11.0%,european commission development share of budget,Finland
+2019,EC-EDF,11.65,12.0%,european commission european development fund,Finland
+2020,EC-EDF,10.73,13.0%,european commission european development fund,Finland
+2021,EC-EDF,7.51,10.0%,european commission european development fund,Finland
+2022,EC-EDF,3.16,4.0%,european commission european development fund,Finland
+2023,EC-EDF,1.25,1.0%,european commission european development fund,Finland
+2019,FAO,1.37,1.0%,food and agricultural organisation,Finland
+2020,FAO,0.98,1.0%,food and agricultural organisation,Finland
+2021,FAO,0.9,1.0%,food and agricultural organisation,Finland
+2022,FAO,0.84,1.0%,food and agricultural organisation,Finland
+2023,FAO,0.83,1.0%,food and agricultural organisation,Finland
+2019,GCF,3.13,3.0%,green climate fund,Finland
+2020,GCF,9.11,11.0%,green climate fund,Finland
+2021,GCF,8.87,11.0%,green climate fund,Finland
+2022,GCF,7.51,10.0%,green climate fund,Finland
+2023,GCF,7.76,7.000000000000001%,green climate fund,Finland
 2019,GEF-TF,0.18,0.0%,global environment facility trust fund,Finland
 2020,GEF-TF,0.32,0.0%,global environment facility trust fund,Finland
-2021,GEF-TF,0.76,0.01%,global environment facility trust fund,Finland
-2022,GEF-TF,1.19,0.02%,global environment facility trust fund,Finland
-2023,GEF-TF,2.08,0.02%,global environment facility trust fund,Finland
-2020,IBRD,0.67,0.01%,international bank for reconstruction and development,Finland
-2021,IBRD,0.59,0.01%,international bank for reconstruction and development,Finland
-2022,IBRD,0.69,0.01%,international bank for reconstruction and development,Finland
-2023,IBRD,0.67,0.01%,international bank for reconstruction and development,Finland
-2019,IDA,8.35,0.09%,international development association,Finland
-2020,IDA,6.95,0.08%,international development association,Finland
-2021,IDA,6.44,0.08%,international development association,Finland
-2022,IDA,6.29,0.08%,international development association,Finland
-2023,IDA,12.85,0.11%,international development association,Finland
-2022,IFC,2.22,0.03%,international finance corporation,Finland
-2023,IFC,1.97,0.02%,international finance corporation,Finland
-2020,NDF,0.45,0.01%,nordic development fund,Finland
+2021,GEF-TF,0.76,1.0%,global environment facility trust fund,Finland
+2022,GEF-TF,1.19,2.0%,global environment facility trust fund,Finland
+2023,GEF-TF,2.08,2.0%,global environment facility trust fund,Finland
+2020,IBRD,0.67,1.0%,international bank for reconstruction and development,Finland
+2021,IBRD,0.59,1.0%,international bank for reconstruction and development,Finland
+2022,IBRD,0.69,1.0%,international bank for reconstruction and development,Finland
+2023,IBRD,0.67,1.0%,international bank for reconstruction and development,Finland
+2019,IDA,8.35,9.0%,international development association,Finland
+2020,IDA,6.95,8.0%,international development association,Finland
+2021,IDA,6.44,8.0%,international development association,Finland
+2022,IDA,6.29,8.0%,international development association,Finland
+2023,IDA,12.85,11.0%,international development association,Finland
+2022,IFC,2.22,3.0%,international finance corporation,Finland
+2023,IFC,1.97,2.0%,international finance corporation,Finland
+2020,NDF,0.45,1.0%,nordic development fund,Finland
 2023,NDF,0.25,0.0%,nordic development fund,Finland
 2022,UN,0.01,0.0%,united nations,Finland
 2023,UN,0.02,0.0%,united nations,Finland

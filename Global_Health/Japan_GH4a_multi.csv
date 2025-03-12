@@ -1,8 +1,8 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
-2023,ADB,20.39,0.01%,asian development bank,Japan
+2023,ADB,20.39,1.0%,asian development bank,Japan
 2019,ADF,2.38,0.0%,african development fund,Japan
 2020,ADF,2.13,0.0%,african development fund,Japan
-2021,ADF,12.05,0.01%,african development fund,Japan
+2021,ADF,12.05,1.0%,african development fund,Japan
 2022,ADF,2.99,0.0%,african development fund,Japan
 2023,ADF,2.42,0.0%,african development fund,Japan
 2020,AfDB,0.0,0.0%,african development bank,Japan
@@ -15,29 +15,29 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2022,FAO,1.41,0.0%,food and agricultural organisation,Japan
 2023,FAO,0.01,0.0%,food and agricultural organisation,Japan
 2019,GAVI,0.12,0.0%,global alliance for vaccines and immunization,Japan
-2020,GAVI,36.88,0.03%,global alliance for vaccines and immunization,Japan
-2021,GAVI,39.06,0.02%,global alliance for vaccines and immunization,Japan
-2022,GAVI,27.78,0.01%,global alliance for vaccines and immunization,Japan
-2023,GAVI,14.42,0.01%,global alliance for vaccines and immunization,Japan
+2020,GAVI,36.88,3.0%,global alliance for vaccines and immunization,Japan
+2021,GAVI,39.06,2.0%,global alliance for vaccines and immunization,Japan
+2022,GAVI,27.78,1.0%,global alliance for vaccines and immunization,Japan
+2023,GAVI,14.42,1.0%,global alliance for vaccines and immunization,Japan
 2022,GCF,0.03,0.0%,green climate fund,Japan
 2023,GCF,0.06,0.0%,green climate fund,Japan
 2019,GEF-TF,0.12,0.0%,global environment facility trust fund,Japan
 2020,GEF-TF,0.77,0.0%,global environment facility trust fund,Japan
 2021,GEF-TF,3.53,0.0%,global environment facility trust fund,Japan
 2023,GEF-TF,2.45,0.0%,global environment facility trust fund,Japan
-2019,GFATM,281.96,0.35%,global fund to fight aids tuberculosis and malaria,Japan
-2020,GFATM,374.86,0.26%,global fund to fight aids tuberculosis and malaria,Japan
-2021,GFATM,148.5,0.09%,global fund to fight aids tuberculosis and malaria,Japan
-2022,GFATM,173.79,0.07%,global fund to fight aids tuberculosis and malaria,Japan
-2023,GFATM,315.78,0.18%,global fund to fight aids tuberculosis and malaria,Japan
-2019,IBRD,12.14,0.02%,international bank for reconstruction and development,Japan
-2022,IBRD,20.17,0.01%,international bank for reconstruction and development,Japan
+2019,GFATM,281.96,35.0%,global fund to fight aids tuberculosis and malaria,Japan
+2020,GFATM,374.86,26.0%,global fund to fight aids tuberculosis and malaria,Japan
+2021,GFATM,148.5,9.0%,global fund to fight aids tuberculosis and malaria,Japan
+2022,GFATM,173.79,7.000000000000001%,global fund to fight aids tuberculosis and malaria,Japan
+2023,GFATM,315.78,18.0%,global fund to fight aids tuberculosis and malaria,Japan
+2019,IBRD,12.14,2.0%,international bank for reconstruction and development,Japan
+2022,IBRD,20.17,1.0%,international bank for reconstruction and development,Japan
 2023,IBRD,0.96,0.0%,international bank for reconstruction and development,Japan
-2019,IDA,140.11,0.17%,international development association,Japan
-2020,IDA,72.35,0.05%,international development association,Japan
-2021,IDA,94.95,0.06%,international development association,Japan
-2022,IDA,109.24,0.04%,international development association,Japan
-2023,IDA,201.88,0.12%,international development association,Japan
+2019,IDA,140.11,17.0%,international development association,Japan
+2020,IDA,72.35,5.0%,international development association,Japan
+2021,IDA,94.95,6.0%,international development association,Japan
+2022,IDA,109.24,4.0%,international development association,Japan
+2023,IDA,201.88,12.0%,international development association,Japan
 2019,IDB-IIC-MIF,2.43,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Japan
 2020,IDB-IIC-MIF,0.21,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Japan
 2021,IDB-IIC-MIF,0.07,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Japan
@@ -57,11 +57,11 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,UNDP,0.53,0.0%,united nations development programme,Japan
 2022,UNDP,2.49,0.0%,united nations development programme,Japan
 2023,UNDP,2.29,0.0%,united nations development programme,Japan
-2019,UNFPA,5.36,0.01%,united nations population fund,Japan
+2019,UNFPA,5.36,1.0%,united nations population fund,Japan
 2020,UNFPA,4.0,0.0%,united nations population fund,Japan
 2021,UNFPA,3.74,0.0%,united nations population fund,Japan
 2022,UNFPA,7.47,0.0%,united nations population fund,Japan
-2023,UNFPA,10.45,0.01%,united nations population fund,Japan
+2023,UNFPA,10.45,1.0%,united nations population fund,Japan
 2019,UNRWA,0.23,0.0%,united nations relief and works agency for palestine refugees in the near east,Japan
 2020,UNRWA,0.21,0.0%,united nations relief and works agency for palestine refugees in the near east,Japan
 2021,UNRWA,0.2,0.0%,united nations relief and works agency for palestine refugees in the near east,Japan
@@ -70,14 +70,14 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2020,WFP,0.05,0.0%,world food programme,Japan
 2021,WFP,0.06,0.0%,world food programme,Japan
 2022,WFP,0.11,0.0%,world food programme,Japan
-2019,WHO-AC,24.59,0.03%,world health organisation assessed contributions,Japan
-2020,WHO-AC,21.16,0.01%,world health organisation assessed contributions,Japan
-2021,WHO-AC,20.43,0.01%,world health organisation assessed contributions,Japan
-2022,WHO-AC,22.56,0.01%,world health organisation assessed contributions,Japan
-2023,WHO-AC,22.97,0.01%,world health organisation assessed contributions,Japan
-2019,WHO-CVCA,7.36,0.01%,world health organisation core voluntary contributions account,Japan
-2020,WHO-CVCA,46.62,0.03%,world health organisation core voluntary contributions account,Japan
-2021,WHO-CVCA,12.93,0.01%,world health organisation core voluntary contributions account,Japan
+2019,WHO-AC,24.59,3.0%,world health organisation assessed contributions,Japan
+2020,WHO-AC,21.16,1.0%,world health organisation assessed contributions,Japan
+2021,WHO-AC,20.43,1.0%,world health organisation assessed contributions,Japan
+2022,WHO-AC,22.56,1.0%,world health organisation assessed contributions,Japan
+2023,WHO-AC,22.97,1.0%,world health organisation assessed contributions,Japan
+2019,WHO-CVCA,7.36,1.0%,world health organisation core voluntary contributions account,Japan
+2020,WHO-CVCA,46.62,3.0%,world health organisation core voluntary contributions account,Japan
+2021,WHO-CVCA,12.93,1.0%,world health organisation core voluntary contributions account,Japan
 2022,WHO-CVCA,8.03,0.0%,world health organisation core voluntary contributions account,Japan
 2019,,2.47,0.0%,united nations children’s fund,Japan
 2020,,2.46,0.0%,united nations children’s fund,Japan
