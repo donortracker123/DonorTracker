@@ -21,45 +21,45 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2022,CEB,0.01,0.0%,council of europe development bank,Spain
 2023,CEB,0.01,0.0%,council of europe development bank,Spain
 2019,EBRD,0.01,0.0%,european bank for reconstruction and development,Spain
-2019,EC-DSB,27.01,0.18%,european commission development share of budget,Spain
-2020,EC-DSB,27.61,0.13%,european commission development share of budget,Spain
-2021,EC-DSB,63.14,0.1%,european commission development share of budget,Spain
-2022,EC-DSB,106.04,0.21%,european commission development share of budget,Spain
-2023,EC-DSB,118.68,0.38%,european commission development share of budget,Spain
-2019,EC-EDF,31.69,0.22%,european commission european development fund,Spain
-2020,EC-EDF,29.32,0.14%,european commission european development fund,Spain
-2021,EC-EDF,19.66,0.03%,european commission european development fund,Spain
-2022,EC-EDF,6.9,0.01%,european commission european development fund,Spain
-2023,EC-EDF,1.77,0.01%,european commission european development fund,Spain
-2019,FAO,0.84,0.01%,food and agricultural organisation,Spain
+2019,EC-DSB,27.01,18.0%,european commission development share of budget,Spain
+2020,EC-DSB,27.61,13.0%,european commission development share of budget,Spain
+2021,EC-DSB,63.14,10.0%,european commission development share of budget,Spain
+2022,EC-DSB,106.04,21.0%,european commission development share of budget,Spain
+2023,EC-DSB,118.68,38.0%,european commission development share of budget,Spain
+2019,EC-EDF,31.69,22.0%,european commission european development fund,Spain
+2020,EC-EDF,29.32,14.000000000000002%,european commission european development fund,Spain
+2021,EC-EDF,19.66,3.0%,european commission european development fund,Spain
+2022,EC-EDF,6.9,1.0%,european commission european development fund,Spain
+2023,EC-EDF,1.77,1.0%,european commission european development fund,Spain
+2019,FAO,0.84,1.0%,food and agricultural organisation,Spain
 2020,FAO,0.47,0.0%,food and agricultural organisation,Spain
 2021,FAO,0.44,0.0%,food and agricultural organisation,Spain
 2022,FAO,0.38,0.0%,food and agricultural organisation,Spain
 2023,FAO,0.44,0.0%,food and agricultural organisation,Spain
 2021,GAVI,0.57,0.0%,global alliance for vaccines and immunization,Spain
 2022,GAVI,0.65,0.0%,global alliance for vaccines and immunization,Spain
-2023,GAVI,9.66,0.03%,global alliance for vaccines and immunization,Spain
+2023,GAVI,9.66,3.0%,global alliance for vaccines and immunization,Spain
 2022,GCF,0.0,0.0%,green climate fund,Spain
 2023,GCF,0.02,0.0%,green climate fund,Spain
 2019,GEF-TF,0.0,0.0%,global environment facility trust fund,Spain
 2022,GEF-TF,0.23,0.0%,global environment facility trust fund,Spain
 2023,GEF-TF,0.11,0.0%,global environment facility trust fund,Spain
-2020,GFATM,12.19,0.06%,global fund to fight aids tuberculosis and malaria,Spain
-2021,GFATM,35.64,0.06%,global fund to fight aids tuberculosis and malaria,Spain
-2022,GFATM,54.87,0.11%,global fund to fight aids tuberculosis and malaria,Spain
-2023,GFATM,48.66,0.16%,global fund to fight aids tuberculosis and malaria,Spain
-2019,IBRD,1.84,0.01%,international bank for reconstruction and development,Spain
-2020,IBRD,2.17,0.01%,international bank for reconstruction and development,Spain
+2020,GFATM,12.19,6.0%,global fund to fight aids tuberculosis and malaria,Spain
+2021,GFATM,35.64,6.0%,global fund to fight aids tuberculosis and malaria,Spain
+2022,GFATM,54.87,11.0%,global fund to fight aids tuberculosis and malaria,Spain
+2023,GFATM,48.66,16.0%,global fund to fight aids tuberculosis and malaria,Spain
+2019,IBRD,1.84,1.0%,international bank for reconstruction and development,Spain
+2020,IBRD,2.17,1.0%,international bank for reconstruction and development,Spain
 2021,IBRD,2.55,0.0%,international bank for reconstruction and development,Spain
-2022,IBRD,2.9,0.01%,international bank for reconstruction and development,Spain
-2023,IBRD,2.68,0.01%,international bank for reconstruction and development,Spain
-2019,IDA,20.37,0.14%,international development association,Spain
-2020,IDA,25.58,0.12%,international development association,Spain
-2021,IDA,14.95,0.02%,international development association,Spain
-2022,IDA,22.29,0.04%,international development association,Spain
-2023,IDA,18.93,0.06%,international development association,Spain
+2022,IBRD,2.9,1.0%,international bank for reconstruction and development,Spain
+2023,IBRD,2.68,1.0%,international bank for reconstruction and development,Spain
+2019,IDA,20.37,14.000000000000002%,international development association,Spain
+2020,IDA,25.58,12.0%,international development association,Spain
+2021,IDA,14.95,2.0%,international development association,Spain
+2022,IDA,22.29,4.0%,international development association,Spain
+2023,IDA,18.93,6.0%,international development association,Spain
 2019,IDB-IIC-MIF,0.4,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Spain
-2020,IDB-IIC-MIF,1.67,0.01%,inter american development bank inter american investment corporation and multilateral investment fund,Spain
+2020,IDB-IIC-MIF,1.67,1.0%,inter american development bank inter american investment corporation and multilateral investment fund,Spain
 2023,IDB-IIC-MIF,0.01,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Spain
 2022,IFC,0.05,0.0%,international finance corporation,Spain
 2023,IFC,0.02,0.0%,international finance corporation,Spain
@@ -80,14 +80,14 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2023,UNRWA,1.02,0.0%,united nations relief and works agency for palestine refugees in the near east,Spain
 2022,WFP,0.01,0.0%,world food programme,Spain
 2023,WFP,0.01,0.0%,world food programme,Spain
-2019,WHO-AC,8.85,0.06%,world health organisation assessed contributions,Spain
-2020,WHO-AC,7.93,0.04%,world health organisation assessed contributions,Spain
-2021,WHO-AC,6.22,0.01%,world health organisation assessed contributions,Spain
-2022,WHO-AC,6.14,0.01%,world health organisation assessed contributions,Spain
-2023,WHO-AC,6.09,0.02%,world health organisation assessed contributions,Spain
-2019,WHO-CVCA,1.49,0.01%,world health organisation core voluntary contributions account,Spain
-2021,WHO-CVCA,3.72,0.01%,world health organisation core voluntary contributions account,Spain
+2019,WHO-AC,8.85,6.0%,world health organisation assessed contributions,Spain
+2020,WHO-AC,7.93,4.0%,world health organisation assessed contributions,Spain
+2021,WHO-AC,6.22,1.0%,world health organisation assessed contributions,Spain
+2022,WHO-AC,6.14,1.0%,world health organisation assessed contributions,Spain
+2023,WHO-AC,6.09,2.0%,world health organisation assessed contributions,Spain
+2019,WHO-CVCA,1.49,1.0%,world health organisation core voluntary contributions account,Spain
+2021,WHO-CVCA,3.72,1.0%,world health organisation core voluntary contributions account,Spain
 2022,WHO-CVCA,2.44,0.0%,world health organisation core voluntary contributions account,Spain
-2023,WHO-CVCA,4.2,0.01%,world health organisation core voluntary contributions account,Spain
+2023,WHO-CVCA,4.2,1.0%,world health organisation core voluntary contributions account,Spain
 2019,,0.1,0.0%,united nations children’s fund,Spain
 2023,,0.63,0.0%,united nations children’s fund,Spain

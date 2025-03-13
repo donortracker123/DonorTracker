@@ -2,9 +2,9 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2019,ADF,0.77,0.0%,african development fund,Switzerland
 2020,ADF,1.5,0.0%,african development fund,Switzerland
 2021,ADF,1.67,0.0%,african development fund,Switzerland
-2022,ADF,1.84,0.01%,african development fund,Switzerland
+2022,ADF,1.84,1.0%,african development fund,Switzerland
 2023,ADF,1.29,0.0%,african development fund,Switzerland
-2020,AIIB,4.11,0.01%,asian infrastructure investment bank,Switzerland
+2020,AIIB,4.11,1.0%,asian infrastructure investment bank,Switzerland
 2021,AfDB,0.0,0.0%,african development bank,Switzerland
 2022,AfDB,0.06,0.0%,african development bank,Switzerland
 2023,AfDB,0.15,0.0%,african development bank,Switzerland
@@ -14,7 +14,7 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,FAO,0.24,0.0%,food and agricultural organisation,Switzerland
 2022,FAO,0.21,0.0%,food and agricultural organisation,Switzerland
 2023,FAO,0.25,0.0%,food and agricultural organisation,Switzerland
-2020,GAVI,10.94,0.03%,global alliance for vaccines and immunization,Switzerland
+2020,GAVI,10.94,3.0%,global alliance for vaccines and immunization,Switzerland
 2022,GCF,0.0,0.0%,green climate fund,Switzerland
 2023,GCF,0.01,0.0%,green climate fund,Switzerland
 2019,GEF-TF,0.02,0.0%,global environment facility trust fund,Switzerland
@@ -22,20 +22,20 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,GEF-TF,0.67,0.0%,global environment facility trust fund,Switzerland
 2022,GEF-TF,0.55,0.0%,global environment facility trust fund,Switzerland
 2023,GEF-TF,0.42,0.0%,global environment facility trust fund,Switzerland
-2019,GFATM,21.44,0.09%,global fund to fight aids tuberculosis and malaria,Switzerland
-2020,GFATM,21.6,0.06%,global fund to fight aids tuberculosis and malaria,Switzerland
-2021,GFATM,26.24,0.05%,global fund to fight aids tuberculosis and malaria,Switzerland
-2022,GFATM,25.59,0.08%,global fund to fight aids tuberculosis and malaria,Switzerland
-2023,GFATM,23.37,0.08%,global fund to fight aids tuberculosis and malaria,Switzerland
-2021,IBRD,3.92,0.01%,international bank for reconstruction and development,Switzerland
-2022,IBRD,5.07,0.02%,international bank for reconstruction and development,Switzerland
-2023,IBRD,3.47,0.01%,international bank for reconstruction and development,Switzerland
-2019,IDA,23.47,0.1%,international development association,Switzerland
-2020,IDA,25.34,0.07%,international development association,Switzerland
-2021,IDA,26.7,0.05%,international development association,Switzerland
-2022,IDA,30.04,0.09%,international development association,Switzerland
-2023,IDA,38.99,0.13%,international development association,Switzerland
-2019,IDB-IIC-MIF,1.48,0.01%,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
+2019,GFATM,21.44,9.0%,global fund to fight aids tuberculosis and malaria,Switzerland
+2020,GFATM,21.6,6.0%,global fund to fight aids tuberculosis and malaria,Switzerland
+2021,GFATM,26.24,5.0%,global fund to fight aids tuberculosis and malaria,Switzerland
+2022,GFATM,25.59,8.0%,global fund to fight aids tuberculosis and malaria,Switzerland
+2023,GFATM,23.37,8.0%,global fund to fight aids tuberculosis and malaria,Switzerland
+2021,IBRD,3.92,1.0%,international bank for reconstruction and development,Switzerland
+2022,IBRD,5.07,2.0%,international bank for reconstruction and development,Switzerland
+2023,IBRD,3.47,1.0%,international bank for reconstruction and development,Switzerland
+2019,IDA,23.47,10.0%,international development association,Switzerland
+2020,IDA,25.34,7.000000000000001%,international development association,Switzerland
+2021,IDA,26.7,5.0%,international development association,Switzerland
+2022,IDA,30.04,9.0%,international development association,Switzerland
+2023,IDA,38.99,13.0%,international development association,Switzerland
+2019,IDB-IIC-MIF,1.48,1.0%,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
 2020,IDB-IIC-MIF,0.15,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
 2021,IDB-IIC-MIF,0.05,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
 2022,IDB-IIC-MIF,0.05,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Switzerland
@@ -50,43 +50,43 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,UN,0.04,0.0%,united nations,Switzerland
 2022,UN,0.07,0.0%,united nations,Switzerland
 2023,UN,0.1,0.0%,united nations,Switzerland
-2019,UNAIDS,7.46,0.03%,joint united nations programme on hiv aids,Switzerland
-2020,UNAIDS,4.87,0.01%,joint united nations programme on hiv aids,Switzerland
+2019,UNAIDS,7.46,3.0%,joint united nations programme on hiv aids,Switzerland
+2020,UNAIDS,4.87,1.0%,joint united nations programme on hiv aids,Switzerland
 2021,UNAIDS,0.48,0.0%,joint united nations programme on hiv aids,Switzerland
-2023,UNAIDS,3.7,0.01%,joint united nations programme on hiv aids,Switzerland
+2023,UNAIDS,3.7,1.0%,joint united nations programme on hiv aids,Switzerland
 2019,UNDP,0.78,0.0%,united nations development programme,Switzerland
 2020,UNDP,1.44,0.0%,united nations development programme,Switzerland
 2021,UNDP,2.35,0.0%,united nations development programme,Switzerland
-2022,UNDP,2.15,0.01%,united nations development programme,Switzerland
-2023,UNDP,1.92,0.01%,united nations development programme,Switzerland
-2019,UNFPA,6.82,0.03%,united nations population fund,Switzerland
-2020,UNFPA,5.56,0.01%,united nations population fund,Switzerland
-2021,UNFPA,5.32,0.01%,united nations population fund,Switzerland
-2022,UNFPA,8.42,0.03%,united nations population fund,Switzerland
-2023,UNFPA,10.9,0.04%,united nations population fund,Switzerland
-2019,UNRWA,3.6,0.02%,united nations relief and works agency for palestine refugees in the near east,Switzerland
-2020,UNRWA,4.59,0.01%,united nations relief and works agency for palestine refugees in the near east,Switzerland
-2021,UNRWA,3.96,0.01%,united nations relief and works agency for palestine refugees in the near east,Switzerland
-2022,UNRWA,4.03,0.01%,united nations relief and works agency for palestine refugees in the near east,Switzerland
-2023,UNRWA,3.58,0.01%,united nations relief and works agency for palestine refugees in the near east,Switzerland
+2022,UNDP,2.15,1.0%,united nations development programme,Switzerland
+2023,UNDP,1.92,1.0%,united nations development programme,Switzerland
+2019,UNFPA,6.82,3.0%,united nations population fund,Switzerland
+2020,UNFPA,5.56,1.0%,united nations population fund,Switzerland
+2021,UNFPA,5.32,1.0%,united nations population fund,Switzerland
+2022,UNFPA,8.42,3.0%,united nations population fund,Switzerland
+2023,UNFPA,10.9,4.0%,united nations population fund,Switzerland
+2019,UNRWA,3.6,2.0%,united nations relief and works agency for palestine refugees in the near east,Switzerland
+2020,UNRWA,4.59,1.0%,united nations relief and works agency for palestine refugees in the near east,Switzerland
+2021,UNRWA,3.96,1.0%,united nations relief and works agency for palestine refugees in the near east,Switzerland
+2022,UNRWA,4.03,1.0%,united nations relief and works agency for palestine refugees in the near east,Switzerland
+2023,UNRWA,3.58,1.0%,united nations relief and works agency for palestine refugees in the near east,Switzerland
 2019,WFP,0.24,0.0%,world food programme,Switzerland
 2020,WFP,0.2,0.0%,world food programme,Switzerland
 2021,WFP,0.3,0.0%,world food programme,Switzerland
 2022,WFP,0.49,0.0%,world food programme,Switzerland
 2023,WFP,0.17,0.0%,world food programme,Switzerland
-2019,WHO-AC,4.02,0.02%,world health organisation assessed contributions,Switzerland
-2020,WHO-AC,4.09,0.01%,world health organisation assessed contributions,Switzerland
-2021,WHO-AC,3.64,0.01%,world health organisation assessed contributions,Switzerland
-2022,WHO-AC,3.26,0.01%,world health organisation assessed contributions,Switzerland
-2023,WHO-AC,3.33,0.01%,world health organisation assessed contributions,Switzerland
-2019,WHO-CVCA,2.11,0.01%,world health organisation core voluntary contributions account,Switzerland
-2020,WHO-CVCA,2.14,0.01%,world health organisation core voluntary contributions account,Switzerland
-2021,WHO-CVCA,5.33,0.01%,world health organisation core voluntary contributions account,Switzerland
-2022,WHO-CVCA,2.29,0.01%,world health organisation core voluntary contributions account,Switzerland
-2023,WHO-CVCA,2.32,0.01%,world health organisation core voluntary contributions account,Switzerland
-2021,WHO-SPRP,9.88,0.02%,world health organisation strategic preparedness and response plan,Switzerland
-2019,,3.52,0.02%,united nations children’s fund,Switzerland
-2020,,3.57,0.01%,united nations children’s fund,Switzerland
-2021,,3.65,0.01%,united nations children’s fund,Switzerland
-2022,,3.61,0.01%,united nations children’s fund,Switzerland
-2023,,3.24,0.01%,united nations children’s fund,Switzerland
+2019,WHO-AC,4.02,2.0%,world health organisation assessed contributions,Switzerland
+2020,WHO-AC,4.09,1.0%,world health organisation assessed contributions,Switzerland
+2021,WHO-AC,3.64,1.0%,world health organisation assessed contributions,Switzerland
+2022,WHO-AC,3.26,1.0%,world health organisation assessed contributions,Switzerland
+2023,WHO-AC,3.33,1.0%,world health organisation assessed contributions,Switzerland
+2019,WHO-CVCA,2.11,1.0%,world health organisation core voluntary contributions account,Switzerland
+2020,WHO-CVCA,2.14,1.0%,world health organisation core voluntary contributions account,Switzerland
+2021,WHO-CVCA,5.33,1.0%,world health organisation core voluntary contributions account,Switzerland
+2022,WHO-CVCA,2.29,1.0%,world health organisation core voluntary contributions account,Switzerland
+2023,WHO-CVCA,2.32,1.0%,world health organisation core voluntary contributions account,Switzerland
+2021,WHO-SPRP,9.88,2.0%,world health organisation strategic preparedness and response plan,Switzerland
+2019,,3.52,2.0%,united nations children’s fund,Switzerland
+2020,,3.57,1.0%,united nations children’s fund,Switzerland
+2021,,3.65,1.0%,united nations children’s fund,Switzerland
+2022,,3.61,1.0%,united nations children’s fund,Switzerland
+2023,,3.24,1.0%,united nations children’s fund,Switzerland

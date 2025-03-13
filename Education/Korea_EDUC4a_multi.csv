@@ -4,8 +4,8 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,ADB,0.91,0.0%,asian development bank,Korea
 2022,ADB,0.55,0.0%,asian development bank,Korea
 2023,ADB,0.64,0.0%,asian development bank,Korea
-2019,ADF,1.37,0.01%,african development fund,Korea
-2020,ADF,1.03,0.01%,african development fund,Korea
+2019,ADF,1.37,1.0%,african development fund,Korea
+2020,ADF,1.03,1.0%,african development fund,Korea
 2021,ADF,0.55,0.0%,african development fund,Korea
 2022,ADF,0.37,0.0%,african development fund,Korea
 2023,ADF,0.4,0.0%,african development fund,Korea
@@ -15,9 +15,9 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,AfDB,0.01,0.0%,african development bank,Korea
 2022,AfDB,0.07,0.0%,african development bank,Korea
 2023,AfDB,0.2,0.0%,african development bank,Korea
-2021,CABEI,3.42,0.02%,central american bank for economic integration,Korea
+2021,CABEI,3.42,2.0%,central american bank for economic integration,Korea
 2022,CABEI,0.6,0.0%,central american bank for economic integration,Korea
-2023,CABEI,1.7,0.01%,central american bank for economic integration,Korea
+2023,CABEI,1.7,1.0%,central american bank for economic integration,Korea
 2021,EBRD,0.0,0.0%,european bank for reconstruction and development,Korea
 2022,EBRD,0.0,0.0%,european bank for reconstruction and development,Korea
 2019,FAO,0.01,0.0%,food and agricultural organisation,Korea
@@ -25,16 +25,16 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,FAO,0.02,0.0%,food and agricultural organisation,Korea
 2022,FAO,0.0,0.0%,food and agricultural organisation,Korea
 2023,FAO,0.0,0.0%,food and agricultural organisation,Korea
-2019,IBRD,3.54,0.01%,international bank for reconstruction and development,Korea
-2020,IBRD,2.62,0.01%,international bank for reconstruction and development,Korea
-2021,IBRD,4.54,0.02%,international bank for reconstruction and development,Korea
-2022,IBRD,3.19,0.01%,international bank for reconstruction and development,Korea
-2023,IBRD,2.79,0.01%,international bank for reconstruction and development,Korea
-2019,IDA,10.89,0.04%,international development association,Korea
-2020,IDA,10.07,0.05%,international development association,Korea
-2021,IDA,11.38,0.05%,international development association,Korea
-2022,IDA,12.28,0.05%,international development association,Korea
-2023,IDA,27.55,0.1%,international development association,Korea
+2019,IBRD,3.54,1.0%,international bank for reconstruction and development,Korea
+2020,IBRD,2.62,1.0%,international bank for reconstruction and development,Korea
+2021,IBRD,4.54,2.0%,international bank for reconstruction and development,Korea
+2022,IBRD,3.19,1.0%,international bank for reconstruction and development,Korea
+2023,IBRD,2.79,1.0%,international bank for reconstruction and development,Korea
+2019,IDA,10.89,4.0%,international development association,Korea
+2020,IDA,10.07,5.0%,international development association,Korea
+2021,IDA,11.38,5.0%,international development association,Korea
+2022,IDA,12.28,5.0%,international development association,Korea
+2023,IDA,27.55,10.0%,international development association,Korea
 2019,IDB-IIC-MIF,1.17,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Korea
 2020,IDB-IIC-MIF,0.37,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Korea
 2021,IDB-IIC-MIF,0.38,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Korea

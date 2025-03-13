@@ -1,6 +1,6 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
-2019,ADF,2.5,0.01%,african development fund,Austria
-2020,ADF,1.92,0.01%,african development fund,Austria
+2019,ADF,2.5,1.0%,african development fund,Austria
+2020,ADF,1.92,1.0%,african development fund,Austria
 2021,ADF,0.83,0.0%,african development fund,Austria
 2022,ADF,0.53,0.0%,african development fund,Austria
 2023,ADF,0.57,0.0%,african development fund,Austria
@@ -9,27 +9,27 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,AfDB,0.01,0.0%,african development bank,Austria
 2022,AfDB,0.02,0.0%,african development bank,Austria
 2023,AfDB,0.09,0.0%,african development bank,Austria
-2019,EC-DSB,24.69,0.1%,european commission development share of budget,Austria
-2020,EC-DSB,26.12,0.11%,european commission development share of budget,Austria
-2021,EC-DSB,24.88,0.1%,european commission development share of budget,Austria
-2022,EC-DSB,28.89,0.12%,european commission development share of budget,Austria
-2023,EC-DSB,28.66,0.1%,european commission development share of budget,Austria
-2019,EC-EDF,7.32,0.03%,european commission european development fund,Austria
-2020,EC-EDF,7.54,0.03%,european commission european development fund,Austria
-2021,EC-EDF,3.91,0.02%,european commission european development fund,Austria
-2022,EC-EDF,1.78,0.01%,european commission european development fund,Austria
+2019,EC-DSB,24.69,10.0%,european commission development share of budget,Austria
+2020,EC-DSB,26.12,11.0%,european commission development share of budget,Austria
+2021,EC-DSB,24.88,10.0%,european commission development share of budget,Austria
+2022,EC-DSB,28.89,12.0%,european commission development share of budget,Austria
+2023,EC-DSB,28.66,10.0%,european commission development share of budget,Austria
+2019,EC-EDF,7.32,3.0%,european commission european development fund,Austria
+2020,EC-EDF,7.54,3.0%,european commission european development fund,Austria
+2021,EC-EDF,3.91,2.0%,european commission european development fund,Austria
+2022,EC-EDF,1.78,1.0%,european commission european development fund,Austria
 2023,EC-EDF,0.36,0.0%,european commission european development fund,Austria
 2019,FAO,0.01,0.0%,food and agricultural organisation,Austria
 2020,FAO,0.01,0.0%,food and agricultural organisation,Austria
 2021,FAO,0.01,0.0%,food and agricultural organisation,Austria
 2022,FAO,0.0,0.0%,food and agricultural organisation,Austria
 2023,FAO,0.0,0.0%,food and agricultural organisation,Austria
-2019,IBRD,4.16,0.02%,international bank for reconstruction and development,Austria
-2019,IDA,16.17,0.07%,international development association,Austria
-2020,IDA,14.79,0.06%,international development association,Austria
-2021,IDA,16.14,0.07%,international development association,Austria
-2022,IDA,16.59,0.07%,international development association,Austria
-2023,IDA,31.55,0.11%,international development association,Austria
+2019,IBRD,4.16,2.0%,international bank for reconstruction and development,Austria
+2019,IDA,16.17,7.000000000000001%,international development association,Austria
+2020,IDA,14.79,6.0%,international development association,Austria
+2021,IDA,16.14,7.000000000000001%,international development association,Austria
+2022,IDA,16.59,7.000000000000001%,international development association,Austria
+2023,IDA,31.55,11.0%,international development association,Austria
 2019,IDB-IIC-MIF,0.06,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Austria
 2020,IDB-IIC-MIF,0.02,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Austria
 2021,IDB-IIC-MIF,0.01,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Austria

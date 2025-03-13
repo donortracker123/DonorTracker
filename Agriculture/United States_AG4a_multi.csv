@@ -1,36 +1,36 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
-2019,ADF,26.42,0.02%,african development fund,United States
-2020,ADF,28.7,0.02%,african development fund,United States
-2021,ADF,16.98,0.01%,african development fund,United States
-2022,ADF,23.0,0.02%,african development fund,United States
-2023,ADF,25.36,0.01%,african development fund,United States
+2019,ADF,26.42,2.0%,african development fund,United States
+2020,ADF,28.7,2.0%,african development fund,United States
+2021,ADF,16.98,1.0%,african development fund,United States
+2022,ADF,23.0,2.0%,african development fund,United States
+2023,ADF,25.36,1.0%,african development fund,United States
 2019,AfDB,2.58,0.0%,african development bank,United States
 2021,AfDB,5.24,0.0%,african development bank,United States
-2022,AfDB,6.14,0.01%,african development bank,United States
+2022,AfDB,6.14,1.0%,african development bank,United States
 2023,AfDB,6.59,0.0%,african development bank,United States
 2020,EBRD,0.37,0.0%,european bank for reconstruction and development,United States
 2021,EBRD,0.1,0.0%,european bank for reconstruction and development,United States
-2022,EBRD,21.53,0.02%,european bank for reconstruction and development,United States
-2019,FAO,61.63,0.05%,food and agricultural organisation,United States
-2020,FAO,57.27,0.04%,food and agricultural organisation,United States
-2021,FAO,54.67,0.04%,food and agricultural organisation,United States
-2022,FAO,71.78,0.06%,food and agricultural organisation,United States
-2023,FAO,34.79,0.02%,food and agricultural organisation,United States
-2023,GCF,296.1,0.16%,green climate fund,United States
+2022,EBRD,21.53,2.0%,european bank for reconstruction and development,United States
+2019,FAO,61.63,5.0%,food and agricultural organisation,United States
+2020,FAO,57.27,4.0%,food and agricultural organisation,United States
+2021,FAO,54.67,4.0%,food and agricultural organisation,United States
+2022,FAO,71.78,6.0%,food and agricultural organisation,United States
+2023,FAO,34.79,2.0%,food and agricultural organisation,United States
+2023,GCF,296.1,16.0%,green climate fund,United States
 2019,GEF-TF,4.98,0.0%,global environment facility trust fund,United States
 2020,GEF-TF,0.11,0.0%,global environment facility trust fund,United States
-2021,GEF-TF,11.61,0.01%,global environment facility trust fund,United States
-2022,GEF-TF,15.54,0.01%,global environment facility trust fund,United States
-2023,GEF-TF,24.03,0.01%,global environment facility trust fund,United States
-2020,IBRD,19.45,0.01%,international bank for reconstruction and development,United States
-2021,IBRD,12.09,0.01%,international bank for reconstruction and development,United States
-2022,IBRD,15.78,0.01%,international bank for reconstruction and development,United States
-2023,IBRD,20.29,0.01%,international bank for reconstruction and development,United States
-2019,IDA,165.8,0.12%,international development association,United States
-2020,IDA,181.65,0.14%,international development association,United States
-2021,IDA,93.72,0.07%,international development association,United States
-2022,IDA,126.88,0.11%,international development association,United States
-2023,IDA,135.42,0.07%,international development association,United States
+2021,GEF-TF,11.61,1.0%,global environment facility trust fund,United States
+2022,GEF-TF,15.54,1.0%,global environment facility trust fund,United States
+2023,GEF-TF,24.03,1.0%,global environment facility trust fund,United States
+2020,IBRD,19.45,1.0%,international bank for reconstruction and development,United States
+2021,IBRD,12.09,1.0%,international bank for reconstruction and development,United States
+2022,IBRD,15.78,1.0%,international bank for reconstruction and development,United States
+2023,IBRD,20.29,1.0%,international bank for reconstruction and development,United States
+2019,IDA,165.8,12.0%,international development association,United States
+2020,IDA,181.65,14.000000000000002%,international development association,United States
+2021,IDA,93.72,7.000000000000001%,international development association,United States
+2022,IDA,126.88,11.0%,international development association,United States
+2023,IDA,135.42,7.000000000000001%,international development association,United States
 2022,UN,0.56,0.0%,united nations,United States
 2023,UN,0.46,0.0%,united nations,United States
 2019,UNDP,0.12,0.0%,united nations development programme,United States

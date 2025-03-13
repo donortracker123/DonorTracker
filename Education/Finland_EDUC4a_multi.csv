@@ -1,62 +1,62 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
 2019,ADB,0.13,0.0%,asian development bank,Finland
 2020,ADB,0.12,0.0%,asian development bank,Finland
-2019,ADF,1.65,0.02%,african development fund,Finland
-2020,ADF,1.03,0.01%,african development fund,Finland
-2021,ADF,2.14,0.02%,african development fund,Finland
+2019,ADF,1.65,2.0%,african development fund,Finland
+2020,ADF,1.03,1.0%,african development fund,Finland
+2021,ADF,2.14,2.0%,african development fund,Finland
 2022,ADF,0.33,0.0%,african development fund,Finland
-2023,ADF,1.22,0.01%,african development fund,Finland
+2023,ADF,1.22,1.0%,african development fund,Finland
 2021,AF,0.0,0.0%,adaptation fund,Finland
 2021,AfDB,0.01,0.0%,african development bank,Finland
 2022,AfDB,0.02,0.0%,african development bank,Finland
 2023,AfDB,0.09,0.0%,african development bank,Finland
-2019,EC-DSB,15.17,0.17%,european commission development share of budget,Finland
-2020,EC-DSB,16.28,0.15%,european commission development share of budget,Finland
-2021,EC-DSB,17.37,0.13%,european commission development share of budget,Finland
-2022,EC-DSB,19.72,0.21%,european commission development share of budget,Finland
-2023,EC-DSB,19.3,0.2%,european commission development share of budget,Finland
-2019,EC-EDF,4.44,0.05%,european commission european development fund,Finland
-2020,EC-EDF,4.62,0.04%,european commission european development fund,Finland
-2021,EC-EDF,2.42,0.02%,european commission european development fund,Finland
-2022,EC-EDF,1.09,0.01%,european commission european development fund,Finland
+2019,EC-DSB,15.17,17.0%,european commission development share of budget,Finland
+2020,EC-DSB,16.28,15.0%,european commission development share of budget,Finland
+2021,EC-DSB,17.37,13.0%,european commission development share of budget,Finland
+2022,EC-DSB,19.72,21.0%,european commission development share of budget,Finland
+2023,EC-DSB,19.3,20.0%,european commission development share of budget,Finland
+2019,EC-EDF,4.44,5.0%,european commission european development fund,Finland
+2020,EC-EDF,4.62,4.0%,european commission european development fund,Finland
+2021,EC-EDF,2.42,2.0%,european commission european development fund,Finland
+2022,EC-EDF,1.09,1.0%,european commission european development fund,Finland
 2023,EC-EDF,0.22,0.0%,european commission european development fund,Finland
 2019,FAO,0.0,0.0%,food and agricultural organisation,Finland
 2020,FAO,0.0,0.0%,food and agricultural organisation,Finland
 2021,FAO,0.0,0.0%,food and agricultural organisation,Finland
 2022,FAO,0.0,0.0%,food and agricultural organisation,Finland
 2023,FAO,0.0,0.0%,food and agricultural organisation,Finland
-2020,IBRD,0.55,0.01%,international bank for reconstruction and development,Finland
+2020,IBRD,0.55,1.0%,international bank for reconstruction and development,Finland
 2021,IBRD,0.42,0.0%,international bank for reconstruction and development,Finland
 2022,IBRD,0.43,0.0%,international bank for reconstruction and development,Finland
 2023,IBRD,0.34,0.0%,international bank for reconstruction and development,Finland
-2019,IDA,5.54,0.06%,international development association,Finland
-2020,IDA,4.67,0.04%,international development association,Finland
-2021,IDA,4.9,0.04%,international development association,Finland
-2022,IDA,5.98,0.06%,international development association,Finland
-2023,IDA,13.16,0.14%,international development association,Finland
+2019,IDA,5.54,6.0%,international development association,Finland
+2020,IDA,4.67,4.0%,international development association,Finland
+2021,IDA,4.9,4.0%,international development association,Finland
+2022,IDA,5.98,6.0%,international development association,Finland
+2023,IDA,13.16,14.000000000000002%,international development association,Finland
 2023,UN,0.01,0.0%,united nations,Finland
 2019,UNDP,0.0,0.0%,united nations development programme,Finland
 2020,UNDP,0.0,0.0%,united nations development programme,Finland
 2021,UNDP,0.0,0.0%,united nations development programme,Finland
 2022,UNDP,0.01,0.0%,united nations development programme,Finland
 2023,UNDP,0.01,0.0%,united nations development programme,Finland
-2019,UNFPA,1.17,0.01%,united nations population fund,Finland
-2020,UNFPA,2.0,0.02%,united nations population fund,Finland
-2021,UNFPA,1.87,0.01%,united nations population fund,Finland
-2022,UNFPA,2.05,0.02%,united nations population fund,Finland
-2023,UNFPA,1.84,0.02%,united nations population fund,Finland
+2019,UNFPA,1.17,1.0%,united nations population fund,Finland
+2020,UNFPA,2.0,2.0%,united nations population fund,Finland
+2021,UNFPA,1.87,1.0%,united nations population fund,Finland
+2022,UNFPA,2.05,2.0%,united nations population fund,Finland
+2023,UNFPA,1.84,2.0%,united nations population fund,Finland
 2020,UNIDO,0.02,0.0%,united nations industrial development organisation,Finland
 2021,UNIDO,0.01,0.0%,united nations industrial development organisation,Finland
 2022,UNIDO,0.01,0.0%,united nations industrial development organisation,Finland
 2023,UNIDO,0.0,0.0%,united nations industrial development organisation,Finland
-2019,UNRWA,3.57,0.04%,united nations relief and works agency for palestine refugees in the near east,Finland
-2020,UNRWA,6.5,0.06%,united nations relief and works agency for palestine refugees in the near east,Finland
-2021,UNRWA,5.66,0.04%,united nations relief and works agency for palestine refugees in the near east,Finland
-2022,UNRWA,4.76,0.05%,united nations relief and works agency for palestine refugees in the near east,Finland
-2023,UNRWA,2.91,0.03%,united nations relief and works agency for palestine refugees in the near east,Finland
+2019,UNRWA,3.57,4.0%,united nations relief and works agency for palestine refugees in the near east,Finland
+2020,UNRWA,6.5,6.0%,united nations relief and works agency for palestine refugees in the near east,Finland
+2021,UNRWA,5.66,4.0%,united nations relief and works agency for palestine refugees in the near east,Finland
+2022,UNRWA,4.76,5.0%,united nations relief and works agency for palestine refugees in the near east,Finland
+2023,UNRWA,2.91,3.0%,united nations relief and works agency for palestine refugees in the near east,Finland
 2019,WFP,0.18,0.0%,world food programme,Finland
-2019,,0.55,0.01%,united nations children’s fund,Finland
-2020,,0.57,0.01%,united nations children’s fund,Finland
+2019,,0.55,1.0%,united nations children’s fund,Finland
+2020,,0.57,1.0%,united nations children’s fund,Finland
 2021,,0.62,0.0%,united nations children’s fund,Finland
-2022,,0.58,0.01%,united nations children’s fund,Finland
-2023,,0.55,0.01%,united nations children’s fund,Finland
+2022,,0.58,1.0%,united nations children’s fund,Finland
+2023,,0.55,1.0%,united nations children’s fund,Finland

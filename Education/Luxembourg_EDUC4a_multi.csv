@@ -11,12 +11,12 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2020,CEB,0.0,0.0%,council of europe development bank,Luxembourg
 2020,EBRD,0.01,0.0%,european bank for reconstruction and development,Luxembourg
 2021,EBRD,0.0,0.0%,european bank for reconstruction and development,Luxembourg
-2019,EC-DSB,4.19,0.06%,european commission development share of budget,Luxembourg
-2020,EC-DSB,4.45,0.08%,european commission development share of budget,Luxembourg
-2021,EC-DSB,3.21,0.05%,european commission development share of budget,Luxembourg
-2022,EC-DSB,4.44,0.08%,european commission development share of budget,Luxembourg
-2023,EC-DSB,4.11,0.06%,european commission development share of budget,Luxembourg
-2021,EC-EDF,0.39,0.01%,european commission european development fund,Luxembourg
+2019,EC-DSB,4.19,6.0%,european commission development share of budget,Luxembourg
+2020,EC-DSB,4.45,8.0%,european commission development share of budget,Luxembourg
+2021,EC-DSB,3.21,5.0%,european commission development share of budget,Luxembourg
+2022,EC-DSB,4.44,8.0%,european commission development share of budget,Luxembourg
+2023,EC-DSB,4.11,6.0%,european commission development share of budget,Luxembourg
+2021,EC-EDF,0.39,1.0%,european commission european development fund,Luxembourg
 2022,EC-EDF,0.17,0.0%,european commission european development fund,Luxembourg
 2019,EIB,0.0,0.0%,european investment bank,Luxembourg
 2020,EIB,0.01,0.0%,european investment bank,Luxembourg
@@ -28,11 +28,11 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,FAO,0.0,0.0%,food and agricultural organisation,Luxembourg
 2022,FAO,0.0,0.0%,food and agricultural organisation,Luxembourg
 2023,FAO,0.0,0.0%,food and agricultural organisation,Luxembourg
-2019,IDA,2.17,0.03%,international development association,Luxembourg
-2020,IDA,1.66,0.03%,international development association,Luxembourg
-2021,IDA,1.83,0.03%,international development association,Luxembourg
-2022,IDA,2.0,0.04%,international development association,Luxembourg
-2023,IDA,2.0,0.03%,international development association,Luxembourg
+2019,IDA,2.17,3.0%,international development association,Luxembourg
+2020,IDA,1.66,3.0%,international development association,Luxembourg
+2021,IDA,1.83,3.0%,international development association,Luxembourg
+2022,IDA,2.0,4.0%,international development association,Luxembourg
+2023,IDA,2.0,3.0%,international development association,Luxembourg
 2019,ILO-RBSA,0.01,0.0%,international labour organisation regular budget supplementary account,Luxembourg
 2020,ILO-RBSA,0.01,0.0%,international labour organisation regular budget supplementary account,Luxembourg
 2021,ILO-RBSA,0.02,0.0%,international labour organisation regular budget supplementary account,Luxembourg
@@ -43,20 +43,20 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2022,UNDP,0.03,0.0%,united nations development programme,Luxembourg
 2023,UNDP,0.03,0.0%,united nations development programme,Luxembourg
 2019,UNFPA,0.19,0.0%,united nations population fund,Luxembourg
-2020,UNFPA,0.39,0.01%,united nations population fund,Luxembourg
-2021,UNFPA,0.43,0.01%,united nations population fund,Luxembourg
-2022,UNFPA,0.58,0.01%,united nations population fund,Luxembourg
-2023,UNFPA,0.45,0.01%,united nations population fund,Luxembourg
+2020,UNFPA,0.39,1.0%,united nations population fund,Luxembourg
+2021,UNFPA,0.43,1.0%,united nations population fund,Luxembourg
+2022,UNFPA,0.58,1.0%,united nations population fund,Luxembourg
+2023,UNFPA,0.45,1.0%,united nations population fund,Luxembourg
 2020,UNIDO,0.0,0.0%,united nations industrial development organisation,Luxembourg
 2021,UNIDO,0.0,0.0%,united nations industrial development organisation,Luxembourg
 2022,UNIDO,0.0,0.0%,united nations industrial development organisation,Luxembourg
 2023,UNIDO,0.0,0.0%,united nations industrial development organisation,Luxembourg
-2019,UNRWA,3.14,0.04%,united nations relief and works agency for palestine refugees in the near east,Luxembourg
-2020,UNRWA,3.09,0.06%,united nations relief and works agency for palestine refugees in the near east,Luxembourg
-2021,UNRWA,4.81,0.07%,united nations relief and works agency for palestine refugees in the near east,Luxembourg
+2019,UNRWA,3.14,4.0%,united nations relief and works agency for palestine refugees in the near east,Luxembourg
+2020,UNRWA,3.09,6.0%,united nations relief and works agency for palestine refugees in the near east,Luxembourg
+2021,UNRWA,4.81,7.000000000000001%,united nations relief and works agency for palestine refugees in the near east,Luxembourg
 2019,WFP,0.03,0.0%,world food programme,Luxembourg
 2019,,0.26,0.0%,united nations children’s fund,Luxembourg
-2020,,0.54,0.01%,united nations children’s fund,Luxembourg
-2021,,0.62,0.01%,united nations children’s fund,Luxembourg
-2022,,0.78,0.01%,united nations children’s fund,Luxembourg
-2023,,0.57,0.01%,united nations children’s fund,Luxembourg
+2020,,0.54,1.0%,united nations children’s fund,Luxembourg
+2021,,0.62,1.0%,united nations children’s fund,Luxembourg
+2022,,0.78,1.0%,united nations children’s fund,Luxembourg
+2023,,0.57,1.0%,united nations children’s fund,Luxembourg

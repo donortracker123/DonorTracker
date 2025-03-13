@@ -1,5 +1,5 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
-2019,ADF,9.41,0.01%,african development fund,United States
+2019,ADF,9.41,1.0%,african development fund,United States
 2020,ADF,7.85,0.0%,african development fund,United States
 2021,ADF,2.7,0.0%,african development fund,United States
 2022,ADF,2.59,0.0%,african development fund,United States
@@ -16,15 +16,15 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,FAO,0.2,0.0%,food and agricultural organisation,United States
 2022,FAO,0.05,0.0%,food and agricultural organisation,United States
 2023,FAO,0.03,0.0%,food and agricultural organisation,United States
-2020,IBRD,15.99,0.01%,international bank for reconstruction and development,United States
-2021,IBRD,8.58,0.01%,international bank for reconstruction and development,United States
-2022,IBRD,9.7,0.01%,international bank for reconstruction and development,United States
-2023,IBRD,10.36,0.01%,international bank for reconstruction and development,United States
-2019,IDA,110.05,0.06%,international development association,United States
-2020,IDA,122.11,0.07%,international development association,United States
-2021,IDA,71.26,0.05%,international development association,United States
-2022,IDA,120.6,0.08%,international development association,United States
-2023,IDA,138.66,0.08%,international development association,United States
+2020,IBRD,15.99,1.0%,international bank for reconstruction and development,United States
+2021,IBRD,8.58,1.0%,international bank for reconstruction and development,United States
+2022,IBRD,9.7,1.0%,international bank for reconstruction and development,United States
+2023,IBRD,10.36,1.0%,international bank for reconstruction and development,United States
+2019,IDA,110.05,6.0%,international development association,United States
+2020,IDA,122.11,7.000000000000001%,international development association,United States
+2021,IDA,71.26,5.0%,international development association,United States
+2022,IDA,120.6,8.0%,international development association,United States
+2023,IDA,138.66,8.0%,international development association,United States
 2023,UN,0.11,0.0%,united nations,United States
 2019,UNDP,0.03,0.0%,united nations development programme,United States
 2020,UNDP,0.04,0.0%,united nations development programme,United States
@@ -34,9 +34,9 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,UNFPA,1.63,0.0%,united nations population fund,United States
 2022,UNFPA,2.88,0.0%,united nations population fund,United States
 2023,UNFPA,1.73,0.0%,united nations population fund,United States
-2023,UNRWA,40.4,0.02%,united nations relief and works agency for palestine refugees in the near east,United States
+2023,UNRWA,40.4,2.0%,united nations relief and works agency for palestine refugees in the near east,United States
 2019,,8.67,0.0%,united nations children’s fund,United States
-2020,,12.46,0.01%,united nations children’s fund,United States
+2020,,12.46,1.0%,united nations children’s fund,United States
 2021,,5.78,0.0%,united nations children’s fund,United States
-2022,,23.53,0.02%,united nations children’s fund,United States
-2023,,10.29,0.01%,united nations children’s fund,United States
+2022,,23.53,2.0%,united nations children’s fund,United States
+2023,,10.29,1.0%,united nations children’s fund,United States

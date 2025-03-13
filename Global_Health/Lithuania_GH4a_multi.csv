@@ -3,32 +3,32 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2020,CEB,0.0,0.0%,council of europe development bank,Lithuania
 2021,CEB,0.0,0.0%,council of europe development bank,Lithuania
 2023,CEB,0.05,0.0%,council of europe development bank,Lithuania
-2019,EC-DSB,1.56,0.51%,european commission development share of budget,Lithuania
-2020,EC-DSB,1.52,0.47%,european commission development share of budget,Lithuania
-2021,EC-DSB,3.12,0.35%,european commission development share of budget,Lithuania
-2022,EC-DSB,7.08,0.67%,european commission development share of budget,Lithuania
-2023,EC-DSB,6.33,0.34%,european commission development share of budget,Lithuania
-2019,EC-EDF,0.91,0.3%,european commission european development fund,Lithuania
-2020,EC-EDF,0.84,0.26%,european commission european development fund,Lithuania
-2021,EC-EDF,0.57,0.06%,european commission european development fund,Lithuania
-2022,EC-EDF,0.16,0.02%,european commission european development fund,Lithuania
+2019,EC-DSB,1.56,51.0%,european commission development share of budget,Lithuania
+2020,EC-DSB,1.52,47.0%,european commission development share of budget,Lithuania
+2021,EC-DSB,3.12,35.0%,european commission development share of budget,Lithuania
+2022,EC-DSB,7.08,67.0%,european commission development share of budget,Lithuania
+2023,EC-DSB,6.33,34.0%,european commission development share of budget,Lithuania
+2019,EC-EDF,0.91,30.0%,european commission european development fund,Lithuania
+2020,EC-EDF,0.84,26.0%,european commission european development fund,Lithuania
+2021,EC-EDF,0.57,6.0%,european commission european development fund,Lithuania
+2022,EC-EDF,0.16,2.0%,european commission european development fund,Lithuania
 2023,EC-EDF,0.04,0.0%,european commission european development fund,Lithuania
 2022,EIB,0.04,0.0%,european investment bank,Lithuania
 2023,EIB,0.04,0.0%,european investment bank,Lithuania
-2019,FAO,0.03,0.01%,food and agricultural organisation,Lithuania
-2020,FAO,0.02,0.01%,food and agricultural organisation,Lithuania
+2019,FAO,0.03,1.0%,food and agricultural organisation,Lithuania
+2020,FAO,0.02,1.0%,food and agricultural organisation,Lithuania
 2021,FAO,0.02,0.0%,food and agricultural organisation,Lithuania
 2022,FAO,0.01,0.0%,food and agricultural organisation,Lithuania
 2023,FAO,0.01,0.0%,food and agricultural organisation,Lithuania
-2020,IBRD,0.17,0.05%,international bank for reconstruction and development,Lithuania
-2021,IBRD,0.22,0.02%,international bank for reconstruction and development,Lithuania
-2022,IBRD,0.28,0.03%,international bank for reconstruction and development,Lithuania
-2023,IBRD,0.33,0.02%,international bank for reconstruction and development,Lithuania
-2019,IDA,0.14,0.05%,international development association,Lithuania
-2020,IDA,0.15,0.04%,international development association,Lithuania
-2021,IDA,0.22,0.03%,international development association,Lithuania
-2022,IDA,0.22,0.02%,international development association,Lithuania
-2023,IDA,0.44,0.02%,international development association,Lithuania
+2020,IBRD,0.17,5.0%,international bank for reconstruction and development,Lithuania
+2021,IBRD,0.22,2.0%,international bank for reconstruction and development,Lithuania
+2022,IBRD,0.28,3.0%,international bank for reconstruction and development,Lithuania
+2023,IBRD,0.33,2.0%,international bank for reconstruction and development,Lithuania
+2019,IDA,0.14,5.0%,international development association,Lithuania
+2020,IDA,0.15,4.0%,international development association,Lithuania
+2021,IDA,0.22,3.0%,international development association,Lithuania
+2022,IDA,0.22,2.0%,international development association,Lithuania
+2023,IDA,0.44,2.0%,international development association,Lithuania
 2022,IFC,0.0,0.0%,international finance corporation,Lithuania
 2019,UN,0.0,0.0%,united nations,Lithuania
 2020,UN,0.0,0.0%,united nations,Lithuania
@@ -36,11 +36,11 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2022,UN,0.0,0.0%,united nations,Lithuania
 2023,UN,0.0,0.0%,united nations,Lithuania
 2021,WFP,0.0,0.0%,world food programme,Lithuania
-2019,WHO-AC,0.3,0.1%,world health organisation assessed contributions,Lithuania
-2020,WHO-AC,0.3,0.09%,world health organisation assessed contributions,Lithuania
-2021,WHO-AC,0.24,0.03%,world health organisation assessed contributions,Lithuania
-2022,WHO-AC,0.21,0.02%,world health organisation assessed contributions,Lithuania
-2023,WHO-AC,0.22,0.01%,world health organisation assessed contributions,Lithuania
+2019,WHO-AC,0.3,10.0%,world health organisation assessed contributions,Lithuania
+2020,WHO-AC,0.3,9.0%,world health organisation assessed contributions,Lithuania
+2021,WHO-AC,0.24,3.0%,world health organisation assessed contributions,Lithuania
+2022,WHO-AC,0.21,2.0%,world health organisation assessed contributions,Lithuania
+2023,WHO-AC,0.22,1.0%,world health organisation assessed contributions,Lithuania
 2021,,0.0,0.0%,united nations children’s fund,Lithuania
 2022,,0.0,0.0%,united nations children’s fund,Lithuania
 2023,,0.0,0.0%,united nations children’s fund,Lithuania

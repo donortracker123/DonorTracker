@@ -6,12 +6,12 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,FAO,0.02,0.0%,food and agricultural organisation,Australia
 2022,FAO,0.0,0.0%,food and agricultural organisation,Australia
 2023,FAO,0.0,0.0%,food and agricultural organisation,Australia
-2019,IBRD,13.18,0.06%,international bank for reconstruction and development,Australia
+2019,IBRD,13.18,6.0%,international bank for reconstruction and development,Australia
 2020,IBRD,0.75,0.0%,international bank for reconstruction and development,Australia
-2021,IBRD,10.3,0.05%,international bank for reconstruction and development,Australia
-2022,IBRD,8.95,0.04%,international bank for reconstruction and development,Australia
-2023,IBRD,7.83,0.04%,international bank for reconstruction and development,Australia
-2020,IDA,12.54,0.07%,international development association,Australia
+2021,IBRD,10.3,5.0%,international bank for reconstruction and development,Australia
+2022,IBRD,8.95,4.0%,international bank for reconstruction and development,Australia
+2023,IBRD,7.83,4.0%,international bank for reconstruction and development,Australia
+2020,IDA,12.54,7.000000000000001%,international development association,Australia
 2023,UN,0.03,0.0%,united nations,Australia
 2019,UNDP,0.0,0.0%,united nations development programme,Australia
 2020,UNDP,0.0,0.0%,united nations development programme,Australia
@@ -22,6 +22,6 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,UNFPA,0.39,0.0%,united nations population fund,Australia
 2023,UNFPA,0.37,0.0%,united nations population fund,Australia
 2019,,1.05,0.0%,united nations children’s fund,Australia
-2020,,1.11,0.01%,united nations children’s fund,Australia
-2021,,1.17,0.01%,united nations children’s fund,Australia
-2023,,1.82,0.01%,united nations children’s fund,Australia
+2020,,1.11,1.0%,united nations children’s fund,Australia
+2021,,1.17,1.0%,united nations children’s fund,Australia
+2023,,1.82,1.0%,united nations children’s fund,Australia

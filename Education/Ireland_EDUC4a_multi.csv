@@ -17,15 +17,15 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,CEB,0.0,0.0%,council of europe development bank,Ireland
 2022,CEB,0.0,0.0%,council of europe development bank,Ireland
 2023,CEB,0.0,0.0%,council of europe development bank,Ireland
-2019,EC-DSB,16.66,0.22%,european commission development share of budget,Ireland
-2020,EC-DSB,17.61,0.24%,european commission development share of budget,Ireland
-2021,EC-DSB,20.92,0.3%,european commission development share of budget,Ireland
-2022,EC-DSB,27.43,0.35%,european commission development share of budget,Ireland
-2023,EC-DSB,29.37,0.32%,european commission development share of budget,Ireland
-2019,EC-EDF,2.51,0.03%,european commission european development fund,Ireland
-2020,EC-EDF,2.66,0.04%,european commission european development fund,Ireland
-2021,EC-EDF,1.42,0.02%,european commission european development fund,Ireland
-2022,EC-EDF,0.6,0.01%,european commission european development fund,Ireland
+2019,EC-DSB,16.66,22.0%,european commission development share of budget,Ireland
+2020,EC-DSB,17.61,24.0%,european commission development share of budget,Ireland
+2021,EC-DSB,20.92,30.0%,european commission development share of budget,Ireland
+2022,EC-DSB,27.43,35.0%,european commission development share of budget,Ireland
+2023,EC-DSB,29.37,32.0%,european commission development share of budget,Ireland
+2019,EC-EDF,2.51,3.0%,european commission european development fund,Ireland
+2020,EC-EDF,2.66,4.0%,european commission european development fund,Ireland
+2021,EC-EDF,1.42,2.0%,european commission european development fund,Ireland
+2022,EC-EDF,0.6,1.0%,european commission european development fund,Ireland
 2023,EC-EDF,0.12,0.0%,european commission european development fund,Ireland
 2019,EIB,0.01,0.0%,european investment bank,Ireland
 2020,EIB,0.01,0.0%,european investment bank,Ireland
@@ -42,11 +42,11 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,IBRD,0.24,0.0%,international bank for reconstruction and development,Ireland
 2022,IBRD,0.25,0.0%,international bank for reconstruction and development,Ireland
 2023,IBRD,0.2,0.0%,international bank for reconstruction and development,Ireland
-2019,IDA,2.7,0.04%,international development association,Ireland
-2020,IDA,2.75,0.04%,international development association,Ireland
-2021,IDA,2.41,0.03%,international development association,Ireland
-2022,IDA,2.82,0.04%,international development association,Ireland
-2023,IDA,3.89,0.04%,international development association,Ireland
+2019,IDA,2.7,4.0%,international development association,Ireland
+2020,IDA,2.75,4.0%,international development association,Ireland
+2021,IDA,2.41,3.0%,international development association,Ireland
+2022,IDA,2.82,4.0%,international development association,Ireland
+2023,IDA,3.89,4.0%,international development association,Ireland
 2023,JSDGF,0.01,0.0%,joint sustainable development goals fund,Ireland
 2023,UN,0.01,0.0%,united nations,Ireland
 2019,UNDP,0.0,0.0%,united nations development programme,Ireland
@@ -63,12 +63,12 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,UNIDO,0.01,0.0%,united nations industrial development organisation,Ireland
 2022,UNIDO,0.01,0.0%,united nations industrial development organisation,Ireland
 2023,UNIDO,0.0,0.0%,united nations industrial development organisation,Ireland
-2019,UNRWA,4.14,0.05%,united nations relief and works agency for palestine refugees in the near east,Ireland
-2020,UNRWA,4.99,0.07%,united nations relief and works agency for palestine refugees in the near east,Ireland
-2023,UNRWA,6.99,0.08%,united nations relief and works agency for palestine refugees in the near east,Ireland
-2019,WFP,0.56,0.01%,world food programme,Ireland
-2019,,0.54,0.01%,united nations children’s fund,Ireland
-2020,,0.66,0.01%,united nations children’s fund,Ireland
-2021,,0.73,0.01%,united nations children’s fund,Ireland
-2022,,0.59,0.01%,united nations children’s fund,Ireland
-2023,,0.6,0.01%,united nations children’s fund,Ireland
+2019,UNRWA,4.14,5.0%,united nations relief and works agency for palestine refugees in the near east,Ireland
+2020,UNRWA,4.99,7.000000000000001%,united nations relief and works agency for palestine refugees in the near east,Ireland
+2023,UNRWA,6.99,8.0%,united nations relief and works agency for palestine refugees in the near east,Ireland
+2019,WFP,0.56,1.0%,world food programme,Ireland
+2019,,0.54,1.0%,united nations children’s fund,Ireland
+2020,,0.66,1.0%,united nations children’s fund,Ireland
+2021,,0.73,1.0%,united nations children’s fund,Ireland
+2022,,0.59,1.0%,united nations children’s fund,Ireland
+2023,,0.6,1.0%,united nations children’s fund,Ireland

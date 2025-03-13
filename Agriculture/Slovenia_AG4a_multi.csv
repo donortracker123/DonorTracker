@@ -1,52 +1,52 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
 2022,AF,0.01,0.0%,adaptation fund,Slovenia
-2019,EC-DSB,2.75,0.51%,european commission development share of budget,Slovenia
-2020,EC-DSB,2.58,0.53%,european commission development share of budget,Slovenia
-2021,EC-DSB,2.75,0.57%,european commission development share of budget,Slovenia
-2022,EC-DSB,3.45,0.63%,european commission development share of budget,Slovenia
-2023,EC-DSB,3.81,0.66%,european commission development share of budget,Slovenia
-2019,EC-EDF,1.71,0.32%,european commission european development fund,Slovenia
-2020,EC-EDF,1.59,0.33%,european commission european development fund,Slovenia
-2021,EC-EDF,1.15,0.24%,european commission european development fund,Slovenia
-2022,EC-EDF,0.44,0.08%,european commission european development fund,Slovenia
-2023,EC-EDF,0.16,0.03%,european commission european development fund,Slovenia
+2019,EC-DSB,2.75,51.0%,european commission development share of budget,Slovenia
+2020,EC-DSB,2.58,53.0%,european commission development share of budget,Slovenia
+2021,EC-DSB,2.75,56.99999999999999%,european commission development share of budget,Slovenia
+2022,EC-DSB,3.45,63.0%,european commission development share of budget,Slovenia
+2023,EC-DSB,3.81,66.0%,european commission development share of budget,Slovenia
+2019,EC-EDF,1.71,32.0%,european commission european development fund,Slovenia
+2020,EC-EDF,1.59,33.0%,european commission european development fund,Slovenia
+2021,EC-EDF,1.15,24.0%,european commission european development fund,Slovenia
+2022,EC-EDF,0.44,8.0%,european commission european development fund,Slovenia
+2023,EC-EDF,0.16,3.0%,european commission european development fund,Slovenia
 2019,EIB,0.02,0.0%,european investment bank,Slovenia
-2020,EIB,0.02,0.01%,european investment bank,Slovenia
-2021,EIB,0.03,0.01%,european investment bank,Slovenia
-2022,EIB,0.04,0.01%,european investment bank,Slovenia
-2023,EIB,0.03,0.01%,european investment bank,Slovenia
-2019,FAO,0.21,0.04%,food and agricultural organisation,Slovenia
-2020,FAO,0.19,0.04%,food and agricultural organisation,Slovenia
-2021,FAO,0.17,0.04%,food and agricultural organisation,Slovenia
-2022,FAO,0.21,0.04%,food and agricultural organisation,Slovenia
-2023,FAO,0.19,0.03%,food and agricultural organisation,Slovenia
-2019,GCF,0.15,0.03%,green climate fund,Slovenia
-2019,GEF-TF,0.04,0.01%,global environment facility trust fund,Slovenia
-2021,GEF-TF,0.22,0.04%,global environment facility trust fund,Slovenia
-2022,GEF-TF,0.14,0.03%,global environment facility trust fund,Slovenia
-2023,GEF-TF,0.24,0.04%,global environment facility trust fund,Slovenia
-2019,IBRD,0.09,0.02%,international bank for reconstruction and development,Slovenia
-2020,IBRD,0.08,0.02%,international bank for reconstruction and development,Slovenia
-2021,IBRD,0.07,0.01%,international bank for reconstruction and development,Slovenia
-2022,IBRD,0.08,0.02%,international bank for reconstruction and development,Slovenia
-2023,IBRD,0.08,0.01%,international bank for reconstruction and development,Slovenia
+2020,EIB,0.02,1.0%,european investment bank,Slovenia
+2021,EIB,0.03,1.0%,european investment bank,Slovenia
+2022,EIB,0.04,1.0%,european investment bank,Slovenia
+2023,EIB,0.03,1.0%,european investment bank,Slovenia
+2019,FAO,0.21,4.0%,food and agricultural organisation,Slovenia
+2020,FAO,0.19,4.0%,food and agricultural organisation,Slovenia
+2021,FAO,0.17,4.0%,food and agricultural organisation,Slovenia
+2022,FAO,0.21,4.0%,food and agricultural organisation,Slovenia
+2023,FAO,0.19,3.0%,food and agricultural organisation,Slovenia
+2019,GCF,0.15,3.0%,green climate fund,Slovenia
+2019,GEF-TF,0.04,1.0%,global environment facility trust fund,Slovenia
+2021,GEF-TF,0.22,4.0%,global environment facility trust fund,Slovenia
+2022,GEF-TF,0.14,3.0%,global environment facility trust fund,Slovenia
+2023,GEF-TF,0.24,4.0%,global environment facility trust fund,Slovenia
+2019,IBRD,0.09,2.0%,international bank for reconstruction and development,Slovenia
+2020,IBRD,0.08,2.0%,international bank for reconstruction and development,Slovenia
+2021,IBRD,0.07,1.0%,international bank for reconstruction and development,Slovenia
+2022,IBRD,0.08,2.0%,international bank for reconstruction and development,Slovenia
+2023,IBRD,0.08,1.0%,international bank for reconstruction and development,Slovenia
 2021,ICGEB,0.0,0.0%,international centre for genetic engineering and biotechnology,Slovenia
 2022,ICGEB,0.0,0.0%,international centre for genetic engineering and biotechnology,Slovenia
 2023,ICGEB,0.0,0.0%,international centre for genetic engineering and biotechnology,Slovenia
-2019,IDA,0.16,0.03%,international development association,Slovenia
-2020,IDA,0.18,0.04%,international development association,Slovenia
-2021,IDA,0.14,0.03%,international development association,Slovenia
-2022,IDA,0.15,0.03%,international development association,Slovenia
-2023,IDA,0.17,0.03%,international development association,Slovenia
-2022,IFC,0.46,0.08%,international finance corporation,Slovenia
-2023,IFC,0.39,0.07%,international finance corporation,Slovenia
+2019,IDA,0.16,3.0%,international development association,Slovenia
+2020,IDA,0.18,4.0%,international development association,Slovenia
+2021,IDA,0.14,3.0%,international development association,Slovenia
+2022,IDA,0.15,3.0%,international development association,Slovenia
+2023,IDA,0.17,3.0%,international development association,Slovenia
+2022,IFC,0.46,8.0%,international finance corporation,Slovenia
+2023,IFC,0.39,7.000000000000001%,international finance corporation,Slovenia
 2022,UN,0.0,0.0%,united nations,Slovenia
 2023,UN,0.0,0.0%,united nations,Slovenia
 2021,UNIDO,0.0,0.0%,united nations industrial development organisation,Slovenia
 2022,UNIDO,0.0,0.0%,united nations industrial development organisation,Slovenia
-2021,WOAH,0.03,0.01%,world organisation for animal health,Slovenia
-2022,WOAH,0.04,0.01%,world organisation for animal health,Slovenia
-2023,WOAH,0.04,0.01%,world organisation for animal health,Slovenia
+2021,WOAH,0.03,1.0%,world organisation for animal health,Slovenia
+2022,WOAH,0.04,1.0%,world organisation for animal health,Slovenia
+2023,WOAH,0.04,1.0%,world organisation for animal health,Slovenia
 2019,,0.0,0.0%,united nations children’s fund,Slovenia
 2020,,0.0,0.0%,united nations children’s fund,Slovenia
 2021,,0.0,0.0%,united nations children’s fund,Slovenia

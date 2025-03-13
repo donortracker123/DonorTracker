@@ -6,18 +6,18 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,FAO,0.56,0.0%,food and agricultural organisation,Australia
 2022,FAO,0.4,0.0%,food and agricultural organisation,Australia
 2023,FAO,0.44,0.0%,food and agricultural organisation,Australia
-2019,GAVI,70.51,0.21%,global alliance for vaccines and immunization,Australia
-2020,GAVI,43.13,0.08%,global alliance for vaccines and immunization,Australia
-2021,GAVI,21.42,0.03%,global alliance for vaccines and immunization,Australia
-2022,GAVI,32.91,0.06%,global alliance for vaccines and immunization,Australia
-2023,GAVI,27.13,0.06%,global alliance for vaccines and immunization,Australia
-2020,GFATM,15.99,0.03%,global fund to fight aids tuberculosis and malaria,Australia
-2019,IBRD,7.48,0.02%,international bank for reconstruction and development,Australia
+2019,GAVI,70.51,21.0%,global alliance for vaccines and immunization,Australia
+2020,GAVI,43.13,8.0%,global alliance for vaccines and immunization,Australia
+2021,GAVI,21.42,3.0%,global alliance for vaccines and immunization,Australia
+2022,GAVI,32.91,6.0%,global alliance for vaccines and immunization,Australia
+2023,GAVI,27.13,6.0%,global alliance for vaccines and immunization,Australia
+2020,GFATM,15.99,3.0%,global fund to fight aids tuberculosis and malaria,Australia
+2019,IBRD,7.48,2.0%,international bank for reconstruction and development,Australia
 2020,IBRD,0.92,0.0%,international bank for reconstruction and development,Australia
-2021,IBRD,22.4,0.03%,international bank for reconstruction and development,Australia
-2022,IBRD,27.29,0.05%,international bank for reconstruction and development,Australia
-2023,IBRD,26.46,0.06%,international bank for reconstruction and development,Australia
-2020,IDA,15.78,0.03%,international development association,Australia
+2021,IBRD,22.4,3.0%,international bank for reconstruction and development,Australia
+2022,IBRD,27.29,5.0%,international bank for reconstruction and development,Australia
+2023,IBRD,26.46,6.0%,international bank for reconstruction and development,Australia
+2020,IDA,15.78,3.0%,international development association,Australia
 2021,PIDG,0.0,0.0%,private infrastructure development group,Australia
 2022,PIDG,0.0,0.0%,private infrastructure development group,Australia
 2019,UN,0.01,0.0%,united nations,Australia
@@ -25,7 +25,7 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,UN,0.06,0.0%,united nations,Australia
 2022,UN,0.12,0.0%,united nations,Australia
 2023,UN,0.17,0.0%,united nations,Australia
-2019,UNAIDS,2.29,0.01%,joint united nations programme on hiv aids,Australia
+2019,UNAIDS,2.29,1.0%,joint united nations programme on hiv aids,Australia
 2020,UNAIDS,1.47,0.0%,joint united nations programme on hiv aids,Australia
 2023,UNAIDS,1.1,0.0%,joint united nations programme on hiv aids,Australia
 2019,UNDP,0.14,0.0%,united nations development programme,Australia
@@ -33,18 +33,18 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,UNDP,0.36,0.0%,united nations development programme,Australia
 2022,UNDP,0.35,0.0%,united nations development programme,Australia
 2023,UNDP,0.3,0.0%,united nations development programme,Australia
-2020,UNFPA,3.91,0.01%,united nations population fund,Australia
+2020,UNFPA,3.91,1.0%,united nations population fund,Australia
 2021,UNFPA,2.35,0.0%,united nations population fund,Australia
-2023,UNFPA,4.01,0.01%,united nations population fund,Australia
+2023,UNFPA,4.01,1.0%,united nations population fund,Australia
 2022,WFP,0.52,0.0%,world food programme,Australia
 2023,WFP,0.58,0.0%,world food programme,Australia
-2019,WHO-AC,8.03,0.02%,world health organisation assessed contributions,Australia
-2020,WHO-AC,8.05,0.02%,world health organisation assessed contributions,Australia
-2021,WHO-AC,15.53,0.02%,world health organisation assessed contributions,Australia
-2022,WHO-AC,20.26,0.04%,world health organisation assessed contributions,Australia
-2023,WHO-AC,13.38,0.03%,world health organisation assessed contributions,Australia
-2020,WHO-CVCA,7.12,0.01%,world health organisation core voluntary contributions account,Australia
-2019,,2.61,0.01%,united nations children’s fund,Australia
-2020,,2.6,0.01%,united nations children’s fund,Australia
+2019,WHO-AC,8.03,2.0%,world health organisation assessed contributions,Australia
+2020,WHO-AC,8.05,2.0%,world health organisation assessed contributions,Australia
+2021,WHO-AC,15.53,2.0%,world health organisation assessed contributions,Australia
+2022,WHO-AC,20.26,4.0%,world health organisation assessed contributions,Australia
+2023,WHO-AC,13.38,3.0%,world health organisation assessed contributions,Australia
+2020,WHO-CVCA,7.12,1.0%,world health organisation core voluntary contributions account,Australia
+2019,,2.61,1.0%,united nations children’s fund,Australia
+2020,,2.6,1.0%,united nations children’s fund,Australia
 2021,,2.56,0.0%,united nations children’s fund,Australia
-2023,,3.5,0.01%,united nations children’s fund,Australia
+2023,,3.5,1.0%,united nations children’s fund,Australia

@@ -15,9 +15,9 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2022,AfDB,0.03,0.0%,african development bank,Korea
 2023,AfDB,0.05,0.0%,african development bank,Korea
 2020,CABEI,1.19,0.0%,central american bank for economic integration,Korea
-2021,CABEI,3.7,0.01%,central american bank for economic integration,Korea
+2021,CABEI,3.7,1.0%,central american bank for economic integration,Korea
 2022,CABEI,0.81,0.0%,central american bank for economic integration,Korea
-2023,CABEI,2.39,0.01%,central american bank for economic integration,Korea
+2023,CABEI,2.39,1.0%,central american bank for economic integration,Korea
 2021,EBRD,0.0,0.0%,european bank for reconstruction and development,Korea
 2022,EBRD,0.0,0.0%,european bank for reconstruction and development,Korea
 2023,EBRD,0.01,0.0%,european bank for reconstruction and development,Korea
@@ -26,10 +26,10 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,FAO,0.49,0.0%,food and agricultural organisation,Korea
 2022,FAO,0.36,0.0%,food and agricultural organisation,Korea
 2023,FAO,0.53,0.0%,food and agricultural organisation,Korea
-2019,GAVI,4.23,0.02%,global alliance for vaccines and immunization,Korea
-2020,GAVI,4.92,0.01%,global alliance for vaccines and immunization,Korea
-2022,GAVI,9.94,0.02%,global alliance for vaccines and immunization,Korea
-2023,GAVI,4.67,0.01%,global alliance for vaccines and immunization,Korea
+2019,GAVI,4.23,2.0%,global alliance for vaccines and immunization,Korea
+2020,GAVI,4.92,1.0%,global alliance for vaccines and immunization,Korea
+2022,GAVI,9.94,2.0%,global alliance for vaccines and immunization,Korea
+2023,GAVI,4.67,1.0%,global alliance for vaccines and immunization,Korea
 2022,GCF,0.0,0.0%,green climate fund,Korea
 2023,GCF,0.01,0.0%,green climate fund,Korea
 2019,GEF-TF,0.0,0.0%,global environment facility trust fund,Korea
@@ -37,21 +37,21 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,GEF-TF,0.04,0.0%,global environment facility trust fund,Korea
 2022,GEF-TF,0.03,0.0%,global environment facility trust fund,Korea
 2023,GEF-TF,0.03,0.0%,global environment facility trust fund,Korea
-2019,GFATM,4.81,0.02%,global fund to fight aids tuberculosis and malaria,Korea
-2020,GFATM,8.41,0.01%,global fund to fight aids tuberculosis and malaria,Korea
-2022,GFATM,8.3,0.02%,global fund to fight aids tuberculosis and malaria,Korea
-2023,GFATM,58.0,0.13%,global fund to fight aids tuberculosis and malaria,Korea
-2019,IBRD,2.01,0.01%,international bank for reconstruction and development,Korea
-2020,IBRD,3.24,0.01%,international bank for reconstruction and development,Korea
-2021,IBRD,9.88,0.02%,international bank for reconstruction and development,Korea
-2022,IBRD,9.73,0.02%,international bank for reconstruction and development,Korea
-2023,IBRD,9.42,0.02%,international bank for reconstruction and development,Korea
-2019,IDA,12.0,0.06%,international development association,Korea
-2020,IDA,12.67,0.02%,international development association,Korea
-2021,IDA,15.23,0.02%,international development association,Korea
-2022,IDA,17.36,0.04%,international development association,Korea
-2023,IDA,33.15,0.07%,international development association,Korea
-2019,IDB-IIC-MIF,1.23,0.01%,inter american development bank inter american investment corporation and multilateral investment fund,Korea
+2019,GFATM,4.81,2.0%,global fund to fight aids tuberculosis and malaria,Korea
+2020,GFATM,8.41,1.0%,global fund to fight aids tuberculosis and malaria,Korea
+2022,GFATM,8.3,2.0%,global fund to fight aids tuberculosis and malaria,Korea
+2023,GFATM,58.0,13.0%,global fund to fight aids tuberculosis and malaria,Korea
+2019,IBRD,2.01,1.0%,international bank for reconstruction and development,Korea
+2020,IBRD,3.24,1.0%,international bank for reconstruction and development,Korea
+2021,IBRD,9.88,2.0%,international bank for reconstruction and development,Korea
+2022,IBRD,9.73,2.0%,international bank for reconstruction and development,Korea
+2023,IBRD,9.42,2.0%,international bank for reconstruction and development,Korea
+2019,IDA,12.0,6.0%,international development association,Korea
+2020,IDA,12.67,2.0%,international development association,Korea
+2021,IDA,15.23,2.0%,international development association,Korea
+2022,IDA,17.36,4.0%,international development association,Korea
+2023,IDA,33.15,7.000000000000001%,international development association,Korea
+2019,IDB-IIC-MIF,1.23,1.0%,inter american development bank inter american investment corporation and multilateral investment fund,Korea
 2020,IDB-IIC-MIF,0.96,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Korea
 2021,IDB-IIC-MIF,1.27,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Korea
 2022,IDB-IIC-MIF,0.86,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Korea
@@ -83,11 +83,11 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,WFP,0.08,0.0%,world food programme,Korea
 2022,WFP,0.09,0.0%,world food programme,Korea
 2023,WFP,0.1,0.0%,world food programme,Korea
-2019,WHO-AC,5.98,0.03%,world health organisation assessed contributions,Korea
-2020,WHO-AC,6.65,0.01%,world health organisation assessed contributions,Korea
-2021,WHO-AC,5.65,0.01%,world health organisation assessed contributions,Korea
-2022,WHO-AC,5.59,0.01%,world health organisation assessed contributions,Korea
-2023,WHO-AC,7.33,0.02%,world health organisation assessed contributions,Korea
+2019,WHO-AC,5.98,3.0%,world health organisation assessed contributions,Korea
+2020,WHO-AC,6.65,1.0%,world health organisation assessed contributions,Korea
+2021,WHO-AC,5.65,1.0%,world health organisation assessed contributions,Korea
+2022,WHO-AC,5.59,1.0%,world health organisation assessed contributions,Korea
+2023,WHO-AC,7.33,2.0%,world health organisation assessed contributions,Korea
 2022,WHO-CVCA,0.19,0.0%,world health organisation core voluntary contributions account,Korea
 2019,,0.56,0.0%,united nations children’s fund,Korea
 2020,,0.43,0.0%,united nations children’s fund,Korea

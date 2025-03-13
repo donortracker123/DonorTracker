@@ -20,14 +20,14 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,CEB,0.0,0.0%,council of europe development bank,Germany
 2022,CEB,0.0,0.0%,council of europe development bank,Germany
 2023,CEB,0.0,0.0%,council of europe development bank,Germany
-2019,EC-DSB,217.18,0.06%,european commission development share of budget,Germany
-2020,EC-DSB,223.43,0.06%,european commission development share of budget,Germany
-2021,EC-DSB,241.22,0.06%,european commission development share of budget,Germany
-2022,EC-DSB,289.92,0.07%,european commission development share of budget,Germany
-2023,EC-DSB,344.39,0.09%,european commission development share of budget,Germany
-2019,EC-EDF,62.26,0.02%,european commission european development fund,Germany
-2020,EC-EDF,64.63,0.02%,european commission european development fund,Germany
-2021,EC-EDF,33.17,0.01%,european commission european development fund,Germany
+2019,EC-DSB,217.18,6.0%,european commission development share of budget,Germany
+2020,EC-DSB,223.43,6.0%,european commission development share of budget,Germany
+2021,EC-DSB,241.22,6.0%,european commission development share of budget,Germany
+2022,EC-DSB,289.92,7.000000000000001%,european commission development share of budget,Germany
+2023,EC-DSB,344.39,9.0%,european commission development share of budget,Germany
+2019,EC-EDF,62.26,2.0%,european commission european development fund,Germany
+2020,EC-EDF,64.63,2.0%,european commission european development fund,Germany
+2021,EC-EDF,33.17,1.0%,european commission european development fund,Germany
 2022,EC-EDF,15.1,0.0%,european commission european development fund,Germany
 2023,EC-EDF,3.05,0.0%,european commission european development fund,Germany
 2019,FAO,0.05,0.0%,food and agricultural organisation,Germany
@@ -40,11 +40,11 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,IBRD,3.03,0.0%,international bank for reconstruction and development,Germany
 2022,IBRD,3.24,0.0%,international bank for reconstruction and development,Germany
 2023,IBRD,2.5,0.0%,international bank for reconstruction and development,Germany
-2019,IDA,58.02,0.02%,international development association,Germany
-2020,IDA,53.47,0.01%,international development association,Germany
-2021,IDA,53.01,0.01%,international development association,Germany
-2022,IDA,55.03,0.01%,international development association,Germany
-2023,IDA,112.72,0.03%,international development association,Germany
+2019,IDA,58.02,2.0%,international development association,Germany
+2020,IDA,53.47,1.0%,international development association,Germany
+2021,IDA,53.01,1.0%,international development association,Germany
+2022,IDA,55.03,1.0%,international development association,Germany
+2023,IDA,112.72,3.0%,international development association,Germany
 2023,UN,0.08,0.0%,united nations,Germany
 2019,UNDP,0.03,0.0%,united nations development programme,Germany
 2020,UNDP,0.05,0.0%,united nations development programme,Germany

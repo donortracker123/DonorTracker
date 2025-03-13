@@ -1,29 +1,29 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
 2020,CEB,0.0,0.0%,council of europe development bank,Estonia
-2019,EC-DSB,0.83,0.39%,european commission development share of budget,Estonia
-2020,EC-DSB,0.77,0.28%,european commission development share of budget,Estonia
-2021,EC-DSB,1.58,0.25%,european commission development share of budget,Estonia
-2022,EC-DSB,2.94,0.8%,european commission development share of budget,Estonia
-2023,EC-DSB,3.34,0.71%,european commission development share of budget,Estonia
-2019,EC-EDF,0.42,0.2%,european commission european development fund,Estonia
-2020,EC-EDF,0.39,0.14%,european commission european development fund,Estonia
-2021,EC-EDF,0.27,0.04%,european commission european development fund,Estonia
-2022,EC-EDF,0.09,0.02%,european commission european development fund,Estonia
+2019,EC-DSB,0.83,39.0%,european commission development share of budget,Estonia
+2020,EC-DSB,0.77,28.000000000000004%,european commission development share of budget,Estonia
+2021,EC-DSB,1.58,25.0%,european commission development share of budget,Estonia
+2022,EC-DSB,2.94,80.0%,european commission development share of budget,Estonia
+2023,EC-DSB,3.34,71.0%,european commission development share of budget,Estonia
+2019,EC-EDF,0.42,20.0%,european commission european development fund,Estonia
+2020,EC-EDF,0.39,14.000000000000002%,european commission european development fund,Estonia
+2021,EC-EDF,0.27,4.0%,european commission european development fund,Estonia
+2022,EC-EDF,0.09,2.0%,european commission european development fund,Estonia
 2023,EC-EDF,0.02,0.0%,european commission european development fund,Estonia
 2020,FAO,0.01,0.0%,food and agricultural organisation,Estonia
 2021,FAO,0.01,0.0%,food and agricultural organisation,Estonia
 2022,FAO,0.01,0.0%,food and agricultural organisation,Estonia
 2023,FAO,0.01,0.0%,food and agricultural organisation,Estonia
-2021,GAVI,0.09,0.01%,global alliance for vaccines and immunization,Estonia
-2022,GAVI,0.05,0.01%,global alliance for vaccines and immunization,Estonia
-2021,IBRD,0.19,0.03%,international bank for reconstruction and development,Estonia
-2022,IBRD,0.13,0.04%,international bank for reconstruction and development,Estonia
-2023,IBRD,0.11,0.02%,international bank for reconstruction and development,Estonia
-2019,IDA,0.17,0.08%,international development association,Estonia
-2020,IDA,0.18,0.07%,international development association,Estonia
-2021,IDA,0.19,0.03%,international development association,Estonia
-2022,IDA,0.19,0.05%,international development association,Estonia
-2023,IDA,0.36,0.08%,international development association,Estonia
+2021,GAVI,0.09,1.0%,global alliance for vaccines and immunization,Estonia
+2022,GAVI,0.05,1.0%,global alliance for vaccines and immunization,Estonia
+2021,IBRD,0.19,3.0%,international bank for reconstruction and development,Estonia
+2022,IBRD,0.13,4.0%,international bank for reconstruction and development,Estonia
+2023,IBRD,0.11,2.0%,international bank for reconstruction and development,Estonia
+2019,IDA,0.17,8.0%,international development association,Estonia
+2020,IDA,0.18,7.000000000000001%,international development association,Estonia
+2021,IDA,0.19,3.0%,international development association,Estonia
+2022,IDA,0.19,5.0%,international development association,Estonia
+2023,IDA,0.36,8.0%,international development association,Estonia
 2022,IFC,0.0,0.0%,international finance corporation,Estonia
 2023,IFC,0.0,0.0%,international finance corporation,Estonia
 2020,UN,0.0,0.0%,united nations,Estonia
@@ -34,28 +34,28 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2020,UNDP,0.0,0.0%,united nations development programme,Estonia
 2021,UNDP,0.0,0.0%,united nations development programme,Estonia
 2019,UNECE-EXB,0.0,0.0%,united nations economic commission for europe extrabudgetary contributions only,Estonia
-2019,UNFPA,0.03,0.01%,united nations population fund,Estonia
-2020,UNFPA,0.03,0.01%,united nations population fund,Estonia
+2019,UNFPA,0.03,1.0%,united nations population fund,Estonia
+2020,UNFPA,0.03,1.0%,united nations population fund,Estonia
 2021,UNFPA,0.01,0.0%,united nations population fund,Estonia
-2019,UNRWA,0.02,0.01%,united nations relief and works agency for palestine refugees in the near east,Estonia
-2020,UNRWA,0.04,0.02%,united nations relief and works agency for palestine refugees in the near east,Estonia
+2019,UNRWA,0.02,1.0%,united nations relief and works agency for palestine refugees in the near east,Estonia
+2020,UNRWA,0.04,2.0%,united nations relief and works agency for palestine refugees in the near east,Estonia
 2021,UNRWA,0.02,0.0%,united nations relief and works agency for palestine refugees in the near east,Estonia
 2022,UNRWA,0.01,0.0%,united nations relief and works agency for palestine refugees in the near east,Estonia
-2023,UNRWA,0.03,0.01%,united nations relief and works agency for palestine refugees in the near east,Estonia
+2023,UNRWA,0.03,1.0%,united nations relief and works agency for palestine refugees in the near east,Estonia
 2020,WFP,0.0,0.0%,world food programme,Estonia
 2021,WFP,0.0,0.0%,world food programme,Estonia
 2022,WFP,0.0,0.0%,world food programme,Estonia
 2023,WFP,0.0,0.0%,world food programme,Estonia
-2020,WHO-AC,0.15,0.05%,world health organisation assessed contributions,Estonia
-2022,WHO-AC,0.11,0.03%,world health organisation assessed contributions,Estonia
-2023,WHO-AC,0.15,0.03%,world health organisation assessed contributions,Estonia
-2019,WHO-CVCA,0.05,0.02%,world health organisation core voluntary contributions account,Estonia
-2020,WHO-CVCA,0.05,0.02%,world health organisation core voluntary contributions account,Estonia
-2021,WHO-CVCA,0.03,0.01%,world health organisation core voluntary contributions account,Estonia
-2022,WHO-CVCA,0.03,0.01%,world health organisation core voluntary contributions account,Estonia
-2023,WHO-CVCA,0.05,0.01%,world health organisation core voluntary contributions account,Estonia
-2019,,0.03,0.02%,united nations children’s fund,Estonia
-2020,,0.07,0.02%,united nations children’s fund,Estonia
+2020,WHO-AC,0.15,5.0%,world health organisation assessed contributions,Estonia
+2022,WHO-AC,0.11,3.0%,world health organisation assessed contributions,Estonia
+2023,WHO-AC,0.15,3.0%,world health organisation assessed contributions,Estonia
+2019,WHO-CVCA,0.05,2.0%,world health organisation core voluntary contributions account,Estonia
+2020,WHO-CVCA,0.05,2.0%,world health organisation core voluntary contributions account,Estonia
+2021,WHO-CVCA,0.03,1.0%,world health organisation core voluntary contributions account,Estonia
+2022,WHO-CVCA,0.03,1.0%,world health organisation core voluntary contributions account,Estonia
+2023,WHO-CVCA,0.05,1.0%,world health organisation core voluntary contributions account,Estonia
+2019,,0.03,2.0%,united nations children’s fund,Estonia
+2020,,0.07,2.0%,united nations children’s fund,Estonia
 2021,,0.01,0.0%,united nations children’s fund,Estonia
 2022,,0.02,0.0%,united nations children’s fund,Estonia
-2023,,0.03,0.01%,united nations children’s fund,Estonia
+2023,,0.03,1.0%,united nations children’s fund,Estonia

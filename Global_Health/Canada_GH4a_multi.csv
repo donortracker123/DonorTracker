@@ -9,7 +9,7 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,ADF,2.3,0.0%,african development fund,Canada
 2022,ADF,7.29,0.0%,african development fund,Canada
 2023,ADF,1.7,0.0%,african development fund,Canada
-2020,AIIB,6.07,0.01%,asian infrastructure investment bank,Canada
+2020,AIIB,6.07,1.0%,asian infrastructure investment bank,Canada
 2021,AIIB,4.92,0.0%,asian infrastructure investment bank,Canada
 2021,CDB,0.01,0.0%,caribbean development bank,Canada
 2022,CDB,0.01,0.0%,caribbean development bank,Canada
@@ -19,29 +19,29 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,FAO,0.55,0.0%,food and agricultural organisation,Canada
 2022,FAO,0.46,0.0%,food and agricultural organisation,Canada
 2023,FAO,0.57,0.0%,food and agricultural organisation,Canada
-2019,GAVI,94.23,0.1%,global alliance for vaccines and immunization,Canada
-2020,GAVI,68.49,0.07%,global alliance for vaccines and immunization,Canada
-2021,GAVI,77.3,0.04%,global alliance for vaccines and immunization,Canada
-2022,GAVI,71.76,0.04%,global alliance for vaccines and immunization,Canada
-2023,GAVI,52.4,0.04%,global alliance for vaccines and immunization,Canada
+2019,GAVI,94.23,10.0%,global alliance for vaccines and immunization,Canada
+2020,GAVI,68.49,7.000000000000001%,global alliance for vaccines and immunization,Canada
+2021,GAVI,77.3,4.0%,global alliance for vaccines and immunization,Canada
+2022,GAVI,71.76,4.0%,global alliance for vaccines and immunization,Canada
+2023,GAVI,52.4,4.0%,global alliance for vaccines and immunization,Canada
 2022,GCF,0.02,0.0%,green climate fund,Canada
 2019,GEF-TF,0.05,0.0%,global environment facility trust fund,Canada
 2020,GEF-TF,0.21,0.0%,global environment facility trust fund,Canada
 2021,GEF-TF,0.89,0.0%,global environment facility trust fund,Canada
 2022,GEF-TF,0.29,0.0%,global environment facility trust fund,Canada
 2023,GEF-TF,1.23,0.0%,global environment facility trust fund,Canada
-2019,GFATM,229.02,0.24%,global fund to fight aids tuberculosis and malaria,Canada
-2020,GFATM,167.88,0.18%,global fund to fight aids tuberculosis and malaria,Canada
-2021,GFATM,324.53,0.16%,global fund to fight aids tuberculosis and malaria,Canada
-2022,GFATM,250.53,0.15%,global fund to fight aids tuberculosis and malaria,Canada
-2023,GFATM,298.82,0.25%,global fund to fight aids tuberculosis and malaria,Canada
-2019,IBRD,8.83,0.01%,international bank for reconstruction and development,Canada
+2019,GFATM,229.02,24.0%,global fund to fight aids tuberculosis and malaria,Canada
+2020,GFATM,167.88,18.0%,global fund to fight aids tuberculosis and malaria,Canada
+2021,GFATM,324.53,16.0%,global fund to fight aids tuberculosis and malaria,Canada
+2022,GFATM,250.53,15.0%,global fund to fight aids tuberculosis and malaria,Canada
+2023,GFATM,298.82,25.0%,global fund to fight aids tuberculosis and malaria,Canada
+2019,IBRD,8.83,1.0%,international bank for reconstruction and development,Canada
 2022,IBRD,3.24,0.0%,international bank for reconstruction and development,Canada
-2019,IDA,36.31,0.04%,international development association,Canada
-2020,IDA,38.68,0.04%,international development association,Canada
-2021,IDA,37.24,0.02%,international development association,Canada
-2022,IDA,74.24,0.05%,international development association,Canada
-2023,IDA,112.27,0.09%,international development association,Canada
+2019,IDA,36.31,4.0%,international development association,Canada
+2020,IDA,38.68,4.0%,international development association,Canada
+2021,IDA,37.24,2.0%,international development association,Canada
+2022,IDA,74.24,5.0%,international development association,Canada
+2023,IDA,112.27,9.0%,international development association,Canada
 2019,IDB-FSO,0.0,0.0%,inter american development bank fund for special operations,Canada
 2020,IDB-FSO,0.02,0.0%,inter american development bank fund for special operations,Canada
 2019,IDB-IIC-MIF,0.56,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Canada
@@ -54,7 +54,7 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,UN,0.08,0.0%,united nations,Canada
 2022,UN,0.15,0.0%,united nations,Canada
 2023,UN,0.22,0.0%,united nations,Canada
-2019,UNAIDS,5.63,0.01%,joint united nations programme on hiv aids,Canada
+2019,UNAIDS,5.63,1.0%,joint united nations programme on hiv aids,Canada
 2020,UNAIDS,1.82,0.0%,joint united nations programme on hiv aids,Canada
 2021,UNAIDS,0.17,0.0%,joint united nations programme on hiv aids,Canada
 2023,UNAIDS,1.23,0.0%,joint united nations programme on hiv aids,Canada
@@ -63,11 +63,11 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,UNDP,1.24,0.0%,united nations development programme,Canada
 2022,UNDP,1.17,0.0%,united nations development programme,Canada
 2023,UNDP,1.05,0.0%,united nations development programme,Canada
-2019,UNFPA,5.02,0.01%,united nations population fund,Canada
+2019,UNFPA,5.02,1.0%,united nations population fund,Canada
 2020,UNFPA,4.04,0.0%,united nations population fund,Canada
 2021,UNFPA,3.61,0.0%,united nations population fund,Canada
 2022,UNFPA,5.47,0.0%,united nations population fund,Canada
-2023,UNFPA,7.08,0.01%,united nations population fund,Canada
+2023,UNFPA,7.08,1.0%,united nations population fund,Canada
 2019,UNRWA,2.72,0.0%,united nations relief and works agency for palestine refugees in the near east,Canada
 2020,UNRWA,3.22,0.0%,united nations relief and works agency for palestine refugees in the near east,Canada
 2021,UNRWA,3.0,0.0%,united nations relief and works agency for palestine refugees in the near east,Canada
@@ -79,10 +79,10 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2022,WFP,0.41,0.0%,world food programme,Canada
 2023,WFP,0.41,0.0%,world food programme,Canada
 2022,WHO-AC,7.48,0.0%,world health organisation assessed contributions,Canada
-2019,WHO-CVCA,8.69,0.01%,world health organisation core voluntary contributions account,Canada
-2020,WHO-CVCA,8.76,0.01%,world health organisation core voluntary contributions account,Canada
+2019,WHO-CVCA,8.69,1.0%,world health organisation core voluntary contributions account,Canada
+2020,WHO-CVCA,8.76,1.0%,world health organisation core voluntary contributions account,Canada
 2021,WHO-CVCA,7.87,0.0%,world health organisation core voluntary contributions account,Canada
-2023,WHO-CVCA,9.7,0.01%,world health organisation core voluntary contributions account,Canada
+2023,WHO-CVCA,9.7,1.0%,world health organisation core voluntary contributions account,Canada
 2019,,2.23,0.0%,united nations children’s fund,Canada
 2020,,2.23,0.0%,united nations children’s fund,Canada
 2021,,2.13,0.0%,united nations children’s fund,Canada

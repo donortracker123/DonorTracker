@@ -1,6 +1,6 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
-2019,ADF,3.58,0.01%,african development fund,Norway
-2020,ADF,3.1,0.01%,african development fund,Norway
+2019,ADF,3.58,1.0%,african development fund,Norway
+2020,ADF,3.1,1.0%,african development fund,Norway
 2021,ADF,1.51,0.0%,african development fund,Norway
 2022,ADF,0.81,0.0%,african development fund,Norway
 2023,ADF,0.94,0.0%,african development fund,Norway
@@ -21,11 +21,11 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,IBRD,0.56,0.0%,international bank for reconstruction and development,Norway
 2022,IBRD,0.41,0.0%,international bank for reconstruction and development,Norway
 2023,IBRD,0.48,0.0%,international bank for reconstruction and development,Norway
-2019,IDA,9.75,0.02%,international development association,Norway
-2020,IDA,11.05,0.03%,international development association,Norway
-2021,IDA,8.73,0.02%,international development association,Norway
-2022,IDA,7.45,0.03%,international development association,Norway
-2023,IDA,10.08,0.04%,international development association,Norway
+2019,IDA,9.75,2.0%,international development association,Norway
+2020,IDA,11.05,3.0%,international development association,Norway
+2021,IDA,8.73,2.0%,international development association,Norway
+2022,IDA,7.45,3.0%,international development association,Norway
+2023,IDA,10.08,4.0%,international development association,Norway
 2019,IDB-IIC-MIF,0.06,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Norway
 2020,IDB-IIC-MIF,0.03,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Norway
 2021,IDB-IIC-MIF,0.01,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Norway
@@ -36,23 +36,23 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,UNDP,0.01,0.0%,united nations development programme,Norway
 2022,UNDP,0.1,0.0%,united nations development programme,Norway
 2023,UNDP,0.18,0.0%,united nations development programme,Norway
-2019,UNFPA,3.12,0.01%,united nations population fund,Norway
-2020,UNFPA,3.38,0.01%,united nations population fund,Norway
-2021,UNFPA,2.37,0.01%,united nations population fund,Norway
-2022,UNFPA,2.76,0.01%,united nations population fund,Norway
-2023,UNFPA,3.16,0.01%,united nations population fund,Norway
+2019,UNFPA,3.12,1.0%,united nations population fund,Norway
+2020,UNFPA,3.38,1.0%,united nations population fund,Norway
+2021,UNFPA,2.37,1.0%,united nations population fund,Norway
+2022,UNFPA,2.76,1.0%,united nations population fund,Norway
+2023,UNFPA,3.16,1.0%,united nations population fund,Norway
 2020,UNIDO,0.03,0.0%,united nations industrial development organisation,Norway
 2021,UNIDO,0.02,0.0%,united nations industrial development organisation,Norway
 2022,UNIDO,0.01,0.0%,united nations industrial development organisation,Norway
 2023,UNIDO,0.01,0.0%,united nations industrial development organisation,Norway
-2019,UNRWA,9.0,0.02%,united nations relief and works agency for palestine refugees in the near east,Norway
-2020,UNRWA,11.68,0.03%,united nations relief and works agency for palestine refugees in the near east,Norway
-2021,UNRWA,10.73,0.03%,united nations relief and works agency for palestine refugees in the near east,Norway
-2022,UNRWA,10.13,0.04%,united nations relief and works agency for palestine refugees in the near east,Norway
-2023,UNRWA,10.2,0.04%,united nations relief and works agency for palestine refugees in the near east,Norway
+2019,UNRWA,9.0,2.0%,united nations relief and works agency for palestine refugees in the near east,Norway
+2020,UNRWA,11.68,3.0%,united nations relief and works agency for palestine refugees in the near east,Norway
+2021,UNRWA,10.73,3.0%,united nations relief and works agency for palestine refugees in the near east,Norway
+2022,UNRWA,10.13,4.0%,united nations relief and works agency for palestine refugees in the near east,Norway
+2023,UNRWA,10.2,4.0%,united nations relief and works agency for palestine refugees in the near east,Norway
 2019,WFP,0.69,0.0%,world food programme,Norway
-2019,,3.47,0.01%,united nations children’s fund,Norway
-2020,,3.53,0.01%,united nations children’s fund,Norway
-2021,,3.49,0.01%,united nations children’s fund,Norway
-2022,,2.67,0.01%,united nations children’s fund,Norway
-2023,,3.19,0.01%,united nations children’s fund,Norway
+2019,,3.47,1.0%,united nations children’s fund,Norway
+2020,,3.53,1.0%,united nations children’s fund,Norway
+2021,,3.49,1.0%,united nations children’s fund,Norway
+2022,,2.67,1.0%,united nations children’s fund,Norway
+2023,,3.19,1.0%,united nations children’s fund,Norway

@@ -1,135 +1,311 @@
-"Year","Multi_short","ODA","Share","full name","country"
-"2018","GCF",52.221181,"5%","Green Climate Fund","Norway"
-"2018","Gavi",156.101121,"14%","Global Alliance for Vaccines and Immunization","Norway"
-"2018","WFP",37.860356,"3%","World Food Programme","Norway"
-"2018","GEF Fund",16.971884,"2%","Global Environment Facility Trust Fund","Norway"
-"2018","HIPC Debt Initiative Trust Fund",13.648006,"1%","International Development Association - Heavily Indebted Poor Countries Debt Initiative Trust Fund","Norway"
-"2018","AIIB",19.724413,"2%","Asian Infrastructure Investment Bank","Norway"
-"2018","UNEP",11.097001,"1%","United Nations Environment Programme","Norway"
-"2018","ADF",7.488394,"1%","Asian Development Fund","Norway"
-"2018","CERF",59.401593,"5%","Central Emergency Response Fund","Norway"
-"2018","UNOCHA",11.749766,"1%","United Nations Office of Co-ordination of Humanitarian Affairs","Norway"
-"2018","AfDB",5.768282,"1%","African Development Bank","Norway"
-"2018","African Development Fund",80.159513,"7%","African Development Fund","Norway"
-"2018","UNFPA",65.276476,"6%","United Nations Population Fund","Norway"
-"2018","UN Women",11.097001,"1%","United Nations Entity for Gender Equality and the Empowerment of Women","Norway"
-"2018","IDA",119.586504,"11%","International Development Association","Norway"
-"2018","Global Fund",91.387067,"8%","Global Fund to Fight AIDS, Tuberculosis and Malaria","Norway"
-"2018","CGIAR Fund",13.016129,"1%","CGIAR Fund","Norway"
-"2018","IFFIm",19.289199,"2%","International Finance Facility for Immunisation","Norway"
-"2018","IFAD",13.70806,"1%","International Fund for Agricultural Development","Norway"
-"2018","IDB, IIC and MIF",1.969394,"0%","Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund","Norway"
-"2018","FAO",3.648819,"0%","Food and Agricultural Organisation","Norway"
-"2018","UNDP",71.151359,"6%","United Nations Development Programme","Norway"
-"2018","WHO - assessed contributions",3.242774,"0%","World Health Organisation - assessed contributions","Norway"
-"2018","EBRD-ETC Fund",1.240253,"0%","European Bank for Reconstruction and Development - Early Transition Countries Fund","Norway"
-"2018","EBRD-WBIF",3.916589,"0%","European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund","Norway"
-"2019","GCF",52.469154,"5%","Green Climate Fund","Norway"
-"2019","Gavi",165.516177,"14%","Global Alliance for Vaccines and Immunization","Norway"
-"2019","WFP",39.351866,"3%","World Food Programme","Norway"
-"2019","GEF Fund",17.052475,"1%","Global Environment Facility Trust Fund","Norway"
-"2019","HIPC Debt Initiative Trust Fund",13.712813,"1%","International Development Association - Heavily Indebted Poor Countries Debt Initiative Trust Fund","Norway"
-"2019","AIIB",20.822395,"2%","Asian Infrastructure Investment Bank","Norway"
-"2019","ADF",7.523953,"1%","Asian Development Fund","Norway"
-"2019","UNFCCC",2.125001,"0%","United Nations Framework Convention on Climate Change","Norway"
-"2019","CERF",60.339527,"5%","Central Emergency Response Fund","Norway"
-"2019","UNOCHA",11.80556,"1%","United Nations Office of Co-ordination of Humanitarian Affairs","Norway"
-"2019","AfDB",0.256399,"0%","African Development Bank","Norway"
-"2019","African Development Fund",80.540152,"7%","African Development Fund","Norway"
-"2019","UNFPA",69.521629,"6%","United Nations Population Fund","Norway"
-"2019","UN Women",13.117289,"1%","United Nations Entity for Gender Equality and the Empowerment of Women","Norway"
-"2019","IDA",120.154363,"11%","International Development Association","Norway"
-"2019","Global Fund",91.82102,"8%","Global Fund to Fight AIDS, Tuberculosis and Malaria","Norway"
-"2019","CGIAR Fund",17.052475,"1%","CGIAR Fund","Norway"
-"2019","IFFIm",19.380794,"2%","International Finance Facility for Immunisation","Norway"
-"2019","IFAD",15.740746,"1%","International Fund for Agricultural Development","Norway"
-"2019","IDB, IIC and MIF",2.072857,"0%","Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund","Norway"
-"2019","FAO",3.87237,"0%","Food and Agricultural Organisation","Norway"
-"2019","UNDP",72.800952,"6%","United Nations Development Programme","Norway"
-"2019","WHO - assessed contributions",3.471866,"0%","World Health Organisation - assessed contributions","Norway"
-"2019","the Sahel Club",0.262346,"0%","Sahel and West Africa Club","Norway"
-"2019","EBRD-WBIF",2.66281,"0%","European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund","Norway"
-"2020","GCF",136.077984,"10%","Green Climate Fund","Norway"
-"2020","MDRI",21.749344,"2%","International Development Association - Multilateral Debt Relief Initiative","Norway"
-"2020","Gavi",179.244099,"13%","Global Alliance for Vaccines and Immunization","Norway"
-"2020","WFP",40.823395,"3%","World Food Programme","Norway"
-"2020","GEF Fund",17.690138,"1%","Global Environment Facility Trust Fund","Norway"
-"2020","HIPC Debt Initiative Trust Fund",7.326439,"1%","International Development Association - Heavily Indebted Poor Countries Debt Initiative Trust Fund","Norway"
-"2020","IBRD",14.968578,"1%","International Bank for Reconstruction and Development","Norway"
-"2020","AIIB",22.583488,"2%","Asian Infrastructure Investment Bank","Norway"
-"2020","UNEP",3.653041,"0%","United Nations Environment Programme","Norway"
-"2020","ADF",7.805305,"1%","Asian Development Fund","Norway"
-"2020","UNFCCC",1.505763,"0%","United Nations Framework Convention on Climate Change","Norway"
-"2020","CERF",65.045277,"5%","Central Emergency Response Fund","Norway"
-"2020","UNOCHA",12.247019,"1%","United Nations Office of Co-ordination of Humanitarian Affairs","Norway"
-"2020","AfDB",12.027348,"1%","African Development Bank","Norway"
-"2020","African Development Fund",99.99616,"7%","African Development Fund","Norway"
-"2020","UNFPA",72.121332,"5%","United Nations Population Fund","Norway"
-"2020","UN Women",13.607798,"1%","United Nations Entity for Gender Equality and the Empowerment of Women","Norway"
-"2020","IDA",146.692067,"11%","International Development Association","Norway"
-"2020","Global Fund",104.57838,"8%","Global Fund to Fight AIDS, Tuberculosis and Malaria","Norway"
-"2020","CGIAR Fund",13.607798,"1%","CGIAR Fund","Norway"
-"2020","IFFIm",20.105522,"1%","International Finance Facility for Immunisation","Norway"
-"2020","IFAD",16.329358,"1%","International Fund for Agricultural Development","Norway"
-"2020","IDB, IIC and MIF",1.427002,"0%","Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund","Norway"
-"2020","FAO",3.642937,"0%","Food and Agricultural Organisation","Norway"
-"2020","UNDP",75.523282,"5%","United Nations Development Programme","Norway"
-"2020","WHO - assessed contributions",3.586139,"0%","World Health Organisation - assessed contributions","Norway"
-"2020","EBRD-ETC Fund",2.72156,"0%","European Bank for Reconstruction and Development - Early Transition Countries Fund","Norway"
-"2020","the Sahel Club",0.299372,"0%","Sahel and West Africa Club","Norway"
-"2020","IPCC",0.068039,"0%","Intergovernmental Panel on Climate Change","Norway"
-"2020","EBRD-WBIF",3.333911,"0%","European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund","Norway"
-"2021","GCF",73.309667,"6%","Green Climate Fund","Norway"
-"2021","MDRI",22.585113,"2%","International Development Association - Multilateral Debt Relief Initiative","Norway"
-"2021","Gavi",142.23046,"12%","Global Alliance for Vaccines and Immunization","Norway"
-"2021","WFP",93.115288,"8%","World Food Programme","Norway"
-"2021","GEF Fund",15.131234,"1%","Global Environment Facility Trust Fund","Norway"
-"2021","HIPC Debt Initiative Trust Fund",6.266659,"1%","International Development Association - Heavily Indebted Poor Countries Debt Initiative Trust Fund","Norway"
-"2021","IBRD",12.803352,"1%","International Bank for Reconstruction and Development","Norway"
-"2021","UNEP",2.988617,"0%","United Nations Environment Programme","Norway"
-"2021","ADF",5.851714,"0%","Asian Development Fund","Norway"
-"2021","UNFCCC",0.14249,"0%","United Nations Framework Convention on Climate Change","Norway"
-"2021","CERF",54.123261,"5%","Central Emergency Response Fund","Norway"
-"2021","UNOCHA",10.47547,"1%","United Nations Office of Co-ordination of Humanitarian Affairs","Norway"
-"2021","AfDB",10.267084,"1%","African Development Bank","Norway"
-"2021","African Development Fund",91.135338,"8%","African Development Fund","Norway"
-"2021","UNFPA",52.796369,"4%","United Nations Population Fund","Norway"
-"2021","UN Women",11.674329,"1%","United Nations Entity for Gender Equality and the Empowerment of Women","Norway"
-"2021","IDA",113.600652,"10%","International Development Association","Norway"
-"2021","Global Fund",139.286737,"12%","Global Fund to Fight AIDS, Tuberculosis and Malaria","Norway"
-"2021","CGIAR Fund",11.639411,"1%","CGIAR Fund","Norway"
-"2021","IFAD",13.967293,"1%","International Fund for Agricultural Development","Norway"
-"2021","IDB, IIC and MIF",0.383447,"0%","Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund","Norway"
-"2021","FAO",3.059542,"0%","Food and Agricultural Organisation","Norway"
-"2021","UNDP",43.927137,"4%","United Nations Development Programme","Norway"
-"2021","WHO - assessed contributions",2.92094,"0%","World Health Organisation - assessed contributions","Norway"
-"2021","EBRD-ETC Fund",2.327882,"0%","European Bank for Reconstruction and Development - Early Transition Countries Fund","Norway"
-"2021","IPCC",0.058197,"0%","Intergovernmental Panel on Climate Change","Norway"
-"2021","EBRD-WBIF",3.491823,"0%","European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund","Norway"
-"2022","WHO - core voluntary contributions",3.8832,"0%","World Health Organisation - core voluntary contributions account","Norway"
-"2022","GCF",79.087285,"8%","Green Climate Fund","Norway"
-"2022","MDRI",20.795898,"2%","International Development Association - Multilateral Debt Relief Initiative","Norway"
-"2022","Gavi",112.167671,"12%","Global Alliance for Vaccines and Immunization","Norway"
-"2022","WFP",38.571637,"4%","World Food Programme","Norway"
-"2022","GEF Fund",18.803673,"2%","Global Environment Facility Trust Fund","Norway"
-"2022","HIPC Debt Initiative Trust Fund",5.207171,"1%","International Development Association - Heavily Indebted Poor Countries Debt Initiative Trust Fund","Norway"
-"2022","IBRD",10.510771,"1%","International Bank for Reconstruction and Development","Norway"
-"2022","UNEP",6.746855,"1%","United Nations Environment Programme","Norway"
-"2022","ADF",4.847973,"1%","Asian Development Fund","Norway"
-"2022","UNFCCC",0.117017,"0%","United Nations Framework Convention on Climate Change","Norway"
-"2022","CERF",46.285965,"5%","Central Emergency Response Fund","Norway"
-"2022","UNOCHA",9.353622,"1%","United Nations Office of Co-ordination of Humanitarian Affairs","Norway"
-"2022","AfDB",8.561766,"1%","African Development Bank","Norway"
-"2022","African Development Fund",77.056431,"8%","African Development Fund","Norway"
-"2022","UNFPA",56.854593,"6%","United Nations Population Fund","Norway"
-"2022","UN Women",9.671838,"1%","United Nations Entity for Gender Equality and the Empowerment of Women","Norway"
-"2022","IDA",94.114795,"10%","International Development Association","Norway"
-"2022","Global Fund",77.143275,"8%","Global Fund to Fight AIDS, Tuberculosis and Malaria","Norway"
-"2022","CGIAR Fund",12.053637,"1%","CGIAR Fund","Norway"
-"2022","IFAD",20.828684,"2%","International Fund for Agricultural Development","Norway"
-"2022","IDB, IIC and MIF",0.403759,"0%","Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund","Norway"
-"2022","FAO",2.570055,"0%","Food and Agricultural Organisation","Norway"
-"2022","UNDP",37.607346,"4%","United Nations Development Programme","Norway"
-"2022","WHO - assessed contributions",2.335825,"0%","World Health Organisation - assessed contributions","Norway"
-"2022","IPCC",0.048215,"0%","Intergovernmental Panel on Climate Change","Norway"
-"2022","EBRD-WBIF",2.892873,"0%","European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund","Norway"
+Year,Multi_short,ODA,Share,full name,Donor
+2019,GAVI,157.59,0.33%,Global Alliance for Vaccines and Immunization ,Norway
+2019,IDA,114.4,0.24%,International Development Association ,Norway
+2019,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",87.43,0.18%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Norway
+2019,ADF,76.68,0.16%,African Development Fund ,Norway
+2019,UNDP,69.32,0.14%,United Nations Development Programme ,Norway
+2019,UNFPA,66.19,0.14%,United Nations Population Fund ,Norway
+2019,CERF,57.45,0.12%,Central Emergency Response Fund,Norway
+2019,UNICEF,54.95,0.11%,United Nations Children's Fund ,Norway
+2019,GCF,49.96,0.1%,Green Climate Fund,Norway
+2019,United Nations Office of the High Commissioner for Refugees,47.46,0.1%,United Nations Office of the High Commissioner for Refugees,Norway
+2019,WFP,37.47,0.08%,World Food Programme ,Norway
+2019,AIIB,19.83,0.04%,Asian Infrastructure Investment Bank,Norway
+2019,IFFIm,18.45,0.04%,International Finance Facility for Immunisation,Norway
+2019,Joint United Nations Programme on HIV/AIDS ,17.49,0.04%,Joint United Nations Programme on HIV/AIDS ,Norway
+2019,CGIAR ,16.24,0.03%,CGIAR Fund,Norway
+2019,GEF-TF,16.24,0.03%,Global Environment Facility Trust Fund,Norway
+2019,UNRWA,15.61,0.03%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Norway
+2019,IFAD,14.99,0.03%,International Fund for Agricultural Development ,Norway
+2019,International Development Association - Heavily Indebted Poor Countries Debt Initiative Trust Fund ,13.06,0.03%,International Development Association - Heavily Indebted Poor Countries Debt Initiative Trust Fund ,Norway
+2019,United Nations Entity for Gender Equality and the Empowerment of Women,12.49,0.03%,United Nations Entity for Gender Equality and the Empowerment of Women,Norway
+2019,AF,11.24,0.02%,Adaptation Fund,Norway
+2019,United Nations Office of Co-ordination of Humanitarian Affairs ,11.24,0.02%,United Nations Office of Co-ordination of Humanitarian Affairs ,Norway
+2019,UN,10.49,0.02%,United Nations,Norway
+2019,UNDCO,10.37,0.02%,United Nations Development Coordination Office,Norway
+2019,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",9.57,0.02%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",Norway
+2019,United Nations Peacebuilding Fund,8.74,0.02%,United Nations Peacebuilding Fund,Norway
+2019,Asian Development Fund ,7.16,0.01%,Asian Development Fund ,Norway
+2019,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),6.74,0.01%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Norway
+2019,"United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs",4.62,0.01%,"United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs",Norway
+2019,Organization for Security and Co-operation in Europe,3.95,0.01%,Organization for Security and Co-operation in Europe,Norway
+2019,FAO,3.69,0.01%,Food and Agricultural Organisation,Norway
+2019,World Health Organisation - assessed contributions,3.31,0.01%,World Health Organisation - assessed contributions,Norway
+2019,International Organisation for Migration ,3.0,0.01%,International Organisation for Migration ,Norway
+2019,European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund,2.54,0.01%,European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund,Norway
+2019,United Nations Human Settlement Programme ,2.5,0.01%,United Nations Human Settlement Programme ,Norway
+2019,International Institute for Democracy and Electoral Assistance ,2.5,0.01%,International Institute for Democracy and Electoral Assistance ,Norway
+2019,International drug purchase facility,2.5,0.01%,International drug purchase facility,Norway
+2019,United Nations Office on Drugs and Crime ,2.37,0.0%,United Nations Office on Drugs and Crime ,Norway
+2019,MLF-MP,2.27,0.0%,Multilateral Fund for the Implementation of the Montreal Protocol ,Norway
+2019,GGGI,2.08,0.0%,Global Green Growth Institute,Norway
+2019,Council of Europe,2.04,0.0%,Council of Europe,Norway
+2019,United Nations Framework Convention on Climate Change ,2.02,0.0%,United Nations Framework Convention on Climate Change ,Norway
+2019,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",1.97,0.0%,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",Norway
+2019,International Labour Organisation - Assessed Contributions,1.97,0.0%,International Labour Organisation - Assessed Contributions,Norway
+2019,International Atomic Energy Agency - assessed contributions,1.23,0.0%,International Atomic Energy Agency - assessed contributions,Norway
+2019,UNIDO,1.1,0.0%,United Nations Industrial Development Organisation ,Norway
+2019,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),0.86,0.0%,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),Norway
+2019,"United Nations Educational, Scientific and Cultural Organisation",0.64,0.0%,"United Nations Educational, Scientific and Cultural Organisation",Norway
+2019,UNCDF,0.62,0.0%,United Nations Capital Development Fund ,Norway
+2019,International Telecommunications Union,0.31,0.0%,International Telecommunications Union,Norway
+2019,Sahel and West Africa Club ,0.25,0.0%,Sahel and West Africa Club ,Norway
+2019,AfDB,0.24,0.0%,African Development Bank,Norway
+2019,International Renewable Energy Agency,0.13,0.0%,International Renewable Energy Agency,Norway
+2019,Convention to Combat Desertification ,0.08,0.0%,Convention to Combat Desertification ,Norway
+2019,Universal Postal Union ,0.08,0.0%,Universal Postal Union ,Norway
+2019,World Intellectual Property Organisation ,0.02,0.0%,World Intellectual Property Organisation ,Norway
+2019,IBRD,,,International Bank for Reconstruction and Development ,Norway
+2020,GAVI,168.76,0.33%,Global Alliance for Vaccines and Immunization ,Norway
+2020,IDA,138.11,0.27%,International Development Association ,Norway
+2020,GCF,128.12,0.25%,Green Climate Fund,Norway
+2020,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",98.46,0.19%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Norway
+2020,ADF,94.15,0.18%,African Development Fund ,Norway
+2020,UNDP,71.11,0.14%,United Nations Development Programme ,Norway
+2020,UNFPA,67.9,0.13%,United Nations Population Fund ,Norway
+2020,CERF,61.24,0.12%,Central Emergency Response Fund,Norway
+2020,UNICEF,52.53,0.1%,United Nations Children's Fund ,Norway
+2020,United Nations Office of the High Commissioner for Refugees,48.69,0.09%,United Nations Office of the High Commissioner for Refugees,Norway
+2020,WFP,38.44,0.07%,World Food Programme ,Norway
+2020,Catastrophe Containment and Relief Trust,23.06,0.04%,Catastrophe Containment and Relief Trust,Norway
+2020,AIIB,21.26,0.04%,Asian Infrastructure Investment Bank,Norway
+2020,International Development Association - Multilateral Debt Relief Initiative,20.48,0.04%,International Development Association - Multilateral Debt Relief Initiative,Norway
+2020,UNRWA,19.68,0.04%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Norway
+2020,IFFIm,18.93,0.04%,International Finance Facility for Immunisation,Norway
+2020,GEF-TF,16.66,0.03%,Global Environment Facility Trust Fund,Norway
+2020,IFAD,15.37,0.03%,International Fund for Agricultural Development ,Norway
+2020,IBRD,14.09,0.03%,International Bank for Reconstruction and Development ,Norway
+2020,United Nations Peacebuilding Fund,13.9,0.03%,United Nations Peacebuilding Fund,Norway
+2020,CGIAR ,12.81,0.02%,CGIAR Fund,Norway
+2020,United Nations Entity for Gender Equality and the Empowerment of Women,12.81,0.02%,United Nations Entity for Gender Equality and the Empowerment of Women,Norway
+2020,United Nations Office of Co-ordination of Humanitarian Affairs ,11.53,0.02%,United Nations Office of Co-ordination of Humanitarian Affairs ,Norway
+2020,AfDB,11.32,0.02%,African Development Bank,Norway
+2020,UN,11.29,0.02%,United Nations,Norway
+2020,UNDCO,10.25,0.02%,United Nations Development Coordination Office,Norway
+2020,IFC,8.2,0.02%,International Finance Corporation ,Norway
+2020,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",7.75,0.02%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",Norway
+2020,Joint United Nations Programme on HIV/AIDS ,7.69,0.01%,Joint United Nations Programme on HIV/AIDS ,Norway
+2020,Asian Development Fund ,7.35,0.01%,Asian Development Fund ,Norway
+2020,International Development Association - Heavily Indebted Poor Countries Debt Initiative Trust Fund ,6.9,0.01%,International Development Association - Heavily Indebted Poor Countries Debt Initiative Trust Fund ,Norway
+2020,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),6.8,0.01%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Norway
+2020,AF,6.41,0.01%,Adaptation Fund,Norway
+2020,"United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs",4.74,0.01%,"United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs",Norway
+2020,Organization for Security and Co-operation in Europe,4.72,0.01%,Organization for Security and Co-operation in Europe,Norway
+2020,International Organisation for Migration ,4.41,0.01%,International Organisation for Migration ,Norway
+2020,UNEP,3.44,0.01%,United Nations Environment Programme ,Norway
+2020,FAO,3.43,0.01%,Food and Agricultural Organisation,Norway
+2020,World Health Organisation - assessed contributions,3.38,0.01%,World Health Organisation - assessed contributions,Norway
+2020,International drug purchase facility,3.33,0.01%,International drug purchase facility,Norway
+2020,European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund,3.14,0.01%,European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund,Norway
+2020,United Nations Human Settlement Programme ,2.56,0.0%,United Nations Human Settlement Programme ,Norway
+2020,International Institute for Democracy and Electoral Assistance ,2.56,0.0%,International Institute for Democracy and Electoral Assistance ,Norway
+2020,European Bank for Reconstruction and Development - Early Transition Countries Fund,2.56,0.0%,European Bank for Reconstruction and Development - Early Transition Countries Fund,Norway
+2020,MLF-MP,2.38,0.0%,Multilateral Fund for the Implementation of the Montreal Protocol ,Norway
+2020,International Labour Organisation - Assessed Contributions,2.14,0.0%,International Labour Organisation - Assessed Contributions,Norway
+2020,GGGI,2.14,0.0%,Global Green Growth Institute,Norway
+2020,Council of Europe,2.11,0.0%,Council of Europe,Norway
+2020,World Trade Organisation - International Trade Centre ,1.92,0.0%,World Trade Organisation - International Trade Centre ,Norway
+2020,"United Nations Educational, Scientific and Cultural Organisation",1.71,0.0%,"United Nations Educational, Scientific and Cultural Organisation",Norway
+2020,United Nations Framework Convention on Climate Change ,1.42,0.0%,United Nations Framework Convention on Climate Change ,Norway
+2020,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",1.34,0.0%,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",Norway
+2020,International Atomic Energy Agency - assessed contributions,1.19,0.0%,International Atomic Energy Agency - assessed contributions,Norway
+2020,UNIDO,1.08,0.0%,United Nations Industrial Development Organisation ,Norway
+2020,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),0.82,0.0%,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),Norway
+2020,UNCDF,0.64,0.0%,United Nations Capital Development Fund ,Norway
+2020,African Tax Administration Forum,0.64,0.0%,African Tax Administration Forum,Norway
+2020,International Agency for Research on Cancer,0.5,0.0%,International Agency for Research on Cancer,Norway
+2020,World Trade Organisation - Advisory Centre on WTO Law,0.45,0.0%,World Trade Organisation - Advisory Centre on WTO Law,Norway
+2020,International Telecommunications Union,0.39,0.0%,International Telecommunications Union,Norway
+2020,Sahel and West Africa Club ,0.28,0.0%,Sahel and West Africa Club ,Norway
+2020,International Renewable Energy Agency,0.16,0.0%,International Renewable Energy Agency,Norway
+2020,Universal Postal Union ,0.09,0.0%,Universal Postal Union ,Norway
+2020,Intergovernmental Panel on Climate Change ,0.06,0.0%,Intergovernmental Panel on Climate Change ,Norway
+2020,CITES,0.05,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Norway
+2020,World Intellectual Property Organisation ,0.02,0.0%,World Intellectual Property Organisation ,Norway
+2020,NDF,,,Nordic Development Fund,Norway
+2021,GAVI,133.69,0.24%,Global Alliance for Vaccines and Immunization ,Norway
+2021,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",130.93,0.23%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Norway
+2021,IDA,106.78,0.19%,International Development Association ,Norway
+2021,WFP,87.53,0.16%,World Food Programme ,Norway
+2021,ADF,85.66,0.15%,African Development Fund ,Norway
+2021,United Nations Office of the High Commissioner for Refugees,74.4,0.13%,United Nations Office of the High Commissioner for Refugees,Norway
+2021,GCF,68.91,0.12%,Green Climate Fund,Norway
+2021,CERF,50.87,0.09%,Central Emergency Response Fund,Norway
+2021,UNFPA,49.63,0.09%,United Nations Population Fund ,Norway
+2021,UNICEF,46.67,0.08%,United Nations Children's Fund ,Norway
+2021,UNDP,41.29,0.07%,United Nations Development Programme ,Norway
+2021,International Development Association - Multilateral Debt Relief Initiative,21.23,0.04%,International Development Association - Multilateral Debt Relief Initiative,Norway
+2021,UNRWA,18.05,0.03%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Norway
+2021,GEF-TF,14.22,0.03%,Global Environment Facility Trust Fund,Norway
+2021,IFAD,13.13,0.02%,International Fund for Agricultural Development ,Norway
+2021,IBRD,12.03,0.02%,International Bank for Reconstruction and Development ,Norway
+2021,United Nations Entity for Gender Equality and the Empowerment of Women,10.97,0.02%,United Nations Entity for Gender Equality and the Empowerment of Women,Norway
+2021,CGIAR ,10.94,0.02%,CGIAR Fund,Norway
+2021,UN,10.65,0.02%,United Nations,Norway
+2021,United Nations Office of Co-ordination of Humanitarian Affairs ,9.85,0.02%,United Nations Office of Co-ordination of Humanitarian Affairs ,Norway
+2021,AfDB,9.65,0.02%,African Development Bank,Norway
+2021,United Nations Peacebuilding Fund,8.89,0.02%,United Nations Peacebuilding Fund,Norway
+2021,UNDCO,8.21,0.01%,United Nations Development Coordination Office,Norway
+2021,AF,7.66,0.01%,Adaptation Fund,Norway
+2021,IFC,7.0,0.01%,International Finance Corporation ,Norway
+2021,World Health Organisation - Strategic Preparedness and Response Plan,6.74,0.01%,World Health Organisation - Strategic Preparedness and Response Plan,Norway
+2021,International Development Association - Heavily Indebted Poor Countries Debt Initiative Trust Fund ,5.89,0.01%,International Development Association - Heavily Indebted Poor Countries Debt Initiative Trust Fund ,Norway
+2021,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),5.81,0.01%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Norway
+2021,Asian Development Fund ,5.5,0.01%,Asian Development Fund ,Norway
+2021,COVID-19 Response and Recovery Multi-Partner Trust Fund,5.47,0.01%,COVID-19 Response and Recovery Multi-Partner Trust Fund,Norway
+2021,Joint United Nations Programme on HIV/AIDS ,4.92,0.01%,Joint United Nations Programme on HIV/AIDS ,Norway
+2021,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",4.17,0.01%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",Norway
+2021,Organization for Security and Co-operation in Europe,3.78,0.01%,Organization for Security and Co-operation in Europe,Norway
+2021,International Organisation for Migration ,3.72,0.01%,International Organisation for Migration ,Norway
+2021,European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund,3.28,0.01%,European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund,Norway
+2021,FAO,2.88,0.01%,Food and Agricultural Organisation,Norway
+2021,UNEP,2.81,0.0%,United Nations Environment Programme ,Norway
+2021,World Health Organisation - assessed contributions,2.75,0.0%,World Health Organisation - assessed contributions,Norway
+2021,JSDGF,2.19,0.0%,Joint Sustainable Development Goals Fund,Norway
+2021,European Bank for Reconstruction and Development - Early Transition Countries Fund,2.19,0.0%,European Bank for Reconstruction and Development - Early Transition Countries Fund,Norway
+2021,MLF-MP,2.02,0.0%,Multilateral Fund for the Implementation of the Montreal Protocol ,Norway
+2021,Council of Europe,1.88,0.0%,Council of Europe,Norway
+2021,International Labour Organisation - Assessed Contributions,1.87,0.0%,International Labour Organisation - Assessed Contributions,Norway
+2021,World Trade Organisation - International Trade Centre ,1.64,0.0%,World Trade Organisation - International Trade Centre ,Norway
+2021,"United Nations Educational, Scientific and Cultural Organisation",1.46,0.0%,"United Nations Educational, Scientific and Cultural Organisation",Norway
+2021,International Institute for Democracy and Electoral Assistance ,1.37,0.0%,International Institute for Democracy and Electoral Assistance ,Norway
+2021,International drug purchase facility,1.09,0.0%,International drug purchase facility,Norway
+2021,International Atomic Energy Agency - assessed contributions,1.02,0.0%,International Atomic Energy Agency - assessed contributions,Norway
+2021,GGGI,0.88,0.0%,Global Green Growth Institute,Norway
+2021,UNIDO,0.84,0.0%,United Nations Industrial Development Organisation ,Norway
+2021,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),0.72,0.0%,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),Norway
+2021,UNCDF,0.55,0.0%,United Nations Capital Development Fund ,Norway
+2021,African Tax Administration Forum,0.55,0.0%,African Tax Administration Forum,Norway
+2021,International Agency for Research on Cancer,0.44,0.0%,International Agency for Research on Cancer,Norway
+2021,World Trade Organisation - Advisory Centre on WTO Law,0.38,0.0%,World Trade Organisation - Advisory Centre on WTO Law,Norway
+2021,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",0.36,0.0%,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",Norway
+2021,International Telecommunications Union,0.28,0.0%,International Telecommunications Union,Norway
+2021,United Nations Framework Convention on Climate Change ,0.13,0.0%,United Nations Framework Convention on Climate Change ,Norway
+2021,Convention to Combat Desertification ,0.12,0.0%,Convention to Combat Desertification ,Norway
+2021,International Renewable Energy Agency,0.11,0.0%,International Renewable Energy Agency,Norway
+2021,Universal Postal Union ,0.08,0.0%,Universal Postal Union ,Norway
+2021,Intergovernmental Panel on Climate Change ,0.05,0.0%,Intergovernmental Panel on Climate Change ,Norway
+2021,CITES,0.04,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Norway
+2021,World Intellectual Property Organisation ,0.01,0.0%,World Intellectual Property Organisation ,Norway
+2021,IFFIm,,,International Finance Facility for Immunisation,Norway
+2022,GAVI,99.37,0.19%,Global Alliance for Vaccines and Immunization ,Norway
+2022,IDA,83.38,0.16%,International Development Association ,Norway
+2022,GCF,70.06,0.13%,Green Climate Fund,Norway
+2022,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",68.34,0.13%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Norway
+2022,ADF,68.26,0.13%,African Development Fund ,Norway
+2022,United Nations Office of the High Commissioner for Refugees,53.82,0.1%,United Nations Office of the High Commissioner for Refugees,Norway
+2022,UNFPA,50.37,0.09%,United Nations Population Fund ,Norway
+2022,CERF,41.0,0.08%,Central Emergency Response Fund,Norway
+2022,UNICEF,36.45,0.07%,United Nations Children's Fund ,Norway
+2022,WFP,34.17,0.06%,World Food Programme ,Norway
+2022,UNDP,33.32,0.06%,United Nations Development Programme ,Norway
+2022,IFAD,18.45,0.03%,International Fund for Agricultural Development ,Norway
+2022,International Development Association - Multilateral Debt Relief Initiative,18.42,0.03%,International Development Association - Multilateral Debt Relief Initiative,Norway
+2022,UNRWA,16.83,0.03%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Norway
+2022,GEF-TF,16.66,0.03%,Global Environment Facility Trust Fund,Norway
+2022,CGIAR ,10.68,0.02%,CGIAR Fund,Norway
+2022,IBRD,9.31,0.02%,International Bank for Reconstruction and Development ,Norway
+2022,United Nations Entity for Gender Equality and the Empowerment of Women,8.57,0.02%,United Nations Entity for Gender Equality and the Empowerment of Women,Norway
+2022,United Nations Peacebuilding Fund,8.54,0.02%,United Nations Peacebuilding Fund,Norway
+2022,IFFIm,8.54,0.02%,International Finance Facility for Immunisation,Norway
+2022,United Nations Office of Co-ordination of Humanitarian Affairs ,8.29,0.02%,United Nations Office of Co-ordination of Humanitarian Affairs ,Norway
+2022,NDF,8.15,0.02%,Nordic Development Fund,Norway
+2022,AF,7.69,0.01%,Adaptation Fund,Norway
+2022,AfDB,7.58,0.01%,African Development Bank,Norway
+2022,UN,7.5,0.01%,United Nations,Norway
+2022,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),7.4,0.01%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Norway
+2022,UNEP,5.98,0.01%,United Nations Environment Programme ,Norway
+2022,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",5.9,0.01%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",Norway
+2022,International Development Association - Heavily Indebted Poor Countries Debt Initiative Trust Fund ,4.61,0.01%,International Development Association - Heavily Indebted Poor Countries Debt Initiative Trust Fund ,Norway
+2022,Asian Development Fund ,4.29,0.01%,Asian Development Fund ,Norway
+2022,IFC,3.99,0.01%,International Finance Corporation ,Norway
+2022,Joint United Nations Programme on HIV/AIDS ,3.84,0.01%,Joint United Nations Programme on HIV/AIDS ,Norway
+2022,UNDCO,3.59,0.01%,United Nations Development Coordination Office,Norway
+2022,World Health Organisation - core voluntary contributions account,3.44,0.01%,World Health Organisation - core voluntary contributions account,Norway
+2022,International Organisation for Migration ,2.91,0.01%,International Organisation for Migration ,Norway
+2022,Organization for Security and Co-operation in Europe,2.62,0.0%,Organization for Security and Co-operation in Europe,Norway
+2022,European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund,2.56,0.0%,European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund,Norway
+2022,FAO,2.28,0.0%,Food and Agricultural Organisation,Norway
+2022,World Health Organisation - assessed contributions,2.07,0.0%,World Health Organisation - assessed contributions,Norway
+2022,International Institute for Democracy and Electoral Assistance ,1.92,0.0%,International Institute for Democracy and Electoral Assistance ,Norway
+2022,International drug purchase facility,1.71,0.0%,International drug purchase facility,Norway
+2022,MLF-MP,1.57,0.0%,Multilateral Fund for the Implementation of the Montreal Protocol ,Norway
+2022,Council of Europe,1.52,0.0%,Council of Europe,Norway
+2022,International Labour Organisation - Assessed Contributions,1.34,0.0%,International Labour Organisation - Assessed Contributions,Norway
+2022,World Trade Organisation - International Trade Centre ,1.28,0.0%,World Trade Organisation - International Trade Centre ,Norway
+2022,"United Nations Educational, Scientific and Cultural Organisation",1.06,0.0%,"United Nations Educational, Scientific and Cultural Organisation",Norway
+2022,International Atomic Energy Agency - assessed contributions,0.81,0.0%,International Atomic Energy Agency - assessed contributions,Norway
+2022,UNIDO,0.76,0.0%,United Nations Industrial Development Organisation ,Norway
+2022,GGGI,0.68,0.0%,Global Green Growth Institute,Norway
+2022,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),0.57,0.0%,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),Norway
+2022,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,0.56,0.0%,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,Norway
+2022,African Tax Administration Forum,0.43,0.0%,African Tax Administration Forum,Norway
+2022,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",0.36,0.0%,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",Norway
+2022,International Agency for Research on Cancer,0.33,0.0%,International Agency for Research on Cancer,Norway
+2022,International Telecommunications Union,0.24,0.0%,International Telecommunications Union,Norway
+2022,United Nations Framework Convention on Climate Change ,0.1,0.0%,United Nations Framework Convention on Climate Change ,Norway
+2022,International Renewable Energy Agency,0.08,0.0%,International Renewable Energy Agency,Norway
+2022,Universal Postal Union ,0.06,0.0%,Universal Postal Union ,Norway
+2022,Intergovernmental Panel on Climate Change ,0.04,0.0%,Intergovernmental Panel on Climate Change ,Norway
+2022,CITES,0.03,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Norway
+2022,World Intellectual Property Organisation ,0.01,0.0%,World Intellectual Property Organisation ,Norway
+2023,IDA,104.0,0.17%,International Development Association ,Norway
+2023,GAVI,101.31,0.17%,Global Alliance for Vaccines and Immunization ,Norway
+2023,ADF,84.11,0.14%,African Development Fund ,Norway
+2023,GCF,71.03,0.12%,Green Climate Fund,Norway
+2023,United Nations Office of the High Commissioner for Refugees,59.67,0.1%,United Nations Office of the High Commissioner for Refugees,Norway
+2023,UNFPA,55.84,0.09%,United Nations Population Fund ,Norway
+2023,CERF,47.83,0.08%,Central Emergency Response Fund,Norway
+2023,UNICEF,44.21,0.07%,United Nations Children's Fund ,Norway
+2023,WFP,40.72,0.07%,World Food Programme ,Norway
+2023,UNDP,40.57,0.07%,United Nations Development Programme ,Norway
+2023,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",40.35,0.07%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Norway
+2023,IFFIm,34.09,0.06%,International Finance Facility for Immunisation,Norway
+2023,CGIAR ,25.72,0.04%,CGIAR Fund,Norway
+2023,International Development Association - Multilateral Debt Relief Initiative,21.56,0.04%,International Development Association - Multilateral Debt Relief Initiative,Norway
+2023,IFAD,20.46,0.03%,International Fund for Agricultural Development ,Norway
+2023,UNRWA,18.94,0.03%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Norway
+2023,GEF-TF,18.47,0.03%,Global Environment Facility Trust Fund,Norway
+2023,United Nations Office of Co-ordination of Humanitarian Affairs ,16.19,0.03%,United Nations Office of Co-ordination of Humanitarian Affairs ,Norway
+2023,IBRD,12.55,0.02%,International Bank for Reconstruction and Development ,Norway
+2023,UNEP,12.42,0.02%,United Nations Environment Programme ,Norway
+2023,AF,11.25,0.02%,Adaptation Fund,Norway
+2023,United Nations Peacebuilding Fund,10.61,0.02%,United Nations Peacebuilding Fund,Norway
+2023,NDF,10.42,0.02%,Nordic Development Fund,Norway
+2023,UN,9.68,0.02%,United Nations,Norway
+2023,United Nations Entity for Gender Equality and the Empowerment of Women,9.5,0.02%,United Nations Entity for Gender Equality and the Empowerment of Women,Norway
+2023,Global Environment Facility - Least Developed Countries Fund,9.47,0.02%,Global Environment Facility - Least Developed Countries Fund,Norway
+2023,World Health Organisation - core voluntary contributions account,9.47,0.02%,World Health Organisation - core voluntary contributions account,Norway
+2023,AfDB,9.14,0.01%,African Development Bank,Norway
+2023,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),8.21,0.01%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Norway
+2023,UNDCO,7.1,0.01%,United Nations Development Coordination Office,Norway
+2023,IFC,6.47,0.01%,International Finance Corporation ,Norway
+2023,International Organisation for Migration ,5.21,0.01%,International Organisation for Migration ,Norway
+2023,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",4.91,0.01%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",Norway
+2023,Asian Development Fund ,4.76,0.01%,Asian Development Fund ,Norway
+2023,Joint United Nations Programme on HIV/AIDS ,4.26,0.01%,Joint United Nations Programme on HIV/AIDS ,Norway
+2023,International Monetary Fund - Poverty Reduction and Growth Trust ,4.1,0.01%,International Monetary Fund - Poverty Reduction and Growth Trust ,Norway
+2023,International Institute for Democracy and Electoral Assistance ,2.84,0.0%,International Institute for Democracy and Electoral Assistance ,Norway
+2023,FAO,2.82,0.0%,Food and Agricultural Organisation,Norway
+2023,World Health Organisation - assessed contributions,2.59,0.0%,World Health Organisation - assessed contributions,Norway
+2023,Organization for Security and Co-operation in Europe,2.19,0.0%,Organization for Security and Co-operation in Europe,Norway
+2023,MLF-MP,2.05,0.0%,Multilateral Fund for the Implementation of the Montreal Protocol ,Norway
+2023,Council of Europe,1.91,0.0%,Council of Europe,Norway
+2023,International drug purchase facility,1.89,0.0%,International drug purchase facility,Norway
+2023,International Development Association - Heavily Indebted Poor Countries Debt Initiative Trust Fund ,1.72,0.0%,International Development Association - Heavily Indebted Poor Countries Debt Initiative Trust Fund ,Norway
+2023,International Labour Organisation - Assessed Contributions,1.44,0.0%,International Labour Organisation - Assessed Contributions,Norway
+2023,"United Nations Educational, Scientific and Cultural Organisation",1.34,0.0%,"United Nations Educational, Scientific and Cultural Organisation",Norway
+2023,UNIDO,0.94,0.0%,United Nations Industrial Development Organisation ,Norway
+2023,International Atomic Energy Agency - assessed contributions,0.94,0.0%,International Atomic Energy Agency - assessed contributions,Norway
+2023,GGGI,0.76,0.0%,Global Green Growth Institute,Norway
+2023,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),0.64,0.0%,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),Norway
+2023,African Tax Administration Forum,0.47,0.0%,African Tax Administration Forum,Norway
+2023,International Agency for Research on Cancer,0.4,0.0%,International Agency for Research on Cancer,Norway
+2023,World Trade Organisation - Advisory Centre on WTO Law,0.38,0.0%,World Trade Organisation - Advisory Centre on WTO Law,Norway
+2023,International Telecommunications Union,0.31,0.0%,International Telecommunications Union,Norway
+2023,United Nations Framework Convention on Climate Change ,0.1,0.0%,United Nations Framework Convention on Climate Change ,Norway
+2023,International Renewable Energy Agency,0.08,0.0%,International Renewable Energy Agency,Norway
+2023,Universal Postal Union ,0.07,0.0%,Universal Postal Union ,Norway
+2023,Intergovernmental Panel on Climate Change ,0.05,0.0%,Intergovernmental Panel on Climate Change ,Norway
+2023,CITES,0.04,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Norway
+2023,World Intellectual Property Organisation ,0.01,0.0%,World Intellectual Property Organisation ,Norway

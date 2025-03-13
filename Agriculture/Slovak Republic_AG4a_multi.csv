@@ -1,31 +1,31 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
-2019,EC-DSB,5.03,0.5%,european commission development share of budget,Slovak Republic
-2020,EC-DSB,4.61,0.53%,european commission development share of budget,Slovak Republic
-2021,EC-DSB,5.05,0.62%,european commission development share of budget,Slovak Republic
-2022,EC-DSB,5.62,0.62%,european commission development share of budget,Slovak Republic
-2023,EC-DSB,5.36,0.65%,european commission development share of budget,Slovak Republic
-2019,EC-EDF,3.02,0.3%,european commission european development fund,Slovak Republic
-2020,EC-EDF,2.76,0.32%,european commission european development fund,Slovak Republic
-2021,EC-EDF,1.73,0.21%,european commission european development fund,Slovak Republic
-2022,EC-EDF,0.83,0.09%,european commission european development fund,Slovak Republic
-2023,EC-EDF,0.32,0.04%,european commission european development fund,Slovak Republic
-2019,FAO,0.26,0.03%,food and agricultural organisation,Slovak Republic
-2020,FAO,0.36,0.04%,food and agricultural organisation,Slovak Republic
-2021,FAO,0.36,0.04%,food and agricultural organisation,Slovak Republic
-2022,FAO,0.33,0.04%,food and agricultural organisation,Slovak Republic
-2023,FAO,0.32,0.04%,food and agricultural organisation,Slovak Republic
-2019,GCF,0.27,0.03%,green climate fund,Slovak Republic
-2021,GCF,0.21,0.03%,green climate fund,Slovak Republic
-2022,GCF,0.42,0.05%,green climate fund,Slovak Republic
-2023,GCF,0.16,0.02%,green climate fund,Slovak Republic
-2019,IBRD,0.2,0.02%,international bank for reconstruction and development,Slovak Republic
-2020,IBRD,0.18,0.02%,international bank for reconstruction and development,Slovak Republic
-2021,IBRD,0.17,0.02%,international bank for reconstruction and development,Slovak Republic
-2022,IBRD,0.19,0.02%,international bank for reconstruction and development,Slovak Republic
-2023,IBRD,0.18,0.02%,international bank for reconstruction and development,Slovak Republic
-2023,IDA,0.3,0.04%,international development association,Slovak Republic
-2022,IFC,1.2,0.13%,international finance corporation,Slovak Republic
-2023,IFC,1.02,0.12%,international finance corporation,Slovak Republic
+2019,EC-DSB,5.03,50.0%,european commission development share of budget,Slovak Republic
+2020,EC-DSB,4.61,53.0%,european commission development share of budget,Slovak Republic
+2021,EC-DSB,5.05,62.0%,european commission development share of budget,Slovak Republic
+2022,EC-DSB,5.62,62.0%,european commission development share of budget,Slovak Republic
+2023,EC-DSB,5.36,65.0%,european commission development share of budget,Slovak Republic
+2019,EC-EDF,3.02,30.0%,european commission european development fund,Slovak Republic
+2020,EC-EDF,2.76,32.0%,european commission european development fund,Slovak Republic
+2021,EC-EDF,1.73,21.0%,european commission european development fund,Slovak Republic
+2022,EC-EDF,0.83,9.0%,european commission european development fund,Slovak Republic
+2023,EC-EDF,0.32,4.0%,european commission european development fund,Slovak Republic
+2019,FAO,0.26,3.0%,food and agricultural organisation,Slovak Republic
+2020,FAO,0.36,4.0%,food and agricultural organisation,Slovak Republic
+2021,FAO,0.36,4.0%,food and agricultural organisation,Slovak Republic
+2022,FAO,0.33,4.0%,food and agricultural organisation,Slovak Republic
+2023,FAO,0.32,4.0%,food and agricultural organisation,Slovak Republic
+2019,GCF,0.27,3.0%,green climate fund,Slovak Republic
+2021,GCF,0.21,3.0%,green climate fund,Slovak Republic
+2022,GCF,0.42,5.0%,green climate fund,Slovak Republic
+2023,GCF,0.16,2.0%,green climate fund,Slovak Republic
+2019,IBRD,0.2,2.0%,international bank for reconstruction and development,Slovak Republic
+2020,IBRD,0.18,2.0%,international bank for reconstruction and development,Slovak Republic
+2021,IBRD,0.17,2.0%,international bank for reconstruction and development,Slovak Republic
+2022,IBRD,0.19,2.0%,international bank for reconstruction and development,Slovak Republic
+2023,IBRD,0.18,2.0%,international bank for reconstruction and development,Slovak Republic
+2023,IDA,0.3,4.0%,international development association,Slovak Republic
+2022,IFC,1.2,13.0%,international finance corporation,Slovak Republic
+2023,IFC,1.02,12.0%,international finance corporation,Slovak Republic
 2022,UN,0.0,0.0%,united nations,Slovak Republic
 2023,UN,0.01,0.0%,united nations,Slovak Republic
 2019,UNDP,0.0,0.0%,united nations development programme,Slovak Republic

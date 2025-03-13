@@ -10,25 +10,25 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2023,AfDB,0.19,0.0%,african development bank,United Kingdom
 2021,CDB,0.0,0.0%,caribbean development bank,United Kingdom
 2022,CDB,0.0,0.0%,caribbean development bank,United Kingdom
-2019,EC-DSB,40.5,0.01%,european commission development share of budget,United Kingdom
-2020,EC-DSB,43.08,0.01%,european commission development share of budget,United Kingdom
-2021,EC-DSB,52.19,0.02%,european commission development share of budget,United Kingdom
-2022,EC-DSB,52.44,0.02%,european commission development share of budget,United Kingdom
-2023,EC-DSB,44.74,0.02%,european commission development share of budget,United Kingdom
-2019,EC-EDF,92.3,0.03%,european commission european development fund,United Kingdom
-2020,EC-EDF,35.58,0.01%,european commission european development fund,United Kingdom
-2021,EC-EDF,51.9,0.02%,european commission european development fund,United Kingdom
-2022,EC-EDF,12.37,0.01%,european commission european development fund,United Kingdom
+2019,EC-DSB,40.5,1.0%,european commission development share of budget,United Kingdom
+2020,EC-DSB,43.08,1.0%,european commission development share of budget,United Kingdom
+2021,EC-DSB,52.19,2.0%,european commission development share of budget,United Kingdom
+2022,EC-DSB,52.44,2.0%,european commission development share of budget,United Kingdom
+2023,EC-DSB,44.74,2.0%,european commission development share of budget,United Kingdom
+2019,EC-EDF,92.3,3.0%,european commission european development fund,United Kingdom
+2020,EC-EDF,35.58,1.0%,european commission european development fund,United Kingdom
+2021,EC-EDF,51.9,2.0%,european commission european development fund,United Kingdom
+2022,EC-EDF,12.37,1.0%,european commission european development fund,United Kingdom
 2023,EC-EDF,1.24,0.0%,european commission european development fund,United Kingdom
 2019,FAO,1.57,0.0%,food and agricultural organisation,United Kingdom
 2020,FAO,0.98,0.0%,food and agricultural organisation,United Kingdom
 2021,FAO,0.91,0.0%,food and agricultural organisation,United Kingdom
 2022,FAO,0.87,0.0%,food and agricultural organisation,United Kingdom
 2023,FAO,0.9,0.0%,food and agricultural organisation,United Kingdom
-2019,GAVI,273.18,0.08%,global alliance for vaccines and immunization,United Kingdom
-2020,GAVI,262.53,0.08%,global alliance for vaccines and immunization,United Kingdom
-2021,GAVI,299.17,0.12%,global alliance for vaccines and immunization,United Kingdom
-2023,GAVI,274.21,0.1%,global alliance for vaccines and immunization,United Kingdom
+2019,GAVI,273.18,8.0%,global alliance for vaccines and immunization,United Kingdom
+2020,GAVI,262.53,8.0%,global alliance for vaccines and immunization,United Kingdom
+2021,GAVI,299.17,12.0%,global alliance for vaccines and immunization,United Kingdom
+2023,GAVI,274.21,10.0%,global alliance for vaccines and immunization,United Kingdom
 2022,GCF,0.04,0.0%,green climate fund,United Kingdom
 2023,GCF,0.1,0.0%,green climate fund,United Kingdom
 2019,GEF-TF,0.01,0.0%,global environment facility trust fund,United Kingdom
@@ -36,21 +36,21 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,GEF-TF,1.77,0.0%,global environment facility trust fund,United Kingdom
 2022,GEF-TF,1.41,0.0%,global environment facility trust fund,United Kingdom
 2023,GEF-TF,2.97,0.0%,global environment facility trust fund,United Kingdom
-2019,GFATM,544.53,0.16%,global fund to fight aids tuberculosis and malaria,United Kingdom
-2020,GFATM,666.64,0.19%,global fund to fight aids tuberculosis and malaria,United Kingdom
-2021,GFATM,532.83,0.21%,global fund to fight aids tuberculosis and malaria,United Kingdom
-2022,GFATM,578.73,0.27%,global fund to fight aids tuberculosis and malaria,United Kingdom
-2023,GFATM,1190.9,0.42%,global fund to fight aids tuberculosis and malaria,United Kingdom
+2019,GFATM,544.53,16.0%,global fund to fight aids tuberculosis and malaria,United Kingdom
+2020,GFATM,666.64,19.0%,global fund to fight aids tuberculosis and malaria,United Kingdom
+2021,GFATM,532.83,21.0%,global fund to fight aids tuberculosis and malaria,United Kingdom
+2022,GFATM,578.73,27.0%,global fund to fight aids tuberculosis and malaria,United Kingdom
+2023,GFATM,1190.9,42.0%,global fund to fight aids tuberculosis and malaria,United Kingdom
 2019,IBRD,2.71,0.0%,international bank for reconstruction and development,United Kingdom
 2020,IBRD,4.34,0.0%,international bank for reconstruction and development,United Kingdom
 2021,IBRD,5.75,0.0%,international bank for reconstruction and development,United Kingdom
 2022,IBRD,8.31,0.0%,international bank for reconstruction and development,United Kingdom
 2023,IBRD,7.39,0.0%,international bank for reconstruction and development,United Kingdom
-2019,IDA,93.88,0.03%,international development association,United Kingdom
-2020,IDA,109.28,0.03%,international development association,United Kingdom
-2021,IDA,102.78,0.04%,international development association,United Kingdom
-2022,IDA,26.09,0.01%,international development association,United Kingdom
-2023,IDA,239.61,0.08%,international development association,United Kingdom
+2019,IDA,93.88,3.0%,international development association,United Kingdom
+2020,IDA,109.28,3.0%,international development association,United Kingdom
+2021,IDA,102.78,4.0%,international development association,United Kingdom
+2022,IDA,26.09,1.0%,international development association,United Kingdom
+2023,IDA,239.61,8.0%,international development association,United Kingdom
 2019,IDB-IIC-MIF,0.03,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,United Kingdom
 2020,IDB-IIC-MIF,0.06,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,United Kingdom
 2021,IDB-IIC-MIF,0.05,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,United Kingdom
@@ -86,14 +86,14 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2023,WFP,1.09,0.0%,world food programme,United Kingdom
 2019,WHO-AC,16.46,0.0%,world health organisation assessed contributions,United Kingdom
 2020,WHO-AC,15.36,0.0%,world health organisation assessed contributions,United Kingdom
-2021,WHO-AC,13.38,0.01%,world health organisation assessed contributions,United Kingdom
-2022,WHO-AC,13.68,0.01%,world health organisation assessed contributions,United Kingdom
-2023,WHO-AC,14.32,0.01%,world health organisation assessed contributions,United Kingdom
-2019,WHO-CVCA,37.04,0.01%,world health organisation core voluntary contributions account,United Kingdom
+2021,WHO-AC,13.38,1.0%,world health organisation assessed contributions,United Kingdom
+2022,WHO-AC,13.68,1.0%,world health organisation assessed contributions,United Kingdom
+2023,WHO-AC,14.32,1.0%,world health organisation assessed contributions,United Kingdom
+2019,WHO-CVCA,37.04,1.0%,world health organisation core voluntary contributions account,United Kingdom
 2020,WHO-CVCA,5.14,0.0%,world health organisation core voluntary contributions account,United Kingdom
-2021,WHO-CVCA,107.27,0.04%,world health organisation core voluntary contributions account,United Kingdom
-2022,WHO-CVCA,106.16,0.05%,world health organisation core voluntary contributions account,United Kingdom
-2023,WHO-CVCA,116.21,0.04%,world health organisation core voluntary contributions account,United Kingdom
+2021,WHO-CVCA,107.27,4.0%,world health organisation core voluntary contributions account,United Kingdom
+2022,WHO-CVCA,106.16,5.0%,world health organisation core voluntary contributions account,United Kingdom
+2023,WHO-CVCA,116.21,4.0%,world health organisation core voluntary contributions account,United Kingdom
 2019,,11.13,0.0%,united nations children’s fund,United Kingdom
 2020,,10.64,0.0%,united nations children’s fund,United Kingdom
 2021,,5.51,0.0%,united nations children’s fund,United Kingdom

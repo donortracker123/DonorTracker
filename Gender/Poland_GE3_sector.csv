@@ -34,10 +34,10 @@ year,Sector,Gender-related ODA to,Share,Donor
 2023,"Industry, construction & mining",0.3,2.0%,Poland
 2023,Environmental protection,0.3,2.0%,Poland
 2022,,0.29,3.0%,Poland
-2022,Reconstruction Relief & Rehabilitation,0.24,2.0%,Poland
 2023,Financial services & business support,0.24,2.0%,Poland
-2022,"Industry, construction & mining",0.23,2.0%,Poland
+2022,Reconstruction Relief & Rehabilitation,0.24,2.0%,Poland
 2023,,0.23,1.0%,Poland
+2022,"Industry, construction & mining",0.23,2.0%,Poland
 2019,"Industry, construction & mining",0.21,2.0%,Poland
 2023,Other multisector,0.2,1.0%,Poland
 2022,Environmental protection,0.18,2.0%,Poland
@@ -50,8 +50,8 @@ year,Sector,Gender-related ODA to,Share,Donor
 2021,Other social services,0.12,2.0%,Poland
 2020,"Agriculture (incl. forestry, fishing, rural development)",0.12,3.0%,Poland
 2021,Other multisector,0.11,2.0%,Poland
-2019,Water and sanitation,0.1,1.0%,Poland
 2019,Tourism,0.1,1.0%,Poland
+2019,Water and sanitation,0.1,1.0%,Poland
 2021,"Conflict, peace & security",0.08,2.0%,Poland
 2022,Tourism,0.08,1.0%,Poland
 2021,"Agriculture (incl. forestry, fishing, rural development)",0.06,1.0%,Poland
@@ -60,17 +60,17 @@ year,Sector,Gender-related ODA to,Share,Donor
 2023,Disaster Prevention & Preparedness,0.05,0.0%,Poland
 2021,"Industry, construction & mining",0.04,1.0%,Poland
 2021,Environmental protection,0.04,1.0%,Poland
-2022,Disaster Prevention & Preparedness,0.04,0.0%,Poland
 2022,Unspecified,0.04,0.0%,Poland
+2022,Disaster Prevention & Preparedness,0.04,0.0%,Poland
 2023,Energy,0.03,0.0%,Poland
-2021,Water and sanitation,0.01,0.0%,Poland
 2021,Tourism,0.01,0.0%,Poland
-2022,Energy,0.01,0.0%,Poland
-2022,Trade policy,0.01,0.0%,Poland
-2023,Trade policy,0.01,0.0%,Poland
+2021,Water and sanitation,0.01,0.0%,Poland
 2023,Infrastructure,0.01,0.0%,Poland
 2023,Tourism,0.01,0.0%,Poland
 2023,Food aid and commodity assistance,0.01,0.0%,Poland
+2023,Trade policy,0.01,0.0%,Poland
+2022,Energy,0.01,0.0%,Poland
+2022,Trade policy,0.01,0.0%,Poland
 2021,Infrastructure,0.0,0.0%,Poland
 2021,,0.0,0.0%,Poland
 2023,"Conflict, peace & security",0.0,0.0%,Poland

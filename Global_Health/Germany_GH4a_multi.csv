@@ -17,14 +17,14 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,CEB,0.02,0.0%,council of europe development bank,Germany
 2022,CEB,0.02,0.0%,council of europe development bank,Germany
 2023,CEB,0.01,0.0%,council of europe development bank,Germany
-2019,EC-DSB,69.6,0.04%,european commission development share of budget,Germany
-2020,EC-DSB,72.81,0.02%,european commission development share of budget,Germany
-2021,EC-DSB,168.5,0.03%,european commission development share of budget,Germany
-2022,EC-DSB,284.3,0.06%,european commission development share of budget,Germany
-2023,EC-DSB,366.45,0.16%,european commission development share of budget,Germany
-2019,EC-EDF,90.73,0.06%,european commission european development fund,Germany
-2020,EC-EDF,83.34,0.02%,european commission european development fund,Germany
-2021,EC-EDF,54.39,0.01%,european commission european development fund,Germany
+2019,EC-DSB,69.6,4.0%,european commission development share of budget,Germany
+2020,EC-DSB,72.81,2.0%,european commission development share of budget,Germany
+2021,EC-DSB,168.5,3.0%,european commission development share of budget,Germany
+2022,EC-DSB,284.3,6.0%,european commission development share of budget,Germany
+2023,EC-DSB,366.45,16.0%,european commission development share of budget,Germany
+2019,EC-EDF,90.73,6.0%,european commission european development fund,Germany
+2020,EC-EDF,83.34,2.0%,european commission european development fund,Germany
+2021,EC-EDF,54.39,1.0%,european commission european development fund,Germany
 2022,EC-EDF,19.87,0.0%,european commission european development fund,Germany
 2023,EC-EDF,4.56,0.0%,european commission european development fund,Germany
 2019,FAO,2.15,0.0%,food and agricultural organisation,Germany
@@ -32,11 +32,11 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,FAO,1.21,0.0%,food and agricultural organisation,Germany
 2022,FAO,1.18,0.0%,food and agricultural organisation,Germany
 2023,FAO,1.22,0.0%,food and agricultural organisation,Germany
-2019,GAVI,70.72,0.04%,global alliance for vaccines and immunization,Germany
-2020,GAVI,186.95,0.05%,global alliance for vaccines and immunization,Germany
-2021,GAVI,1163.08,0.24%,global alliance for vaccines and immunization,Germany
-2022,GAVI,131.92,0.03%,global alliance for vaccines and immunization,Germany
-2023,GAVI,122.33,0.05%,global alliance for vaccines and immunization,Germany
+2019,GAVI,70.72,4.0%,global alliance for vaccines and immunization,Germany
+2020,GAVI,186.95,5.0%,global alliance for vaccines and immunization,Germany
+2021,GAVI,1163.08,24.0%,global alliance for vaccines and immunization,Germany
+2022,GAVI,131.92,3.0%,global alliance for vaccines and immunization,Germany
+2023,GAVI,122.33,5.0%,global alliance for vaccines and immunization,Germany
 2022,GCF,0.06,0.0%,green climate fund,Germany
 2023,GCF,0.1,0.0%,green climate fund,Germany
 2019,GEF-TF,0.09,0.0%,global environment facility trust fund,Germany
@@ -44,21 +44,21 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,GEF-TF,2.57,0.0%,global environment facility trust fund,Germany
 2022,GEF-TF,3.41,0.0%,global environment facility trust fund,Germany
 2023,GEF-TF,2.8,0.0%,global environment facility trust fund,Germany
-2019,GFATM,330.2,0.2%,global fund to fight aids tuberculosis and malaria,Germany
-2020,GFATM,623.31,0.18%,global fund to fight aids tuberculosis and malaria,Germany
-2021,GFATM,592.99,0.12%,global fund to fight aids tuberculosis and malaria,Germany
-2022,GFATM,344.86,0.08%,global fund to fight aids tuberculosis and malaria,Germany
-2023,GFATM,448.75,0.2%,global fund to fight aids tuberculosis and malaria,Germany
+2019,GFATM,330.2,20.0%,global fund to fight aids tuberculosis and malaria,Germany
+2020,GFATM,623.31,18.0%,global fund to fight aids tuberculosis and malaria,Germany
+2021,GFATM,592.99,12.0%,global fund to fight aids tuberculosis and malaria,Germany
+2022,GFATM,344.86,8.0%,global fund to fight aids tuberculosis and malaria,Germany
+2023,GFATM,448.75,20.0%,global fund to fight aids tuberculosis and malaria,Germany
 2019,IBRD,3.03,0.0%,international bank for reconstruction and development,Germany
 2020,IBRD,5.17,0.0%,international bank for reconstruction and development,Germany
 2021,IBRD,6.59,0.0%,international bank for reconstruction and development,Germany
 2022,IBRD,9.87,0.0%,international bank for reconstruction and development,Germany
 2023,IBRD,8.47,0.0%,international bank for reconstruction and development,Germany
-2019,IDA,63.95,0.04%,international development association,Germany
-2020,IDA,67.27,0.02%,international development association,Germany
-2021,IDA,70.96,0.01%,international development association,Germany
-2022,IDA,77.77,0.02%,international development association,Germany
-2023,IDA,135.67,0.06%,international development association,Germany
+2019,IDA,63.95,4.0%,international development association,Germany
+2020,IDA,67.27,2.0%,international development association,Germany
+2021,IDA,70.96,1.0%,international development association,Germany
+2022,IDA,77.77,2.0%,international development association,Germany
+2023,IDA,135.67,6.0%,international development association,Germany
 2022,IFC,0.07,0.0%,international finance corporation,Germany
 2023,IFC,0.05,0.0%,international finance corporation,Germany
 2019,UN,0.04,0.0%,united nations,Germany
@@ -75,11 +75,11 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,UNDP,5.14,0.0%,united nations development programme,Germany
 2022,UNDP,3.66,0.0%,united nations development programme,Germany
 2023,UNDP,3.47,0.0%,united nations development programme,Germany
-2019,UNFPA,15.42,0.01%,united nations population fund,Germany
-2020,UNFPA,25.99,0.01%,united nations population fund,Germany
+2019,UNFPA,15.42,1.0%,united nations population fund,Germany
+2020,UNFPA,25.99,1.0%,united nations population fund,Germany
 2021,UNFPA,13.94,0.0%,united nations population fund,Germany
-2022,UNFPA,30.64,0.01%,united nations population fund,Germany
-2023,UNFPA,31.45,0.01%,united nations population fund,Germany
+2022,UNFPA,30.64,1.0%,united nations population fund,Germany
+2023,UNFPA,31.45,1.0%,united nations population fund,Germany
 2019,UNRWA,3.55,0.0%,united nations relief and works agency for palestine refugees in the near east,Germany
 2020,UNRWA,3.33,0.0%,united nations relief and works agency for palestine refugees in the near east,Germany
 2021,UNRWA,3.2,0.0%,united nations relief and works agency for palestine refugees in the near east,Germany
@@ -90,17 +90,17 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,WFP,1.11,0.0%,world food programme,Germany
 2022,WFP,3.02,0.0%,world food programme,Germany
 2023,WFP,1.84,0.0%,world food programme,Germany
-2019,WHO-AC,22.54,0.01%,world health organisation assessed contributions,Germany
-2020,WHO-AC,20.71,0.01%,world health organisation assessed contributions,Germany
+2019,WHO-AC,22.54,1.0%,world health organisation assessed contributions,Germany
+2020,WHO-AC,20.71,1.0%,world health organisation assessed contributions,Germany
 2021,WHO-AC,18.06,0.0%,world health organisation assessed contributions,Germany
 2022,WHO-AC,17.87,0.0%,world health organisation assessed contributions,Germany
-2023,WHO-AC,17.22,0.01%,world health organisation assessed contributions,Germany
+2023,WHO-AC,17.22,1.0%,world health organisation assessed contributions,Germany
 2022,WHO-CVCA,13.11,0.0%,world health organisation core voluntary contributions account,Germany
-2023,WHO-CVCA,11.37,0.01%,world health organisation core voluntary contributions account,Germany
-2022,WHO-SPRP,29.56,0.01%,world health organisation strategic preparedness and response plan,Germany
-2023,WHO-SPRP,26.69,0.01%,world health organisation strategic preparedness and response plan,Germany
-2019,,12.0,0.01%,united nations children’s fund,Germany
-2020,,17.75,0.01%,united nations children’s fund,Germany
+2023,WHO-CVCA,11.37,1.0%,world health organisation core voluntary contributions account,Germany
+2022,WHO-SPRP,29.56,1.0%,world health organisation strategic preparedness and response plan,Germany
+2023,WHO-SPRP,26.69,1.0%,world health organisation strategic preparedness and response plan,Germany
+2019,,12.0,1.0%,united nations children’s fund,Germany
+2020,,17.75,1.0%,united nations children’s fund,Germany
 2021,,13.88,0.0%,united nations children’s fund,Germany
 2022,,17.55,0.0%,united nations children’s fund,Germany
 2023,,10.43,0.0%,united nations children’s fund,Germany

@@ -1,10 +1,45 @@
 donor,perc,Year,Rank
+Luxembourg,16.3%,2022,20th
+Italy,14.8%,2022,21st
+Slovenia,13.3%,2022,22nd
+United States,10.3%,2022,23rd
+Czechia,6.4%,2022,24th
+Slovak Republic,5.1%,2022,25th
+Lithuania,3.5%,2022,26th
+Poland,3.0%,2022,27th
+Portugal,2.5%,2022,28th
+Estonia,2.2%,2022,29th
+Hungary,0.1%,2022,30th
+United States,12.8%,2023,22nd
+Luxembourg,10.8%,2023,23rd
+United Kingdom,10.0%,2023,24th
 Slovak Republic,7.8%,2023,25th
 Portugal,5.8%,2023,26th
 Lithuania,5.5%,2023,27th
 Poland,3.8%,2023,28th
 Hungary,1.4%,2023,29th
 Greece,0.3%,2023,30th
+Korea,65.4%,2023,1st
+Netherlands,64.9%,2023,2nd
+Japan,61.8%,2023,3rd
+New Zealand,58.0%,2023,4th
+France,56.1%,2023,5th
+Germany,50.9%,2023,6th
+Australia,47.4%,2023,7th
+Iceland,43.3%,2023,8th
+Austria,33.5%,2023,9th
+Belgium,33.1%,2023,10th
+Finland,31.7%,2023,11th
+Denmark,31.1%,2023,12th
+Norway,29.3%,2023,13th
+Sweden,28.4%,2023,14th
+Ireland,24.9%,2023,15th
+Italy,22.0%,2023,16th
+Slovenia,20.7%,2023,17th
+Switzerland,20.6%,2023,18th
+Canada,17.1%,2023,19th
+Czechia,15.5%,2023,20th
+Estonia,14.9%,2023,21st
 Japan,75.7%,2022,1st
 France,54.6%,2022,2nd
 Netherlands,49.3%,2022,3rd
@@ -23,39 +58,4 @@ Denmark,26.9%,2022,15th
 Ireland,24.5%,2022,16th
 Finland,22.9%,2022,17th
 Canada,19.6%,2022,18th
-Norway,29.3%,2023,13th
-Sweden,28.4%,2023,14th
-Ireland,24.9%,2023,15th
-Italy,22.0%,2023,16th
-Slovenia,20.7%,2023,17th
-Switzerland,20.6%,2023,18th
-Canada,17.1%,2023,19th
-Czechia,15.5%,2023,20th
-Estonia,14.9%,2023,21st
-United States,12.8%,2023,22nd
-Luxembourg,10.8%,2023,23rd
-United Kingdom,10.0%,2023,24th
 Spain,19.4%,2022,19th
-Luxembourg,16.3%,2022,20th
-Italy,14.8%,2022,21st
-Slovenia,13.3%,2022,22nd
-United States,10.3%,2022,23rd
-Czechia,6.4%,2022,24th
-Slovak Republic,5.1%,2022,25th
-Lithuania,3.5%,2022,26th
-Poland,3.0%,2022,27th
-Portugal,2.5%,2022,28th
-Estonia,2.2%,2022,29th
-Hungary,0.1%,2022,30th
-Australia,47.4%,2023,7th
-Iceland,43.3%,2023,8th
-Austria,33.5%,2023,9th
-Belgium,33.1%,2023,10th
-Finland,31.7%,2023,11th
-Denmark,31.1%,2023,12th
-Korea,65.4%,2023,1st
-Netherlands,64.9%,2023,2nd
-Japan,61.8%,2023,3rd
-New Zealand,58.0%,2023,4th
-France,56.1%,2023,5th
-Germany,50.9%,2023,6th

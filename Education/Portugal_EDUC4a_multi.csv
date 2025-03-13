@@ -1,5 +1,5 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
-2019,ADF,0.99,0.01%,african development fund,Portugal
+2019,ADF,0.99,1.0%,african development fund,Portugal
 2021,ADF,0.07,0.0%,african development fund,Portugal
 2022,ADF,0.18,0.0%,african development fund,Portugal
 2023,ADF,0.03,0.0%,african development fund,Portugal
@@ -8,25 +8,25 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,AfDB,0.01,0.0%,african development bank,Portugal
 2022,AfDB,0.01,0.0%,african development bank,Portugal
 2023,AfDB,0.05,0.0%,african development bank,Portugal
-2019,EC-DSB,13.58,0.15%,european commission development share of budget,Portugal
-2020,EC-DSB,14.86,0.18%,european commission development share of budget,Portugal
-2021,EC-DSB,16.42,0.18%,european commission development share of budget,Portugal
-2022,EC-DSB,19.21,0.22%,european commission development share of budget,Portugal
-2023,EC-DSB,19.77,0.22%,european commission development share of budget,Portugal
-2019,EC-EDF,3.59,0.04%,european commission european development fund,Portugal
-2020,EC-EDF,3.72,0.04%,european commission european development fund,Portugal
-2021,EC-EDF,1.97,0.02%,european commission european development fund,Portugal
-2022,EC-EDF,0.89,0.01%,european commission european development fund,Portugal
+2019,EC-DSB,13.58,15.0%,european commission development share of budget,Portugal
+2020,EC-DSB,14.86,18.0%,european commission development share of budget,Portugal
+2021,EC-DSB,16.42,18.0%,european commission development share of budget,Portugal
+2022,EC-DSB,19.21,22.0%,european commission development share of budget,Portugal
+2023,EC-DSB,19.77,22.0%,european commission development share of budget,Portugal
+2019,EC-EDF,3.59,4.0%,european commission european development fund,Portugal
+2020,EC-EDF,3.72,4.0%,european commission european development fund,Portugal
+2021,EC-EDF,1.97,2.0%,european commission european development fund,Portugal
+2022,EC-EDF,0.89,1.0%,european commission european development fund,Portugal
 2023,EC-EDF,0.18,0.0%,european commission european development fund,Portugal
 2019,FAO,0.01,0.0%,food and agricultural organisation,Portugal
 2020,FAO,0.0,0.0%,food and agricultural organisation,Portugal
 2021,FAO,0.0,0.0%,food and agricultural organisation,Portugal
 2022,FAO,0.0,0.0%,food and agricultural organisation,Portugal
 2023,FAO,0.0,0.0%,food and agricultural organisation,Portugal
-2019,IDA,1.15,0.01%,international development association,Portugal
+2019,IDA,1.15,1.0%,international development association,Portugal
 2020,IDA,0.34,0.0%,international development association,Portugal
 2021,IDA,0.23,0.0%,international development association,Portugal
-2022,IDA,0.82,0.01%,international development association,Portugal
+2022,IDA,0.82,1.0%,international development association,Portugal
 2023,IDA,0.03,0.0%,international development association,Portugal
 2019,IDB-IIC-MIF,0.02,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Portugal
 2020,IDB-IIC-MIF,0.01,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Portugal
@@ -48,7 +48,7 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2020,UNRWA,0.05,0.0%,united nations relief and works agency for palestine refugees in the near east,Portugal
 2021,UNRWA,0.06,0.0%,united nations relief and works agency for palestine refugees in the near east,Portugal
 2022,UNRWA,0.07,0.0%,united nations relief and works agency for palestine refugees in the near east,Portugal
-2023,UNRWA,2.34,0.03%,united nations relief and works agency for palestine refugees in the near east,Portugal
+2023,UNRWA,2.34,3.0%,united nations relief and works agency for palestine refugees in the near east,Portugal
 2019,WFP,0.0,0.0%,world food programme,Portugal
 2019,,0.0,0.0%,united nations children’s fund,Portugal
 2020,,0.0,0.0%,united nations children’s fund,Portugal

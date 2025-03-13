@@ -4,10 +4,10 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,ADB,0.9,0.0%,asian development bank,Canada
 2022,ADB,0.83,0.0%,asian development bank,Canada
 2023,ADB,0.94,0.0%,asian development bank,Canada
-2019,ADF,4.43,0.01%,african development fund,Canada
-2020,ADF,3.39,0.01%,african development fund,Canada
-2021,ADF,2.25,0.01%,african development fund,Canada
-2022,ADF,3.71,0.01%,african development fund,Canada
+2019,ADF,4.43,1.0%,african development fund,Canada
+2020,ADF,3.39,1.0%,african development fund,Canada
+2021,ADF,2.25,1.0%,african development fund,Canada
+2022,ADF,3.71,1.0%,african development fund,Canada
 2023,ADF,1.22,0.0%,african development fund,Canada
 2022,AF,0.0,0.0%,adaptation fund,Canada
 2021,CDB,0.02,0.0%,caribbean development bank,Canada
@@ -18,13 +18,13 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,FAO,0.02,0.0%,food and agricultural organisation,Canada
 2022,FAO,0.0,0.0%,food and agricultural organisation,Canada
 2023,FAO,0.0,0.0%,food and agricultural organisation,Canada
-2019,IBRD,15.55,0.04%,international bank for reconstruction and development,Canada
+2019,IBRD,15.55,4.0%,international bank for reconstruction and development,Canada
 2022,IBRD,1.06,0.0%,international bank for reconstruction and development,Canada
-2019,IDA,32.94,0.08%,international development association,Canada
-2020,IDA,30.74,0.08%,international development association,Canada
-2021,IDA,27.82,0.09%,international development association,Canada
-2022,IDA,52.53,0.15%,international development association,Canada
-2023,IDA,93.28,0.21%,international development association,Canada
+2019,IDA,32.94,8.0%,international development association,Canada
+2020,IDA,30.74,8.0%,international development association,Canada
+2021,IDA,27.82,9.0%,international development association,Canada
+2022,IDA,52.53,15.0%,international development association,Canada
+2023,IDA,93.28,21.0%,international development association,Canada
 2019,IDB-FSO,0.0,0.0%,inter american development bank fund for special operations,Canada
 2020,IDB-FSO,0.0,0.0%,inter american development bank fund for special operations,Canada
 2019,IDB-IIC-MIF,0.53,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Canada
@@ -42,11 +42,11 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2021,UNFPA,0.6,0.0%,united nations population fund,Canada
 2022,UNFPA,0.64,0.0%,united nations population fund,Canada
 2023,UNFPA,0.65,0.0%,united nations population fund,Canada
-2019,UNRWA,10.09,0.03%,united nations relief and works agency for palestine refugees in the near east,Canada
-2020,UNRWA,12.9,0.03%,united nations relief and works agency for palestine refugees in the near east,Canada
-2021,UNRWA,11.95,0.04%,united nations relief and works agency for palestine refugees in the near east,Canada
-2022,UNRWA,12.87,0.04%,united nations relief and works agency for palestine refugees in the near east,Canada
-2023,UNRWA,9.98,0.02%,united nations relief and works agency for palestine refugees in the near east,Canada
+2019,UNRWA,10.09,3.0%,united nations relief and works agency for palestine refugees in the near east,Canada
+2020,UNRWA,12.9,3.0%,united nations relief and works agency for palestine refugees in the near east,Canada
+2021,UNRWA,11.95,4.0%,united nations relief and works agency for palestine refugees in the near east,Canada
+2022,UNRWA,12.87,4.0%,united nations relief and works agency for palestine refugees in the near east,Canada
+2023,UNRWA,9.98,2.0%,united nations relief and works agency for palestine refugees in the near east,Canada
 2019,WFP,0.4,0.0%,world food programme,Canada
 2019,,0.89,0.0%,united nations children’s fund,Canada
 2020,,0.95,0.0%,united nations children’s fund,Canada

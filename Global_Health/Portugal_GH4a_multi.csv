@@ -1,39 +1,39 @@
 Year,Multi_short,ODA,Share,Full Name,Donor
-2019,ADF,0.18,0.01%,african development fund,Portugal
+2019,ADF,0.18,1.0%,african development fund,Portugal
 2021,ADF,0.07,0.0%,african development fund,Portugal
-2022,ADF,0.35,0.01%,african development fund,Portugal
+2022,ADF,0.35,1.0%,african development fund,Portugal
 2023,ADF,0.04,0.0%,african development fund,Portugal
 2019,AfDB,0.01,0.0%,african development bank,Portugal
 2021,AfDB,0.0,0.0%,african development bank,Portugal
 2022,AfDB,0.0,0.0%,african development bank,Portugal
 2023,AfDB,0.01,0.0%,african development bank,Portugal
-2019,EC-DSB,4.35,0.16%,european commission development share of budget,Portugal
-2020,EC-DSB,4.84,0.2%,european commission development share of budget,Portugal
-2021,EC-DSB,11.47,0.2%,european commission development share of budget,Portugal
-2022,EC-DSB,18.84,0.36%,european commission development share of budget,Portugal
-2023,EC-DSB,21.04,0.55%,european commission development share of budget,Portugal
-2019,EC-EDF,5.24,0.19%,european commission european development fund,Portugal
-2020,EC-EDF,4.8,0.2%,european commission european development fund,Portugal
-2021,EC-EDF,3.24,0.06%,european commission european development fund,Portugal
-2022,EC-EDF,1.17,0.02%,european commission european development fund,Portugal
-2023,EC-EDF,0.27,0.01%,european commission european development fund,Portugal
-2019,FAO,0.25,0.01%,food and agricultural organisation,Portugal
+2019,EC-DSB,4.35,16.0%,european commission development share of budget,Portugal
+2020,EC-DSB,4.84,20.0%,european commission development share of budget,Portugal
+2021,EC-DSB,11.47,20.0%,european commission development share of budget,Portugal
+2022,EC-DSB,18.84,36.0%,european commission development share of budget,Portugal
+2023,EC-DSB,21.04,55.00000000000001%,european commission development share of budget,Portugal
+2019,EC-EDF,5.24,19.0%,european commission european development fund,Portugal
+2020,EC-EDF,4.8,20.0%,european commission european development fund,Portugal
+2021,EC-EDF,3.24,6.0%,european commission european development fund,Portugal
+2022,EC-EDF,1.17,2.0%,european commission european development fund,Portugal
+2023,EC-EDF,0.27,1.0%,european commission european development fund,Portugal
+2019,FAO,0.25,1.0%,food and agricultural organisation,Portugal
 2020,FAO,0.07,0.0%,food and agricultural organisation,Portugal
 2021,FAO,0.07,0.0%,food and agricultural organisation,Portugal
 2022,FAO,0.06,0.0%,food and agricultural organisation,Portugal
 2023,FAO,0.07,0.0%,food and agricultural organisation,Portugal
-2021,GAVI,1.08,0.02%,global alliance for vaccines and immunization,Portugal
+2021,GAVI,1.08,2.0%,global alliance for vaccines and immunization,Portugal
 2022,GAVI,0.17,0.0%,global alliance for vaccines and immunization,Portugal
 2023,GAVI,0.15,0.0%,global alliance for vaccines and immunization,Portugal
-2019,GFATM,0.35,0.01%,global fund to fight aids tuberculosis and malaria,Portugal
-2020,GFATM,0.19,0.01%,global fund to fight aids tuberculosis and malaria,Portugal
-2021,GFATM,0.57,0.01%,global fund to fight aids tuberculosis and malaria,Portugal
-2022,GFATM,0.31,0.01%,global fund to fight aids tuberculosis and malaria,Portugal
-2023,GFATM,0.75,0.02%,global fund to fight aids tuberculosis and malaria,Portugal
-2019,IDA,1.26,0.05%,international development association,Portugal
-2020,IDA,0.43,0.02%,international development association,Portugal
-2021,IDA,0.31,0.01%,international development association,Portugal
-2022,IDA,1.16,0.02%,international development association,Portugal
+2019,GFATM,0.35,1.0%,global fund to fight aids tuberculosis and malaria,Portugal
+2020,GFATM,0.19,1.0%,global fund to fight aids tuberculosis and malaria,Portugal
+2021,GFATM,0.57,1.0%,global fund to fight aids tuberculosis and malaria,Portugal
+2022,GFATM,0.31,1.0%,global fund to fight aids tuberculosis and malaria,Portugal
+2023,GFATM,0.75,2.0%,global fund to fight aids tuberculosis and malaria,Portugal
+2019,IDA,1.26,5.0%,international development association,Portugal
+2020,IDA,0.43,2.0%,international development association,Portugal
+2021,IDA,0.31,1.0%,international development association,Portugal
+2022,IDA,1.16,2.0%,international development association,Portugal
 2023,IDA,0.03,0.0%,international development association,Portugal
 2019,IDB-IIC-MIF,0.02,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Portugal
 2020,IDB-IIC-MIF,0.02,0.0%,inter american development bank inter american investment corporation and multilateral investment fund,Portugal
@@ -58,24 +58,24 @@ Year,Multi_short,ODA,Share,Full Name,Donor
 2020,UNFPA,0.06,0.0%,united nations population fund,Portugal
 2021,UNFPA,0.08,0.0%,united nations population fund,Portugal
 2022,UNFPA,0.15,0.0%,united nations population fund,Portugal
-2023,UNFPA,0.35,0.01%,united nations population fund,Portugal
+2023,UNFPA,0.35,1.0%,united nations population fund,Portugal
 2019,UNRWA,0.02,0.0%,united nations relief and works agency for palestine refugees in the near east,Portugal
 2020,UNRWA,0.01,0.0%,united nations relief and works agency for palestine refugees in the near east,Portugal
 2021,UNRWA,0.02,0.0%,united nations relief and works agency for palestine refugees in the near east,Portugal
 2022,UNRWA,0.02,0.0%,united nations relief and works agency for palestine refugees in the near east,Portugal
-2023,UNRWA,0.63,0.02%,united nations relief and works agency for palestine refugees in the near east,Portugal
+2023,UNRWA,0.63,2.0%,united nations relief and works agency for palestine refugees in the near east,Portugal
 2019,WFP,0.0,0.0%,world food programme,Portugal
 2020,WFP,0.0,0.0%,world food programme,Portugal
 2021,WFP,0.0,0.0%,world food programme,Portugal
 2022,WFP,0.0,0.0%,world food programme,Portugal
 2023,WFP,0.0,0.0%,world food programme,Portugal
-2019,WHO-AC,1.42,0.05%,world health organisation assessed contributions,Portugal
-2020,WHO-AC,1.18,0.05%,world health organisation assessed contributions,Portugal
-2021,WHO-AC,1.06,0.02%,world health organisation assessed contributions,Portugal
-2022,WHO-AC,1.1,0.02%,world health organisation assessed contributions,Portugal
+2019,WHO-AC,1.42,5.0%,world health organisation assessed contributions,Portugal
+2020,WHO-AC,1.18,5.0%,world health organisation assessed contributions,Portugal
+2021,WHO-AC,1.06,2.0%,world health organisation assessed contributions,Portugal
+2022,WHO-AC,1.1,2.0%,world health organisation assessed contributions,Portugal
 2021,WHO-CVCA,0.05,0.0%,world health organisation core voluntary contributions account,Portugal
 2022,WHO-CVCA,0.09,0.0%,world health organisation core voluntary contributions account,Portugal
-2023,WHO-CVCA,1.63,0.04%,world health organisation core voluntary contributions account,Portugal
+2023,WHO-CVCA,1.63,4.0%,world health organisation core voluntary contributions account,Portugal
 2021,WHO-SPRP,0.23,0.0%,world health organisation strategic preparedness and response plan,Portugal
 2023,WHO-SPRP,0.03,0.0%,world health organisation strategic preparedness and response plan,Portugal
 2019,,0.01,0.0%,united nations children’s fund,Portugal
