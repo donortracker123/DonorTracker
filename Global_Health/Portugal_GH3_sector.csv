@@ -10,17 +10,17 @@ year,Sub-Sector,Bilateral ODA for,Share,Donor
 2023,Reproductive health care,0.11,0.9%,Portugal
 2023,Promotion of mental health and well-being,0.07,0.5%,Portugal
 2023,Medical research,0.04,0.3%,Portugal
-2023,Health personnel development,0.03,0.2%,Portugal
 2023,Control of harmful use of alcohol and drugs,0.03,0.2%,Portugal
+2023,Health personnel development,0.03,0.2%,Portugal
 2022,COVID-19 control,20.33,68.9%,Portugal
 2022,Medical services,7.02,23.8%,Portugal
 2022,Basic health care,1.22,4.1%,Portugal
 2022,Health policy and administrative management,0.31,1.0%,Portugal
 2022,Basic nutrition,0.15,0.5%,Portugal
 2022,Medical education/training,0.11,0.4%,Portugal
-2022,Control of harmful use of alcohol and drugs,0.09,0.3%,Portugal
-2022,Family planning,0.09,0.3%,Portugal
 2022,Reproductive health care,0.09,0.3%,Portugal
+2022,Family planning,0.09,0.3%,Portugal
+2022,Control of harmful use of alcohol and drugs,0.09,0.3%,Portugal
 2022,Medical research,0.07,0.2%,Portugal
 2022,Health personnel development,0.02,0.1%,Portugal
 2022,Population policy and administrative management,0.01,0.0%,Portugal
@@ -28,8 +28,8 @@ year,Sub-Sector,Bilateral ODA for,Share,Donor
 2021,Medical services,4.16,10.7%,Portugal
 2021,Basic health care,1.63,4.2%,Portugal
 2021,Basic nutrition,0.26,0.7%,Portugal
-2021,Medical education/training,0.22,0.6%,Portugal
 2021,Health policy and administrative management,0.22,0.6%,Portugal
+2021,Medical education/training,0.22,0.6%,Portugal
 2021,Medical research,0.17,0.4%,Portugal
 2021,Reproductive health care,0.1,0.3%,Portugal
 2021,Infectious disease control,0.06,0.2%,Portugal
@@ -45,8 +45,8 @@ year,Sub-Sector,Bilateral ODA for,Share,Donor
 2020,Health policy and administrative management,0.11,0.9%,Portugal
 2020,Health education,0.09,0.7%,Portugal
 2020,Control of harmful use of alcohol and drugs,0.06,0.5%,Portugal
-2020,Medical research,0.01,0.1%,Portugal
 2020,Medical education/training,0.01,0.1%,Portugal
+2020,Medical research,0.01,0.1%,Portugal
 2019,Medical services,11.0,80.7%,Portugal
 2019,Basic health care,1.32,9.7%,Portugal
 2019,Reproductive health care,0.75,5.5%,Portugal
