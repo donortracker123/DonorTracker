@@ -74,5 +74,4 @@ SELECT
     round( 100 * coalesce("Bilateral funding", 0) / "Total ODA")::INT || '%'  AS "Bilateral",
     round( 100 * coalesce("Multilateral as core contributions to organizations", 0) / "Total ODA")::INT || '%' AS "Multilateral"
 FROM deflated
-WHERE donor = 'Germany'
 ORDER BY "Year"

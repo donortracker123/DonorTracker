@@ -6,7 +6,7 @@ WITH base AS (
         purposecode,
         usd_commitment_defl
     FROM read_csv_auto("{{climate_riomarkers_file}}", delim='|', header=True)
-    WHERE "Year" = ({{latest_year}})
+    WHERE "Year" BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
     AND donor_name IN {{dac_countries}}
     AND donor_name != 'EU Institutions'
     AND "Markers" = 20
@@ -27,9 +27,10 @@ rio_totals AS (
 )
 
 SELECT 
+    year,
     sector_renamed AS Sector,
     round(bilateral_oda,2) AS "Climate-related ODA to",
     round(100 * (bilateral_oda / allocable_oda), 1) || '%' AS "Share",
     donor_name AS donor,
 FROM rio_totals
-ORDER BY 4, 2 DESC
+ORDER BY donor, year, "Climate-related ODA to" DESC

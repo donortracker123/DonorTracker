@@ -23,4 +23,5 @@ SELECT
     b.donor_name AS donor,
 FROM base b
 LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor_name AND dfl.year = {{latest_year}}
+WHERE region_name IS NOT NULL
 ORDER BY donor_name, year DESC, "Bilateral ODA" DESC
