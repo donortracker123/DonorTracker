@@ -14,9 +14,9 @@ Year,Multi_short,ODA,Share,full name,Donor
 2019,CGIAR ,3.96,0.01%,CGIAR Fund,New Zealand
 2019,United Nations Office of Co-ordination of Humanitarian Affairs ,3.6,0.01%,United Nations Office of Co-ordination of Humanitarian Affairs ,New Zealand
 2019,UNRWA,2.88,0.01%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,New Zealand
-2019,United Nations Mine Action Service ,2.16,0.0%,United Nations Mine Action Service ,New Zealand
-2019,CERF,2.16,0.0%,Central Emergency Response Fund,New Zealand
 2019,AF,2.16,0.0%,Adaptation Fund,New Zealand
+2019,CERF,2.16,0.0%,Central Emergency Response Fund,New Zealand
+2019,United Nations Mine Action Service ,2.16,0.0%,United Nations Mine Action Service ,New Zealand
 2019,FAO,2.0,0.0%,Food and Agricultural Organisation,New Zealand
 2019,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),1.9,0.0%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),New Zealand
 2019,United Nations Entity for Gender Equality and the Empowerment of Women,1.8,0.0%,United Nations Entity for Gender Equality and the Empowerment of Women,New Zealand
@@ -25,8 +25,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2019,GEF-TF,1.44,0.0%,Global Environment Facility Trust Fund,New Zealand
 2019,World Health Organisation - assessed contributions,1.15,0.0%,World Health Organisation - assessed contributions,New Zealand
 2019,Pacific Regional Environment Programme ,1.11,0.0%,Pacific Regional Environment Programme ,New Zealand
-2019,IFAD,1.08,0.0%,International Fund for Agricultural Development ,New Zealand
 2019,Commonwealth Secretariat (ODA-eligible contributions only),1.08,0.0%,Commonwealth Secretariat (ODA-eligible contributions only),New Zealand
+2019,IFAD,1.08,0.0%,International Fund for Agricultural Development ,New Zealand
 2019,"United Nations Educational, Scientific and Cultural Organisation",0.9,0.0%,"United Nations Educational, Scientific and Cultural Organisation",New Zealand
 2019,International Labour Organisation - Assessed Contributions,0.74,0.0%,International Labour Organisation - Assessed Contributions,New Zealand
 2019,Commonwealth of Learning ,0.73,0.0%,Commonwealth of Learning ,New Zealand
@@ -50,10 +50,10 @@ Year,Multi_short,ODA,Share,full name,Donor
 2020,UN,5.35,0.01%,United Nations,New Zealand
 2020,GAVI,4.94,0.01%,Global Alliance for Vaccines and Immunization ,New Zealand
 2020,ADB,4.27,0.01%,Asian Development Bank,New Zealand
-2020,UNFPA,4.24,0.01%,United Nations Population Fund ,New Zealand
-2020,UNICEF,4.24,0.01%,United Nations Children's Fund ,New Zealand
 2020,United Nations Office of the High Commissioner for Refugees,4.24,0.01%,United Nations Office of the High Commissioner for Refugees,New Zealand
 2020,WFP,4.24,0.01%,World Food Programme ,New Zealand
+2020,UNFPA,4.24,0.01%,United Nations Population Fund ,New Zealand
+2020,UNICEF,4.24,0.01%,United Nations Children's Fund ,New Zealand
 2020,CERF,3.88,0.01%,Central Emergency Response Fund,New Zealand
 2020,United Nations Office of Co-ordination of Humanitarian Affairs ,3.53,0.01%,United Nations Office of Co-ordination of Humanitarian Affairs ,New Zealand
 2020,International Development Association - Multilateral Debt Relief Initiative,3.53,0.01%,International Development Association - Multilateral Debt Relief Initiative,New Zealand
@@ -71,10 +71,10 @@ Year,Multi_short,ODA,Share,full name,Donor
 2020,IFAD,1.06,0.0%,International Fund for Agricultural Development ,New Zealand
 2020,"United Nations Educational, Scientific and Cultural Organisation",0.88,0.0%,"United Nations Educational, Scientific and Cultural Organisation",New Zealand
 2020,International Labour Organisation - Assessed Contributions,0.75,0.0%,International Labour Organisation - Assessed Contributions,New Zealand
+2020,Mekong River Commission ,0.71,0.0%,Mekong River Commission ,New Zealand
+2020,Commonwealth of Learning ,0.71,0.0%,Commonwealth of Learning ,New Zealand
 2020,Joint United Nations Programme on HIV/AIDS ,0.71,0.0%,Joint United Nations Programme on HIV/AIDS ,New Zealand
 2020,UNRWA,0.71,0.0%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,New Zealand
-2020,Commonwealth of Learning ,0.71,0.0%,Commonwealth of Learning ,New Zealand
-2020,Mekong River Commission ,0.71,0.0%,Mekong River Commission ,New Zealand
 2020,MLF-MP,0.66,0.0%,Multilateral Fund for the Implementation of the Montreal Protocol ,New Zealand
 2020,International Atomic Energy Agency - assessed contributions,0.43,0.0%,International Atomic Energy Agency - assessed contributions,New Zealand
 2020,UNEP,0.39,0.0%,United Nations Environment Programme ,New Zealand
@@ -93,18 +93,18 @@ Year,Multi_short,ODA,Share,full name,Donor
 2021,WFP,6.17,0.01%,World Food Programme ,New Zealand
 2021,UN,5.62,0.01%,United Nations,New Zealand
 2021,ADB,4.14,0.01%,Asian Development Bank,New Zealand
+2021,UNICEF,4.11,0.01%,United Nations Children's Fund ,New Zealand
 2021,UNFPA,4.11,0.01%,United Nations Population Fund ,New Zealand
 2021,United Nations Office of the High Commissioner for Refugees,4.11,0.01%,United Nations Office of the High Commissioner for Refugees,New Zealand
-2021,UNICEF,4.11,0.01%,United Nations Children's Fund ,New Zealand
 2021,United Nations Office of Co-ordination of Humanitarian Affairs ,3.43,0.01%,United Nations Office of Co-ordination of Humanitarian Affairs ,New Zealand
 2021,UNDP,3.43,0.01%,United Nations Development Programme ,New Zealand
 2021,Pacific Islands Forum Secretariat ,2.99,0.01%,Pacific Islands Forum Secretariat ,New Zealand
 2021,"United Nations Educational, Scientific and Cultural Organisation",2.57,0.0%,"United Nations Educational, Scientific and Cultural Organisation",New Zealand
 2021,Forum Fisheries Agency ,2.47,0.0%,Forum Fisheries Agency ,New Zealand
 2021,CGIAR ,2.4,0.0%,CGIAR Fund,New Zealand
-2021,United Nations Peacebuilding Fund,2.06,0.0%,United Nations Peacebuilding Fund,New Zealand
 2021,Commonwealth Secretariat (ODA-eligible contributions only),2.06,0.0%,Commonwealth Secretariat (ODA-eligible contributions only),New Zealand
 2021,CERF,2.06,0.0%,Central Emergency Response Fund,New Zealand
+2021,United Nations Peacebuilding Fund,2.06,0.0%,United Nations Peacebuilding Fund,New Zealand
 2021,FAO,2.01,0.0%,Food and Agricultural Organisation,New Zealand
 2021,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),1.81,0.0%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),New Zealand
 2021,United Nations Entity for Gender Equality and the Empowerment of Women,1.71,0.0%,United Nations Entity for Gender Equality and the Empowerment of Women,New Zealand
@@ -112,13 +112,13 @@ Year,Multi_short,ODA,Share,full name,Donor
 2021,GEF-TF,1.37,0.0%,Global Environment Facility Trust Fund,New Zealand
 2021,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",1.23,0.0%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",New Zealand
 2021,World Health Organisation - assessed contributions,1.16,0.0%,World Health Organisation - assessed contributions,New Zealand
+2021,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",1.03,0.0%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",New Zealand
 2021,IFAD,1.03,0.0%,International Fund for Agricultural Development ,New Zealand
 2021,United Nations Mine Action Service ,1.03,0.0%,United Nations Mine Action Service ,New Zealand
-2021,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",1.03,0.0%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",New Zealand
 2021,International Labour Organisation - Assessed Contributions,0.72,0.0%,International Labour Organisation - Assessed Contributions,New Zealand
-2021,UNRWA,0.69,0.0%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,New Zealand
 2021,Joint United Nations Programme on HIV/AIDS ,0.69,0.0%,Joint United Nations Programme on HIV/AIDS ,New Zealand
 2021,Mekong River Commission ,0.69,0.0%,Mekong River Commission ,New Zealand
+2021,UNRWA,0.69,0.0%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,New Zealand
 2021,MLF-MP,0.66,0.0%,Multilateral Fund for the Implementation of the Montreal Protocol ,New Zealand
 2021,International Atomic Energy Agency - assessed contributions,0.42,0.0%,International Atomic Energy Agency - assessed contributions,New Zealand
 2021,UNEP,0.39,0.0%,United Nations Environment Programme ,New Zealand
@@ -126,8 +126,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2021,Commonwealth Foundation ,0.13,0.0%,Commonwealth Foundation ,New Zealand
 2021,International Telecommunications Union,0.12,0.0%,International Telecommunications Union,New Zealand
 2021,CITES,0.08,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,New Zealand
-2021,Secretariat of the Pacific Community ,0.01,0.0%,Secretariat of the Pacific Community ,New Zealand
 2021,International Renewable Energy Agency,0.01,0.0%,International Renewable Energy Agency,New Zealand
+2021,Secretariat of the Pacific Community ,0.01,0.0%,Secretariat of the Pacific Community ,New Zealand
 2021,Commonwealth of Learning ,0.0,0.0%,Commonwealth of Learning ,New Zealand
 2021,Convention to Combat Desertification ,0.0,0.0%,Convention to Combat Desertification ,New Zealand
 2022,Secretariat of the Pacific Community ,11.64,0.02%,Secretariat of the Pacific Community ,New Zealand
@@ -136,20 +136,20 @@ Year,Multi_short,ODA,Share,full name,Donor
 2022,IBRD,6.76,0.01%,International Bank for Reconstruction and Development ,New Zealand
 2022,UN,4.56,0.01%,United Nations,New Zealand
 2022,ADB,3.93,0.01%,Asian Development Bank,New Zealand
-2022,UNICEF,3.9,0.01%,United Nations Children's Fund ,New Zealand
 2022,United Nations Office of the High Commissioner for Refugees,3.9,0.01%,United Nations Office of the High Commissioner for Refugees,New Zealand
+2022,UNICEF,3.9,0.01%,United Nations Children's Fund ,New Zealand
 2022,UNFPA,3.9,0.01%,United Nations Population Fund ,New Zealand
 2022,WFP,3.9,0.01%,World Food Programme ,New Zealand
 2022,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",3.8,0.01%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",New Zealand
 2022,United Nations Office of Co-ordination of Humanitarian Affairs ,3.25,0.01%,United Nations Office of Co-ordination of Humanitarian Affairs ,New Zealand
 2022,Pacific Islands Forum Secretariat ,2.83,0.01%,Pacific Islands Forum Secretariat ,New Zealand
-2022,Commonwealth Secretariat (ODA-eligible contributions only),2.44,0.0%,Commonwealth Secretariat (ODA-eligible contributions only),New Zealand
 2022,"United Nations Educational, Scientific and Cultural Organisation",2.44,0.0%,"United Nations Educational, Scientific and Cultural Organisation",New Zealand
+2022,Commonwealth Secretariat (ODA-eligible contributions only),2.44,0.0%,Commonwealth Secretariat (ODA-eligible contributions only),New Zealand
 2022,Forum Fisheries Agency ,2.34,0.0%,Forum Fisheries Agency ,New Zealand
 2022,CGIAR ,2.27,0.0%,CGIAR Fund,New Zealand
+2022,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),1.95,0.0%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),New Zealand
 2022,United Nations Peacebuilding Fund,1.95,0.0%,United Nations Peacebuilding Fund,New Zealand
 2022,CERF,1.95,0.0%,Central Emergency Response Fund,New Zealand
-2022,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),1.95,0.0%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),New Zealand
 2022,FAO,1.91,0.0%,Food and Agricultural Organisation,New Zealand
 2022,International Development Association - Multilateral Debt Relief Initiative,1.88,0.0%,International Development Association - Multilateral Debt Relief Initiative,New Zealand
 2022,United Nations Entity for Gender Equality and the Empowerment of Women,1.62,0.0%,United Nations Entity for Gender Equality and the Empowerment of Women,New Zealand
@@ -158,11 +158,11 @@ Year,Multi_short,ODA,Share,full name,Donor
 2022,United Nations Mine Action Service ,0.97,0.0%,United Nations Mine Action Service ,New Zealand
 2022,IFAD,0.97,0.0%,International Fund for Agricultural Development ,New Zealand
 2022,International Labour Organisation - Assessed Contributions,0.72,0.0%,International Labour Organisation - Assessed Contributions,New Zealand
+2022,Mekong River Commission ,0.65,0.0%,Mekong River Commission ,New Zealand
+2022,UNRWA,0.65,0.0%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,New Zealand
 2022,Joint United Nations Programme on HIV/AIDS ,0.65,0.0%,Joint United Nations Programme on HIV/AIDS ,New Zealand
 2022,UNDCO,0.65,0.0%,United Nations Development Coordination Office,New Zealand
 2022,Commonwealth of Learning ,0.65,0.0%,Commonwealth of Learning ,New Zealand
-2022,Mekong River Commission ,0.65,0.0%,Mekong River Commission ,New Zealand
-2022,UNRWA,0.65,0.0%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,New Zealand
 2022,MLF-MP,0.6,0.0%,Multilateral Fund for the Implementation of the Montreal Protocol ,New Zealand
 2022,International Atomic Energy Agency - assessed contributions,0.52,0.0%,International Atomic Energy Agency - assessed contributions,New Zealand
 2022,UNEP,0.35,0.0%,United Nations Environment Programme ,New Zealand
@@ -183,10 +183,10 @@ Year,Multi_short,ODA,Share,full name,Donor
 2023,UN,4.47,0.01%,United Nations,New Zealand
 2023,ADB,3.71,0.01%,Asian Development Bank,New Zealand
 2023,International Development Association - Multilateral Debt Relief Initiative,3.69,0.01%,International Development Association - Multilateral Debt Relief Initiative,New Zealand
-2023,United Nations Office of the High Commissioner for Refugees,3.68,0.01%,United Nations Office of the High Commissioner for Refugees,New Zealand
-2023,WFP,3.68,0.01%,World Food Programme ,New Zealand
 2023,UNICEF,3.68,0.01%,United Nations Children's Fund ,New Zealand
 2023,UNFPA,3.68,0.01%,United Nations Population Fund ,New Zealand
+2023,United Nations Office of the High Commissioner for Refugees,3.68,0.01%,United Nations Office of the High Commissioner for Refugees,New Zealand
+2023,WFP,3.68,0.01%,World Food Programme ,New Zealand
 2023,United Nations Office of Co-ordination of Humanitarian Affairs ,3.07,0.01%,United Nations Office of Co-ordination of Humanitarian Affairs ,New Zealand
 2023,Pacific Islands Forum Secretariat ,2.68,0.0%,Pacific Islands Forum Secretariat ,New Zealand
 2023,"United Nations Educational, Scientific and Cultural Organisation",2.58,0.0%,"United Nations Educational, Scientific and Cultural Organisation",New Zealand
@@ -203,13 +203,13 @@ Year,Multi_short,ODA,Share,full name,Donor
 2023,World Health Organisation - assessed contributions,1.27,0.0%,World Health Organisation - assessed contributions,New Zealand
 2023,International Labour Organisation - Assessed Contributions,1.05,0.0%,International Labour Organisation - Assessed Contributions,New Zealand
 2023,MLF-MP,1.05,0.0%,Multilateral Fund for the Implementation of the Montreal Protocol ,New Zealand
-2023,IFAD,0.92,0.0%,International Fund for Agricultural Development ,New Zealand
 2023,United Nations Mine Action Service ,0.92,0.0%,United Nations Mine Action Service ,New Zealand
-2023,Commonwealth of Learning ,0.61,0.0%,Commonwealth of Learning ,New Zealand
+2023,IFAD,0.92,0.0%,International Fund for Agricultural Development ,New Zealand
 2023,Mekong River Commission ,0.61,0.0%,Mekong River Commission ,New Zealand
+2023,UNDCO,0.61,0.0%,United Nations Development Coordination Office,New Zealand
+2023,Commonwealth of Learning ,0.61,0.0%,Commonwealth of Learning ,New Zealand
 2023,UNRWA,0.61,0.0%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,New Zealand
 2023,Joint United Nations Programme on HIV/AIDS ,0.61,0.0%,Joint United Nations Programme on HIV/AIDS ,New Zealand
-2023,UNDCO,0.61,0.0%,United Nations Development Coordination Office,New Zealand
 2023,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",0.49,0.0%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",New Zealand
 2023,International Atomic Energy Agency - assessed contributions,0.37,0.0%,International Atomic Energy Agency - assessed contributions,New Zealand
 2023,Commonwealth Foundation ,0.13,0.0%,Commonwealth Foundation ,New Zealand

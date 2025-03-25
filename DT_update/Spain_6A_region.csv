@@ -42,14 +42,14 @@ Year,Multi_short,ODA,Share,full name,Donor
 2019,United Nations Office of the High Commissioner for Refugees,0.34,0.0%,United Nations Office of the High Commissioner for Refugees,Spain
 2019,Convention to Combat Desertification ,0.27,0.0%,Convention to Combat Desertification ,Spain
 2019,United Nations Research Institute for Social Development ,0.25,0.0%,United Nations Research Institute for Social Development ,Spain
-2019,Intergovernmental Panel on Climate Change ,0.12,0.0%,Intergovernmental Panel on Climate Change ,Spain
 2019,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),0.12,0.0%,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),Spain
+2019,Intergovernmental Panel on Climate Change ,0.12,0.0%,Intergovernmental Panel on Climate Change ,Spain
 2019,"Other multilateral institutions, Other",0.09,0.0%,"Other multilateral institutions, Other",Spain
 2019,World Intellectual Property Organisation ,0.01,0.0%,World Intellectual Property Organisation ,Spain
 2019,CEB,0.01,0.0%,Council of Europe Development Bank,Spain
 2019,UNEP,0.0,0.0%,United Nations Environment Programme ,Spain
-2019,UNRWA,0.0,0.0%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Spain
 2019,UNIDIR,0.0,0.0%,United Nations Institute for Disarmament Research,Spain
+2019,UNRWA,0.0,0.0%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Spain
 2020,European Commission - Development Share of Budget,1031.46,2.0%,European Commission - Development Share of Budget,Spain
 2020,European Commission - European Development Fund,424.15,0.82%,European Commission - European Development Fund,Spain
 2020,IDA,254.11,0.49%,International Development Association ,Spain
@@ -71,8 +71,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2020,Council of Europe,7.27,0.01%,Council of Europe,Spain
 2020,"World Bank Group (WB), Other",7.07,0.01%,"World Bank Group (WB), Other",Spain
 2020,MLF-MP,6.96,0.01%,Multilateral Fund for the Implementation of the Montreal Protocol ,Spain
-2020,"United Nations (UN) agency, fund or commission, Other",6.1,0.01%,"United Nations (UN) agency, fund or commission, Other",Spain
 2020,UNRWA,6.1,0.01%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Spain
+2020,"United Nations (UN) agency, fund or commission, Other",6.1,0.01%,"United Nations (UN) agency, fund or commission, Other",Spain
 2020,Organization for Security and Co-operation in Europe,6.03,0.01%,Organization for Security and Co-operation in Europe,Spain
 2020,International Labour Organisation - Assessed Contributions,5.89,0.01%,International Labour Organisation - Assessed Contributions,Spain
 2020,"International Monetary Fund - Poverty Reduction and Growth - Heavily Indebted Poor Countries Debt Relief Initiative Trust Fund [includes HIPC, Extended Credit Facility (ECF), and ECF-HIPC sub-accounts] ",4.97,0.01%,"International Monetary Fund - Poverty Reduction and Growth - Heavily Indebted Poor Countries Debt Relief Initiative Trust Fund [includes HIPC, Extended Credit Facility (ECF), and ECF-HIPC sub-accounts] ",Spain
@@ -100,9 +100,9 @@ Year,Multi_short,ODA,Share,full name,Donor
 2020,Universal Postal Union ,0.1,0.0%,Universal Postal Union ,Spain
 2020,World Meteorological Organisation ,0.07,0.0%,World Meteorological Organisation ,Spain
 2020,International Institute for Democracy and Electoral Assistance ,0.03,0.0%,International Institute for Democracy and Electoral Assistance ,Spain
-2020,World Intellectual Property Organisation ,0.02,0.0%,World Intellectual Property Organisation ,Spain
 2020,UNIDIR,0.02,0.0%,United Nations Institute for Disarmament Research,Spain
 2020,CEB,0.02,0.0%,Council of Europe Development Bank,Spain
+2020,World Intellectual Property Organisation ,0.02,0.0%,World Intellectual Property Organisation ,Spain
 2021,European Commission - Development Share of Budget,1160.71,2.06%,European Commission - Development Share of Budget,Spain
 2021,European Commission - European Development Fund,337.33,0.6%,European Commission - European Development Fund,Spain
 2021,IDA,136.62,0.24%,International Development Association ,Spain
@@ -207,8 +207,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2022,UNIDIR,0.05,0.0%,United Nations Institute for Disarmament Research,Spain
 2022,International Institute for Democracy and Electoral Assistance ,0.03,0.0%,International Institute for Democracy and Electoral Assistance ,Spain
 2022,World Intellectual Property Organisation ,0.02,0.0%,World Intellectual Property Organisation ,Spain
-2022,South East Asian Ministers of Education ,0.01,0.0%,South East Asian Ministers of Education ,Spain
 2022,CEB,0.01,0.0%,Council of Europe Development Bank,Spain
+2022,South East Asian Ministers of Education ,0.01,0.0%,South East Asian Ministers of Education ,Spain
 2023,European Commission - Development Share of Budget,1422.79,2.32%,European Commission - Development Share of Budget,Spain
 2023,European Commission - European Development Fund,177.34,0.29%,European Commission - European Development Fund,Spain
 2023,IDA,162.2,0.26%,International Development Association ,Spain
@@ -262,12 +262,12 @@ Year,Multi_short,ODA,Share,full name,Donor
 2023,United Nations Peacebuilding Fund,0.68,0.0%,United Nations Peacebuilding Fund,Spain
 2023,European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund,0.54,0.0%,European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund,Spain
 2023,UNEP,0.28,0.0%,United Nations Environment Programme ,Spain
-2023,United Nations Human Settlement Programme ,0.27,0.0%,United Nations Human Settlement Programme ,Spain
 2023,International Renewable Energy Agency,0.27,0.0%,International Renewable Energy Agency,Spain
-2023,United Nations Office for Disaster Risk Reduction,0.24,0.0%,United Nations Office for Disaster Risk Reduction,Spain
+2023,United Nations Human Settlement Programme ,0.27,0.0%,United Nations Human Settlement Programme ,Spain
 2023,WFP,0.24,0.0%,World Food Programme ,Spain
-2023,Intergovernmental Panel on Climate Change ,0.22,0.0%,Intergovernmental Panel on Climate Change ,Spain
+2023,United Nations Office for Disaster Risk Reduction,0.24,0.0%,United Nations Office for Disaster Risk Reduction,Spain
 2023,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",0.22,0.0%,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",Spain
+2023,Intergovernmental Panel on Climate Change ,0.22,0.0%,Intergovernmental Panel on Climate Change ,Spain
 2023,Convention to Combat Desertification ,0.17,0.0%,Convention to Combat Desertification ,Spain
 2023,Universal Postal Union ,0.16,0.0%,Universal Postal Union ,Spain
 2023,Economic Commission for Latin America and the Caribbean,0.15,0.0%,Economic Commission for Latin America and the Caribbean,Spain
