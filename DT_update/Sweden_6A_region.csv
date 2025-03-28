@@ -15,12 +15,12 @@ Year,Multi_short,ODA,Share,full name,Donor
 2019,Joint United Nations Programme on HIV/AIDS ,34.67,0.07%,Joint United Nations Programme on HIV/AIDS ,Sweden
 2019,GAVI,33.13,0.07%,Global Alliance for Vaccines and Immunization ,Sweden
 2019,AIIB,21.42,0.04%,Asian Infrastructure Investment Bank,Sweden
-2019,United Nations Peacebuilding Fund,20.98,0.04%,United Nations Peacebuilding Fund,Sweden
 2019,United Nations Office of Co-ordination of Humanitarian Affairs ,20.98,0.04%,United Nations Office of Co-ordination of Humanitarian Affairs ,Sweden
+2019,United Nations Peacebuilding Fund,20.98,0.04%,United Nations Peacebuilding Fund,Sweden
 2019,World Health Organisation - core voluntary contributions account,17.67,0.04%,World Health Organisation - core voluntary contributions account,Sweden
 2019,IBRD,15.31,0.03%,International Bank for Reconstruction and Development ,Sweden
-2019,AF,14.35,0.03%,Adaptation Fund,Sweden
 2019,Global Environment Facility - Least Developed Countries Fund,14.35,0.03%,Global Environment Facility - Least Developed Countries Fund,Sweden
+2019,AF,14.35,0.03%,Adaptation Fund,Sweden
 2019,United Nations Entity for Gender Equality and the Empowerment of Women,13.36,0.03%,United Nations Entity for Gender Equality and the Empowerment of Women,Sweden
 2019,UN,13.32,0.03%,United Nations,Sweden
 2019,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",13.09,0.03%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",Sweden
@@ -82,8 +82,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2020,AIIB,21.64,0.04%,Asian Infrastructure Investment Bank,Sweden
 2020,United Nations Office of Co-ordination of Humanitarian Affairs ,20.56,0.04%,United Nations Office of Co-ordination of Humanitarian Affairs ,Sweden
 2020,United Nations Entity for Gender Equality and the Empowerment of Women,18.61,0.04%,United Nations Entity for Gender Equality and the Empowerment of Women,Sweden
-2020,AF,14.07,0.03%,Adaptation Fund,Sweden
 2020,Global Environment Facility - Least Developed Countries Fund,14.07,0.03%,Global Environment Facility - Least Developed Countries Fund,Sweden
+2020,AF,14.07,0.03%,Adaptation Fund,Sweden
 2020,IBRD,13.55,0.03%,International Bank for Reconstruction and Development ,Sweden
 2020,AfDB,12.72,0.02%,African Development Bank,Sweden
 2020,UN,12.59,0.02%,United Nations,Sweden
@@ -153,8 +153,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2021,United Nations Entity for Gender Equality and the Empowerment of Women,11.28,0.02%,United Nations Entity for Gender Equality and the Empowerment of Women,Sweden
 2021,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),11.07,0.02%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Sweden
 2021,International Organisation for Migration ,11.04,0.02%,International Organisation for Migration ,Sweden
-2021,SCF,10.55,0.02%,Strategic Climate Fund,Sweden
 2021,International Monetary Fund - Poverty Reduction and Growth Trust ,10.55,0.02%,International Monetary Fund - Poverty Reduction and Growth Trust ,Sweden
+2021,SCF,10.55,0.02%,Strategic Climate Fund,Sweden
 2021,IFAD,10.55,0.02%,International Fund for Agricultural Development ,Sweden
 2021,United Nations Office on Drugs and Crime ,7.91,0.01%,United Nations Office on Drugs and Crime ,Sweden
 2021,International Institute for Democracy and Electoral Assistance ,7.46,0.01%,International Institute for Democracy and Electoral Assistance ,Sweden
@@ -222,8 +222,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2022,International Organisation for Migration ,10.52,0.02%,International Organisation for Migration ,Sweden
 2022,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),10.45,0.02%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Sweden
 2022,NDF,9.97,0.02%,Nordic Development Fund,Sweden
-2022,SCF,9.95,0.02%,Strategic Climate Fund,Sweden
 2022,International Monetary Fund - Poverty Reduction and Growth Trust ,9.95,0.02%,International Monetary Fund - Poverty Reduction and Growth Trust ,Sweden
+2022,SCF,9.95,0.02%,Strategic Climate Fund,Sweden
 2022,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",9.9,0.02%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",Sweden
 2022,EIB,9.28,0.02%,European Investment Bank ,Sweden
 2022,International Institute for Democracy and Electoral Assistance ,8.26,0.02%,International Institute for Democracy and Electoral Assistance ,Sweden
@@ -314,14 +314,14 @@ Year,Multi_short,ODA,Share,full name,Donor
 2023,OECD Development Centre ,0.94,0.0%,OECD Development Centre ,Sweden
 2023,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),0.88,0.0%,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),Sweden
 2023,PIDG,0.74,0.0%,Private Infrastructure Development Group ,Sweden
-2023,Geneva International Centre for Humanitarian Demining ,0.47,0.0%,Geneva International Centre for Humanitarian Demining ,Sweden
 2023,United Nations Volunteers ,0.47,0.0%,United Nations Volunteers ,Sweden
+2023,Geneva International Centre for Humanitarian Demining ,0.47,0.0%,Geneva International Centre for Humanitarian Demining ,Sweden
 2023,World Trade Organisation - Advisory Centre on WTO Law,0.33,0.0%,World Trade Organisation - Advisory Centre on WTO Law,Sweden
 2023,International Telecommunications Union,0.24,0.0%,International Telecommunications Union,Sweden
 2023,Universal Postal Union ,0.13,0.0%,Universal Postal Union ,Sweden
 2023,WOAH,0.1,0.0%,World Organisation for Animal Health,Sweden
-2023,UNIDIR,0.07,0.0%,United Nations Institute for Disarmament Research,Sweden
 2023,Convention to Combat Desertification ,0.07,0.0%,Convention to Combat Desertification ,Sweden
+2023,UNIDIR,0.07,0.0%,United Nations Institute for Disarmament Research,Sweden
 2023,CITES,0.05,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Sweden
 2023,World Meteorological Organisation ,0.03,0.0%,World Meteorological Organisation ,Sweden
 2023,World Intellectual Property Organisation ,0.02,0.0%,World Intellectual Property Organisation ,Sweden

@@ -6,8 +6,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2019,CERF,21.96,0.05%,Central Emergency Response Fund,Belgium
 2019,UNICEF,19.03,0.04%,United Nations Children's Fund ,Belgium
 2019,ADF,18.96,0.04%,African Development Fund ,Belgium
-2019,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",18.72,0.04%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Belgium
 2019,Global Environment Facility - Least Developed Countries Fund,18.72,0.04%,Global Environment Facility - Least Developed Countries Fund,Belgium
+2019,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",18.72,0.04%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Belgium
 2019,GEF-TF,18.72,0.04%,Global Environment Facility Trust Fund,Belgium
 2019,International Development Association - Multilateral Debt Relief Initiative,15.84,0.03%,International Development Association - Multilateral Debt Relief Initiative,Belgium
 2019,EIB,13.22,0.03%,European Investment Bank ,Belgium
@@ -21,9 +21,9 @@ Year,Multi_short,ODA,Share,full name,Donor
 2019,UNRWA,8.02,0.02%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Belgium
 2019,WFP,5.99,0.01%,World Food Programme ,Belgium
 2019,International Labour Organisation - Assessed Contributions,5.96,0.01%,International Labour Organisation - Assessed Contributions,Belgium
+2019,United Nations Entity for Gender Equality and the Empowerment of Women,4.99,0.01%,United Nations Entity for Gender Equality and the Empowerment of Women,Belgium
 2019,UNEP,4.99,0.01%,United Nations Environment Programme ,Belgium
 2019,World Health Organisation - core voluntary contributions account,4.99,0.01%,World Health Organisation - core voluntary contributions account,Belgium
-2019,United Nations Entity for Gender Equality and the Empowerment of Women,4.99,0.01%,United Nations Entity for Gender Equality and the Empowerment of Women,Belgium
 2019,International Organisation of the Francophonie,4.94,0.01%,International Organisation of the Francophonie,Belgium
 2019,Organization for Security and Co-operation in Europe,4.25,0.01%,Organization for Security and Co-operation in Europe,Belgium
 2019,Joint United Nations Programme on HIV/AIDS ,3.74,0.01%,Joint United Nations Programme on HIV/AIDS ,Belgium
@@ -75,10 +75,10 @@ Year,Multi_short,ODA,Share,full name,Donor
 2020,Joint United Nations Programme on HIV/AIDS ,3.68,0.01%,Joint United Nations Programme on HIV/AIDS ,Belgium
 2020,FAO,3.64,0.01%,Food and Agricultural Organisation,Belgium
 2020,Council of Europe,3.16,0.01%,Council of Europe,Belgium
-2020,CGIAR ,3.07,0.01%,CGIAR Fund,Belgium
 2020,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),3.07,0.01%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Belgium
-2020,International Atomic Energy Agency - assessed contributions,2.46,0.0%,International Atomic Energy Agency - assessed contributions,Belgium
+2020,CGIAR ,3.07,0.01%,CGIAR Fund,Belgium
 2020,United Nations Peacebuilding Fund,2.46,0.0%,United Nations Peacebuilding Fund,Belgium
+2020,International Atomic Energy Agency - assessed contributions,2.46,0.0%,International Atomic Energy Agency - assessed contributions,Belgium
 2020,MLF-MP,2.35,0.0%,Multilateral Fund for the Implementation of the Montreal Protocol ,Belgium
 2020,AF,2.09,0.0%,Adaptation Fund,Belgium
 2020,"United Nations Educational, Scientific and Cultural Organisation",1.82,0.0%,"United Nations Educational, Scientific and Cultural Organisation",Belgium
@@ -119,8 +119,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2021,FAO,5.73,0.01%,Food and Agricultural Organisation,Belgium
 2021,International Labour Organisation - Assessed Contributions,5.71,0.01%,International Labour Organisation - Assessed Contributions,Belgium
 2021,International Organisation of the Francophonie,4.85,0.01%,International Organisation of the Francophonie,Belgium
-2021,CGIAR ,4.76,0.01%,CGIAR Fund,Belgium
 2021,United Nations Entity for Gender Equality and the Empowerment of Women,4.76,0.01%,United Nations Entity for Gender Equality and the Empowerment of Women,Belgium
+2021,CGIAR ,4.76,0.01%,CGIAR Fund,Belgium
 2021,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),4.05,0.01%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Belgium
 2021,Joint United Nations Programme on HIV/AIDS ,3.87,0.01%,Joint United Nations Programme on HIV/AIDS ,Belgium
 2021,AF,3.57,0.01%,Adaptation Fund,Belgium
@@ -216,9 +216,9 @@ Year,Multi_short,ODA,Share,full name,Donor
 2023,Organization for Security and Co-operation in Europe,5.44,0.01%,Organization for Security and Co-operation in Europe,Belgium
 2023,WFP,5.41,0.01%,World Food Programme ,Belgium
 2023,International Organisation of the Francophonie,4.41,0.01%,International Organisation of the Francophonie,Belgium
-2023,UNEP,4.33,0.01%,United Nations Environment Programme ,Belgium
 2023,CGIAR ,4.33,0.01%,CGIAR Fund,Belgium
 2023,United Nations Entity for Gender Equality and the Empowerment of Women,4.33,0.01%,United Nations Entity for Gender Equality and the Empowerment of Women,Belgium
+2023,UNEP,4.33,0.01%,United Nations Environment Programme ,Belgium
 2023,FAO,3.27,0.01%,Food and Agricultural Organisation,Belgium
 2023,Joint United Nations Programme on HIV/AIDS ,3.24,0.01%,Joint United Nations Programme on HIV/AIDS ,Belgium
 2023,Council of Europe,3.17,0.01%,Council of Europe,Belgium

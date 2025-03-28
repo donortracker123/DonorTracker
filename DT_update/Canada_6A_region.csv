@@ -50,14 +50,14 @@ Year,Multi_short,ODA,Share,full name,Donor
 2019,Universal Postal Union ,0.25,0.0%,Universal Postal Union ,Canada
 2019,World Meteorological Organisation ,0.09,0.0%,World Meteorological Organisation ,Canada
 2019,United Nations Voluntary Fund for Victims of Torture ,0.05,0.0%,United Nations Voluntary Fund for Victims of Torture ,Canada
-2019,World Intellectual Property Organisation ,0.03,0.0%,World Intellectual Property Organisation ,Canada
 2019,International Network for Bamboo and Rattan ,0.03,0.0%,International Network for Bamboo and Rattan ,Canada
+2019,World Intellectual Property Organisation ,0.03,0.0%,World Intellectual Property Organisation ,Canada
 2019,"Inter-American Development Bank, Fund for Special Operations ",0.0,0.0%,"Inter-American Development Bank, Fund for Special Operations ",Canada
 2019,AfDB,,,African Development Bank,Canada
+2019,CAF,,,Development Bank of Latin America,Canada
+2019,CTF,,,Clean Technology Fund,Canada
 2019,United Nations Framework Convention on Climate Change ,,,United Nations Framework Convention on Climate Change ,Canada
 2019,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),,,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),Canada
-2019,CTF,,,Clean Technology Fund,Canada
-2019,CAF,,,Development Bank of Latin America,Canada
 2020,IDA,384.16,0.74%,International Development Association ,Canada
 2020,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",167.89,0.33%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Canada
 2020,ADF,102.99,0.2%,African Development Fund ,Canada
@@ -99,8 +99,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2020,World Meteorological Organisation ,2.28,0.0%,World Meteorological Organisation ,Canada
 2020,Commonwealth of Learning ,2.26,0.0%,Commonwealth of Learning ,Canada
 2020,International Organisation for Migration ,1.81,0.0%,International Organisation for Migration ,Canada
-2020,United Nations Office of Co-ordination of Humanitarian Affairs ,1.74,0.0%,United Nations Office of Co-ordination of Humanitarian Affairs ,Canada
 2020,United Nations University (including Endowment Fund) ,1.74,0.0%,United Nations University (including Endowment Fund) ,Canada
+2020,United Nations Office of Co-ordination of Humanitarian Affairs ,1.74,0.0%,United Nations Office of Co-ordination of Humanitarian Affairs ,Canada
 2020,UNEP,1.34,0.0%,United Nations Environment Programme ,Canada
 2020,United Nations Framework Convention on Climate Change ,1.08,0.0%,United Nations Framework Convention on Climate Change ,Canada
 2020,Commonwealth Foundation ,1.06,0.0%,Commonwealth Foundation ,Canada
@@ -114,8 +114,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2020,United Nations Voluntary Fund for Victims of Torture ,0.05,0.0%,United Nations Voluntary Fund for Victims of Torture ,Canada
 2020,International Network for Bamboo and Rattan ,0.03,0.0%,International Network for Bamboo and Rattan ,Canada
 2020,World Intellectual Property Organisation ,0.0,0.0%,World Intellectual Property Organisation ,Canada
-2020,CTF,,,Clean Technology Fund,Canada
 2020,AfDB,,,African Development Bank,Canada
+2020,CTF,,,Clean Technology Fund,Canada
 2021,IDA,340.41,0.6%,International Development Association ,Canada
 2021,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",324.54,0.58%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Canada
 2021,ADF,127.6,0.23%,African Development Fund ,Canada
@@ -166,12 +166,12 @@ Year,Multi_short,ODA,Share,full name,Donor
 2021,World Meteorological Organisation ,0.08,0.0%,World Meteorological Organisation ,Canada
 2021,International Network for Bamboo and Rattan ,0.03,0.0%,International Network for Bamboo and Rattan ,Canada
 2021,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),0.01,0.0%,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),Canada
+2021,Convention to Combat Desertification ,0.0,0.0%,Convention to Combat Desertification ,Canada
+2021,CTF,0.0,0.0%,Clean Technology Fund,Canada
 2021,Pan-American Health Organisation ,0.0,0.0%,Pan-American Health Organisation ,Canada
 2021,Inter-American Institute for Co-operation on Agriculture ,0.0,0.0%,Inter-American Institute for Co-operation on Agriculture ,Canada
-2021,CTF,0.0,0.0%,Clean Technology Fund,Canada
 2021,"United Nations Educational, Scientific and Cultural Organisation",0.0,0.0%,"United Nations Educational, Scientific and Cultural Organisation",Canada
 2021,International Atomic Energy Agency - assessed contributions,0.0,0.0%,International Atomic Energy Agency - assessed contributions,Canada
-2021,Convention to Combat Desertification ,0.0,0.0%,Convention to Combat Desertification ,Canada
 2021,"Other multilateral institutions, Other",,,"Other multilateral institutions, Other",Canada
 2022,IDA,588.18,1.1%,International Development Association ,Canada
 2022,ADF,314.17,0.59%,African Development Fund ,Canada
@@ -191,8 +191,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2022,CERF,22.06,0.04%,Central Emergency Response Fund,Canada
 2022,UNRWA,21.38,0.04%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Canada
 2022,International Organisation of the Francophonie,20.36,0.04%,International Organisation of the Francophonie,Canada
-2022,CGIAR ,18.76,0.04%,CGIAR Fund,Canada
 2022,WFP,18.76,0.04%,World Food Programme ,Canada
+2022,CGIAR ,18.76,0.04%,CGIAR Fund,Canada
 2022,GEF-TF,16.96,0.03%,Global Environment Facility Trust Fund,Canada
 2022,CDB,15.27,0.03%,Caribbean Development Bank ,Canada
 2022,AF,15.01,0.03%,Adaptation Fund,Canada
@@ -218,8 +218,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2022,UNDCO,2.25,0.0%,United Nations Development Coordination Office,Canada
 2022,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",2.15,0.0%,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",Canada
 2022,International Organisation for Migration ,1.58,0.0%,International Organisation for Migration ,Canada
-2022,United Nations Office of Co-ordination of Humanitarian Affairs ,1.5,0.0%,United Nations Office of Co-ordination of Humanitarian Affairs ,Canada
 2022,United Nations University (including Endowment Fund) ,1.5,0.0%,United Nations University (including Endowment Fund) ,Canada
+2022,United Nations Office of Co-ordination of Humanitarian Affairs ,1.5,0.0%,United Nations Office of Co-ordination of Humanitarian Affairs ,Canada
 2022,Commonwealth Foundation ,0.85,0.0%,Commonwealth Foundation ,Canada
 2022,World Trade Organisation - International Trade Centre ,0.72,0.0%,World Trade Organisation - International Trade Centre ,Canada
 2022,International Telecommunications Union,0.64,0.0%,International Telecommunications Union,Canada
@@ -288,6 +288,6 @@ Year,Multi_short,ODA,Share,full name,Donor
 2023,"Inter-American Development Bank, Fund for Special Operations ",0.04,0.0%,"Inter-American Development Bank, Fund for Special Operations ",Canada
 2023,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,0.03,0.0%,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,Canada
 2023,World Intellectual Property Organisation ,0.02,0.0%,World Intellectual Property Organisation ,Canada
-2023,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",0.0,0.0%,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",Canada
 2023,CTF,0.0,0.0%,Clean Technology Fund,Canada
+2023,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",0.0,0.0%,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",Canada
 2023,"Other multilateral institutions, Other",,,"Other multilateral institutions, Other",Canada

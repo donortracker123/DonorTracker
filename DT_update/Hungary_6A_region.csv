@@ -20,14 +20,14 @@ Year,Multi_short,ODA,Share,full name,Donor
 2019,United Nations Framework Convention on Climate Change ,0.05,0.0%,United Nations Framework Convention on Climate Change ,Hungary
 2019,International Telecommunications Union,0.04,0.0%,International Telecommunications Union,Hungary
 2019,International Renewable Energy Agency,0.04,0.0%,International Renewable Energy Agency,Hungary
+2019,UNEP,0.02,0.0%,United Nations Environment Programme ,Hungary
 2019,Intergovernmental Panel on Climate Change ,0.02,0.0%,Intergovernmental Panel on Climate Change ,Hungary
 2019,Convention to Combat Desertification ,0.02,0.0%,Convention to Combat Desertification ,Hungary
-2019,UNEP,0.02,0.0%,United Nations Environment Programme ,Hungary
 2019,World Intellectual Property Organisation ,0.01,0.0%,World Intellectual Property Organisation ,Hungary
 2019,WFP,0.01,0.0%,World Food Programme ,Hungary
 2019,CITES,0.01,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Hungary
-2019,CEB,0.0,0.0%,Council of Europe Development Bank,Hungary
 2019,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,0.0,0.0%,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,Hungary
+2019,CEB,0.0,0.0%,Council of Europe Development Bank,Hungary
 2020,European Commission - Development Share of Budget,157.64,0.31%,European Commission - Development Share of Budget,Hungary
 2020,European Commission - European Development Fund,38.78,0.08%,European Commission - European Development Fund,Hungary
 2020,AIIB,10.06,0.02%,Asian Infrastructure Investment Bank,Hungary
@@ -39,8 +39,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2020,World Health Organisation - assessed contributions,0.97,0.0%,World Health Organisation - assessed contributions,Hungary
 2020,International Development Association - Multilateral Debt Relief Initiative,0.75,0.0%,International Development Association - Multilateral Debt Relief Initiative,Hungary
 2020,International Labour Organisation - Assessed Contributions,0.63,0.0%,International Labour Organisation - Assessed Contributions,Hungary
-2020,"United Nations Educational, Scientific and Cultural Organisation",0.51,0.0%,"United Nations Educational, Scientific and Cultural Organisation",Hungary
 2020,MLF-MP,0.51,0.0%,Multilateral Fund for the Implementation of the Montreal Protocol ,Hungary
+2020,"United Nations Educational, Scientific and Cultural Organisation",0.51,0.0%,"United Nations Educational, Scientific and Cultural Organisation",Hungary
 2020,International Atomic Energy Agency - assessed contributions,0.35,0.0%,International Atomic Energy Agency - assessed contributions,Hungary
 2020,UNIDO,0.33,0.0%,United Nations Industrial Development Organisation ,Hungary
 2020,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),0.25,0.0%,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),Hungary
@@ -51,13 +51,13 @@ Year,Multi_short,ODA,Share,full name,Donor
 2020,International Telecommunications Union,0.04,0.0%,International Telecommunications Union,Hungary
 2020,International Renewable Energy Agency,0.03,0.0%,International Renewable Energy Agency,Hungary
 2020,UNEP,0.02,0.0%,United Nations Environment Programme ,Hungary
-2020,CITES,0.02,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Hungary
-2020,International Maritime Organization - Technical Co-operation Fund,0.02,0.0%,International Maritime Organization - Technical Co-operation Fund,Hungary
 2020,Convention to Combat Desertification ,0.02,0.0%,Convention to Combat Desertification ,Hungary
 2020,WFP,0.02,0.0%,World Food Programme ,Hungary
+2020,CITES,0.02,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Hungary
+2020,International Maritime Organization - Technical Co-operation Fund,0.02,0.0%,International Maritime Organization - Technical Co-operation Fund,Hungary
 2020,World Meteorological Organisation ,0.01,0.0%,World Meteorological Organisation ,Hungary
-2020,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,0.0,0.0%,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,Hungary
 2020,World Intellectual Property Organisation ,0.0,0.0%,World Intellectual Property Organisation ,Hungary
+2020,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,0.0,0.0%,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,Hungary
 2020,CEB,0.0,0.0%,Council of Europe Development Bank,Hungary
 2021,European Commission - Development Share of Budget,132.21,0.23%,European Commission - Development Share of Budget,Hungary
 2021,European Commission - European Development Fund,29.98,0.05%,European Commission - European Development Fund,Hungary
@@ -88,11 +88,11 @@ Year,Multi_short,ODA,Share,full name,Donor
 2021,UNEP,0.02,0.0%,United Nations Environment Programme ,Hungary
 2021,Convention to Combat Desertification ,0.02,0.0%,Convention to Combat Desertification ,Hungary
 2021,WFP,0.02,0.0%,World Food Programme ,Hungary
-2021,CITES,0.01,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Hungary
 2021,United Nations Economic Commission for Europe (extrabudgetary contributions only),0.01,0.0%,United Nations Economic Commission for Europe (extrabudgetary contributions only),Hungary
+2021,CITES,0.01,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Hungary
 2021,World Meteorological Organisation ,0.0,0.0%,World Meteorological Organisation ,Hungary
-2021,CEB,0.0,0.0%,Council of Europe Development Bank,Hungary
 2021,World Intellectual Property Organisation ,0.0,0.0%,World Intellectual Property Organisation ,Hungary
+2021,CEB,0.0,0.0%,Council of Europe Development Bank,Hungary
 2022,European Commission - European Development Fund,29.46,0.06%,European Commission - European Development Fund,Hungary
 2022,IFC,21.05,0.04%,International Finance Corporation ,Hungary
 2022,IBRD,12.35,0.02%,International Bank for Reconstruction and Development ,Hungary
@@ -108,9 +108,9 @@ Year,Multi_short,ODA,Share,full name,Donor
 2022,UNICEF,0.26,0.0%,United Nations Children's Fund ,Hungary
 2022,United Nations Framework Convention on Climate Change ,0.12,0.0%,United Nations Framework Convention on Climate Change ,Hungary
 2022,International Renewable Energy Agency,0.06,0.0%,International Renewable Energy Agency,Hungary
-2022,World Intellectual Property Organisation ,0.01,0.0%,World Intellectual Property Organisation ,Hungary
-2022,United Nations Economic Commission for Europe (extrabudgetary contributions only),0.01,0.0%,United Nations Economic Commission for Europe (extrabudgetary contributions only),Hungary
 2022,FAO,0.01,0.0%,Food and Agricultural Organisation,Hungary
+2022,United Nations Economic Commission for Europe (extrabudgetary contributions only),0.01,0.0%,United Nations Economic Commission for Europe (extrabudgetary contributions only),Hungary
+2022,World Intellectual Property Organisation ,0.01,0.0%,World Intellectual Property Organisation ,Hungary
 2022,CEB,0.0,0.0%,Council of Europe Development Bank,Hungary
 2023,IFC,12.12,0.02%,International Finance Corporation ,Hungary
 2023,European Commission - European Development Fund,12.09,0.02%,European Commission - European Development Fund,Hungary
@@ -119,8 +119,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2023,IDA,6.42,0.01%,International Development Association ,Hungary
 2023,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",3.41,0.01%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",Hungary
 2023,EIB,2.01,0.0%,European Investment Bank ,Hungary
-2023,International Development Association - Multilateral Debt Relief Initiative,0.77,0.0%,International Development Association - Multilateral Debt Relief Initiative,Hungary
 2023,World Health Organisation - assessed contributions,0.77,0.0%,World Health Organisation - assessed contributions,Hungary
+2023,International Development Association - Multilateral Debt Relief Initiative,0.77,0.0%,International Development Association - Multilateral Debt Relief Initiative,Hungary
 2023,International Agency for Research on Cancer,0.65,0.0%,International Agency for Research on Cancer,Hungary
 2023,International Atomic Energy Agency - assessed contributions,0.65,0.0%,International Atomic Energy Agency - assessed contributions,Hungary
 2023,European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund,0.27,0.0%,European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund,Hungary

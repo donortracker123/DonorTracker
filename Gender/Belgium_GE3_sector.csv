@@ -5,7 +5,7 @@ year,Sector,Gender-related ODA to,Share,Donor
 2020,"Agriculture (incl. forestry, fishing, rural development)",106.15,16.0%,Belgium
 2019,Emergency Response,103.5,17.0%,Belgium
 2022,Health & populations,95.75,18.0%,Belgium
-2021,Health & populations,91.91,15.0%,Belgium
+2021,Health & populations,91.91,16.0%,Belgium
 2020,Health & populations,91.04,14.0%,Belgium
 2021,"Agriculture (incl. forestry, fishing, rural development)",89.63,15.0%,Belgium
 2023,Health & populations,87.55,15.0%,Belgium
@@ -14,7 +14,7 @@ year,Sector,Gender-related ODA to,Share,Donor
 2019,Health & populations,83.08,13.0%,Belgium
 2021,Emergency Response,82.71,14.0%,Belgium
 2023,"Agriculture (incl. forestry, fishing, rural development)",79.39,14.0%,Belgium
-2020,Education,75.37,11.0%,Belgium
+2020,Education,75.37,12.0%,Belgium
 2021,Education,73.27,12.0%,Belgium
 2019,Education,65.43,10.0%,Belgium
 2019,Financial services & business support,58.49,9.0%,Belgium
@@ -35,15 +35,15 @@ year,Sector,Gender-related ODA to,Share,Donor
 2020,Environmental protection,32.46,5.0%,Belgium
 2022,Financial services & business support,32.29,6.0%,Belgium
 2021,Financial services & business support,31.3,5.0%,Belgium
-2021,Unspecified,31.11,5.0%,Belgium
-2023,Unspecified,31.03,5.0%,Belgium
-2020,Unspecified,30.02,5.0%,Belgium
-2022,Unspecified,29.75,5.0%,Belgium
+2020,Unspecified,29.81,5.0%,Belgium
+2023,Unspecified,29.41,5.0%,Belgium
+2021,Unspecified,28.32,5.0%,Belgium
 2022,Other multisector,28.3,5.0%,Belgium
-2019,Unspecified,25.44,4.0%,Belgium
+2022,Unspecified,27.64,5.0%,Belgium
 2023,Financial services & business support,24.17,4.0%,Belgium
 2019,Water and sanitation,22.91,4.0%,Belgium
 2021,Water and sanitation,22.83,4.0%,Belgium
+2019,Unspecified,22.42,4.0%,Belgium
 2020,Financial services & business support,21.69,3.0%,Belgium
 2023,Environmental protection,19.43,3.0%,Belgium
 2021,Other multisector,18.77,3.0%,Belgium
@@ -81,15 +81,10 @@ year,Sector,Gender-related ODA to,Share,Donor
 2022,Disaster Prevention & Preparedness,0.7,0.0%,Belgium
 2020,Energy,0.55,0.0%,Belgium
 2023,Disaster Prevention & Preparedness,0.48,0.0%,Belgium
-2023,Donor administration costs,0.44,0.0%,Belgium
 2022,Infrastructure,0.43,0.0%,Belgium
 2023,Infrastructure,0.38,0.0%,Belgium
 2021,"Industry, construction & mining",0.26,0.0%,Belgium
 2020,"Conflict, peace & security",0.2,0.0%,Belgium
-2022,Donor administration costs,0.18,0.0%,Belgium
-2019,Donor administration costs,0.16,0.0%,Belgium
 2023,Energy,0.16,0.0%,Belgium
-2020,Donor administration costs,0.1,0.0%,Belgium
 2023,Trade policy,0.05,0.0%,Belgium
-2021,Donor administration costs,0.03,0.0%,Belgium
 2022,Energy,0.01,0.0%,Belgium
