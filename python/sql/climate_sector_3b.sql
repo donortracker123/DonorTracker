@@ -8,7 +8,6 @@ WITH base AS (
     FROM read_csv_auto("{{climate_riomarkers_file}}", delim='|', header=True)
     WHERE "Year" BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
     AND donor_name IN {{dac_countries}}
-    AND donor_name != 'EU Institutions'
     AND "Markers" = 20
 ), 
 

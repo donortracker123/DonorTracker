@@ -11,6 +11,7 @@ WITH base AS (
     AND flow_name IN (
         'ODA Loans','Equity Investment','ODA Grants'
     )
+    AND donor_name IN {{dac_countries}}
 ), 
 
 deflated AS (
