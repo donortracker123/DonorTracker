@@ -12,6 +12,7 @@ WITH base AS (
     )
     AND donor_name != 'EU Institutions'
     AND gender IN (1,2) --Marker for Gender-related
+    AND "Aid_T" IN ('A02', 'B01', 'B03', 'B031', 'B032', 'B033','B04', 'C01', 'D01', 'D02', 'E01')
 ), 
 
 crs_totals AS (
