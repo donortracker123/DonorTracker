@@ -15,10 +15,10 @@ year,Sub-Sector,Bilateral ODA for,Share,Donor
 2023,Medical research,0.87,0.0%,United States
 2023,Medical services,0.48,0.0%,United States
 2023,Basic health infrastructure,0.47,0.0%,United States
-2023,Control of harmful use of alcohol and drugs,,,United States
 2023,Medical education/training,,,United States
-2023,Promotion of mental health and well-being,,,United States
 2023,Health personnel development,,,United States
+2023,Promotion of mental health and well-being,,,United States
+2023,Control of harmful use of alcohol and drugs,,,United States
 2022,STD control including HIV/AIDS,7180.97,54.5%,United States
 2022,COVID-19 control,3076.31,23.4%,United States
 2022,Malaria control,622.31,4.7%,United States
@@ -55,8 +55,8 @@ year,Sub-Sector,Bilateral ODA for,Share,Donor
 2021,Basic health infrastructure,0.17,0.0%,United States
 2021,Medical education/training,0.14,0.0%,United States
 2021,Promotion of mental health and well-being,0.03,0.0%,United States
-2021,"NCDs control, general",0.0,0.0%,United States
 2021,Medical services,0.0,0.0%,United States
+2021,"NCDs control, general",0.0,0.0%,United States
 2020,STD control including HIV/AIDS,5712.13,62.8%,United States
 2020,Malaria control,822.1,9.0%,United States
 2020,Reproductive health care,574.14,6.3%,United States

@@ -7,7 +7,7 @@ year,Sector,Gender-related ODA to,Share,Donor
 2023,Emergency Response,229.36,17.0%,Australia
 2019,Government & civil society,228.34,26.0%,Australia
 2021,Health & populations,174.16,15.0%,Australia
-2023,Other multisector,168.68,12.0%,Australia
+2023,Other multisector,168.68,13.0%,Australia
 2021,Emergency Response,163.63,14.0%,Australia
 2020,Emergency Response,154.12,15.0%,Australia
 2019,Emergency Response,144.38,16.0%,Australia
@@ -15,11 +15,11 @@ year,Sector,Gender-related ODA to,Share,Donor
 2023,Health & populations,139.58,10.0%,Australia
 2023,Education,138.56,10.0%,Australia
 2022,Health & populations,120.15,11.0%,Australia
-2022,Education,117.03,10.0%,Australia
+2022,Education,117.03,11.0%,Australia
 2021,Education,114.84,10.0%,Australia
-2019,Education,110.2,12.0%,Australia
+2019,Education,110.2,13.0%,Australia
 2020,Health & populations,102.56,10.0%,Australia
-2020,Education,88.93,8.0%,Australia
+2020,Education,88.92,8.0%,Australia
 2019,Health & populations,82.12,9.0%,Australia
 2022,Other multisector,74.4,7.0%,Australia
 2021,Other multisector,63.75,6.0%,Australia
@@ -60,7 +60,6 @@ year,Sector,Gender-related ODA to,Share,Donor
 2023,"Conflict, peace & security",18.31,1.0%,Australia
 2020,"Conflict, peace & security",18.09,2.0%,Australia
 2019,Environmental protection,17.28,2.0%,Australia
-2023,General budget support,17.19,1.0%,Australia
 2021,"Conflict, peace & security",17.06,2.0%,Australia
 2022,"Conflict, peace & security",16.47,1.0%,Australia
 2021,Infrastructure,15.86,1.0%,Australia
@@ -69,14 +68,13 @@ year,Sector,Gender-related ODA to,Share,Donor
 2020,Food aid and commodity assistance,14.67,1.0%,Australia
 2023,Energy,14.43,1.0%,Australia
 2019,"Industry, construction & mining",12.98,1.0%,Australia
-2022,General budget support,12.31,1.0%,Australia
 2023,Reconstruction Relief & Rehabilitation,12.08,1.0%,Australia
 2019,Infrastructure,11.98,1.0%,Australia
 2022,"Industry, construction & mining",11.22,1.0%,Australia
 2020,"Industry, construction & mining",10.27,1.0%,Australia
 2023,Trade policy,9.8,1.0%,Australia
-2019,Disaster Prevention & Preparedness,9.4,1.0%,Australia
 2019,Food aid and commodity assistance,9.4,1.0%,Australia
+2019,Disaster Prevention & Preparedness,9.4,1.0%,Australia
 2022,Trade policy,9.32,1.0%,Australia
 2019,Trade policy,7.5,1.0%,Australia
 2022,Energy,7.41,1.0%,Australia
@@ -90,20 +88,17 @@ year,Sector,Gender-related ODA to,Share,Donor
 2019,Energy,4.2,0.0%,Australia
 2019,Tourism,4.04,0.0%,Australia
 2020,Tourism,3.65,0.0%,Australia
-2019,Donor administration costs,3.57,0.0%,Australia
-2023,Unspecified,2.92,0.0%,Australia
 2021,Energy,2.69,0.0%,Australia
-2020,Donor administration costs,2.39,0.0%,Australia
 2022,Tourism,1.65,0.0%,Australia
+2023,Unspecified,1.59,0.0%,Australia
 2020,Reconstruction Relief & Rehabilitation,1.5,0.0%,Australia
 2022,Unspecified,1.21,0.0%,Australia
 2020,Energy,1.05,0.0%,Australia
-2019,General budget support,0.77,0.0%,Australia
 2023,,0.28,0.0%,Australia
 2019,Unspecified,0.16,0.0%,Australia
 2022,Food aid and commodity assistance,0.15,0.0%,Australia
 2021,Unspecified,0.11,0.0%,Australia
-2023,Donor administration costs,0.04,0.0%,Australia
 2022,,0.02,0.0%,Australia
 2021,Reconstruction Relief & Rehabilitation,0.01,0.0%,Australia
+2020,Donor administration costs,0.0,0.0%,Australia
 2023,Food aid and commodity assistance,0.0,0.0%,Australia

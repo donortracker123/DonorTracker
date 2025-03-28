@@ -1,83 +1,79 @@
 year,Sector,Gender-related ODA to,Share,Donor
-2023,Education,1282.81,36.0%,France
-2020,Education,1261.49,29.0%,France
-2022,Education,1212.63,32.0%,France
-2019,Education,1144.52,43.0%,France
-2021,Education,1129.72,25.0%,France
-2020,Other social services,620.24,14.0%,France
-2021,Other multisector,576.53,13.0%,France
-2023,Other multisector,517.0,14.0%,France
-2022,Financial services & business support,512.93,14.0%,France
-2022,Water and sanitation,422.35,11.0%,France
-2021,Health & populations,404.39,9.0%,France
-2021,"Agriculture (incl. forestry, fishing, rural development)",392.67,9.0%,France
-2020,"Agriculture (incl. forestry, fishing, rural development)",389.98,9.0%,France
-2022,Health & populations,375.71,10.0%,France
-2020,Infrastructure,355.97,8.0%,France
-2021,Water and sanitation,344.98,8.0%,France
-2021,Environmental protection,339.2,8.0%,France
-2020,Water and sanitation,336.33,8.0%,France
-2021,Financial services & business support,330.84,7.0%,France
-2021,Other social services,296.58,7.0%,France
-2023,Water and sanitation,290.16,8.0%,France
-2023,Health & populations,289.65,8.0%,France
-2019,Water and sanitation,283.36,11.0%,France
-2020,Environmental protection,275.5,6.0%,France
-2020,Health & populations,250.69,6.0%,France
-2020,Financial services & business support,224.69,5.0%,France
-2022,"Agriculture (incl. forestry, fishing, rural development)",201.68,5.0%,France
-2021,Infrastructure,199.59,4.0%,France
-2023,Government & civil society,198.35,6.0%,France
-2022,Other social services,197.95,5.0%,France
-2022,Government & civil society,197.09,5.0%,France
-2022,Other multisector,196.9,5.0%,France
-2019,Environmental protection,190.64,7.0%,France
-2021,Government & civil society,187.72,4.0%,France
-2020,Other multisector,185.04,4.0%,France
-2022,Infrastructure,181.22,5.0%,France
-2019,Health & populations,175.9,7.0%,France
-2019,"Agriculture (incl. forestry, fishing, rural development)",168.27,6.0%,France
-2019,Infrastructure,166.25,6.0%,France
-2023,Financial services & business support,160.76,4.0%,France
-2020,"Industry, construction & mining",148.51,3.0%,France
-2023,Other social services,148.31,4.0%,France
-2020,Government & civil society,145.57,3.0%,France
-2020,Unspecified,136.6,3.0%,France
-2023,Infrastructure,126.71,4.0%,France
-2023,"Agriculture (incl. forestry, fishing, rural development)",120.96,3.0%,France
-2019,Energy,112.44,4.0%,France
-2019,"Industry, construction & mining",110.77,4.0%,France
-2021,"Industry, construction & mining",102.62,2.0%,France
-2023,Energy,84.45,2.0%,France
-2019,Government & civil society,81.38,3.0%,France
-2023,Unspecified,76.88,2.0%,France
-2023,Refugees in donor countries,75.38,2.0%,France
-2022,"Industry, construction & mining",74.86,2.0%,France
-2022,Refugees in donor countries,71.67,2.0%,France
-2019,Other social services,71.27,3.0%,France
-2023,Emergency Response,65.94,2.0%,France
-2019,Other multisector,53.93,2.0%,France
+2020,Other social services,620.24,18.0%,France
+2021,Other multisector,576.53,16.0%,France
+2023,Other multisector,517.0,20.0%,France
+2022,Financial services & business support,512.93,18.0%,France
+2023,Education,424.73,16.0%,France
+2022,Water and sanitation,422.35,15.0%,France
+2020,Education,419.67,12.0%,France
+2021,Health & populations,404.39,11.0%,France
+2021,Education,395.54,11.0%,France
+2021,"Agriculture (incl. forestry, fishing, rural development)",392.67,11.0%,France
+2020,"Agriculture (incl. forestry, fishing, rural development)",389.98,11.0%,France
+2022,Health & populations,375.71,13.0%,France
+2022,Education,374.4,13.0%,France
+2019,Education,373.31,20.0%,France
+2020,Infrastructure,355.97,10.0%,France
+2021,Water and sanitation,344.98,9.0%,France
+2021,Environmental protection,339.2,9.0%,France
+2020,Water and sanitation,336.33,10.0%,France
+2021,Financial services & business support,330.84,9.0%,France
+2021,Other social services,296.58,8.0%,France
+2023,Water and sanitation,290.16,11.0%,France
+2023,Health & populations,289.65,11.0%,France
+2019,Water and sanitation,283.36,15.0%,France
+2020,Environmental protection,275.5,8.0%,France
+2020,Health & populations,250.69,7.0%,France
+2020,Financial services & business support,224.69,6.0%,France
+2022,"Agriculture (incl. forestry, fishing, rural development)",201.68,7.0%,France
+2021,Infrastructure,199.59,5.0%,France
+2023,Government & civil society,198.35,8.0%,France
+2022,Other social services,197.95,7.0%,France
+2022,Government & civil society,197.09,7.0%,France
+2022,Other multisector,196.9,7.0%,France
+2019,Environmental protection,190.64,10.0%,France
+2021,Government & civil society,187.72,5.0%,France
+2020,Other multisector,185.04,5.0%,France
+2022,Infrastructure,181.22,6.0%,France
+2019,Health & populations,175.9,9.0%,France
+2019,"Agriculture (incl. forestry, fishing, rural development)",168.27,9.0%,France
+2019,Infrastructure,166.25,9.0%,France
+2023,Financial services & business support,160.76,6.0%,France
+2020,"Industry, construction & mining",148.51,4.0%,France
+2023,Other social services,148.31,6.0%,France
+2020,Government & civil society,145.57,4.0%,France
+2023,Infrastructure,126.71,5.0%,France
+2020,Unspecified,123.48,3.0%,France
+2023,"Agriculture (incl. forestry, fishing, rural development)",120.96,5.0%,France
+2019,Energy,112.44,6.0%,France
+2019,"Industry, construction & mining",110.77,6.0%,France
+2021,"Industry, construction & mining",102.62,3.0%,France
+2023,Energy,84.45,3.0%,France
+2019,Government & civil society,81.38,4.0%,France
+2022,"Industry, construction & mining",74.86,3.0%,France
+2019,Other social services,71.27,4.0%,France
+2023,Unspecified,71.21,3.0%,France
+2023,Emergency Response,65.94,3.0%,France
+2019,Other multisector,53.93,3.0%,France
 2021,Food aid and commodity assistance,51.68,1.0%,France
 2021,Energy,49.88,1.0%,France
-2023,Environmental protection,47.41,1.0%,France
+2023,Environmental protection,47.41,2.0%,France
 2019,Emergency Response,42.65,2.0%,France
-2023,"Industry, construction & mining",39.7,1.0%,France
-2022,Unspecified,36.22,1.0%,France
+2023,"Industry, construction & mining",39.7,2.0%,France
 2022,Environmental protection,35.54,1.0%,France
+2022,Unspecified,29.29,1.0%,France
 2023,Food aid and commodity assistance,28.81,1.0%,France
 2020,Emergency Response,28.41,1.0%,France
 2022,Emergency Response,22.55,1.0%,France
 2019,Financial services & business support,21.44,1.0%,France
-2020,Food aid and commodity assistance,20.13,0.0%,France
-2023,General budget support,18.42,1.0%,France
-2021,Unspecified,14.65,0.0%,France
-2019,Food aid and commodity assistance,12.64,0.0%,France
+2020,Food aid and commodity assistance,20.13,1.0%,France
+2019,Food aid and commodity assistance,12.64,1.0%,France
 2021,Emergency Response,11.13,0.0%,France
-2019,Unspecified,8.8,0.0%,France
 2023,Reconstruction Relief & Rehabilitation,8.27,0.0%,France
 2022,Energy,6.62,0.0%,France
 2022,Food aid and commodity assistance,5.5,0.0%,France
 2019,"Conflict, peace & security",4.28,0.0%,France
+2021,Unspecified,3.61,0.0%,France
 2023,Trade policy,3.3,0.0%,France
 2019,Reconstruction Relief & Rehabilitation,3.21,0.0%,France
 2020,"Conflict, peace & security",3.11,0.0%,France
@@ -85,21 +81,18 @@ year,Sector,Gender-related ODA to,Share,Donor
 2022,Reconstruction Relief & Rehabilitation,2.23,0.0%,France
 2023,Disaster Prevention & Preparedness,2.05,0.0%,France
 2020,Energy,1.96,0.0%,France
-2020,Refugees in donor countries,1.9,0.0%,France
-2021,Refugees in donor countries,1.87,0.0%,France
 2021,"Conflict, peace & security",1.67,0.0%,France
 2021,Reconstruction Relief & Rehabilitation,1.43,0.0%,France
 2022,Trade policy,1.42,0.0%,France
 2019,Trade policy,1.2,0.0%,France
 2020,Reconstruction Relief & Rehabilitation,1.17,0.0%,France
-2023,Donor administration costs,0.97,0.0%,France
 2023,Tourism,0.71,0.0%,France
 2023,"Conflict, peace & security",0.68,0.0%,France
 2020,Tourism,0.62,0.0%,France
 2022,"Conflict, peace & security",0.59,0.0%,France
+2019,Unspecified,0.43,0.0%,France
 2020,Disaster Prevention & Preparedness,0.4,0.0%,France
 2021,Tourism,0.37,0.0%,France
-2022,Donor administration costs,0.27,0.0%,France
 2019,Tourism,0.26,0.0%,France
 2019,General budget support,0.21,0.0%,France
 2022,Tourism,0.18,0.0%,France
@@ -109,13 +102,9 @@ year,Sector,Gender-related ODA to,Share,Donor
 2019,,0.1,0.0%,France
 2023,,0.09,0.0%,France
 2021,Debt relief,0.06,0.0%,France
-2019,Refugees in donor countries,0.04,0.0%,France
 2020,,0.04,0.0%,France
 2021,,0.04,0.0%,France
 2023,Debt relief,0.03,0.0%,France
 2022,Debt relief,0.03,0.0%,France
-2022,General budget support,0.0,0.0%,France
-2022,Disaster Prevention & Preparedness,0.0,0.0%,France
-2020,General budget support,0.0,0.0%,France
 2020,Trade policy,0.0,0.0%,France
-2021,General budget support,0.0,0.0%,France
+2022,Disaster Prevention & Preparedness,0.0,0.0%,France

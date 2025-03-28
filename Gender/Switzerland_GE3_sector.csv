@@ -26,8 +26,8 @@ year,Sector,Gender-related ODA to,Share,Donor
 2020,Emergency Response,87.28,7.0%,Switzerland
 2023,Other social services,83.37,5.0%,Switzerland
 2021,Other social services,75.47,5.0%,Switzerland
-2019,Unspecified,74.44,7.0%,Switzerland
 2020,Water and sanitation,74.04,6.0%,Switzerland
+2019,Unspecified,73.8,7.0%,Switzerland
 2022,Other social services,71.56,5.0%,Switzerland
 2021,Water and sanitation,71.35,5.0%,Switzerland
 2023,Water and sanitation,70.56,5.0%,Switzerland
@@ -64,17 +64,17 @@ year,Sector,Gender-related ODA to,Share,Donor
 2023,Trade policy,21.37,1.0%,Switzerland
 2021,Trade policy,20.3,1.0%,Switzerland
 2019,Trade policy,19.99,2.0%,Switzerland
-2022,Unspecified,18.85,1.0%,Switzerland
 2022,Trade policy,18.77,1.0%,Switzerland
-2020,Unspecified,18.04,1.0%,Switzerland
+2022,Unspecified,18.54,1.0%,Switzerland
 2022,Environmental protection,17.25,1.0%,Switzerland
 2021,Disaster Prevention & Preparedness,16.6,1.0%,Switzerland
-2021,Unspecified,16.04,1.0%,Switzerland
+2020,Unspecified,15.99,1.0%,Switzerland
+2021,Unspecified,15.62,1.0%,Switzerland
 2020,Disaster Prevention & Preparedness,15.11,1.0%,Switzerland
 2019,Disaster Prevention & Preparedness,13.7,1.0%,Switzerland
 2019,Environmental protection,13.61,1.0%,Switzerland
 2023,Energy,13.58,1.0%,Switzerland
-2023,Unspecified,13.35,1.0%,Switzerland
+2023,Unspecified,13.28,1.0%,Switzerland
 2020,Environmental protection,11.44,1.0%,Switzerland
 2020,Energy,11.33,1.0%,Switzerland
 2021,Environmental protection,10.76,1.0%,Switzerland
@@ -95,10 +95,8 @@ year,Sector,Gender-related ODA to,Share,Donor
 2020,Infrastructure,2.91,0.0%,Switzerland
 2023,Infrastructure,2.01,0.0%,Switzerland
 2020,Food aid and commodity assistance,1.14,0.0%,Switzerland
-2022,Refugees in donor countries,0.16,0.0%,Switzerland
 2020,Donor administration costs,0.13,0.0%,Switzerland
 2023,,0.06,0.0%,Switzerland
 2021,,0.05,0.0%,Switzerland
-2020,,0.01,0.0%,Switzerland
 2019,,0.01,0.0%,Switzerland
-2023,Refugees in donor countries,0.01,0.0%,Switzerland
+2020,,0.01,0.0%,Switzerland

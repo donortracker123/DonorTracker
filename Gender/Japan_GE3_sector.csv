@@ -1,50 +1,45 @@
 year,Sector,Gender-related ODA to,Share,Donor
-2022,Infrastructure,4418.04,54.0%,Japan
-2021,Infrastructure,2648.26,43.0%,Japan
-2019,Infrastructure,2066.94,58.0%,Japan
-2020,Infrastructure,1705.69,37.0%,Japan
-2020,General budget support,1238.81,27.0%,Japan
-2022,Health & populations,1159.27,14.0%,Japan
-2022,General budget support,974.56,12.0%,Japan
-2023,Infrastructure,958.14,34.0%,Japan
-2021,General budget support,880.83,14.0%,Japan
+2022,Infrastructure,4418.04,61.0%,Japan
+2021,Infrastructure,2648.26,50.0%,Japan
+2019,Infrastructure,2066.94,61.0%,Japan
+2020,Infrastructure,1705.69,50.0%,Japan
+2022,Health & populations,1159.27,16.0%,Japan
+2023,Infrastructure,958.14,37.0%,Japan
 2022,"Industry, construction & mining",464.97,6.0%,Japan
-2021,Other multisector,458.86,7.0%,Japan
-2020,"Agriculture (incl. forestry, fishing, rural development)",437.85,9.0%,Japan
-2021,Health & populations,433.27,7.0%,Japan
-2021,Disaster Prevention & Preparedness,369.37,6.0%,Japan
-2022,Water and sanitation,340.37,4.0%,Japan
+2021,Other multisector,458.86,9.0%,Japan
+2020,"Agriculture (incl. forestry, fishing, rural development)",437.85,13.0%,Japan
+2021,Health & populations,433.27,8.0%,Japan
+2021,Disaster Prevention & Preparedness,369.37,7.0%,Japan
+2022,Water and sanitation,340.37,5.0%,Japan
 2019,"Agriculture (incl. forestry, fishing, rural development)",310.2,9.0%,Japan
 2022,"Agriculture (incl. forestry, fishing, rural development)",296.91,4.0%,Japan
 2021,"Agriculture (incl. forestry, fishing, rural development)",289.69,5.0%,Japan
-2023,Government & civil society,281.39,10.0%,Japan
-2021,Other social services,262.48,4.0%,Japan
-2023,Health & populations,253.04,9.0%,Japan
-2023,General budget support,249.45,9.0%,Japan
+2023,Government & civil society,281.39,11.0%,Japan
+2021,Other social services,262.48,5.0%,Japan
+2023,Health & populations,253.04,10.0%,Japan
 2023,Other multisector,241.74,9.0%,Japan
 2021,Water and sanitation,224.16,4.0%,Japan
 2022,Other multisector,216.57,3.0%,Japan
 2023,Trade policy,215.25,8.0%,Japan
-2020,Other multisector,200.54,4.0%,Japan
-2020,Health & populations,195.49,4.0%,Japan
-2021,Emergency Response,190.53,3.0%,Japan
+2020,Other multisector,200.54,6.0%,Japan
+2020,Health & populations,195.49,6.0%,Japan
+2021,Emergency Response,190.53,4.0%,Japan
 2019,Water and sanitation,176.47,5.0%,Japan
-2019,General budget support,166.7,5.0%,Japan
-2020,Water and sanitation,158.12,3.0%,Japan
-2020,Other social services,157.54,3.0%,Japan
-2019,Other social services,155.95,4.0%,Japan
+2020,Water and sanitation,158.12,5.0%,Japan
+2020,Other social services,157.54,5.0%,Japan
+2019,Other social services,155.95,5.0%,Japan
 2019,Other multisector,151.42,4.0%,Japan
-2020,Energy,124.58,3.0%,Japan
+2020,Energy,124.58,4.0%,Japan
 2023,Energy,109.87,4.0%,Japan
 2019,Emergency Response,98.6,3.0%,Japan
 2019,Energy,96.75,3.0%,Japan
-2023,Financial services & business support,90.59,3.0%,Japan
-2023,"Agriculture (incl. forestry, fishing, rural development)",90.26,3.0%,Japan
+2023,Financial services & business support,90.59,4.0%,Japan
+2023,"Agriculture (incl. forestry, fishing, rural development)",90.26,4.0%,Japan
 2023,Other social services,88.89,3.0%,Japan
-2019,Health & populations,85.76,2.0%,Japan
+2019,Health & populations,85.76,3.0%,Japan
 2020,Reconstruction Relief & Rehabilitation,82.56,2.0%,Japan
 2020,Emergency Response,81.73,2.0%,Japan
-2021,Education,81.14,1.0%,Japan
+2021,Education,81.14,2.0%,Japan
 2022,Energy,78.3,1.0%,Japan
 2021,Reconstruction Relief & Rehabilitation,76.58,1.0%,Japan
 2020,Education,74.94,2.0%,Japan
@@ -52,7 +47,7 @@ year,Sector,Gender-related ODA to,Share,Donor
 2022,Education,67.29,1.0%,Japan
 2021,"Industry, construction & mining",67.12,1.0%,Japan
 2021,"Conflict, peace & security",66.79,1.0%,Japan
-2020,"Conflict, peace & security",64.06,1.0%,Japan
+2020,"Conflict, peace & security",64.06,2.0%,Japan
 2019,Education,61.44,2.0%,Japan
 2023,"Conflict, peace & security",60.17,2.0%,Japan
 2021,Energy,51.57,1.0%,Japan
@@ -63,7 +58,7 @@ year,Sector,Gender-related ODA to,Share,Donor
 2022,Other social services,41.48,1.0%,Japan
 2021,Government & civil society,41.04,1.0%,Japan
 2019,Reconstruction Relief & Rehabilitation,40.14,1.0%,Japan
-2023,Education,38.7,1.0%,Japan
+2023,Education,38.7,2.0%,Japan
 2020,"Industry, construction & mining",38.26,1.0%,Japan
 2019,Government & civil society,37.64,1.0%,Japan
 2022,Government & civil society,30.6,0.0%,Japan
@@ -79,9 +74,7 @@ year,Sector,Gender-related ODA to,Share,Donor
 2022,"Conflict, peace & security",8.8,0.0%,Japan
 2022,Environmental protection,6.38,0.0%,Japan
 2021,Financial services & business support,3.9,0.0%,Japan
-2022,Refugees in donor countries,3.51,0.0%,Japan
 2020,Financial services & business support,3.45,0.0%,Japan
-2023,Refugees in donor countries,2.98,0.0%,Japan
 2023,Environmental protection,2.0,0.0%,Japan
 2023,Unspecified,1.69,0.0%,Japan
 2021,Unspecified,1.63,0.0%,Japan
@@ -91,12 +84,12 @@ year,Sector,Gender-related ODA to,Share,Donor
 2023,Tourism,0.83,0.0%,Japan
 2020,Tourism,0.69,0.0%,Japan
 2022,Trade policy,0.57,0.0%,Japan
-2021,Tourism,0.46,0.0%,Japan
 2019,Trade policy,0.46,0.0%,Japan
+2021,Tourism,0.46,0.0%,Japan
 2020,Trade policy,0.45,0.0%,Japan
-2020,Food aid and commodity assistance,0.29,0.0%,Japan
-2019,Disaster Prevention & Preparedness,0.29,0.0%,Japan
 2019,Food aid and commodity assistance,0.29,0.0%,Japan
+2019,Disaster Prevention & Preparedness,0.29,0.0%,Japan
+2020,Food aid and commodity assistance,0.29,0.0%,Japan
 2022,Disaster Prevention & Preparedness,0.27,0.0%,Japan
 2021,Food aid and commodity assistance,0.26,0.0%,Japan
 2022,Food aid and commodity assistance,0.19,0.0%,Japan

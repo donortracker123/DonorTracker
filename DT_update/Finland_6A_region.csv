@@ -60,9 +60,9 @@ Year,Multi_short,ODA,Share,full name,Donor
 2020,GEF-TF,9.97,0.02%,Global Environment Facility Trust Fund,Finland
 2020,IBRD,9.83,0.02%,International Bank for Reconstruction and Development ,Finland
 2020,World Health Organisation - core voluntary contributions account,8.58,0.02%,World Health Organisation - core voluntary contributions account,Finland
+2020,Global Environment Facility - Least Developed Countries Fund,8.52,0.02%,Global Environment Facility - Least Developed Countries Fund,Finland
 2020,UNICEF,8.52,0.02%,United Nations Children's Fund ,Finland
 2020,United Nations Office of the High Commissioner for Refugees,8.52,0.02%,United Nations Office of the High Commissioner for Refugees,Finland
-2020,Global Environment Facility - Least Developed Countries Fund,8.52,0.02%,Global Environment Facility - Least Developed Countries Fund,Finland
 2020,World Health Organisation - assessed contributions,7.85,0.02%,World Health Organisation - assessed contributions,Finland
 2020,IFC,7.41,0.01%,International Finance Corporation ,Finland
 2020,UNEP,7.0,0.01%,United Nations Environment Programme ,Finland
@@ -73,8 +73,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2020,United Nations Peacebuilding Fund,3.65,0.01%,United Nations Peacebuilding Fund,Finland
 2020,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),3.21,0.01%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Finland
 2020,GAVI,3.04,0.01%,Global Alliance for Vaccines and Immunization ,Finland
-2020,ADB,3.04,0.01%,Asian Development Bank,Finland
 2020,United Nations Office of Co-ordination of Humanitarian Affairs ,3.04,0.01%,United Nations Office of Co-ordination of Humanitarian Affairs ,Finland
+2020,ADB,3.04,0.01%,Asian Development Bank,Finland
 2020,United Nations Voluntary Fund for Technical Co-operation in the Field of Human Rights,2.8,0.01%,United Nations Voluntary Fund for Technical Co-operation in the Field of Human Rights,Finland
 2020,UNDP,2.43,0.0%,United Nations Development Programme ,Finland
 2020,United Nations Office for Disaster Risk Reduction,2.43,0.0%,United Nations Office for Disaster Risk Reduction,Finland
@@ -116,8 +116,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2021,WFP,9.53,0.02%,World Food Programme ,Finland
 2021,IBRD,9.02,0.02%,International Bank for Reconstruction and Development ,Finland
 2021,AF,8.34,0.01%,Adaptation Fund,Finland
-2021,UNICEF,8.34,0.01%,United Nations Children's Fund ,Finland
 2021,United Nations Office of the High Commissioner for Refugees,8.34,0.01%,United Nations Office of the High Commissioner for Refugees,Finland
+2021,UNICEF,8.34,0.01%,United Nations Children's Fund ,Finland
 2021,IFC,6.85,0.01%,International Finance Corporation ,Finland
 2021,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),6.29,0.01%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Finland
 2021,UN,5.6,0.01%,United Nations,Finland
@@ -125,10 +125,10 @@ Year,Multi_short,ODA,Share,full name,Donor
 2021,UNEP,3.08,0.01%,United Nations Environment Programme ,Finland
 2021,United Nations Office of Co-ordination of Humanitarian Affairs ,2.98,0.01%,United Nations Office of Co-ordination of Humanitarian Affairs ,Finland
 2021,World Health Organisation - core voluntary contributions account,2.82,0.01%,World Health Organisation - core voluntary contributions account,Finland
+2021,UNDP,2.38,0.0%,United Nations Development Programme ,Finland
 2021,World Trade Organisation - International Trade Centre ,2.38,0.0%,World Trade Organisation - International Trade Centre ,Finland
 2021,United Nations Voluntary Fund for Technical Co-operation in the Field of Human Rights,2.38,0.0%,United Nations Voluntary Fund for Technical Co-operation in the Field of Human Rights,Finland
 2021,Global Environment Facility - Least Developed Countries Fund,2.38,0.0%,Global Environment Facility - Least Developed Countries Fund,Finland
-2021,UNDP,2.38,0.0%,United Nations Development Programme ,Finland
 2021,Organization for Security and Co-operation in Europe,2.33,0.0%,Organization for Security and Co-operation in Europe,Finland
 2021,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",2.1,0.0%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",Finland
 2021,United Nations University (including Endowment Fund) ,2.03,0.0%,United Nations University (including Endowment Fund) ,Finland
@@ -137,8 +137,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2021,Council of Europe,1.58,0.0%,Council of Europe,Finland
 2021,MLF-MP,1.27,0.0%,Multilateral Fund for the Implementation of the Montreal Protocol ,Finland
 2021,International Labour Organisation - Assessed Contributions,1.21,0.0%,International Labour Organisation - Assessed Contributions,Finland
-2021,United Nations Peacebuilding Fund,1.19,0.0%,United Nations Peacebuilding Fund,Finland
 2021,United Nations Office for Disaster Risk Reduction,1.19,0.0%,United Nations Office for Disaster Risk Reduction,Finland
+2021,United Nations Peacebuilding Fund,1.19,0.0%,United Nations Peacebuilding Fund,Finland
 2021,"United Nations Educational, Scientific and Cultural Organisation",0.89,0.0%,"United Nations Educational, Scientific and Cultural Organisation",Finland
 2021,African Tax Administration Forum,0.83,0.0%,African Tax Administration Forum,Finland
 2021,International Vaccine Institute ,0.6,0.0%,International Vaccine Institute ,Finland
@@ -173,9 +173,9 @@ Year,Multi_short,ODA,Share,full name,Donor
 2022,GEF-TF,11.87,0.02%,Global Environment Facility Trust Fund,Finland
 2022,IBRD,9.68,0.02%,International Bank for Reconstruction and Development ,Finland
 2022,WFP,9.04,0.02%,World Food Programme ,Finland
-2022,UNICEF,7.91,0.01%,United Nations Children's Fund ,Finland
 2022,United Nations Office of the High Commissioner for Refugees,7.91,0.01%,United Nations Office of the High Commissioner for Refugees,Finland
 2022,UNRWA,7.91,0.01%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Finland
+2022,UNICEF,7.91,0.01%,United Nations Children's Fund ,Finland
 2022,IFC,7.22,0.01%,International Finance Corporation ,Finland
 2022,IFAD,6.78,0.01%,International Fund for Agricultural Development ,Finland
 2022,UN,6.22,0.01%,United Nations,Finland
@@ -186,8 +186,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2022,UNEP,2.92,0.01%,United Nations Environment Programme ,Finland
 2022,United Nations Office of Co-ordination of Humanitarian Affairs ,2.83,0.01%,United Nations Office of Co-ordination of Humanitarian Affairs ,Finland
 2022,World Health Organisation - core voluntary contributions account,2.45,0.0%,World Health Organisation - core voluntary contributions account,Finland
-2022,UNDP,2.26,0.0%,United Nations Development Programme ,Finland
 2022,Global Environment Facility - Least Developed Countries Fund,2.26,0.0%,Global Environment Facility - Least Developed Countries Fund,Finland
+2022,UNDP,2.26,0.0%,United Nations Development Programme ,Finland
 2022,Organization for Security and Co-operation in Europe,2.19,0.0%,Organization for Security and Co-operation in Europe,Finland
 2022,International Labour Organisation - Assessed Contributions,1.92,0.0%,International Labour Organisation - Assessed Contributions,Finland
 2022,African Tax Administration Forum,1.81,0.0%,African Tax Administration Forum,Finland
@@ -196,8 +196,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2022,World Health Organisation - assessed contributions,1.53,0.0%,World Health Organisation - assessed contributions,Finland
 2022,"United Nations Educational, Scientific and Cultural Organisation",1.47,0.0%,"United Nations Educational, Scientific and Cultural Organisation",Finland
 2022,United Nations Office on Drugs and Crime ,1.16,0.0%,United Nations Office on Drugs and Crime ,Finland
-2022,United Nations Peacebuilding Fund,1.13,0.0%,United Nations Peacebuilding Fund,Finland
 2022,United Nations Office for Disaster Risk Reduction,1.13,0.0%,United Nations Office for Disaster Risk Reduction,Finland
+2022,United Nations Peacebuilding Fund,1.13,0.0%,United Nations Peacebuilding Fund,Finland
 2022,MLF-MP,1.03,0.0%,Multilateral Fund for the Implementation of the Montreal Protocol ,Finland
 2022,International Vaccine Institute ,0.57,0.0%,International Vaccine Institute ,Finland
 2022,International Institute for Democracy and Electoral Assistance ,0.57,0.0%,International Institute for Democracy and Electoral Assistance ,Finland
@@ -215,8 +215,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2022,European and Mediterranean Plant Protection Organisation ,0.06,0.0%,European and Mediterranean Plant Protection Organisation ,Finland
 2022,Convention to Combat Desertification ,0.04,0.0%,Convention to Combat Desertification ,Finland
 2022,UNIDIR,0.02,0.0%,United Nations Institute for Disarmament Research,Finland
-2022,United Nations Economic Commission for Europe (extrabudgetary contributions only),0.01,0.0%,United Nations Economic Commission for Europe (extrabudgetary contributions only),Finland
 2022,World Meteorological Organisation ,0.01,0.0%,World Meteorological Organisation ,Finland
+2022,United Nations Economic Commission for Europe (extrabudgetary contributions only),0.01,0.0%,United Nations Economic Commission for Europe (extrabudgetary contributions only),Finland
 2023,European Commission - Development Share of Budget,246.26,0.4%,European Commission - Development Share of Budget,Finland
 2023,IDA,135.76,0.22%,International Development Association ,Finland
 2023,ADF,109.38,0.18%,African Development Fund ,Finland
@@ -235,8 +235,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2023,UN,6.34,0.01%,United Nations,Finland
 2023,UNEP,6.03,0.01%,United Nations Environment Programme ,Finland
 2023,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),5.71,0.01%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Finland
-2023,IFAD,5.41,0.01%,International Fund for Agricultural Development ,Finland
 2023,UNRWA,5.41,0.01%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Finland
+2023,IFAD,5.41,0.01%,International Fund for Agricultural Development ,Finland
 2023,NDF,5.39,0.01%,Nordic Development Fund,Finland
 2023,AfDB,3.96,0.01%,African Development Bank,Finland
 2023,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",2.95,0.0%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",Finland

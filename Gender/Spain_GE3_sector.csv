@@ -1,53 +1,48 @@
 year,Sector,Gender-related ODA to,Share,Donor
-2023,Government & civil society,173.32,27.0%,Spain
-2022,Government & civil society,158.98,29.0%,Spain
-2021,Government & civil society,136.61,30.0%,Spain
-2019,Government & civil society,116.0,32.0%,Spain
-2020,Government & civil society,112.87,27.0%,Spain
-2023,Emergency Response,110.42,17.0%,Spain
-2022,Emergency Response,104.23,19.0%,Spain
-2020,Health & populations,69.66,17.0%,Spain
-2022,"Agriculture (incl. forestry, fishing, rural development)",67.37,12.0%,Spain
-2021,"Agriculture (incl. forestry, fishing, rural development)",63.13,14.0%,Spain
-2023,"Agriculture (incl. forestry, fishing, rural development)",58.64,9.0%,Spain
-2021,Health & populations,58.06,13.0%,Spain
-2020,"Agriculture (incl. forestry, fishing, rural development)",55.37,13.0%,Spain
+2023,Government & civil society,173.32,29.0%,Spain
+2022,Government & civil society,158.98,30.0%,Spain
+2021,Government & civil society,136.61,33.0%,Spain
+2019,Government & civil society,116.0,35.0%,Spain
+2020,Government & civil society,112.87,29.0%,Spain
+2023,Emergency Response,110.42,18.0%,Spain
+2022,Emergency Response,104.23,20.0%,Spain
+2020,Health & populations,69.66,18.0%,Spain
+2022,"Agriculture (incl. forestry, fishing, rural development)",67.37,13.0%,Spain
+2021,"Agriculture (incl. forestry, fishing, rural development)",63.13,15.0%,Spain
+2023,"Agriculture (incl. forestry, fishing, rural development)",58.64,10.0%,Spain
+2021,Health & populations,58.06,14.0%,Spain
+2020,"Agriculture (incl. forestry, fishing, rural development)",55.37,14.0%,Spain
 2022,Health & populations,48.83,9.0%,Spain
 2023,Financial services & business support,48.57,8.0%,Spain
-2019,"Agriculture (incl. forestry, fishing, rural development)",47.51,13.0%,Spain
-2023,Health & populations,46.59,7.0%,Spain
-2023,Education,45.48,7.0%,Spain
+2019,"Agriculture (incl. forestry, fishing, rural development)",47.51,14.0%,Spain
+2023,Health & populations,46.59,8.0%,Spain
+2023,Education,45.36,7.0%,Spain
 2021,Emergency Response,43.61,10.0%,Spain
 2022,Education,39.19,7.0%,Spain
-2023,Unspecified,38.36,6.0%,Spain
-2019,Health & populations,37.29,10.0%,Spain
-2019,Education,35.88,10.0%,Spain
-2021,Education,35.78,8.0%,Spain
-2023,Water and sanitation,33.36,5.0%,Spain
-2020,Emergency Response,33.2,8.0%,Spain
-2021,Unspecified,31.84,7.0%,Spain
-2020,Education,31.4,8.0%,Spain
-2020,Unspecified,30.82,7.0%,Spain
-2019,Unspecified,27.77,8.0%,Spain
-2022,Unspecified,22.77,4.0%,Spain
-2019,Emergency Response,22.55,6.0%,Spain
-2020,Financial services & business support,22.51,5.0%,Spain
-2020,Water and sanitation,22.1,5.0%,Spain
+2019,Health & populations,37.29,11.0%,Spain
+2021,Education,35.78,9.0%,Spain
+2019,Education,35.62,11.0%,Spain
+2023,Water and sanitation,33.36,6.0%,Spain
+2020,Emergency Response,33.2,9.0%,Spain
+2020,Education,31.34,8.0%,Spain
+2019,Emergency Response,22.55,7.0%,Spain
+2020,Financial services & business support,22.51,6.0%,Spain
+2020,Water and sanitation,22.1,6.0%,Spain
 2022,Water and sanitation,21.3,4.0%,Spain
 2022,Financial services & business support,20.58,4.0%,Spain
-2021,Water and sanitation,19.53,4.0%,Spain
+2021,Water and sanitation,19.53,5.0%,Spain
 2023,Other multisector,17.31,3.0%,Spain
 2022,"Conflict, peace & security",16.86,3.0%,Spain
-2023,Other social services,15.79,2.0%,Spain
+2023,Other social services,15.79,3.0%,Spain
 2019,Water and sanitation,14.1,4.0%,Spain
 2023,"Conflict, peace & security",13.7,2.0%,Spain
 2023,Environmental protection,13.55,2.0%,Spain
 2019,Financial services & business support,12.7,4.0%,Spain
 2022,Other social services,12.66,2.0%,Spain
-2019,Other social services,12.04,3.0%,Spain
+2019,Other social services,12.04,4.0%,Spain
 2022,Other multisector,12.01,2.0%,Spain
 2020,"Conflict, peace & security",10.85,3.0%,Spain
-2021,Financial services & business support,10.77,2.0%,Spain
+2021,Financial services & business support,10.77,3.0%,Spain
 2019,"Conflict, peace & security",10.44,3.0%,Spain
 2021,"Conflict, peace & security",9.72,2.0%,Spain
 2022,Environmental protection,9.14,2.0%,Spain
@@ -71,18 +66,21 @@ year,Sector,Gender-related ODA to,Share,Donor
 2022,"Industry, construction & mining",3.2,1.0%,Spain
 2021,Reconstruction Relief & Rehabilitation,3.08,1.0%,Spain
 2023,Energy,2.89,0.0%,Spain
+2023,Unspecified,2.69,0.0%,Spain
+2019,Unspecified,2.59,1.0%,Spain
 2023,Disaster Prevention & Preparedness,2.58,0.0%,Spain
 2019,Environmental protection,2.36,1.0%,Spain
 2020,Environmental protection,2.31,1.0%,Spain
 2023,"Industry, construction & mining",2.29,0.0%,Spain
-2020,"Industry, construction & mining",2.07,0.0%,Spain
-2023,Refugees in donor countries,2.01,0.0%,Spain
-2019,"Industry, construction & mining",1.76,0.0%,Spain
-2022,Refugees in donor countries,1.69,0.0%,Spain
+2020,"Industry, construction & mining",2.07,1.0%,Spain
+2022,Unspecified,1.85,0.0%,Spain
+2019,"Industry, construction & mining",1.76,1.0%,Spain
 2022,Tourism,1.64,0.0%,Spain
 2023,Tourism,1.62,0.0%,Spain
-2020,Reconstruction Relief & Rehabilitation,1.28,0.0%,Spain
+2021,Unspecified,1.54,0.0%,Spain
 2020,Energy,1.28,0.0%,Spain
+2020,Reconstruction Relief & Rehabilitation,1.28,0.0%,Spain
+2020,Unspecified,1.27,0.0%,Spain
 2022,Disaster Prevention & Preparedness,1.09,0.0%,Spain
 2021,Tourism,0.95,0.0%,Spain
 2021,Trade policy,0.92,0.0%,Spain
@@ -98,18 +96,13 @@ year,Sector,Gender-related ODA to,Share,Donor
 2023,,0.48,0.0%,Spain
 2019,Disaster Prevention & Preparedness,0.47,0.0%,Spain
 2020,Trade policy,0.45,0.0%,Spain
-2021,Refugees in donor countries,0.44,0.0%,Spain
-2020,Refugees in donor countries,0.43,0.0%,Spain
-2022,Infrastructure,0.42,0.0%,Spain
 2020,Tourism,0.42,0.0%,Spain
+2022,Infrastructure,0.42,0.0%,Spain
 2021,,0.33,0.0%,Spain
 2020,Disaster Prevention & Preparedness,0.3,0.0%,Spain
 2022,Trade policy,0.26,0.0%,Spain
 2023,Trade policy,0.17,0.0%,Spain
 2020,,0.13,0.0%,Spain
-2019,Refugees in donor countries,0.12,0.0%,Spain
 2019,,0.12,0.0%,Spain
 2022,Debt relief,0.04,0.0%,Spain
-2022,General budget support,0.01,0.0%,Spain
-2021,General budget support,0.01,0.0%,Spain
 2019,General budget support,0.0,0.0%,Spain
