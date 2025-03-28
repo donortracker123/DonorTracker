@@ -12,7 +12,6 @@ WITH base AS (
         'ODA Loans','Equity Investment','ODA Grants'
     )
     AND "Aid_T" IN ('A02', 'B01', 'B03', 'B031', 'B032', 'B033','B04', 'C01', 'D01', 'D02', 'E01')
-    AND donor_name != 'EU Institutions'
 ), 
 
 crs_totals AS (
@@ -57,7 +56,6 @@ allocable_totals AS (
     WHERE 1=1
     AND year BETWEEN ({{latest_year}} - 4) AND ({{latest_year}})
     AND "Donor_1" IN {{dac_countries}}
-    AND "Donor_1" != 'EU Institutions'
     GROUP BY 1,2
 )
 
