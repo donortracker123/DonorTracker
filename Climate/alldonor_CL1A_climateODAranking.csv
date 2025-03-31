@@ -1,31 +1,4 @@
 Donor,ODA towards Climate,year,Ranking
-Slovak Republic,2.6,2023,29th
-Greece,0.01,2023,30th
-Japan,16535.1,2023,1st
-Germany,10253.34,2023,2nd
-United States,5592.37,2023,3rd
-France,5192.47,2023,4th
-Korea,3068.98,2023,5th
-Netherlands,2579.97,2023,6th
-Norway,1325.26,2023,7th
-Australia,1154.17,2023,8th
-Canada,789.4,2023,9th
-Sweden,567.82,2023,10th
-United Kingdom,551.55,2023,11th
-Switzerland,506.41,2023,12th
-Denmark,488.08,2023,13th
-Belgium,318.28,2023,14th
-Germany,13436.08,2022,1st
-Japan,12058.21,2022,2nd
-France,7197.9,2022,3rd
-United States,4556.28,2022,4th
-Korea,2173.62,2022,5th
-Netherlands,1972.79,2022,6th
-United Kingdom,1856.6,2022,7th
-Canada,1170.93,2022,8th
-Norway,1046.82,2022,9th
-Australia,1027.22,2022,10th
-Switzerland,938.42,2022,11th
 Sweden,768.36,2022,12th
 Denmark,366.58,2022,13th
 Italy,313.44,2022,14th
@@ -37,14 +10,6 @@ Finland,136.11,2022,19th
 New Zealand,116.68,2022,20th
 Luxembourg,62.61,2022,21st
 Iceland,19.93,2022,22nd
-Poland,11.83,2022,23rd
-Czechia,6.39,2022,24th
-Portugal,4.19,2022,25th
-Slovenia,3.32,2022,26th
-Lithuania,2.52,2022,27th
-Slovak Republic,2.09,2022,28th
-Hungary,0.52,2022,29th
-Estonia,0.22,2022,30th
 New Zealand,280.59,2023,15th
 Italy,244.5,2023,16th
 Finland,174.65,2023,17th
@@ -59,3 +24,38 @@ Slovenia,6.43,2023,25th
 Lithuania,4.19,2023,26th
 Estonia,2.8,2023,27th
 Hungary,2.64,2023,28th
+Japan,16535.1,2023,1st
+Germany,10253.34,2023,2nd
+United States,5592.37,2023,3rd
+France,5192.47,2023,4th
+Korea,3068.98,2023,5th
+Netherlands,2579.97,2023,6th
+Norway,1325.26,2023,7th
+Australia,1154.17,2023,8th
+Canada,789.4,2023,9th
+Sweden,567.82,2023,10th
+United Kingdom,551.55,2023,11th
+Switzerland,506.41,2023,12th
+Denmark,488.08,2023,13th
+Belgium,318.28,2023,14th
+Slovak Republic,2.6,2023,29th
+Greece,0.01,2023,30th
+Germany,13436.08,2022,1st
+Japan,12058.21,2022,2nd
+France,7197.9,2022,3rd
+United States,4556.28,2022,4th
+Korea,2173.62,2022,5th
+Netherlands,1972.79,2022,6th
+United Kingdom,1856.6,2022,7th
+Canada,1170.93,2022,8th
+Norway,1046.82,2022,9th
+Australia,1027.22,2022,10th
+Switzerland,938.42,2022,11th
+Poland,11.83,2022,23rd
+Czechia,6.39,2022,24th
+Portugal,4.19,2022,25th
+Slovenia,3.32,2022,26th
+Lithuania,2.52,2022,27th
+Slovak Republic,2.09,2022,28th
+Hungary,0.52,2022,29th
+Estonia,0.22,2022,30th

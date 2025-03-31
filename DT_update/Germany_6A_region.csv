@@ -9,8 +9,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2019,CERF,120.65,0.25%,Central Emergency Response Fund,Germany
 2019,UN,88.36,0.18%,United Nations,Germany
 2019,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",85.29,0.18%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",Germany
-2019,GAVI,76.2,0.16%,Global Alliance for Vaccines and Immunization ,Germany
 2019,UNICEF,76.2,0.16%,United Nations Children's Fund ,Germany
+2019,GAVI,76.2,0.16%,Global Alliance for Vaccines and Immunization ,Germany
 2019,IBRD,75.17,0.16%,International Bank for Reconstruction and Development ,Germany
 2019,UNDP,63.5,0.13%,United Nations Development Programme ,Germany
 2019,UNFPA,41.91,0.09%,United Nations Population Fund ,Germany
@@ -68,8 +68,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2020,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",623.32,1.21%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Germany
 2020,ADF,222.19,0.43%,African Development Fund ,Germany
 2020,GAVI,199.46,0.39%,Global Alliance for Vaccines and Immunization ,Germany
-2020,CERF,137.13,0.27%,Central Emergency Response Fund,Germany
 2020,UNDP,137.13,0.27%,United Nations Development Programme ,Germany
+2020,CERF,137.13,0.27%,Central Emergency Response Fund,Germany
 2020,GEF-TF,130.9,0.25%,Global Environment Facility Trust Fund,Germany
 2020,UNICEF,112.2,0.22%,United Nations Children's Fund ,Germany
 2020,GCF,93.5,0.18%,Green Climate Fund,Germany
@@ -119,8 +119,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2020,Intergovernmental Panel on Climate Change ,0.4,0.0%,Intergovernmental Panel on Climate Change ,Germany
 2020,UNWTO,0.4,0.0%,World Tourism Organization,Germany
 2020,WOAH,0.38,0.0%,World Organisation for Animal Health,Germany
-2020,Universal Postal Union ,0.37,0.0%,Universal Postal Union ,Germany
 2020,United Nations Voluntary Fund for Technical Co-operation in the Field of Human Rights,0.37,0.0%,United Nations Voluntary Fund for Technical Co-operation in the Field of Human Rights,Germany
+2020,Universal Postal Union ,0.37,0.0%,Universal Postal Union ,Germany
 2020,World Meteorological Organisation ,0.2,0.0%,World Meteorological Organisation ,Germany
 2020,European and Mediterranean Plant Protection Organisation ,0.16,0.0%,European and Mediterranean Plant Protection Organisation ,Germany
 2020,World Intellectual Property Organisation ,0.04,0.0%,World Intellectual Property Organisation ,Germany
@@ -139,8 +139,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2021,UN,91.84,0.16%,United Nations,Germany
 2021,UNICEF,84.71,0.15%,United Nations Children's Fund ,Germany
 2021,IBRD,65.04,0.12%,International Bank for Reconstruction and Development ,Germany
-2021,WFP,60.51,0.11%,World Food Programme ,Germany
 2021,AF,60.51,0.11%,Adaptation Fund,Germany
+2021,WFP,60.51,0.11%,World Food Programme ,Germany
 2021,Global Environment Facility - Least Developed Countries Fund,60.51,0.11%,Global Environment Facility - Least Developed Countries Fund,Germany
 2021,AfDB,58.37,0.1%,African Development Bank,Germany
 2021,IFC,55.7,0.1%,International Finance Corporation ,Germany
@@ -194,8 +194,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2022,ADF,216.38,0.4%,African Development Fund ,Germany
 2022,GEF-TF,201.17,0.38%,Global Environment Facility Trust Fund,Germany
 2022,CERF,157.49,0.29%,Central Emergency Response Fund,Germany
-2022,GAVI,137.95,0.26%,Global Alliance for Vaccines and Immunization ,Germany
 2022,WFP,137.95,0.26%,World Food Programme ,Germany
+2022,GAVI,137.95,0.26%,Global Alliance for Vaccines and Immunization ,Germany
 2022,UNICEF,114.95,0.21%,United Nations Children's Fund ,Germany
 2022,UNDP,94.26,0.18%,United Nations Development Programme ,Germany
 2022,UN,91.53,0.17%,United Nations,Germany
@@ -213,8 +213,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2022,United Nations Office of the High Commissioner for Refugees,24.94,0.05%,United Nations Office of the High Commissioner for Refugees,Germany
 2022,World Health Organisation - assessed contributions,23.34,0.04%,World Health Organisation - assessed contributions,Germany
 2022,Asian Development Fund ,22.99,0.04%,Asian Development Fund ,Germany
-2022,UNRWA,20.69,0.04%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Germany
 2022,United Nations Entity for Gender Equality and the Empowerment of Women,20.69,0.04%,United Nations Entity for Gender Equality and the Empowerment of Women,Germany
+2022,UNRWA,20.69,0.04%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Germany
 2022,World Health Organisation - core voluntary contributions account,16.09,0.03%,World Health Organisation - core voluntary contributions account,Germany
 2022,International Labour Organisation - Assessed Contributions,15.21,0.03%,International Labour Organisation - Assessed Contributions,Germany
 2022,Council of Europe,14.51,0.03%,Council of Europe,Germany
@@ -303,8 +303,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2023,World Trade Organisation - International Trade Centre ,1.31,0.0%,World Trade Organisation - International Trade Centre ,Germany
 2023,United Nations Framework Convention on Climate Change ,1.23,0.0%,United Nations Framework Convention on Climate Change ,Germany
 2023,United Nations Human Settlement Programme ,1.08,0.0%,United Nations Human Settlement Programme ,Germany
-2023,International Renewable Energy Agency,0.81,0.0%,International Renewable Energy Agency,Germany
 2023,United Nations Office on Drugs and Crime ,0.81,0.0%,United Nations Office on Drugs and Crime ,Germany
+2023,International Renewable Energy Agency,0.81,0.0%,International Renewable Energy Agency,Germany
 2023,International Agency for Research on Cancer,0.64,0.0%,International Agency for Research on Cancer,Germany
 2023,World Trade Organisation - Doha Development Agenda Global Trust Fund ,0.54,0.0%,World Trade Organisation - Doha Development Agenda Global Trust Fund ,Germany
 2023,European Bank for Reconstruction and Development - Early Transition Countries Fund,0.54,0.0%,European Bank for Reconstruction and Development - Early Transition Countries Fund,Germany

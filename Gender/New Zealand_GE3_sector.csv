@@ -1,68 +1,58 @@
 year,Sector,Gender-related ODA to,Share,Donor
-2019,Education,73.34,31.0%,New Zealand
-2020,Education,69.85,27.0%,New Zealand
-2022,Donor administration costs,63.12,27.0%,New Zealand
-2021,Education,58.09,23.0%,New Zealand
-2020,Donor administration costs,53.13,20.0%,New Zealand
-2021,Donor administration costs,52.48,21.0%,New Zealand
-2023,Education,49.07,15.0%,New Zealand
-2023,"Agriculture (incl. forestry, fishing, rural development)",40.65,13.0%,New Zealand
-2021,Other multisector,34.97,14.0%,New Zealand
-2019,Other multisector,34.66,15.0%,New Zealand
-2023,Government & civil society,34.18,11.0%,New Zealand
-2022,Education,33.43,14.0%,New Zealand
-2019,Government & civil society,33.15,14.0%,New Zealand
-2020,Government & civil society,29.4,11.0%,New Zealand
-2023,Emergency Response,29.02,9.0%,New Zealand
-2023,Energy,28.99,9.0%,New Zealand
-2023,Other multisector,28.9,9.0%,New Zealand
-2021,Health & populations,27.77,11.0%,New Zealand
-2022,Other multisector,26.04,11.0%,New Zealand
-2021,Government & civil society,25.92,10.0%,New Zealand
-2023,Health & populations,22.46,7.0%,New Zealand
-2022,Health & populations,22.39,9.0%,New Zealand
-2020,Other multisector,22.15,8.0%,New Zealand
-2022,Government & civil society,21.06,9.0%,New Zealand
-2023,General budget support,19.7,6.0%,New Zealand
-2020,Health & populations,19.34,7.0%,New Zealand
-2019,Refugees in donor countries,17.66,8.0%,New Zealand
-2019,Health & populations,16.92,7.0%,New Zealand
-2023,Environmental protection,16.69,5.0%,New Zealand
-2019,Emergency Response,16.58,7.0%,New Zealand
-2019,"Agriculture (incl. forestry, fishing, rural development)",16.25,7.0%,New Zealand
-2022,"Agriculture (incl. forestry, fishing, rural development)",15.66,7.0%,New Zealand
-2020,"Agriculture (incl. forestry, fishing, rural development)",15.4,6.0%,New Zealand
+2019,Education,73.34,34.0%,New Zealand
+2020,Education,69.85,35.0%,New Zealand
+2021,Education,58.09,30.0%,New Zealand
+2023,Education,49.07,17.0%,New Zealand
+2023,"Agriculture (incl. forestry, fishing, rural development)",40.65,14.0%,New Zealand
+2021,Other multisector,34.97,18.0%,New Zealand
+2019,Other multisector,34.66,16.0%,New Zealand
+2023,Government & civil society,34.18,12.0%,New Zealand
+2022,Education,33.43,22.0%,New Zealand
+2019,Government & civil society,33.15,15.0%,New Zealand
+2020,Government & civil society,29.4,15.0%,New Zealand
+2023,Emergency Response,29.02,10.0%,New Zealand
+2023,Energy,28.99,10.0%,New Zealand
+2023,Other multisector,28.9,10.0%,New Zealand
+2021,Health & populations,27.77,14.0%,New Zealand
+2022,Other multisector,26.04,17.0%,New Zealand
+2021,Government & civil society,25.92,14.0%,New Zealand
+2023,Health & populations,22.46,8.0%,New Zealand
+2022,Health & populations,22.39,15.0%,New Zealand
+2020,Other multisector,22.15,11.0%,New Zealand
+2022,Government & civil society,21.06,14.0%,New Zealand
+2020,Health & populations,19.34,10.0%,New Zealand
+2019,Health & populations,16.92,8.0%,New Zealand
+2023,Environmental protection,16.69,6.0%,New Zealand
+2019,Emergency Response,16.58,8.0%,New Zealand
+2019,"Agriculture (incl. forestry, fishing, rural development)",16.25,8.0%,New Zealand
+2022,"Agriculture (incl. forestry, fishing, rural development)",15.66,10.0%,New Zealand
+2020,"Agriculture (incl. forestry, fishing, rural development)",15.4,8.0%,New Zealand
 2023,Water and sanitation,14.57,5.0%,New Zealand
-2022,Refugees in donor countries,14.36,6.0%,New Zealand
-2023,Refugees in donor countries,13.2,4.0%,New Zealand
-2020,Emergency Response,12.48,5.0%,New Zealand
-2021,Refugees in donor countries,11.31,4.0%,New Zealand
-2021,Other social services,11.02,4.0%,New Zealand
-2021,"Agriculture (incl. forestry, fishing, rural development)",9.24,4.0%,New Zealand
-2020,Refugees in donor countries,8.89,3.0%,New Zealand
-2019,Financial services & business support,7.97,3.0%,New Zealand
-2023,Other social services,7.9,2.0%,New Zealand
-2022,General budget support,7.86,3.0%,New Zealand
-2020,Water and sanitation,7.83,3.0%,New Zealand
-2022,Water and sanitation,7.69,3.0%,New Zealand
+2020,Emergency Response,12.48,6.0%,New Zealand
+2021,Other social services,11.02,6.0%,New Zealand
+2021,"Agriculture (incl. forestry, fishing, rural development)",9.24,5.0%,New Zealand
+2019,Financial services & business support,7.97,4.0%,New Zealand
+2023,Other social services,7.9,3.0%,New Zealand
+2020,Water and sanitation,7.83,4.0%,New Zealand
+2022,Water and sanitation,7.69,5.0%,New Zealand
 2020,Other social services,6.95,3.0%,New Zealand
 2021,Water and sanitation,6.71,3.0%,New Zealand
-2019,Other social services,5.81,2.0%,New Zealand
-2021,Financial services & business support,5.29,2.0%,New Zealand
-2020,Financial services & business support,5.25,2.0%,New Zealand
+2019,Other social services,5.81,3.0%,New Zealand
+2021,Financial services & business support,5.29,3.0%,New Zealand
+2020,Financial services & business support,5.25,3.0%,New Zealand
 2023,Tourism,4.86,2.0%,New Zealand
 2020,Energy,4.65,2.0%,New Zealand
-2022,Other social services,4.53,2.0%,New Zealand
-2022,Financial services & business support,4.46,2.0%,New Zealand
+2022,Other social services,4.53,3.0%,New Zealand
+2022,Financial services & business support,4.46,3.0%,New Zealand
 2019,Water and sanitation,4.24,2.0%,New Zealand
-2022,"Conflict, peace & security",3.92,2.0%,New Zealand
+2022,"Conflict, peace & security",3.92,3.0%,New Zealand
 2023,Financial services & business support,3.77,1.0%,New Zealand
-2021,Food aid and commodity assistance,3.42,1.0%,New Zealand
-2019,Tourism,3.26,1.0%,New Zealand
-2022,Emergency Response,3.13,1.0%,New Zealand
-2020,"Conflict, peace & security",3.13,1.0%,New Zealand
+2021,Food aid and commodity assistance,3.42,2.0%,New Zealand
+2019,Tourism,3.26,2.0%,New Zealand
+2022,Emergency Response,3.13,2.0%,New Zealand
+2020,"Conflict, peace & security",3.13,2.0%,New Zealand
 2023,"Conflict, peace & security",2.88,1.0%,New Zealand
-2022,Energy,2.72,1.0%,New Zealand
+2022,Energy,2.72,2.0%,New Zealand
 2023,"Industry, construction & mining",2.68,1.0%,New Zealand
 2021,"Conflict, peace & security",2.15,1.0%,New Zealand
 2021,Energy,2.05,1.0%,New Zealand
@@ -74,25 +64,22 @@ year,Sector,Gender-related ODA to,Share,Donor
 2022,Environmental protection,1.65,1.0%,New Zealand
 2020,Environmental protection,1.41,1.0%,New Zealand
 2022,Infrastructure,1.39,1.0%,New Zealand
-2020,Disaster Prevention & Preparedness,1.22,0.0%,New Zealand
-2021,Tourism,1.19,0.0%,New Zealand
+2020,Disaster Prevention & Preparedness,1.22,1.0%,New Zealand
+2021,Tourism,1.19,1.0%,New Zealand
 2020,Tourism,0.94,0.0%,New Zealand
 2021,Environmental protection,0.9,0.0%,New Zealand
-2021,Unspecified,0.78,0.0%,New Zealand
 2023,Trade policy,0.61,0.0%,New Zealand
 2022,Disaster Prevention & Preparedness,0.5,0.0%,New Zealand
-2020,Unspecified,0.41,0.0%,New Zealand
-2019,Unspecified,0.4,0.0%,New Zealand
 2021,Disaster Prevention & Preparedness,0.39,0.0%,New Zealand
+2021,Unspecified,0.36,0.0%,New Zealand
 2022,"Industry, construction & mining",0.27,0.0%,New Zealand
 2021,"Industry, construction & mining",0.26,0.0%,New Zealand
 2020,"Industry, construction & mining",0.23,0.0%,New Zealand
 2019,Environmental protection,0.22,0.0%,New Zealand
-2023,Unspecified,0.16,0.0%,New Zealand
 2023,Reconstruction Relief & Rehabilitation,0.15,0.0%,New Zealand
+2023,Unspecified,0.14,0.0%,New Zealand
 2019,"Industry, construction & mining",0.13,0.0%,New Zealand
 2023,Disaster Prevention & Preparedness,0.05,0.0%,New Zealand
 2019,Reconstruction Relief & Rehabilitation,0.02,0.0%,New Zealand
 2022,Trade policy,0.01,0.0%,New Zealand
-2023,Donor administration costs,0.01,0.0%,New Zealand
 2019,"Conflict, peace & security",0.0,0.0%,New Zealand

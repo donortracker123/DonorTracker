@@ -43,14 +43,14 @@ Year,Multi_short,ODA,Share,full name,Donor
 2019,WFP,1.34,0.0%,World Food Programme ,France
 2019,Intergovernmental Panel on Climate Change ,1.22,0.0%,Intergovernmental Panel on Climate Change ,France
 2019,United Nations Framework Convention on Climate Change ,1.02,0.0%,United Nations Framework Convention on Climate Change ,France
-2019,United Nations Peacebuilding Fund,0.61,0.0%,United Nations Peacebuilding Fund,France
 2019,Integrated Framework for Trade-Related Technical Assistance to Least Developed Countries,0.61,0.0%,Integrated Framework for Trade-Related Technical Assistance to Least Developed Countries,France
+2019,United Nations Peacebuilding Fund,0.61,0.0%,United Nations Peacebuilding Fund,France
 2019,West African Development Bank,0.6,0.0%,West African Development Bank,France
 2019,Intergovernmental Oceanographic Commission ,0.51,0.0%,Intergovernmental Oceanographic Commission ,France
 2019,Joint United Nations Programme on HIV/AIDS ,0.49,0.0%,Joint United Nations Programme on HIV/AIDS ,France
 2019,International Maritime Organization - Technical Co-operation Fund,0.48,0.0%,International Maritime Organization - Technical Co-operation Fund,France
-2019,Convention to Combat Desertification ,0.44,0.0%,Convention to Combat Desertification ,France
 2019,UNIDIR,0.44,0.0%,United Nations Institute for Disarmament Research,France
+2019,Convention to Combat Desertification ,0.44,0.0%,Convention to Combat Desertification ,France
 2019,CITES,0.32,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,France
 2019,United Nations Human Settlement Programme ,0.29,0.0%,United Nations Human Settlement Programme ,France
 2019,World Meteorological Organisation ,0.14,0.0%,World Meteorological Organisation ,France
@@ -59,8 +59,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2019,United Nations Mine Action Service ,0.05,0.0%,United Nations Mine Action Service ,France
 2019,WOAH,0.05,0.0%,World Organisation for Animal Health,France
 2019,International Centre for Advanced Mediterranean Agronomic Studies ,0.02,0.0%,International Centre for Advanced Mediterranean Agronomic Studies ,France
-2019,World Intellectual Property Organisation ,0.01,0.0%,World Intellectual Property Organisation ,France
 2019,United Nations Office for Disaster Risk Reduction,0.01,0.0%,United Nations Office for Disaster Risk Reduction,France
+2019,World Intellectual Property Organisation ,0.01,0.0%,World Intellectual Property Organisation ,France
 2019,GAVI,0.0,0.0%,Global Alliance for Vaccines and Immunization ,France
 2019,AF,0.0,0.0%,Adaptation Fund,France
 2019,International Monetary Fund - Poverty Reduction and Growth Trust ,,,International Monetary Fund - Poverty Reduction and Growth Trust ,France
@@ -126,10 +126,10 @@ Year,Multi_short,ODA,Share,full name,Donor
 2020,United Nations Human Settlement Programme ,0.24,0.0%,United Nations Human Settlement Programme ,France
 2020,World Meteorological Organisation ,0.13,0.0%,World Meteorological Organisation ,France
 2020,Organisation of Eastern Caribbean States ,0.08,0.0%,Organisation of Eastern Caribbean States ,France
-2020,Geneva International Centre for Humanitarian Demining ,0.06,0.0%,Geneva International Centre for Humanitarian Demining ,France
-2020,Organisation of American States ,0.06,0.0%,Organisation of American States ,France
 2020,United Nations Institute for Training and Research ,0.06,0.0%,United Nations Institute for Training and Research ,France
+2020,Geneva International Centre for Humanitarian Demining ,0.06,0.0%,Geneva International Centre for Humanitarian Demining ,France
 2020,"World Bank Group (WB), Other",0.06,0.0%,"World Bank Group (WB), Other",France
+2020,Organisation of American States ,0.06,0.0%,Organisation of American States ,France
 2020,UNIDIR,0.04,0.0%,United Nations Institute for Disarmament Research,France
 2020,"Other multilateral institutions, Other",0.04,0.0%,"Other multilateral institutions, Other",France
 2020,World Intellectual Property Organisation ,0.01,0.0%,World Intellectual Property Organisation ,France
@@ -195,8 +195,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2021,UNIDIR,0.05,0.0%,United Nations Institute for Disarmament Research,France
 2021,United Nations Office on Drugs and Crime ,0.03,0.0%,United Nations Office on Drugs and Crime ,France
 2021,World Intellectual Property Organisation ,0.01,0.0%,World Intellectual Property Organisation ,France
-2021,Global Environment Facility - Least Developed Countries Fund,0.0,0.0%,Global Environment Facility - Least Developed Countries Fund,France
 2021,AF,0.0,0.0%,Adaptation Fund,France
+2021,Global Environment Facility - Least Developed Countries Fund,0.0,0.0%,Global Environment Facility - Least Developed Countries Fund,France
 2022,European Commission - Development Share of Budget,2829.89,5.29%,European Commission - Development Share of Budget,France
 2022,GCF,1096.74,2.05%,Green Climate Fund,France
 2022,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",613.77,1.15%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",France
@@ -319,8 +319,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2023,Convention to Combat Desertification ,0.35,0.0%,Convention to Combat Desertification ,France
 2023,UNWTO,0.34,0.0%,World Tourism Organization,France
 2023,CITES,0.27,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,France
-2023,International Labour Organisation - Regular Budget Supplementary Account,0.27,0.0%,International Labour Organisation - Regular Budget Supplementary Account,France
 2023,Global Community Engagement and Resilience Fund,0.27,0.0%,Global Community Engagement and Resilience Fund,France
+2023,International Labour Organisation - Regular Budget Supplementary Account,0.27,0.0%,International Labour Organisation - Regular Budget Supplementary Account,France
 2023,United Nations Human Settlement Programme ,0.25,0.0%,United Nations Human Settlement Programme ,France
 2023,World Meteorological Organisation ,0.12,0.0%,World Meteorological Organisation ,France
 2023,United Nations Institute for Training and Research ,0.06,0.0%,United Nations Institute for Training and Research ,France
