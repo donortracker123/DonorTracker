@@ -9,7 +9,7 @@ WITH base AS (
     FROM "{{dac1_file}}"
     WHERE 1=1
     AND year BETWEEN ({{latest_year}} - 5) AND ({{latest_year}})
-    AND "Amount type" IN ('Current Prices (USD millions)', 'Constant Prices (2022 USD millions)')
+    AND "Amount type" IN ('Current Prices (USD millions)', 'Constant Prices (2023 USD millions)')
     AND "Fund flows" = 'Grant equivalents'
     AND "Aid type" IN (
         'Official Development Assistance, grant equivalent measure', 
@@ -29,7 +29,7 @@ transformed AS (
         )AS "ODA AS % GNI", 
         SUM(
             CASE 
-                WHEN aid_type = 'Official Development Assistance, grant equivalent measure' AND amount_type = 'Constant Prices (2022 USD millions)' THEN value
+                WHEN aid_type = 'Official Development Assistance, grant equivalent measure' AND amount_type = 'Constant Prices (2023 USD millions)' THEN value
                 ELSE 0
             END 
         )AS "Total ODA", 
@@ -49,23 +49,17 @@ pre_deflated AS (
     ORDER BY donor, year
 ), 
 
-deflators AS (
-    SELECT 
-        donor, 
-        deflator
-    FROM "{{deflator_file}}"
-    WHERE year = {{latest_year}}
-), 
-
 --NOTE: in April, don't deflate
 deflated AS (
     SELECT 
         pd.donor,
         pd.year AS "Year",
         pd."ODA AS % GNI",
-        pd."Total ODA" * (d.deflator / 100) AS "Total ODA"
+        --Middle of year, don't deflate
+        -- pd."Total ODA" * (d.deflator / 100) AS "Total ODA"
+        pd."Total ODA" AS "Total ODA"
     FROM pre_deflated pd
-    INNER JOIN deflators d USING (donor)
+    LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = pd.donor AND dfl.year = {{latest_year}}
 )
 
 SELECT * 

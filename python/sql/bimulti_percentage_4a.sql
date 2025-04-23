@@ -7,7 +7,7 @@ WITH base AS (
         FROM "{{dac1_file}}"
         WHERE 1=1
         AND year = {{latest_year}}
-        AND "Amount type" = 'Constant Prices (2022 USD millions)'
+        AND "Amount type" = 'Constant Prices (2023 USD millions)'
         AND "Fund flows" = 'Grant equivalents'
         AND "Aid type" IN (
             'I. Official Development Assistance (ODA) (I.A + I.B)',

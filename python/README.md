@@ -121,6 +121,17 @@ Options:
                                   the ONE Campaign (Retrieved manually). This
                                   can be a path to a SharePoint file. If not
                                   set, defaults to the 'data' directory.
+  -crf, --climate-riomarkers-file PATH
+                                  Path to the Climate RioMarkers file. This
+                                  can be a path to a SharePoint file. If not
+                                  set, defaults to the 'data' directory.
+  -agf, --allocable-gender-file PATH
+                                  Path to the allocable gender file. This can
+                                  be a path to a SharePoint file. If not set,
+                                  defaults to the 'data' directory.
+  -mf, --multisystem-file PATH    Path to the entire Multisystem file. This
+                                  can be a path to a SharePoint file. If not
+                                  set, defaults to the 'data' directory.
   -ly, --latest-year INTEGER      Latest year to use in the analysis
                                   [required]
   -country, --group-by-country    Group by country? (Each country gets a
@@ -184,3 +195,28 @@ that expect some files from you. For example:
 python3 chart_update.py all_donor_gni_ranking_2b -ly 2023 -dr -dac1 "PATH/TO/SHARED/FOLDER"
 ```
 This will show you the output of running the "2B All Donor GNI Ranking" analysis. To save this to a file, remove `-dr`
+
+## Update all charts at once
+There are 2 files: 
+* update_all_charts.sh (This is for macOS/Linux)
+* update_all_charts.ps1 (This is for Windows)
+
+At the top of each of these scripts is where you pass in the file path to the required files. 
+e.g. 
+```
+$env:DAC1 = "PATH/TO/Table1_Data.csv";
+```
+These are saved in your shell's environment when you run the script to update all of the charts at once. You do this from the `python/` directory with: 
+
+* macOS
+```
+./update_all_charts.sh
+```
+
+* Windows
+```
+.\update_all_charts.ps1
+```
+
+This will update all of the `.csv` files that have been included in a full update in the past. If you need to add more, 
+feel free to update these shell files as you wish!

@@ -7,7 +7,7 @@ WITH base AS (
         FROM "{{dac1_file}}"
         WHERE 1=1
         AND year BETWEEN ({{latest_year}} - 4) AND ({{latest_year}})
-        AND "Amount type" = 'Constant Prices (2022 USD millions)'
+        AND "Amount type" = 'Constant Prices (2023 USD millions)'
         AND "Fund flows" = 'Net Disbursements'
         AND "Aid type" IN (
             'I.A.8.2. Refugees in donor countries',
@@ -51,9 +51,13 @@ WITH base AS (
     deflated AS (
         SELECT 
             f.year,
-            round("ODA for Development Priorities" *  dfl.deflator / 100, 2) AS "ODA for Development Priorities",
-            round("Contributions to EUI" * dfl.deflator / 100, 2) AS "Contributions to EUI",
-            round("In-donor Refugee Costs" * dfl.deflator / 100, 2) AS "In-donor Refugee Costs",
+            --Middle of the year, don't deflate
+            -- round("ODA for Development Priorities" *  dfl.deflator / 100, 2) AS "ODA for Development Priorities",
+            -- round("Contributions to EUI" * dfl.deflator / 100, 2) AS "Contributions to EUI",
+            -- round("In-donor Refugee Costs" * dfl.deflator / 100, 2) AS "In-donor Refugee Costs",
+            round("ODA for Development Priorities", 2) AS "ODA for Development Priorities",
+            round("Contributions to EUI", 2) AS "Contributions to EUI",
+            round("In-donor Refugee Costs", 2) AS "In-donor Refugee Costs",
             f.donor
         FROM filtered f
         LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = f.donor AND dfl.year = {{latest_year}}
