@@ -121,6 +121,17 @@ Options:
                                   the ONE Campaign (Retrieved manually). This
                                   can be a path to a SharePoint file. If not
                                   set, defaults to the 'data' directory.
+  -crf, --climate-riomarkers-file PATH
+                                  Path to the Climate RioMarkers file. This
+                                  can be a path to a SharePoint file. If not
+                                  set, defaults to the 'data' directory.
+  -agf, --allocable-gender-file PATH
+                                  Path to the allocable gender file. This can
+                                  be a path to a SharePoint file. If not set,
+                                  defaults to the 'data' directory.
+  -mf, --multisystem-file PATH    Path to the entire Multisystem file. This
+                                  can be a path to a SharePoint file. If not
+                                  set, defaults to the 'data' directory.
   -ly, --latest-year INTEGER      Latest year to use in the analysis
                                   [required]
   -country, --group-by-country    Group by country? (Each country gets a
