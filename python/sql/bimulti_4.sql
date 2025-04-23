@@ -7,7 +7,7 @@ WITH base AS (
     FROM "{{dac1_file}}"
     WHERE 1=1
     AND year BETWEEN ({{latest_year}} - 4) AND ({{latest_year}})
-    AND "Amount type" = 'Constant Prices (2022 USD millions)'
+    AND "Amount type" = 'Constant Prices (2023 USD millions)'
     AND "Fund flows" = 'Grant equivalents'
     AND "Aid type" IN (
         'I. Official Development Assistance (ODA) (I.A + I.B)',
@@ -55,10 +55,15 @@ deflated AS (
     SELECT 
         f.donor,
         f.year,
-        coalesce("Bilateral funding", 0) * dfl.deflator / 100 AS "Bilateral funding",
-        coalesce("Bilateral as earmarked funding through multilaterals", 0) * dfl.deflator / 100 AS "Bilateral as earmarked funding through multilaterals",
-        coalesce("Multilateral as core contributions to organizations", 0) * dfl.deflator / 100 AS "Multilateral as core contributions to organizations",
-        "Total ODA" * dfl.deflator / 100 AS "Total ODA",
+        --Middle of year, don't deflate
+        -- coalesce("Bilateral funding", 0) * dfl.deflator / 100 AS "Bilateral funding",
+        -- coalesce("Bilateral as earmarked funding through multilaterals", 0) * dfl.deflator / 100 AS "Bilateral as earmarked funding through multilaterals",
+        -- coalesce("Multilateral as core contributions to organizations", 0) * dfl.deflator / 100 AS "Multilateral as core contributions to organizations",
+        -- "Total ODA" * dfl.deflator / 100 AS "Total ODA",
+        coalesce("Bilateral funding", 0) AS "Bilateral funding",
+        coalesce("Bilateral as earmarked funding through multilaterals", 0) AS "Bilateral as earmarked funding through multilaterals",
+        coalesce("Multilateral as core contributions to organizations", 0) AS "Multilateral as core contributions to organizations",
+        "Total ODA" AS "Total ODA",
     FROM filtered f 
     LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = f.donor AND dfl.year = {{latest_year}}
 )

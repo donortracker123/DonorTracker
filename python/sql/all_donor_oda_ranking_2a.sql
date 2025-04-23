@@ -7,7 +7,7 @@ WITH base AS (
         FROM "{{dac1_file}}"
         WHERE 1=1
         AND year BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
-        AND "Amount type" = 'Constant Prices (2022 USD millions)'
+        AND "Amount type" = 'Constant Prices (2023 USD millions)'
         AND "Fund flows" = 'Grant equivalents'
         AND "Donor_1" IN {{dac_countries}}
         AND "Aid type" = 'Official Development Assistance, grant equivalent measure'
@@ -19,7 +19,9 @@ WITH base AS (
         SELECT
             b.donor,
             b.year,
-            value * (dfl.deflator / 100) / 1000 AS "Total ODA", 
+            --Middle of the year, don't deflate
+            value / 1000 AS "Total ODA", 
+            -- value * (dfl.deflator / 100) / 1000 AS "Total ODA", 
             row_number() OVER (PARTITION BY b.year ORDER BY value DESC) AS rn
         FROM base b
         LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor AND dfl.year = {{latest_year}}
@@ -32,7 +34,7 @@ WITH base AS (
         CASE 
             WHEN rn::TEXT LIKE '%1' AND rn != 11 THEN rn || 'st'
             WHEN rn::TEXT LIKE '%2' AND rn != 12 THEN rn || 'nd'
-            WHEN rn::TEXT LIKE '%3' AND rn != 13THEN rn || 'rd'
+            WHEN rn::TEXT LIKE '%3' AND rn != 13 THEN rn || 'rd'
             ELSE rn || 'th'
         END AS "Rank"
     FROM ranked
