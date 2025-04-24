@@ -1,45 +1,14 @@
 Year,Donor,Total ODA,Rank
-2022,United States,62.8,1st
-2022,Germany,38.96,2nd
-2022,Japan,16.94,3rd
-2022,France,17.34,4th
-2022,United Kingdom,17.05,5th
-2022,Canada,7.65,6th
-2022,Italy,7.12,7th
-2022,Netherlands,7.14,8th
-2022,Sweden,5.49,9th
-2022,Norway,4.24,10th
-2022,Switzerland,4.83,11th
-2022,Spain,4.64,12th
-2022,Poland,4.11,13th
-2022,Australia,3.02,14th
-2022,Korea,2.83,15th
-2022,Denmark,2.8,16th
-2022,Belgium,2.84,17th
-2022,Ireland,2.57,18th
-2022,Austria,2.04,19th
-2022,Finland,1.74,20th
-2022,Czechia,1.2,21st
-2022,Luxembourg,0.59,22nd
-2022,Portugal,0.58,23rd
-2022,New Zealand,0.53,24th
-2022,Hungary,0.44,25th
-2022,Greece,0.39,26th
-2022,Lithuania,0.27,27th
-2022,Estonia,0.22,28th
-2022,Slovak Republic,0.19,29th
-2022,Slovenia,0.19,30th
-2022,Iceland,0.1,31st
-2023,United States,64.68,1st
-2023,Germany,37.91,2nd
+2023,United States,64.69,1st
+2023,Germany,37.9,2nd
 2023,Japan,19.6,3rd
 2023,United Kingdom,19.07,4th
 2023,France,15.05,5th
 2023,Canada,7.97,6th
-2023,Norway,5.55,7th
-2023,Netherlands,7.36,8th
-2023,Italy,6.12,9th
-2023,Sweden,5.62,10th
+2023,Netherlands,7.36,7th
+2023,Italy,6.12,8th
+2023,Sweden,5.62,9th
+2023,Norway,5.55,10th
 2023,Switzerland,5.22,11th
 2023,Spain,3.88,12th
 2023,Australia,3.25,13th
@@ -50,8 +19,8 @@ Year,Donor,Total ODA,Rank
 2023,Poland,2.58,18th
 2023,Austria,1.96,19th
 2023,Finland,1.59,20th
-2023,New Zealand,0.76,21st
-2023,Czechia,0.81,22nd
+2023,Czechia,0.81,21st
+2023,New Zealand,0.76,22nd
 2023,Luxembourg,0.58,23rd
 2023,Portugal,0.53,24th
 2023,Greece,0.33,25th
@@ -59,5 +28,38 @@ Year,Donor,Total ODA,Rank
 2023,Lithuania,0.21,27th
 2023,Slovak Republic,0.18,28th
 2023,Slovenia,0.16,29th
-2023,Iceland,0.11,30th
-2023,Estonia,0.11,31st
+2023,Latvia,0.14,30th
+2023,Iceland,0.11,31st
+2023,Estonia,0.11,32nd
+2024,United States,61.82,1st
+2024,Germany,31.38,2nd
+2024,Japan,17.58,3rd
+2024,United Kingdom,17.01,4th
+2024,France,15.05,5th
+2024,Canada,7.32,6th
+2024,Netherlands,7.16,7th
+2024,Italy,6.53,8th
+2024,Norway,5.34,9th
+2024,Sweden,4.87,10th
+2024,Switzerland,4.44,11th
+2024,Spain,4.23,12th
+2024,Korea,3.94,13th
+2024,Australia,3.26,14th
+2024,Belgium,3.16,15th
+2024,Denmark,3.12,16th
+2024,Ireland,2.42,17th
+2024,Poland,1.89,18th
+2024,Austria,1.77,19th
+2024,Finland,1.38,20th
+2024,New Zealand,0.77,21st
+2024,Portugal,0.64,22nd
+2024,Luxembourg,0.58,23rd
+2024,Czechia,0.57,24th
+2024,Greece,0.35,25th
+2024,Lithuania,0.19,26th
+2024,Hungary,0.18,27th
+2024,Slovak Republic,0.18,28th
+2024,Slovenia,0.16,29th
+2024,Latvia,0.11,30th
+2024,Iceland,0.11,31st
+2024,Estonia,0.08,32nd
