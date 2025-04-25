@@ -30,7 +30,7 @@ WITH base AS (
     SELECT
         year AS "Year",
         donor AS "Donor",
-        round("Total ODA", 2) AS "Total ODA", 
+        round("Total ODA", 3) AS "Total ODA", 
         CASE 
             WHEN rn::TEXT LIKE '%1' AND rn != 11 THEN rn || 'st'
             WHEN rn::TEXT LIKE '%2' AND rn != 12 THEN rn || 'nd'

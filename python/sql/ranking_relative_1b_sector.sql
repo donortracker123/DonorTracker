@@ -89,6 +89,6 @@ SELECT
         WHEN rn::TEXT LIKE '%2' AND rn != 12 THEN rn || 'nd'
         WHEN rn::TEXT LIKE '%3' AND rn != 13 THEN rn || 'rd'
         ELSE rn || 'th'
-    END AS "Rank"
+    END AS "Ranking"
 FROM ranked
 ORDER BY year, sector_percentage DESC
