@@ -7,7 +7,7 @@ WITH base AS (
         greatest(coalesce("climateMitigation", -1), coalesce("climateAdaptation", -1)) AS climate_total,
         usd_commitment_defl
     FROM read_csv_auto("{{climate_riomarkers_file}}", delim='|', header=True)
-    WHERE "Year" = ({{latest_year}})
+    WHERE "Year" BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
     AND donor_name IN {{dac_countries}}
     AND "Markers" = 20
 ), 
@@ -16,6 +16,7 @@ adaptation AS (
     SELECT 
         b.donor_name,
         'Adaptation' AS "Rio Marker",
+        b.year,
         sum(
             CASE
                 WHEN climate_adaptation IN (1,2) AND climate_mitigation NOT IN (1,2) THEN b.usd_commitment_defl / 100 * dfl.deflator
@@ -36,13 +37,14 @@ adaptation AS (
         ) AS "Total Climate ODA"
     FROM base b 
     LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor_name AND dfl.year = {{latest_year}}
-    GROUP BY 1,2
+    GROUP BY 1,2,3
 ), 
 
 mitigation AS (
     SELECT 
         b.donor_name,
         'Mitigation' AS "Rio Marker",
+        b.year,
         sum(
             CASE
                 WHEN climate_mitigation IN (1,2) AND climate_adaptation NOT IN (1,2) THEN b.usd_commitment_defl / 100 * dfl.deflator
@@ -63,7 +65,7 @@ mitigation AS (
         ) AS "Total Climate ODA"
     FROM base b 
     LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor_name AND dfl.year = {{latest_year}}
-    GROUP BY 1,2
+    GROUP BY 1,2,3
 ), 
 
 combined AS (
@@ -80,9 +82,10 @@ combined AS (
 
 SELECT
     donor_name AS donor,
+    year,
     "Rio Marker",
     round("Cross-cutting", 2) AS "Cross-cutting",
     round("Bilateral ODA", 2) AS "Bilateral ODA",
     "Share" || '%' AS "Share" --Adding || to a column is concatenation. this is adding '%' to the share column
 FROM combined
-ORDER BY donor_name, "Rio Marker"
+ORDER BY donor_name, year, "Rio Marker"
