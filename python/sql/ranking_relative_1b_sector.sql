@@ -81,7 +81,7 @@ ranked AS (
 )
 
 SELECT 
-    donor, 
+    donor AS "Donor", 
     sector_percentage || '%' "ODA to {{sector}} as % of Total ODA",
     year "Year",
     CASE 

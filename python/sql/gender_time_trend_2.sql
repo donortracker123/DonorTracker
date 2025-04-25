@@ -1,5 +1,5 @@
 WITH base AS (
-    SELECT *,
+    SELECT
         donor_name,
         year,
         purpose_code,
@@ -47,6 +47,7 @@ crs_totals AS (
     GROUP BY 1,2
 ), 
 
+--NOTE: As of April 2025, this CTE did not include values for EUI
 allocable_totals AS (
     SELECT 
         "Donor_1" AS donor_name,

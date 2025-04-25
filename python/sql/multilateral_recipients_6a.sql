@@ -33,7 +33,7 @@ SELECT
     multi_short AS "Multi_short",
     round(sum(oda), 2) AS "ODA",
     round( 100 * sum(oda) / sum(sum(oda)) OVER (PARTITION BY year), 2) || '%' AS "Share",
-    full_name AS "full name",
+    full_name AS "Full Name",
     donor
 FROM deflated
 GROUP BY 1, 2, 5, 6
