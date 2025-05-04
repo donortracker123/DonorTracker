@@ -1,61 +1,64 @@
-donor,perc,Year,Rank
-Portugal,5.8%,2023,26th
-Lithuania,5.5%,2023,27th
-Poland,3.8%,2023,28th
-Hungary,1.4%,2023,29th
-Greece,0.3%,2023,30th
-Ireland,24.5%,2022,16th
-Finland,22.9%,2022,17th
-Canada,19.6%,2022,18th
-Spain,19.4%,2022,19th
+Donor,perc,Year,Ranking
+Japan,70.8%,2022,1st
+France,51.2%,2022,2nd
+Netherlands,49.3%,2022,3rd
+Germany,44.9%,2022,4th
+Australia,42.2%,2022,5th
+Korea,36.7%,2022,6th
+United Kingdom,36.4%,2022,7th
+New Zealand,34.7%,2022,8th
+Iceland,31.8%,2022,9th
+Switzerland,29.5%,2022,10th
+Norway,29.3%,2022,11th
+Sweden,27.5%,2022,12th
+Austria,26.8%,2022,13th
+Belgium,25.9%,2022,14th
+Ireland,24.5%,2022,15th
+Denmark,23.3%,2022,16th
+Finland,20.5%,2022,17th
+Spain,19.0%,2022,19th
+Canada,19.0%,2022,18th
 Luxembourg,16.3%,2022,20th
-Italy,14.8%,2022,21st
+Italy,13.5%,2022,21st
 Slovenia,13.3%,2022,22nd
-United States,10.3%,2022,23rd
-Czechia,6.4%,2022,24th
+United States,9.5%,2022,23rd
+Czechia,6.3%,2022,24th
 Slovak Republic,5.1%,2022,25th
 Lithuania,3.5%,2022,26th
 Poland,3.0%,2022,27th
-Portugal,2.5%,2022,28th
+Portugal,2.4%,2022,28th
 Estonia,2.2%,2022,29th
-Hungary,0.1%,2022,30th
-Japan,75.7%,2022,1st
-France,54.6%,2022,2nd
-Netherlands,49.3%,2022,3rd
-Korea,47.8%,2022,4th
-Germany,46.7%,2022,5th
-Australia,43.2%,2022,6th
-Austria,37.9%,2022,7th
-United Kingdom,37.7%,2022,8th
-New Zealand,36.8%,2022,9th
-Norway,34.1%,2022,10th
-Iceland,32.3%,2022,11th
-Belgium,30.5%,2022,12th
-Switzerland,30.3%,2022,13th
-Sweden,29.2%,2022,14th
-Denmark,26.9%,2022,15th
+Latvia,0.5%,2022,30th
+Hungary,0.1%,2022,31st
 Korea,65.4%,2023,1st
-Netherlands,64.9%,2023,2nd
-Japan,61.8%,2023,3rd
-New Zealand,58.0%,2023,4th
-France,56.1%,2023,5th
-Germany,50.9%,2023,6th
-Australia,47.4%,2023,7th
-Iceland,43.3%,2023,8th
-Austria,33.5%,2023,9th
-Belgium,33.1%,2023,10th
-Finland,31.7%,2023,11th
-Denmark,31.1%,2023,12th
-Norway,29.3%,2023,13th
-Sweden,28.4%,2023,14th
-Ireland,24.9%,2023,15th
-Italy,22.0%,2023,16th
-Slovenia,20.7%,2023,17th
-Switzerland,20.6%,2023,18th
-Canada,17.1%,2023,19th
-Czechia,15.5%,2023,20th
+Netherlands,63.9%,2023,2nd
+Japan,61.3%,2023,3rd
+New Zealand,55.5%,2023,4th
+Germany,46.4%,2023,5th
+Australia,46.2%,2023,6th
+France,43.5%,2023,7th
+Iceland,43.2%,2023,8th
+Denmark,29.0%,2023,9th
+Belgium,27.6%,2023,10th
+Finland,27.4%,2023,11th
+Sweden,25.5%,2023,12th
+Norway,24.9%,2023,13th
+Ireland,24.9%,2023,14th
+Slovenia,20.7%,2023,15th
+Switzerland,19.4%,2023,16th
+Italy,19.0%,2023,17th
+Austria,18.3%,2023,18th
+Canada,15.2%,2023,19th
+Czechia,14.9%,2023,20th
 Estonia,14.9%,2023,21st
-United States,12.8%,2023,22nd
-Luxembourg,10.8%,2023,23rd
-United Kingdom,10.0%,2023,24th
-Slovak Republic,7.8%,2023,25th
+Spain,12.7%,2023,22nd
+United States,11.4%,2023,23rd
+Luxembourg,10.8%,2023,24th
+Slovak Republic,7.7%,2023,25th
+Portugal,5.8%,2023,26th
+United Kingdom,5.7%,2023,27th
+Lithuania,5.4%,2023,28th
+Poland,3.8%,2023,29th
+Hungary,1.4%,2023,30th
+Latvia,0.7%,2023,31st
+Greece,0.3%,2023,32nd
