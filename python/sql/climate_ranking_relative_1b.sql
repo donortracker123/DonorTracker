@@ -1,16 +1,32 @@
+-- WITH base AS (
+--     SELECT
+--         "donornameE" AS donor_name,
+--         "Year" AS year,
+--         greatest(coalesce("climateMitigation", -1), coalesce("climateAdaptation", -1)) AS climate_total,
+--         purposecode,
+--         usd_commitment_defl
+--     FROM read_csv_auto("{{climate_riomarkers_file}}", delim='|', header=True)
+--     WHERE "Year" BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
+--     AND donor_name IN {{dac_countries}}
+--     AND donor_name != 'EU Institutions'
+--     AND "Markers" = 20
+-- ), 
 WITH base AS (
     SELECT
-        "donornameE" AS donor_name,
-        "Year" AS year,
-        greatest(coalesce("climateMitigation", -1), coalesce("climateAdaptation", -1)) AS climate_total,
-        purposecode,
+        donor_name,
+        year,
+        purpose_code,
+        greatest(climate_mitigation, climate_adaptation) climate_total, 
         usd_commitment_defl
-    FROM read_csv_auto("{{climate_riomarkers_file}}", delim='|', header=True)
-    WHERE "Year" BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
+    FROM "{{crs_file}}"
+    WHERE year BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
     AND donor_name IN {{dac_countries}}
+    AND aid_t IN {{allocable_aid_categories}}
+    AND flow_name IN (
+        'ODA Loans','Equity Investment','ODA Grants'
+    )
     AND donor_name != 'EU Institutions'
-    AND "Markers" = 20
-), 
+),
 
 rio_totals AS (
     SELECT 
@@ -22,17 +38,30 @@ rio_totals AS (
     GROUP BY 1,2
 ), 
 
+-- allocable_totals AS (
+--     SELECT
+--         "donornameE" AS donor_name,
+--         "Year" AS year,
+--         sum(usd_commitment_defl) AS total_oda
+--     FROM read_csv_auto("{{climate_riomarkers_file}}", delim='|', header=True)
+--     WHERE "Year" BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
+--     AND donor_name IN {{dac_countries}}
+--     AND donor_name != 'EU Institutions'
+--     AND "Allocable" = 2
+--     AND "Markers" = 20
+--     GROUP BY 1,2
+-- ),
+
 allocable_totals AS (
     SELECT
-        "donornameE" AS donor_name,
-        "Year" AS year,
+        donor_name,
+        year,
         sum(usd_commitment_defl) AS total_oda
-    FROM read_csv_auto("{{climate_riomarkers_file}}", delim='|', header=True)
+    FROM "{{crs_file}}"
     WHERE "Year" BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
     AND donor_name IN {{dac_countries}}
     AND donor_name != 'EU Institutions'
-    AND "Allocable" = 2
-    AND "Markers" = 20
+    AND aid_t IN {{allocable_aid_categories}} --Marker for allocable ODA
     GROUP BY 1,2
 ),
 
@@ -66,4 +95,5 @@ SELECT
         WHEN rn::TEXT LIKE '%3' AND rn != 13 THEN rn || 'rd'
         ELSE rn || 'th'
     END AS "Ranking"
-FROM ranked
+FROM ranked 
+ORDER BY "Year", sector_percentage DESC
