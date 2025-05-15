@@ -3,6 +3,7 @@ WITH base AS (
         donor_name,
         year,
         sector_code,
+        purpose_code,
         trim(sector_name) AS sector_name,
         flow_name,
         usd_disbursement_defl
@@ -21,7 +22,7 @@ mapped_sectors AS (
         b.usd_disbursement_defl,
         dsf.sector_renamed
     FROM base b 
-    INNER JOIN "{{dt_sector_file}}" dsf ON dsf.sector_code = b.sector_code
+    INNER JOIN "{{dt_sector_file}}" dsf ON dsf.sector_code = b.purpose_code --SEEK maps to renamed sectors by purpose code in the CRS
 ), 
 
 deflated AS (
