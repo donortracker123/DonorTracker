@@ -12,6 +12,7 @@ WITH base AS (
     AND flow_name IN (
         'ODA Loans','Equity Investment','ODA Grants'
     )
+    AND donor_name != 'EU Institutions'
 ), 
 
 transformed AS (
