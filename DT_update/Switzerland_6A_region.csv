@@ -1,4 +1,4 @@
-Year,Multi_short,ODA,Share,full name,Donor
+Year,Multi_short,ODA,Share,Full Name,Donor
 2019,IDA,249.84,0.52%,International Development Association ,Switzerland
 2019,ADF,89.97,0.19%,African Development Fund ,Switzerland
 2019,International Development Association - Multilateral Debt Relief Initiative,75.86,0.16%,International Development Association - Multilateral Debt Relief Initiative,Switzerland
@@ -10,10 +10,10 @@ Year,Multi_short,ODA,Share,full name,Donor
 2019,UNICEF,22.37,0.05%,United Nations Children's Fund ,Switzerland
 2019,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",21.44,0.04%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Switzerland
 2019,CGIAR ,18.84,0.04%,CGIAR Fund,Switzerland
-2019,United Nations Entity for Gender Equality and the Empowerment of Women,18.55,0.04%,United Nations Entity for Gender Equality and the Empowerment of Women,Switzerland
 2019,UNFPA,18.55,0.04%,United Nations Population Fund ,Switzerland
-2019,AF,17.39,0.04%,Adaptation Fund,Switzerland
+2019,United Nations Entity for Gender Equality and the Empowerment of Women,18.55,0.04%,United Nations Entity for Gender Equality and the Empowerment of Women,Switzerland
 2019,United Nations Office of the High Commissioner for Refugees,17.39,0.04%,United Nations Office of the High Commissioner for Refugees,Switzerland
+2019,AF,17.39,0.04%,Adaptation Fund,Switzerland
 2019,UN,16.61,0.03%,United Nations,Switzerland
 2019,IFAD,16.25,0.03%,International Fund for Agricultural Development ,Switzerland
 2019,Geneva Centre for the Democratic Control of Armed Forces,13.09,0.03%,Geneva Centre for the Democratic Control of Armed Forces,Switzerland
@@ -33,8 +33,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2019,Council of Europe,4.55,0.01%,Council of Europe,Switzerland
 2019,UNCDF,3.48,0.01%,United Nations Capital Development Fund ,Switzerland
 2019,MLF-MP,3.32,0.01%,Multilateral Fund for the Implementation of the Montreal Protocol ,Switzerland
-2019,Global Environment Facility - Least Developed Countries Fund,2.9,0.01%,Global Environment Facility - Least Developed Countries Fund,Switzerland
 2019,World Health Organisation - core voluntary contributions account,2.9,0.01%,World Health Organisation - core voluntary contributions account,Switzerland
+2019,Global Environment Facility - Least Developed Countries Fund,2.9,0.01%,Global Environment Facility - Least Developed Countries Fund,Switzerland
 2019,International Labour Organisation - Assessed Contributions,2.86,0.01%,International Labour Organisation - Assessed Contributions,Switzerland
 2019,"United Nations Educational, Scientific and Cultural Organisation",2.59,0.01%,"United Nations Educational, Scientific and Cultural Organisation",Switzerland
 2019,United Nations Office of Co-ordination of Humanitarian Affairs ,2.32,0.0%,United Nations Office of Co-ordination of Humanitarian Affairs ,Switzerland
@@ -44,8 +44,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2019,CITES,1.23,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Switzerland
 2019,International Institute for Democracy and Electoral Assistance ,1.16,0.0%,International Institute for Democracy and Electoral Assistance ,Switzerland
 2019,United Nations Office for Disaster Risk Reduction,1.13,0.0%,United Nations Office for Disaster Risk Reduction,Switzerland
-2019,Sahel and West Africa Club ,0.93,0.0%,Sahel and West Africa Club ,Switzerland
 2019,United Nations Volunteers ,0.93,0.0%,United Nations Volunteers ,Switzerland
+2019,Sahel and West Africa Club ,0.93,0.0%,Sahel and West Africa Club ,Switzerland
 2019,Global Environment Facility - Special Climate Change Fund,0.91,0.0%,Global Environment Facility - Special Climate Change Fund,Switzerland
 2019,"United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs",0.88,0.0%,"United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs",Switzerland
 2019,International Organisation for Migration ,0.74,0.0%,International Organisation for Migration ,Switzerland
@@ -63,8 +63,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2019,United Nations Institute for Training and Research ,0.11,0.0%,United Nations Institute for Training and Research ,Switzerland
 2019,Universal Postal Union ,0.06,0.0%,Universal Postal Union ,Switzerland
 2019,International Tropical Timber Organisation ,0.05,0.0%,International Tropical Timber Organisation ,Switzerland
-2019,International Cotton Advisory Committee ,0.03,0.0%,International Cotton Advisory Committee ,Switzerland
 2019,World Meteorological Organisation ,0.03,0.0%,World Meteorological Organisation ,Switzerland
+2019,International Cotton Advisory Committee ,0.03,0.0%,International Cotton Advisory Committee ,Switzerland
 2019,UNIDIR,0.02,0.0%,United Nations Institute for Disarmament Research,Switzerland
 2019,"Inter-American Development Bank, Fund for Special Operations ",,,"Inter-American Development Bank, Fund for Special Operations ",Switzerland
 2020,IDA,251.7,0.49%,International Development Association ,Switzerland
@@ -79,9 +79,9 @@ Year,Multi_short,ODA,Share,full name,Donor
 2020,UNICEF,22.54,0.04%,United Nations Children's Fund ,Switzerland
 2020,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",21.6,0.04%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Switzerland
 2020,CGIAR ,18.74,0.04%,CGIAR Fund,Switzerland
-2020,UNFPA,18.68,0.04%,United Nations Population Fund ,Switzerland
-2020,United Nations Entity for Gender Equality and the Empowerment of Women,18.68,0.04%,United Nations Entity for Gender Equality and the Empowerment of Women,Switzerland
 2020,United Nations Office of the High Commissioner for Refugees,18.68,0.04%,United Nations Office of the High Commissioner for Refugees,Switzerland
+2020,United Nations Entity for Gender Equality and the Empowerment of Women,18.68,0.04%,United Nations Entity for Gender Equality and the Empowerment of Women,Switzerland
+2020,UNFPA,18.68,0.04%,United Nations Population Fund ,Switzerland
 2020,UN,17.73,0.03%,United Nations,Switzerland
 2020,IFAD,15.47,0.03%,International Fund for Agricultural Development ,Switzerland
 2020,Geneva Centre for the Democratic Control of Armed Forces,13.61,0.03%,Geneva Centre for the Democratic Control of Armed Forces,Switzerland
@@ -104,8 +104,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2020,UNCDF,3.5,0.01%,United Nations Capital Development Fund ,Switzerland
 2020,MLF-MP,3.34,0.01%,Multilateral Fund for the Implementation of the Montreal Protocol ,Switzerland
 2020,International Labour Organisation - Assessed Contributions,3.19,0.01%,International Labour Organisation - Assessed Contributions,Switzerland
-2020,United Nations Peacebuilding Fund,2.92,0.01%,United Nations Peacebuilding Fund,Switzerland
 2020,World Health Organisation - core voluntary contributions account,2.92,0.01%,World Health Organisation - core voluntary contributions account,Switzerland
+2020,United Nations Peacebuilding Fund,2.92,0.01%,United Nations Peacebuilding Fund,Switzerland
 2020,"United Nations Educational, Scientific and Cultural Organisation",2.71,0.01%,"United Nations Educational, Scientific and Cultural Organisation",Switzerland
 2020,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",2.69,0.01%,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund ",Switzerland
 2020,United Nations Office of Co-ordination of Humanitarian Affairs ,2.34,0.0%,United Nations Office of Co-ordination of Humanitarian Affairs ,Switzerland
@@ -131,14 +131,14 @@ Year,Multi_short,ODA,Share,full name,Donor
 2020,African Tax Administration Forum,0.26,0.0%,African Tax Administration Forum,Switzerland
 2020,United Nations Voluntary Fund for Victims of Torture ,0.23,0.0%,United Nations Voluntary Fund for Victims of Torture ,Switzerland
 2020,WOAH,0.14,0.0%,World Organisation for Animal Health,Switzerland
-2020,Intergovernmental Panel on Climate Change ,0.12,0.0%,Intergovernmental Panel on Climate Change ,Switzerland
 2020,United Nations Institute for Training and Research ,0.12,0.0%,United Nations Institute for Training and Research ,Switzerland
+2020,Intergovernmental Panel on Climate Change ,0.12,0.0%,Intergovernmental Panel on Climate Change ,Switzerland
 2020,Convention to Combat Desertification ,0.11,0.0%,Convention to Combat Desertification ,Switzerland
 2020,Universal Postal Union ,0.07,0.0%,Universal Postal Union ,Switzerland
 2020,International Tropical Timber Organisation ,0.05,0.0%,International Tropical Timber Organisation ,Switzerland
 2020,World Meteorological Organisation ,0.04,0.0%,World Meteorological Organisation ,Switzerland
-2020,International Cotton Advisory Committee ,0.03,0.0%,International Cotton Advisory Committee ,Switzerland
 2020,UNIDIR,0.03,0.0%,United Nations Institute for Disarmament Research,Switzerland
+2020,International Cotton Advisory Committee ,0.03,0.0%,International Cotton Advisory Committee ,Switzerland
 2020,"Inter-American Development Bank, Fund for Special Operations ",,,"Inter-American Development Bank, Fund for Special Operations ",Switzerland
 2020,European Bank for Reconstruction and Development - technical co-operation and special funds (ODA-eligible countries only),,,European Bank for Reconstruction and Development - technical co-operation and special funds (ODA-eligible countries only),Switzerland
 2021,IDA,244.06,0.43%,International Development Association ,Switzerland
@@ -155,9 +155,9 @@ Year,Multi_short,ODA,Share,full name,Donor
 2021,UNICEF,22.26,0.04%,United Nations Children's Fund ,Switzerland
 2021,CGIAR ,19.67,0.03%,CGIAR Fund,Switzerland
 2021,UN,18.97,0.03%,United Nations,Switzerland
-2021,United Nations Entity for Gender Equality and the Empowerment of Women,18.46,0.03%,United Nations Entity for Gender Equality and the Empowerment of Women,Switzerland
-2021,United Nations Office of the High Commissioner for Refugees,18.46,0.03%,United Nations Office of the High Commissioner for Refugees,Switzerland
 2021,UNFPA,18.46,0.03%,United Nations Population Fund ,Switzerland
+2021,United Nations Office of the High Commissioner for Refugees,18.46,0.03%,United Nations Office of the High Commissioner for Refugees,Switzerland
+2021,United Nations Entity for Gender Equality and the Empowerment of Women,18.46,0.03%,United Nations Entity for Gender Equality and the Empowerment of Women,Switzerland
 2021,IFC,17.37,0.03%,International Finance Corporation ,Switzerland
 2021,WFP,16.15,0.03%,World Food Programme ,Switzerland
 2021,IFAD,15.86,0.03%,International Fund for Agricultural Development ,Switzerland
@@ -198,8 +198,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2021,Sahel and West Africa Club ,0.85,0.0%,Sahel and West Africa Club ,Switzerland
 2021,International Telecommunications Union,0.66,0.0%,International Telecommunications Union,Switzerland
 2021,United Nations Research Institute for Social Development ,0.63,0.0%,United Nations Research Institute for Social Development ,Switzerland
-2021,International Agency for Research on Cancer,0.47,0.0%,International Agency for Research on Cancer,Switzerland
 2021,OECD Development Centre ,0.47,0.0%,OECD Development Centre ,Switzerland
+2021,International Agency for Research on Cancer,0.47,0.0%,International Agency for Research on Cancer,Switzerland
 2021,World Trade Organisation - Advisory Centre on WTO Law,0.46,0.0%,World Trade Organisation - Advisory Centre on WTO Law,Switzerland
 2021,United Nations Economic Commission for Europe (extrabudgetary contributions only),0.35,0.0%,United Nations Economic Commission for Europe (extrabudgetary contributions only),Switzerland
 2021,UNWTO,0.31,0.0%,World Tourism Organization,Switzerland
@@ -210,8 +210,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2021,United Nations Institute for Training and Research ,0.11,0.0%,United Nations Institute for Training and Research ,Switzerland
 2021,Convention to Combat Desertification ,0.1,0.0%,Convention to Combat Desertification ,Switzerland
 2021,Universal Postal Union ,0.07,0.0%,Universal Postal Union ,Switzerland
-2021,World Meteorological Organisation ,0.04,0.0%,World Meteorological Organisation ,Switzerland
 2021,International Tropical Timber Organisation ,0.04,0.0%,International Tropical Timber Organisation ,Switzerland
+2021,World Meteorological Organisation ,0.04,0.0%,World Meteorological Organisation ,Switzerland
 2021,International Cotton Advisory Committee ,0.03,0.0%,International Cotton Advisory Committee ,Switzerland
 2021,UNIDIR,0.02,0.0%,United Nations Institute for Disarmament Research,Switzerland
 2021,AF,,,Adaptation Fund,Switzerland
@@ -229,8 +229,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2022,UNICEF,23.62,0.04%,United Nations Children's Fund ,Switzerland
 2022,WFP,22.5,0.04%,World Food Programme ,Switzerland
 2022,Joint United Nations Programme on HIV/AIDS ,21.26,0.04%,Joint United Nations Programme on HIV/AIDS ,Switzerland
-2022,PIDG,20.25,0.04%,Private Infrastructure Development Group ,Switzerland
 2022,CGIAR ,20.25,0.04%,CGIAR Fund,Switzerland
+2022,PIDG,20.25,0.04%,Private Infrastructure Development Group ,Switzerland
 2022,UNFPA,18.0,0.03%,United Nations Population Fund ,Switzerland
 2022,United Nations Entity for Gender Equality and the Empowerment of Women,18.0,0.03%,United Nations Entity for Gender Equality and the Empowerment of Women,Switzerland
 2022,UN,17.14,0.03%,United Nations,Switzerland
@@ -247,8 +247,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2022,Organization for Security and Co-operation in Europe,4.63,0.01%,Organization for Security and Co-operation in Europe,Switzerland
 2022,World Health Organisation - assessed contributions,4.26,0.01%,World Health Organisation - assessed contributions,Switzerland
 2022,United Nations Office of Co-ordination of Humanitarian Affairs ,3.94,0.01%,United Nations Office of Co-ordination of Humanitarian Affairs ,Switzerland
-2022,AF,3.37,0.01%,Adaptation Fund,Switzerland
 2022,UNCDF,3.37,0.01%,United Nations Capital Development Fund ,Switzerland
+2022,AF,3.37,0.01%,Adaptation Fund,Switzerland
 2022,MLF-MP,3.23,0.01%,Multilateral Fund for the Implementation of the Montreal Protocol ,Switzerland
 2022,Global Environment Facility - Least Developed Countries Fund,3.13,0.01%,Global Environment Facility - Least Developed Countries Fund,Switzerland
 2022,United Nations Peacebuilding Fund,2.88,0.01%,United Nations Peacebuilding Fund,Switzerland
@@ -271,11 +271,11 @@ Year,Multi_short,ODA,Share,full name,Donor
 2022,International Organisation for Migration ,0.72,0.0%,International Organisation for Migration ,Switzerland
 2022,International Telecommunications Union,0.65,0.0%,International Telecommunications Union,Switzerland
 2022,United Nations Economic Commission for Europe (extrabudgetary contributions only),0.53,0.0%,United Nations Economic Commission for Europe (extrabudgetary contributions only),Switzerland
-2022,OECD Development Centre ,0.47,0.0%,OECD Development Centre ,Switzerland
 2022,International Agency for Research on Cancer,0.47,0.0%,International Agency for Research on Cancer,Switzerland
+2022,OECD Development Centre ,0.47,0.0%,OECD Development Centre ,Switzerland
 2022,UNWTO,0.34,0.0%,World Tourism Organization,Switzerland
-2022,"United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs",0.3,0.0%,"United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs",Switzerland
 2022,United Nations Voluntary Fund for Victims of Torture ,0.3,0.0%,United Nations Voluntary Fund for Victims of Torture ,Switzerland
+2022,"United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs",0.3,0.0%,"United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs",Switzerland
 2022,United Nations Framework Convention on Climate Change ,0.27,0.0%,United Nations Framework Convention on Climate Change ,Switzerland
 2022,African Tax Administration Forum,0.25,0.0%,African Tax Administration Forum,Switzerland
 2022,Convention to Combat Desertification ,0.21,0.0%,Convention to Combat Desertification ,Switzerland
@@ -298,18 +298,18 @@ Year,Multi_short,ODA,Share,full name,Donor
 2023,IBRD,26.75,0.04%,International Bank for Reconstruction and Development ,Switzerland
 2023,PIDG,26.43,0.04%,Private Infrastructure Development Group ,Switzerland
 2023,UNRWA,24.71,0.04%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Switzerland
-2023,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",23.37,0.04%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Switzerland
 2023,UNICEF,23.37,0.04%,United Nations Children's Fund ,Switzerland
+2023,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",23.37,0.04%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Switzerland
 2023,United Nations Office of the High Commissioner for Refugees,20.03,0.03%,United Nations Office of the High Commissioner for Refugees,Switzerland
 2023,CGIAR ,20.03,0.03%,CGIAR Fund,Switzerland
 2023,UN,18.24,0.03%,United Nations,Switzerland
-2023,United Nations Entity for Gender Equality and the Empowerment of Women,17.81,0.03%,United Nations Entity for Gender Equality and the Empowerment of Women,Switzerland
 2023,UNFPA,17.81,0.03%,United Nations Population Fund ,Switzerland
+2023,United Nations Entity for Gender Equality and the Empowerment of Women,17.81,0.03%,United Nations Entity for Gender Equality and the Empowerment of Women,Switzerland
 2023,IFC,16.76,0.03%,International Finance Corporation ,Switzerland
 2023,IFAD,16.69,0.03%,International Fund for Agricultural Development ,Switzerland
 2023,Geneva Centre for the Democratic Control of Armed Forces,13.17,0.02%,Geneva Centre for the Democratic Control of Armed Forces,Switzerland
-2023,Joint United Nations Programme on HIV/AIDS ,11.13,0.02%,Joint United Nations Programme on HIV/AIDS ,Switzerland
 2023,CERF,11.13,0.02%,Central Emergency Response Fund,Switzerland
+2023,Joint United Nations Programme on HIV/AIDS ,11.13,0.02%,Joint United Nations Programme on HIV/AIDS ,Switzerland
 2023,International Monetary Fund - Poverty Reduction and Growth Trust ,11.13,0.02%,International Monetary Fund - Poverty Reduction and Growth Trust ,Switzerland
 2023,Geneva International Centre for Humanitarian Demining ,10.59,0.02%,Geneva International Centre for Humanitarian Demining ,Switzerland
 2023,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",9.64,0.02%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",Switzerland
@@ -322,9 +322,9 @@ Year,Multi_short,ODA,Share,full name,Donor
 2023,Council of Europe,4.68,0.01%,Council of Europe,Switzerland
 2023,World Health Organisation - assessed contributions,4.45,0.01%,World Health Organisation - assessed contributions,Switzerland
 2023,United Nations Office of Co-ordination of Humanitarian Affairs ,3.9,0.01%,United Nations Office of Co-ordination of Humanitarian Affairs ,Switzerland
-2023,JSDGF,3.34,0.01%,Joint Sustainable Development Goals Fund,Switzerland
 2023,UNCDF,3.34,0.01%,United Nations Capital Development Fund ,Switzerland
 2023,AF,3.34,0.01%,Adaptation Fund,Switzerland
+2023,JSDGF,3.34,0.01%,Joint Sustainable Development Goals Fund,Switzerland
 2023,Organization for Security and Co-operation in Europe,3.3,0.01%,Organization for Security and Co-operation in Europe,Switzerland
 2023,UNDCO,3.22,0.01%,United Nations Development Coordination Office,Switzerland
 2023,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),3.16,0.01%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Switzerland
@@ -347,15 +347,15 @@ Year,Multi_short,ODA,Share,full name,Donor
 2023,United Nations University (including Endowment Fund) ,0.56,0.0%,United Nations University (including Endowment Fund) ,Switzerland
 2023,International Agency for Research on Cancer,0.45,0.0%,International Agency for Research on Cancer,Switzerland
 2023,OECD Development Centre ,0.4,0.0%,OECD Development Centre ,Switzerland
-2023,UNWTO,0.34,0.0%,World Tourism Organization,Switzerland
 2023,United Nations Economic Commission for Europe (extrabudgetary contributions only),0.34,0.0%,United Nations Economic Commission for Europe (extrabudgetary contributions only),Switzerland
+2023,UNWTO,0.34,0.0%,World Tourism Organization,Switzerland
 2023,African Tax Administration Forum,0.31,0.0%,African Tax Administration Forum,Switzerland
 2023,United Nations Framework Convention on Climate Change ,0.24,0.0%,United Nations Framework Convention on Climate Change ,Switzerland
 2023,International Renewable Energy Agency,0.16,0.0%,International Renewable Energy Agency,Switzerland
 2023,WOAH,0.15,0.0%,World Organisation for Animal Health,Switzerland
-2023,United Nations Institute for Training and Research ,0.11,0.0%,United Nations Institute for Training and Research ,Switzerland
 2023,Intergovernmental Panel on Climate Change ,0.11,0.0%,Intergovernmental Panel on Climate Change ,Switzerland
 2023,United Nations Research Institute for Social Development ,0.11,0.0%,United Nations Research Institute for Social Development ,Switzerland
+2023,United Nations Institute for Training and Research ,0.11,0.0%,United Nations Institute for Training and Research ,Switzerland
 2023,Convention to Combat Desertification ,0.1,0.0%,Convention to Combat Desertification ,Switzerland
 2023,Universal Postal Union ,0.06,0.0%,Universal Postal Union ,Switzerland
 2023,International Tropical Timber Organisation ,0.04,0.0%,International Tropical Timber Organisation ,Switzerland

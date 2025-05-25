@@ -1,4 +1,4 @@
-Year,Multi_short,ODA,Share,full name,Donor
+Year,Multi_short,ODA,Share,Full Name,Donor
 2019,European Commission - Development Share of Budget,190.23,0.4%,European Commission - Development Share of Budget,Czechia
 2019,European Commission - European Development Fund,53.6,0.11%,European Commission - European Development Fund,Czechia
 2019,IDA,6.69,0.01%,International Development Association ,Czechia
@@ -11,8 +11,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2019,MLF-MP,1.15,0.0%,Multilateral Fund for the Implementation of the Montreal Protocol ,Czechia
 2019,International Atomic Energy Agency - assessed contributions,1.14,0.0%,International Atomic Energy Agency - assessed contributions,Czechia
 2019,FAO,1.11,0.0%,Food and Agricultural Organisation,Czechia
-2019,International Labour Organisation - Assessed Contributions,0.98,0.0%,International Labour Organisation - Assessed Contributions,Czechia
 2019,Organization for Security and Co-operation in Europe,0.98,0.0%,Organization for Security and Co-operation in Europe,Czechia
+2019,International Labour Organisation - Assessed Contributions,0.98,0.0%,International Labour Organisation - Assessed Contributions,Czechia
 2019,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),0.8,0.0%,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),Czechia
 2019,"United Nations Educational, Scientific and Cultural Organisation",0.79,0.0%,"United Nations Educational, Scientific and Cultural Organisation",Czechia
 2019,International Development Association - Multilateral Debt Relief Initiative,0.64,0.0%,International Development Association - Multilateral Debt Relief Initiative,Czechia
@@ -23,8 +23,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2019,UNDP,0.17,0.0%,United Nations Development Programme ,Czechia
 2019,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),0.12,0.0%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Czechia
 2019,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,0.11,0.0%,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,Czechia
-2019,International Telecommunications Union,0.08,0.0%,International Telecommunications Union,Czechia
 2019,United Nations Economic Commission for Europe (extrabudgetary contributions only),0.08,0.0%,United Nations Economic Commission for Europe (extrabudgetary contributions only),Czechia
+2019,International Telecommunications Union,0.08,0.0%,International Telecommunications Union,Czechia
 2019,European and Mediterranean Plant Protection Organisation ,0.07,0.0%,European and Mediterranean Plant Protection Organisation ,Czechia
 2019,International Renewable Energy Agency,0.07,0.0%,International Renewable Energy Agency,Czechia
 2019,United Nations Framework Convention on Climate Change ,0.06,0.0%,United Nations Framework Convention on Climate Change ,Czechia
@@ -32,12 +32,12 @@ Year,Multi_short,ODA,Share,full name,Donor
 2019,Universal Postal Union ,0.05,0.0%,Universal Postal Union ,Czechia
 2019,Convention to Combat Desertification ,0.03,0.0%,Convention to Combat Desertification ,Czechia
 2019,United Nations Democracy Fund,0.02,0.0%,United Nations Democracy Fund,Czechia
-2019,CITES,0.02,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Czechia
 2019,United Nations Entity for Gender Equality and the Empowerment of Women,0.02,0.0%,United Nations Entity for Gender Equality and the Empowerment of Women,Czechia
+2019,CITES,0.02,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Czechia
+2019,World Meteorological Organisation ,0.01,0.0%,World Meteorological Organisation ,Czechia
+2019,United Nations Human Settlement Programme ,0.01,0.0%,United Nations Human Settlement Programme ,Czechia
 2019,Community of Portuguese Speaking Countries ,0.01,0.0%,Community of Portuguese Speaking Countries ,Czechia
 2019,World Intellectual Property Organisation ,0.01,0.0%,World Intellectual Property Organisation ,Czechia
-2019,United Nations Human Settlement Programme ,0.01,0.0%,United Nations Human Settlement Programme ,Czechia
-2019,World Meteorological Organisation ,0.01,0.0%,World Meteorological Organisation ,Czechia
 2019,CEB,0.0,0.0%,Council of Europe Development Bank,Czechia
 2020,European Commission - Development Share of Budget,195.33,0.38%,European Commission - Development Share of Budget,Czechia
 2020,European Commission - European Development Fund,52.11,0.1%,European Commission - European Development Fund,Czechia
@@ -66,18 +66,18 @@ Year,Multi_short,ODA,Share,full name,Donor
 2020,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),0.1,0.0%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Czechia
 2020,International Renewable Energy Agency,0.1,0.0%,International Renewable Energy Agency,Czechia
 2020,International Telecommunications Union,0.08,0.0%,International Telecommunications Union,Czechia
-2020,United Nations Framework Convention on Climate Change ,0.07,0.0%,United Nations Framework Convention on Climate Change ,Czechia
 2020,United Nations Economic Commission for Europe (extrabudgetary contributions only),0.07,0.0%,United Nations Economic Commission for Europe (extrabudgetary contributions only),Czechia
+2020,United Nations Framework Convention on Climate Change ,0.07,0.0%,United Nations Framework Convention on Climate Change ,Czechia
 2020,Universal Postal Union ,0.06,0.0%,Universal Postal Union ,Czechia
 2020,Convention to Combat Desertification ,0.03,0.0%,Convention to Combat Desertification ,Czechia
-2020,International Organisation of the Francophonie,0.02,0.0%,International Organisation of the Francophonie,Czechia
-2020,CITES,0.02,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Czechia
+2020,United Nations Entity for Gender Equality and the Empowerment of Women,0.02,0.0%,United Nations Entity for Gender Equality and the Empowerment of Women,Czechia
 2020,United Nations Democracy Fund,0.02,0.0%,United Nations Democracy Fund,Czechia
 2020,United Nations Human Settlement Programme ,0.02,0.0%,United Nations Human Settlement Programme ,Czechia
-2020,United Nations Entity for Gender Equality and the Empowerment of Women,0.02,0.0%,United Nations Entity for Gender Equality and the Empowerment of Women,Czechia
+2020,CITES,0.02,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Czechia
+2020,International Organisation of the Francophonie,0.02,0.0%,International Organisation of the Francophonie,Czechia
+2020,Community of Portuguese Speaking Countries ,0.01,0.0%,Community of Portuguese Speaking Countries ,Czechia
 2020,World Meteorological Organisation ,0.01,0.0%,World Meteorological Organisation ,Czechia
 2020,World Intellectual Property Organisation ,0.01,0.0%,World Intellectual Property Organisation ,Czechia
-2020,Community of Portuguese Speaking Countries ,0.01,0.0%,Community of Portuguese Speaking Countries ,Czechia
 2020,CEB,0.0,0.0%,Council of Europe Development Bank,Czechia
 2021,European Commission - Development Share of Budget,236.34,0.42%,European Commission - Development Share of Budget,Czechia
 2021,European Commission - European Development Fund,43.41,0.08%,European Commission - European Development Fund,Czechia
@@ -104,24 +104,24 @@ Year,Multi_short,ODA,Share,full name,Donor
 2021,UNWTO,0.18,0.0%,World Tourism Organization,Czechia
 2021,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),0.09,0.0%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Czechia
 2021,WOAH,0.08,0.0%,World Organisation for Animal Health,Czechia
-2021,International Telecommunications Union,0.07,0.0%,International Telecommunications Union,Czechia
 2021,United Nations Framework Convention on Climate Change ,0.07,0.0%,United Nations Framework Convention on Climate Change ,Czechia
-2021,Universal Postal Union ,0.05,0.0%,Universal Postal Union ,Czechia
-2021,International Renewable Energy Agency,0.05,0.0%,International Renewable Energy Agency,Czechia
+2021,International Telecommunications Union,0.07,0.0%,International Telecommunications Union,Czechia
 2021,European and Mediterranean Plant Protection Organisation ,0.05,0.0%,European and Mediterranean Plant Protection Organisation ,Czechia
-2021,United Nations Peacebuilding Fund,0.03,0.0%,United Nations Peacebuilding Fund,Czechia
-2021,Convention to Combat Desertification ,0.03,0.0%,Convention to Combat Desertification ,Czechia
+2021,International Renewable Energy Agency,0.05,0.0%,International Renewable Energy Agency,Czechia
+2021,Universal Postal Union ,0.05,0.0%,Universal Postal Union ,Czechia
 2021,World Health Organisation - core voluntary contributions account,0.03,0.0%,World Health Organisation - core voluntary contributions account,Czechia
+2021,Convention to Combat Desertification ,0.03,0.0%,Convention to Combat Desertification ,Czechia
+2021,United Nations Peacebuilding Fund,0.03,0.0%,United Nations Peacebuilding Fund,Czechia
+2021,CITES,0.02,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Czechia
 2021,United Nations Democracy Fund,0.02,0.0%,United Nations Democracy Fund,Czechia
-2021,International Organisation of the Francophonie,0.02,0.0%,International Organisation of the Francophonie,Czechia
 2021,United Nations Economic Commission for Europe (extrabudgetary contributions only),0.02,0.0%,United Nations Economic Commission for Europe (extrabudgetary contributions only),Czechia
 2021,ICMP,0.02,0.0%,International Commission on Missing Persons,Czechia
+2021,International Organisation of the Francophonie,0.02,0.0%,International Organisation of the Francophonie,Czechia
 2021,United Nations Entity for Gender Equality and the Empowerment of Women,0.02,0.0%,United Nations Entity for Gender Equality and the Empowerment of Women,Czechia
-2021,CITES,0.02,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Czechia
-2021,Community of Portuguese Speaking Countries ,0.01,0.0%,Community of Portuguese Speaking Countries ,Czechia
-2021,World Intellectual Property Organisation ,0.01,0.0%,World Intellectual Property Organisation ,Czechia
-2021,United Nations Human Settlement Programme ,0.01,0.0%,United Nations Human Settlement Programme ,Czechia
 2021,World Meteorological Organisation ,0.01,0.0%,World Meteorological Organisation ,Czechia
+2021,Community of Portuguese Speaking Countries ,0.01,0.0%,Community of Portuguese Speaking Countries ,Czechia
+2021,United Nations Human Settlement Programme ,0.01,0.0%,United Nations Human Settlement Programme ,Czechia
+2021,World Intellectual Property Organisation ,0.01,0.0%,World Intellectual Property Organisation ,Czechia
 2021,CEB,0.0,0.0%,Council of Europe Development Bank,Czechia
 2022,European Commission - Development Share of Budget,296.43,0.55%,European Commission - Development Share of Budget,Czechia
 2022,European Commission - European Development Fund,26.75,0.05%,European Commission - European Development Fund,Czechia
@@ -154,17 +154,17 @@ Year,Multi_short,ODA,Share,full name,Donor
 2022,Universal Postal Union ,0.04,0.0%,Universal Postal Union ,Czechia
 2022,European and Mediterranean Plant Protection Organisation ,0.04,0.0%,European and Mediterranean Plant Protection Organisation ,Czechia
 2022,Convention to Combat Desertification ,0.03,0.0%,Convention to Combat Desertification ,Czechia
-2022,United Nations Peacebuilding Fund,0.02,0.0%,United Nations Peacebuilding Fund,Czechia
 2022,United Nations Entity for Gender Equality and the Empowerment of Women,0.02,0.0%,United Nations Entity for Gender Equality and the Empowerment of Women,Czechia
 2022,CITES,0.02,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Czechia
+2022,United Nations Peacebuilding Fund,0.02,0.0%,United Nations Peacebuilding Fund,Czechia
+2022,United Nations Human Settlement Programme ,0.01,0.0%,United Nations Human Settlement Programme ,Czechia
+2022,World Meteorological Organisation ,0.01,0.0%,World Meteorological Organisation ,Czechia
 2022,CEB,0.01,0.0%,Council of Europe Development Bank,Czechia
 2022,ICMP,0.01,0.0%,International Commission on Missing Persons,Czechia
-2022,International Organisation of the Francophonie,0.01,0.0%,International Organisation of the Francophonie,Czechia
 2022,United Nations Economic Commission for Europe (extrabudgetary contributions only),0.01,0.0%,United Nations Economic Commission for Europe (extrabudgetary contributions only),Czechia
-2022,World Meteorological Organisation ,0.01,0.0%,World Meteorological Organisation ,Czechia
-2022,United Nations Human Settlement Programme ,0.01,0.0%,United Nations Human Settlement Programme ,Czechia
-2022,World Intellectual Property Organisation ,0.0,0.0%,World Intellectual Property Organisation ,Czechia
+2022,International Organisation of the Francophonie,0.01,0.0%,International Organisation of the Francophonie,Czechia
 2022,UNIDIR,0.0,0.0%,United Nations Institute for Disarmament Research,Czechia
+2022,World Intellectual Property Organisation ,0.0,0.0%,World Intellectual Property Organisation ,Czechia
 2023,European Commission - Development Share of Budget,254.88,0.42%,European Commission - Development Share of Budget,Czechia
 2023,European Commission - European Development Fund,18.16,0.03%,European Commission - European Development Fund,Czechia
 2023,IDA,11.03,0.02%,International Development Association ,Czechia
@@ -193,15 +193,15 @@ Year,Multi_short,ODA,Share,full name,Donor
 2023,UNWTO,0.12,0.0%,World Tourism Organization,Czechia
 2023,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),0.09,0.0%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Czechia
 2023,United Nations Framework Convention on Climate Change ,0.08,0.0%,United Nations Framework Convention on Climate Change ,Czechia
-2023,International Renewable Energy Agency,0.04,0.0%,International Renewable Energy Agency,Czechia
 2023,Universal Postal Union ,0.04,0.0%,Universal Postal Union ,Czechia
+2023,International Renewable Energy Agency,0.04,0.0%,International Renewable Energy Agency,Czechia
 2023,Convention to Combat Desertification ,0.03,0.0%,Convention to Combat Desertification ,Czechia
-2023,United Nations Entity for Gender Equality and the Empowerment of Women,0.02,0.0%,United Nations Entity for Gender Equality and the Empowerment of Women,Czechia
+2023,International Organisation of the Francophonie,0.02,0.0%,International Organisation of the Francophonie,Czechia
 2023,CITES,0.02,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Czechia
 2023,United Nations Peacebuilding Fund,0.02,0.0%,United Nations Peacebuilding Fund,Czechia
-2023,International Organisation of the Francophonie,0.02,0.0%,International Organisation of the Francophonie,Czechia
+2023,United Nations Entity for Gender Equality and the Empowerment of Women,0.02,0.0%,United Nations Entity for Gender Equality and the Empowerment of Women,Czechia
 2023,World Meteorological Organisation ,0.01,0.0%,World Meteorological Organisation ,Czechia
+2023,United Nations Economic Commission for Europe (extrabudgetary contributions only),0.01,0.0%,United Nations Economic Commission for Europe (extrabudgetary contributions only),Czechia
 2023,ICMP,0.01,0.0%,International Commission on Missing Persons,Czechia
 2023,United Nations Human Settlement Programme ,0.01,0.0%,United Nations Human Settlement Programme ,Czechia
-2023,United Nations Economic Commission for Europe (extrabudgetary contributions only),0.01,0.0%,United Nations Economic Commission for Europe (extrabudgetary contributions only),Czechia
 2023,CEB,0.0,0.0%,Council of Europe Development Bank,Czechia

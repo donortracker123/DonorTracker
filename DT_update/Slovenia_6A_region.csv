@@ -1,4 +1,4 @@
-Year,Multi_short,ODA,Share,full name,Donor
+Year,Multi_short,ODA,Share,Full Name,Donor
 2019,European Commission - Development Share of Budget,40.25,0.08%,European Commission - Development Share of Budget,Slovenia
 2019,European Commission - European Development Fund,12.88,0.03%,European Commission - European Development Fund,Slovenia
 2019,CEF,1.59,0.0%,Center of Excellence in Finance,Slovenia
@@ -10,8 +10,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2019,UN,1.13,0.0%,United Nations,Slovenia
 2019,EIB,0.7,0.0%,European Investment Bank ,Slovenia
 2019,FAO,0.36,0.0%,Food and Agricultural Organisation,Slovenia
-2019,World Health Organisation - assessed contributions,0.33,0.0%,World Health Organisation - assessed contributions,Slovenia
 2019,International Development Association - Multilateral Debt Relief Initiative,0.33,0.0%,International Development Association - Multilateral Debt Relief Initiative,Slovenia
+2019,World Health Organisation - assessed contributions,0.33,0.0%,World Health Organisation - assessed contributions,Slovenia
 2019,Council of Europe,0.32,0.0%,Council of Europe,Slovenia
 2019,MLF-MP,0.28,0.0%,Multilateral Fund for the Implementation of the Montreal Protocol ,Slovenia
 2019,Organization for Security and Co-operation in Europe,0.26,0.0%,Organization for Security and Co-operation in Europe,Slovenia
@@ -19,24 +19,24 @@ Year,Multi_short,ODA,Share,full name,Donor
 2019,International Labour Organisation - Assessed Contributions,0.21,0.0%,International Labour Organisation - Assessed Contributions,Slovenia
 2019,UNEP,0.18,0.0%,United Nations Environment Programme ,Slovenia
 2019,"United Nations Educational, Scientific and Cultural Organisation",0.18,0.0%,"United Nations Educational, Scientific and Cultural Organisation",Slovenia
-2019,European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund,0.13,0.0%,European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund,Slovenia
 2019,International Atomic Energy Agency - assessed contributions,0.13,0.0%,International Atomic Energy Agency - assessed contributions,Slovenia
+2019,European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund,0.13,0.0%,European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund,Slovenia
 2019,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),0.09,0.0%,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),Slovenia
 2019,International Organisation for Migration ,0.05,0.0%,International Organisation for Migration ,Slovenia
 2019,UNICEF,0.04,0.0%,United Nations Children's Fund ,Slovenia
+2019,OECD Development Centre ,0.02,0.0%,OECD Development Centre ,Slovenia
 2019,International Telecommunications Union,0.02,0.0%,International Telecommunications Union,Slovenia
 2019,United Nations Framework Convention on Climate Change ,0.02,0.0%,United Nations Framework Convention on Climate Change ,Slovenia
-2019,OECD Development Centre ,0.02,0.0%,OECD Development Centre ,Slovenia
-2019,Convention to Combat Desertification ,0.01,0.0%,Convention to Combat Desertification ,Slovenia
-2019,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),0.01,0.0%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Slovenia
 2019,International Organisation of the Francophonie,0.01,0.0%,International Organisation of the Francophonie,Slovenia
-2019,United Nations Entity for Gender Equality and the Empowerment of Women,0.01,0.0%,United Nations Entity for Gender Equality and the Empowerment of Women,Slovenia
-2019,International Renewable Energy Agency,0.01,0.0%,International Renewable Energy Agency,Slovenia
+2019,Convention to Combat Desertification ,0.01,0.0%,Convention to Combat Desertification ,Slovenia
 2019,Universal Postal Union ,0.01,0.0%,Universal Postal Union ,Slovenia
 2019,UNFPA,0.01,0.0%,United Nations Population Fund ,Slovenia
+2019,International Renewable Energy Agency,0.01,0.0%,International Renewable Energy Agency,Slovenia
 2019,CITES,0.01,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Slovenia
-2019,World Meteorological Organisation ,0.0,0.0%,World Meteorological Organisation ,Slovenia
+2019,United Nations Entity for Gender Equality and the Empowerment of Women,0.01,0.0%,United Nations Entity for Gender Equality and the Empowerment of Women,Slovenia
+2019,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),0.01,0.0%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Slovenia
 2019,World Intellectual Property Organisation ,0.0,0.0%,World Intellectual Property Organisation ,Slovenia
+2019,World Meteorological Organisation ,0.0,0.0%,World Meteorological Organisation ,Slovenia
 2020,European Commission - Development Share of Budget,45.62,0.09%,European Commission - Development Share of Budget,Slovenia
 2020,European Commission - European Development Fund,12.74,0.02%,European Commission - European Development Fund,Slovenia
 2020,CEF,1.58,0.0%,Center of Excellence in Finance,Slovenia
@@ -47,8 +47,8 @@ Year,Multi_short,ODA,Share,full name,Donor
 2020,EIB,0.7,0.0%,European Investment Bank ,Slovenia
 2020,International Development Association - Multilateral Debt Relief Initiative,0.39,0.0%,International Development Association - Multilateral Debt Relief Initiative,Slovenia
 2020,FAO,0.36,0.0%,Food and Agricultural Organisation,Slovenia
-2020,World Health Organisation - assessed contributions,0.33,0.0%,World Health Organisation - assessed contributions,Slovenia
 2020,Council of Europe,0.33,0.0%,Council of Europe,Slovenia
+2020,World Health Organisation - assessed contributions,0.33,0.0%,World Health Organisation - assessed contributions,Slovenia
 2020,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),0.27,0.0%,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),Slovenia
 2020,Organization for Security and Co-operation in Europe,0.26,0.0%,Organization for Security and Co-operation in Europe,Slovenia
 2020,MLF-MP,0.24,0.0%,Multilateral Fund for the Implementation of the Montreal Protocol ,Slovenia
@@ -60,20 +60,20 @@ Year,Multi_short,ODA,Share,full name,Donor
 2020,European and Mediterranean Plant Protection Organisation ,0.08,0.0%,European and Mediterranean Plant Protection Organisation ,Slovenia
 2020,International Organisation for Migration ,0.05,0.0%,International Organisation for Migration ,Slovenia
 2020,UNICEF,0.04,0.0%,United Nations Children's Fund ,Slovenia
-2020,International Renewable Energy Agency,0.02,0.0%,International Renewable Energy Agency,Slovenia
+2020,UNDCO,0.02,0.0%,United Nations Development Coordination Office,Slovenia
 2020,International Telecommunications Union,0.02,0.0%,International Telecommunications Union,Slovenia
 2020,OECD Development Centre ,0.02,0.0%,OECD Development Centre ,Slovenia
-2020,UNDCO,0.02,0.0%,United Nations Development Coordination Office,Slovenia
-2020,Convention to Combat Desertification ,0.01,0.0%,Convention to Combat Desertification ,Slovenia
+2020,International Renewable Energy Agency,0.02,0.0%,International Renewable Energy Agency,Slovenia
 2020,International Organisation of the Francophonie,0.01,0.0%,International Organisation of the Francophonie,Slovenia
 2020,Universal Postal Union ,0.01,0.0%,Universal Postal Union ,Slovenia
 2020,United Nations Framework Convention on Climate Change ,0.01,0.0%,United Nations Framework Convention on Climate Change ,Slovenia
 2020,CITES,0.01,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Slovenia
+2020,Convention to Combat Desertification ,0.01,0.0%,Convention to Combat Desertification ,Slovenia
+2020,ICGEB,0.0,0.0%,International Centre for Genetic Engineering and Biotechnology,Slovenia
+2020,WOAH,0.0,0.0%,World Organisation for Animal Health,Slovenia
+2020,IFC,0.0,0.0%,International Finance Corporation ,Slovenia
 2020,World Intellectual Property Organisation ,0.0,0.0%,World Intellectual Property Organisation ,Slovenia
 2020,World Meteorological Organisation ,0.0,0.0%,World Meteorological Organisation ,Slovenia
-2020,IFC,0.0,0.0%,International Finance Corporation ,Slovenia
-2020,WOAH,0.0,0.0%,World Organisation for Animal Health,Slovenia
-2020,ICGEB,0.0,0.0%,International Centre for Genetic Engineering and Biotechnology,Slovenia
 2021,European Commission - Development Share of Budget,50.31,0.09%,European Commission - Development Share of Budget,Slovenia
 2021,European Commission - European Development Fund,10.43,0.02%,European Commission - European Development Fund,Slovenia
 2021,GEF-TF,2.91,0.01%,Global Environment Facility Trust Fund,Slovenia
@@ -99,27 +99,27 @@ Year,Multi_short,ODA,Share,full name,Donor
 2021,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),0.08,0.0%,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),Slovenia
 2021,Global Environment Facility - Least Developed Countries Fund,0.06,0.0%,Global Environment Facility - Least Developed Countries Fund,Slovenia
 2021,International Organisation for Migration ,0.05,0.0%,International Organisation for Migration ,Slovenia
-2021,European and Mediterranean Plant Protection Organisation ,0.03,0.0%,European and Mediterranean Plant Protection Organisation ,Slovenia
+2021,UNICEF,0.03,0.0%,United Nations Children's Fund ,Slovenia
 2021,United Nations Peacebuilding Fund,0.03,0.0%,United Nations Peacebuilding Fund,Slovenia
 2021,WOAH,0.03,0.0%,World Organisation for Animal Health,Slovenia
-2021,UNICEF,0.03,0.0%,United Nations Children's Fund ,Slovenia
+2021,European and Mediterranean Plant Protection Organisation ,0.03,0.0%,European and Mediterranean Plant Protection Organisation ,Slovenia
+2021,United Nations Framework Convention on Climate Change ,0.02,0.0%,United Nations Framework Convention on Climate Change ,Slovenia
 2021,OECD Development Centre ,0.02,0.0%,OECD Development Centre ,Slovenia
 2021,International Telecommunications Union,0.02,0.0%,International Telecommunications Union,Slovenia
-2021,United Nations Framework Convention on Climate Change ,0.02,0.0%,United Nations Framework Convention on Climate Change ,Slovenia
-2021,Convention to Combat Desertification ,0.01,0.0%,Convention to Combat Desertification ,Slovenia
-2021,CITES,0.01,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Slovenia
-2021,Universal Postal Union ,0.01,0.0%,Universal Postal Union ,Slovenia
 2021,International Organisation of the Francophonie,0.01,0.0%,International Organisation of the Francophonie,Slovenia
 2021,International Renewable Energy Agency,0.01,0.0%,International Renewable Energy Agency,Slovenia
-2021,World Meteorological Organisation ,0.0,0.0%,World Meteorological Organisation ,Slovenia
+2021,Convention to Combat Desertification ,0.01,0.0%,Convention to Combat Desertification ,Slovenia
+2021,Universal Postal Union ,0.01,0.0%,Universal Postal Union ,Slovenia
+2021,CITES,0.01,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Slovenia
 2021,World Intellectual Property Organisation ,0.0,0.0%,World Intellectual Property Organisation ,Slovenia
 2021,ICGEB,0.0,0.0%,International Centre for Genetic Engineering and Biotechnology,Slovenia
+2021,World Meteorological Organisation ,0.0,0.0%,World Meteorological Organisation ,Slovenia
 2022,European Commission - Development Share of Budget,70.69,0.13%,European Commission - Development Share of Budget,Slovenia
 2022,European Commission - European Development Fund,6.62,0.01%,European Commission - European Development Fund,Slovenia
 2022,IDA,1.64,0.0%,International Development Association ,Slovenia
 2022,IFC,1.5,0.0%,International Finance Corporation ,Slovenia
-2022,GEF-TF,1.44,0.0%,Global Environment Facility Trust Fund,Slovenia
 2022,CEF,1.44,0.0%,Center of Excellence in Finance,Slovenia
+2022,GEF-TF,1.44,0.0%,Global Environment Facility Trust Fund,Slovenia
 2022,UN,1.22,0.0%,United Nations,Slovenia
 2022,IBRD,1.16,0.0%,International Bank for Reconstruction and Development ,Slovenia
 2022,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",1.07,0.0%,"United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",Slovenia
@@ -128,17 +128,17 @@ Year,Multi_short,ODA,Share,full name,Donor
 2022,FAO,0.43,0.0%,Food and Agricultural Organisation,Slovenia
 2022,Council of Europe,0.35,0.0%,Council of Europe,Slovenia
 2022,World Health Organisation - assessed contributions,0.34,0.0%,World Health Organisation - assessed contributions,Slovenia
-2022,MLF-MP,0.23,0.0%,Multilateral Fund for the Implementation of the Montreal Protocol ,Slovenia
 2022,Organization for Security and Co-operation in Europe,0.23,0.0%,Organization for Security and Co-operation in Europe,Slovenia
+2022,MLF-MP,0.23,0.0%,Multilateral Fund for the Implementation of the Montreal Protocol ,Slovenia
 2022,International Labour Organisation - Assessed Contributions,0.19,0.0%,International Labour Organisation - Assessed Contributions,Slovenia
 2022,"United Nations Educational, Scientific and Cultural Organisation",0.17,0.0%,"United Nations Educational, Scientific and Cultural Organisation",Slovenia
 2022,UNEP,0.15,0.0%,United Nations Environment Programme ,Slovenia
 2022,UNWTO,0.13,0.0%,World Tourism Organization,Slovenia
 2022,International Atomic Energy Agency - assessed contributions,0.12,0.0%,International Atomic Energy Agency - assessed contributions,Slovenia
 2022,UNIDO,0.1,0.0%,United Nations Industrial Development Organisation ,Slovenia
-2022,Global Environment Facility - Special Climate Change Fund,0.08,0.0%,Global Environment Facility - Special Climate Change Fund,Slovenia
 2022,Global Environment Facility - Least Developed Countries Fund,0.08,0.0%,Global Environment Facility - Least Developed Countries Fund,Slovenia
 2022,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),0.08,0.0%,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),Slovenia
+2022,Global Environment Facility - Special Climate Change Fund,0.08,0.0%,Global Environment Facility - Special Climate Change Fund,Slovenia
 2022,International Organisation for Migration ,0.05,0.0%,International Organisation for Migration ,Slovenia
 2022,AF,0.04,0.0%,Adaptation Fund,Slovenia
 2022,WOAH,0.04,0.0%,World Organisation for Animal Health,Slovenia
@@ -146,14 +146,14 @@ Year,Multi_short,ODA,Share,full name,Donor
 2022,European and Mediterranean Plant Protection Organisation ,0.03,0.0%,European and Mediterranean Plant Protection Organisation ,Slovenia
 2022,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,0.02,0.0%,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,Slovenia
 2022,UNFPA,0.02,0.0%,United Nations Population Fund ,Slovenia
-2022,United Nations Framework Convention on Climate Change ,0.02,0.0%,United Nations Framework Convention on Climate Change ,Slovenia
-2022,International Telecommunications Union,0.02,0.0%,International Telecommunications Union,Slovenia
 2022,United Nations Peacebuilding Fund,0.02,0.0%,United Nations Peacebuilding Fund,Slovenia
+2022,International Telecommunications Union,0.02,0.0%,International Telecommunications Union,Slovenia
+2022,United Nations Framework Convention on Climate Change ,0.02,0.0%,United Nations Framework Convention on Climate Change ,Slovenia
+2022,International Renewable Energy Agency,0.01,0.0%,International Renewable Energy Agency,Slovenia
 2022,Universal Postal Union ,0.01,0.0%,Universal Postal Union ,Slovenia
+2022,CITES,0.01,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Slovenia
 2022,United Nations Economic Commission for Europe (extrabudgetary contributions only),0.01,0.0%,United Nations Economic Commission for Europe (extrabudgetary contributions only),Slovenia
 2022,International Organisation of the Francophonie,0.01,0.0%,International Organisation of the Francophonie,Slovenia
-2022,CITES,0.01,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Slovenia
-2022,International Renewable Energy Agency,0.01,0.0%,International Renewable Energy Agency,Slovenia
 2022,World Meteorological Organisation ,0.0,0.0%,World Meteorological Organisation ,Slovenia
 2022,World Intellectual Property Organisation ,0.0,0.0%,World Intellectual Property Organisation ,Slovenia
 2022,ICGEB,0.0,0.0%,International Centre for Genetic Engineering and Biotechnology,Slovenia
@@ -180,18 +180,18 @@ Year,Multi_short,ODA,Share,full name,Donor
 2023,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),0.08,0.0%,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),Slovenia
 2023,Global Environment Facility - Least Developed Countries Fund,0.07,0.0%,Global Environment Facility - Least Developed Countries Fund,Slovenia
 2023,International Organisation for Migration ,0.06,0.0%,International Organisation for Migration ,Slovenia
-2023,WOAH,0.04,0.0%,World Organisation for Animal Health,Slovenia
 2023,United Nations Framework Convention on Climate Change ,0.04,0.0%,United Nations Framework Convention on Climate Change ,Slovenia
 2023,UNFPA,0.04,0.0%,United Nations Population Fund ,Slovenia
+2023,WOAH,0.04,0.0%,World Organisation for Animal Health,Slovenia
 2023,European and Mediterranean Plant Protection Organisation ,0.03,0.0%,European and Mediterranean Plant Protection Organisation ,Slovenia
 2023,UNICEF,0.03,0.0%,United Nations Children's Fund ,Slovenia
 2023,United Nations Peacebuilding Fund,0.02,0.0%,United Nations Peacebuilding Fund,Slovenia
 2023,ICGEB,0.02,0.0%,International Centre for Genetic Engineering and Biotechnology,Slovenia
+2023,United Nations Economic Commission for Europe (extrabudgetary contributions only),0.01,0.0%,United Nations Economic Commission for Europe (extrabudgetary contributions only),Slovenia
 2023,United Nations Office on Drugs and Crime ,0.01,0.0%,United Nations Office on Drugs and Crime ,Slovenia
 2023,CITES,0.01,0.0%,Convention on International Trade in Endangered Species of Wild Flora and Fauna,Slovenia
-2023,Convention to Combat Desertification ,0.01,0.0%,Convention to Combat Desertification ,Slovenia
 2023,International Organisation of the Francophonie,0.01,0.0%,International Organisation of the Francophonie,Slovenia
 2023,International Renewable Energy Agency,0.01,0.0%,International Renewable Energy Agency,Slovenia
-2023,United Nations Economic Commission for Europe (extrabudgetary contributions only),0.01,0.0%,United Nations Economic Commission for Europe (extrabudgetary contributions only),Slovenia
+2023,Convention to Combat Desertification ,0.01,0.0%,Convention to Combat Desertification ,Slovenia
 2023,World Meteorological Organisation ,0.0,0.0%,World Meteorological Organisation ,Slovenia
 2023,World Intellectual Property Organisation ,0.0,0.0%,World Intellectual Property Organisation ,Slovenia

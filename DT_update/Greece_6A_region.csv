@@ -1,4 +1,4 @@
-Year,Multi_short,ODA,Share,full name,Donor
+Year,Multi_short,ODA,Share,Full Name,Donor
 2019,European Commission - Development Share of Budget,138.02,0.29%,European Commission - Development Share of Budget,Greece
 2019,European Commission - European Development Fund,87.98,0.18%,European Commission - European Development Fund,Greece
 2019,UN,5.33,0.01%,United Nations,Greece
@@ -17,14 +17,14 @@ Year,Multi_short,ODA,Share,full name,Donor
 2019,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),0.24,0.0%,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),Greece
 2019,UNWTO,0.23,0.0%,World Tourism Organization,Greece
 2019,United Nations Framework Convention on Climate Change ,0.19,0.0%,United Nations Framework Convention on Climate Change ,Greece
-2019,International Renewable Energy Agency,0.08,0.0%,International Renewable Energy Agency,Greece
 2019,OECD Development Centre ,0.08,0.0%,OECD Development Centre ,Greece
-2019,United Nations Economic Commission for Europe (extrabudgetary contributions only),0.06,0.0%,United Nations Economic Commission for Europe (extrabudgetary contributions only),Greece
+2019,International Renewable Energy Agency,0.08,0.0%,International Renewable Energy Agency,Greece
 2019,International Telecommunications Union,0.06,0.0%,International Telecommunications Union,Greece
+2019,United Nations Economic Commission for Europe (extrabudgetary contributions only),0.06,0.0%,United Nations Economic Commission for Europe (extrabudgetary contributions only),Greece
 2019,Council of Europe,0.03,0.0%,Council of Europe,Greece
 2019,Universal Postal Union ,0.02,0.0%,Universal Postal Union ,Greece
-2019,World Meteorological Organisation ,0.01,0.0%,World Meteorological Organisation ,Greece
 2019,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,0.01,0.0%,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,Greece
+2019,World Meteorological Organisation ,0.01,0.0%,World Meteorological Organisation ,Greece
 2019,World Intellectual Property Organisation ,0.0,0.0%,World Intellectual Property Organisation ,Greece
 2020,European Commission - Development Share of Budget,155.66,0.3%,European Commission - Development Share of Budget,Greece
 2020,European Commission - European Development Fund,88.74,0.17%,European Commission - European Development Fund,Greece
@@ -39,24 +39,24 @@ Year,Multi_short,ODA,Share,full name,Donor
 2020,International Centre for Advanced Mediterranean Agronomic Studies ,0.69,0.0%,International Centre for Advanced Mediterranean Agronomic Studies ,Greece
 2020,AIIB,0.37,0.0%,Asian Infrastructure Investment Bank,Greece
 2020,International Organisation for Migration ,0.25,0.0%,International Organisation for Migration ,Greece
-2020,Organisation of the Black Sea Economic Cooperation,0.24,0.0%,Organisation of the Black Sea Economic Cooperation,Greece
 2020,UNWTO,0.24,0.0%,World Tourism Organization,Greece
+2020,Organisation of the Black Sea Economic Cooperation,0.24,0.0%,Organisation of the Black Sea Economic Cooperation,Greece
 2020,International Renewable Energy Agency,0.09,0.0%,International Renewable Energy Agency,Greece
 2020,United Nations Framework Convention on Climate Change ,0.08,0.0%,United Nations Framework Convention on Climate Change ,Greece
-2020,OECD Development Centre ,0.08,0.0%,OECD Development Centre ,Greece
 2020,Forum Fisheries Agency ,0.08,0.0%,Forum Fisheries Agency ,Greece
-2020,WOAH,0.07,0.0%,World Organisation for Animal Health,Greece
+2020,OECD Development Centre ,0.08,0.0%,OECD Development Centre ,Greece
 2020,"United Nations Educational, Scientific and Cultural Organisation",0.07,0.0%,"United Nations Educational, Scientific and Cultural Organisation",Greece
 2020,International Telecommunications Union,0.07,0.0%,International Telecommunications Union,Greece
+2020,WOAH,0.07,0.0%,World Organisation for Animal Health,Greece
 2020,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",0.06,0.0%,"Global Fund to Fight AIDS, Tuberculosis and Malaria ",Greece
 2020,European and Mediterranean Plant Protection Organisation ,0.05,0.0%,European and Mediterranean Plant Protection Organisation ,Greece
 2020,UNRWA,0.04,0.0%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Greece
 2020,Universal Postal Union ,0.03,0.0%,Universal Postal Union ,Greece
 2020,Council of Europe,0.03,0.0%,Council of Europe,Greece
-2020,United Nations Economic Commission for Europe (extrabudgetary contributions only),0.02,0.0%,United Nations Economic Commission for Europe (extrabudgetary contributions only),Greece
 2020,GEF-TF,0.02,0.0%,Global Environment Facility Trust Fund,Greece
-2020,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,0.01,0.0%,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,Greece
+2020,United Nations Economic Commission for Europe (extrabudgetary contributions only),0.02,0.0%,United Nations Economic Commission for Europe (extrabudgetary contributions only),Greece
 2020,World Meteorological Organisation ,0.01,0.0%,World Meteorological Organisation ,Greece
+2020,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,0.01,0.0%,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,Greece
 2020,World Intellectual Property Organisation ,0.0,0.0%,World Intellectual Property Organisation ,Greece
 2021,European Commission - Development Share of Budget,163.02,0.29%,European Commission - Development Share of Budget,Greece
 2021,European Commission - European Development Fund,70.63,0.13%,European Commission - European Development Fund,Greece
@@ -73,18 +73,18 @@ Year,Multi_short,ODA,Share,full name,Donor
 2021,UNWTO,0.23,0.0%,World Tourism Organization,Greece
 2021,United Nations Office of Co-ordination of Humanitarian Affairs ,0.12,0.0%,United Nations Office of Co-ordination of Humanitarian Affairs ,Greece
 2021,Forum Fisheries Agency ,0.08,0.0%,Forum Fisheries Agency ,Greece
+2021,WOAH,0.07,0.0%,World Organisation for Animal Health,Greece
 2021,International Telecommunications Union,0.07,0.0%,International Telecommunications Union,Greece
 2021,United Nations Framework Convention on Climate Change ,0.07,0.0%,United Nations Framework Convention on Climate Change ,Greece
-2021,WOAH,0.07,0.0%,World Organisation for Animal Health,Greece
 2021,IFAD,0.06,0.0%,International Fund for Agricultural Development ,Greece
 2021,European and Mediterranean Plant Protection Organisation ,0.05,0.0%,European and Mediterranean Plant Protection Organisation ,Greece
+2021,Universal Postal Union ,0.03,0.0%,Universal Postal Union ,Greece
 2021,Council of Europe,0.03,0.0%,Council of Europe,Greece
 2021,"United Nations Educational, Scientific and Cultural Organisation",0.03,0.0%,"United Nations Educational, Scientific and Cultural Organisation",Greece
-2021,Universal Postal Union ,0.03,0.0%,Universal Postal Union ,Greece
 2021,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),0.02,0.0%,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),Greece
+2021,United Nations Economic Commission for Europe (extrabudgetary contributions only),0.01,0.0%,United Nations Economic Commission for Europe (extrabudgetary contributions only),Greece
 2021,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,0.01,0.0%,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,Greece
 2021,World Meteorological Organisation ,0.01,0.0%,World Meteorological Organisation ,Greece
-2021,United Nations Economic Commission for Europe (extrabudgetary contributions only),0.01,0.0%,United Nations Economic Commission for Europe (extrabudgetary contributions only),Greece
 2021,International Centre for Advanced Mediterranean Agronomic Studies ,0.0,0.0%,International Centre for Advanced Mediterranean Agronomic Studies ,Greece
 2021,World Intellectual Property Organisation ,0.0,0.0%,World Intellectual Property Organisation ,Greece
 2022,European Commission - Development Share of Budget,219.8,0.41%,European Commission - Development Share of Budget,Greece
@@ -102,13 +102,13 @@ Year,Multi_short,ODA,Share,full name,Donor
 2022,Organisation of the Black Sea Economic Cooperation,0.22,0.0%,Organisation of the Black Sea Economic Cooperation,Greece
 2022,European and Mediterranean Plant Protection Organisation ,0.1,0.0%,European and Mediterranean Plant Protection Organisation ,Greece
 2022,International Telecommunications Union,0.07,0.0%,International Telecommunications Union,Greece
-2022,United Nations Framework Convention on Climate Change ,0.07,0.0%,United Nations Framework Convention on Climate Change ,Greece
 2022,UNRWA,0.07,0.0%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Greece
-2022,WOAH,0.06,0.0%,World Organisation for Animal Health,Greece
+2022,United Nations Framework Convention on Climate Change ,0.07,0.0%,United Nations Framework Convention on Climate Change ,Greece
 2022,International Renewable Energy Agency,0.06,0.0%,International Renewable Energy Agency,Greece
+2022,WOAH,0.06,0.0%,World Organisation for Animal Health,Greece
 2022,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,0.06,0.0%,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only) ,Greece
-2022,United Nations Office of the High Commissioner for Refugees,0.05,0.0%,United Nations Office of the High Commissioner for Refugees,Greece
 2022,Council of Europe,0.05,0.0%,Council of Europe,Greece
+2022,United Nations Office of the High Commissioner for Refugees,0.05,0.0%,United Nations Office of the High Commissioner for Refugees,Greece
 2022,United Nations Office of Co-ordination of Humanitarian Affairs ,0.03,0.0%,United Nations Office of Co-ordination of Humanitarian Affairs ,Greece
 2022,Universal Postal Union ,0.03,0.0%,Universal Postal Union ,Greece
 2022,UNFPA,0.03,0.0%,United Nations Population Fund ,Greece
@@ -126,11 +126,11 @@ Year,Multi_short,ODA,Share,full name,Donor
 2023,International Labour Organisation - Assessed Contributions,0.83,0.0%,International Labour Organisation - Assessed Contributions,Greece
 2023,AIIB,0.34,0.0%,Asian Infrastructure Investment Bank,Greece
 2023,Organisation of the Black Sea Economic Cooperation,0.21,0.0%,Organisation of the Black Sea Economic Cooperation,Greece
-2023,United Nations Office of Co-ordination of Humanitarian Affairs ,0.11,0.0%,United Nations Office of Co-ordination of Humanitarian Affairs ,Greece
 2023,CERF,0.11,0.0%,Central Emergency Response Fund,Greece
+2023,United Nations Office of Co-ordination of Humanitarian Affairs ,0.11,0.0%,United Nations Office of Co-ordination of Humanitarian Affairs ,Greece
 2023,United Nations Framework Convention on Climate Change ,0.05,0.0%,United Nations Framework Convention on Climate Change ,Greece
 2023,International Renewable Energy Agency,0.04,0.0%,International Renewable Energy Agency,Greece
 2023,UNRWA,0.04,0.0%,United Nations Relief and Works Agency for Palestine Refugees in the Near East,Greece
 2023,Universal Postal Union ,0.03,0.0%,Universal Postal Union ,Greece
-2023,World Intellectual Property Organisation ,0.0,0.0%,World Intellectual Property Organisation ,Greece
 2023,"United Nations Educational, Scientific and Cultural Organisation",0.0,0.0%,"United Nations Educational, Scientific and Cultural Organisation",Greece
+2023,World Intellectual Property Organisation ,0.0,0.0%,World Intellectual Property Organisation ,Greece
