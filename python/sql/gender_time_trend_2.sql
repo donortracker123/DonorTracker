@@ -48,15 +48,28 @@ crs_totals AS (
 ), 
 
 --NOTE: As of April 2025, this CTE did not include values for EUI
+-- allocable_totals AS (
+--     SELECT 
+--         "Donor_1" AS donor_name,
+--         "TIME_PERIOD" AS year,
+--         sum("OBS_VALUE") AS allocable_oda
+--     FROM "{{allocable_gender_file}}"
+--     WHERE 1=1
+--     AND year BETWEEN ({{latest_year}} - 4) AND ({{latest_year}})
+--     AND "Donor_1" IN {{dac_countries}}
+--     GROUP BY 1,2
+-- )
+
 allocable_totals AS (
-    SELECT 
-        "Donor_1" AS donor_name,
-        "TIME_PERIOD" AS year,
-        sum("OBS_VALUE") AS allocable_oda
-    FROM "{{allocable_gender_file}}"
-    WHERE 1=1
-    AND year BETWEEN ({{latest_year}} - 4) AND ({{latest_year}})
-    AND "Donor_1" IN {{dac_countries}}
+    SELECT
+        donor_name,
+        year,
+        sum(usd_commitment_defl) AS allocable_oda
+    FROM "{{crs_file}}"
+    WHERE "Year" BETWEEN ({{latest_year}} - 4) AND ({{latest_year}})
+    AND donor_name IN {{dac_countries}}
+    AND aid_t IN {{allocable_aid_categories}}
+    AND category = 10
     GROUP BY 1,2
 )
 
