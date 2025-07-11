@@ -17,24 +17,45 @@ adaptation AS (
         b.donor_name,
         'Adaptation' AS "Rio Marker",
         b.year,
-        sum(
-            CASE
-                WHEN climate_adaptation IN (1,2) AND climate_mitigation NOT IN (1,2) THEN b.usd_commitment_defl / 100 * dfl.deflator
-                ELSE 0
-            END
-        ) AS "Bilateral ODA",
-        sum(
-            CASE 
-                WHEN climate_adaptation IN (1,2) AND climate_mitigation IN (1,2) THEN b.usd_commitment_defl / 100 * dfl.deflator
-                ELSE 0
-            END 
-        ) AS "Cross-cutting",
-        sum(
-            CASE
-                WHEN climate_total IN (1,2) THEN b.usd_commitment_defl / 100 * dfl.deflator
-                ELSE 0
-            END
-        ) AS "Total Climate ODA"
+        {% if deflate %}
+            sum(
+                CASE
+                    WHEN climate_adaptation IN (1,2) AND climate_mitigation NOT IN (1,2) THEN b.usd_commitment_defl / 100 * dfl.deflator
+                    ELSE 0
+                END
+            ) AS "Bilateral ODA",
+            sum(
+                CASE 
+                    WHEN climate_adaptation IN (1,2) AND climate_mitigation IN (1,2) THEN b.usd_commitment_defl / 100 * dfl.deflator
+                    ELSE 0
+                END 
+            ) AS "Cross-cutting",
+            sum(
+                CASE
+                    WHEN climate_total IN (1,2) THEN b.usd_commitment_defl / 100 * dfl.deflator
+                    ELSE 0
+                END
+            ) AS "Total Climate ODA"
+        {% else %}
+            sum(
+                CASE
+                    WHEN climate_adaptation IN (1,2) AND climate_mitigation NOT IN (1,2) THEN b.usd_commitment_defl
+                    ELSE 0
+                END
+            ) AS "Bilateral ODA",
+            sum(
+                CASE 
+                    WHEN climate_adaptation IN (1,2) AND climate_mitigation IN (1,2) THEN b.usd_commitment_defl
+                    ELSE 0
+                END 
+            ) AS "Cross-cutting",
+            sum(
+                CASE
+                    WHEN climate_total IN (1,2) THEN b.usd_commitment_defl
+                    ELSE 0
+                END
+            ) AS "Total Climate ODA"
+        {% endif %}
     FROM base b 
     LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor_name AND dfl.year = {{latest_year}}
     GROUP BY 1,2,3
@@ -45,24 +66,45 @@ mitigation AS (
         b.donor_name,
         'Mitigation' AS "Rio Marker",
         b.year,
-        sum(
-            CASE
-                WHEN climate_mitigation IN (1,2) AND climate_adaptation NOT IN (1,2) THEN b.usd_commitment_defl / 100 * dfl.deflator
-                ELSE 0
-            END
-        ) AS "Bilateral ODA",
-        sum(
-            CASE 
-                WHEN climate_adaptation IN (1,2) AND climate_mitigation IN (1,2) THEN b.usd_commitment_defl / 100 * dfl.deflator
-                ELSE 0
-            END 
-        ) AS "Cross-cutting",
-        sum(
-            CASE
-                WHEN climate_total IN (1,2) THEN b.usd_commitment_defl / 100 * dfl.deflator
-                ELSE 0
-            END
-        ) AS "Total Climate ODA"
+        {% if deflate %}
+            sum(
+                CASE
+                    WHEN climate_mitigation IN (1,2) AND climate_adaptation NOT IN (1,2) THEN b.usd_commitment_defl / 100 * dfl.deflator
+                    ELSE 0
+                END
+            ) AS "Bilateral ODA",
+            sum(
+                CASE 
+                    WHEN climate_adaptation IN (1,2) AND climate_mitigation IN (1,2) THEN b.usd_commitment_defl / 100 * dfl.deflator
+                    ELSE 0
+                END 
+            ) AS "Cross-cutting",
+            sum(
+                CASE
+                    WHEN climate_total IN (1,2) THEN b.usd_commitment_defl / 100 * dfl.deflator
+                    ELSE 0
+                END
+            ) AS "Total Climate ODA"
+        {% else %}
+            sum(
+                CASE
+                    WHEN climate_mitigation IN (1,2) AND climate_adaptation NOT IN (1,2) THEN b.usd_commitment_defl
+                    ELSE 0
+                END
+            ) AS "Bilateral ODA",
+            sum(
+                CASE 
+                    WHEN climate_adaptation IN (1,2) AND climate_mitigation IN (1,2) THEN b.usd_commitment_defl
+                    ELSE 0
+                END 
+            ) AS "Cross-cutting",
+            sum(
+                CASE
+                    WHEN climate_total IN (1,2) THEN b.usd_commitment_defl
+                    ELSE 0
+                END
+            ) AS "Total Climate ODA"
+        {% endif %}
     FROM base b 
     LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor_name AND dfl.year = {{latest_year}}
     GROUP BY 1,2,3

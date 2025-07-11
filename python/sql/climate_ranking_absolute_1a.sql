@@ -16,7 +16,11 @@ rio_totals AS (
     SELECT 
         b.donor_name,
         b.year,
-        sum(coalesce(usd_commitment_defl, 0) / 100 * dfl.deflator) AS bilateral_oda
+        {% if deflate %}
+            sum(coalesce(usd_commitment_defl, 0) / 100 * dfl.deflator) AS bilateral_oda
+        {% else %}
+            sum(coalesce(usd_commitment_defl, 0)) AS bilateral_oda
+        {% endif %}
     FROM base b 
     INNER JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor_name AND dfl.year = {{latest_year}}
     WHERE b.climate_total IN (1,2)

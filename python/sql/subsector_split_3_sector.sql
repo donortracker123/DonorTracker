@@ -19,7 +19,11 @@ transformed AS (
         b.donor_name,
         b.year,
         b.purpose_name,
-        (b.usd_disbursement_defl * dfl.deflator) / 100 AS bilateral_oda
+        {% if deflate %}
+            (b.usd_disbursement_defl * dfl.deflator) / 100 AS bilateral_oda
+        {% else %}
+            b.usd_disbursement_defl AS bilateral_oda
+        {% endif %}
     FROM base b 
     LEFT JOIN "{{dt_sector_file}}" dsf ON dsf.sector_code = b.purpose_code
     LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor_name AND dfl.year = {{latest_year}}

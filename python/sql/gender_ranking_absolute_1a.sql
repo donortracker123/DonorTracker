@@ -19,7 +19,11 @@ crs_totals AS (
     SELECT 
         b.donor_name AS donor,
         b.year,
-        sum(coalesce(usd_disbursement_defl, 0) / 100 * dfl.deflator) AS total_oda
+        {% if deflate %}
+            sum(coalesce(usd_disbursement_defl, 0) / 100 * dfl.deflator) AS total_oda
+        {% else %}
+            sum(coalesce(usd_disbursement_defl, 0)) AS total_oda
+        {% endif %}
     FROM base b 
     INNER JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor_name AND dfl.year = {{latest_year}}
     GROUP BY 1,2

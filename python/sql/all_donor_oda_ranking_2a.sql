@@ -19,9 +19,11 @@ WITH base AS (
         SELECT
             b.donor,
             b.year,
-            --Middle of the year, don't deflate
-            value / 1000 AS "Total ODA", 
-            -- value * (dfl.deflator / 100) / 1000 AS "Total ODA", 
+            {% if deflate %}
+                value * (dfl.deflator / 100) / 1000 
+            {% else %}
+                value / 1000
+            {% endif %} AS "Total ODA", 
             row_number() OVER (PARTITION BY b.year ORDER BY value DESC) AS rn
         FROM base b
         LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor AND dfl.year = {{latest_year}}

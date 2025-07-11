@@ -38,8 +38,13 @@ transformed AS (
 SELECT 
     t.year AS year,
     t.recipient_name AS "Recipient Country",
-    round((t.grants / 100) * dfl.deflator, 2) AS "ODA Grants",
-    round((t.loans / 100) * dfl.deflator, 2) AS "ODA Loans",
+    {% if deflate %}
+        round((t.grants / 100) * dfl.deflator, 2) AS "ODA Grants",
+        round((t.loans / 100) * dfl.deflator, 2) AS "ODA Loans",
+    {% else %}
+        round(t.grants, 2) AS "ODA Grants",
+        round(t.loans, 2) AS "ODA Loans",
+    {% endif %}
     round(t.share,1) || '%' AS "Share",
     t.donor_name AS donor,
 FROM transformed t

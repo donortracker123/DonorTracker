@@ -39,10 +39,17 @@ deflated AS (
     SELECT 
         ct.donor_name AS donor,
         ct.year,
-        dfl.deflator,
-        ct.bilateral_oda * dfl.deflator / 100 AS bilateral_oda,
-        oct.multilateral_oda AS multilateral_oda, --ONE Campaign came pre-deflated
-        (ct.bilateral_oda * dfl.deflator / 100) + oct.multilateral_oda AS total_oda --pre-deflated
+        {% if deflate %}
+            dfl.deflator,
+            ct.bilateral_oda * dfl.deflator / 100 AS bilateral_oda,
+            oct.multilateral_oda AS multilateral_oda, --ONE Campaign came pre-deflated
+            (ct.bilateral_oda * dfl.deflator / 100) + oct.multilateral_oda AS total_oda --pre-deflated
+        {% else %}
+            dfl.deflator,
+            ct.bilateral_oda AS bilateral_oda,
+            oct.multilateral_oda AS multilateral_oda, --ONE Campaign came pre-deflated
+            (ct.bilateral_oda) + oct.multilateral_oda AS total_oda --pre-deflated
+        {% endif %}
     FROM crs_totals ct 
     INNER JOIN one_campaign_totals oct USING(donor_name, year)
     INNER JOIN "{{deflator_file}}" dfl ON dfl.donor = ct.donor_name AND dfl.year = {{latest_year}}

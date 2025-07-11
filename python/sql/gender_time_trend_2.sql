@@ -63,8 +63,13 @@ allocable_totals AS (
 SELECT 
     ct.year AS "Year",
     round(100 * (ct.gender_principal + ct.gender_significant) / (alt.allocable_oda), 2) AS "Gender funding as % of bilateral allocable ODA",
-    round(gender_principal * (dfl.deflator / 100), 2) AS "Funding for projects with gender equality as a principal objective",
-    round(gender_significant * (dfl.deflator / 100), 2) AS "Funding for projects with gender equality as a significant objective",
+    {% if deflate %}
+        round(gender_principal * (dfl.deflator / 100), 2) AS "Funding for projects with gender equality as a principal objective",
+        round(gender_significant * (dfl.deflator / 100), 2) AS "Funding for projects with gender equality as a significant objective",
+    {% else %}
+        round(gender_principal, 2) AS "Funding for projects with gender equality as a principal objective",
+        round(gender_significant, 2) AS "Funding for projects with gender equality as a significant objective",
+    {% endif %}
     round(100 * gender_principal / alt.allocable_oda, 2) AS "Principal",
     round(100 * gender_significant / alt.allocable_oda, 2) AS "Significant",
     100 - ("Principal" + "Significant") AS "Not targeted or screened",

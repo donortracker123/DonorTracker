@@ -49,15 +49,16 @@ pre_deflated AS (
     ORDER BY donor, year
 ), 
 
---NOTE: in April, don't deflate
 deflated AS (
     SELECT 
         pd.donor,
         pd.year AS "Year",
         pd."ODA AS % GNI",
-        --Middle of year, don't deflate
-        -- pd."Total ODA" * (d.deflator / 100) AS "Total ODA"
-        pd."Total ODA" AS "Total ODA"
+        {% if deflate %}
+            pd."Total ODA" * (dfl.deflator / 100) AS "Total ODA"
+        {% else %}
+            pd."Total ODA" AS "Total ODA"
+        {% endif %}
     FROM pre_deflated pd
     LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = pd.donor AND dfl.year = {{latest_year}}
 )
