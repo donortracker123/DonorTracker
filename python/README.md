@@ -134,6 +134,8 @@ Options:
                                   set, defaults to the 'data' directory.
   -ly, --latest-year INTEGER      Latest year to use in the analysis
                                   [required]
+  -d, --deflate BOOLEAN           Deflate the currency? (Deflations based on
+                                  deflator_file.csv)
   -country, --group-by-country    Group by country? (Each country gets a
                                   separate chart output)
   -s, --sector TEXT               Sector for which to perform the analysis
