@@ -63,10 +63,17 @@ allocable_totals AS (
 deflated AS (
     SELECT
         ct.year,
-        sum(ct.gender_principal * (dfl.deflator/100)) AS gender_principal,
-        sum(ct.gender_significant * (dfl.deflator/100)) AS gender_significant,
-        sum((ct.gender_principal + ct.gender_significant) * (dfl.deflator/100)) AS gender_funding,
-        sum(alt.allocable_oda) AS allocable_oda --Note: for some reason this was not deflated
+        {% if deflate %}
+            sum(ct.gender_principal * (dfl.deflator/100)) AS gender_principal,
+            sum(ct.gender_significant * (dfl.deflator/100)) AS gender_significant,
+            sum((ct.gender_principal + ct.gender_significant) * (dfl.deflator/100)) AS gender_funding,
+            sum(alt.allocable_oda * (dfl.deflator/100)) AS allocable_oda 
+        {% else %}
+            sum(ct.gender_principal) AS gender_principal,
+            sum(ct.gender_significant) AS gender_significant,
+            sum((ct.gender_principal + ct.gender_significant)) AS gender_funding,
+            sum(alt.allocable_oda) AS allocable_oda
+        {% endif %}
     FROM crs_totals ct
     LEFT JOIN allocable_totals alt USING (donor_name, year)
     LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = ct.donor_name AND dfl.year = {{latest_year}}

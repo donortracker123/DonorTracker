@@ -61,7 +61,7 @@ dac1_totals AS (
     FROM "{{dac1_file}}"
     WHERE 1=1
     AND year BETWEEN ({{latest_year}} - 4) AND ({{latest_year}})
-    AND "Amount type" = 'Constant Prices (2022 USD millions)'
+    AND "Amount type" = 'Constant Prices ({{latest_year}} USD millions)'
     AND "Fund flows" = 'Gross Disbursements'
     AND "Donor_1" IN {{dac_countries}}
     AND "Aid type" = 'I. Official Development Assistance (ODA) (I.A + I.B)'
@@ -72,8 +72,13 @@ dac1_totals AS (
 SELECT 
     t.year,
     round((t.earmarked + t.bilateral + oct.sector_multilateral_oda) * 100 / d1t.total_oda, 2) AS "ODA to {{sector}} as % of Total ODA",
-    round((t.bilateral * dfl.deflator) / 100, 2) AS "Bilateral funding",
-    round((t.earmarked * dfl.deflator) / 100, 2) AS "Bilateral as earmarked funding through multilaterals",
+    {% if deflate %}
+        round((t.bilateral * dfl.deflator) / 100, 2) AS "Bilateral funding",
+        round((t.earmarked * dfl.deflator) / 100, 2) AS "Bilateral as earmarked funding through multilaterals",
+    {% else %}
+        round(t.bilateral, 2) AS "Bilateral funding",
+        round(t.earmarked, 2) AS "Bilateral as earmarked funding through multilaterals",
+    {% endif %}
     round(oct.sector_multilateral_oda, 2) AS "Multilateral as core contributions to organizations",
     round(t.earmarked * 100 / (t.earmarked + t.bilateral + oct.sector_multilateral_oda), 2) AS "Earmarked",
     round(t.bilateral * 100 / (t.earmarked + t.bilateral + oct.sector_multilateral_oda), 2) AS "Bilateral",

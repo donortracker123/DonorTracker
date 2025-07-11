@@ -18,7 +18,11 @@ crs_totals AS (
     SELECT
         b.donor_name,
         b.year,
-        sum((b.usd_disbursement_defl * dfl.deflator) / 100) AS total_bilateral_oda
+        {% if deflate %}
+            sum((b.usd_disbursement_defl * dfl.deflator) / 100) AS total_bilateral_oda
+        {% else %}
+            sum(b.usd_disbursement_defl) AS total_bilateral_oda
+        {% endif %}
     FROM "{{crs_file}}" b
     LEFT JOIN "{{dt_sector_file}}" dsf ON dsf.sector_code = b.purpose_code
     LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor_name AND dfl.year = {{latest_year}}

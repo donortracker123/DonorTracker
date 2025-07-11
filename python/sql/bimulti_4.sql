@@ -55,15 +55,18 @@ deflated AS (
     SELECT 
         f.donor,
         f.year,
-        --Middle of year, don't deflate
-        -- coalesce("Bilateral funding", 0) * dfl.deflator / 100 AS "Bilateral funding",
-        -- coalesce("Bilateral as earmarked funding through multilaterals", 0) * dfl.deflator / 100 AS "Bilateral as earmarked funding through multilaterals",
-        -- coalesce("Multilateral as core contributions to organizations", 0) * dfl.deflator / 100 AS "Multilateral as core contributions to organizations",
-        -- "Total ODA" * dfl.deflator / 100 AS "Total ODA",
-        coalesce("Bilateral funding", 0) AS "Bilateral funding",
-        coalesce("Bilateral as earmarked funding through multilaterals", 0) AS "Bilateral as earmarked funding through multilaterals",
-        coalesce("Multilateral as core contributions to organizations", 0) AS "Multilateral as core contributions to organizations",
-        "Total ODA" AS "Total ODA",
+        {% if deflate %}
+            -- Middle of year, don't deflate
+            coalesce("Bilateral funding", 0) * dfl.deflator / 100 AS "Bilateral funding",
+            coalesce("Bilateral as earmarked funding through multilaterals", 0) * dfl.deflator / 100 AS "Bilateral as earmarked funding through multilaterals",
+            coalesce("Multilateral as core contributions to organizations", 0) * dfl.deflator / 100 AS "Multilateral as core contributions to organizations",
+            "Total ODA" * dfl.deflator / 100 AS "Total ODA",
+        {% else %}
+            coalesce("Bilateral funding", 0) AS "Bilateral funding",
+            coalesce("Bilateral as earmarked funding through multilaterals", 0) AS "Bilateral as earmarked funding through multilaterals",
+            coalesce("Multilateral as core contributions to organizations", 0) AS "Multilateral as core contributions to organizations",
+            "Total ODA" AS "Total ODA",
+        {% endif %}
     FROM filtered f 
     LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = f.donor AND dfl.year = {{latest_year}}
 )

@@ -23,7 +23,12 @@ deflated AS (
         b.year,
         b.multi_short,
         b.full_name,
-        b.amount * dfl.deflator / 100 AS oda,
+        {% if deflate %}
+            b.amount * dfl.deflator / 100 AS oda,
+        {% else %}
+            b.amount AS oda,
+        {% endif %}
+
     FROM base b
     INNER JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor_name AND dfl.year = {{latest_year}}
 )

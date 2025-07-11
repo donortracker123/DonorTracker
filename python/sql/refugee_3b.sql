@@ -46,18 +46,18 @@ WITH base AS (
     GROUP BY donor, year
     ), 
 
-
-    --NOTE: For April, do not deflate (comment this CTE out)
     deflated AS (
         SELECT 
             f.year,
-            --Middle of the year, don't deflate
-            -- round("ODA for Development Priorities" *  dfl.deflator / 100, 2) AS "ODA for Development Priorities",
-            -- round("Contributions to EUI" * dfl.deflator / 100, 2) AS "Contributions to EUI",
-            -- round("In-donor Refugee Costs" * dfl.deflator / 100, 2) AS "In-donor Refugee Costs",
-            round("ODA for Development Priorities", 2) AS "ODA for Development Priorities",
-            round("Contributions to EUI", 2) AS "Contributions to EUI",
-            round("In-donor Refugee Costs", 2) AS "In-donor Refugee Costs",
+            {% if deflate %}
+                round("ODA for Development Priorities" *  dfl.deflator / 100, 2) AS "ODA for Development Priorities",
+                round("Contributions to EUI" * dfl.deflator / 100, 2) AS "Contributions to EUI",
+                round("In-donor Refugee Costs" * dfl.deflator / 100, 2) AS "In-donor Refugee Costs",
+            {% else %}
+                round("ODA for Development Priorities", 2) AS "ODA for Development Priorities",
+                round("Contributions to EUI", 2) AS "Contributions to EUI",
+                round("In-donor Refugee Costs", 2) AS "In-donor Refugee Costs",
+            {% endif %}
             f.donor
         FROM filtered f
         LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = f.donor AND dfl.year = {{latest_year}}

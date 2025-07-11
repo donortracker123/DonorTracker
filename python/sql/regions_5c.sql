@@ -18,7 +18,11 @@ WITH base AS (
 SELECT 
     b.year AS year,
     b.region_name AS "Region",
-    round(b.bilateral_oda * (dfl.deflator / 100), 2) AS "Bilateral ODA",
+    {% if deflate %}
+        round(b.bilateral_oda * (dfl.deflator / 100), 2) AS "Bilateral ODA",
+    {% else %}
+        round(b.bilateral_oda, 2) AS "Bilateral ODA",
+    {% endif %}
     round(b.share,1) || '%' AS "Share",
     b.donor_name AS donor,
 FROM base b

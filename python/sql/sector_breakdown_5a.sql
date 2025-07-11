@@ -30,7 +30,11 @@ deflated AS (
         ms.donor_name,
         ms.year,
         ms.sector_renamed,
-        ms.usd_disbursement_defl * dfl.deflator / 100 AS total_oda
+        {% if deflate %}
+            ms.usd_disbursement_defl * dfl.deflator / 100 AS total_oda
+        {% else %}           
+            ms.usd_disbursement_defl AS total_oda
+        {% endif %}
     FROM mapped_sectors ms
     INNER JOIN "{{deflator_file}}" dfl ON dfl.donor = ms.donor_name AND dfl.year = {{latest_year}}
 )

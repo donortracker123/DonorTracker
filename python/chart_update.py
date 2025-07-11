@@ -47,6 +47,10 @@ SAVE_PATH = Path(__file__).parent.parent
               type=int, 
               required=True, 
               help="Latest year to use in the analysis")
+@click.option("--deflate", "-d",
+              default=True,
+              type=bool,
+              help="Deflate the currency? (Deflations based on deflator_file.csv)")
 @click.option("--group-by-country", "-country", 
               is_flag=True, 
               help="Group by country? (Each country gets a separate chart output)")
@@ -62,7 +66,7 @@ SAVE_PATH = Path(__file__).parent.parent
               is_flag=True, 
               help="Only show the results of the query for testing purposes.")
 def main(query_name, dac1_file, crs_file, imputed_multilateral_file, climate_riomarkers_file, multisystem_file, allocable_gender_file,
-         latest_year, group_by_country, sector, folder, output_file, dry_run):
+         latest_year, deflate, group_by_country, sector, folder, output_file, dry_run):
     """Run a query using the provided files and save the result."""
     # Validate query
     sql_file = SQL_DIR / f"{query_name}.sql"
@@ -91,6 +95,7 @@ def main(query_name, dac1_file, crs_file, imputed_multilateral_file, climate_rio
                                 multisystem_file=multisystem_file,
                                 allocable_gender_file=allocable_gender_file,
                                 latest_year=latest_year,
+                                deflate=deflate,
                                 dac_countries=DAC_COUNTRIES,
                                 projection_file=projection_file,
                                 deflator_file=deflator_file, 
@@ -109,7 +114,7 @@ def main(query_name, dac1_file, crs_file, imputed_multilateral_file, climate_rio
 
     if dry_run:
         click.echo(f"First few rows...")
-        click.echo(result.head(70))
+        click.echo(result.head(50))
         return
 
     # Save output

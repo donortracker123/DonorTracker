@@ -26,7 +26,12 @@ deflated AS (
             WHEN incomegroup_name = 'MADCTs' THEN 'More advanced developed countries and territories'
             ELSE 'Countries unallocated by income'
         END AS mapped_income_group,
-        b.usd_disbursement_defl * dfl.deflator / 100 AS oda,
+        {% if deflate %}
+            b.usd_disbursement_defl * dfl.deflator / 100 AS oda,
+        {% else %}
+            b.usd_disbursement_defl AS oda,
+        {% endif %}
+
     FROM base b
     INNER JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor_name AND dfl.year = {{latest_year}}
 )

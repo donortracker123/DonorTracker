@@ -16,8 +16,13 @@ rio_totals AS (
         b.donor_name,
         b.year,
         dsf.sector_renamed,
-        sum(coalesce(b.usd_commitment_defl, 0) / 100 * dfl.deflator) AS bilateral_oda,
-        sum(sum(coalesce(b.usd_commitment_defl, 0) / 100 * dfl.deflator)) OVER (PARTITION BY b.donor_name, b.year) AS allocable_oda
+        {% if deflate %}
+            sum(coalesce(b.usd_commitment_defl, 0) / 100 * dfl.deflator) AS bilateral_oda,
+            sum(sum(coalesce(b.usd_commitment_defl, 0) / 100 * dfl.deflator)) OVER (PARTITION BY b.donor_name, b.year) AS allocable_oda
+        {% else %}
+            sum(coalesce(b.usd_commitment_defl, 0)) AS bilateral_oda,
+            sum(sum(coalesce(b.usd_commitment_defl, 0))) OVER (PARTITION BY b.donor_name, b.year) AS allocable_oda
+        {% endif %}
     FROM base b 
     LEFT JOIN "{{dt_sector_file}}" dsf ON dsf.sector_code = b.purposecode
     LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = b.donor_name AND dfl.year = {{latest_year}}

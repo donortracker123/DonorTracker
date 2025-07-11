@@ -62,7 +62,7 @@ dac1_totals AS (
     FROM "{{dac1_file}}"
     WHERE 1=1
     AND year BETWEEN ({{latest_year}} - 4) AND ({{latest_year}})
-    AND "Amount type" = 'Constant Prices (2022 USD millions)'
+    AND "Amount type" = 'Constant Prices ({{latest_year}} USD millions)'
     AND "Fund flows" = 'Gross Disbursements'
     AND "Donor_1" IN {{dac_countries}}
     AND "Aid type" = 'I. Official Development Assistance (ODA) (I.A + I.B)'
@@ -72,10 +72,17 @@ dac1_totals AS (
 deflated AS (
     SELECT 
         t.year,
-        sum(t.earmarked * dfl.deflator / 100) AS earmarked,
-        sum(t.bilateral * dfl.deflator / 100) AS bilateral,
-        sum(oct.sector_multilateral_oda * dfl.deflator / 100) AS sector_multilateral_oda,
-        sum(d1t.total_oda * coalesce(dfl.deflator, 1) / 100) AS total_oda
+        {% if deflate %}
+            sum(t.earmarked * dfl.deflator / 100) AS earmarked,
+            sum(t.bilateral * dfl.deflator / 100) AS bilateral,
+            sum(oct.sector_multilateral_oda * dfl.deflator / 100) AS sector_multilateral_oda,
+            sum(d1t.total_oda * coalesce(dfl.deflator, 1) / 100) AS total_oda
+        {% else %}
+            sum(t.earmarked) AS earmarked,
+            sum(t.bilateral) AS bilateral,
+            sum(oct.sector_multilateral_oda) AS sector_multilateral_oda,
+            sum(d1t.total_oda) AS total_oda
+        {% endif %}
     FROM transformed t 
     LEFT JOIN one_campaign_totals oct USING(donor_name, year)
     LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = t.donor_name AND dfl.year = {{latest_year}}

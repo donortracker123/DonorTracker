@@ -54,10 +54,17 @@ allocable_totals AS (
 deflated AS (
     SELECT 
         ct.year,
-        sum(ct.climate_principal * (dfl.deflator/100)) AS climate_principal,
-        sum(ct.climate_significant * (dfl.deflator/100)) AS climate_significant,
-        sum((ct.climate_principal + ct.climate_significant) * (dfl.deflator/100)) AS climate_funding,
-        sum(alt.allocable_oda) AS allocable_oda --Note: for some reason this was not deflated
+        {% if deflate %}
+            sum(ct.climate_principal * (dfl.deflator/100)) AS climate_principal,
+            sum(ct.climate_significant * (dfl.deflator/100)) AS climate_significant,
+            sum((ct.climate_principal + ct.climate_significant) * (dfl.deflator/100)) AS climate_funding,
+            sum(alt.allocable_oda * dfl.deflator/100) AS allocable_oda
+        {% else %}
+            sum(ct.climate_principal) AS climate_principal,
+            sum(ct.climate_significant) AS climate_significant,
+            sum((ct.climate_principal + ct.climate_significant)) AS climate_funding,
+            sum(alt.allocable_oda) AS allocable_oda
+        {% endif %}
     FROM crs_totals ct
     LEFT JOIN allocable_totals alt USING (donor_name, year)
     LEFT JOIN "{{deflator_file}}" dfl ON dfl.donor = ct.donor_name AND dfl.year = {{latest_year}}

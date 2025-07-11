@@ -19,8 +19,13 @@ crs_totals AS (
     SELECT 
         b.year,
         dsf.sector_renamed,
-        sum(coalesce(b.usd_disbursement_defl, 0) / 100 * dfl.deflator) AS bilateral_oda,
-        sum(sum(coalesce(b.usd_disbursement_defl, 0) / 100 * dfl.deflator)) OVER (PARTITION BY b.year) AS total_oda,
+        {% if deflate %}
+            sum(coalesce(b.usd_disbursement_defl, 0) / 100 * dfl.deflator) AS bilateral_oda,
+            sum(sum(coalesce(b.usd_disbursement_defl, 0) / 100 * dfl.deflator)) OVER (PARTITION BY b.year) AS total_oda,
+        {% else %}
+            sum(coalesce(b.usd_disbursement_defl, 0)) AS bilateral_oda,
+            sum(sum(coalesce(b.usd_disbursement_defl, 0))) OVER (PARTITION BY b.year) AS total_oda,
+        {% endif %}
         row_number() OVER (PARTITION BY b.year ORDER BY bilateral_oda DESC) AS rn
     FROM base b 
     LEFT JOIN "{{dt_sector_file}}" dsf ON dsf.sector_code = b.purpose_code
