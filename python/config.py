@@ -22,6 +22,10 @@ DAC_COUNTRIES = tuple([
   "EU Institutions", "Latvia"
 ])
 
+ALLOCABLE_AID_CATEGORIES = tuple([
+  'A02', 'B01', 'B03', 'B031', 'B032', 'B033', 'B04', 'C01', 'D01', 'D02', 'E01'
+])
+
 SECTOR_MAPPING = {
   "ag": "Agriculture (incl. forestry, fishing, rural development)",
   "ed": "Education",

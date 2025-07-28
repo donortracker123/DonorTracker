@@ -1,15 +1,30 @@
+-- WITH base AS (
+--     SELECT
+--         "donornameE" AS donor_name,
+--         "Year" AS year,
+--         greatest(coalesce("climateMitigation", -1), coalesce("climateAdaptation", -1)) AS climate_total,
+--         purposecode,
+--         usd_commitment_defl
+--     FROM read_csv_auto("{{climate_riomarkers_file}}", delim='|', header=True)
+--     WHERE "Year" BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
+--     AND donor_name IN {{dac_countries}}
+--     AND "Markers" = 20
+-- ), 
 WITH base AS (
     SELECT
-        "donornameE" AS donor_name,
-        "Year" AS year,
-        greatest(coalesce("climateMitigation", -1), coalesce("climateAdaptation", -1)) AS climate_total,
-        purposecode,
+        donor_name,
+        year,
+        climate_mitigation,
+        climate_adaptation,
+        purpose_code AS purposecode,
+        greatest(climate_mitigation, climate_adaptation) climate_total, 
         usd_commitment_defl
-    FROM read_csv_auto("{{climate_riomarkers_file}}", delim='|', header=True)
-    WHERE "Year" BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
+    FROM "{{crs_file}}"
+    WHERE year BETWEEN ({{latest_year}} - 1) AND ({{latest_year}})
     AND donor_name IN {{dac_countries}}
-    AND "Markers" = 20
-), 
+    AND aid_t IN {{allocable_aid_categories}}
+    AND category = 10
+),
 
 rio_totals AS (
     SELECT 
